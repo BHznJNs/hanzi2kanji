@@ -1,6 +1,5 @@
-import { LitElement, PropertyValues, css, html } from 'lit'
+import { LitElement, css, html } from 'lit'
 import { customElement } from 'lit/decorators.js'
-import { createRef, Ref, ref } from 'lit/directives/ref.js'
 import debounce from '../utils/debounce.js'
 import { imgDarkInvert } from '../global-css.js'
 
