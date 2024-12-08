@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256mm"
+   height="256mm"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.8359833"
+     inkscape:cx="498.21569"
+     inkscape:cy="531.11109"
+     inkscape:window-width="2240"
+     inkscape:window-height="1276"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="128.64663"
+       y="97.536005"
+       width="644.16272"
+       height="758.71506"
+       id="rect1321" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       id="rect457"
+       width="256"
+       height="256"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.280391"
+       id="rect4324"
+       width="256"
+       height="128"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,8.7168431,0.09339091)"
+       id="text1319"
+       style="font-size:640px;white-space:pre;shape-inside:url(#rect1321);display:inline;fill:#333333;fill-opacity:1"><tspan
+         x="128.64648"
+         y="681.42656"
+         id="tspan1217"><tspan
+           style="font-weight:bold;font-family:'微软雅黑';-inkscape-font-specification:'微软雅黑 Bold'"
+           id="tspan1215">漢</tspan></tspan></text>
+    <g
+       aria-label="汉"
+       id="text1140"
+       style="font-weight:bold;font-size:169.333px;font-family:'微软雅黑';-inkscape-font-specification:'微软雅黑 Bold';fill:#ffffff;stroke-width:0.264583">
+      <path
+         id="path1196"
+         d="M 116.94428 128.01079 C 121.28648 136.92097 126.12758 145.00076 131.4726 152.24239 C 118.35371 163.32178 102.28569 173.40908 83.268819 182.50411 C 89.77314 190.11086 95.064839 197.38694 99.143819 204.33223 C 118.87727 193.96941 135.44139 182.9726 148.83588 171.342 C 161.73428 183.08284 176.92034 193.19771 194.39382 201.6864 C 198.80353 194.18989 204.15035 186.58308 210.43418 178.86608 C 192.62998 171.4247 177.96757 162.82569 166.4472 153.06921 C 172.38028 145.5748 177.62558 137.21894 182.19043 128.01079 L 153.57771 128.01079 C 152.11283 130.21442 150.58738 132.3388 149.00124 134.38301 C 147.46843 132.32564 145.99057 130.2012 144.56637 128.01079 L 116.94428 128.01079 z M 68.220642 132.23327 C 61.27535 155.93546 54.16463 176.77152 46.888611 194.74108 C 54.274873 197.05618 61.771446 199.64691 69.378194 202.51322 L 90.048767 140.83223 C 83.434204 138.73762 76.158118 135.87128 68.220642 132.23327 z " />
+    </g>
+  </g>
+</svg>
