@@ -2,6 +2,8 @@ import { LitElement, css, html } from 'lit'
 import { customElement } from 'lit/decorators.js'
 import debounce from '../utils/debounce.js'
 import { imgDarkInvert } from '../global-css.js'
+import { ref, Ref } from 'lit/directives/ref.js'
+import searchEventFactory from '../factories/searchEventFactory.js'
 
 @customElement('input-box')
 export class InputBox extends LitElement {
@@ -10,9 +12,14 @@ export class InputBox extends LitElement {
       display: flex;
       align-items: center;
       gap: 1.2rem;
+      padding: 1rem;
       margin-bottom: 8rem;
       justify-self: center;
       align-self: center;
+      transition: margin .6s;
+    }
+    :host([show-result]) {
+      margin-bottom: 0;
     }
 
     .input-wrapper {
@@ -26,11 +33,15 @@ export class InputBox extends LitElement {
       box-shadow: var(--shadow-sm);
       border-radius: 1.5rem;
       overflow: hidden;
+      transition: box-shadow .3s;
     }
-  
+
+    .input-wrapper:hover {
+      background-color: var(--search-box-hovered-color);
+    }
     .input-wrapper:focus-within {
       box-shadow: var(--shadow-md-1);
-      background-color: var(--search-box-hovered-color);
+      background-color: var(--search-box-focused-color);
     }
 
     input {
@@ -67,26 +78,30 @@ export class InputBox extends LitElement {
     }
   `, imgDarkInvert]
 
-  searchQuery = ''
-  inputHandler(e: InputEvent) {
-    this.searchQuery = (e.target as HTMLInputElement).value
-  }
+  private inputRef: Ref<HTMLInputElement> = ref()
+  private debouncedInputHandler = debounce(() => {
+    const cjCharPattern = /^[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}]+$/u
+    const searchQuery = this.inputRef.value!.value
+    if (!cjCharPattern.test(searchQuery)) return
+    this.dispatchEvent(searchEventFactory(searchQuery))
+  }, 100)
 
   render() {
     return html`
-    <div class="logo">
-      <img src="/favicon.svg" />
-    </div>
-    <div class="input-wrapper">
-      <span class="icon">
-        <img class="dark-invert" src="/search.svg" />
-      </span>
-      <input
-        @input="${debounce(this.inputHandler, 1000)}"
-        type="search" 
-        placeholder="在此输入要搜索的汉字"
-      />
-    </div>
+      <div class="logo">
+        <img src="/favicon.svg" />
+      </div>
+      <div class="input-wrapper">
+        <span class="icon">
+          <img class="dark-invert" src="/search.svg" />
+        </span>
+        <input
+          type="search"
+          placeholder="在此输入要搜索的汉字"
+          ${ref(this.inputRef)}
+          @input="${this.debouncedInputHandler}"
+        />
+      </div>
     `
   }
 }

@@ -1,51 +1,73 @@
-export type ThemeToggleCallback = { (arg: boolean): any }
+export type ThemeToggleCallback = { (arg: Theme): any }
+export enum Theme { light, dark, auto }
+
+export const themeNameMap = new Map([
+  [Theme.light, '日间'],
+  [Theme.dark,  '夜间'],
+  [Theme.auto,  '自动'],
+])
+
+function bodyClassToggler(theme: Theme) {
+  function bodyClassSetter(isDarkTheme: boolean) {
+    document.body.classList.toggle('dark' ,  isDarkTheme)
+    document.body.classList.toggle('light', !isDarkTheme)
+  }
+  if (theme === Theme.auto) {
+    bodyClassSetter(ThemeController.isPreferedDarkTheme)
+  } else {
+    bodyClassSetter(theme === Theme.dark)
+  }
+}
 
 class ThemeController {
   static darkModeMediaQuery = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)")
-  themeToggleCallbacks: Array<ThemeToggleCallback> = []
-  isActualDarkTheme = false
+  themeToggleCallbacks: Array<ThemeToggleCallback> = [bodyClassToggler]
+  theme = (Number(localStorage.getItem('theme')) || Theme.auto) as Theme
 
   constructor() {
     if (!ThemeController.darkModeMediaQuery) return
     ThemeController.darkModeMediaQuery
-      .addEventListener('change', this.darkModeToggleHandler)
-    this.darkModeToggleHandler()
-    this.isActualDarkTheme = this.isPreferedDarkTheme
+      .addEventListener('change', () => this.systemThemeToggleCallback())
+    this.systemThemeToggleCallback()
+    window.addEventListener('beforeunload', () => localStorage.setItem('theme', this.theme.toString()))
   }
 
-  public get isPreferedDarkTheme() : boolean {
+  public static get isPreferedDarkTheme() : boolean {
     return ThemeController.darkModeMediaQuery.matches
   }
 
-  manuallyToggle(force = !this.isActualDarkTheme) {
-    this.isActualDarkTheme = force
+  manuallyToggle(force?: Theme) {
+    if (force === undefined) {
+      force = (this.theme + 1) % 3
+    }
+    this.theme = force
     for (const callback of this.themeToggleCallbacks) {
       callback(force)
     }
   }
 
-  darkModeToggleHandler() {
-    const isDarkMode = this.isPreferedDarkTheme
-    this.isActualDarkTheme = isDarkMode
+  systemThemeToggleCallback() {
     for (const callback of this.themeToggleCallbacks) {
-      callback(isDarkMode)
+      callback(this.theme)
     }
   }
 }
 
 const instance = new ThemeController()
+window.addEventListener('load', () => toggleTheme(instance.theme))
 
-appendThemeToggleCallback(isDarkMode => {
-  document.body.classList.toggle("dark", isDarkMode)
-})
-
-export function isDarkMode(): boolean {
-  return instance.isActualDarkTheme
+export function getTheme(): Theme {
+  return instance.theme
 }
 
-export function toggleTheme(force?: boolean): boolean {
+export function isDarkTheme(): boolean {
+  return instance.theme === Theme.dark ||
+        (instance.theme === Theme.auto && ThemeController.isPreferedDarkTheme)
+}
+
+export function toggleTheme(force?: Theme): Theme {
   instance.manuallyToggle(force)
-  return instance.isActualDarkTheme
+  return instance.theme
 }
 
 export function appendThemeToggleCallback(callback: ThemeToggleCallback) {
