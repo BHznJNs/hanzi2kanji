@@ -22,14 +22,15 @@ function bodyClassToggler(theme: Theme) {
 class ThemeController {
   static darkModeMediaQuery = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)")
   themeToggleCallbacks: Array<ThemeToggleCallback> = [bodyClassToggler]
-  theme = (Number(localStorage.getItem('theme')) || Theme.auto) as Theme
+  theme = (Number(localStorage.getItem('theme')) ?? Theme.auto) as Theme
 
   constructor() {
     if (!ThemeController.darkModeMediaQuery) return
     ThemeController.darkModeMediaQuery
       .addEventListener('change', () => this.systemThemeToggleCallback())
     this.systemThemeToggleCallback()
-    window.addEventListener('beforeunload', () => localStorage.setItem('theme', this.theme.toString()))
+    window.addEventListener('beforeunload', () =>
+      localStorage.setItem('theme', this.theme.toString()))
   }
 
   public static get isPreferedDarkTheme() : boolean {

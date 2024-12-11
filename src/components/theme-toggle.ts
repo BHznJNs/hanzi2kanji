@@ -12,8 +12,8 @@ export class ThemeToggle extends LitElement {
   button {
     position: relative;
     padding: .4rem .6rem;
-    background: var(--btn-bg-color);
-    border: 2px solid var(--btn-bd-color);
+    background: var(--theme-toggle-bg-color);
+    border: 2px solid var(--theme-toggle-bd-color);
     border-radius: 4px;
     display: flex;
     justify-content: center;
@@ -23,7 +23,7 @@ export class ThemeToggle extends LitElement {
   }
 
   button:hover {
-    background-color: var(--hovered-bg-color);
+    background-color: var(--theme-toggle-hovered-bg-color);
   }
   button:focus-visible {
     outline: var(--outline-style);

@@ -7,21 +7,49 @@ export const imgDarkInvert = css`
 `
 
 export const linkStyles = css`
-  a {
+  a.link {
     font-family: var(--text-font);
     text-decoration: none;
   }
-  a::before {
+  a.link::before {
     content: "🔗"
   }
-  a:active {
+  a.link:active {
     opacity: .8;
   }
-  a:link {
+  a.link:link {
     color: var(--default-link-unvisited-color);
   }
-  a:visited {
+  a.link:visited {
     color: var(--default-link-visited-color);
+  }
+  a.link:focus-visible {
+    outline: var(--outline-style);
+  }
+`
+
+export const actionBtnStyles = css`
+  .action-btn {
+    padding: 0.4rem 0.6rem;
+    font-size: 0.875rem;
+    background-color: var(--action-btn-bg-color);
+    color: #374151;
+    cursor: pointer;
+    border: none;
+    border-radius: 0.375rem;
+    user-select: none;
+    text-decoration: none;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+  .action-btn:hover {
+    background-color: var(--action-btn-hovered-bg-color);
+  }
+  .action-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  .action-btn:focus-visible {
+    outline: var(--outline-style);
   }
 `
 
