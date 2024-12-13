@@ -11,62 +11,68 @@
 
 body.light {
     --default-tx-color: #333;
-    --placeholder-color: #999;
     --hovered-tx-color: #000;
+    --placeholder-color: #999;
 
     --default-bg-color: #fff;
+    --allpage-bg-color: #f7f7f7;
+
     --search-box-color: #fff;
     --search-box-bd-color: #dfe1e5;
     --search-box-hovered-color: #fff;
     --search-box-focused-color: #fff;
 
-    --allpage-bg-color: #f7f7f7;
-
-    --theme-toggle-bd-color: #eee;
-    --theme-toggle-hovered-bg-color: #eee;
-    --theme-toggle-bg-color: #fff;
+    --normal-btn-bd-color: #eee;
+    --normal-btn-bg-color: #fff;
+    --normal-btn-hovered-bg-color: #eee;
     --action-btn-bg-color: #f3f4f6;
     --action-btn-hovered-bg-color: #e5e7eb;
 
+    --dropdown-bd-color: transparent;
+    --dropdown-bg-color: #fff;
+    --dropdown-hovered-bg-color: #eee;
+
     --character-bd-color: transparent;
     --character-bg-color: #fff;
-
-    --shallow-bd-color: #e0e0e0;
-    --deep-bd-color: #9e9e9e;
-    --outline-color: #333;
+    --character-crossing-color: #e5e7eb;
 
     --default-link-unvisited-color: #1976D2;
     --default-link-visited-color: #ff1493;
-
+    
+    --outline-color: #333;
     --img-filter: invert(0);
 }
 
 body.dark {
     --default-tx-color: #f7f7f7;
-    --placeholder-color: #999;
     --hovered-tx-color: #fff;
+    --placeholder-color: #999;
 
-    --default-bg-color: #35383b;
+    --default-bg-color: #303134;
+    --allpage-bg-color: #202124;
+
     --search-box-color: #4d5156;
     --search-box-bd-color: #4d5156;
     --search-box-hovered-color: #5f6368;
     --search-box-focused-color: #303134;
 
-    --hovered-bg-color: #333;
-    --allpage-bg-color: #202124;
+    --normal-btn-bd-color: #333;
+    --normal-btn-bg-color: #09090b;
+    --normal-btn-hovered-bg-color: #202124;
+    --action-btn-bg-color: #252528;
+    --action-btn-hovered-bg-color: #3d3e42;
 
-    --theme-toggle-bd-color: #333;
-    --theme-toggle-bg-color: #000;
+    --dropdown-bd-color: #333;
+    --dropdown-bg-color: #09090b;
+    --dropdown-hovered-bg-color: #202124;
 
-    --character-bd-color: #bdbdbd;
-    --character-bg-color: #5f6368;
-
-    --shallow-bd-color: #616161;
-    --deep-bd-color: #bdbdbd;
-    --outline-color: #f7f7f7;
+    --character-bd-color: #676a74;
+    --character-bg-color: #43454c;
+    --character-crossing-color: rgb(103, 106, 116);
 
     --default-link-unvisited-color: #82c3f8;
     --default-link-visited-color: #ff69b4;
-
+    
+    --outline-color: #f7f7f7;
     --img-filter: invert(1);
 }

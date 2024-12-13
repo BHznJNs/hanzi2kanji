@@ -28,12 +28,29 @@ export const linkStyles = css`
   }
 `
 
+export const normalBtnStyles = css`
+  button.normal {
+    background: var(--normal-btn-bg-color);
+    border: 2px solid var(--normal-btn-bd-color);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color .3s,
+                border-color .3s;
+  }
+  button.normal:hover {
+    background-color: var(--normal-btn-hovered-bg-color);
+  }
+  button.normal:focus-visible {
+    outline: var(--outline-style);
+  }
+`
+
 export const actionBtnStyles = css`
   .action-btn {
     padding: 0.4rem 0.6rem;
     font-size: 0.875rem;
     background-color: var(--action-btn-bg-color);
-    color: #374151;
+    color: var(--default-tx-color);
     cursor: pointer;
     border: none;
     border-radius: 0.375rem;

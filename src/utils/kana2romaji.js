@@ -213,7 +213,6 @@ export default function kana2romaji(string) {
         triCheck[tmp[0] + tmp[1]] = true;
         biCheck[tmp[0]] = true; 
     }
-    
 
 	var buf = '';
 	for(var i = 0; i < arrayedString.length ; i++){

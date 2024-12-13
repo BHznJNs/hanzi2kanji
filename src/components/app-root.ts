@@ -1,50 +1,50 @@
 import { LitElement, css, html } from 'lit'
-import { customElement } from 'lit/decorators.js'
-import { InputBox } from './input-box'
+import { customElement, property } from 'lit/decorators.js'
 import { Ref, ref } from 'lit/directives/ref.js'
 import { ResultView } from './result-view'
 import searchEventFactory from '../factories/searchEventFactory'
 
+export const showResultProperty = {type: Boolean, attribute: 'show-result', reflect: true}
+
 @customElement('app-root')
 export class AppRoot extends LitElement {
   static styles = css`
-    #root {
+    :host {
       display: grid;
+      row-gap: .5rem;
+      grid-template-rows: auto 0fr;
       width: 100vw;
       height: 100vh;
       overflow: hidden;
       background-color: var(--allpage-bg-color);
-      grid-template-rows: auto 0fr;
       transition: grid-template-rows .6s;
     }
-    :host([show-result]) #root {
+    :host([show-result]) {
       grid-template-rows: auto 1fr;
     }
   `
 
-  inputBoxRef: Ref<InputBox> = ref()
-  resultViewRef: Ref<ResultView> = ref()
+  @property(showResultProperty)
+  private showResult = false
+  private resultViewRef: Ref<ResultView> = ref()
 
   private handleSearchEvent(event: CustomEvent) {
     const { searchQuery } = event.detail
     this.resultViewRef.value!.dispatchEvent(searchEventFactory(searchQuery))
-
-    this.setAttribute("show-result", "")
-    this.inputBoxRef.value!.setAttribute("show-result", "")
+    this.showResult = true
   }
 
   render() {
     return html`
-      <div id="root">
-        <nav-bar></nav-bar>
-        <input-box
-          ${ref(this.inputBoxRef)}
-          @search=${this.handleSearchEvent}
-        ></input-box>
-        <result-view
-          ${ref(this.resultViewRef)}
-        ></result-view>
-      </div>
+      <nav-bar .showResult=${this.showResult}></nav-bar>
+      <input-box
+        .showResult=${this.showResult}
+        @search=${this.handleSearchEvent}
+      ></input-box>
+      <result-view
+        ${ref(this.resultViewRef)}
+        .showResult=${this.showResult}
+      ></result-view>
     `
   }
 }

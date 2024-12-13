@@ -1,7 +1,7 @@
 import { LitElement, css, html } from 'lit'
-import { customElement, property } from 'lit/decorators.js'
+import { customElement, property, state } from 'lit/decorators.js'
 import * as themeController from '../themeController.ts'
-import { imgDarkInvert } from '../global-css.ts'
+import { imgDarkInvert, normalBtnStyles } from '../global-css.ts'
 
 @customElement('theme-toggle')
 export class ThemeToggle extends LitElement {
@@ -12,30 +12,35 @@ export class ThemeToggle extends LitElement {
   button {
     position: relative;
     padding: .4rem .6rem;
-    background: var(--theme-toggle-bg-color);
-    border: 2px solid var(--theme-toggle-bd-color);
-    border-radius: 4px;
     display: flex;
     justify-content: center;
     align-items: center;
-    cursor: pointer;
-    transition: background-color .3s, border-color .3s;
+    transition: background-color .3s,
+                border-color .3s,
+                padding .3s .3s,
+                font-size .3s 3s !important;
   }
-
-  button:hover {
-    background-color: var(--theme-toggle-hovered-bg-color);
-  }
-  button:focus-visible {
-    outline: var(--outline-style);
+  :host([expand]) button {
+    padding: .6rem .75rem;
+    font-size: .875rem;
   }
 
   .icon-light,
   .icon-dark,
   .icon-auto {
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
     transform: rotate(-90deg) scale(0);
-    transition: all 0.3s ease;
+    transition: transform .3s,
+                width .3s .3s,
+                height .3s .3s;
+  }
+
+  :host([expand]) .icon-light,
+  :host([expand]) .icon-dark,
+  :host([expand]) .icon-auto {
+    width: 18px;
+    height: 18px
   }
 
   .icon-light {
@@ -60,10 +65,14 @@ export class ThemeToggle extends LitElement {
     color: var(--default-tx-color);
     margin-left: .4rem;
     transition: color .3s;
-  }`, imgDarkInvert]
+  }`, normalBtnStyles, imgDarkInvert]
 
-  @property({type: String})
-  themeName = themeController.themeNameMap.get(themeController.getTheme())
+  @property({type: Boolean, reflect: true})
+  /** @ts-ignored */
+  private expand = false
+
+  @state()
+  private themeName = themeController.themeNameMap.get(themeController.getTheme())
 
   constructor() {
     super()
@@ -81,12 +90,12 @@ export class ThemeToggle extends LitElement {
 
   render() {
     return html`
-    <button @click=${this.toggleTheme}>
-      <img class="icon-light dark-invert" src="/light_mode.svg" />
-      <img class="icon-dark dark-invert"  src="/dark_mode.svg" />
-      <img class="icon-auto dark-invert"  src="/auto_mode.svg" />
-      <span class="mode-name">${ this.themeName }</span>
-    </button>
+      <button class="normal" @click=${this.toggleTheme}>
+        <img class="icon-light dark-invert" src="/light_mode.svg" />
+        <img class="icon-dark dark-invert"  src="/dark_mode.svg" />
+        <img class="icon-auto dark-invert"  src="/auto_mode.svg" />
+        <span class="mode-name">${ this.themeName }</span>
+      </button>
     `
   }
 }

@@ -1,11 +1,12 @@
 import { LitElement, css, html } from 'lit'
-import { customElement, property } from 'lit/decorators.js'
+import { customElement, property, state } from 'lit/decorators.js'
 import { Task } from '@lit/task'
+import { unsafeHTML } from 'lit/directives/unsafe-html.js'
+import { showResultProperty } from './app-root'
+import { actionBtnStyles, linkStyles, rubyStyles } from '../global-css'
 import charToUtf16beHex from '../utils/charToUtf16beHex'
 import { dictionary } from '../utils/loadDictionary'
 import kana2romaji from '../utils/kana2romaji'
-import { unsafeHTML } from 'lit/directives/unsafe-html.js'
-import { actionBtnStyles, linkStyles, rubyStyles } from '../global-css'
 
 const SEARCH_NOT_FOUND = null
 
@@ -65,12 +66,12 @@ export class ResultItem extends LitElement {
     .horizontal-line {
       width: 100%;
       height: 2px;
-      background-color: var(--character-bd-color);
+      background-color: var(--character-crossing-color);
     }
     .vertical-line {
       width: 2px;
       height: 100%;
-      background-color: #e5e7eb;
+      background-color: var(--character-crossing-color);
     }
     .character {
       position: relative;
@@ -91,6 +92,7 @@ export class ResultItem extends LitElement {
       display: flex;
       gap: 1rem;
       flex-wrap: wrap;
+      align-items: baseline;
       height: fit-content;
     }
 
@@ -147,16 +149,16 @@ export class ResultItem extends LitElement {
           </div>
           <div class="character-actions">
             <a class="action-btn" target="blank_" href="https://kanji.jitenon.jp/cat/search?getdata=${charToUtf16beHex(this.character)}&search=contain&how=漢字">📖 字典</a>
-            <button class="action-btn" @click="${this.copyCharacter}">📋 复制</button>
+            <button class="action-btn" @click=${this.copyCharacter}>📋 复制</button>
           </div>
         </div>
 
         <div class="informations">
           ${this.loadPronunciation.render({
-            pending: () => html``,
+            pending: () => html`<p>加载中...</p>`,
             complete: (pronunciations: PronunciationData) => html`
-              <div class="kun">训读：${pronunciations.kun ? unsafeHTML(pronunciations.kun.map(this.rubyElementFactory).join('、')) : '無'}</div>
-              <div class="on">音读：${pronunciations.on ? unsafeHTML(pronunciations.on.map(this.rubyElementFactory).join('、')) : '無'}</div>
+              <div class="on" >音読：${pronunciations.on  ? unsafeHTML(pronunciations.on .map(this.rubyElementFactory).join('、')) : '無'}</div>
+              <div class="kun">訓読：${pronunciations.kun ? unsafeHTML(pronunciations.kun.map(this.rubyElementFactory).join('、')) : '無'}</div>
             `,
             error: () => html`<p>发音信息加载失败，请重试。</p>`
           })}
@@ -166,7 +168,8 @@ export class ResultItem extends LitElement {
       <div class="external-links">
         <a class="link" target="blank_" href="https://www.japandict.com/?s=${this.character}">JapanDict 搜索：${this.character}</a>
         <a class="link" target="blank_" href="https://www.weblio.jp/content/${this.character}">Weblio辞書 搜索：${this.character}</a>
-        <a class="link" target="blank_" href="https://jisho.org/search/${this.character}">Jisho 搜索：${this.character}</a>
+        <a class="link" target="blank_" href="https://jisho.org/search/%23kanji${this.character}">Jisho 搜索：${this.character}</a>
+        <a class="link" target="blank_" href="https://www.wanikani.com/kanji/${this.character}">WaniKani 搜索：${this.character}</a>
         <a class="link" target="blank_" href="https://takoboto.jp/?q=${this.character}">TAKOBOTO 搜索：${this.character}</a>
         <a class="link" target="blank_" href="https://app.kanjialive.com/${this.character}">Kanji alive 搜索：${this.character}</a>
         <a class="link" target="blank_" href="https://dictionary.goo.ne.jp/srch/all/${this.character}/m0u/">goo辞書 搜索：${this.character}</a>
@@ -179,7 +182,7 @@ export class ResultItem extends LitElement {
 export class ResultView extends LitElement {
   static styles = css`
     :host {
-      padding: 0 4rem 4rem;
+      padding: 0 4rem 2rem;
       overflow: hidden;
       color: var(--default-tx-color);
       font-family: var(--text-font);
@@ -190,7 +193,7 @@ export class ResultView extends LitElement {
       background-color: var(--default-bg-color);
       border-radius: .6rem;
       overflow: hidden;
-      box-shadow: var(--shadow-sm);
+      box-shadow: var(--shadow-md-2);
     }
     .scroll-view {
       width: 100%;
@@ -222,9 +225,14 @@ export class ResultView extends LitElement {
     super.disconnectedCallback()
   }
 
-  lastSearched: string = ''
-  @property({type: Array})
-  searchResult: string[] | typeof SEARCH_NOT_FOUND = []
+  @state()
+  private lastSearched: string = ''
+  @state()
+  private searchResult: string[] | typeof SEARCH_NOT_FOUND = []
+  @property(showResultProperty)
+  /** @ts-ignored */
+  private showResult = false
+
   private searchEventHandler(event: CustomEvent) {
     const { searchQuery } = event.detail
     if (searchQuery === this.lastSearched) return
@@ -247,7 +255,6 @@ export class ResultView extends LitElement {
             (this.searchResult === SEARCH_NOT_FOUND) 
              ? notFound
              : this.searchResult.map(ch => html`<result-item character="${ch}" />`)
-            //  : this.searchResult.map(charResultFactory)
           }
         </div>
       </div>
