@@ -12,7 +12,7 @@ export class NavBar extends LitElement {
       gap: .4rem;
       transform: translateX(-1rem) translateY(.6rem);
       z-index: 1;
-      transition: transform .3s .3s;
+      transition: transform .45s .25s;
     }
     :host([show-result]) {
       transform: translateX(-1rem) translateY(1rem);
@@ -24,6 +24,7 @@ export class NavBar extends LitElement {
 
   render() {
     return html`
+      <notation-toggle .expand=${this.showResult}></notation-toggle>
       <theme-toggle .expand=${this.showResult}></theme-toggle>
       <drop-down .expand=${this.showResult}></drop-down>
     `

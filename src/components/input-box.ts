@@ -1,10 +1,10 @@
 import { LitElement, css, html } from 'lit'
 import { customElement, property } from 'lit/decorators.js'
-import debounce from '../utils/debounce.js'
-import { imgDarkInvert } from '../global-css.js'
 import { ref, Ref } from 'lit/directives/ref.js'
-import searchEventFactory from '../factories/searchEventFactory.js'
-import { showResultProperty } from './app-root.js'
+import { imgDarkInvert } from '../global-css'
+import { showResultProperty } from './app-root'
+import debounce from '../utils/debounce.js'
+import { SearchEvent } from '../utils/events'
 
 @customElement('input-box')
 export class InputBox extends LitElement {
@@ -18,11 +18,13 @@ export class InputBox extends LitElement {
       justify-self: center;
       align-self: center;
       transition: margin .6s,
-                  grid-template-columns .3s .3s;
+                  grid-template-columns .45s;
     }
     :host([show-result]) {
       margin-bottom: 0;
       grid-template-columns: auto 1fr;
+      transition: margin .6s,
+                  grid-template-columns .45s .25s;
     }
 
     .container {
@@ -98,8 +100,8 @@ export class InputBox extends LitElement {
       background-color: transparent;
       border: none;
       outline: none;
-      transition: max-width .3s,
-                  padding .3s;
+      transition: max-width .45s,
+                  padding .45s;
     }
     input::placeholder {
       color: var(--placeholder-color);
@@ -125,12 +127,12 @@ export class InputBox extends LitElement {
     const cjCharPattern = /^[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}]+$/u
     const searchQuery = this.inputRef.value!.value
     if (!cjCharPattern.test(searchQuery)) return
-    this.dispatchEvent(searchEventFactory(searchQuery))
+    this.dispatchEvent(new SearchEvent(searchQuery))
   }, 100)
 
-  // debug
-  firstUpdated() {
-    this.dispatchEvent(searchEventFactory("飞"))
+  private clear() {
+    this.inputRef.value!.value = ''
+    this.dispatchEvent(new CustomEvent("clear"))
   }
 
   render() {
@@ -150,7 +152,7 @@ export class InputBox extends LitElement {
             ${ref(this.inputRef)}
             @input=${this.debouncedInputHandler}
           />
-          <button class="icon clear">
+          <button class="icon clear" @click=${this.clear}>
             <img class="dark-invert" src="/clear.svg" />
           </button>
         </div>

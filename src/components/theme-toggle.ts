@@ -6,9 +6,6 @@ import { imgDarkInvert, normalBtnStyles } from '../global-css.ts'
 @customElement('theme-toggle')
 export class ThemeToggle extends LitElement {
   static styles = [css`
-  :host {
-    margin-left: .5rem;
-  }
   button {
     position: relative;
     padding: .4rem .6rem;
@@ -18,7 +15,7 @@ export class ThemeToggle extends LitElement {
     transition: background-color .3s,
                 border-color .3s,
                 padding .3s .3s,
-                font-size .3s 3s !important;
+                font-size .3s .3s !important;
   }
   :host([expand]) button {
     padding: .6rem .75rem;

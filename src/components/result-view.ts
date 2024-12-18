@@ -1,12 +1,14 @@
 import { LitElement, css, html } from 'lit'
 import { customElement, property, state } from 'lit/decorators.js'
 import { Task } from '@lit/task'
-import { unsafeHTML } from 'lit/directives/unsafe-html.js'
+import { unsafeHTML, UnsafeHTMLDirective } from 'lit/directives/unsafe-html.js'
 import { showResultProperty } from './app-root'
 import { actionBtnStyles, imgDarkInvert, linkStyles, rubyStyles } from '../global-css'
 import charToUtf16beHex from '../utils/charToUtf16beHex'
 import { dictionary } from '../utils/loadDictionary'
 import { furigana2ruby, kana2ruby, rubyFactory } from '../utils/toRuby'
+import { DirectiveResult } from 'lit/async-directive.js'
+import kana2romaji from '../utils/kana2romaji'
 
 const SEARCH_NOT_FOUND = null
 
@@ -175,6 +177,11 @@ export class ResultItem extends LitElement {
   /** @ts-ignored */
   private showMoreSentence = false
 
+  @property({type: Boolean})
+  public hiraganaMode = false
+  @property({type: Boolean})
+  public romajiMode = false
+
   private loadCharData = new Task(this, {
     task: async ([character], {signal}) => {
       const res = await fetch(`/characters/${character}.json`, { signal })
@@ -188,6 +195,31 @@ export class ResultItem extends LitElement {
   private copyCharacter() {
     navigator.clipboard.writeText(this.character)
   }
+
+  // [普通|ふ|つう]、アマチュアでは250ヤード[飛|と]べばすごい[飛距離|ひ|きょ|り]だと[言|い]われます。
+  // [
+  //   {
+  //     "text": "普通",
+  //     "reading": "ふつう",
+  //   },
+  //   {
+  //     "text": "、",
+  //     // 标点无需读音
+  //   },
+  //   {
+  //     "text": "アマチュアでは",
+  //     "reading": "アマチュアでは",
+  //   },
+  //   {
+  //     "text": "250",
+  //     // 数字无需读音
+  //   },
+  //   {
+  //     "text": "ヤード",
+  //     "reading": "ヤード",
+  //   }
+  //   // ...
+  // ]
 
   render() {
     return html`
@@ -210,40 +242,76 @@ export class ResultItem extends LitElement {
             complete: (data: CharacterData) => {
               const fallbackText = '無'
               const splitText = '、'
-              const pronunciationOn  = data.on  ? unsafeHTML(data.on .map(kana2ruby).join(splitText)) : fallbackText
-              const pronunciationKun = data.kun ? unsafeHTML(data.kun.map(kana2ruby).join(splitText)) : fallbackText
-              const usages = data.usages ? unsafeHTML(data.usages.map(({slug, japanese: [{ reading }]}) =>
-                `<span class="usage-item">${rubyFactory(slug, reading)}</span>
-              `).join('')) : fallbackText
-              const sentences = data.sentences ? unsafeHTML(data.sentences.map(({furigana, translation_zh_CN}) => `
-                <div class="sentence">
-                  <div class="origin">${furigana2ruby(furigana)}</div>
-                  <div class="translation">${translation_zh_CN}</div>
-                </div>
-              `).join('')) : fallbackText
+              const kanasFactory = (kanas: string) => `<span>${kanas}</span>`
+              type TempHTML = string | DirectiveResult<typeof UnsafeHTMLDirective>
+              let pronunciationOn: TempHTML  = fallbackText
+              let pronunciationKun: TempHTML = fallbackText
+              if (data.on) {
+                if (this.hiraganaMode) {
+                  pronunciationOn = data.on.map(kanasFactory).join(splitText)
+                } else {
+                  pronunciationOn = data.on.map(kana2ruby).join(splitText)
+                }
+              }
+              if (data.kun) {
+                if (this.hiraganaMode) {
+                  pronunciationKun = data.on.map(kanasFactory).join(splitText)
+                } else {
+                  pronunciationKun = data.on.map(kana2ruby).join(splitText)
+                }
+              }
+              pronunciationOn = unsafeHTML(pronunciationOn as string)
+              pronunciationKun = unsafeHTML(pronunciationKun as string)
+
+              let usages: TempHTML = fallbackText
+              if (data.usages) {
+                usages = unsafeHTML(data.usages.map(({slug, japanese: [{ reading }]}) => {
+                  const kanaOrRomajiReading = this.hiraganaMode ? reading : kana2romaji(reading)
+                  return `
+                    <span class="usage-item">
+                      ${rubyFactory(slug, kanaOrRomajiReading)}
+                    </span>
+                  `
+                }).join(''))
+              }
+
+              let sentences: TempHTML = fallbackText
+              if (sentences) {
+                sentences = unsafeHTML(data.sentences.map(({furigana, translation_zh_CN}) => {
+                  return `
+                    <div class="sentence">
+                      <div class="origin">${furigana2ruby(furigana)}</div>
+                      <div class="translation">${translation_zh_CN}</div>
+                    </div>
+                  `
+                }).join(''))
+              }
               return html`
                 <div class="on" ><b>音読：</b>${pronunciationOn }</div>
                 <div class="kun"><b>訓読：</b>${pronunciationKun}</div>
                 <div class="usages">
                   <b>用法：</b>
                   ${usages}
-                  <div
-                    class="show-more-usage-btn"
-                    @click=${() => this.showMoreUsage = true}>
-                    展开更多 <img class="dark-invert" src="/down.svg" />
-                  </div>
+                  ${data.usages && data.usages.length > 4 && html`
+                    <div
+                      class="show-more-usage-btn"
+                      @click=${() => this.showMoreUsage = true}>
+                      展开更多 <img class="dark-invert" src="/down.svg" />
+                    </div>
+                  `}
                 </div>
                 <div class="sentences">
                   <b>例句：</b>
                   <div class="sentence-list">${sentences}</div>
-                  <div
-                    class="show-more-sentence-btn"
-                    @click=${() => this.showMoreSentence = true}>
-                    展开更多 <img class="dark-invert" src="/down.svg" />
-                  </div>
+                  ${data.sentences && data.sentences.length > 2 && html`
+                    <div
+                      class="show-more-sentence-btn"
+                      @click=${() => this.showMoreSentence = true}>
+                      展开更多 <img class="dark-invert" src="/down.svg" />
+                    </div>
+                  `}
                 </div>
-              `
-            },
+            `},
             error: () => html`<p>发音信息加载失败，请重试。</p>`
           })}
         </div>
@@ -324,6 +392,11 @@ export class ResultView extends LitElement {
   /** @ts-ignored */
   private showResult = false
 
+  @property({type: Boolean})
+  public hiraganaMode = false
+  @property({type: Boolean})
+  public romajiMode = false
+
   private searchEventHandler(event: CustomEvent) {
     const { searchQuery } = event.detail
     if (searchQuery === this.lastSearched) return
@@ -345,7 +418,13 @@ export class ResultView extends LitElement {
           ${
             (this.searchResult === SEARCH_NOT_FOUND) 
              ? notFound
-             : this.searchResult.map(ch => html`<result-item character="${ch}" />`)
+             : this.searchResult.map(ch => html`
+              <result-item
+                character=${ch}
+                .hiraganaMode=${this.hiraganaMode}
+                .romajiMode=${this.romajiMode}
+              ></result-item>
+            `)
           }
         </div>
       </div>

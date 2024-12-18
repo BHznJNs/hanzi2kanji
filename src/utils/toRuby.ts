@@ -1,6 +1,9 @@
 import kana2romaji from "./kana2romaji";
 
-export function rubyFactory(text: string, notation: string): string {
+export function rubyFactory(text: string, notation?: string): string {
+  if (notation === undefined) {
+    return `<span>${text}</span>`
+  }
   return `
     <ruby data-notation="${notation}">${text}
       <rp>(</rp>

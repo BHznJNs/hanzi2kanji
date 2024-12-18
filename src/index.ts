@@ -1,5 +1,6 @@
 import { AppRoot } from './components/app-root.ts'
 import { NavBar } from './components/nav-bar.ts'
+import { NotationToggle } from './components/notation-toggle.ts'
 import { ThemeToggle } from './components/theme-toggle.ts'
 import { InputBox } from './components/input-box.ts'
 import { ResultView } from './components/result-view.ts'
@@ -10,6 +11,7 @@ declare global {
     'app-root': AppRoot
     'nav-bar': NavBar
     'drop-down': DropDown
+    'notation-toggle': NotationToggle
     'theme-toggle': ThemeToggle
     'input-box': InputBox
     'result-view': ResultView
