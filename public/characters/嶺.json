@@ -95,5 +95,73 @@
       "startStroke": 15,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "嶺上開花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嶺上開花",
+          "reading": "リンシャンカイホウ"
+        },
+        {
+          "word": "嶺上開花",
+          "reading": "リンシャンカイホー"
+        }
+      ]
+    },
+    {
+      "slug": "嶺上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嶺上",
+          "reading": "れんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "峰桜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "峰桜",
+          "reading": "みねざくら"
+        },
+        {
+          "word": "嶺桜",
+          "reading": "みねざくら"
+        },
+        {
+          "reading": "ミネザクラ"
+        }
+      ]
+    },
+    {
+      "slug": "嶺上牌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嶺上牌",
+          "reading": "リンシャンパイ"
+        },
+        {
+          "word": "リンシャン牌",
+          "reading": "リンシャンパイ"
+        }
+      ]
+    },
+    {
+      "slug": "嶺颪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嶺颪",
+          "reading": "ねおろし"
+        }
+      ]
+    }
   ]
 }

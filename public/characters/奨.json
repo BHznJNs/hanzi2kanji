@@ -86,5 +86,157 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "私たちは想像力を使うように奨励されています。",
+      "furigana": "[私|わたし]たちは[想像|そう|ぞう][力|りょく]を[使|つか]うように[奨励|しょう|れい]されています。",
+      "translation_zh_CN": "我們被鼓勵使用想像力。"
+    },
+    {
+      "content": "学問は強いられるべきではない。学問は奨励されるべきだ。",
+      "furigana": "[学問|がく|もん]は[強|し]いられるべきではない。[学問|がく|もん]は[奨励|しょう|れい]されるべきだ。",
+      "translation_zh_CN": "学习不应被强加。学习应受到鼓励。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "奨学金",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "奨学金",
+          "reading": "しょうがくきん"
+        },
+        {
+          "word": "奨学金",
+          "reading": "しょうがっきん"
+        }
+      ]
+    },
+    {
+      "slug": "勧める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "勧める",
+          "reading": "すすめる"
+        },
+        {
+          "word": "薦める",
+          "reading": "すすめる"
+        },
+        {
+          "word": "奨める",
+          "reading": "すすめる"
+        }
+      ]
+    },
+    {
+      "slug": "奨励",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "奨励",
+          "reading": "しょうれい"
+        }
+      ]
+    },
+    {
+      "slug": "勧め",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勧め",
+          "reading": "すすめ"
+        },
+        {
+          "word": "薦め",
+          "reading": "すすめ"
+        },
+        {
+          "word": "奨め",
+          "reading": "すすめ"
+        }
+      ]
+    },
+    {
+      "slug": "奨励賞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奨励賞",
+          "reading": "しょうれいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "奨学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奨学",
+          "reading": "しょうがく"
+        }
+      ]
+    },
+    {
+      "slug": "奨学生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奨学生",
+          "reading": "しょうがくせい"
+        }
+      ]
+    },
+    {
+      "slug": "奨学資金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奨学資金",
+          "reading": "しょうがくしきん"
+        }
+      ]
+    },
+    {
+      "slug": "奨励金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奨励金",
+          "reading": "しょうれいきん"
+        }
+      ]
+    },
+    {
+      "slug": "奨学金制度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奨学金制度",
+          "reading": "しょうがくきんせいど"
+        }
+      ]
+    },
+    {
+      "slug": "奨金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奨金",
+          "reading": "しょうきん"
+        }
+      ]
+    }
   ]
 }

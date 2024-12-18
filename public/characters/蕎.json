@@ -83,5 +83,201 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "蕎麦",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "蕎麦",
+          "reading": "そば"
+        },
+        {
+          "word": "蕎麦",
+          "reading": "そばむぎ"
+        },
+        {
+          "word": "蕎麦",
+          "reading": "そまむぎ"
+        }
+      ]
+    },
+    {
+      "slug": "雀斑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雀斑",
+          "reading": "そばかす"
+        },
+        {
+          "word": "蕎麦滓",
+          "reading": "そばかす"
+        },
+        {
+          "reading": "ソバカス"
+        }
+      ]
+    },
+    {
+      "slug": "そば粉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "そば粉",
+          "reading": "そばこ"
+        },
+        {
+          "word": "蕎麦粉",
+          "reading": "そばこ"
+        }
+      ]
+    },
+    {
+      "slug": "蕎麦屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕎麦屋",
+          "reading": "そばや"
+        },
+        {
+          "word": "そば屋",
+          "reading": "そばや"
+        }
+      ]
+    },
+    {
+      "slug": "蕎麦がき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕎麦がき",
+          "reading": "そばがき"
+        },
+        {
+          "word": "蕎麦掻き",
+          "reading": "そばがき"
+        },
+        {
+          "word": "蕎麦掻",
+          "reading": "そばがき"
+        },
+        {
+          "word": "蕎麦搔き",
+          "reading": "そばがき"
+        }
+      ]
+    },
+    {
+      "slug": "蕎麦殻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕎麦殻",
+          "reading": "そばがら"
+        },
+        {
+          "word": "そば殻",
+          "reading": "そばがら"
+        }
+      ]
+    },
+    {
+      "slug": "そば湯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "そば湯",
+          "reading": "そばゆ"
+        },
+        {
+          "word": "蕎麦湯",
+          "reading": "そばゆ"
+        }
+      ]
+    },
+    {
+      "slug": "そば切り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "そば切り",
+          "reading": "そばきり"
+        },
+        {
+          "word": "蕎麦切り",
+          "reading": "そばきり"
+        },
+        {
+          "word": "蕎麦切",
+          "reading": "そばきり"
+        },
+        {
+          "word": "そば切",
+          "reading": "そばきり"
+        }
+      ]
+    },
+    {
+      "slug": "そば飯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "そば飯",
+          "reading": "そばめし"
+        },
+        {
+          "word": "蕎麦飯",
+          "reading": "そばめし"
+        }
+      ]
+    },
+    {
+      "slug": "蕎麦つゆ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕎麦つゆ",
+          "reading": "そばつゆ"
+        },
+        {
+          "word": "そば汁",
+          "reading": "そばつゆ"
+        },
+        {
+          "word": "蕎麦汁",
+          "reading": "そばつゆ"
+        }
+      ]
+    },
+    {
+      "slug": "そば店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "そば店",
+          "reading": "そばてん"
+        },
+        {
+          "word": "蕎麦店",
+          "reading": "そばてん"
+        }
+      ]
+    },
+    {
+      "slug": "蕎麦ボーロ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕎麦ボーロ",
+          "reading": "そばボーロ"
+        }
+      ]
+    }
   ]
 }

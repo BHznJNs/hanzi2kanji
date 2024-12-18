@@ -60,5 +60,179 @@
       "startStroke": 9,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "鳥に餌をやれ！",
+      "furigana": "[鳥|とり]に[餌|えさ]をやれ！",
+      "translation_zh_CN": "喂鸟儿！"
+    },
+    {
+      "content": "もう犬に餌やった？",
+      "furigana": "もう[犬|いぬ]に[餌|えさ]やった？",
+      "translation_zh_CN": "你喂狗了吗？"
+    },
+    {
+      "content": "今朝犬に餌やった？",
+      "furigana": "[今朝|けさ][犬|いぬ]に[餌|えさ]やった？",
+      "translation_zh_CN": "今天早上你喂狗了吗？"
+    },
+    {
+      "content": "馬に餌をやりましたか？",
+      "furigana": "[馬|うま]に[餌|えさ]をやりましたか？",
+      "translation_zh_CN": "你喂过马吗？"
+    },
+    {
+      "content": "ニワトリに餌をやりに行かなきゃ。",
+      "furigana": "ニワトリに[餌|えさ]をやりに[行|い]かなきゃ。",
+      "translation_zh_CN": "我得去喂鸡了。"
+    },
+    {
+      "content": "金魚に餌をやってるの。",
+      "furigana": "[金魚|きん|ぎょ]に[餌|えさ]をやってるの。",
+      "translation_zh_CN": "我正在喂金鱼。"
+    },
+    {
+      "content": "動物に餌を与えないで下さい。",
+      "furigana": "[動物|どう|ぶつ]に[餌|えさ]を[与|あた]えないで[下|くだ]さい。",
+      "translation_zh_CN": "请不要给动物喂食。"
+    },
+    {
+      "content": "犬に餌はあげた？",
+      "furigana": "[犬|いぬ]に[餌|えさ]はあげた？",
+      "translation_zh_CN": "你喂狗了吗？"
+    },
+    {
+      "content": "ジンベイザメの餌はプランクトンだ。",
+      "furigana": "ジンベイザメの[餌|えさ]はプランクトンだ。",
+      "translation_zh_CN": "鲸鲨的食物是浮游生物。"
+    },
+    {
+      "content": "猫に餌をあげた？",
+      "furigana": "[猫|ねこ]に[餌|えさ]をあげた？",
+      "translation_zh_CN": "你喂猫了吗？"
+    },
+    {
+      "content": "今朝犬に餌やった？",
+      "furigana": "[今朝|けさ][犬|いぬ]に[餌|えさ]やった？",
+      "translation_zh_CN": "你今天早上喂过狗了吗？"
+    },
+    {
+      "content": "今朝、犬に餌あげたの？",
+      "furigana": "[今朝|けさ]、[犬|いぬ]に[餌|えさ]あげたの？",
+      "translation_zh_CN": "你今天早上喂过狗了吗？"
+    },
+    {
+      "content": "羊に餌を与える時間だ。",
+      "furigana": "[羊|ひつじ]に[餌|えさ]を[与|あた]える[時間|じ|かん]だ。",
+      "translation_zh_CN": "是时候喂羊了。"
+    },
+    {
+      "content": "毎日朝晩、猫に餌をあげてるよ。",
+      "furigana": "[毎日|まい|にち][朝晩|あさ|ばん]、[猫|ねこ]に[餌|えさ]をあげてるよ。",
+      "translation_zh_CN": "每天早晚，我给我的猫喂食。"
+    },
+    {
+      "content": "毎日朝と夜、猫に餌を与えています。",
+      "furigana": "[毎日|まい|にち][朝|あさ]と[夜|よる]、[猫|ねこ]に[餌|えさ]を[与|あた]えています。",
+      "translation_zh_CN": "每天早晚，我给我的猫喂食。"
+    },
+    {
+      "content": "彼は、犬に餌をやるのを忘れてしまった。",
+      "furigana": "[彼|かれ]は、[犬|いぬ]に[餌|えさ]をやるのを[忘|わす]れてしまった。",
+      "translation_zh_CN": "他忘记喂狗了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "餌食",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餌食",
+          "reading": "えじき"
+        }
+      ]
+    },
+    {
+      "slug": "餌やり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餌やり",
+          "reading": "えさやり"
+        },
+        {
+          "word": "餌遣り",
+          "reading": "えさやり"
+        },
+        {
+          "word": "エサ遣り",
+          "reading": "エサやり"
+        }
+      ]
+    },
+    {
+      "slug": "餌付く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餌付く",
+          "reading": "えづく"
+        }
+      ]
+    },
+    {
+      "slug": "餌場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餌場",
+          "reading": "えさば"
+        },
+        {
+          "word": "えさ場",
+          "reading": "えさば"
+        }
+      ]
+    },
+    {
+      "slug": "餌箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餌箱",
+          "reading": "えさばこ"
+        },
+        {
+          "word": "エサ箱",
+          "reading": "エサばこ"
+        }
+      ]
+    },
+    {
+      "slug": "餌付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餌付け",
+          "reading": "えづけ"
+        },
+        {
+          "word": "餌づけ",
+          "reading": "えづけ"
+        }
+      ]
+    },
+    {
+      "slug": "餌袋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餌袋",
+          "reading": "えぶくろ"
+        }
+      ]
+    }
   ]
 }

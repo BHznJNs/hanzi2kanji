@@ -76,5 +76,101 @@
       "startStroke": 10,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "蛙手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛙手",
+          "reading": "かえるで"
+        },
+        {
+          "word": "鶏冠木",
+          "reading": "かえるで"
+        },
+        {
+          "word": "楓",
+          "reading": "かえるで"
+        }
+      ]
+    },
+    {
+      "slug": "楓鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楓鳥",
+          "reading": "かえでちょう"
+        },
+        {
+          "reading": "カエデチョウ"
+        }
+      ]
+    },
+    {
+      "slug": "楓林",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楓林",
+          "reading": "ふうりん"
+        }
+      ]
+    },
+    {
+      "slug": "楓糖",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "カエデ糖",
+          "reading": "かえでとう"
+        },
+        {
+          "word": "楓糖",
+          "reading": "かえでとう"
+        },
+        {
+          "word": "楓糖",
+          "reading": "ふうとう"
+        }
+      ]
+    },
+    {
+      "slug": "楓子香",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楓子香",
+          "reading": "ふうしこう"
+        }
+      ]
+    },
+    {
+      "slug": "楓葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楓葉",
+          "reading": "ふうよう"
+        }
+      ]
+    },
+    {
+      "slug": "フウ属",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "フウ属",
+          "reading": "フウぞく"
+        },
+        {
+          "word": "楓属",
+          "reading": "ふうぞく"
+        }
+      ]
+    }
   ]
 }

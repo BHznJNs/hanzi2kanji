@@ -30,7 +30,7 @@
       "lang": "en",
       "values": [
         "dagger",
-        "sword\u0027s point",
+        "sword's point",
         "festival car",
         "float"
       ]
@@ -81,6 +81,87 @@
       "radical": "丨",
       "startStroke": 14,
       "strokes": 1
+    }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "矛先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "矛先",
+          "reading": "ほこさき"
+        },
+        {
+          "word": "鉾先",
+          "reading": "ほこさき"
+        },
+        {
+          "word": "鋒",
+          "reading": "ほこさき"
+        }
+      ]
+    },
+    {
+      "slug": "切っ先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切っ先",
+          "reading": "きっさき"
+        },
+        {
+          "word": "鋒",
+          "reading": "きっさき"
+        },
+        {
+          "word": "切先",
+          "reading": "きっさき"
+        },
+        {
+          "word": "切尖",
+          "reading": "きっさき"
+        },
+        {
+          "word": "鋒",
+          "reading": "ほう"
+        }
+      ]
+    },
+    {
+      "slug": "蜂起",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蜂起",
+          "reading": "ほうき"
+        }
+      ]
+    },
+    {
+      "slug": "穂先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂先",
+          "reading": "ほさき"
+        },
+        {
+          "word": "鋒先",
+          "reading": "ほさき"
+        }
+      ]
+    },
+    {
+      "slug": "鋒鋩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋒鋩",
+          "reading": "ほうぼう"
+        }
+      ]
     }
   ]
 }

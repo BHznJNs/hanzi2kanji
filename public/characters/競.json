@@ -139,5 +139,265 @@
       "startStroke": 18,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "競争はいつ始めますか？",
+      "furigana": "[競争|きょう|そう]はいつ[始|はじ]めますか？",
+      "translation_zh_CN": "比賽甚麼時候開始？"
+    },
+    {
+      "content": "うさぎとかめが競走した。",
+      "furigana": "うさぎとかめが[競走|きょう|そう]した。",
+      "translation_zh_CN": "兔子和烏龜賽跑。"
+    },
+    {
+      "content": "彼は陸上競技会で見事な成績をあげた。",
+      "furigana": "[彼|かれ]は[陸上|りく|じょう][競技|きょう|ぎ][会|かい]で[見事|み|ごと]な[成績|せい|せき]をあげた。",
+      "translation_zh_CN": "他在田徑運動上表現出色。"
+    },
+    {
+      "content": "陸上競技会は大雨のため中止になった。",
+      "furigana": "[陸上|りく|じょう][競技|きょう|ぎ][会|かい]は[大雨|おお|あめ]のため[中止|ちゅう|し]になった。",
+      "translation_zh_CN": "田徑運動會因天雨關係取消了。"
+    },
+    {
+      "content": "ＳＥが辞め続けると会社の競争力が落ちる。",
+      "furigana": "[ＳＥ|]が[辞|や]め[続|つづ]けると[会社|かい|しゃ]の[競争|きょう|そう][力|りょく]が[落|お]ちる。",
+      "translation_zh_CN": "如果系统工程师继续离开，公司的竞争优势将会被削弱。"
+    },
+    {
+      "content": "ボート競技に参加する為に新チームが結成された。",
+      "furigana": "ボート[競技|きょう|ぎ]に[参加|さん|か]する[為|ため]に[新|しん]チームが[結成|けっ|せい]された。",
+      "translation_zh_CN": "为了参加划船比赛，一支新的队伍组成了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "競り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競り",
+          "reading": "せり"
+        },
+        {
+          "word": "糶り",
+          "reading": "せり"
+        },
+        {
+          "word": "競",
+          "reading": "せり"
+        },
+        {
+          "word": "糶",
+          "reading": "せり"
+        }
+      ]
+    },
+    {
+      "slug": "競技",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "競技",
+          "reading": "きょうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "競馬",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "競馬",
+          "reading": "けいば"
+        }
+      ]
+    },
+    {
+      "slug": "比べる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "比べる",
+          "reading": "くらべる"
+        },
+        {
+          "word": "較べる",
+          "reading": "くらべる"
+        }
+      ]
+    },
+    {
+      "slug": "競争",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "競争",
+          "reading": "きょうそう"
+        }
+      ]
+    },
+    {
+      "slug": "競技場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競技場",
+          "reading": "きょうぎじょう"
+        }
+      ]
+    },
+    {
+      "slug": "競走",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競走",
+          "reading": "きょうそう"
+        }
+      ]
+    },
+    {
+      "slug": "競売",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競売",
+          "reading": "きょうばい"
+        },
+        {
+          "word": "競売",
+          "reading": "けいばい"
+        }
+      ]
+    },
+    {
+      "slug": "競泳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競泳",
+          "reading": "きょうえい"
+        }
+      ]
+    },
+    {
+      "slug": "競争力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競争力",
+          "reading": "きょうそうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "競合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競合",
+          "reading": "きょうごう"
+        }
+      ]
+    },
+    {
+      "slug": "競走馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競走馬",
+          "reading": "きょうそうば"
+        }
+      ]
+    },
+    {
+      "slug": "競り合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競り合う",
+          "reading": "せりあう"
+        },
+        {
+          "word": "競合う",
+          "reading": "せりあう"
+        }
+      ]
+    },
+    {
+      "slug": "競う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競う",
+          "reading": "きそう"
+        }
+      ]
+    },
+    {
+      "slug": "競合他社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競合他社",
+          "reading": "きょうごうたしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "競い合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競い合う",
+          "reading": "きそいあう"
+        },
+        {
+          "word": "競いあう",
+          "reading": "きそいあう"
+        }
+      ]
+    },
+    {
+      "slug": "競馬場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競馬場",
+          "reading": "けいばじょう"
+        }
+      ]
+    },
+    {
+      "slug": "競艇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競艇",
+          "reading": "きょうてい"
+        }
+      ]
+    },
+    {
+      "slug": "競争相手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "競争相手",
+          "reading": "きょうそうあいて"
+        }
+      ]
+    }
   ]
 }

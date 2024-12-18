@@ -71,5 +71,64 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "大鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大鳥",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鳳",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鵬",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鴻",
+          "reading": "おおとり"
+        },
+        {
+          "word": "凰",
+          "reading": "おおとり"
+        }
+      ]
+    },
+    {
+      "slug": "鵬翼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鵬翼",
+          "reading": "ほうよく"
+        }
+      ]
+    },
+    {
+      "slug": "鵬程万里",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鵬程万里",
+          "reading": "ほうていばんり"
+        }
+      ]
+    },
+    {
+      "slug": "鵬程",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鵬程",
+          "reading": "ほうてい"
+        }
+      ]
+    }
   ]
 }

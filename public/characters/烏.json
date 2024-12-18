@@ -56,5 +56,343 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "カラスは黒い。",
+      "furigana": "カラスは[黒|くろ]い。",
+      "translation_zh_CN": "乌鸦是黑色的。"
+    },
+    {
+      "content": "その烏は飛び去った。",
+      "furigana": "その[烏|からす]は[飛|と]び[去|さ]った。",
+      "translation_zh_CN": "乌鸦飞走了。"
+    },
+    {
+      "content": "カラスは賢い鳥です。",
+      "furigana": "カラスは[賢|かしこ]い[鳥|とり]です。",
+      "translation_zh_CN": "乌鸦是聪明的鸟。"
+    },
+    {
+      "content": "マリア・カラスさんは美声の持ち主です。",
+      "furigana": "マリア・カラスさんは[美声|び|せい]の[持|も]ち[主|ぬし]です。",
+      "translation_zh_CN": "玛丽亚·卡拉斯有一副优美的声音。"
+    },
+    {
+      "content": "烏は石炭のように黒い。",
+      "furigana": "[烏|がらす]は[石炭|せき|たん]のように[黒|くろ]い。",
+      "translation_zh_CN": "乌鸦像煤炭一样黑。"
+    },
+    {
+      "content": "カラスはよくゴミ漁りします。",
+      "furigana": "カラスはよくゴミ[漁|あさ]りします。",
+      "translation_zh_CN": "乌鸦经常以垃圾为食。"
+    },
+    {
+      "content": "それはね、カラスじゃないよ。ワタリガラスだよ。",
+      "furigana": "それはね、カラスじゃないよ。ワタリガラスだよ。",
+      "translation_zh_CN": "嗯，那不是乌鸦。这是一只乌鸦。"
+    },
+    {
+      "content": "最近、あらゆる所でカラスを見かける。",
+      "furigana": "[最近|さい|きん]、あらゆる[所|ところ]でカラスを[見|み]かける。",
+      "translation_zh_CN": "最近，我到处都看到乌鸦。"
+    },
+    {
+      "content": "マリア・カラスは有名なオペラ歌手でした。",
+      "furigana": "マリア・カラスは[有名|ゆう|めい]なオペラ[歌手|か|しゅ]でした。",
+      "translation_zh_CN": "玛丽亚·卡拉斯是一位著名的歌剧歌手。"
+    },
+    {
+      "content": "マリア・カラスは綺麗な声をしてる。",
+      "furigana": "マリア・カラスは[綺麗|き|れい]な[声|こえ]をしてる。",
+      "translation_zh_CN": "玛丽亚·卡拉斯有一副优美的声音。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "烏賊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "イカ"
+        },
+        {
+          "word": "烏賊",
+          "reading": "いか"
+        }
+      ]
+    },
+    {
+      "slug": "烏剌紐母",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏剌紐母",
+          "reading": "ウラニウム"
+        }
+      ]
+    },
+    {
+      "slug": "烏克蘭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏克蘭",
+          "reading": "ウクライナ"
+        },
+        {
+          "word": "宇克蘭",
+          "reading": "ウクライナ"
+        }
+      ]
+    },
+    {
+      "slug": "烏帽子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏帽子",
+          "reading": "えぼし"
+        }
+      ]
+    },
+    {
+      "slug": "烏有に帰す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏有に帰す",
+          "reading": "うゆうにきす"
+        }
+      ]
+    },
+    {
+      "slug": "烏賊墨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "イカ墨",
+          "reading": "いかすみ"
+        },
+        {
+          "word": "烏賊墨",
+          "reading": "いかすみ"
+        },
+        {
+          "reading": "イカスミ"
+        }
+      ]
+    },
+    {
+      "slug": "烏秋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏秋",
+          "reading": "おうちゅう"
+        },
+        {
+          "reading": "オウチュウ"
+        }
+      ]
+    },
+    {
+      "slug": "烏枢沙摩明王",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏枢沙摩明王",
+          "reading": "うすさまみょうおう"
+        },
+        {
+          "word": "烏枢沙摩明王",
+          "reading": "うすしゃまみょうおう"
+        },
+        {
+          "word": "烏芻沙摩明王",
+          "reading": "うすさまみょうおう"
+        },
+        {
+          "word": "烏芻沙摩明王",
+          "reading": "うすしゃまみょうおう"
+        },
+        {
+          "word": "烏蒭沙摩明王",
+          "reading": "うすさまみょうおう"
+        },
+        {
+          "word": "烏蒭沙摩明王",
+          "reading": "うすしゃまみょうおう"
+        }
+      ]
+    },
+    {
+      "slug": "燕麦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "えん麦",
+          "reading": "えんばく"
+        },
+        {
+          "word": "燕麦",
+          "reading": "えんばく"
+        },
+        {
+          "word": "エン麦",
+          "reading": "エンばく"
+        },
+        {
+          "reading": "エンバク"
+        }
+      ]
+    },
+    {
+      "slug": "烏鳩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏鳩",
+          "reading": "からすばと"
+        },
+        {
+          "reading": "カラスバト"
+        }
+      ]
+    },
+    {
+      "slug": "烏揚羽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏揚羽",
+          "reading": "からすあげは"
+        },
+        {
+          "reading": "カラスアゲハ"
+        }
+      ]
+    },
+    {
+      "slug": "烏骨鶏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏骨鶏",
+          "reading": "うこっけい"
+        },
+        {
+          "word": "烏骨鶏",
+          "reading": "うこつけい"
+        },
+        {
+          "reading": "ウコッケイ"
+        },
+        {
+          "reading": "ウコツケイ"
+        }
+      ]
+    },
+    {
+      "slug": "烏口骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏口骨",
+          "reading": "うこうこつ"
+        }
+      ]
+    },
+    {
+      "slug": "からす座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "からす座",
+          "reading": "からすざ"
+        },
+        {
+          "word": "烏座",
+          "reading": "からすざ"
+        }
+      ]
+    },
+    {
+      "slug": "烏帽子鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏帽子鳥",
+          "reading": "えぼしどり"
+        },
+        {
+          "reading": "エボシドリ"
+        }
+      ]
+    },
+    {
+      "slug": "烏帽子鯛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏帽子鯛",
+          "reading": "えぼしだい"
+        },
+        {
+          "reading": "エボシダイ"
+        }
+      ]
+    },
+    {
+      "slug": "烏魯木斉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏魯木斉",
+          "reading": "ウルムチ"
+        }
+      ]
+    },
+    {
+      "slug": "烏頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "烏頭",
+          "reading": "うず"
+        }
+      ]
+    },
+    {
+      "slug": "安んぞ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "安んぞ",
+          "reading": "いずくんぞ"
+        },
+        {
+          "word": "焉んぞ",
+          "reading": "いずくんぞ"
+        },
+        {
+          "word": "寧んぞ",
+          "reading": "いずくんぞ"
+        },
+        {
+          "word": "悪んぞ",
+          "reading": "いずくんぞ"
+        },
+        {
+          "word": "奚んぞ",
+          "reading": "いずくんぞ"
+        },
+        {
+          "word": "烏んぞ",
+          "reading": "いずくんぞ"
+        }
+      ]
+    }
   ]
 }

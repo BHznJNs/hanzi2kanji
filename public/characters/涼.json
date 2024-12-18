@@ -85,5 +85,243 @@
       "startStroke": 8,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "ぼくは涼宮ハルヒの憂鬱を読みたくない。",
+      "furigana": "ぼくは[涼宮|すず|みや]ハルヒの[憂鬱|ゆう|うつ]を[読|よ]みたくない。",
+      "translation_zh_CN": "我不想读《凉宫春日的忧郁》。"
+    },
+    {
+      "content": "今日は涼しいです。",
+      "furigana": "[今日|きょう]は[涼|すず]しいです。",
+      "translation_zh_CN": "今天很凉快。"
+    },
+    {
+      "content": "今朝は涼しいですね。",
+      "furigana": "[今朝|けさ]は[涼|すず]しいですね。",
+      "translation_zh_CN": "今天上午很涼爽，不是嗎？"
+    },
+    {
+      "content": "涼しい場所に保管のこと。",
+      "furigana": "[涼|すず]しい[場所|ば|しょ]に[保管|ほ|かん]のこと。",
+      "translation_zh_CN": "保存在陰涼的地方。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "涼しい",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "涼しい",
+          "reading": "すずしい"
+        },
+        {
+          "word": "凉しい",
+          "reading": "すずしい"
+        }
+      ]
+    },
+    {
+      "slug": "涼む",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "涼む",
+          "reading": "すずむ"
+        }
+      ]
+    },
+    {
+      "slug": "涼風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼風",
+          "reading": "りょうふう"
+        },
+        {
+          "word": "涼風",
+          "reading": "すずかぜ"
+        }
+      ]
+    },
+    {
+      "slug": "涼しき方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼しき方",
+          "reading": "すずしきかた"
+        }
+      ]
+    },
+    {
+      "slug": "涼み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼み",
+          "reading": "すずみ"
+        }
+      ]
+    },
+    {
+      "slug": "涼み台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼み台",
+          "reading": "すずみだい"
+        },
+        {
+          "word": "涼台",
+          "reading": "すずみだい"
+        }
+      ]
+    },
+    {
+      "slug": "涼秋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼秋",
+          "reading": "りょうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "涼しき道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼しき道",
+          "reading": "すずしきみち"
+        }
+      ]
+    },
+    {
+      "slug": "涼み客",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼み客",
+          "reading": "すずみきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "涼やか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼やか",
+          "reading": "すずやか"
+        }
+      ]
+    },
+    {
+      "slug": "涼しげ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼しげ",
+          "reading": "すずしげ"
+        },
+        {
+          "word": "涼し気",
+          "reading": "すずしげ"
+        }
+      ]
+    },
+    {
+      "slug": "涼味",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼味",
+          "reading": "りょうみ"
+        }
+      ]
+    },
+    {
+      "slug": "涼感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼感",
+          "reading": "りょうかん"
+        }
+      ]
+    },
+    {
+      "slug": "涼暮月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼暮月",
+          "reading": "すずくれづき"
+        },
+        {
+          "word": "涼暮れ月",
+          "reading": "すずくれづき"
+        }
+      ]
+    },
+    {
+      "slug": "涼亭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼亭",
+          "reading": "りょうてい"
+        }
+      ]
+    },
+    {
+      "slug": "涼雨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼雨",
+          "reading": "りょうう"
+        }
+      ]
+    },
+    {
+      "slug": "涼気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼気",
+          "reading": "りょうき"
+        }
+      ]
+    },
+    {
+      "slug": "涼しい顔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼しい顔",
+          "reading": "すずしいかお"
+        }
+      ]
+    },
+    {
+      "slug": "涼しさ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涼しさ",
+          "reading": "すずしさ"
+        }
+      ]
+    }
   ]
 }

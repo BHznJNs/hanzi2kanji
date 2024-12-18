@@ -80,5 +80,319 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は犬を飼っている。",
+      "furigana": "[彼|かれ]は[犬|いぬ]を[飼|か]っている。",
+      "translation_zh_CN": "他有一只狗。"
+    },
+    {
+      "content": "私は犬を飼っている。",
+      "furigana": "[私|わたし]は[犬|いぬ]を[飼|か]っている。",
+      "translation_zh_CN": "我有一条狗。"
+    },
+    {
+      "content": "ペットを飼ってますか？",
+      "furigana": "ペットを[飼|か]ってますか？",
+      "translation_zh_CN": "你养宠物吗？"
+    },
+    {
+      "content": "私は猫を飼っていない。",
+      "furigana": "[私|わたし]は[猫|ねこ]を[飼|か]っていない。",
+      "translation_zh_CN": "我没有猫。"
+    },
+    {
+      "content": "犬を1匹飼っています。",
+      "furigana": "[犬|いぬ]を[1|いっ][匹|ぴき][飼|か]っています。",
+      "translation_zh_CN": "我有一条狗。"
+    },
+    {
+      "content": "白い猫を飼っています。",
+      "furigana": "[白|しろ]い[猫|ねこ]を[飼|か]っています。",
+      "translation_zh_CN": "我们有一只白色的猫。"
+    },
+    {
+      "content": "私は、雌猫を飼ってるよ。",
+      "furigana": "[私|わたし]は、[雌|めす][猫|ねこ]を[飼|か]ってるよ。",
+      "translation_zh_CN": "我养了一只母猫。"
+    },
+    {
+      "content": "私は犬を一匹飼ってます。",
+      "furigana": "[私|わたし]は[犬|いぬ]を[一匹|いっ|ぴき][飼|か]ってます。",
+      "translation_zh_CN": "我养了只狗。"
+    },
+    {
+      "content": "健は白い犬を飼っている。",
+      "furigana": "[健|けん]は[白|しろ]い[犬|いぬ]を[飼|か]っている。",
+      "translation_zh_CN": "肯有一條白色的狗。"
+    },
+    {
+      "content": "健は猫を２匹飼っている。",
+      "furigana": "[健|けん]は[猫|ねこ]を[２|に][匹|ひき][飼|か]っている。",
+      "translation_zh_CN": "肯养了两只猫。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "飼う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飼う",
+          "reading": "かう"
+        }
+      ]
+    },
+    {
+      "slug": "飼育",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "飼育",
+          "reading": "しいく"
+        }
+      ]
+    },
+    {
+      "slug": "飼い主",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い主",
+          "reading": "かいぬし"
+        },
+        {
+          "word": "飼主",
+          "reading": "かいぬし"
+        }
+      ]
+    },
+    {
+      "slug": "飼い犬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い犬",
+          "reading": "かいいぬ"
+        },
+        {
+          "word": "飼犬",
+          "reading": "かいいぬ"
+        }
+      ]
+    },
+    {
+      "slug": "飼い猫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い猫",
+          "reading": "かいねこ"
+        },
+        {
+          "word": "飼猫",
+          "reading": "かいねこ"
+        }
+      ]
+    },
+    {
+      "slug": "飼い鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い鳥",
+          "reading": "かいどり"
+        },
+        {
+          "word": "飼鳥",
+          "reading": "かいどり"
+        }
+      ]
+    },
+    {
+      "slug": "飼い葉桶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い葉桶",
+          "reading": "かいばおけ"
+        },
+        {
+          "word": "飼葉桶",
+          "reading": "かいばおけ"
+        },
+        {
+          "word": "飼い葉おけ",
+          "reading": "かいばおけ"
+        }
+      ]
+    },
+    {
+      "slug": "飼料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼料",
+          "reading": "しりょう"
+        }
+      ]
+    },
+    {
+      "slug": "飼いならす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼いならす",
+          "reading": "かいならす"
+        },
+        {
+          "word": "飼い慣らす",
+          "reading": "かいならす"
+        },
+        {
+          "word": "飼い馴らす",
+          "reading": "かいならす"
+        }
+      ]
+    },
+    {
+      "slug": "飼い犬に手をかまれる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い犬に手をかまれる",
+          "reading": "かいいぬにてをかまれる"
+        },
+        {
+          "word": "飼い犬に手を噛まれる",
+          "reading": "かいいぬにてをかまれる"
+        }
+      ]
+    },
+    {
+      "slug": "飼い葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い葉",
+          "reading": "かいば"
+        },
+        {
+          "word": "飼葉",
+          "reading": "かいば"
+        }
+      ]
+    },
+    {
+      "slug": "飼育瓶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼育瓶",
+          "reading": "しいくびん"
+        },
+        {
+          "word": "飼育びん",
+          "reading": "しいくびん"
+        }
+      ]
+    },
+    {
+      "slug": "飼育員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼育員",
+          "reading": "しいくいん"
+        }
+      ]
+    },
+    {
+      "slug": "飼育場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼育場",
+          "reading": "しいくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "飼育箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼育箱",
+          "reading": "しいくばこ"
+        }
+      ]
+    },
+    {
+      "slug": "飼い桶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い桶",
+          "reading": "かいおけ"
+        }
+      ]
+    },
+    {
+      "slug": "飼育室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼育室",
+          "reading": "しいくしつ"
+        }
+      ]
+    },
+    {
+      "slug": "飼い殺し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼い殺し",
+          "reading": "かいごろし"
+        },
+        {
+          "word": "飼殺し",
+          "reading": "かいごろし"
+        }
+      ]
+    },
+    {
+      "slug": "飼いならし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼いならし",
+          "reading": "かいならし"
+        },
+        {
+          "word": "飼い慣らし",
+          "reading": "かいならし"
+        },
+        {
+          "word": "飼い馴らし",
+          "reading": "かいならし"
+        }
+      ]
+    },
+    {
+      "slug": "飼兎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飼兎",
+          "reading": "かいうさぎ"
+        }
+      ]
+    }
   ]
 }

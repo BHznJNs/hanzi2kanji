@@ -89,5 +89,245 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "「ああ！」は感嘆詞だ。",
+      "furigana": "「ああ！」は[感嘆|かん|たん][詞|し]だ。",
+      "translation_zh_CN": "“啊！”是一个感叹词。"
+    },
+    {
+      "content": "「ああ」は感嘆詞だ。",
+      "furigana": "「ああ」は[感嘆詞|かん|たん|し]だ。",
+      "translation_zh_CN": "“啊！”是一个感叹词。"
+    },
+    {
+      "content": "感嘆符は句読点です。",
+      "furigana": "[感嘆|かん|たん][符|ふ]は[句読点|く|とう|てん]です。",
+      "translation_zh_CN": "感叹号是标点符号。"
+    },
+    {
+      "content": "誰もが彼の勇気に感嘆した。",
+      "furigana": "[誰|だれ]もが[彼|かれ]の[勇気|ゆう|き]に[感嘆|かん|たん]した。",
+      "translation_zh_CN": "每個人都佩服他的勇氣。"
+    },
+    {
+      "content": "彼は親友の死を嘆き悲しんだ。",
+      "furigana": "[彼|かれ]は[親友|しん|ゆう]の[死|し]を[嘆|なげ]き[悲|かな]しんだ。",
+      "translation_zh_CN": "他为他最要好的朋友的死感到悲伤。"
+    },
+    {
+      "content": "息子の死でメアリーは悲嘆に暮れた。",
+      "furigana": "[息子|むす|こ]の[死|し]でメアリーは[悲嘆|ひ|たん]に[暮|く]れた。",
+      "translation_zh_CN": "她儿子的死伤了玛丽的心。"
+    },
+    {
+      "content": "私達はその景色の美しさに感嘆した。",
+      "furigana": "[私|わたし][達|たち]はその[景色|け|しき]の[美|うつく]しさに[感嘆|かん|たん]した。",
+      "translation_zh_CN": "我们感叹这美景。"
+    },
+    {
+      "content": "「財布を無くした」ジョンは嘆いた。",
+      "furigana": "「[財布|さい|ふ]を[無|な]くした」ジョンは[嘆|なげ]いた。",
+      "translation_zh_CN": "“我丢了钱包。”约翰叹息道。"
+    },
+    {
+      "content": "過ぎ去ったことを嘆いてもしょうがない。",
+      "furigana": "[過|す]ぎ[去|さ]ったことを[嘆|なげ]いてもしょうがない。",
+      "translation_zh_CN": "為濺出的牛奶哭也沒用。"
+    },
+    {
+      "content": "過去のことで嘆いても何の役にも立たないよ。",
+      "furigana": "[過去|か|こ]のことで[嘆|なげ]いても[何|なん]の[役|やく]にも[立|た]たないよ。",
+      "translation_zh_CN": "覆水難收。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "嘆く",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "嘆く",
+          "reading": "なげく"
+        },
+        {
+          "word": "歎く",
+          "reading": "なげく"
+        }
+      ]
+    },
+    {
+      "slug": "嘆き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆き",
+          "reading": "なげき"
+        },
+        {
+          "word": "歎き",
+          "reading": "なげき"
+        }
+      ]
+    },
+    {
+      "slug": "嘆かわしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆かわしい",
+          "reading": "なげかわしい"
+        }
+      ]
+    },
+    {
+      "slug": "嘆願",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆願",
+          "reading": "たんがん"
+        },
+        {
+          "word": "歎願",
+          "reading": "たんがん"
+        }
+      ]
+    },
+    {
+      "slug": "嘆息",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆息",
+          "reading": "たんそく"
+        },
+        {
+          "word": "歎息",
+          "reading": "たんそく"
+        }
+      ]
+    },
+    {
+      "slug": "嘆き悲しむ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆き悲しむ",
+          "reading": "なげきかなしむ"
+        }
+      ]
+    },
+    {
+      "slug": "嘆美",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆美",
+          "reading": "たんび"
+        },
+        {
+          "word": "歎美",
+          "reading": "たんび"
+        }
+      ]
+    },
+    {
+      "slug": "嘆願書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆願書",
+          "reading": "たんがんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "歎ずる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆ずる",
+          "reading": "たんずる"
+        },
+        {
+          "word": "歎ずる",
+          "reading": "たんずる"
+        }
+      ]
+    },
+    {
+      "slug": "嘆賞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆賞",
+          "reading": "たんしょう"
+        },
+        {
+          "word": "歎賞",
+          "reading": "たんしょう"
+        },
+        {
+          "word": "嘆称",
+          "reading": "たんしょう"
+        },
+        {
+          "word": "歎称",
+          "reading": "たんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "嘆声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆声",
+          "reading": "たんせい"
+        },
+        {
+          "word": "歎声",
+          "reading": "たんせい"
+        }
+      ]
+    },
+    {
+      "slug": "嘆きの壁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆きの壁",
+          "reading": "なげきのかべ"
+        }
+      ]
+    },
+    {
+      "slug": "嘆き暮らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆き暮らす",
+          "reading": "なげきくらす"
+        }
+      ]
+    },
+    {
+      "slug": "歎じる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘆じる",
+          "reading": "たんじる"
+        },
+        {
+          "word": "歎じる",
+          "reading": "たんじる"
+        }
+      ]
+    }
   ]
 }

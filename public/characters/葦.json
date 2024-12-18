@@ -53,5 +53,341 @@
       "startStroke": 6,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "人間は考える葦である。",
+      "furigana": "[人間|にん|げん]は[考|かんが]える[葦|あし]である。",
+      "translation_zh_CN": "人是一根会思考的芦苇。"
+    },
+    {
+      "content": "人間は一本のアシに過ぎず、その本性はきわめて弱いが、人間は考える葦である。",
+      "furigana": "[人間|にん|げん]は[一本|いち|ほん]のアシに[過|す]ぎず、その[本性|ほん|しょう]はきわめて[弱|よわ]いが、[人間|にん|げん]は[考|かんが]える[葦|あし]である。",
+      "translation_zh_CN": "人不过是一根芦苇，人的本性是极其脆弱的，但人却是一根会思考的芦苇。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "海驢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "海驢",
+          "reading": "あしか"
+        },
+        {
+          "word": "葦鹿",
+          "reading": "あしか"
+        },
+        {
+          "word": "海馬",
+          "reading": "あしか"
+        },
+        {
+          "word": "海驢",
+          "reading": "みち"
+        },
+        {
+          "reading": "アシカ"
+        }
+      ]
+    },
+    {
+      "slug": "芦毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "芦毛",
+          "reading": "あしげ"
+        },
+        {
+          "word": "葦毛",
+          "reading": "あしげ"
+        },
+        {
+          "word": "あし毛",
+          "reading": "あしげ"
+        },
+        {
+          "word": "蘆毛",
+          "reading": "あしげ"
+        }
+      ]
+    },
+    {
+      "slug": "葦登",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ヨシノボリ"
+        },
+        {
+          "word": "葦登",
+          "reading": "よしのぼり"
+        }
+      ]
+    },
+    {
+      "slug": "葦切鮫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ヨシキリザメ"
+        },
+        {
+          "word": "葦切鮫",
+          "reading": "よしきりざめ"
+        }
+      ]
+    },
+    {
+      "slug": "葦原",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦原",
+          "reading": "あしはら"
+        },
+        {
+          "word": "葦原",
+          "reading": "あしわら"
+        },
+        {
+          "word": "葦原",
+          "reading": "よしわら"
+        },
+        {
+          "word": "ヨシ原",
+          "reading": "ヨシわら"
+        },
+        {
+          "word": "アシ原",
+          "reading": "アシはら"
+        },
+        {
+          "word": "アシ原",
+          "reading": "アシわら"
+        }
+      ]
+    },
+    {
+      "slug": "葦船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦船",
+          "reading": "あしぶね"
+        },
+        {
+          "word": "葦舟",
+          "reading": "あしぶね"
+        },
+        {
+          "word": "あし船",
+          "reading": "あしぶね"
+        },
+        {
+          "word": "あし舟",
+          "reading": "あしぶね"
+        }
+      ]
+    },
+    {
+      "slug": "葦原雀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦原雀",
+          "reading": "よしわらすずめ"
+        },
+        {
+          "word": "吉原雀",
+          "reading": "よしわらすずめ"
+        }
+      ]
+    },
+    {
+      "slug": "葦鴨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦鴨",
+          "reading": "よしがも"
+        }
+      ]
+    },
+    {
+      "slug": "葭戸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葭戸",
+          "reading": "よしど"
+        },
+        {
+          "word": "葦戸",
+          "reading": "よしど"
+        }
+      ]
+    },
+    {
+      "slug": "葭切",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葭切",
+          "reading": "よしきり"
+        },
+        {
+          "word": "葦切",
+          "reading": "よしきり"
+        },
+        {
+          "word": "葦雀",
+          "reading": "よしきり"
+        },
+        {
+          "reading": "ヨシキリ"
+        }
+      ]
+    },
+    {
+      "slug": "葦手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦手",
+          "reading": "あしで"
+        }
+      ]
+    },
+    {
+      "slug": "葦簀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦簀",
+          "reading": "よしず"
+        },
+        {
+          "word": "葦簾",
+          "reading": "よしず"
+        },
+        {
+          "word": "葭簀",
+          "reading": "よしず"
+        }
+      ]
+    },
+    {
+      "slug": "葦五位",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦五位",
+          "reading": "よしごい"
+        }
+      ]
+    },
+    {
+      "slug": "葦辺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦辺",
+          "reading": "あしべ"
+        },
+        {
+          "word": "蘆辺",
+          "reading": "あしべ"
+        }
+      ]
+    },
+    {
+      "slug": "葦田鶴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦田鶴",
+          "reading": "あしたず"
+        }
+      ]
+    },
+    {
+      "slug": "葦笛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦笛",
+          "reading": "あしぶえ"
+        },
+        {
+          "word": "蘆笛",
+          "reading": "あしぶえ"
+        },
+        {
+          "word": "芦笛",
+          "reading": "あしぶえ"
+        },
+        {
+          "word": "笳",
+          "reading": "あしぶえ"
+        },
+        {
+          "word": "葦笛",
+          "reading": "よしぶえ"
+        },
+        {
+          "word": "蘆笛",
+          "reading": "よしぶえ"
+        },
+        {
+          "word": "芦笛",
+          "reading": "よしぶえ"
+        },
+        {
+          "word": "蘆笛",
+          "reading": "ろてき"
+        },
+        {
+          "word": "芦笛",
+          "reading": "ろてき"
+        }
+      ]
+    },
+    {
+      "slug": "葦原中国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦原中国",
+          "reading": "あしはらのなかつくに"
+        },
+        {
+          "word": "葦原の中つ国",
+          "reading": "あしはらのなかつくに"
+        }
+      ]
+    },
+    {
+      "slug": "葦の髄から天井のぞく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦の髄から天井のぞく",
+          "reading": "よしのずいからてんじょうのぞく"
+        }
+      ]
+    },
+    {
+      "slug": "葦の髄から天井を覗く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葦の髄から天井を覗く",
+          "reading": "よしのずいからてんじょうをのぞく"
+        }
+      ]
+    }
   ]
 }

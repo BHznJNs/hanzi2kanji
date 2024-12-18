@@ -62,5 +62,52 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "硯池",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "硯池",
+          "reading": "けんち"
+        }
+      ]
+    },
+    {
+      "slug": "硯洗い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "硯洗い",
+          "reading": "すずりあらい"
+        }
+      ]
+    },
+    {
+      "slug": "硯石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "硯石",
+          "reading": "すずりいし"
+        }
+      ]
+    },
+    {
+      "slug": "硯箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "硯箱",
+          "reading": "すずりばこ"
+        },
+        {
+          "word": "硯筥",
+          "reading": "すずりばこ"
+        }
+      ]
+    }
   ]
 }

@@ -85,5 +85,103 @@
       "strokes": 3,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鱈腹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱈腹",
+          "reading": "たらふく"
+        }
+      ]
+    },
+    {
+      "slug": "たらば蟹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たらば蟹",
+          "reading": "たらばがに"
+        },
+        {
+          "word": "鱈場蟹",
+          "reading": "たらばがに"
+        },
+        {
+          "word": "多羅波蟹",
+          "reading": "たらばがに"
+        },
+        {
+          "word": "鱈場ガニ",
+          "reading": "たらばガニ"
+        },
+        {
+          "reading": "タラバガニ"
+        }
+      ]
+    },
+    {
+      "slug": "鱈子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たら子",
+          "reading": "たらこ"
+        },
+        {
+          "word": "鱈子",
+          "reading": "たらこ"
+        },
+        {
+          "word": "タラ子",
+          "reading": "タラこ"
+        }
+      ]
+    },
+    {
+      "slug": "鱈場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱈場",
+          "reading": "たらば"
+        }
+      ]
+    },
+    {
+      "slug": "たらこ唇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たらこ唇",
+          "reading": "たらこくちびる"
+        },
+        {
+          "word": "鱈子唇",
+          "reading": "たらこくちびる"
+        },
+        {
+          "word": "タラコ唇",
+          "reading": "タラコくちびる"
+        }
+      ]
+    },
+    {
+      "slug": "タラ戦争",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "タラ戦争",
+          "reading": "たらせんそう"
+        },
+        {
+          "word": "鱈戦争",
+          "reading": "たらせんそう"
+        }
+      ]
+    }
   ]
 }

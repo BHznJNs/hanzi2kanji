@@ -82,5 +82,221 @@
       "startStroke": 10,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "ユリウス暦で、今日は何月何日？",
+      "furigana": "ユリウス[暦|れき]で、[今日|きょう]は[何月何日|なん|がつ|なん|にち]？",
+      "translation_zh_CN": "今天是儒略历中的几月几日？"
+    },
+    {
+      "content": "マヤ暦には、19の月があります。",
+      "furigana": "マヤ[暦|れき]には、[19|じゅうきゅう]の[月|つき]があります。",
+      "translation_zh_CN": "玛雅历法有19个月。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "暦年",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦年",
+          "reading": "れきねん"
+        },
+        {
+          "word": "歴年",
+          "reading": "れきねん"
+        }
+      ]
+    },
+    {
+      "slug": "暦応",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦応",
+          "reading": "りゃくおう"
+        },
+        {
+          "word": "暦応",
+          "reading": "れきおう"
+        }
+      ]
+    },
+    {
+      "slug": "暦仁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦仁",
+          "reading": "りゃくにん"
+        }
+      ]
+    },
+    {
+      "slug": "暦者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦者",
+          "reading": "れきしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "暦注",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦注",
+          "reading": "れきちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "暦術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦術",
+          "reading": "れきじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "暦学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦学",
+          "reading": "れきがく"
+        }
+      ]
+    },
+    {
+      "slug": "暦改正",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦改正",
+          "reading": "こよみかいせい"
+        }
+      ]
+    },
+    {
+      "slug": "暦数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦数",
+          "reading": "れきすう"
+        }
+      ]
+    },
+    {
+      "slug": "暦日",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦日",
+          "reading": "れきじつ"
+        }
+      ]
+    },
+    {
+      "slug": "暦日付",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦日付",
+          "reading": "れきひづけ"
+        }
+      ]
+    },
+    {
+      "slug": "暦法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦法",
+          "reading": "れきほう"
+        }
+      ]
+    },
+    {
+      "slug": "歴年齢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歴年齢",
+          "reading": "れきねんれい"
+        },
+        {
+          "word": "暦年齢",
+          "reading": "れきねんれい"
+        }
+      ]
+    },
+    {
+      "slug": "暦月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦月",
+          "reading": "れきげつ"
+        }
+      ]
+    },
+    {
+      "slug": "暦道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦道",
+          "reading": "れきどう"
+        }
+      ]
+    },
+    {
+      "slug": "暦週",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦週",
+          "reading": "れきしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "暦の中段",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦の中段",
+          "reading": "こよみのちゅうだん"
+        }
+      ]
+    },
+    {
+      "slug": "暦年度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦年度",
+          "reading": "れきねんど"
+        }
+      ]
+    },
+    {
+      "slug": "暦本",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暦本",
+          "reading": "れきほん"
+        }
+      ]
+    }
   ]
 }

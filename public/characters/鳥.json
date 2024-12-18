@@ -62,5 +62,354 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "鳥は鳴く。",
+      "furigana": "[鳥|とり]は[鳴|な]く。",
+      "translation_zh_CN": "鸟儿歌唱。"
+    },
+    {
+      "content": "鳥は飛ぶ。",
+      "furigana": "[鳥|とり]は[飛|と]ぶ。",
+      "translation_zh_CN": "鸟儿飞翔。"
+    },
+    {
+      "content": "鳥は歌います。",
+      "furigana": "[鳥|とり]は[歌|うた]います。",
+      "translation_zh_CN": "鸟儿歌唱。"
+    },
+    {
+      "content": "鳥が飛んでる。",
+      "furigana": "[鳥|とり]が[飛|と]んでる。",
+      "translation_zh_CN": "鸟儿在飞翔。"
+    },
+    {
+      "content": "鳥が歌っている。",
+      "furigana": "[鳥|とり]が[歌|うた]っている。",
+      "translation_zh_CN": "鸟儿在歌唱"
+    },
+    {
+      "content": "鳥が描けない。",
+      "furigana": "[鳥|とり]が[描|か]けない。",
+      "translation_zh_CN": "我不会画鸟。"
+    },
+    {
+      "content": "鳥が囀る。",
+      "furigana": "[鳥|とり]が[囀|さえず]る。",
+      "translation_zh_CN": "鸟儿歌唱。"
+    },
+    {
+      "content": "鳥になりたいな。",
+      "furigana": "[鳥|とり]になりたいな。",
+      "translation_zh_CN": "我想成为一只鸟。"
+    },
+    {
+      "content": "鳥になれたらなあ。",
+      "furigana": "[鳥|とり]になれたらなあ。",
+      "translation_zh_CN": "我希望我能成为一只鸟。"
+    },
+    {
+      "content": "鳥は高く舞い上がった。",
+      "furigana": "[鳥|とり]は[高|たか]く[舞|ま]い[上|あ]がった。",
+      "translation_zh_CN": "那只鸟飞得很高。"
+    },
+    {
+      "content": "鳥には翼がある。",
+      "furigana": "[鳥|とり]には[翼|つばさ]がある。",
+      "translation_zh_CN": "鸟有翅膀。"
+    },
+    {
+      "content": "一石二鳥にする。",
+      "furigana": "[一石二鳥|いっ|せき|に|ちょう]にする。",
+      "translation_zh_CN": "一石二鸟。"
+    },
+    {
+      "content": "鳥は巣をつくる。",
+      "furigana": "[鳥|とり]は[巣|す]をつくる。",
+      "translation_zh_CN": "鸟儿筑巢。"
+    },
+    {
+      "content": "鳥が空にいます。",
+      "furigana": "[鳥|とり]が[空|そら]にいます。",
+      "translation_zh_CN": "鳥在天上。"
+    },
+    {
+      "content": "鳥は巣作りをする。",
+      "furigana": "[鳥|とり]は[巣|す][作|づく]りをする。",
+      "translation_zh_CN": "鸟儿筑巢。"
+    },
+    {
+      "content": "この鳥は何て言うの？",
+      "furigana": "この[鳥|とり]は[何|なん]て[言|い]うの？",
+      "translation_zh_CN": "這隻鳥叫作什麼?"
+    },
+    {
+      "content": "この鳥は飛べません。",
+      "furigana": "この[鳥|とり]は[飛|と]べません。",
+      "translation_zh_CN": "这只鸟不能飞。"
+    },
+    {
+      "content": "森では鳥が歌っていた。",
+      "furigana": "[森|もり]では[鳥|とり]が[歌|うた]っていた。",
+      "translation_zh_CN": "鳥兒在森林裏歌唱。"
+    },
+    {
+      "content": "この七面鳥おいしいね。",
+      "furigana": "この[七面鳥|しち|めん|ちょう]おいしいね。",
+      "translation_zh_CN": "这只火鸡味道很好。"
+    },
+    {
+      "content": "ガチョウは水鳥である。",
+      "furigana": "ガチョウは[水鳥|みず|どり]である。",
+      "translation_zh_CN": "鹅是一种水栖鸟类。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鳥居",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鳥居",
+          "reading": "とりい"
+        }
+      ]
+    },
+    {
+      "slug": "鶏肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏肉",
+          "reading": "とりにく"
+        },
+        {
+          "word": "鳥肉",
+          "reading": "とりにく"
+        },
+        {
+          "word": "鶏肉",
+          "reading": "けいにく"
+        },
+        {
+          "word": "鳥肉",
+          "reading": "ちょうにく"
+        }
+      ]
+    },
+    {
+      "slug": "鳥類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥類",
+          "reading": "ちょうるい"
+        }
+      ]
+    },
+    {
+      "slug": "鳥籠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥かご",
+          "reading": "とりかご"
+        },
+        {
+          "word": "鳥籠",
+          "reading": "とりかご"
+        },
+        {
+          "word": "鳥篭",
+          "reading": "とりかご"
+        }
+      ]
+    },
+    {
+      "slug": "鶏胸肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏胸肉",
+          "reading": "とりむねにく"
+        },
+        {
+          "word": "鶏むね肉",
+          "reading": "とりむねにく"
+        },
+        {
+          "word": "とりむね肉",
+          "reading": "とりむねにく"
+        },
+        {
+          "word": "鳥胸肉",
+          "reading": "とりむねにく"
+        },
+        {
+          "word": "鳥むね肉",
+          "reading": "とりむねにく"
+        }
+      ]
+    },
+    {
+      "slug": "鳥皮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鶏皮",
+          "reading": "とりかわ"
+        },
+        {
+          "word": "鳥皮",
+          "reading": "とりかわ"
+        }
+      ]
+    },
+    {
+      "slug": "鳥人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥人",
+          "reading": "ちょうじん"
+        }
+      ]
+    },
+    {
+      "slug": "鳥肌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥肌",
+          "reading": "とりはだ"
+        }
+      ]
+    },
+    {
+      "slug": "鳥獣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥獣",
+          "reading": "ちょうじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "鳥取大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥取大学",
+          "reading": "とっとりだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "鳥取県",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥取県",
+          "reading": "とっとりけん"
+        }
+      ]
+    },
+    {
+      "slug": "鳥兜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥兜",
+          "reading": "とりかぶと"
+        },
+        {
+          "word": "鳥甲",
+          "reading": "とりかぶと"
+        },
+        {
+          "word": "鳥頭",
+          "reading": "とりかぶと"
+        },
+        {
+          "reading": "トリカブト"
+        }
+      ]
+    },
+    {
+      "slug": "鳥肌が立つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥肌が立つ",
+          "reading": "とりはだがたつ"
+        },
+        {
+          "word": "鳥肌がたつ",
+          "reading": "とりはだがたつ"
+        }
+      ]
+    },
+    {
+      "slug": "鳥瞰図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥瞰図",
+          "reading": "ちょうかんず"
+        },
+        {
+          "word": "鳥観図",
+          "reading": "ちょうかんず"
+        }
+      ]
+    },
+    {
+      "slug": "鳥もち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥もち",
+          "reading": "とりもち"
+        },
+        {
+          "word": "鳥黐",
+          "reading": "とりもち"
+        }
+      ]
+    },
+    {
+      "slug": "鳥葬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥葬",
+          "reading": "ちょうそう"
+        }
+      ]
+    },
+    {
+      "slug": "鳥脚類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥脚類",
+          "reading": "ちょうきゃくるい"
+        }
+      ]
+    },
+    {
+      "slug": "鳥盤類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳥盤類",
+          "reading": "ちょうばんるい"
+        }
+      ]
+    }
   ]
 }

@@ -99,5 +99,327 @@
       "startStroke": 11,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "大統領には彼が適任だ。",
+      "furigana": "[大統領|だい|とう|りょう]には[彼|かれ]が[適任|てき|にん]だ。",
+      "translation_zh_CN": "他有資格當選總統。"
+    },
+    {
+      "content": "適当に３冊、本を選んで。",
+      "furigana": "[適当|てき|とう]に[３|さん][冊|さつ]、[本|ほん]を[選|えら]んで。",
+      "translation_zh_CN": "隨便選三本書。"
+    },
+    {
+      "content": "彼の意見は適切だと思った。",
+      "furigana": "[彼|かれ]の[意見|い|けん]は[適切|てき|せつ]だと[思|おも]った。",
+      "translation_zh_CN": "我認為他的意見很中肯。"
+    },
+    {
+      "content": "君こそその仕事に最適任だよ。",
+      "furigana": "[君|きみ]こそその[仕事|し|ごと]に[最|さい][適任|てき|にん]だよ。",
+      "translation_zh_CN": "你是做這份工作最好的人選。"
+    },
+    {
+      "content": "この部屋、とても快適なのよ。",
+      "furigana": "この[部屋|へ|や]、とても[快適|かい|てき]なのよ。",
+      "translation_zh_CN": "在这个房间里我很舒服。"
+    },
+    {
+      "content": "君こそその仕事に最も適任だよ。",
+      "furigana": "[君|きみ]こそその[仕事|し|ごと]に[最|もっと]も[適任|てき|にん]だよ。",
+      "translation_zh_CN": "你是做這份工作最好的人選。"
+    },
+    {
+      "content": "適当な訳を見つけるのが難しい。",
+      "furigana": "[適当|てき|とう]な[訳|やく]を[見|み]つけるのが[難|むずか]しい。",
+      "translation_zh_CN": "很难找到合适的翻译。"
+    },
+    {
+      "content": "普通電車は急行ほど快適ではない。",
+      "furigana": "[普通|ふ|つう][電車|でん|しゃ]は[急行|きゅう|こう]ほど[快適|かい|てき]ではない。",
+      "translation_zh_CN": "普通电车没有快车那么舒适。"
+    },
+    {
+      "content": "彼女はその仕事に適していないと思う。",
+      "furigana": "[彼女|かの|じょ]はその[仕事|し|ごと]に[適|てき]していないと[思|おも]う。",
+      "translation_zh_CN": "我不覺得她適合做這份工作。"
+    },
+    {
+      "content": "その仕事は若い女性には適当ではない。",
+      "furigana": "その[仕事|し|ごと]は[若|わか]い[女性|じょ|せい]には[適当|てき|とう]ではない。",
+      "translation_zh_CN": "这个岗位不合适小姑娘。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "偶々",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "偶々",
+          "reading": "たまたま"
+        },
+        {
+          "word": "偶偶",
+          "reading": "たまたま"
+        },
+        {
+          "word": "偶",
+          "reading": "たまたま"
+        },
+        {
+          "word": "適",
+          "reading": "たまたま"
+        }
+      ]
+    },
+    {
+      "slug": "適当",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "適当",
+          "reading": "てきとう"
+        },
+        {
+          "reading": "テキトー"
+        }
+      ]
+    },
+    {
+      "slug": "偶に",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "偶に",
+          "reading": "たまに"
+        },
+        {
+          "word": "適に",
+          "reading": "たまに"
+        }
+      ]
+    },
+    {
+      "slug": "適切",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "適切",
+          "reading": "てきせつ"
+        }
+      ]
+    },
+    {
+      "slug": "適用",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "適用",
+          "reading": "てきよう"
+        }
+      ]
+    },
+    {
+      "slug": "適度",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "適度",
+          "reading": "てきど"
+        }
+      ]
+    },
+    {
+      "slug": "適する",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "適する",
+          "reading": "てきする"
+        }
+      ]
+    },
+    {
+      "slug": "的確",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "的確",
+          "reading": "てきかく"
+        },
+        {
+          "word": "的確",
+          "reading": "てっかく"
+        },
+        {
+          "word": "適確",
+          "reading": "てきかく"
+        },
+        {
+          "word": "適確",
+          "reading": "てっかく"
+        }
+      ]
+    },
+    {
+      "slug": "適応",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "適応",
+          "reading": "てきおう"
+        }
+      ]
+    },
+    {
+      "slug": "適性",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "適性",
+          "reading": "てきせい"
+        }
+      ]
+    },
+    {
+      "slug": "叶う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "叶う",
+          "reading": "かなう"
+        },
+        {
+          "word": "適う",
+          "reading": "かなう"
+        },
+        {
+          "word": "敵う",
+          "reading": "かなう"
+        }
+      ]
+    },
+    {
+      "slug": "叶える",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "叶える",
+          "reading": "かなえる"
+        },
+        {
+          "word": "適える",
+          "reading": "かなえる"
+        }
+      ]
+    },
+    {
+      "slug": "適宜",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "適宜",
+          "reading": "てきぎ"
+        }
+      ]
+    },
+    {
+      "slug": "的中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "的中",
+          "reading": "てきちゅう"
+        },
+        {
+          "word": "適中",
+          "reading": "てきちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "適合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "適合",
+          "reading": "てきごう"
+        }
+      ]
+    },
+    {
+      "slug": "敵わない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵わない",
+          "reading": "かなわない"
+        },
+        {
+          "word": "適わない",
+          "reading": "かなわない"
+        }
+      ]
+    },
+    {
+      "slug": "適量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "適量",
+          "reading": "てきりょう"
+        }
+      ]
+    },
+    {
+      "slug": "適任",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "適任",
+          "reading": "てきにん"
+        }
+      ]
+    },
+    {
+      "slug": "適材適所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "適材適所",
+          "reading": "てきざいてきしょ"
+        }
+      ]
+    }
   ]
 }

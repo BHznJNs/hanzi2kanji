@@ -76,5 +76,332 @@
       "strokes": 5,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "緑です。",
+      "furigana": "[緑|みどり]です。",
+      "translation_zh_CN": "它是绿色的。"
+    },
+    {
+      "content": "緑チームが負けました。",
+      "furigana": "[緑|みどり]チームが[負|ま]けました。",
+      "translation_zh_CN": "绿队输了。"
+    },
+    {
+      "content": "テーブルは緑です。",
+      "furigana": "テーブルは[緑|みどり]です。",
+      "translation_zh_CN": "桌子是绿色的。"
+    },
+    {
+      "content": "黄色じゃなくて、緑。",
+      "furigana": "[黄色|き|いろ]じゃなくて、[緑|みどり]。",
+      "translation_zh_CN": "不是黄色，而是绿色。"
+    },
+    {
+      "content": "カーテンは緑に決めた。",
+      "furigana": "カーテンは[緑|みどり]に[決|き]めた。",
+      "translation_zh_CN": "窗帘决定是绿色的。"
+    },
+    {
+      "content": "その山は緑です。",
+      "furigana": "その[山|やま]は[緑|みどり]です。",
+      "translation_zh_CN": "那座山是绿色的。"
+    },
+    {
+      "content": "緑のシャツを持ってます。",
+      "furigana": "[緑|みどり]のシャツを[持|も]ってます。",
+      "translation_zh_CN": "我有一件绿色衬衫。"
+    },
+    {
+      "content": "緑のシャツ、持ってる。",
+      "furigana": "[緑|みどり]のシャツ、[持|も]ってる。",
+      "translation_zh_CN": "我有一件绿色衬衫。"
+    },
+    {
+      "content": "緑は草を連想させる。",
+      "furigana": "[緑|みどり]は[草|くさ]を[連想|れん|そう]させる。",
+      "translation_zh_CN": "绿色让我想起草。"
+    },
+    {
+      "content": "丘はいつも緑だ。",
+      "furigana": "[丘|おか]はいつも[緑|みどり]だ。",
+      "translation_zh_CN": "山永远是绿色的。"
+    },
+    {
+      "content": "その山は緑です。",
+      "furigana": "その[山|やま]は[緑|みどり]です。",
+      "translation_zh_CN": "山是绿色的。"
+    },
+    {
+      "content": "緑チームが負けました。",
+      "furigana": "[緑|みどり]チームが[負|ま]けました。",
+      "translation_zh_CN": "綠隊被打敗了。"
+    },
+    {
+      "content": "緑色は君にとても似合う。",
+      "furigana": "[緑色|りょく|しょく]は[君|きみ]にとても[似合|に|あ]う。",
+      "translation_zh_CN": "綠色很適合你。"
+    },
+    {
+      "content": "私はフェンスを緑に塗った。",
+      "furigana": "[私|わたし]はフェンスを[緑|みどり]に[塗|ぬ]った。",
+      "translation_zh_CN": "我把篱笆漆成了绿色。"
+    },
+    {
+      "content": "無色の緑の概念が激しく眠る。",
+      "furigana": "[無色|む|しょく]の[緑|みどり]の[概念|がい|ねん]が[激|はげ]しく[眠|ねむ]る。",
+      "translation_zh_CN": "无色的绿色的观念疯狂地睡觉。"
+    },
+    {
+      "content": "あの緑の屋根の建物は何ですか？",
+      "furigana": "あの[緑|みどり]の[屋根|や|ね]の[建物|たて|もの]は[何|なん]ですか？",
+      "translation_zh_CN": "那幢绿色屋顶的建筑是什么？"
+    },
+    {
+      "content": "緑が最も多くオレンジを食べた。",
+      "furigana": "[緑|みどり]が[最|もっと]も[多|おお]くオレンジを[食|た]べた。",
+      "translation_zh_CN": "Midori吃了大部分橙子。"
+    },
+    {
+      "content": "その緑のシャツを見せてください。",
+      "furigana": "その[緑|みどり]のシャツを[見|み]せてください。",
+      "translation_zh_CN": "請給我看看這件綠色的襯衫。"
+    },
+    {
+      "content": "紅茶と緑茶の違いを私に説明できますか。",
+      "furigana": "[紅茶|こう|ちゃ]と[緑茶|りょく|ちゃ]の[違|ちが]いを[私|わたし]に[説明|せつ|めい]できますか。",
+      "translation_zh_CN": "你能告诉我红茶和绿茶的区别吗？"
+    },
+    {
+      "content": "イギリスでは冬でも芝生が緑だそうですね。",
+      "furigana": "イギリスでは[冬|ふゆ]でも[芝生|しば|ふ]が[緑|みどり]だそうですね。",
+      "translation_zh_CN": "我听说英国的草在冬天也还是绿的。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "緑茶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑茶",
+          "reading": "りょくちゃ"
+        }
+      ]
+    },
+    {
+      "slug": "緑内障",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑内障",
+          "reading": "りょくないしょう"
+        }
+      ]
+    },
+    {
+      "slug": "緑色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑色",
+          "reading": "みどりいろ"
+        },
+        {
+          "word": "みどり色",
+          "reading": "みどりいろ"
+        },
+        {
+          "word": "翠色",
+          "reading": "みどりいろ"
+        },
+        {
+          "word": "緑色",
+          "reading": "りょくしょく"
+        }
+      ]
+    },
+    {
+      "slug": "緑黄色野菜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑黄色野菜",
+          "reading": "りょくおうしょくやさい"
+        }
+      ]
+    },
+    {
+      "slug": "緑地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑地",
+          "reading": "りょくち"
+        }
+      ]
+    },
+    {
+      "slug": "緑青",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑青",
+          "reading": "ろくしょう"
+        },
+        {
+          "word": "緑青",
+          "reading": "りょくしょう"
+        }
+      ]
+    },
+    {
+      "slug": "緑黄色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑黄色",
+          "reading": "りょくおうしょく"
+        }
+      ]
+    },
+    {
+      "slug": "緑風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑風",
+          "reading": "りょくふう"
+        }
+      ]
+    },
+    {
+      "slug": "緑豆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑豆",
+          "reading": "りょくとう"
+        },
+        {
+          "reading": "リョクトウ"
+        }
+      ]
+    },
+    {
+      "slug": "緑河豚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑河豚",
+          "reading": "みどりふぐ"
+        },
+        {
+          "reading": "ミドリフグ"
+        }
+      ]
+    },
+    {
+      "slug": "緑礬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑礬",
+          "reading": "りょくばん"
+        }
+      ]
+    },
+    {
+      "slug": "緑簾石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑簾石",
+          "reading": "りょくれんせき"
+        }
+      ]
+    },
+    {
+      "slug": "緑化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑化",
+          "reading": "りょっか"
+        },
+        {
+          "word": "緑化",
+          "reading": "りょくか"
+        }
+      ]
+    },
+    {
+      "slug": "緑細大蜥蜴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ミドリホソオオトカゲ"
+        },
+        {
+          "word": "緑細大蜥蜴",
+          "reading": "みどりほそおおとかげ"
+        }
+      ]
+    },
+    {
+      "slug": "緑膿菌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑膿菌",
+          "reading": "りょくのうきん"
+        },
+        {
+          "word": "緑のう菌",
+          "reading": "りょくのうきん"
+        }
+      ]
+    },
+    {
+      "slug": "緑柱石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑柱石",
+          "reading": "りょくちゅうせき"
+        }
+      ]
+    },
+    {
+      "slug": "緑藻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑藻",
+          "reading": "りょくそう"
+        }
+      ]
+    },
+    {
+      "slug": "緑肥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑肥",
+          "reading": "りょくひ"
+        }
+      ]
+    },
+    {
+      "slug": "緑の革命",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緑の革命",
+          "reading": "みどりのかくめい"
+        }
+      ]
+    }
   ]
 }

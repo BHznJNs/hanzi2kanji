@@ -82,5 +82,366 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "おれも話が",
+      "furigana": "おれも[話|はなし]が",
+      "translation_zh_CN": "我也有一个故事"
+    },
+    {
+      "content": "興味深い話でした。",
+      "furigana": "[興味深|きょう|み|ぶか]い[話|はなし]でした。",
+      "translation_zh_CN": "这是一个有趣的故事。"
+    },
+    {
+      "content": "話を楽しんでいる。",
+      "furigana": "[話|はなし]を[楽|たの]しんでいる。",
+      "translation_zh_CN": "我很享受这个故事。"
+    },
+    {
+      "content": "何の話？",
+      "furigana": "[何|なん]の[話|はなし]？",
+      "translation_zh_CN": "你在说什么？"
+    },
+    {
+      "content": "耳寄りな話だ。",
+      "furigana": "[耳寄|みみ|よ]りな[話|はなし]だ。",
+      "translation_zh_CN": "这是一个有趣的故事。"
+    },
+    {
+      "content": "奇妙な話だった。",
+      "furigana": "[奇妙|き|みょう]な[話|はなし]だった。",
+      "translation_zh_CN": "这是一个奇怪的故事。"
+    },
+    {
+      "content": "話は決まった。",
+      "furigana": "[話|はなし]は[決|き]まった。",
+      "translation_zh_CN": "故事已经决定了。"
+    },
+    {
+      "content": "切ない話だった。",
+      "furigana": "[切|せつ]ない[話|はなし]だった。",
+      "translation_zh_CN": "这是一个悲伤的故事。"
+    },
+    {
+      "content": "何の話ですか？",
+      "furigana": "[何|なん]の[話|はなし]ですか？",
+      "translation_zh_CN": "你在说什么？"
+    },
+    {
+      "content": "話を聞かせてくれ。",
+      "furigana": "[話|はなし]を[聞|き]かせてくれ。",
+      "translation_zh_CN": "请告诉我你的故事。"
+    },
+    {
+      "content": "何を話しているの？",
+      "furigana": "[何|なに]を[話|はな]しているの？",
+      "translation_zh_CN": "你在说什么呢？"
+    },
+    {
+      "content": "話を続けなさい。",
+      "furigana": "[話|はなし]を[続|つづ]けなさい。",
+      "translation_zh_CN": "繼續說你的故事吧。"
+    },
+    {
+      "content": "面白そうな話だ。",
+      "furigana": "[面白|おも|しろ]そうな[話|はなし]だ。",
+      "translation_zh_CN": "这是条有趣的信息。"
+    },
+    {
+      "content": "毎晩電話するよ。",
+      "furigana": "[毎晩|まい|ばん][電話|でん|わ]するよ。",
+      "translation_zh_CN": "我每晚都給你打電話。"
+    },
+    {
+      "content": "彼は話をやめた。",
+      "furigana": "[彼|かれ]は[話|はなし]をやめた。",
+      "translation_zh_CN": "他停止了說話。"
+    },
+    {
+      "content": "電話にでなさい。",
+      "furigana": "[電話|でん|わ]にでなさい。",
+      "translation_zh_CN": "接电话。"
+    },
+    {
+      "content": "大きなお世話だ。",
+      "furigana": "[大|おお]きなお[世話|せ|わ]だ。",
+      "translation_zh_CN": "管好你自己的事吧。"
+    },
+    {
+      "content": "今夜電話します。",
+      "furigana": "[今夜|こん|や][電話|でん|わ]します。",
+      "translation_zh_CN": "我今晚给你打电话。"
+    },
+    {
+      "content": "後で電話します。",
+      "furigana": "[後|あと]で[電話|でん|わ]します。",
+      "translation_zh_CN": "我晚点打给你。"
+    },
+    {
+      "content": "後で電話するよ。",
+      "furigana": "[後|あと]で[電話|でん|わ]するよ。",
+      "translation_zh_CN": "我晚点打给你。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "話題",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "話題",
+          "reading": "わだい"
+        }
+      ]
+    },
+    {
+      "slug": "話す",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "話す",
+          "reading": "はなす"
+        },
+        {
+          "word": "咄す",
+          "reading": "はなす"
+        }
+      ]
+    },
+    {
+      "slug": "話し合う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "話し合う",
+          "reading": "はなしあう"
+        },
+        {
+          "word": "話しあう",
+          "reading": "はなしあう"
+        },
+        {
+          "word": "話合う",
+          "reading": "はなしあう"
+        }
+      ]
+    },
+    {
+      "slug": "話し合い",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "話し合い",
+          "reading": "はなしあい"
+        },
+        {
+          "word": "話合い",
+          "reading": "はなしあい"
+        }
+      ]
+    },
+    {
+      "slug": "話しかける",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "話しかける",
+          "reading": "はなしかける"
+        },
+        {
+          "word": "話し掛ける",
+          "reading": "はなしかける"
+        }
+      ]
+    },
+    {
+      "slug": "話し中",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "話し中",
+          "reading": "はなしちゅう"
+        },
+        {
+          "word": "話中",
+          "reading": "はなしちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "話し言葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話し言葉",
+          "reading": "はなしことば"
+        },
+        {
+          "word": "話しことば",
+          "reading": "はなしことば"
+        },
+        {
+          "word": "話言葉",
+          "reading": "はなしことば"
+        }
+      ]
+    },
+    {
+      "slug": "話し声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話し声",
+          "reading": "はなしごえ"
+        },
+        {
+          "word": "話声",
+          "reading": "はなしごえ"
+        }
+      ]
+    },
+    {
+      "slug": "話し方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話し方",
+          "reading": "はなしかた"
+        }
+      ]
+    },
+    {
+      "slug": "話し相手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話し相手",
+          "reading": "はなしあいて"
+        },
+        {
+          "word": "話相手",
+          "reading": "はなしあいて"
+        }
+      ]
+    },
+    {
+      "slug": "話術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話術",
+          "reading": "わじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "話し手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話し手",
+          "reading": "はなして"
+        }
+      ]
+    },
+    {
+      "slug": "話し振り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話しぶり",
+          "reading": "はなしぶり"
+        },
+        {
+          "word": "話し振り",
+          "reading": "はなしぶり"
+        },
+        {
+          "word": "話ぶり",
+          "reading": "はなしぶり"
+        }
+      ]
+    },
+    {
+      "slug": "話せる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話せる",
+          "reading": "はなせる"
+        }
+      ]
+    },
+    {
+      "slug": "話し好き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話し好き",
+          "reading": "はなしずき"
+        },
+        {
+          "word": "話好き",
+          "reading": "はなしずき"
+        },
+        {
+          "word": "話好",
+          "reading": "はなしずき"
+        }
+      ]
+    },
+    {
+      "slug": "話し出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話し出す",
+          "reading": "はなしだす"
+        },
+        {
+          "word": "話しだす",
+          "reading": "はなしだす"
+        }
+      ]
+    },
+    {
+      "slug": "話のわかる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話のわかる",
+          "reading": "はなしのわかる"
+        },
+        {
+          "word": "話の分かる",
+          "reading": "はなしのわかる"
+        }
+      ]
+    },
+    {
+      "slug": "話にならない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "話にならない",
+          "reading": "はなしにならない"
+        }
+      ]
+    }
   ]
 }

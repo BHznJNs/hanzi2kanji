@@ -71,5 +71,126 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "攪乳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撹乳",
+          "reading": "かくにゅう"
+        },
+        {
+          "word": "攪乳",
+          "reading": "かくにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "撹乳器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撹乳器",
+          "reading": "かくにゅうき"
+        },
+        {
+          "word": "攪乳器",
+          "reading": "かくにゅうき"
+        }
+      ]
+    },
+    {
+      "slug": "撹乱戦術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撹乱戦術",
+          "reading": "かくらんせんじゅつ"
+        },
+        {
+          "word": "攪乱戦術",
+          "reading": "かくらんせんじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "撹乱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撹乱",
+          "reading": "かくらん"
+        },
+        {
+          "word": "攪乱",
+          "reading": "かくらん"
+        },
+        {
+          "word": "かく乱",
+          "reading": "かくらん"
+        },
+        {
+          "word": "撹乱",
+          "reading": "こうらん"
+        },
+        {
+          "word": "攪乱",
+          "reading": "こうらん"
+        }
+      ]
+    },
+    {
+      "slug": "攪拌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "攪拌",
+          "reading": "かくはん"
+        },
+        {
+          "word": "攪拌",
+          "reading": "こうはん"
+        },
+        {
+          "word": "撹拌",
+          "reading": "かくはん"
+        },
+        {
+          "word": "撹拌",
+          "reading": "こうはん"
+        }
+      ]
+    },
+    {
+      "slug": "撹乱者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撹乱者",
+          "reading": "かくらんしゃ"
+        },
+        {
+          "word": "攪乱者",
+          "reading": "かくらんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "かくはん機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "攪拌機",
+          "reading": "かくはんき"
+        },
+        {
+          "word": "撹拌機",
+          "reading": "かくはんき"
+        }
+      ]
+    }
   ]
 }

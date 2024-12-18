@@ -94,5 +94,98 @@
       "startStroke": 8,
       "strokes": 8
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "擁護",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擁護",
+          "reading": "ようご"
+        }
+      ]
+    },
+    {
+      "slug": "擁する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擁する",
+          "reading": "ようする"
+        }
+      ]
+    },
+    {
+      "slug": "抱く",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "抱く",
+          "reading": "いだく"
+        },
+        {
+          "word": "懐く",
+          "reading": "いだく"
+        }
+      ]
+    },
+    {
+      "slug": "擁立",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擁立",
+          "reading": "ようりつ"
+        }
+      ]
+    },
+    {
+      "slug": "擁壁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擁壁",
+          "reading": "ようへき"
+        }
+      ]
+    },
+    {
+      "slug": "擁護論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擁護論",
+          "reading": "ようごろん"
+        }
+      ]
+    },
+    {
+      "slug": "応護",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "応護",
+          "reading": "おうご"
+        },
+        {
+          "word": "擁護",
+          "reading": "おうご"
+        }
+      ]
+    },
+    {
+      "slug": "擁護者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擁護者",
+          "reading": "ようごしゃ"
+        }
+      ]
+    }
   ]
 }

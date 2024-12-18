@@ -59,5 +59,358 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "馬から降りなさい。",
+      "furigana": "[馬|うま]から[降|お]りなさい。",
+      "translation_zh_CN": "下马吧。"
+    },
+    {
+      "content": "馬に乗りなさい。",
+      "furigana": "[馬|うま]に[乗|の]りなさい。",
+      "translation_zh_CN": "骑马。"
+    },
+    {
+      "content": "馬に乗せてよ。",
+      "furigana": "[馬|うま]に[乗|の]せてよ。",
+      "translation_zh_CN": "让我骑上马。"
+    },
+    {
+      "content": "これは馬です。",
+      "furigana": "これは[馬|うま]です。",
+      "translation_zh_CN": "这是一匹马。"
+    },
+    {
+      "content": "馬は頑として動かなかった。",
+      "furigana": "[馬|うま]は[頑|がん]として[動|うご]かなかった。",
+      "translation_zh_CN": "马却固执地一动不动。"
+    },
+    {
+      "content": "馬に乗れるの？",
+      "furigana": "[馬|うま]に[乗|の]れるの？",
+      "translation_zh_CN": "你会骑马吗？"
+    },
+    {
+      "content": "トムは馬から落ちた。",
+      "furigana": "トムは[馬|うま]から[落|お]ちた。",
+      "translation_zh_CN": "汤姆从马上摔下来。"
+    },
+    {
+      "content": "僕は馬に乗ってみたい。",
+      "furigana": "[僕|ぼく]は[馬|うま]に[乗|の]ってみたい。",
+      "translation_zh_CN": "我想骑马。"
+    },
+    {
+      "content": "馬は役に立つ動物です。",
+      "furigana": "[馬|うま]は[役|やく]に[立|た]つ[動物|どう|ぶつ]です。",
+      "translation_zh_CN": "马是有用的动物。"
+    },
+    {
+      "content": "その馬は速く走る。",
+      "furigana": "その[馬|うま]は[速|はや]く[走|はし]る。",
+      "translation_zh_CN": "马跑得很快。"
+    },
+    {
+      "content": "あんたは馬鹿だ。",
+      "furigana": "あんたは[馬鹿|ば|か]だ。",
+      "translation_zh_CN": "你是一個笨蛋。"
+    },
+    {
+      "content": "馬に乗りなさい。",
+      "furigana": "[馬|うま]に[乗|の]りなさい。",
+      "translation_zh_CN": "上马。"
+    },
+    {
+      "content": "馬は草を食べる。",
+      "furigana": "[馬|うま]は[草|くさ]を[食|た]べる。",
+      "translation_zh_CN": "马吃草。"
+    },
+    {
+      "content": "馬鹿だな、おまえ！",
+      "furigana": "[馬鹿|ば|か]だな、おまえ！",
+      "translation_zh_CN": "你疯了吗？"
+    },
+    {
+      "content": "何で馬が欲しいの？",
+      "furigana": "[何|なん]で[馬|うま]が[欲|ほ]しいの？",
+      "translation_zh_CN": "你為什麼想要一匹馬？"
+    },
+    {
+      "content": "彼は馬鹿ではない。",
+      "furigana": "[彼|かれ]は[馬鹿|ば|か]ではない。",
+      "translation_zh_CN": "他不蠢。"
+    },
+    {
+      "content": "彼は馬から落ちた。",
+      "furigana": "[彼|かれ]は[馬|うま]から[落|お]ちた。",
+      "translation_zh_CN": "他落马了。"
+    },
+    {
+      "content": "彼は乗馬が得意だ。",
+      "furigana": "[彼|かれ]は[乗馬|じょう|ば]が[得意|とく|い]だ。",
+      "translation_zh_CN": "他擅長騎馬。"
+    },
+    {
+      "content": "人を馬鹿にするな。",
+      "furigana": "[人|ひと]を[馬鹿|ば|か]にするな。",
+      "translation_zh_CN": "别把人家当傻瓜。"
+    },
+    {
+      "content": "馬は有用な動物だ。",
+      "furigana": "[馬|うま]は[有用|ゆう|よう]な[動物|どう|ぶつ]だ。",
+      "translation_zh_CN": "马是种很有用的动物。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "馬鹿",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "馬鹿",
+          "reading": "ばか"
+        },
+        {
+          "word": "莫迦",
+          "reading": "ばか"
+        },
+        {
+          "reading": "バカ"
+        }
+      ]
+    },
+    {
+      "slug": "馬鹿らしい",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "馬鹿らしい",
+          "reading": "ばからしい"
+        },
+        {
+          "reading": "バカらしい"
+        }
+      ]
+    },
+    {
+      "slug": "バケツ",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "馬穴",
+          "reading": "バケツ"
+        },
+        {
+          "word": "馬尻",
+          "reading": "バケツ"
+        }
+      ]
+    },
+    {
+      "slug": "馬車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬車",
+          "reading": "ばしゃ"
+        },
+        {
+          "word": "馬車",
+          "reading": "うまぐるま"
+        }
+      ]
+    },
+    {
+      "slug": "じゃが芋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "じゃが芋",
+          "reading": "じゃがいも"
+        },
+        {
+          "reading": "ジャガイモ"
+        }
+      ]
+    },
+    {
+      "slug": "馬力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬力",
+          "reading": "ばりき"
+        }
+      ]
+    },
+    {
+      "slug": "馬術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬術",
+          "reading": "ばじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "馬鹿馬鹿しい",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "馬鹿馬鹿しい",
+          "reading": "ばかばかしい"
+        },
+        {
+          "reading": "バカバカしい"
+        }
+      ]
+    },
+    {
+      "slug": "馬券",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬券",
+          "reading": "ばけん"
+        }
+      ]
+    },
+    {
+      "slug": "馬来西亜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬来西亜",
+          "reading": "マレーシア"
+        }
+      ]
+    },
+    {
+      "slug": "馬身",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬身",
+          "reading": "ばしん"
+        }
+      ]
+    },
+    {
+      "slug": "マニラ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬尼剌",
+          "reading": "マニラ"
+        }
+      ]
+    },
+    {
+      "slug": "馬の耳に念仏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬の耳に念仏",
+          "reading": "うまのみみにねんぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "馬小屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬小屋",
+          "reading": "うまごや"
+        }
+      ]
+    },
+    {
+      "slug": "馬鹿げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬鹿げる",
+          "reading": "ばかげる"
+        },
+        {
+          "reading": "バカげる"
+        }
+      ]
+    },
+    {
+      "slug": "馬鹿者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬鹿者",
+          "reading": "ばかもの"
+        },
+        {
+          "word": "馬鹿者",
+          "reading": "ばかもん"
+        },
+        {
+          "word": "バカ者",
+          "reading": "ばかもの"
+        },
+        {
+          "word": "バカ者",
+          "reading": "ばかもん"
+        }
+      ]
+    },
+    {
+      "slug": "馬鹿な真似",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬鹿な真似",
+          "reading": "ばかなまね"
+        },
+        {
+          "word": "バカな真似",
+          "reading": "ばかなまね"
+        }
+      ]
+    },
+    {
+      "slug": "馬鹿さ加減",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬鹿さ加減",
+          "reading": "ばかさかげん"
+        },
+        {
+          "word": "バカさ加減",
+          "reading": "ばかさかげん"
+        }
+      ]
+    },
+    {
+      "slug": "馬鹿げた",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馬鹿げた",
+          "reading": "ばかげた"
+        },
+        {
+          "reading": "バカげた"
+        }
+      ]
+    }
   ]
 }

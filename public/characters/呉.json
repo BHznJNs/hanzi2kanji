@@ -61,5 +61,225 @@
       "startStroke": 5,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "呉れる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "呉れる",
+          "reading": "くれる"
+        }
+      ]
+    },
+    {
+      "slug": "呉れ呉れも",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "呉れ呉れも",
+          "reading": "くれぐれも"
+        },
+        {
+          "word": "呉々も",
+          "reading": "くれぐれも"
+        },
+        {
+          "word": "呉呉も",
+          "reading": "くれぐれも"
+        }
+      ]
+    },
+    {
+      "slug": "呉越同舟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉越同舟",
+          "reading": "ごえつどうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "呉れてやる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉れてやる",
+          "reading": "くれてやる"
+        },
+        {
+          "word": "呉れて遣る",
+          "reading": "くれてやる"
+        }
+      ]
+    },
+    {
+      "slug": "呉服",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉服",
+          "reading": "ごふく"
+        }
+      ]
+    },
+    {
+      "slug": "茣蓙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "茣蓙",
+          "reading": "ござ"
+        },
+        {
+          "word": "蓙",
+          "reading": "ござ"
+        },
+        {
+          "word": "呉蓙",
+          "reading": "ござ"
+        }
+      ]
+    },
+    {
+      "slug": "呉音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉音",
+          "reading": "ごおん"
+        }
+      ]
+    },
+    {
+      "slug": "呉越",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉越",
+          "reading": "ごえつ"
+        }
+      ]
+    },
+    {
+      "slug": "呉大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉大学",
+          "reading": "くれだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "呉服店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉服店",
+          "reading": "ごふくてん"
+        },
+        {
+          "word": "呉服店",
+          "reading": "ごふくだな"
+        }
+      ]
+    },
+    {
+      "slug": "呉れ手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉れ手",
+          "reading": "くれて"
+        }
+      ]
+    },
+    {
+      "slug": "呉服屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉服屋",
+          "reading": "ごふくや"
+        }
+      ]
+    },
+    {
+      "slug": "呉服物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉服物",
+          "reading": "ごふくもの"
+        }
+      ]
+    },
+    {
+      "slug": "呉服尺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉服尺",
+          "reading": "ごふくじゃく"
+        }
+      ]
+    },
+    {
+      "slug": "呉の母",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉の母",
+          "reading": "くれのおも"
+        },
+        {
+          "word": "懐香",
+          "reading": "くれのおも"
+        }
+      ]
+    },
+    {
+      "slug": "呉竹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉竹",
+          "reading": "くれたけ"
+        },
+        {
+          "reading": "クレタケ"
+        }
+      ]
+    },
+    {
+      "slug": "呉汁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉汁",
+          "reading": "ごじる"
+        }
+      ]
+    },
+    {
+      "slug": "呉服商",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呉服商",
+          "reading": "ごふくしょう"
+        }
+      ]
+    }
   ]
 }

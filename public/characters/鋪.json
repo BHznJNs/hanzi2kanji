@@ -56,5 +56,60 @@
       "startStroke": 14,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "舗装",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "舗装",
+          "reading": "ほそう"
+        },
+        {
+          "word": "鋪装",
+          "reading": "ほそう"
+        }
+      ]
+    },
+    {
+      "slug": "舗道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舗道",
+          "reading": "ほどう"
+        },
+        {
+          "word": "鋪道",
+          "reading": "ほどう"
+        }
+      ]
+    },
+    {
+      "slug": "敷石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敷石",
+          "reading": "しきいし"
+        },
+        {
+          "word": "敷き石",
+          "reading": "しきいし"
+        },
+        {
+          "word": "甃石",
+          "reading": "しきいし"
+        },
+        {
+          "word": "鋪石",
+          "reading": "しきいし"
+        }
+      ]
+    }
   ]
 }

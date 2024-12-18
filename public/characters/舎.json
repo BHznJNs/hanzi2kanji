@@ -81,5 +81,246 @@
       "startStroke": 5,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "「都庁舎でもらえますよ」と係員が付け加えた。",
+      "furigana": "「[都庁舎|と|ちょう|しゃ]でもらえますよ」と[係員|かかり|いん]が[付|つ]け[加|くわ]えた。",
+      "translation_zh_CN": "“你可以在东京都厅领取。”该工作人员补充道。"
+    },
+    {
+      "content": "僕は田舎で育った。",
+      "furigana": "[僕|ぼく]は[田舎|いなか]で[育|そだ]った。",
+      "translation_zh_CN": "我在鄉下長大。"
+    },
+    {
+      "content": "彼は校舎に放火した。",
+      "furigana": "[彼|かれ]は[校舎|こう|しゃ]に[放火|ほう|か]した。",
+      "translation_zh_CN": "他放火燒了校舍。"
+    },
+    {
+      "content": "田舎に住んでいます。",
+      "furigana": "[田舎|いなか]に[住|す]んでいます。",
+      "translation_zh_CN": "我住在鄉間。"
+    },
+    {
+      "content": "父は田舎に住んでいる。",
+      "furigana": "[父|ちち]は[田舎|いなか]に[住|す]んでいる。",
+      "translation_zh_CN": "我父親住在鄉下。"
+    },
+    {
+      "content": "彼は田舎に住んでいる。",
+      "furigana": "[彼|かれ]は[田舎|いなか]に[住|す]んでいる。",
+      "translation_zh_CN": "他住在鄉下地區。"
+    },
+    {
+      "content": "新しい校舎が建設中です。",
+      "furigana": "[新|あたら]しい[校舎|こう|しゃ]が[建設|けん|せつ][中|ちゅう]です。",
+      "translation_zh_CN": "一座新的教学楼正在建设。"
+    },
+    {
+      "content": "私は田舎に住むのは嫌だ。",
+      "furigana": "[私|わたし]は[田舎|いなか]に[住|す]むのは[嫌|いや]だ。",
+      "translation_zh_CN": "我不喜歡住在鄉下。"
+    },
+    {
+      "content": "毎年、夏は田舎へ帰るんだ。",
+      "furigana": "[毎年|まい|とし]、[夏|なつ]は[田舎|いなか]へ[帰|かえ]るんだ。",
+      "translation_zh_CN": "我每年夏天都去鄉下。"
+    },
+    {
+      "content": "私の祖母は田舎に住んでいる。",
+      "furigana": "[私|わたし]の[祖母|そ|ぼ]は[田舎|いなか]に[住|す]んでいる。",
+      "translation_zh_CN": "我祖母住在乡下。"
+    },
+    {
+      "content": "両親は田舎で気楽に暮らしています。",
+      "furigana": "[両親|りょう|しん]は[田舎|いなか]で[気楽|き|らく]に[暮|く]らしています。",
+      "translation_zh_CN": "我父母在乡村过着无忧无虑的生活。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "シアトル",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎路",
+          "reading": "シアトル"
+        }
+      ]
+    },
+    {
+      "slug": "舎利",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎利",
+          "reading": "しゃり"
+        },
+        {
+          "word": "舎利",
+          "reading": "さり"
+        }
+      ]
+    },
+    {
+      "slug": "舎弟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎弟",
+          "reading": "しゃてい"
+        }
+      ]
+    },
+    {
+      "slug": "舎営",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎営",
+          "reading": "しゃえい"
+        }
+      ]
+    },
+    {
+      "slug": "舎費",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎費",
+          "reading": "しゃひ"
+        }
+      ]
+    },
+    {
+      "slug": "遮那",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遮那",
+          "reading": "しゃな"
+        },
+        {
+          "word": "舎那",
+          "reading": "しゃな"
+        }
+      ]
+    },
+    {
+      "slug": "舎利別",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎利別",
+          "reading": "しゃりべつ"
+        }
+      ]
+    },
+    {
+      "slug": "舎宅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎宅",
+          "reading": "しゃたく"
+        }
+      ]
+    },
+    {
+      "slug": "舎密",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎密",
+          "reading": "セイミ"
+        },
+        {
+          "word": "舎密",
+          "reading": "セーミ"
+        }
+      ]
+    },
+    {
+      "slug": "舎利塔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎利塔",
+          "reading": "しゃりとう"
+        }
+      ]
+    },
+    {
+      "slug": "舎利殿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎利殿",
+          "reading": "しゃりでん"
+        }
+      ]
+    },
+    {
+      "slug": "舎兄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎兄",
+          "reading": "しゃけい"
+        }
+      ]
+    },
+    {
+      "slug": "舎利塩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀉利塩",
+          "reading": "しゃりえん"
+        },
+        {
+          "word": "舎利塩",
+          "reading": "しゃりえん"
+        },
+        {
+          "word": "瀉痢塩",
+          "reading": "しゃりえん"
+        }
+      ]
+    },
+    {
+      "slug": "舎監",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎監",
+          "reading": "しゃかん"
+        }
+      ]
+    },
+    {
+      "slug": "舎人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舎人",
+          "reading": "しゃじん"
+        },
+        {
+          "word": "舎人",
+          "reading": "とねり"
+        },
+        {
+          "word": "舍人",
+          "reading": "しゃじん"
+        },
+        {
+          "word": "舍人",
+          "reading": "とねり"
+        }
+      ]
+    }
   ]
 }

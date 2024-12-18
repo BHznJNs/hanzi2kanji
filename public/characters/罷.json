@@ -102,5 +102,218 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "止む",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "止む",
+          "reading": "やむ"
+        },
+        {
+          "word": "已む",
+          "reading": "やむ"
+        },
+        {
+          "word": "罷む",
+          "reading": "やむ"
+        },
+        {
+          "word": "熄む",
+          "reading": "やむ"
+        },
+        {
+          "word": "歇む",
+          "reading": "やむ"
+        }
+      ]
+    },
+    {
+      "slug": "辞める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "辞める",
+          "reading": "やめる"
+        },
+        {
+          "word": "罷める",
+          "reading": "やめる"
+        },
+        {
+          "word": "退める",
+          "reading": "やめる"
+        }
+      ]
+    },
+    {
+      "slug": "罷免",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罷免",
+          "reading": "ひめん"
+        }
+      ]
+    },
+    {
+      "slug": "まかり間違う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まかり間違う",
+          "reading": "まかりまちがう"
+        },
+        {
+          "word": "罷り間違う",
+          "reading": "まかりまちがう"
+        }
+      ]
+    },
+    {
+      "slug": "まかり通る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まかり通る",
+          "reading": "まかりとおる"
+        },
+        {
+          "word": "罷り通る",
+          "reading": "まかりとおる"
+        }
+      ]
+    },
+    {
+      "slug": "罷り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罷り",
+          "reading": "まかり"
+        }
+      ]
+    },
+    {
+      "slug": "罷り間違えば",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まかり間違えば",
+          "reading": "まかりまちがえば"
+        },
+        {
+          "word": "罷り間違えば",
+          "reading": "まかりまちがえば"
+        }
+      ]
+    },
+    {
+      "slug": "罷めさせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辞めさせる",
+          "reading": "やめさせる"
+        },
+        {
+          "word": "罷めさせる",
+          "reading": "やめさせる"
+        }
+      ]
+    },
+    {
+      "slug": "罷免権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罷免権",
+          "reading": "ひめんけん"
+        }
+      ]
+    },
+    {
+      "slug": "罷り出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まかり出る",
+          "reading": "まかりでる"
+        },
+        {
+          "word": "罷り出る",
+          "reading": "まかりでる"
+        }
+      ]
+    },
+    {
+      "slug": "罷官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罷官",
+          "reading": "ひかん"
+        }
+      ]
+    },
+    {
+      "slug": "罷り越す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まかり越す",
+          "reading": "まかりこす"
+        },
+        {
+          "word": "罷り越す",
+          "reading": "まかりこす"
+        }
+      ]
+    },
+    {
+      "slug": "罷業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罷業",
+          "reading": "ひぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "罷り成らぬ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罷り成らぬ",
+          "reading": "まかりならぬ"
+        },
+        {
+          "word": "罷りならぬ",
+          "reading": "まかりならぬ"
+        }
+      ]
+    },
+    {
+      "slug": "まかり間違っても",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まかり間違っても",
+          "reading": "まかりまちがっても"
+        },
+        {
+          "word": "罷り間違っても",
+          "reading": "まかりまちがっても"
+        }
+      ]
+    }
   ]
 }

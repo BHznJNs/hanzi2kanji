@@ -50,5 +50,312 @@
       "startStroke": 0,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "糸が絡まった。",
+      "furigana": "[糸|いと]が[絡|から]まった。",
+      "translation_zh_CN": "线缠结了。"
+    },
+    {
+      "content": "糸がもつれちゃった。",
+      "furigana": "[糸|いと]がもつれちゃった。",
+      "translation_zh_CN": "线是缠结的。"
+    },
+    {
+      "content": "蚕が糸を吐いている。",
+      "furigana": "[蚕|かいこ]が[糸|いと]を[吐|は]いている。",
+      "translation_zh_CN": "蚕正在吐丝。"
+    },
+    {
+      "content": "針に糸を通しておくれ。",
+      "furigana": "[針|はり]に[糸|いと]を[通|とお]しておくれ。",
+      "translation_zh_CN": "穿针。"
+    },
+    {
+      "content": "長い糸はからまりやすい。",
+      "furigana": "[長|なが]い[糸|いと]はからまりやすい。",
+      "translation_zh_CN": "长线容易缠结。"
+    },
+    {
+      "content": "針と糸を持っていませんか。",
+      "furigana": "[針|はり]と[糸|いと]を[持|も]っていませんか。",
+      "translation_zh_CN": "没有针和线吗？"
+    },
+    {
+      "content": "トムはたこに糸を結び付けた。",
+      "furigana": "トムはたこに[糸|いと]を[結|むす]び[付|つ]けた。",
+      "translation_zh_CN": "汤姆在风筝上系了一根绳子。"
+    },
+    {
+      "content": "この糸は丈夫だよ。",
+      "furigana": "この[糸|いと]は[丈夫|じょう|ぶ]だよ。",
+      "translation_zh_CN": "这条线很强。"
+    },
+    {
+      "content": "この糸はすぐもつれる。",
+      "furigana": "この[糸|いと]はすぐもつれる。",
+      "translation_zh_CN": "这根线很容易缠结。"
+    },
+    {
+      "content": "トムは凧に糸を付けた。",
+      "furigana": "トムは[凧|たこ]に[糸|いと]を[付|つ]けた。",
+      "translation_zh_CN": "汤姆把绳子系在风筝上。"
+    },
+    {
+      "content": "トムは凧に糸を付けた。",
+      "furigana": "トムは[凧|たこ]に[糸|いと]を[付|つ]けた。",
+      "translation_zh_CN": "湯姆把繩子加在了這個風箏上。"
+    },
+    {
+      "content": "赤い糸と白い糸、どっちがいいですか。",
+      "furigana": "[赤|あか]い[糸|いと]と[白|しろ]い[糸|いと]、どっちがいいですか。",
+      "translation_zh_CN": "哪个更好，红线呢还是白线？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "糸口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸口",
+          "reading": "いとぐち"
+        },
+        {
+          "word": "緒",
+          "reading": "いとぐち"
+        },
+        {
+          "word": "絲口",
+          "reading": "いとぐち"
+        }
+      ]
+    },
+    {
+      "slug": "糸車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸車",
+          "reading": "いとぐるま"
+        }
+      ]
+    },
+    {
+      "slug": "糸瓜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸瓜",
+          "reading": "へちま"
+        },
+        {
+          "word": "天糸瓜",
+          "reading": "へちま"
+        },
+        {
+          "reading": "ヘチマ"
+        }
+      ]
+    },
+    {
+      "slug": "糸鋸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸鋸",
+          "reading": "いとのこ"
+        },
+        {
+          "word": "糸のこ",
+          "reading": "いとのこ"
+        },
+        {
+          "word": "糸ノコ",
+          "reading": "いとノコ"
+        }
+      ]
+    },
+    {
+      "slug": "糸目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸目",
+          "reading": "いとめ"
+        }
+      ]
+    },
+    {
+      "slug": "糸魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸魚",
+          "reading": "いとよ"
+        },
+        {
+          "reading": "イトヨ"
+        }
+      ]
+    },
+    {
+      "slug": "糸を引く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸を引く",
+          "reading": "いとをひく"
+        }
+      ]
+    },
+    {
+      "slug": "糸を垂れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸を垂れる",
+          "reading": "いとをたれる"
+        }
+      ]
+    },
+    {
+      "slug": "糸魚川静岡構造線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸魚川静岡構造線",
+          "reading": "いといがわしずおかこうぞうせん"
+        }
+      ]
+    },
+    {
+      "slug": "糸電話",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸電話",
+          "reading": "いとでんわ"
+        }
+      ]
+    },
+    {
+      "slug": "糸球体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸球体",
+          "reading": "しきゅうたい"
+        }
+      ]
+    },
+    {
+      "slug": "糸撚鯛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸撚鯛",
+          "reading": "いとよりだい"
+        },
+        {
+          "reading": "イトヨリダイ"
+        }
+      ]
+    },
+    {
+      "slug": "糸引鰺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸引鰺",
+          "reading": "いとひきあじ"
+        },
+        {
+          "reading": "イトヒキアジ"
+        }
+      ]
+    },
+    {
+      "slug": "糸蚯蚓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸蚯蚓",
+          "reading": "いとみみず"
+        },
+        {
+          "word": "糸ミミズ",
+          "reading": "いとみみず"
+        },
+        {
+          "word": "糸みみず",
+          "reading": "いとみみず"
+        }
+      ]
+    },
+    {
+      "slug": "糸作り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸作り",
+          "reading": "いとづくり"
+        },
+        {
+          "word": "糸づくり",
+          "reading": "いとづくり"
+        }
+      ]
+    },
+    {
+      "slug": "糸楊枝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸楊枝",
+          "reading": "いとようじ"
+        },
+        {
+          "word": "糸ようじ",
+          "reading": "いとようじ"
+        }
+      ]
+    },
+    {
+      "slug": "糸くず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸くず",
+          "reading": "いとくず"
+        },
+        {
+          "word": "糸屑",
+          "reading": "いとくず"
+        }
+      ]
+    },
+    {
+      "slug": "糸蜻蛉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糸とんぼ",
+          "reading": "いととんぼ"
+        },
+        {
+          "word": "糸蜻蛉",
+          "reading": "いととんぼ"
+        },
+        {
+          "word": "豆娘",
+          "reading": "いととんぼ"
+        },
+        {
+          "reading": "イトトンボ"
+        }
+      ]
+    }
   ]
 }

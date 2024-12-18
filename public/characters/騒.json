@@ -111,5 +111,279 @@
       "startStroke": 15,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "何だこの大騒ぎは？",
+      "furigana": "[何|なん]だこの[大騒|おお|さわ]ぎは？",
+      "translation_zh_CN": "这是在吵什么呀？"
+    },
+    {
+      "content": "ここは騒がしいな。",
+      "furigana": "ここは[騒|さわ]がしいな。",
+      "translation_zh_CN": "這兒太吵了。"
+    },
+    {
+      "content": "君たち、騒がないで。",
+      "furigana": "[君|きみ]たち、[騒|さわ]がないで。",
+      "translation_zh_CN": "男孩們，不要製造任何噪音。"
+    },
+    {
+      "content": "この騒音には苛々する。",
+      "furigana": "この[騒音|そう|おん]には[苛々|いらいら]する。",
+      "translation_zh_CN": "這噪音很煩人。"
+    },
+    {
+      "content": "大騒ぎする程でもない。",
+      "furigana": "[大騒|おお|さわ]ぎする[程|ほど]でもない。",
+      "translation_zh_CN": "这没什么大不了的。"
+    },
+    {
+      "content": "あの騒音には我慢できない。",
+      "furigana": "あの[騒音|そう|おん]には[我慢|が|まん]できない。",
+      "translation_zh_CN": "我不能忍受那個噪音。"
+    },
+    {
+      "content": "私は騒音が原因で眠れない。",
+      "furigana": "[私|わたし]は[騒音|そう|おん]が[原因|げん|いん]で[眠|ねむ]れない。",
+      "translation_zh_CN": "因为太闹，所以我睡不着觉。"
+    },
+    {
+      "content": "彼はその騒音に不平を言った。",
+      "furigana": "[彼|かれ]はその[騒音|そう|おん]に[不平|ふ|へい]を[言|い]った。",
+      "translation_zh_CN": "他抱怨這個噪音。"
+    },
+    {
+      "content": "あの騒音には耐えられないよ。",
+      "furigana": "あの[騒音|そう|おん]には[耐|た]えられないよ。",
+      "translation_zh_CN": "我無法忍受這噪音。"
+    },
+    {
+      "content": "もうその騒音には我慢できない。",
+      "furigana": "もうその[騒音|そう|おん]には[我慢|が|まん]できない。",
+      "translation_zh_CN": "我无法再忍受那噪音了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "騒音",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "騒音",
+          "reading": "そうおん"
+        }
+      ]
+    },
+    {
+      "slug": "騒ぐ",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "騒ぐ",
+          "reading": "さわぐ"
+        }
+      ]
+    },
+    {
+      "slug": "騒ぎ",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "騒ぎ",
+          "reading": "さわぎ"
+        }
+      ]
+    },
+    {
+      "slug": "騒がしい",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "騒がしい",
+          "reading": "さわがしい"
+        }
+      ]
+    },
+    {
+      "slug": "騒々しい",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "騒々しい",
+          "reading": "そうぞうしい"
+        },
+        {
+          "word": "騒騒しい",
+          "reading": "そうぞうしい"
+        }
+      ]
+    },
+    {
+      "slug": "騒動",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "騒動",
+          "reading": "そうどう"
+        }
+      ]
+    },
+    {
+      "slug": "騒然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒然",
+          "reading": "そうぜん"
+        }
+      ]
+    },
+    {
+      "slug": "騒めく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒めく",
+          "reading": "ざわめく"
+        }
+      ]
+    },
+    {
+      "slug": "騒ぎ立てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒ぎ立てる",
+          "reading": "さわぎたてる"
+        },
+        {
+          "word": "騒ぎたてる",
+          "reading": "さわぎたてる"
+        }
+      ]
+    },
+    {
+      "slug": "騒音公害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒音公害",
+          "reading": "そうおんこうがい"
+        }
+      ]
+    },
+    {
+      "slug": "騒乱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒乱",
+          "reading": "そうらん"
+        }
+      ]
+    },
+    {
+      "slug": "騒乱状態",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒乱状態",
+          "reading": "そうらんじょうたい"
+        }
+      ]
+    },
+    {
+      "slug": "騒ぎ出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒ぎ出す",
+          "reading": "さわぎだす"
+        }
+      ]
+    },
+    {
+      "slug": "騒がせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒がせる",
+          "reading": "さわがせる"
+        }
+      ]
+    },
+    {
+      "slug": "騒乱罪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒乱罪",
+          "reading": "そうらんざい"
+        }
+      ]
+    },
+    {
+      "slug": "騒ぎ声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒ぎ声",
+          "reading": "さわぎごえ"
+        }
+      ]
+    },
+    {
+      "slug": "騒人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒人",
+          "reading": "そうじん"
+        }
+      ]
+    },
+    {
+      "slug": "騒擾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒擾",
+          "reading": "そうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "騒がれる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒がれる",
+          "reading": "さわがれる"
+        }
+      ]
+    },
+    {
+      "slug": "騒く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騒く",
+          "reading": "ぞめく"
+        }
+      ]
+    }
   ]
 }

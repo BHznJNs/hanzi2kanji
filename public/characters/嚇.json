@@ -92,5 +92,151 @@
       "startStroke": 10,
       "strokes": 7
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "脅す",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "脅す",
+          "reading": "おどす"
+        },
+        {
+          "word": "威す",
+          "reading": "おどす"
+        },
+        {
+          "word": "嚇す",
+          "reading": "おどす"
+        }
+      ]
+    },
+    {
+      "slug": "脅かす",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "脅かす",
+          "reading": "おどかす"
+        },
+        {
+          "word": "嚇かす",
+          "reading": "おどかす"
+        },
+        {
+          "word": "威かす",
+          "reading": "おどかす"
+        }
+      ]
+    },
+    {
+      "slug": "脅し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脅し",
+          "reading": "おどし"
+        },
+        {
+          "word": "嚇し",
+          "reading": "おどし"
+        },
+        {
+          "word": "威し",
+          "reading": "おどし"
+        }
+      ]
+    },
+    {
+      "slug": "赫々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "赫々",
+          "reading": "かくかく"
+        },
+        {
+          "word": "赫々",
+          "reading": "かっかく"
+        },
+        {
+          "word": "赫赫",
+          "reading": "かくかく"
+        },
+        {
+          "word": "赫赫",
+          "reading": "かっかく"
+        },
+        {
+          "word": "嚇嚇",
+          "reading": "かくかく"
+        },
+        {
+          "word": "嚇嚇",
+          "reading": "かっかく"
+        },
+        {
+          "word": "嚇々",
+          "reading": "かくかく"
+        },
+        {
+          "word": "嚇々",
+          "reading": "かっかく"
+        }
+      ]
+    },
+    {
+      "slug": "脅しつける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脅しつける",
+          "reading": "おどしつける"
+        },
+        {
+          "word": "脅し付ける",
+          "reading": "おどしつける"
+        },
+        {
+          "word": "嚇しつける",
+          "reading": "おどしつける"
+        },
+        {
+          "word": "嚇し付ける",
+          "reading": "おどしつける"
+        }
+      ]
+    },
+    {
+      "slug": "嚇怒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嚇怒",
+          "reading": "かくど"
+        },
+        {
+          "word": "赫怒",
+          "reading": "かくど"
+        }
+      ]
+    },
+    {
+      "slug": "嚇す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嚇す",
+          "reading": "かくす"
+        }
+      ]
+    }
   ]
 }

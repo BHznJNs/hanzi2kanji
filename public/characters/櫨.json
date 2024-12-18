@@ -74,5 +74,92 @@
       "startStroke": 15,
       "strokes": 5
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "黄櫨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黄櫨",
+          "reading": "はぜのき"
+        },
+        {
+          "word": "櫨",
+          "reading": "はぜのき"
+        },
+        {
+          "word": "櫨の木",
+          "reading": "はぜのき"
+        },
+        {
+          "word": "黄櫨の木",
+          "reading": "はぜのき"
+        },
+        {
+          "word": "黄櫨",
+          "reading": "はぜ"
+        },
+        {
+          "word": "黄櫨",
+          "reading": "はじ"
+        },
+        {
+          "word": "櫨",
+          "reading": "はぜ"
+        },
+        {
+          "word": "櫨",
+          "reading": "はじ"
+        },
+        {
+          "word": "黄櫨",
+          "reading": "こうろ"
+        },
+        {
+          "word": "黄櫨",
+          "reading": "はにし"
+        },
+        {
+          "reading": "ハゼノキ"
+        },
+        {
+          "reading": "ハゼ"
+        }
+      ]
+    },
+    {
+      "slug": "櫨染",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫨染",
+          "reading": "はじぞめ"
+        }
+      ]
+    },
+    {
+      "slug": "櫨蝋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫨蝋",
+          "reading": "はぜろう"
+        },
+        {
+          "word": "はぜ蝋",
+          "reading": "はぜろう"
+        },
+        {
+          "word": "櫨蠟",
+          "reading": "はぜろう"
+        },
+        {
+          "word": "ハゼ蝋",
+          "reading": "ハゼろう"
+        }
+      ]
+    }
   ]
 }

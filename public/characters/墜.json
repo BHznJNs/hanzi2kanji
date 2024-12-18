@@ -36,7 +36,7 @@
     {
       "lang": "fr",
       "values": [
-        "s\u0027écraser",
+        "s'écraser",
         "tomber"
       ]
     },
@@ -77,6 +77,123 @@
       "radical": "土",
       "startStroke": 12,
       "strokes": 3
+    }
+  ],
+  "sentences": [
+    {
+      "content": "テレビのニュースによると、インドで飛行機の墜落事故があったそうだ。",
+      "furigana": "テレビのニュースによると、インドで[飛行機|ひ|こう|き]の[墜落|つい|らく][事故|じ|こ]があったそうだ。",
+      "translation_zh_CN": "根据电视新闻，一架飞机在印度坠毁了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "落ちる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "落ちる",
+          "reading": "おちる"
+        },
+        {
+          "word": "墜ちる",
+          "reading": "おちる"
+        },
+        {
+          "word": "落る",
+          "reading": "おちる"
+        }
+      ]
+    },
+    {
+      "slug": "落とす",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "落とす",
+          "reading": "おとす"
+        },
+        {
+          "word": "落す",
+          "reading": "おとす"
+        }
+      ]
+    },
+    {
+      "slug": "墜落",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "墜落",
+          "reading": "ついらく"
+        }
+      ]
+    },
+    {
+      "slug": "墜落事故",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墜落事故",
+          "reading": "ついらくじこ"
+        }
+      ]
+    },
+    {
+      "slug": "墜落場所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墜落場所",
+          "reading": "ついらくばしょ"
+        }
+      ]
+    },
+    {
+      "slug": "落つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "落つ",
+          "reading": "おつ"
+        },
+        {
+          "word": "墜つ",
+          "reading": "おつ"
+        },
+        {
+          "word": "堕つ",
+          "reading": "おつ"
+        }
+      ]
+    },
+    {
+      "slug": "墜死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墜死",
+          "reading": "ついし"
+        }
+      ]
+    },
+    {
+      "slug": "墜落死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墜落死",
+          "reading": "ついらくし"
+        }
+      ]
     }
   ]
 }

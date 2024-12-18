@@ -82,5 +82,321 @@
       "startStroke": 8,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "約１ヶ月です。",
+      "furigana": "[約|やく]１[ヶ月|かげつ]です。",
+      "translation_zh_CN": "大约1个月。"
+    },
+    {
+      "content": "約二時間経過しました。",
+      "furigana": "[約二時間経過|やく|に|じ|かん|けい|か]しました。",
+      "translation_zh_CN": "大约两个小时过去了。"
+    },
+    {
+      "content": "約３．２キロです。",
+      "furigana": "[約３|やく|さん]．[２|に]キロです。",
+      "translation_zh_CN": "约3.2公里。"
+    },
+    {
+      "content": "毎日約３時間勉強します。",
+      "furigana": "[毎日約３時間勉強|まい|にち|やく|さん|じ|かん|べん|きょう]します。",
+      "translation_zh_CN": "我每天学习大约3个小时。"
+    },
+    {
+      "content": "月経周期は約４週間です。",
+      "furigana": "[月経周期|げっ|けい|しゅう|き]は[約|やく]４[週間|しゅう|かん]です。",
+      "translation_zh_CN": "月经周期约为4周。"
+    },
+    {
+      "content": "私たちは約３キロ歩きました。",
+      "furigana": "[私|わたし]たちは[約３|やく|さん]キロ[歩|ある]きました。",
+      "translation_zh_CN": "我们走了大约3公里。"
+    },
+    {
+      "content": "私たちは約６キロ歩いた。",
+      "furigana": "[私|わたし]たちは[約６|やく|ろっ]キロ[歩|ある]いた。",
+      "translation_zh_CN": "我们走了大约6公里。"
+    },
+    {
+      "content": "私は約１マイル歩いた。",
+      "furigana": "[私|わたし]は[約|やく]１マイル[歩|ある]いた。",
+      "translation_zh_CN": "我走了大约一英里。"
+    },
+    {
+      "content": "陣痛が約４５秒続きます。",
+      "furigana": "[陣痛|じん|つう]が[約|やく]４５[秒続|びょう|つづ]きます。",
+      "translation_zh_CN": "宫缩持续约 45 秒。"
+    },
+    {
+      "content": "彼女はそこに約５年間住んだ。",
+      "furigana": "[彼女|かの|じょ]はそこに[約|やく]５[年間住|ねん|かん|す]んだ。",
+      "translation_zh_CN": "她在那里住了大约五年。"
+    },
+    {
+      "content": "彼は約束を破った。",
+      "furigana": "[彼|かれ]は[約束|やく|そく]を[破|やぶ]った。",
+      "translation_zh_CN": "他没有遵守诺言。"
+    },
+    {
+      "content": "彼は約束を守った。",
+      "furigana": "[彼|かれ]は[約束|やく|そく]を[守|まも]った。",
+      "translation_zh_CN": "他信守了他的承诺。"
+    },
+    {
+      "content": "予約したいんですが。",
+      "furigana": "[予約|よ|やく]したいんですが。",
+      "translation_zh_CN": "我要預約。"
+    },
+    {
+      "content": "約束は守るべきです。",
+      "furigana": "[約束|やく|そく]は[守|まも]るべきです。",
+      "translation_zh_CN": "你應該信守諾言。"
+    },
+    {
+      "content": "約束の時間に遅れた。",
+      "furigana": "[約束|やく|そく]の[時間|じ|かん]に[遅|おく]れた。",
+      "translation_zh_CN": "我約會遲到了。"
+    },
+    {
+      "content": "彼は必ず約束を守る。",
+      "furigana": "[彼|かれ]は[必|かなら]ず[約束|やく|そく]を[守|まも]る。",
+      "translation_zh_CN": "他总是遵守诺言。"
+    },
+    {
+      "content": "彼は約束を守る人だ。",
+      "furigana": "[彼|かれ]は[約束|やく|そく]を[守|まも]る[人|ひと]だ。",
+      "translation_zh_CN": "他說得出就做得到。"
+    },
+    {
+      "content": "私は彼女と婚約中だ。",
+      "furigana": "[私|わたし]は[彼女|かの|じょ]と[婚約|こん|やく][中|ちゅう]だ。",
+      "translation_zh_CN": "我跟她訂婚了。"
+    },
+    {
+      "content": "座席を予約しました。",
+      "furigana": "[座席|ざ|せき]を[予約|よ|やく]しました。",
+      "translation_zh_CN": "我訂了一個位子。"
+    },
+    {
+      "content": "約束は守るべきだよ。",
+      "furigana": "[約束|やく|そく]は[守|まも]るべきだよ。",
+      "translation_zh_CN": "你應該信守諾言。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "約束",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "約束",
+          "reading": "やくそく"
+        }
+      ]
+    },
+    {
+      "slug": "約数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約数",
+          "reading": "やくすう"
+        }
+      ]
+    },
+    {
+      "slug": "約半分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約半分",
+          "reading": "やくはんぶん"
+        }
+      ]
+    },
+    {
+      "slug": "倹しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倹しい",
+          "reading": "つましい"
+        },
+        {
+          "word": "約しい",
+          "reading": "つましい"
+        }
+      ]
+    },
+    {
+      "slug": "約束手形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約束手形",
+          "reading": "やくそくてがた"
+        }
+      ]
+    },
+    {
+      "slug": "約束通り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約束通り",
+          "reading": "やくそくどおり"
+        },
+        {
+          "word": "約束どおり",
+          "reading": "やくそくどおり"
+        }
+      ]
+    },
+    {
+      "slug": "約款",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約款",
+          "reading": "やっかん"
+        }
+      ]
+    },
+    {
+      "slug": "約定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約定",
+          "reading": "やくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "約束を守る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約束を守る",
+          "reading": "やくそくをまもる"
+        }
+      ]
+    },
+    {
+      "slug": "約束を破る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約束を破る",
+          "reading": "やくそくをやぶる"
+        },
+        {
+          "word": "約束をやぶる",
+          "reading": "やくそくをやぶる"
+        }
+      ]
+    },
+    {
+      "slug": "約束破る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約束破る",
+          "reading": "やくそくやぶる"
+        },
+        {
+          "word": "約束やぶる",
+          "reading": "やくそくやぶる"
+        }
+      ]
+    },
+    {
+      "slug": "約物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約物",
+          "reading": "やくもの"
+        }
+      ]
+    },
+    {
+      "slug": "約束の地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約束の地",
+          "reading": "やくそくのち"
+        }
+      ]
+    },
+    {
+      "slug": "約因",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約因",
+          "reading": "やくいん"
+        }
+      ]
+    },
+    {
+      "slug": "役不足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "役不足",
+          "reading": "やくぶそく"
+        }
+      ]
+    },
+    {
+      "slug": "約まる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約まる",
+          "reading": "つづまる"
+        }
+      ]
+    },
+    {
+      "slug": "約分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約分",
+          "reading": "やくぶん"
+        }
+      ]
+    },
+    {
+      "slug": "約める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約める",
+          "reading": "つづめる"
+        }
+      ]
+    },
+    {
+      "slug": "約束事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "約束事",
+          "reading": "やくそくごと"
+        },
+        {
+          "word": "約束ごと",
+          "reading": "やくそくごと"
+        }
+      ]
+    }
   ]
 }

@@ -77,5 +77,261 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "お門違いですよ。",
+      "furigana": "お[門違|かど|ちが]いですよ。",
+      "translation_zh_CN": "你白費力氣了。"
+    },
+    {
+      "content": "間違えちゃった。",
+      "furigana": "[間違|ま|ちが]えちゃった。",
+      "translation_zh_CN": "我搞错了。"
+    },
+    {
+      "content": "これは間違いだ。",
+      "furigana": "これは[間違|ま|ちが]いだ。",
+      "translation_zh_CN": "这个不对。"
+    },
+    {
+      "content": "ごめん間違えた。",
+      "furigana": "ごめん[間違|ま|ちが]えた。",
+      "translation_zh_CN": "对不起，我错了。"
+    },
+    {
+      "content": "勘違いしてたわ。",
+      "furigana": "[勘違|かん|ちが]いしてたわ。",
+      "translation_zh_CN": "是我弄错了。"
+    },
+    {
+      "content": "彼は以前とは違う。",
+      "furigana": "[彼|かれ]は[以前|い|ぜん]とは[違|ちが]う。",
+      "translation_zh_CN": "他不再是以前的那个他了。"
+    },
+    {
+      "content": "番号が違いますよ。",
+      "furigana": "[番号|ばん|ごう]が[違|ちが]いますよ。",
+      "translation_zh_CN": "我恐怕您打错电话了。"
+    },
+    {
+      "content": "違いがわからない。",
+      "furigana": "[違|ちが]いがわからない。",
+      "translation_zh_CN": "我看不出有什么差别。"
+    },
+    {
+      "content": "僕はトムとは違う。",
+      "furigana": "[僕|ぼく]はトムとは[違|ちが]う。",
+      "translation_zh_CN": "我跟汤姆不一样。"
+    },
+    {
+      "content": "勘違いしてました。",
+      "furigana": "[勘違|かん|ちが]いしてました。",
+      "translation_zh_CN": "我想错了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "違う",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "違う",
+          "reading": "ちがう"
+        }
+      ]
+    },
+    {
+      "slug": "違い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "違い",
+          "reading": "ちがい"
+        }
+      ]
+    },
+    {
+      "slug": "違反",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "違反",
+          "reading": "いはん"
+        }
+      ]
+    },
+    {
+      "slug": "違いない",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "違いない",
+          "reading": "ちがいない"
+        },
+        {
+          "word": "違い無い",
+          "reading": "ちがいない"
+        }
+      ]
+    },
+    {
+      "slug": "違法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違法",
+          "reading": "いほう"
+        }
+      ]
+    },
+    {
+      "slug": "違和感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違和感",
+          "reading": "いわかん"
+        }
+      ]
+    },
+    {
+      "slug": "違法行為",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違法行為",
+          "reading": "いほうこうい"
+        }
+      ]
+    },
+    {
+      "slug": "違反者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違反者",
+          "reading": "いはんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "違憲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違憲",
+          "reading": "いけん"
+        }
+      ]
+    },
+    {
+      "slug": "違約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違約",
+          "reading": "いやく"
+        }
+      ]
+    },
+    {
+      "slug": "違法性阻却事由",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違法性阻却事由",
+          "reading": "いほうせいそきゃくじゆう"
+        }
+      ]
+    },
+    {
+      "slug": "違変",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違変",
+          "reading": "いへん"
+        },
+        {
+          "word": "違反",
+          "reading": "いへん"
+        }
+      ]
+    },
+    {
+      "slug": "違える",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "違える",
+          "reading": "ちがえる"
+        }
+      ]
+    },
+    {
+      "slug": "違例",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違例",
+          "reading": "いれい"
+        }
+      ]
+    },
+    {
+      "slug": "違勅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違勅",
+          "reading": "いちょく"
+        }
+      ]
+    },
+    {
+      "slug": "違反車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違反車",
+          "reading": "いはんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "違い棚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違い棚",
+          "reading": "ちがいだな"
+        },
+        {
+          "word": "違棚",
+          "reading": "ちがいだな"
+        }
+      ]
+    },
+    {
+      "slug": "違反切符",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "違反切符",
+          "reading": "いはんきっぷ"
+        }
+      ]
+    }
   ]
 }

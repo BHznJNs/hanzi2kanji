@@ -103,5 +103,204 @@
       "startStroke": 16,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "試験はどうだった？",
+      "furigana": "[試験|し|けん]はどうだった？",
+      "translation_zh_CN": "考得如何？"
+    },
+    {
+      "content": "試験頑張ってね。",
+      "furigana": "[試験|し|けん][頑張|がん|ば]ってね。",
+      "translation_zh_CN": "考试加油！"
+    },
+    {
+      "content": "試験はいつあるの？",
+      "furigana": "[試験|し|けん]はいつあるの？",
+      "translation_zh_CN": "你什麼時候考試？"
+    },
+    {
+      "content": "彼、試験に通ったの？",
+      "furigana": "[彼|かれ]、[試験|し|けん]に[通|とお]ったの？",
+      "translation_zh_CN": "他考過了嗎？"
+    },
+    {
+      "content": "実験は成功だった。",
+      "furigana": "[実験|じっ|けん]は[成功|せい|こう]だった。",
+      "translation_zh_CN": "這實驗是成功的。"
+    },
+    {
+      "content": "試験は上手くいった？",
+      "furigana": "[試験|し|けん]は[上手|うま]くいった？",
+      "translation_zh_CN": "考试考得不错吗？"
+    },
+    {
+      "content": "試験勉強をしなくちゃ。",
+      "furigana": "[試験|し|けん][勉強|べん|きょう]をしなくちゃ。",
+      "translation_zh_CN": "我必須讀書準備考試。"
+    },
+    {
+      "content": "その実験は失敗だった。",
+      "furigana": "その[実験|じっ|けん]は[失敗|しっ|ぱい]だった。",
+      "translation_zh_CN": "實驗失敗了。"
+    },
+    {
+      "content": "彼らは試験に失敗した。",
+      "furigana": "[彼|かれ]らは[試験|し|けん]に[失敗|しっ|ぱい]した。",
+      "translation_zh_CN": "他們考試失敗了。"
+    },
+    {
+      "content": "彼らは試験ダメだった。",
+      "furigana": "[彼|かれ]らは[試験|し|けん]ダメだった。",
+      "translation_zh_CN": "他們考試失敗了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "試し",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "試し",
+          "reading": "ためし"
+        },
+        {
+          "word": "験し",
+          "reading": "ためし"
+        },
+        {
+          "word": "験",
+          "reading": "ためし"
+        }
+      ]
+    },
+    {
+      "slug": "試す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "試す",
+          "reading": "ためす"
+        },
+        {
+          "word": "験す",
+          "reading": "ためす"
+        }
+      ]
+    },
+    {
+      "slug": "検算",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検算",
+          "reading": "けんざん"
+        },
+        {
+          "word": "験算",
+          "reading": "けんざん"
+        }
+      ]
+    },
+    {
+      "slug": "験担ぎ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ゲン担ぎ",
+          "reading": "ゲンかつぎ"
+        },
+        {
+          "word": "験担ぎ",
+          "reading": "げんかつぎ"
+        },
+        {
+          "word": "げん担ぎ",
+          "reading": "げんかつぎ"
+        }
+      ]
+    },
+    {
+      "slug": "験する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "験する",
+          "reading": "けんする"
+        }
+      ]
+    },
+    {
+      "slug": "ゲン直し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ゲン直し",
+          "reading": "ゲンなおし"
+        },
+        {
+          "word": "験直し",
+          "reading": "げんなおし"
+        },
+        {
+          "word": "げん直し",
+          "reading": "げんなおし"
+        }
+      ]
+    },
+    {
+      "slug": "現の証拠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "現の証拠",
+          "reading": "げんのしょうこ"
+        },
+        {
+          "word": "験の証拠",
+          "reading": "げんのしょうこ"
+        },
+        {
+          "reading": "ゲンノショウコ"
+        }
+      ]
+    },
+    {
+      "slug": "験者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "験者",
+          "reading": "けんざ"
+        },
+        {
+          "word": "験者",
+          "reading": "けんじゃ"
+        }
+      ]
+    },
+    {
+      "slug": "げんを担ぐ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ゲンを担ぐ",
+          "reading": "ゲンをかつぐ"
+        },
+        {
+          "word": "験を担ぐ",
+          "reading": "げんをかつぐ"
+        },
+        {
+          "word": "げんを担ぐ",
+          "reading": "げんをかつぐ"
+        }
+      ]
+    }
   ]
 }

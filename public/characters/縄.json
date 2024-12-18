@@ -78,5 +78,269 @@
       "startStroke": 10,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "泥棒を見て縄をなう。",
+      "furigana": "[泥棒|どろ|ぼう]を[見|み]て[縄|なわ]をなう。",
+      "translation_zh_CN": "他看到一个小偷并用绳子绳住他。"
+    },
+    {
+      "content": "海に縄を投げ入れた。",
+      "furigana": "[海|うみ]に[縄|なわ]を[投|な]げ[入|い]れた。",
+      "translation_zh_CN": "他把一根绳子扔进海里。"
+    },
+    {
+      "content": "私は縄を手放した。",
+      "furigana": "[私|わたし]は[縄|なわ]を[手放|て|ばな]した。",
+      "translation_zh_CN": "我松开了绳子。"
+    },
+    {
+      "content": "この縄は丈夫だ。",
+      "furigana": "この[縄|なわ]は[丈夫|じょう|ぶ]だ。",
+      "translation_zh_CN": "这根绳子很坚固。"
+    },
+    {
+      "content": "彼は縄で木に縛り付けられた。",
+      "furigana": "[彼|かれ]は[縄|なわ]で[木|き]に[縛|しば]り[付|つ]けられた。",
+      "translation_zh_CN": "他被绳子绑在一棵树上。"
+    },
+    {
+      "content": "強盗は私を後ろ手に縄で縛った。",
+      "furigana": "[強盗|ごう|とう]は[私|わたし]を[後|うし]ろ[手|で]に[縄|なわ]で[縛|しば]った。",
+      "translation_zh_CN": "强盗用绳子将我的双手绑在背后。"
+    },
+    {
+      "content": "縄跳びってできる？",
+      "furigana": "[縄跳|なわ|と]びってできる？",
+      "translation_zh_CN": "你能跳绳吗？"
+    },
+    {
+      "content": "私は縄を手放した。",
+      "furigana": "[私|わたし]は[縄|なわ]を[手放|て|ばな]した。",
+      "translation_zh_CN": "我放开了绳子。"
+    },
+    {
+      "content": "彼は一筋縄ではいかない。",
+      "furigana": "[彼|かれ]は[一筋縄|ひと|すじ|なわ]ではいかない。",
+      "translation_zh_CN": "他很難對付。"
+    },
+    {
+      "content": "沖縄の最低賃金は642円です。",
+      "furigana": "[沖縄|おき|なわ]の[最低|さい|てい][賃金|ちん|ぎん]は[6|][4|][2|][円|えん]です。",
+      "translation_zh_CN": "冲绳的最低时薪是每小时642日元。"
+    },
+    {
+      "content": "うちの娘は縄跳びが大好きです。",
+      "furigana": "うちの[娘|むすめ]は[縄跳|なわ|と]びが[大好|だい|す]きです。",
+      "translation_zh_CN": "我女兒喜歡跳繩。"
+    },
+    {
+      "content": "彼は今まで沖縄へ行ったことがない。",
+      "furigana": "[彼|かれ]は[今|いま]まで[沖縄|おき|なわ]へ[行|い]ったことがない。",
+      "translation_zh_CN": "他到现在为止没有去过冲绳。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "縄跳び",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄跳び",
+          "reading": "なわとび"
+        },
+        {
+          "word": "縄飛び",
+          "reading": "なわとび"
+        }
+      ]
+    },
+    {
+      "slug": "縄張り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄張り",
+          "reading": "なわばり"
+        },
+        {
+          "word": "縄張",
+          "reading": "なわばり"
+        }
+      ]
+    },
+    {
+      "slug": "縄文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄文",
+          "reading": "じょうもん"
+        }
+      ]
+    },
+    {
+      "slug": "縄文時代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄文時代",
+          "reading": "じょうもんじだい"
+        }
+      ]
+    },
+    {
+      "slug": "縄文式土器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄文式土器",
+          "reading": "じょうもんしきどき"
+        }
+      ]
+    },
+    {
+      "slug": "縄抜け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄抜け",
+          "reading": "なわぬけ"
+        }
+      ]
+    },
+    {
+      "slug": "縄墨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄墨",
+          "reading": "じょうぼく"
+        }
+      ]
+    },
+    {
+      "slug": "縄文土器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄文土器",
+          "reading": "じょうもんどき"
+        }
+      ]
+    },
+    {
+      "slug": "縄文字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄文字",
+          "reading": "なわもじ"
+        }
+      ]
+    },
+    {
+      "slug": "縄鏢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄鏢",
+          "reading": "じょうひょう"
+        },
+        {
+          "word": "縄ひょう",
+          "reading": "じょうひょう"
+        }
+      ]
+    },
+    {
+      "slug": "縄師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄師",
+          "reading": "なわし"
+        }
+      ]
+    },
+    {
+      "slug": "縄付き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄付き",
+          "reading": "なわつき"
+        }
+      ]
+    },
+    {
+      "slug": "縄張り争い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄張り争い",
+          "reading": "なわばりあらそい"
+        }
+      ]
+    },
+    {
+      "slug": "縄文人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄文人",
+          "reading": "じょうもんじん"
+        }
+      ]
+    },
+    {
+      "slug": "縄梯子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄梯子",
+          "reading": "なわばしご"
+        },
+        {
+          "word": "縄ばしご",
+          "reading": "なわばしご"
+        }
+      ]
+    },
+    {
+      "slug": "縄張り行動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄張り行動",
+          "reading": "なわばりこうどう"
+        }
+      ]
+    },
+    {
+      "slug": "縄尻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄尻",
+          "reading": "なわじり"
+        }
+      ]
+    },
+    {
+      "slug": "縄暖簾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縄のれん",
+          "reading": "なわのれん"
+        },
+        {
+          "word": "縄暖簾",
+          "reading": "なわのれん"
+        }
+      ]
+    }
   ]
 }

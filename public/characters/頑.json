@@ -99,5 +99,291 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼女は見かけによらず頑張りやだ。",
+      "furigana": "[彼女|かの|じょ]は[見|み]かけによらず[頑張|がん|ば]りやだ。",
+      "translation_zh_CN": "尽管外表看起来，她却是一个勤奋的人。"
+    },
+    {
+      "content": "彼女は頑固です。",
+      "furigana": "[彼女|かの|じょ]は[頑固|がん|こ]です。",
+      "translation_zh_CN": "她是个倔强的女孩。"
+    },
+    {
+      "content": "試験頑張ってね。",
+      "furigana": "[試験|し|けん][頑張|がん|ば]ってね。",
+      "translation_zh_CN": "考试加油！"
+    },
+    {
+      "content": "頑張って下さい。",
+      "furigana": "[頑張|がん|ば]って[下|くだ]さい。",
+      "translation_zh_CN": "加油！"
+    },
+    {
+      "content": "彼はとても頑健だ。",
+      "furigana": "[彼|かれ]はとても[頑健|がん|けん]だ。",
+      "translation_zh_CN": "他壮得像匹马。"
+    },
+    {
+      "content": "いいぞ。頑張れよ。",
+      "furigana": "いいぞ。[頑張|がん|ば]れよ。",
+      "translation_zh_CN": "当然。祝你好运！"
+    },
+    {
+      "content": "頑張ってください。",
+      "furigana": "[頑張|がん|ば]ってください。",
+      "translation_zh_CN": "加油！"
+    },
+    {
+      "content": "仕事、頑張りすぎだぞ。",
+      "furigana": "[仕事|し|ごと]、[頑張|がん|ば]りすぎだぞ。",
+      "translation_zh_CN": "你工作太努力了。"
+    },
+    {
+      "content": "次はもっと頑張ります。",
+      "furigana": "[次|つぎ]はもっと[頑張|がん|ば]ります。",
+      "translation_zh_CN": "下次我會更加努力。"
+    },
+    {
+      "content": "よし、今日も一日頑張るぞ！",
+      "furigana": "よし、[今日|きょう]も[一|いち][日|にち][頑張|がん|ば]るぞ！",
+      "translation_zh_CN": "今天我也会努力的。"
+    },
+    {
+      "content": "夢に向かって頑張ってね。",
+      "furigana": "[夢|ゆめ]に[向|む]かって[頑張|がん|ば]ってね。",
+      "translation_zh_CN": "追隨你的夢想。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "頑な",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑な",
+          "reading": "かたくな"
+        },
+        {
+          "word": "頑",
+          "reading": "かたくな"
+        }
+      ]
+    },
+    {
+      "slug": "頑固",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "頑固",
+          "reading": "がんこ"
+        }
+      ]
+    },
+    {
+      "slug": "頑丈",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "頑丈",
+          "reading": "がんじょう"
+        },
+        {
+          "word": "岩乗",
+          "reading": "がんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "頑張る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑張る",
+          "reading": "がんばる"
+        }
+      ]
+    },
+    {
+      "slug": "頑張って",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑張って",
+          "reading": "がんばって"
+        }
+      ]
+    },
+    {
+      "slug": "頑張り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑張り",
+          "reading": "がんばり"
+        }
+      ]
+    },
+    {
+      "slug": "頑として",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑として",
+          "reading": "がんとして"
+        }
+      ]
+    },
+    {
+      "slug": "頑強",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑強",
+          "reading": "がんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "がんばり屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑張り屋",
+          "reading": "がんばりや"
+        },
+        {
+          "word": "がんばり屋",
+          "reading": "がんばりや"
+        }
+      ]
+    },
+    {
+      "slug": "頑健",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑健",
+          "reading": "がんけん"
+        }
+      ]
+    },
+    {
+      "slug": "頑火輝石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑火輝石",
+          "reading": "がんかきせき"
+        }
+      ]
+    },
+    {
+      "slug": "頑迷固陋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑迷固陋",
+          "reading": "がんめいころう"
+        },
+        {
+          "word": "頑冥固陋",
+          "reading": "がんめいころう"
+        }
+      ]
+    },
+    {
+      "slug": "頑張り時",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑張り時",
+          "reading": "がんばりどき"
+        }
+      ]
+    },
+    {
+      "slug": "頑張れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑張れ",
+          "reading": "がんばれ"
+        },
+        {
+          "reading": "ガンバレ"
+        }
+      ]
+    },
+    {
+      "slug": "頑健無比",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑健無比",
+          "reading": "がんけんむひ"
+        }
+      ]
+    },
+    {
+      "slug": "頑固者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑固者",
+          "reading": "がんこもの"
+        }
+      ]
+    },
+    {
+      "slug": "頑愚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑愚",
+          "reading": "がんぐ"
+        }
+      ]
+    },
+    {
+      "slug": "頑固一徹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑固一徹",
+          "reading": "がんこいってつ"
+        }
+      ]
+    },
+    {
+      "slug": "頑冥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑迷",
+          "reading": "がんめい"
+        },
+        {
+          "word": "頑冥",
+          "reading": "がんめい"
+        }
+      ]
+    },
+    {
+      "slug": "頑固親父",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頑固親父",
+          "reading": "がんこおやじ"
+        }
+      ]
+    }
   ]
 }

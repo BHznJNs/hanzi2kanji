@@ -26,7 +26,7 @@
     {
       "lang": "en",
       "values": [
-        "counter for bows \u0026 stringed instruments",
+        "counter for bows & stringed instruments",
         "stretch",
         "spread",
         "put up (tent)"
@@ -38,7 +38,7 @@
         "allonger",
         "étirer",
         "étaler",
-        "compteur d\u0027arcs et instruments à cordes",
+        "compteur d'arcs et instruments à cordes",
         "monter (tente)"
       ]
     },
@@ -57,7 +57,7 @@
       "lang": "pt",
       "values": [
         "alongar",
-        "sufixo para contagem de para arcos \u0026 instrumentos de corda",
+        "sufixo para contagem de para arcos & instrumentos de corda",
         "esticar",
         "espalhar",
         "erguer (tenda)"
@@ -74,6 +74,343 @@
       "radical": "長",
       "startStroke": 3,
       "strokes": 8
+    }
+  ],
+  "sentences": [
+    {
+      "content": "彼女は見かけによらず頑張りやだ。",
+      "furigana": "[彼女|かの|じょ]は[見|み]かけによらず[頑張|がん|ば]りやだ。",
+      "translation_zh_CN": "尽管外表看起来，她却是一个勤奋的人。"
+    },
+    {
+      "content": "彼は網を張った。",
+      "furigana": "[彼|かれ]は[網|あみ]を[張|は]った。",
+      "translation_zh_CN": "他修好了网。"
+    },
+    {
+      "content": "試験頑張ってね。",
+      "furigana": "[試験|し|けん][頑張|がん|ば]ってね。",
+      "translation_zh_CN": "考试加油！"
+    },
+    {
+      "content": "頑張って下さい。",
+      "furigana": "[頑張|がん|ば]って[下|くだ]さい。",
+      "translation_zh_CN": "加油！"
+    },
+    {
+      "content": "いいぞ。頑張れよ。",
+      "furigana": "いいぞ。[頑張|がん|ば]れよ。",
+      "translation_zh_CN": "当然。祝你好运！"
+    },
+    {
+      "content": "頑張ってください。",
+      "furigana": "[頑張|がん|ば]ってください。",
+      "translation_zh_CN": "加油！"
+    },
+    {
+      "content": "私は見張っている。",
+      "furigana": "[私|わたし]は[見張|み|は]っている。",
+      "translation_zh_CN": "我站岗。"
+    },
+    {
+      "content": "彼女は意地っ張りだ。",
+      "furigana": "[彼女|かの|じょ]は[意地|い|じ]っ[張|ぱ]りだ。",
+      "translation_zh_CN": "她是个倔强的女孩。"
+    },
+    {
+      "content": "綱は張りすぎて切れた。",
+      "furigana": "[綱|つな]は[張|は]りすぎて[切|き]れた。",
+      "translation_zh_CN": "繩子被拉斷了。"
+    },
+    {
+      "content": "クモは巣を張りたがる。",
+      "furigana": "クモは[巣|す]を[張|は]りたがる。",
+      "translation_zh_CN": "蜘蛛喜欢织网。"
+    },
+    {
+      "content": "仕事、頑張りすぎだぞ。",
+      "furigana": "[仕事|し|ごと]、[頑張|がん|ば]りすぎだぞ。",
+      "translation_zh_CN": "你工作太努力了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "張る",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "張る",
+          "reading": "はる"
+        },
+        {
+          "word": "貼る",
+          "reading": "はる"
+        }
+      ]
+    },
+    {
+      "slug": "張り紙",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "張り紙",
+          "reading": "はりがみ"
+        },
+        {
+          "word": "貼り紙",
+          "reading": "はりがみ"
+        },
+        {
+          "word": "はり紙",
+          "reading": "はりがみ"
+        },
+        {
+          "word": "張紙",
+          "reading": "はりがみ"
+        },
+        {
+          "word": "貼紙",
+          "reading": "はりがみ"
+        }
+      ]
+    },
+    {
+      "slug": "張り出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り出す",
+          "reading": "はりだす"
+        },
+        {
+          "word": "貼り出す",
+          "reading": "はりだす"
+        }
+      ]
+    },
+    {
+      "slug": "張本人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張本人",
+          "reading": "ちょうほんにん"
+        }
+      ]
+    },
+    {
+      "slug": "張り付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り付ける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "貼付ける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "貼りつける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "張り付ける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "張りつける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "張付ける",
+          "reading": "はりつける"
+        }
+      ]
+    },
+    {
+      "slug": "張り合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り合う",
+          "reading": "はりあう"
+        }
+      ]
+    },
+    {
+      "slug": "張り上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り上げる",
+          "reading": "はりあげる"
+        },
+        {
+          "word": "張りあげる",
+          "reading": "はりあげる"
+        }
+      ]
+    },
+    {
+      "slug": "張り切る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "張り切る",
+          "reading": "はりきる"
+        }
+      ]
+    },
+    {
+      "slug": "張り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り",
+          "reading": "はり"
+        }
+      ]
+    },
+    {
+      "slug": "張り裂ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り裂ける",
+          "reading": "はりさける"
+        },
+        {
+          "word": "張裂ける",
+          "reading": "はりさける"
+        }
+      ]
+    },
+    {
+      "slug": "張りぼて",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張りぼて",
+          "reading": "はりぼて"
+        },
+        {
+          "reading": "ハリボテ"
+        }
+      ]
+    },
+    {
+      "slug": "貼り合わせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り合わせる",
+          "reading": "はりあわせる"
+        },
+        {
+          "word": "張り合わせる",
+          "reading": "はりあわせる"
+        }
+      ]
+    },
+    {
+      "slug": "張り子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り子",
+          "reading": "はりこ"
+        },
+        {
+          "word": "張子",
+          "reading": "はりこ"
+        }
+      ]
+    },
+    {
+      "slug": "張り込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り込み",
+          "reading": "はりこみ"
+        },
+        {
+          "word": "張込み",
+          "reading": "はりこみ"
+        }
+      ]
+    },
+    {
+      "slug": "張り合い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り合い",
+          "reading": "はりあい"
+        },
+        {
+          "word": "張合い",
+          "reading": "はりあい"
+        }
+      ]
+    },
+    {
+      "slug": "張り詰める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り詰める",
+          "reading": "はりつめる"
+        },
+        {
+          "word": "張りつめる",
+          "reading": "はりつめる"
+        }
+      ]
+    },
+    {
+      "slug": "張り出し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り出し",
+          "reading": "はりだし"
+        },
+        {
+          "word": "張出し",
+          "reading": "はりだし"
+        },
+        {
+          "word": "張り出",
+          "reading": "はりだし"
+        },
+        {
+          "word": "張出",
+          "reading": "はりだし"
+        }
+      ]
+    },
+    {
+      "slug": "張り巡らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り巡らす",
+          "reading": "はりめぐらす"
+        },
+        {
+          "word": "張りめぐらす",
+          "reading": "はりめぐらす"
+        }
+      ]
     }
   ]
 }

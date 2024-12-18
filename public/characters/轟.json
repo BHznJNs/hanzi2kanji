@@ -59,5 +59,131 @@
       "startStroke": 14,
       "strokes": 7
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "轟く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟く",
+          "reading": "とどろく"
+        }
+      ]
+    },
+    {
+      "slug": "轟音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟音",
+          "reading": "ごうおん"
+        },
+        {
+          "word": "ごう音",
+          "reading": "ごうおん"
+        }
+      ]
+    },
+    {
+      "slug": "轟々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟々",
+          "reading": "ごうごう"
+        },
+        {
+          "word": "轟轟",
+          "reading": "ごうごう"
+        },
+        {
+          "reading": "ゴーゴー"
+        }
+      ]
+    },
+    {
+      "slug": "轟かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟かす",
+          "reading": "とどろかす"
+        }
+      ]
+    },
+    {
+      "slug": "轟沈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟沈",
+          "reading": "ごうちん"
+        }
+      ]
+    },
+    {
+      "slug": "轟然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟然",
+          "reading": "ごうぜん"
+        }
+      ]
+    },
+    {
+      "slug": "轟き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟き",
+          "reading": "とどろき"
+        }
+      ]
+    },
+    {
+      "slug": "轟発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟発",
+          "reading": "ごうはつ"
+        }
+      ]
+    },
+    {
+      "slug": "轟石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轟石",
+          "reading": "とどろきせき"
+        }
+      ]
+    },
+    {
+      "slug": "囂々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囂々",
+          "reading": "ごうごう"
+        },
+        {
+          "word": "囂囂",
+          "reading": "ごうごう"
+        },
+        {
+          "word": "轟々",
+          "reading": "ごうごう"
+        },
+        {
+          "word": "轟轟",
+          "reading": "ごうごう"
+        }
+      ]
+    }
   ]
 }

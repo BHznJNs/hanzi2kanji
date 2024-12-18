@@ -55,5 +55,230 @@
       "startStroke": 5,
       "strokes": 5
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "湧く",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "湧く",
+          "reading": "わく"
+        },
+        {
+          "word": "涌く",
+          "reading": "わく"
+        }
+      ]
+    },
+    {
+      "slug": "沸き上がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧き上がる",
+          "reading": "わきあがる"
+        },
+        {
+          "word": "沸き上がる",
+          "reading": "わきあがる"
+        },
+        {
+          "word": "わき上がる",
+          "reading": "わきあがる"
+        },
+        {
+          "word": "涌き上がる",
+          "reading": "わきあがる"
+        }
+      ]
+    },
+    {
+      "slug": "湧き出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧き出る",
+          "reading": "わきでる"
+        },
+        {
+          "word": "わき出る",
+          "reading": "わきでる"
+        },
+        {
+          "word": "涌き出る",
+          "reading": "わきでる"
+        },
+        {
+          "word": "沸き出る",
+          "reading": "わきでる"
+        }
+      ]
+    },
+    {
+      "slug": "湧き起こる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "沸き起こる",
+          "reading": "わきおこる"
+        },
+        {
+          "word": "湧き起こる",
+          "reading": "わきおこる"
+        },
+        {
+          "word": "わき起こる",
+          "reading": "わきおこる"
+        },
+        {
+          "word": "涌き起こる",
+          "reading": "わきおこる"
+        },
+        {
+          "word": "沸き起る",
+          "reading": "わきおこる"
+        },
+        {
+          "word": "湧き起る",
+          "reading": "わきおこる"
+        },
+        {
+          "word": "涌き起る",
+          "reading": "わきおこる"
+        }
+      ]
+    },
+    {
+      "slug": "湧出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧出",
+          "reading": "ゆうしゅつ"
+        },
+        {
+          "word": "湧出",
+          "reading": "ようしゅつ"
+        },
+        {
+          "word": "涌出",
+          "reading": "ゆうしゅつ"
+        },
+        {
+          "word": "涌出",
+          "reading": "ようしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "湧水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧水",
+          "reading": "ゆうすい"
+        },
+        {
+          "word": "涌水",
+          "reading": "ゆうすい"
+        }
+      ]
+    },
+    {
+      "slug": "湧き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧き",
+          "reading": "わき"
+        },
+        {
+          "word": "涌き",
+          "reading": "わき"
+        }
+      ]
+    },
+    {
+      "slug": "湧き出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧き出す",
+          "reading": "わきだす"
+        },
+        {
+          "word": "わき出す",
+          "reading": "わきだす"
+        },
+        {
+          "word": "沸き出す",
+          "reading": "わきだす"
+        },
+        {
+          "word": "涌き出す",
+          "reading": "わきだす"
+        }
+      ]
+    },
+    {
+      "slug": "湧かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧かす",
+          "reading": "わかす"
+        },
+        {
+          "word": "涌かす",
+          "reading": "わかす"
+        }
+      ]
+    },
+    {
+      "slug": "湧き水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧き水",
+          "reading": "わきみず"
+        },
+        {
+          "word": "涌き水",
+          "reading": "わきみず"
+        }
+      ]
+    },
+    {
+      "slug": "湧泉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧泉",
+          "reading": "ゆうせん"
+        },
+        {
+          "word": "涌泉",
+          "reading": "ゆうせん"
+        }
+      ]
+    },
+    {
+      "slug": "湧き立つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湧き立つ",
+          "reading": "わきたつ"
+        },
+        {
+          "word": "涌き立つ",
+          "reading": "わきたつ"
+        }
+      ]
+    }
   ]
 }

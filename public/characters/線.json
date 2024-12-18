@@ -84,5 +84,311 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "中央線ですね。",
+      "furigana": "[中央線|ちゅう|おう|せん]ですね。",
+      "translation_zh_CN": "这是中央线。"
+    },
+    {
+      "content": "これが山手線か",
+      "furigana": "これが[山手線|やまのてせん]か",
+      "translation_zh_CN": "这是山手线吗？"
+    },
+    {
+      "content": "定規で線を書いて。",
+      "furigana": "[定規|じょう|ぎ]で[線|せん]を[書|か]いて。",
+      "translation_zh_CN": "用尺子画一条线。"
+    },
+    {
+      "content": "さしを使って線を書いて。",
+      "furigana": "さしを[使|つか]って[線|せん]を[書|か]いて。",
+      "translation_zh_CN": "用刀画一条线。"
+    },
+    {
+      "content": "紙に線を引きなさい。",
+      "furigana": "[紙|かみ]に[線|せん]を[引|ひ]きなさい。",
+      "translation_zh_CN": "在纸上画一条线。"
+    },
+    {
+      "content": "平行線は交差しません。",
+      "furigana": "[平行線|へい|こう|せん]は[交差|こう|さ]しません。",
+      "translation_zh_CN": "平行线不相交。"
+    },
+    {
+      "content": "物差しを使って線を引きなさい。",
+      "furigana": "[物差|もの|さ]しを[使|つか]って[線|せん]を[引|ひ]きなさい。",
+      "translation_zh_CN": "使用尺子画一条线。"
+    },
+    {
+      "content": "二線は平行するとせよ。",
+      "furigana": "[二線|に|せん]は[平行|へい|こう]するとせよ。",
+      "translation_zh_CN": "假设两条线平行。"
+    },
+    {
+      "content": "ＪＲ中央線に乗って下さい。",
+      "furigana": "[ＪＲ|じぇいあーる][中央線|ちゅう|おう|せん]に[乗|の]って[下|くだ]さい。",
+      "translation_zh_CN": "请乘坐JR中央线。"
+    },
+    {
+      "content": "海岸線に沿って航海せよ。",
+      "furigana": "[海岸線|かい|がん|せん]に[沿|そ]って[航海|こう|かい]せよ。",
+      "translation_zh_CN": "沿着海岸线航行。"
+    },
+    {
+      "content": "西部戦線異状なし",
+      "furigana": "[西部|せい|ぶ][戦線|せん|せん][異状|い|じょう]なし",
+      "translation_zh_CN": "西線無戰事"
+    },
+    {
+      "content": "直線を引きなさい。",
+      "furigana": "[直線|ちょく|せん]を[引|ひ]きなさい。",
+      "translation_zh_CN": "画一条直线。"
+    },
+    {
+      "content": "５８号線を使ったよ。",
+      "furigana": "[５|ごじゅう][８|はち][号線|ごう|せん]を[使|つか]ったよ。",
+      "translation_zh_CN": "我走58號高速公路。"
+    },
+    {
+      "content": "定規で線を書いて。",
+      "furigana": "[定規|じょう|ぎ]で[線|せん]を[書|か]いて。",
+      "translation_zh_CN": "用尺子画线。"
+    },
+    {
+      "content": "紙に線を引きなさい。",
+      "furigana": "[紙|かみ]に[線|せん]を[引|ひ]きなさい。",
+      "translation_zh_CN": "在你的紙上畫一條線。"
+    },
+    {
+      "content": "路線図をもらえませんか。",
+      "furigana": "[路線|ろ|せん][図|ず]をもらえませんか。",
+      "translation_zh_CN": "请给我一张街道地图好吗？"
+    },
+    {
+      "content": "地図の青い線は川を表す。",
+      "furigana": "[地図|ち|ず]の[青|あお]い[線|せん]は[川|かわ]を[表|あらわ]す。",
+      "translation_zh_CN": "地图上的蓝线代表河流。"
+    },
+    {
+      "content": "月が地平線の上にあった。",
+      "furigana": "[月|つき]が[地平線|ち|へい|せん]の[上|うえ]にあった。",
+      "translation_zh_CN": "月亮已從地平線升起了。"
+    },
+    {
+      "content": "さしを使って線を書いて。",
+      "furigana": "さしを[使|つか]って[線|せん]を[書|か]いて。",
+      "translation_zh_CN": "用尺子画线。"
+    },
+    {
+      "content": "地図上の青い線は川を示す。",
+      "furigana": "[地図|ち|ず][上|じょう]の[青|あお]い[線|せん]は[川|かわ]を[示|しめ]す。",
+      "translation_zh_CN": "地图上的蓝线代表河流。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "線路",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "線路",
+          "reading": "せんろ"
+        }
+      ]
+    },
+    {
+      "slug": "繊維",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "繊維",
+          "reading": "せんい"
+        },
+        {
+          "word": "線維",
+          "reading": "せんい"
+        }
+      ]
+    },
+    {
+      "slug": "線量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線量",
+          "reading": "せんりょう"
+        }
+      ]
+    },
+    {
+      "slug": "線形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線形",
+          "reading": "せんけい"
+        },
+        {
+          "word": "線型",
+          "reading": "せんけい"
+        }
+      ]
+    },
+    {
+      "slug": "線画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線画",
+          "reading": "せんが"
+        }
+      ]
+    },
+    {
+      "slug": "線描",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線描",
+          "reading": "せんびょう"
+        }
+      ]
+    },
+    {
+      "slug": "線香",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線香",
+          "reading": "せんこう"
+        }
+      ]
+    },
+    {
+      "slug": "線審",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線審",
+          "reading": "せんしん"
+        }
+      ]
+    },
+    {
+      "slug": "線量計",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線量計",
+          "reading": "せんりょうけい"
+        }
+      ]
+    },
+    {
+      "slug": "線維芽細胞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線維芽細胞",
+          "reading": "せんいがさいぼう"
+        }
+      ]
+    },
+    {
+      "slug": "線香花火",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線香花火",
+          "reading": "せんこうはなび"
+        }
+      ]
+    },
+    {
+      "slug": "線積分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線積分",
+          "reading": "せんせきぶん"
+        }
+      ]
+    },
+    {
+      "slug": "線分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線分",
+          "reading": "せんぶん"
+        }
+      ]
+    },
+    {
+      "slug": "線形論理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線形論理",
+          "reading": "せんけいろんり"
+        }
+      ]
+    },
+    {
+      "slug": "線形補間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線形補間",
+          "reading": "せんけいほかん"
+        }
+      ]
+    },
+    {
+      "slug": "線条体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線条体",
+          "reading": "せんじょうたい"
+        }
+      ]
+    },
+    {
+      "slug": "線形動物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線形動物",
+          "reading": "せんけいどうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "線対称",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線対称",
+          "reading": "せんたいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "線上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "線上",
+          "reading": "せんじょう"
+        }
+      ]
+    }
   ]
 }

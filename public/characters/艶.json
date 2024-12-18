@@ -142,5 +142,239 @@
       "startStroke": 15,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "メアリーは艶やかな黒髪をしている。",
+      "furigana": "メアリーは[艶|つや]やかな[黒髪|くろ|かみ]をしている。",
+      "translation_zh_CN": "玛丽有一头闪亮的黑发。"
+    },
+    {
+      "content": "この石鹸を使えば彼女の顔の色艶がよくなるだろう。",
+      "furigana": "この[石鹸|せっ|けん]を[使|つか]えば[彼女|かの|じょ]の[顔|かお]の[色艶|いろ|つや]がよくなるだろう。",
+      "translation_zh_CN": "如果她用了这款肥皂，她的脸就会变得更明亮。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "艶やか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶やか",
+          "reading": "あでやか"
+        }
+      ]
+    },
+    {
+      "slug": "演歌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "演歌",
+          "reading": "えんか"
+        },
+        {
+          "word": "艶歌",
+          "reading": "えんか"
+        }
+      ]
+    },
+    {
+      "slug": "艶々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶々",
+          "reading": "つやつや"
+        },
+        {
+          "word": "艶艶",
+          "reading": "つやつや"
+        },
+        {
+          "reading": "ツヤツヤ"
+        }
+      ]
+    },
+    {
+      "slug": "艶容",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶容",
+          "reading": "えんよう"
+        }
+      ]
+    },
+    {
+      "slug": "艶々しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶々しい",
+          "reading": "つやつやしい"
+        },
+        {
+          "word": "艶艶しい",
+          "reading": "つやつやしい"
+        }
+      ]
+    },
+    {
+      "slug": "艶めく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶めく",
+          "reading": "つやめく"
+        }
+      ]
+    },
+    {
+      "slug": "艶書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶書",
+          "reading": "えんしょ"
+        },
+        {
+          "word": "艶書",
+          "reading": "えんじょ"
+        },
+        {
+          "word": "艶書",
+          "reading": "えんぞ"
+        }
+      ]
+    },
+    {
+      "slug": "艶めかしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶かしい",
+          "reading": "なまめかしい"
+        },
+        {
+          "word": "艶めかしい",
+          "reading": "なまめかしい"
+        }
+      ]
+    },
+    {
+      "slug": "艶文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶文",
+          "reading": "えんぶん"
+        },
+        {
+          "word": "艶文",
+          "reading": "つやぶみ"
+        }
+      ]
+    },
+    {
+      "slug": "艶姿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶姿",
+          "reading": "あですがた"
+        },
+        {
+          "word": "あで姿",
+          "reading": "あですがた"
+        },
+        {
+          "word": "艶姿",
+          "reading": "えんし"
+        }
+      ]
+    },
+    {
+      "slug": "艶ぼくろ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶ぼくろ",
+          "reading": "つやぼくろ"
+        },
+        {
+          "word": "艶黒子",
+          "reading": "つやぼくろ"
+        }
+      ]
+    },
+    {
+      "slug": "艶小蜂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶小蜂",
+          "reading": "つやこばち"
+        },
+        {
+          "reading": "ツヤコバチ"
+        }
+      ]
+    },
+    {
+      "slug": "艶事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶事",
+          "reading": "つやごと"
+        }
+      ]
+    },
+    {
+      "slug": "艶出し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶出し",
+          "reading": "つやだし"
+        },
+        {
+          "word": "つや出し",
+          "reading": "つやだし"
+        }
+      ]
+    },
+    {
+      "slug": "艶出し加工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶出し加工",
+          "reading": "つやだしかこう"
+        }
+      ]
+    },
+    {
+      "slug": "艶っぽい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶っぽい",
+          "reading": "つやっぽい"
+        }
+      ]
+    },
+    {
+      "slug": "艶女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艶女",
+          "reading": "えんじょ"
+        }
+      ]
+    }
   ]
 }

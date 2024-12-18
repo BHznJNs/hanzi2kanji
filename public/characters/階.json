@@ -35,7 +35,7 @@
       "values": [
         "étage",
         "niveau",
-        "compteur d\u0027étages"
+        "compteur d'étages"
       ]
     },
     {
@@ -88,6 +88,312 @@
       "radical": "日",
       "startStroke": 8,
       "strokes": 4
+    }
+  ],
+  "sentences": [
+    {
+      "content": "5階お願いします",
+      "furigana": "[5|ご][階|かい]お[願|ねが]いします",
+      "translation_zh_CN": "请5楼"
+    },
+    {
+      "content": "８階にいます。",
+      "furigana": "[８階|はち|かい]にいます。",
+      "translation_zh_CN": "我在8楼。"
+    },
+    {
+      "content": "２階で寝てます。",
+      "furigana": "[２階|に|かい]で[寝|ね]てます。",
+      "translation_zh_CN": "我睡在二楼。"
+    },
+    {
+      "content": "8階にいらっしゃいます。",
+      "furigana": "[8階|はち|かい]にいらっしゃいます。",
+      "translation_zh_CN": "我在8楼。"
+    },
+    {
+      "content": "3階に住んでます。",
+      "furigana": "[3階|さん|がい]に[住|す]んでます。",
+      "translation_zh_CN": "我住在三楼。"
+    },
+    {
+      "content": "３階に住んでました。",
+      "furigana": "[３階|さん|がい]に[住|す]んでました。",
+      "translation_zh_CN": "我住在三楼。"
+    },
+    {
+      "content": "８階にあります。",
+      "furigana": "８[階|かい]にあります。",
+      "translation_zh_CN": "它在 8 楼。"
+    },
+    {
+      "content": "１階にあります。",
+      "furigana": "１[階|かい]にあります。",
+      "translation_zh_CN": "它在一楼。"
+    },
+    {
+      "content": "何階ですか。",
+      "furigana": "[何階|なん|かい]ですか。",
+      "translation_zh_CN": "这是第几层？"
+    },
+    {
+      "content": "何階なの？",
+      "furigana": "[何階|なん|かい]なの？",
+      "translation_zh_CN": "它在几楼？"
+    },
+    {
+      "content": "階段を上がって。",
+      "furigana": "[階段|かい|だん]を[上|あ]がって。",
+      "translation_zh_CN": "上楼。"
+    },
+    {
+      "content": "僕らは３階にいる。",
+      "furigana": "[僕|ぼく]らは[３|][階|かい]にいる。",
+      "translation_zh_CN": "我们在三楼。"
+    },
+    {
+      "content": "3階に住んでます。",
+      "furigana": "[3|さん][階|がい]に[住|す]んでます。",
+      "translation_zh_CN": "我们住在三楼。"
+    },
+    {
+      "content": "どの階に住んでるの？",
+      "furigana": "どの[階|かい]に[住|す]んでるの？",
+      "translation_zh_CN": "你住在哪层楼？"
+    },
+    {
+      "content": "ビルは20階建てです。",
+      "furigana": "ビルは[20|にじゅっ][階|かい][建|だ]てです。",
+      "translation_zh_CN": "大楼有20层。"
+    },
+    {
+      "content": "何階にお住まいですか？",
+      "furigana": "[何|なん][階|かい]にお[住|す]まいですか？",
+      "translation_zh_CN": "你住在哪层楼？"
+    },
+    {
+      "content": "その建物は７階建てだ。",
+      "furigana": "その[建物|たて|もの]は[７|なな][階|かい][建|だ]てだ。",
+      "translation_zh_CN": "這棟建築物有七層樓高。"
+    },
+    {
+      "content": "１階席が欲しいのです。",
+      "furigana": "[１|][階|かい][席|せき]が[欲|ほ]しいのです。",
+      "translation_zh_CN": "我想要一樓的座位。"
+    },
+    {
+      "content": "男子トイレは2階です。",
+      "furigana": "[男子|だん|し]トイレは[2|に][階|かい]です。",
+      "translation_zh_CN": "男厕所在二楼。"
+    },
+    {
+      "content": "図書室は４階にあります。",
+      "furigana": "[図書|と|しょ][室|しつ]は[４|][階|かい]にあります。",
+      "translation_zh_CN": "圖書館在四樓。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "階段",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "階段",
+          "reading": "かいだん"
+        }
+      ]
+    },
+    {
+      "slug": "梯子",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "梯子",
+          "reading": "はしご"
+        },
+        {
+          "word": "梯",
+          "reading": "はしご"
+        },
+        {
+          "word": "階子",
+          "reading": "はしご"
+        },
+        {
+          "word": "梯子",
+          "reading": "ていし"
+        },
+        {
+          "reading": "ハシゴ"
+        }
+      ]
+    },
+    {
+      "slug": "階級",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "階級",
+          "reading": "かいきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "階層",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "階層",
+          "reading": "かいそう"
+        }
+      ]
+    },
+    {
+      "slug": "階下",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階下",
+          "reading": "かいか"
+        }
+      ]
+    },
+    {
+      "slug": "階級闘争",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階級闘争",
+          "reading": "かいきゅうとうそう"
+        }
+      ]
+    },
+    {
+      "slug": "階級性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階級性",
+          "reading": "かいきゅうせい"
+        }
+      ]
+    },
+    {
+      "slug": "階建",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階建",
+          "reading": "かいだて"
+        },
+        {
+          "word": "階建て",
+          "reading": "かいだて"
+        }
+      ]
+    },
+    {
+      "slug": "階上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階上",
+          "reading": "かいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "階層構造",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階層構造",
+          "reading": "かいそうこうぞう"
+        }
+      ]
+    },
+    {
+      "slug": "階段昇降機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階段昇降機",
+          "reading": "かいだんしょうこうき"
+        }
+      ]
+    },
+    {
+      "slug": "階段を上る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階段を上る",
+          "reading": "かいだんをのぼる"
+        },
+        {
+          "word": "階段を登る",
+          "reading": "かいだんをのぼる"
+        }
+      ]
+    },
+    {
+      "slug": "階数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階数",
+          "reading": "かいすう"
+        }
+      ]
+    },
+    {
+      "slug": "階乗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階乗",
+          "reading": "かいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "階層木構造",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階層木構造",
+          "reading": "かいそうきこうぞう"
+        }
+      ]
+    },
+    {
+      "slug": "階名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階名",
+          "reading": "かいめい"
+        }
+      ]
+    },
+    {
+      "slug": "階層表示",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "階層表示",
+          "reading": "かいそうひょうじ"
+        }
+      ]
     }
   ]
 }

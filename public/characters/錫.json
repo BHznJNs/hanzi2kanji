@@ -62,5 +62,119 @@
       "startStroke": 12,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "青銅器は主として銅と錫の合金で出来ている。",
+      "furigana": "[青銅器|せい|どう|き]は[主|しゅ]として[銅|どう]と[錫|すず]の[合金|ごう|きん]で[出来|で|き]ている。",
+      "translation_zh_CN": "青铜器主要由铜和锡的合金制成。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "錫石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錫石",
+          "reading": "すずいし"
+        }
+      ]
+    },
+    {
+      "slug": "錫杖",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錫杖",
+          "reading": "しゃくじょう"
+        },
+        {
+          "word": "錫杖",
+          "reading": "さくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "錫杖草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錫杖草",
+          "reading": "しゃくじょうそう"
+        },
+        {
+          "reading": "シャクジョウソウ"
+        }
+      ]
+    },
+    {
+      "slug": "錫婚式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錫婚式",
+          "reading": "すずこんしき"
+        }
+      ]
+    },
+    {
+      "slug": "錫蘭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錫蘭",
+          "reading": "セイロン"
+        }
+      ]
+    },
+    {
+      "slug": "錫箔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錫箔",
+          "reading": "すずはく"
+        }
+      ]
+    },
+    {
+      "slug": "すずの兵隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "すずの兵隊",
+          "reading": "すずのへいたい"
+        },
+        {
+          "word": "錫の兵隊",
+          "reading": "すずのへいたい"
+        },
+        {
+          "word": "スズの兵隊",
+          "reading": "スズのへいたい"
+        }
+      ]
+    },
+    {
+      "slug": "錫製品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錫製品",
+          "reading": "すずせいひん"
+        }
+      ]
+    },
+    {
+      "slug": "錫ペスト",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錫ペスト",
+          "reading": "すずペスト"
+        }
+      ]
+    }
   ]
 }

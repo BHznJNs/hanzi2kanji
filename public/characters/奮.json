@@ -84,5 +84,251 @@
       "startStroke": 11,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "そんなに興奮するな。",
+      "furigana": "そんなに[興奮|こう|ふん]するな。",
+      "translation_zh_CN": "别这么激动！"
+    },
+    {
+      "content": "興奮しすぎて眠れない。",
+      "furigana": "[興奮|こう|ふん]しすぎて[眠|ねむ]れない。",
+      "translation_zh_CN": "我激动得睡不着。"
+    },
+    {
+      "content": "彼らは非常に興奮していた。",
+      "furigana": "[彼|かれ]らは[非常|ひ|じょう]に[興奮|こう|ふん]していた。",
+      "translation_zh_CN": "他们非常兴奋。"
+    },
+    {
+      "content": "スタジアムには興奮したファンが大勢いた。",
+      "furigana": "スタジアムには[興奮|こう|ふん]したファンが[大勢|おお|ぜい]いた。",
+      "translation_zh_CN": "体育场里有很多兴奋的球迷。"
+    },
+    {
+      "content": "話しているうちに、彼はだんだん興奮して来た。",
+      "furigana": "[話|はな]しているうちに、[彼|かれ]はだんだん[興奮|こう|ふん]して[来|き]た。",
+      "translation_zh_CN": "他越说越兴奋。"
+    },
+    {
+      "content": "話をするにつれて、彼はどんどん興奮してきた。",
+      "furigana": "[話|はなし]をするにつれて、[彼|かれ]はどんどん[興奮|こう|ふん]してきた。",
+      "translation_zh_CN": "他越说越兴奋。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "奮闘",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "奮闘",
+          "reading": "ふんとう"
+        }
+      ]
+    },
+    {
+      "slug": "奮発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮発",
+          "reading": "ふんぱつ"
+        }
+      ]
+    },
+    {
+      "slug": "奮って",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮って",
+          "reading": "ふるって"
+        }
+      ]
+    },
+    {
+      "slug": "奮い立つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮い立つ",
+          "reading": "ふるいたつ"
+        },
+        {
+          "word": "奮い起つ",
+          "reading": "ふるいたつ"
+        }
+      ]
+    },
+    {
+      "slug": "奮い起こす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮い起こす",
+          "reading": "ふるいおこす"
+        },
+        {
+          "word": "ふるい起こす",
+          "reading": "ふるいおこす"
+        }
+      ]
+    },
+    {
+      "slug": "奮起",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮起",
+          "reading": "ふんき"
+        }
+      ]
+    },
+    {
+      "slug": "奮う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮う",
+          "reading": "ふるう"
+        }
+      ]
+    },
+    {
+      "slug": "奮戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮戦",
+          "reading": "ふんせん"
+        }
+      ]
+    },
+    {
+      "slug": "奮闘努力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮闘努力",
+          "reading": "ふんとうどりょく"
+        }
+      ]
+    },
+    {
+      "slug": "奮撃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮撃",
+          "reading": "ふんげき"
+        }
+      ]
+    },
+    {
+      "slug": "奮飛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮飛",
+          "reading": "ふんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "奮激",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮激",
+          "reading": "ふんげき"
+        }
+      ]
+    },
+    {
+      "slug": "奮然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮然",
+          "reading": "ふんぜん"
+        }
+      ]
+    },
+    {
+      "slug": "奮励",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮励",
+          "reading": "ふんれい"
+        }
+      ]
+    },
+    {
+      "slug": "奮闘記",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮闘記",
+          "reading": "ふんとうき"
+        }
+      ]
+    },
+    {
+      "slug": "奮起一番",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮起一番",
+          "reading": "ふんきいちばん"
+        }
+      ]
+    },
+    {
+      "slug": "奮励努力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮励努力",
+          "reading": "ふんれいどりょく"
+        }
+      ]
+    },
+    {
+      "slug": "奮迅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奮迅",
+          "reading": "ふんじん"
+        }
+      ]
+    },
+    {
+      "slug": "ふるってご参加ください",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ふるってご参加ください",
+          "reading": "ふるってごさんかください"
+        },
+        {
+          "word": "奮ってご参加ください",
+          "reading": "ふるってごさんかください"
+        },
+        {
+          "word": "奮ってご参加下さい",
+          "reading": "ふるってごさんかください"
+        },
+        {
+          "word": "ふるってご参加下さい",
+          "reading": "ふるってごさんかください"
+        }
+      ]
+    }
   ]
 }

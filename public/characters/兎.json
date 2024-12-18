@@ -49,5 +49,298 @@
       "startStroke": 6,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "うさぎがいる。",
+      "furigana": "うさぎがいる。",
+      "translation_zh_CN": "有一只兔子。"
+    },
+    {
+      "content": "うさぎは好きよ。",
+      "furigana": "うさぎは[好|す]きよ。",
+      "translation_zh_CN": "我喜欢兔子。"
+    },
+    {
+      "content": "人間じゃなくて兎として生まれたかった。",
+      "furigana": "[人間|にん|げん]じゃなくて[兎|うさぎ]として[生|う]まれたかった。",
+      "translation_zh_CN": "我希望我出生时是一只兔子而不是人类。"
+    },
+    {
+      "content": "うさぎは繁殖が早い。",
+      "furigana": "うさぎは[繁殖|はん|しょく]が[早|はや]い。",
+      "translation_zh_CN": "兔子繁殖得很快。"
+    },
+    {
+      "content": "うさぎはかめに追い越された。",
+      "furigana": "うさぎはかめに[追|お]い[越|こ]された。",
+      "translation_zh_CN": "兔子被乌龟追上了。"
+    },
+    {
+      "content": "狼と狐と兎、見ちゃった。",
+      "furigana": "[狼|おおかみ]と[狐|きつね]と[兎|うさぎ]、[見|み]ちゃった。",
+      "translation_zh_CN": "我看到了狼、狐狸和兔子。"
+    },
+    {
+      "content": "うさぎの耳は長い。",
+      "furigana": "うさぎの[耳|みみ]は[長|なが]い。",
+      "translation_zh_CN": "兔子有长耳朵。"
+    },
+    {
+      "content": "うさぎとかめが競走した。",
+      "furigana": "うさぎとかめが[競走|きょう|そう]した。",
+      "translation_zh_CN": "兔子和乌龟赛跑。"
+    },
+    {
+      "content": "僕は兎。君のスピリットアニマルは？",
+      "furigana": "[僕|ぼく]は[兎|うさぎ]。[君|きみ]のスピリットアニマルは？",
+      "translation_zh_CN": "我是一只兔子。谁是你的精神动物？"
+    },
+    {
+      "content": "私たちは農作業を手伝いました。",
+      "furigana": "[私|わたし]たちは[農作業|のう|さ|ぎょう]を[手伝|て|つだ]いました。",
+      "translation_zh_CN": "我们帮忙干农活。"
+    },
+    {
+      "content": "二兎を追う者は一兎をも得ず。",
+      "furigana": "[二兎|に|と]を[追|お]う[者|もの]は[一|いっ][兎|と]をも[得|え]ず。",
+      "translation_zh_CN": "脚踏两条船，必定落空。"
+    },
+    {
+      "content": "昔々、インドに猿と狐と兎が仲良く暮らしておりました。",
+      "furigana": "[昔|むかし]々、インドに[猿|さる]と[狐|きつね]と[兎|うさぎ]が[仲良|なか|よ]く[暮|く]らしておりました。",
+      "translation_zh_CN": "在很久很久以前，在印度猴子、狐狸、兔子们关系非常融洽地生活在一起。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "兎に角",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "兎に角",
+          "reading": "とにかく"
+        }
+      ]
+    },
+    {
+      "slug": "兎も角",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "兎も角",
+          "reading": "ともかく"
+        }
+      ]
+    },
+    {
+      "slug": "兎角",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "兎角",
+          "reading": "とかく"
+        },
+        {
+          "word": "左右",
+          "reading": "とかく"
+        }
+      ]
+    },
+    {
+      "slug": "兎もあれ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎もあれ",
+          "reading": "ともあれ"
+        },
+        {
+          "word": "とも有れ",
+          "reading": "ともあれ"
+        },
+        {
+          "word": "兎も有れ",
+          "reading": "ともあれ"
+        }
+      ]
+    },
+    {
+      "slug": "兎や角",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎や角",
+          "reading": "とやかく"
+        }
+      ]
+    },
+    {
+      "slug": "うさぎ小屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うさぎ小屋",
+          "reading": "うさぎごや"
+        },
+        {
+          "word": "兎小屋",
+          "reading": "うさぎごや"
+        }
+      ]
+    },
+    {
+      "slug": "兎にも角にも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎にも角にも",
+          "reading": "とにもかくにも"
+        }
+      ]
+    },
+    {
+      "slug": "とやかく言う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "とやかく言う",
+          "reading": "とやかくいう"
+        }
+      ]
+    },
+    {
+      "slug": "兎座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎座",
+          "reading": "うさぎざ"
+        },
+        {
+          "word": "うさぎ座",
+          "reading": "うさぎざ"
+        }
+      ]
+    },
+    {
+      "slug": "兎も角も",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎も角も",
+          "reading": "ともかくも"
+        }
+      ]
+    },
+    {
+      "slug": "瑠璃虎の尾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瑠璃虎の尾",
+          "reading": "るりとらのお"
+        },
+        {
+          "word": "兎児尾苗",
+          "reading": "るりとらのお"
+        }
+      ]
+    },
+    {
+      "slug": "兎耳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎耳",
+          "reading": "うさぎみみ"
+        }
+      ]
+    },
+    {
+      "slug": "兎網",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎網",
+          "reading": "うさぎあみ"
+        }
+      ]
+    },
+    {
+      "slug": "兎の毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎の毛",
+          "reading": "うのけ"
+        }
+      ]
+    },
+    {
+      "slug": "兎汁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎汁",
+          "reading": "うさぎじる"
+        }
+      ]
+    },
+    {
+      "slug": "兎欠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎唇",
+          "reading": "いぐち"
+        },
+        {
+          "word": "欠唇",
+          "reading": "いぐち"
+        }
+      ]
+    },
+    {
+      "slug": "兎蝙蝠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎蝙蝠",
+          "reading": "うさぎこうもり"
+        },
+        {
+          "reading": "ウサギコウモリ"
+        }
+      ]
+    },
+    {
+      "slug": "兎肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎肉",
+          "reading": "とにく"
+        }
+      ]
+    },
+    {
+      "slug": "兎結び",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "兎結び",
+          "reading": "うさぎむすび"
+        }
+      ]
+    }
   ]
 }

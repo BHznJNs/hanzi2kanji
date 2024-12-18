@@ -132,5 +132,230 @@
       "strokes": 3,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "君のせっかくの名講義は猫に小判だったね。",
+      "furigana": "[君|きみ]のせっかくの[名|めい][講義|こう|ぎ]は[猫|ねこ]に[小判|こ|ばん]だったね。",
+      "translation_zh_CN": "你的演說十分精彩，但竟沒人懂得欣賞。"
+    },
+    {
+      "content": "この講座は正確な発音を習得するための手助けになります。",
+      "furigana": "この[講座|こう|ざ]は[正確|せい|かく]な[発音|はつ|おん]を[習得|しゅう|とく]するための[手助|て|だす]けになります。",
+      "translation_zh_CN": "這個課程能幫助你掌握正確發音。"
+    },
+    {
+      "content": "この講座ではあなたが正確な発音をマスターする手助けをします。",
+      "furigana": "この[講座|こう|ざ]ではあなたが[正確|せい|かく]な[発音|はつ|おん]をマスターする[手助|て|だす]けをします。",
+      "translation_zh_CN": "這個課程能幫助你掌握正確發音。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "講義",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "講義",
+          "reading": "こうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "講堂",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "講堂",
+          "reading": "こうどう"
+        }
+      ]
+    },
+    {
+      "slug": "講演",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "講演",
+          "reading": "こうえん"
+        }
+      ]
+    },
+    {
+      "slug": "講師",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "講師",
+          "reading": "こうし"
+        }
+      ]
+    },
+    {
+      "slug": "講習",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "講習",
+          "reading": "こうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "講座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講座",
+          "reading": "こうざ"
+        }
+      ]
+    },
+    {
+      "slug": "講ずる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講ずる",
+          "reading": "こうずる"
+        }
+      ]
+    },
+    {
+      "slug": "講演会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講演会",
+          "reading": "こうえんかい"
+        }
+      ]
+    },
+    {
+      "slug": "講じる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講じる",
+          "reading": "こうじる"
+        }
+      ]
+    },
+    {
+      "slug": "講演者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講演者",
+          "reading": "こうえんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "講和会議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講和会議",
+          "reading": "こうわかいぎ"
+        }
+      ]
+    },
+    {
+      "slug": "講和条件",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講和条件",
+          "reading": "こうわじょうけん"
+        }
+      ]
+    },
+    {
+      "slug": "講習会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講習会",
+          "reading": "こうしゅうかい"
+        }
+      ]
+    },
+    {
+      "slug": "講談",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講談",
+          "reading": "こうだん"
+        }
+      ]
+    },
+    {
+      "slug": "講読",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "講読",
+          "reading": "こうどく"
+        }
+      ]
+    },
+    {
+      "slug": "講和",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講和",
+          "reading": "こうわ"
+        },
+        {
+          "word": "媾和",
+          "reading": "こうわ"
+        }
+      ]
+    },
+    {
+      "slug": "講釈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講釈",
+          "reading": "こうしゃく"
+        }
+      ]
+    },
+    {
+      "slug": "講話",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講話",
+          "reading": "こうわ"
+        }
+      ]
+    },
+    {
+      "slug": "講評",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "講評",
+          "reading": "こうひょう"
+        }
+      ]
+    }
   ]
 }

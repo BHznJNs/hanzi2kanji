@@ -61,5 +61,64 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "閻魔天",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閻魔天",
+          "reading": "えんまてん"
+        },
+        {
+          "word": "焔摩天",
+          "reading": "えんまてん"
+        }
+      ]
+    },
+    {
+      "slug": "煙硝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙硝",
+          "reading": "えんしょう"
+        },
+        {
+          "word": "焔硝",
+          "reading": "えんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "炎色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炎色",
+          "reading": "えんしょく"
+        },
+        {
+          "word": "焔色",
+          "reading": "えんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "炎色反応",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "炎色反応",
+          "reading": "えんしょくはんのう"
+        },
+        {
+          "word": "焔色反応",
+          "reading": "えんしょくはんのう"
+        }
+      ]
+    }
   ]
 }

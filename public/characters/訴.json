@@ -88,5 +88,253 @@
       "startStroke": 11,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "あなたを訴えます。",
+      "furigana": "あなたを[訴|うった]えます。",
+      "translation_zh_CN": "我要控告你。"
+    },
+    {
+      "content": "私たちは支援を訴えた。",
+      "furigana": "[私|わたし]たちは[支援|し|えん]を[訴|うった]えた。",
+      "translation_zh_CN": "我們提出了請求支持的呼籲。"
+    },
+    {
+      "content": "彼は殺人罪で告訴された。",
+      "furigana": "[彼|かれ]は[殺人|さつ|じん][罪|ざい]で[告訴|こく|そ]された。",
+      "translation_zh_CN": "他被控告杀人罪。"
+    },
+    {
+      "content": "彼は殺人の罪で告訴された。",
+      "furigana": "[彼|かれ]は[殺人|さつ|じん]の[罪|つみ]で[告訴|こく|そ]された。",
+      "translation_zh_CN": "他被控告杀人罪。"
+    },
+    {
+      "content": "彼は時計を盗んだという理由で私を訴えた。",
+      "furigana": "[彼|かれ]は[時計|と|けい]を[盗|ぬす]んだという[理由|り|ゆう]で[私|わたし]を[訴|うった]えた。",
+      "translation_zh_CN": "他指控我偷了他的手表。"
+    },
+    {
+      "content": "彼女は自分のお金が盗まれたことで彼を訴えた。",
+      "furigana": "[彼女|かの|じょ]は[自分|じ|ぶん]のお[金|かね]が[盗|ぬす]まれたことで[彼|かれ]を[訴|うった]えた。",
+      "translation_zh_CN": "她控告他偷她的钱。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "訴える",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "訴える",
+          "reading": "うったえる"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "訴訟",
+          "reading": "そしょう"
+        }
+      ]
+    },
+    {
+      "slug": "訴え",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "訴え",
+          "reading": "うったえ"
+        }
+      ]
+    },
+    {
+      "slug": "訴追",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴追",
+          "reading": "そつい"
+        }
+      ]
+    },
+    {
+      "slug": "訴状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴状",
+          "reading": "そじょう"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴訟法",
+          "reading": "そしょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟費用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴訟費用",
+          "reading": "そしょうひよう"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟係属",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴訟係属",
+          "reading": "そしょうけいぞく"
+        },
+        {
+          "word": "訴訟繋属",
+          "reading": "そしょうけいぞく"
+        }
+      ]
+    },
+    {
+      "slug": "訴求",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴求",
+          "reading": "そきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟指揮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴訟指揮",
+          "reading": "そしょうしき"
+        }
+      ]
+    },
+    {
+      "slug": "訴求力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴求力",
+          "reading": "そきゅうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "訴人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴人",
+          "reading": "そにん"
+        }
+      ]
+    },
+    {
+      "slug": "訴求効果",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴求効果",
+          "reading": "そきゅうこうか"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴訟人",
+          "reading": "そしょうにん"
+        }
+      ]
+    },
+    {
+      "slug": "訴権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴権",
+          "reading": "そけん"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟当事者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴訟当事者",
+          "reading": "そしょうとうじしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "訴えかける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴えかける",
+          "reading": "うったえかける"
+        },
+        {
+          "word": "訴え掛ける",
+          "reading": "うったえかける"
+        }
+      ]
+    },
+    {
+      "slug": "訴因",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴因",
+          "reading": "そいん"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟記録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴訟記録",
+          "reading": "そしょうきろく"
+        }
+      ]
+    },
+    {
+      "slug": "訴訟行為",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訴訟行為",
+          "reading": "そしょうこうい"
+        }
+      ]
+    }
   ]
 }

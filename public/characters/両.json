@@ -69,5 +69,297 @@
       "startStroke": 3,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "両国家は戦争を始めた。",
+      "furigana": "[両国家|りょう|こっ|か]は[戦争|せん|そう]を[始|はじ]めた。",
+      "translation_zh_CN": "两国爆发了战争。"
+    },
+    {
+      "content": "列車は１５両編成だ。",
+      "furigana": "[列車|れっ|しゃ]は１５[両編成|りょう|へん|せい]だ。",
+      "translation_zh_CN": "该列车由15节车厢组成。"
+    },
+    {
+      "content": "彼女の両腕はきつく縛られた。",
+      "furigana": "[彼女|かの|じょ]の[両腕|りょう|うで]はきつく[縛|しば]られた。",
+      "translation_zh_CN": "她的双臂被紧紧地绑着。"
+    },
+    {
+      "content": "その馬の両脇腹は傷ついている。",
+      "furigana": "その[馬|うま]の[両脇腹|りょう|わき|ばら]は[傷|きず]ついている。",
+      "translation_zh_CN": "马两边都受伤了。"
+    },
+    {
+      "content": "こんな風に両腕を挙げてみて。",
+      "furigana": "こんな[風|ふう]に[両腕|りょう|うで]を[挙|あ]げてみて。",
+      "translation_zh_CN": "尝试像这样举起手臂。"
+    },
+    {
+      "content": "トムとメアリーは両思いなんだ。",
+      "furigana": "トムとメアリーは[両思|りょう|おも]いなんだ。",
+      "translation_zh_CN": "汤姆和玛丽相爱了。"
+    },
+    {
+      "content": "この列車は七両編成です。",
+      "furigana": "この[列車|れっ|しゃ]は[七両編成|なな|りょう|へん|せい]です。",
+      "translation_zh_CN": "这列火车有七节车厢。"
+    },
+    {
+      "content": "彼女は両腕に赤ん坊を抱えていた。",
+      "furigana": "[彼女|かの|じょ]は[両腕|りょう|うで]に[赤|あか]ん[坊|ぼう]を[抱|かか]えていた。",
+      "translation_zh_CN": "她怀里抱着一个婴儿。"
+    },
+    {
+      "content": "彼女は赤ちゃんを両腕に抱き締めた。",
+      "furigana": "[彼女|かの|じょ]は[赤|あか]ちゃんを[両腕|りょう|うで]に[抱|だ]き[締|し]めた。",
+      "translation_zh_CN": "她把婴儿抱在怀里。"
+    },
+    {
+      "content": "トムとメアリーは両想いなんだ。",
+      "furigana": "トムとメアリーは[両想|りょう|おも]いなんだ。",
+      "translation_zh_CN": "汤姆和玛丽相爱了。"
+    },
+    {
+      "content": "彼は両手をあげた。",
+      "furigana": "[彼|かれ]は[両手|りょう|て]をあげた。",
+      "translation_zh_CN": "他舉起了他的手。"
+    },
+    {
+      "content": "御両親によろしく。",
+      "furigana": "[御|ご][両親|りょう|しん]によろしく。",
+      "translation_zh_CN": "代我向你父母问好。"
+    },
+    {
+      "content": "トムのご両親ですね？",
+      "furigana": "トムのご[両親|りょう|しん]ですね？",
+      "translation_zh_CN": "你们是汤姆的父母，对吧？"
+    },
+    {
+      "content": "両替したいんですが。",
+      "furigana": "[両替|りょう|がえ]したいんですが。",
+      "translation_zh_CN": "我想换点钱。"
+    },
+    {
+      "content": "両親には従うべきだ。",
+      "furigana": "[両親|りょう|しん]には[従|したが]うべきだ。",
+      "translation_zh_CN": "你该听你父母的话。"
+    },
+    {
+      "content": "両者の溝が狭まった。",
+      "furigana": "[両者|りょう|しゃ]の[溝|みぞ]が[狭|せば]まった。",
+      "translation_zh_CN": "两人之间的距离已拉近。"
+    },
+    {
+      "content": "両親は離婚しました。",
+      "furigana": "[両親|りょう|しん]は[離婚|り|こん]しました。",
+      "translation_zh_CN": "我父母离婚了。"
+    },
+    {
+      "content": "両方一度にはできんよ。",
+      "furigana": "[両方|りょう|ほう][一|いち][度|ど]にはできんよ。",
+      "translation_zh_CN": "既要马好，又要马不吃草。"
+    },
+    {
+      "content": "両者の間に関係はない。",
+      "furigana": "[両者|りょう|しゃ]の[間|ま]に[関係|かん|けい]はない。",
+      "translation_zh_CN": "两者没有关联。"
+    },
+    {
+      "content": "君は両親に従うべきだ。",
+      "furigana": "[君|きみ]は[両親|りょう|しん]に[従|したが]うべきだ。",
+      "translation_zh_CN": "你该听你父母的话。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "両親",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "両親",
+          "reading": "りょうしん"
+        },
+        {
+          "word": "両親",
+          "reading": "ふたおや"
+        }
+      ]
+    },
+    {
+      "slug": "両方",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "両方",
+          "reading": "りょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "両替",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "両替",
+          "reading": "りょうがえ"
+        }
+      ]
+    },
+    {
+      "slug": "両側",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "両側",
+          "reading": "りょうがわ"
+        },
+        {
+          "word": "両側",
+          "reading": "りょうそく"
+        }
+      ]
+    },
+    {
+      "slug": "両立",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "両立",
+          "reading": "りょうりつ"
+        }
+      ]
+    },
+    {
+      "slug": "両手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両手",
+          "reading": "りょうて"
+        }
+      ]
+    },
+    {
+      "slug": "両国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両国",
+          "reading": "りょうこく"
+        },
+        {
+          "word": "両国",
+          "reading": "りょうごく"
+        }
+      ]
+    },
+    {
+      "slug": "両者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両者",
+          "reading": "りょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "両腕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両腕",
+          "reading": "りょううで"
+        },
+        {
+          "word": "両腕",
+          "reading": "もろうで"
+        }
+      ]
+    },
+    {
+      "slug": "両面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両面",
+          "reading": "りょうめん"
+        }
+      ]
+    },
+    {
+      "slug": "両端",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両端",
+          "reading": "りょうたん"
+        },
+        {
+          "word": "両端",
+          "reading": "りょうはし"
+        },
+        {
+          "word": "両端",
+          "reading": "りょうはじ"
+        }
+      ]
+    },
+    {
+      "slug": "両院",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両院",
+          "reading": "りょういん"
+        }
+      ]
+    },
+    {
+      "slug": "両輪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両輪",
+          "reading": "りょうりん"
+        }
+      ]
+    },
+    {
+      "slug": "両岸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両岸",
+          "reading": "りょうがん"
+        },
+        {
+          "word": "両岸",
+          "reading": "りょうぎし"
+        }
+      ]
+    },
+    {
+      "slug": "両家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "両家",
+          "reading": "りょうけ"
+        }
+      ]
+    }
   ]
 }

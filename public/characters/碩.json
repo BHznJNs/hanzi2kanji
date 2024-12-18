@@ -70,5 +70,38 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "碩儒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "碩儒",
+          "reading": "せきじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "碩学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "碩学",
+          "reading": "せきがく"
+        }
+      ]
+    },
+    {
+      "slug": "碩老",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "碩老",
+          "reading": "せきろう"
+        }
+      ]
+    }
   ]
 }

@@ -82,5 +82,309 @@
       "startStroke": 8,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "部屋を掃除しなさい。",
+      "furigana": "[部屋|へ|や]を[掃除|そう|じ]しなさい。",
+      "translation_zh_CN": "收拾房间。"
+    },
+    {
+      "content": "ネコは掃除機が大嫌い。",
+      "furigana": "ネコは[掃除|そう|じ][機|き]が[大嫌|だい|きら]い。",
+      "translation_zh_CN": "猫很讨厌吸尘器。"
+    },
+    {
+      "content": "彼は部屋の掃除が嫌いだ。",
+      "furigana": "[彼|かれ]は[部屋|へ|や]の[掃除|そう|じ]が[嫌|きら]いだ。",
+      "translation_zh_CN": "他讨厌打扫自己的房间。"
+    },
+    {
+      "content": "私は彼に床を掃除させた。",
+      "furigana": "[私|わたし]は[彼|かれ]に[床|ゆか]を[掃除|そう|じ]させた。",
+      "translation_zh_CN": "我让他扫地了。"
+    },
+    {
+      "content": "部屋の掃除が終わりました。",
+      "furigana": "[部屋|へ|や]の[掃除|そう|じ]が[終|お]わりました。",
+      "translation_zh_CN": "我已經打掃完我的房間了。"
+    },
+    {
+      "content": "自分の部屋を掃除しなさい。",
+      "furigana": "[自分|じ|ぶん]の[部屋|へ|や]を[掃除|そう|じ]しなさい。",
+      "translation_zh_CN": "清掃你的房間。"
+    },
+    {
+      "content": "お部屋の掃除をしましょうか？",
+      "furigana": "お[部屋|へ|や]の[掃除|そう|じ]をしましょうか？",
+      "translation_zh_CN": "我该打扫房间吗 ?"
+    },
+    {
+      "content": "父はガレージを掃除している。",
+      "furigana": "[父|ちち]はガレージを[掃除|そう|じ]している。",
+      "translation_zh_CN": "我父親正在清掃車庫。"
+    },
+    {
+      "content": "彼女は急いで部屋を掃除した。",
+      "furigana": "[彼女|かの|じょ]は[急|いそ]いで[部屋|へ|や]を[掃除|そう|じ]した。",
+      "translation_zh_CN": "她急忙地清掃了她的房間。"
+    },
+    {
+      "content": "彼は日曜日に部屋を掃除した。",
+      "furigana": "[彼|かれ]は[日曜日|にち|よう|び]に[部屋|へ|や]を[掃除|そう|じ]した。",
+      "translation_zh_CN": "他在週日打掃他的房間。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "掃除",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "掃除",
+          "reading": "そうじ"
+        }
+      ]
+    },
+    {
+      "slug": "払う",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "払う",
+          "reading": "はらう"
+        },
+        {
+          "word": "掃う",
+          "reading": "はらう"
+        }
+      ]
+    },
+    {
+      "slug": "掃く",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "掃く",
+          "reading": "はく"
+        }
+      ]
+    },
+    {
+      "slug": "掃除機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃除機",
+          "reading": "そうじき"
+        },
+        {
+          "word": "掃除器",
+          "reading": "そうじき"
+        }
+      ]
+    },
+    {
+      "slug": "掃討",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃討",
+          "reading": "そうとう"
+        },
+        {
+          "word": "掃蕩",
+          "reading": "そうとう"
+        },
+        {
+          "word": "掃盪",
+          "reading": "そうとう"
+        },
+        {
+          "word": "剿討",
+          "reading": "そうとう"
+        }
+      ]
+    },
+    {
+      "slug": "掃海",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃海",
+          "reading": "そうかい"
+        }
+      ]
+    },
+    {
+      "slug": "掃射",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃射",
+          "reading": "そうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "掃海艇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃海艇",
+          "reading": "そうかいてい"
+        }
+      ]
+    },
+    {
+      "slug": "掃除魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃除魚",
+          "reading": "そうじうお"
+        }
+      ]
+    },
+    {
+      "slug": "掃苔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃苔",
+          "reading": "そうたい"
+        }
+      ]
+    },
+    {
+      "slug": "掃き出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃き出す",
+          "reading": "はきだす"
+        }
+      ]
+    },
+    {
+      "slug": "掃き手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃き手",
+          "reading": "はきて"
+        }
+      ]
+    },
+    {
+      "slug": "掃き溜め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃き溜め",
+          "reading": "はきだめ"
+        },
+        {
+          "word": "掃きだめ",
+          "reading": "はきだめ"
+        },
+        {
+          "word": "掃溜め",
+          "reading": "はきだめ"
+        },
+        {
+          "word": "掃溜",
+          "reading": "はきだめ"
+        }
+      ]
+    },
+    {
+      "slug": "掃引",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃引",
+          "reading": "そういん"
+        }
+      ]
+    },
+    {
+      "slug": "掃き掃除",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃き掃除",
+          "reading": "はきそうじ"
+        }
+      ]
+    },
+    {
+      "slug": "掃討作戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃討作戦",
+          "reading": "そうとうさくせん"
+        }
+      ]
+    },
+    {
+      "slug": "掃き出し窓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃き出し窓",
+          "reading": "はきだしまど"
+        }
+      ]
+    },
+    {
+      "slug": "掃除人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃除人",
+          "reading": "そうじにん"
+        }
+      ]
+    },
+    {
+      "slug": "掃滅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃滅",
+          "reading": "そうめつ"
+        },
+        {
+          "word": "剿滅",
+          "reading": "そうめつ"
+        }
+      ]
+    },
+    {
+      "slug": "掃き立て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掃き立て",
+          "reading": "はきたて"
+        },
+        {
+          "word": "掃立て",
+          "reading": "はきたて"
+        },
+        {
+          "word": "掃きたて",
+          "reading": "はきたて"
+        }
+      ]
+    }
   ]
 }

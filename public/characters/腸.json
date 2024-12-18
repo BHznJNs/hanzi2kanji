@@ -96,5 +96,226 @@
       "startStroke": 9,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "腸の具合が悪い。",
+      "furigana": "[腸|はらわた]の[具合|ぐ|あい]が[悪|わる]い。",
+      "translation_zh_CN": "我的肠子感觉不舒服。"
+    },
+    {
+      "content": "腸が煮えくり返ってるところです。",
+      "furigana": "[腸|はらわた]が[煮|に]えくり[返|かえ]ってるところです。",
+      "translation_zh_CN": "我的肠子都沸腾了。"
+    },
+    {
+      "content": "トムは胃腸が弱い。",
+      "furigana": "トムは[胃腸|い|ちょう]が[弱|よわ]い。",
+      "translation_zh_CN": "汤姆肠胃不好。"
+    },
+    {
+      "content": "腸の調子が悪かったので学校を休んだ。",
+      "furigana": "[腸|ちょう]の[調子|ちょう|し]が[悪|わる]かったので[学校|がっ|こう]を[休|やす]んだ。",
+      "translation_zh_CN": "因为肚子不舒服， 我请了一天假不去学校。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "腸炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸炎",
+          "reading": "ちょうえん"
+        }
+      ]
+    },
+    {
+      "slug": "腸が煮えくり返る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "はらわたが煮えくり返る",
+          "reading": "はらわたがにえくりかえる"
+        },
+        {
+          "word": "腸が煮えくり返る",
+          "reading": "はらわたがにえくりかえる"
+        },
+        {
+          "word": "はらわたが煮えくりかえる",
+          "reading": "はらわたがにえくりかえる"
+        }
+      ]
+    },
+    {
+      "slug": "腸内細菌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸内細菌",
+          "reading": "ちょうないさいきん"
+        }
+      ]
+    },
+    {
+      "slug": "腸捻転",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸捻転",
+          "reading": "ちょうねんてん"
+        }
+      ]
+    },
+    {
+      "slug": "腸骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸骨",
+          "reading": "ちょうこつ"
+        }
+      ]
+    },
+    {
+      "slug": "腸香",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸香",
+          "reading": "わたか"
+        },
+        {
+          "word": "黄鯝魚",
+          "reading": "わたか"
+        },
+        {
+          "reading": "ワタカ"
+        }
+      ]
+    },
+    {
+      "slug": "腸間膜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸間膜",
+          "reading": "ちょうかんまく"
+        }
+      ]
+    },
+    {
+      "slug": "腸管出血性大腸菌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸管出血性大腸菌",
+          "reading": "ちょうかんしゅっけつせいだいちょうきん"
+        }
+      ]
+    },
+    {
+      "slug": "腸肝循環",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸肝循環",
+          "reading": "ちょうかんじゅんかん"
+        }
+      ]
+    },
+    {
+      "slug": "腸疾患",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸疾患",
+          "reading": "ちょうしっかん"
+        }
+      ]
+    },
+    {
+      "slug": "腸液",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸液",
+          "reading": "ちょうえき"
+        }
+      ]
+    },
+    {
+      "slug": "腸の腐った男",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸の腐った",
+          "reading": "はらわたのくさった"
+        }
+      ]
+    },
+    {
+      "slug": "腸内細菌叢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸内細菌叢",
+          "reading": "ちょうないさいきんそう"
+        }
+      ]
+    },
+    {
+      "slug": "腸がん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸がん",
+          "reading": "ちょうがん"
+        },
+        {
+          "word": "腸癌",
+          "reading": "ちょうがん"
+        },
+        {
+          "word": "腸ガン",
+          "reading": "ちょうがん"
+        }
+      ]
+    },
+    {
+      "slug": "腸回転異常",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸回転異常",
+          "reading": "ちょうかいてんいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "脹満",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脹満",
+          "reading": "ちょうまん"
+        },
+        {
+          "word": "腸満",
+          "reading": "ちょうまん"
+        }
+      ]
+    },
+    {
+      "slug": "腸抜き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腸抜き",
+          "reading": "わたぬき"
+        }
+      ]
+    }
   ]
 }

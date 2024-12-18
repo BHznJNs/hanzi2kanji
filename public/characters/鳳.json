@@ -62,5 +62,263 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "大鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大鳥",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鳳",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鵬",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鴻",
+          "reading": "おおとり"
+        },
+        {
+          "word": "凰",
+          "reading": "おおとり"
+        }
+      ]
+    },
+    {
+      "slug": "菠薐草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ほうれん草",
+          "reading": "ほうれんそう"
+        },
+        {
+          "word": "ホウレン草",
+          "reading": "ほうれんそう"
+        },
+        {
+          "word": "菠薐草",
+          "reading": "ほうれんそう"
+        },
+        {
+          "reading": "ホウレンソウ"
+        }
+      ]
+    },
+    {
+      "slug": "鳳凰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳凰",
+          "reading": "ほうおう"
+        }
+      ]
+    },
+    {
+      "slug": "鳳凰丸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳凰丸",
+          "reading": "ほうおうまる"
+        }
+      ]
+    },
+    {
+      "slug": "鳳凰木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳凰木",
+          "reading": "ほうおうぼく"
+        },
+        {
+          "word": "鳳凰樹",
+          "reading": "ほうおうぼく"
+        },
+        {
+          "reading": "ホウオウボク"
+        }
+      ]
+    },
+    {
+      "slug": "鳳凰竹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳凰竹",
+          "reading": "ほうおうちく"
+        },
+        {
+          "reading": "ホウオウチク"
+        }
+      ]
+    },
+    {
+      "slug": "鳳笙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳笙",
+          "reading": "ほうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "鳳凰貝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳凰貝",
+          "reading": "ほうおうがい"
+        },
+        {
+          "reading": "ホウオウガイ"
+        }
+      ]
+    },
+    {
+      "slug": "鳳仙花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ホウセンカ"
+        },
+        {
+          "word": "鳳仙花",
+          "reading": "ほうせんか"
+        }
+      ]
+    },
+    {
+      "slug": "鳳楼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳楼",
+          "reading": "ほうろう"
+        }
+      ]
+    },
+    {
+      "slug": "鳳凰座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳凰座",
+          "reading": "ほうおうざ"
+        },
+        {
+          "word": "ほうおう座",
+          "reading": "ほうおうざ"
+        }
+      ]
+    },
+    {
+      "slug": "鳳管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳管",
+          "reading": "ほうかん"
+        }
+      ]
+    },
+    {
+      "slug": "岩沢瀉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "岩沢瀉",
+          "reading": "いわおもだか"
+        },
+        {
+          "word": "岩面高",
+          "reading": "いわおもだか"
+        },
+        {
+          "word": "鳳了草",
+          "reading": "いわおもだか"
+        },
+        {
+          "reading": "イワオモダカ"
+        }
+      ]
+    },
+    {
+      "slug": "鳳翅鐘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳翅鐘",
+          "reading": "ほうしとう"
+        }
+      ]
+    },
+    {
+      "slug": "鳳輦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳輦",
+          "reading": "ほうれん"
+        }
+      ]
+    },
+    {
+      "slug": "揚羽蝶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "アゲハチョウ"
+        },
+        {
+          "word": "揚羽蝶",
+          "reading": "あげはちょう"
+        },
+        {
+          "word": "鳳蝶",
+          "reading": "あげはちょう"
+        }
+      ]
+    },
+    {
+      "slug": "鳳梨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳梨",
+          "reading": "ほうり"
+        }
+      ]
+    },
+    {
+      "slug": "鳳声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳声",
+          "reading": "ほうせい"
+        }
+      ]
+    },
+    {
+      "slug": "鳳凰文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳳凰文",
+          "reading": "ほうおうもん"
+        }
+      ]
+    }
   ]
 }

@@ -34,7 +34,7 @@
       "values": [
         "nouveau-né",
         "enfant",
-        "petit d\u0027animal"
+        "petit d'animal"
       ]
     },
     {
@@ -80,6 +80,224 @@
       "radical": "儿",
       "startStroke": 5,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "トムは未熟児で生まれた。",
+      "furigana": "トムは[未熟児|み|じゅく|じ]で[生|う]まれた。",
+      "translation_zh_CN": "汤姆早产了。"
+    },
+    {
+      "content": "メアリーは2児の母である。",
+      "furigana": "メアリーは2[児|じ]の[母|はは]である。",
+      "translation_zh_CN": "玛丽是两个孩子的母亲。"
+    },
+    {
+      "content": "幼稚園児は性欲の対象ではない。",
+      "furigana": "[幼稚園児|よう|ち|えん|じ]は[性欲|せい|よく]の[対象|たい|しょう]ではない。",
+      "translation_zh_CN": "幼儿园的孩子不是性欲的对象。"
+    },
+    {
+      "content": "彼は４歳と１歳の２児の父親だ。",
+      "furigana": "[彼|かれ]は４[歳|さい]と１[歳|さい]の２[児|じ]の[父親|ちち|おや]だ。",
+      "translation_zh_CN": "他是两个孩子的父亲，一个 4 岁，一个 1 岁。"
+    },
+    {
+      "content": "彼は幸運児であったと言われるのももっともだ。",
+      "furigana": "[彼|かれ]は[幸運児|こう|うん|じ]であったと[言|い]われるのももっともだ。",
+      "translation_zh_CN": "可以说，他是一个幸运的孩子。"
+    },
+    {
+      "content": "幼稚園児たちは手をつないで公園の中を歩いていた。",
+      "furigana": "[幼稚園児|よう|ち|えん|じ]たちは[手|て]をつないで[公園|こう|えん]の[中|なか]を[歩|ある]いていた。",
+      "translation_zh_CN": "幼儿园的孩子们手牵着手穿过公园。"
+    },
+    {
+      "content": "トムは孤児です。",
+      "furigana": "トムは[孤児|こ|じ]です。",
+      "translation_zh_CN": "湯姆是孤兒。"
+    },
+    {
+      "content": "彼らはその孤児を養子にした。",
+      "furigana": "[彼|かれ]らはその[孤児|こ|じ]を[養子|よう|し]にした。",
+      "translation_zh_CN": "他们收养了那个孤儿。"
+    },
+    {
+      "content": "親の亡くなった子供は「孤児」と呼ばれる。",
+      "furigana": "[親|おや]の[亡|な]くなった[子供|こ|ども]は「[孤児|こ|じ]」と[呼|よ]ばれる。",
+      "translation_zh_CN": "那些失去父母双亲的孩子被称为孤儿。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "児童",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "児童",
+          "reading": "じどう"
+        }
+      ]
+    },
+    {
+      "slug": "児童文学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童文学",
+          "reading": "じどうぶんがく"
+        }
+      ]
+    },
+    {
+      "slug": "児童心理学者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童心理学者",
+          "reading": "じどうしんりがくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "児童心理学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童心理学",
+          "reading": "じどうしんりがく"
+        }
+      ]
+    },
+    {
+      "slug": "児童虐待",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童虐待",
+          "reading": "じどうぎゃくたい"
+        }
+      ]
+    },
+    {
+      "slug": "児童福祉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童福祉",
+          "reading": "じどうふくし"
+        }
+      ]
+    },
+    {
+      "slug": "児童手当",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童手当",
+          "reading": "じどうてあて"
+        }
+      ]
+    },
+    {
+      "slug": "児童遊園地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童遊園地",
+          "reading": "じどうゆうえんち"
+        }
+      ]
+    },
+    {
+      "slug": "児女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児女",
+          "reading": "じじょ"
+        }
+      ]
+    },
+    {
+      "slug": "児童公園",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童公園",
+          "reading": "じどうこうえん"
+        }
+      ]
+    },
+    {
+      "slug": "児相",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児相",
+          "reading": "じそう"
+        }
+      ]
+    },
+    {
+      "slug": "児童劇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童劇",
+          "reading": "じどうげき"
+        }
+      ]
+    },
+    {
+      "slug": "児の手柏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児の手柏",
+          "reading": "このてがしわ"
+        },
+        {
+          "word": "児手柏",
+          "reading": "このてがしわ"
+        },
+        {
+          "reading": "コノテガシワ"
+        }
+      ]
+    },
+    {
+      "slug": "児子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児子",
+          "reading": "じし"
+        }
+      ]
+    },
+    {
+      "slug": "児戯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児戯",
+          "reading": "じぎ"
+        }
+      ]
+    },
+    {
+      "slug": "児童売春",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "児童売春",
+          "reading": "じどうばいしゅん"
+        }
+      ]
     }
   ]
 }

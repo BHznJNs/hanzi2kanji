@@ -80,5 +80,323 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は絶望視されている。",
+      "furigana": "[彼|かれ]は[絶望視|ぜつ|ぼう|し]されている。",
+      "translation_zh_CN": "他被认为是绝望的。"
+    },
+    {
+      "content": "我々は事態を重要視している。",
+      "furigana": "[我々|われわれ]は[事態|じ|たい]を[重要視|じゅう|よう|し]している。",
+      "translation_zh_CN": "我们认真对待这一情况。"
+    },
+    {
+      "content": "彼はその出来事を重大視した。",
+      "furigana": "[彼|かれ]はその[出来事|で|き|ごと]を[重大視|じゅう|だい|し]した。",
+      "translation_zh_CN": "他对此次活动高度重视。"
+    },
+    {
+      "content": "彼らはその光景を重大視した。",
+      "furigana": "[彼|かれ]らはその[光景|こう|けい]を[重大視|じゅう|だい|し]した。",
+      "translation_zh_CN": "他们认真对待这一场景。"
+    },
+    {
+      "content": "その議論を彼は重要視した。",
+      "furigana": "その[議論|ぎ|ろん]を[彼|かれ]は[重要視|じゅう|よう|し]した。",
+      "translation_zh_CN": "他高度重视这次讨论。"
+    },
+    {
+      "content": "その事実を過大視してはいけない。",
+      "furigana": "その[事実|じ|じつ]を[過大視|か|だい|し]してはいけない。",
+      "translation_zh_CN": "不要高估这个事实。"
+    },
+    {
+      "content": "意見と事実を同一視してはいけない。",
+      "furigana": "[意見|い|けん]と[事実|じ|じつ]を[同一視|どう|いつ|し]してはいけない。",
+      "translation_zh_CN": "不要将观点与事实等同起来。"
+    },
+    {
+      "content": "その組織の運営上の責任が問題視されている。",
+      "furigana": "その[組織|そ|しき]の[運営上|うん|えい|じょう]の[責任|せき|にん]が[問題視|もん|だい|し]されている。",
+      "translation_zh_CN": "该组织的运营责任受到质疑。"
+    },
+    {
+      "content": "かつて女性の喫煙はタブー視されていた。",
+      "furigana": "かつて[女性|じょ|せい]の[喫煙|きつ|えん]はタブー[視|し]されていた。",
+      "translation_zh_CN": "女性吸烟一度被视为禁忌。"
+    },
+    {
+      "content": "この事件を過大視してはならない。",
+      "furigana": "この[事件|じ|けん]を[過大視|か|だい|し]してはならない。",
+      "translation_zh_CN": "这一事件不应被高估。"
+    },
+    {
+      "content": "彼は視力が弱い。",
+      "furigana": "[彼|かれ]は[視力|し|りょく]が[弱|よわ]い。",
+      "translation_zh_CN": "他的视力不佳。"
+    },
+    {
+      "content": "彼は視力がいい。",
+      "furigana": "[彼|かれ]は[視力|し|りょく]がいい。",
+      "translation_zh_CN": "他的視力很好。"
+    },
+    {
+      "content": "視力は良いです。",
+      "furigana": "[視力|し|りょく]は[良|い]いです。",
+      "translation_zh_CN": "我的视力很好。"
+    },
+    {
+      "content": "視力は悪いです。",
+      "furigana": "[視力|し|りょく]は[悪|わる]いです。",
+      "translation_zh_CN": "我的视力不好。"
+    },
+    {
+      "content": "私は視力が弱い。",
+      "furigana": "[私|わたし]は[視力|し|りょく]が[弱|よわ]い。",
+      "translation_zh_CN": "我看不清楚。"
+    },
+    {
+      "content": "彼は視力を失った。",
+      "furigana": "[彼|かれ]は[視力|し|りょく]を[失|うしな]った。",
+      "translation_zh_CN": "他失明了。"
+    },
+    {
+      "content": "視力検査をします。",
+      "furigana": "[視力|し|りょく][検査|けん|さ]をします。",
+      "translation_zh_CN": "我要來檢查你的視力。"
+    },
+    {
+      "content": "視力を測りますね。",
+      "furigana": "[視力|し|りょく]を[測|はか]りますね。",
+      "translation_zh_CN": "我要來檢查你的視力。"
+    },
+    {
+      "content": "彼の視力が悪いです。",
+      "furigana": "[彼|かれ]の[視力|し|りょく]が[悪|わる]いです。",
+      "translation_zh_CN": "他的視力不好。"
+    },
+    {
+      "content": "最近視力が落ちてきた。",
+      "furigana": "[最近|さい|きん][視力|し|りょく]が[落|お]ちてきた。",
+      "translation_zh_CN": "这些天我的视力正在变差。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "見る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "見る",
+          "reading": "みる"
+        },
+        {
+          "word": "観る",
+          "reading": "みる"
+        },
+        {
+          "word": "視る",
+          "reading": "みる"
+        }
+      ]
+    },
+    {
+      "slug": "見える",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "見える",
+          "reading": "みえる"
+        }
+      ]
+    },
+    {
+      "slug": "視野",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "視野",
+          "reading": "しや"
+        }
+      ]
+    },
+    {
+      "slug": "視覚",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "視覚",
+          "reading": "しかく"
+        }
+      ]
+    },
+    {
+      "slug": "視点",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "視点",
+          "reading": "してん"
+        }
+      ]
+    },
+    {
+      "slug": "視察",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "視察",
+          "reading": "しさつ"
+        }
+      ]
+    },
+    {
+      "slug": "視力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視力",
+          "reading": "しりょく"
+        }
+      ]
+    },
+    {
+      "slug": "視線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視線",
+          "reading": "しせん"
+        }
+      ]
+    },
+    {
+      "slug": "視界",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視界",
+          "reading": "しかい"
+        }
+      ]
+    },
+    {
+      "slug": "視聴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視聴",
+          "reading": "しちょう"
+        },
+        {
+          "word": "視聴",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "slug": "視聴者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視聴者",
+          "reading": "しちょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "視床",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視床",
+          "reading": "ししょう"
+        }
+      ]
+    },
+    {
+      "slug": "視力障害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視力障害",
+          "reading": "しりょくしょうがい"
+        }
+      ]
+    },
+    {
+      "slug": "視覚的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視覚的",
+          "reading": "しかくてき"
+        }
+      ]
+    },
+    {
+      "slug": "視力検査",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視力検査",
+          "reading": "しりょくけんさ"
+        }
+      ]
+    },
+    {
+      "slug": "視聴率",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視聴率",
+          "reading": "しちょうりつ"
+        }
+      ]
+    },
+    {
+      "slug": "視角",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視角",
+          "reading": "しかく"
+        }
+      ]
+    },
+    {
+      "slug": "視聴覚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視聴覚",
+          "reading": "しちょうかく"
+        }
+      ]
+    },
+    {
+      "slug": "視する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "視する",
+          "reading": "しする"
+        }
+      ]
+    }
   ]
 }

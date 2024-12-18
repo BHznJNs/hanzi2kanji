@@ -78,5 +78,339 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "転職を検討したんです。",
+      "furigana": "[転職|てん|しょく]を[検討|けん|とう]したんです。",
+      "translation_zh_CN": "我考虑更换工作。"
+    },
+    {
+      "content": "討論は喧嘩に終わった。",
+      "furigana": "[討論|とう|ろん]は[喧嘩|けん|か]に[終|お]わった。",
+      "translation_zh_CN": "讨论最后变成了打架。"
+    },
+    {
+      "content": "彼はその討論に参加した。",
+      "furigana": "[彼|かれ]はその[討論|とう|ろん]に[参加|さん|か]した。",
+      "translation_zh_CN": "他参加辩论"
+    },
+    {
+      "content": "その問題を再検討しよう。",
+      "furigana": "その[問題|もん|だい]を[再検討|さい|けん|とう]しよう。",
+      "translation_zh_CN": "我會重新考慮此事。"
+    },
+    {
+      "content": "問題を再検討してみます。",
+      "furigana": "[問題|もん|だい]を[再検討|さい|けん|とう]してみます。",
+      "translation_zh_CN": "我會重新考慮此事。"
+    },
+    {
+      "content": "今、その問題を討議中ですよ。",
+      "furigana": "[今|いま]、その[問題|もん|だい]を[討議|とう|ぎ][中|ちゅう]ですよ。",
+      "translation_zh_CN": "这问题正在被讨论。"
+    },
+    {
+      "content": "私たちはその件を詳細に検討した。",
+      "furigana": "[私|わたし]たちはその[件|けん]を[詳細|しょう|さい]に[検討|けん|とう]した。",
+      "translation_zh_CN": "我们详细地讨论了这个问题。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "討論",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "討論",
+          "reading": "とうろん"
+        }
+      ]
+    },
+    {
+      "slug": "討議",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "討議",
+          "reading": "とうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "撃つ",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "撃つ",
+          "reading": "うつ"
+        },
+        {
+          "word": "射つ",
+          "reading": "うつ"
+        }
+      ]
+    },
+    {
+      "slug": "打ち破る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "討ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "打破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "撃ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "うち破る",
+          "reading": "うちやぶる"
+        }
+      ]
+    },
+    {
+      "slug": "討ち取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち取る",
+          "reading": "うちとる"
+        },
+        {
+          "word": "討ち取る",
+          "reading": "うちとる"
+        },
+        {
+          "word": "打ちとる",
+          "reading": "うちとる"
+        },
+        {
+          "word": "討ちとる",
+          "reading": "うちとる"
+        },
+        {
+          "word": "打取る",
+          "reading": "うちとる"
+        },
+        {
+          "word": "討取る",
+          "reading": "うちとる"
+        },
+        {
+          "word": "撃ち取る",
+          "reading": "うちとる"
+        }
+      ]
+    },
+    {
+      "slug": "討論会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討論会",
+          "reading": "とうろんかい"
+        }
+      ]
+    },
+    {
+      "slug": "討論者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討論者",
+          "reading": "とうろんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "伐つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討つ",
+          "reading": "うつ"
+        },
+        {
+          "word": "撃つ",
+          "reading": "うつ"
+        },
+        {
+          "word": "伐つ",
+          "reading": "うつ"
+        }
+      ]
+    },
+    {
+      "slug": "討ち入り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討ち入り",
+          "reading": "うちいり"
+        },
+        {
+          "word": "討入",
+          "reading": "うちいり"
+        },
+        {
+          "word": "討入り",
+          "reading": "うちいり"
+        }
+      ]
+    },
+    {
+      "slug": "討伐軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討伐軍",
+          "reading": "とうばつぐん"
+        }
+      ]
+    },
+    {
+      "slug": "撃ち止める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち止める",
+          "reading": "うちとめる"
+        },
+        {
+          "word": "打ち留める",
+          "reading": "うちとめる"
+        },
+        {
+          "word": "打止める",
+          "reading": "うちとめる"
+        },
+        {
+          "word": "打留める",
+          "reading": "うちとめる"
+        }
+      ]
+    },
+    {
+      "slug": "討尋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討尋",
+          "reading": "とうじん"
+        }
+      ]
+    },
+    {
+      "slug": "討伐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討伐",
+          "reading": "とうばつ"
+        }
+      ]
+    },
+    {
+      "slug": "討ち止める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討ち止める",
+          "reading": "うちとめる"
+        },
+        {
+          "word": "討止める",
+          "reading": "うちとめる"
+        }
+      ]
+    },
+    {
+      "slug": "討匪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討匪",
+          "reading": "とうひ"
+        }
+      ]
+    },
+    {
+      "slug": "討幕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討幕",
+          "reading": "とうばく"
+        }
+      ]
+    },
+    {
+      "slug": "討ち死に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討ち死に",
+          "reading": "うちじに"
+        },
+        {
+          "word": "討死",
+          "reading": "うちじに"
+        },
+        {
+          "word": "討死に",
+          "reading": "うちじに"
+        }
+      ]
+    },
+    {
+      "slug": "撃ち合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち合う",
+          "reading": "うちあう"
+        },
+        {
+          "word": "討ち合う",
+          "reading": "うちあう"
+        }
+      ]
+    },
+    {
+      "slug": "討ち滅ぼす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討ち滅ぼす",
+          "reading": "うちほろぼす"
+        }
+      ]
+    },
+    {
+      "slug": "討究",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討究",
+          "reading": "とうきゅう"
+        }
+      ]
+    }
   ]
 }

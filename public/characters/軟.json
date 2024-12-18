@@ -60,5 +60,212 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "柔らかい",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "柔らかい",
+          "reading": "やわらかい"
+        },
+        {
+          "word": "軟らかい",
+          "reading": "やわらかい"
+        }
+      ]
+    },
+    {
+      "slug": "軟骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟骨",
+          "reading": "なんこつ"
+        }
+      ]
+    },
+    {
+      "slug": "軟らか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "柔らか",
+          "reading": "やわらか"
+        },
+        {
+          "word": "軟らか",
+          "reading": "やわらか"
+        }
+      ]
+    },
+    {
+      "slug": "軟派",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟派",
+          "reading": "なんぱ"
+        },
+        {
+          "reading": "ナンパ"
+        }
+      ]
+    },
+    {
+      "slug": "軟木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟木",
+          "reading": "なんぼく"
+        }
+      ]
+    },
+    {
+      "slug": "軟禁状態",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟禁状態",
+          "reading": "なんきんじょうたい"
+        }
+      ]
+    },
+    {
+      "slug": "軟水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟水",
+          "reading": "なんすい"
+        }
+      ]
+    },
+    {
+      "slug": "軟禁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟禁",
+          "reading": "なんきん"
+        }
+      ]
+    },
+    {
+      "slug": "軟化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟化",
+          "reading": "なんか"
+        }
+      ]
+    },
+    {
+      "slug": "軟式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟式",
+          "reading": "なんしき"
+        }
+      ]
+    },
+    {
+      "slug": "軟着陸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟着陸",
+          "reading": "なんちゃくりく"
+        }
+      ]
+    },
+    {
+      "slug": "軟弱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟弱",
+          "reading": "なんじゃく"
+        }
+      ]
+    },
+    {
+      "slug": "軟調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟調",
+          "reading": "なんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "軟投",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟投",
+          "reading": "なんとう"
+        }
+      ]
+    },
+    {
+      "slug": "軟骨魚綱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟骨魚綱",
+          "reading": "なんこつぎょこう"
+        }
+      ]
+    },
+    {
+      "slug": "軟膜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟膜",
+          "reading": "なんまく"
+        }
+      ]
+    },
+    {
+      "slug": "軟体動物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟体動物",
+          "reading": "なんたいどうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "軟性下疳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟性下疳",
+          "reading": "なんせいげかん"
+        }
+      ]
+    },
+    {
+      "slug": "軟口蓋音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軟口蓋音",
+          "reading": "なんこうがいおん"
+        }
+      ]
+    }
   ]
 }

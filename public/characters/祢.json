@@ -47,5 +47,22 @@
       "startStroke": 6,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "禰宜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "禰宜",
+          "reading": "ねぎ"
+        },
+        {
+          "word": "祢宜",
+          "reading": "ねぎ"
+        }
+      ]
+    }
   ]
 }

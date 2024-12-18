@@ -105,5 +105,77 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "重り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "重り",
+          "reading": "おもり"
+        },
+        {
+          "word": "錘",
+          "reading": "おもり"
+        }
+      ]
+    },
+    {
+      "slug": "紡錘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡錘",
+          "reading": "ぼうすい"
+        },
+        {
+          "word": "紡錘",
+          "reading": "つむ"
+        },
+        {
+          "word": "錘",
+          "reading": "つむ"
+        },
+        {
+          "word": "錘",
+          "reading": "つみ"
+        }
+      ]
+    },
+    {
+      "slug": "錘鰤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錘鰤",
+          "reading": "つむぶり"
+        },
+        {
+          "reading": "ツムブリ"
+        }
+      ]
+    },
+    {
+      "slug": "錘形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錘形",
+          "reading": "つむがた"
+        }
+      ]
+    },
+    {
+      "slug": "錘状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錘状",
+          "reading": "すいじょう"
+        }
+      ]
+    }
   ]
 }

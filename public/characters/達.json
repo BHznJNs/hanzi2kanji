@@ -81,5 +81,322 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "私達は近づいている。",
+      "furigana": "[私達|わたし|たち]は[近|ちか]づいている。",
+      "translation_zh_CN": "我们越来越近了。"
+    },
+    {
+      "content": "子供達を寝かせなさい。",
+      "furigana": "[子供達|こ|ども|たち]を[寝|ね]かせなさい。",
+      "translation_zh_CN": "让孩子们上床睡觉。"
+    },
+    {
+      "content": "彼女達は眠っていた。",
+      "furigana": "[彼女達|かの|じょ|たち]は[眠|ねむ]っていた。",
+      "translation_zh_CN": "他们睡着了。"
+    },
+    {
+      "content": "彼女達は寝ていた。",
+      "furigana": "[彼女達|かの|じょ|たち]は[寝|ね]ていた。",
+      "translation_zh_CN": "他们正在睡觉。"
+    },
+    {
+      "content": "私達は健康です。",
+      "furigana": "[私達|わたし|たち]は[健康|けん|こう]です。",
+      "translation_zh_CN": "我们很健康。"
+    },
+    {
+      "content": "私達は昨夜会いました。",
+      "furigana": "[私達|わたし|たち]は[昨夜会|さく|や|あ]いました。",
+      "translation_zh_CN": "我们昨晚见过面。"
+    },
+    {
+      "content": "私達は座った方がいい。",
+      "furigana": "[私達|わたし|たち]は[座|すわ]った[方|ほう]がいい。",
+      "translation_zh_CN": "我们应该坐下来。"
+    },
+    {
+      "content": "私達が普通です。",
+      "furigana": "[私達|わたし|たち]が[普通|ふ|つう]です。",
+      "translation_zh_CN": "我们很正常。"
+    },
+    {
+      "content": "子ども達は疲れてきている。",
+      "furigana": "[子|こ]ども[達|たち]は[疲|つか]れてきている。",
+      "translation_zh_CN": "孩子们越来越累了。"
+    },
+    {
+      "content": "男の子達は速く走る。",
+      "furigana": "[男|おとこ]の[子達|こ|たち]は[速|はや]く[走|はし]る。",
+      "translation_zh_CN": "男孩子跑得快。"
+    },
+    {
+      "content": "練習は熟達の道。",
+      "furigana": "[練習|れん|しゅう]は[熟達|じゅく|たつ]の[道|みち]。",
+      "translation_zh_CN": "熟能生巧。"
+    },
+    {
+      "content": "私達は夫婦です。",
+      "furigana": "[私|わたし][達|たち]は[夫婦|ふう|ふ]です。",
+      "translation_zh_CN": "我們是夫婦。"
+    },
+    {
+      "content": "一番面白い友達は？",
+      "furigana": "[一番|いち|ばん][面白|おも|しろ]い[友達|とも|だち]は？",
+      "translation_zh_CN": "你最有趣的朋友是誰？"
+    },
+    {
+      "content": "友達は１７歳です。",
+      "furigana": "[友達|とも|だち]は[１７|じゅうなな][歳|さい]です。",
+      "translation_zh_CN": "我的朋友十七岁了。"
+    },
+    {
+      "content": "クラスに友達いる？",
+      "furigana": "クラスに[友達|とも|だち]いる？",
+      "translation_zh_CN": "你在班里有好朋友吗？"
+    },
+    {
+      "content": "私の母は達筆だ。",
+      "furigana": "[私|わたし]の[母|はは]は[達筆|たっ|ぴつ]だ。",
+      "translation_zh_CN": "我母親的筆跡很好看。"
+    },
+    {
+      "content": "友達は留守だった。",
+      "furigana": "[友達|とも|だち]は[留守|る|す]だった。",
+      "translation_zh_CN": "這位朋友沒有出席。"
+    },
+    {
+      "content": "彼は私の友達です。",
+      "furigana": "[彼|かれ]は[私|わたし]の[友達|とも|だち]です。",
+      "translation_zh_CN": "他是我的朋友。"
+    },
+    {
+      "content": "私は友達に会った。",
+      "furigana": "[私|わたし]は[友達|とも|だち]に[会|あ]った。",
+      "translation_zh_CN": "我见了一个朋友。"
+    },
+    {
+      "content": "私は友達がいない。",
+      "furigana": "[私|わたし]は[友達|とも|だち]がいない。",
+      "translation_zh_CN": "我没有朋友。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "ダチ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達",
+          "reading": "だち"
+        },
+        {
+          "reading": "ダチ"
+        }
+      ]
+    },
+    {
+      "slug": "達する",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "達する",
+          "reading": "たっする"
+        }
+      ]
+    },
+    {
+      "slug": "達成",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "達成",
+          "reading": "たっせい"
+        }
+      ]
+    },
+    {
+      "slug": "達者",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "達者",
+          "reading": "たっしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "達人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達人",
+          "reading": "たつじん"
+        }
+      ]
+    },
+    {
+      "slug": "達し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達し",
+          "reading": "たっし"
+        },
+        {
+          "word": "達示",
+          "reading": "たっし"
+        }
+      ]
+    },
+    {
+      "slug": "達観",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達観",
+          "reading": "たっかん"
+        }
+      ]
+    },
+    {
+      "slug": "達て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達て",
+          "reading": "たって"
+        },
+        {
+          "word": "強って",
+          "reading": "たって"
+        }
+      ]
+    },
+    {
+      "slug": "達磨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達磨",
+          "reading": "だるま"
+        },
+        {
+          "reading": "ダルマ"
+        }
+      ]
+    },
+    {
+      "slug": "達筆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達筆",
+          "reading": "たっぴつ"
+        }
+      ]
+    },
+    {
+      "slug": "達磨鮫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達磨鮫",
+          "reading": "だるまざめ"
+        },
+        {
+          "reading": "ダルマザメ"
+        }
+      ]
+    },
+    {
+      "slug": "達成度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達成度",
+          "reading": "たっせいど"
+        }
+      ]
+    },
+    {
+      "slug": "達率",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達率",
+          "reading": "たつりつ"
+        }
+      ]
+    },
+    {
+      "slug": "達成感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達成感",
+          "reading": "たっせいかん"
+        }
+      ]
+    },
+    {
+      "slug": "達眼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達眼",
+          "reading": "たつがん"
+        }
+      ]
+    },
+    {
+      "slug": "達す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達す",
+          "reading": "たっす"
+        }
+      ]
+    },
+    {
+      "slug": "達意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達意",
+          "reading": "たつい"
+        }
+      ]
+    },
+    {
+      "slug": "だるまさんが転んだ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "だるまさんが転んだ",
+          "reading": "だるまさんがころんだ"
+        }
+      ]
+    },
+    {
+      "slug": "達文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "達文",
+          "reading": "たつぶん"
+        }
+      ]
+    }
   ]
 }

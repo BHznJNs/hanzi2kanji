@@ -59,5 +59,58 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "絢爛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絢爛",
+          "reading": "けんらん"
+        }
+      ]
+    },
+    {
+      "slug": "絢文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絢文",
+          "reading": "けんぶん"
+        }
+      ]
+    },
+    {
+      "slug": "絢爛華麗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絢爛華麗",
+          "reading": "けんらんかれい"
+        }
+      ]
+    },
+    {
+      "slug": "絢爛豪華",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絢爛豪華",
+          "reading": "けんらんごうか"
+        }
+      ]
+    },
+    {
+      "slug": "絢緞子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絢緞子",
+          "reading": "あやどんす"
+        }
+      ]
+    }
   ]
 }

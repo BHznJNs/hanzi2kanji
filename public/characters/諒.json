@@ -77,5 +77,132 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "了解",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "了解",
+          "reading": "りょうかい"
+        },
+        {
+          "word": "諒解",
+          "reading": "りょうかい"
+        },
+        {
+          "word": "領解",
+          "reading": "りょうかい"
+        },
+        {
+          "word": "領会",
+          "reading": "りょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "了承",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "了承",
+          "reading": "りょうしょう"
+        },
+        {
+          "word": "諒承",
+          "reading": "りょうしょう"
+        },
+        {
+          "word": "領承",
+          "reading": "りょうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "諒闇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諒闇",
+          "reading": "りょうあん"
+        },
+        {
+          "word": "諒陰",
+          "reading": "りょうあん"
+        },
+        {
+          "word": "亮闇",
+          "reading": "りょうあん"
+        }
+      ]
+    },
+    {
+      "slug": "了解事項",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "了解事項",
+          "reading": "りょうかいじこう"
+        },
+        {
+          "word": "諒解事項",
+          "reading": "りょうかいじこう"
+        }
+      ]
+    },
+    {
+      "slug": "諒察",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諒察",
+          "reading": "りょうさつ"
+        },
+        {
+          "word": "亮察",
+          "reading": "りょうさつ"
+        },
+        {
+          "word": "了察",
+          "reading": "りょうさつ"
+        }
+      ]
+    },
+    {
+      "slug": "諒する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諒する",
+          "reading": "りょうする"
+        }
+      ]
+    },
+    {
+      "slug": "諒恕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諒恕",
+          "reading": "りょうじょ"
+        }
+      ]
+    },
+    {
+      "slug": "諒とする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諒とする",
+          "reading": "りょうとする"
+        }
+      ]
+    }
   ]
 }

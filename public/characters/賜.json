@@ -99,5 +99,138 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "賜物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜物",
+          "reading": "たまもの"
+        },
+        {
+          "word": "賜",
+          "reading": "たまもの"
+        },
+        {
+          "word": "賚",
+          "reading": "たまもの"
+        }
+      ]
+    },
+    {
+      "slug": "給う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "給う",
+          "reading": "たまう"
+        },
+        {
+          "word": "賜う",
+          "reading": "たまう"
+        }
+      ]
+    },
+    {
+      "slug": "賜る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賜る",
+          "reading": "たまわる"
+        },
+        {
+          "word": "賜わる",
+          "reading": "たまわる"
+        },
+        {
+          "word": "給わる",
+          "reading": "たまわる"
+        }
+      ]
+    },
+    {
+      "slug": "賜杯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜杯",
+          "reading": "しはい"
+        },
+        {
+          "word": "賜盃",
+          "reading": "しはい"
+        }
+      ]
+    },
+    {
+      "slug": "賜暇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜暇",
+          "reading": "しか"
+        }
+      ]
+    },
+    {
+      "slug": "賜り物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜り物",
+          "reading": "たまわりもの"
+        }
+      ]
+    },
+    {
+      "slug": "賜金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜金",
+          "reading": "しきん"
+        }
+      ]
+    },
+    {
+      "slug": "賜与",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賜与",
+          "reading": "しよ"
+        }
+      ]
+    },
+    {
+      "slug": "給ふ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "給ふ",
+          "reading": "たまう"
+        },
+        {
+          "word": "給ふ",
+          "reading": "たもう"
+        },
+        {
+          "word": "賜ふ",
+          "reading": "たまう"
+        },
+        {
+          "word": "賜ふ",
+          "reading": "たもう"
+        }
+      ]
+    }
   ]
 }

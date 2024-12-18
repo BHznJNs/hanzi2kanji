@@ -105,5 +105,377 @@
       "startStroke": 10,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "肌が乾燥しています。",
+      "furigana": "[肌|はだ]が[乾燥|かん|そう]しています。",
+      "translation_zh_CN": "我的皮肤是干性的。"
+    },
+    {
+      "content": "乾いた木材はよく燃える。",
+      "furigana": "[乾|かわ]いた[木材|もく|ざい]はよく[燃|も]える。",
+      "translation_zh_CN": "干柴燒得旺。"
+    },
+    {
+      "content": "私の靴下って、もう乾いた？",
+      "furigana": "[私|わたし]の[靴下|くつ|した]って、もう[乾|かわ]いた？",
+      "translation_zh_CN": "我的襪子已經乾了嗎？"
+    },
+    {
+      "content": "乾いたタオルを持ってきて。",
+      "furigana": "[乾|かわ]いたタオルを[持|も]ってきて。",
+      "translation_zh_CN": "給我一條乾毛巾。"
+    },
+    {
+      "content": "私のシャツはまだ乾いていないの。",
+      "furigana": "[私|わたし]のシャツはまだ[乾|かわ]いていないの。",
+      "translation_zh_CN": "我的衬衫还没干。"
+    },
+    {
+      "content": "毎年冬になると唇がカサカサに乾燥してしまいます。",
+      "furigana": "[毎年|まい|とし][冬|ふゆ]になると[唇|くちびる]がカサカサに[乾燥|かん|そう]してしまいます。",
+      "translation_zh_CN": "每年冬天，我的嘴唇都会干裂。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "戌亥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戌亥",
+          "reading": "いぬい"
+        },
+        {
+          "word": "乾",
+          "reading": "いぬい"
+        }
+      ]
+    },
+    {
+      "slug": "干し",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "干し",
+          "reading": "ほし"
+        },
+        {
+          "word": "乾し",
+          "reading": "ほし"
+        },
+        {
+          "word": "干",
+          "reading": "ほし"
+        },
+        {
+          "word": "乾",
+          "reading": "ほし"
+        }
+      ]
+    },
+    {
+      "slug": "乾燥",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "乾燥",
+          "reading": "かんそう"
+        }
+      ]
+    },
+    {
+      "slug": "乾杯",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "乾杯",
+          "reading": "かんぱい"
+        },
+        {
+          "word": "乾盃",
+          "reading": "かんぱい"
+        }
+      ]
+    },
+    {
+      "slug": "乾く",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "乾く",
+          "reading": "かわく"
+        }
+      ]
+    },
+    {
+      "slug": "干す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "干す",
+          "reading": "ほす"
+        },
+        {
+          "word": "乾す",
+          "reading": "ほす"
+        }
+      ]
+    },
+    {
+      "slug": "乾電池",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "乾電池",
+          "reading": "かんでんち"
+        }
+      ]
+    },
+    {
+      "slug": "乾かす",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "乾かす",
+          "reading": "かわかす"
+        }
+      ]
+    },
+    {
+      "slug": "乾期",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乾季",
+          "reading": "かんき"
+        },
+        {
+          "word": "乾期",
+          "reading": "かんき"
+        }
+      ]
+    },
+    {
+      "slug": "乾上がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干上がる",
+          "reading": "ひあがる"
+        },
+        {
+          "word": "干あがる",
+          "reading": "ひあがる"
+        },
+        {
+          "word": "ひ上がる",
+          "reading": "ひあがる"
+        },
+        {
+          "word": "乾上がる",
+          "reading": "ひあがる"
+        },
+        {
+          "word": "乾あがる",
+          "reading": "ひあがる"
+        }
+      ]
+    },
+    {
+      "slug": "干し草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干し草",
+          "reading": "ほしくさ"
+        },
+        {
+          "word": "干し草",
+          "reading": "ほしぐさ"
+        },
+        {
+          "word": "干草",
+          "reading": "ほしくさ"
+        },
+        {
+          "word": "干草",
+          "reading": "ほしぐさ"
+        },
+        {
+          "word": "乾し草",
+          "reading": "ほしくさ"
+        },
+        {
+          "word": "乾し草",
+          "reading": "ほしぐさ"
+        },
+        {
+          "word": "乾草",
+          "reading": "ほしくさ"
+        },
+        {
+          "word": "乾草",
+          "reading": "ほしぐさ"
+        }
+      ]
+    },
+    {
+      "slug": "干物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干物",
+          "reading": "ひもの"
+        },
+        {
+          "word": "干物",
+          "reading": "からもの"
+        },
+        {
+          "word": "乾物",
+          "reading": "ひもの"
+        },
+        {
+          "word": "乾物",
+          "reading": "からもの"
+        }
+      ]
+    },
+    {
+      "slug": "乾咳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "から咳",
+          "reading": "からせき"
+        },
+        {
+          "word": "から咳",
+          "reading": "からぜき"
+        },
+        {
+          "word": "空咳",
+          "reading": "からせき"
+        },
+        {
+          "word": "空咳",
+          "reading": "からぜき"
+        },
+        {
+          "word": "乾咳",
+          "reading": "からせき"
+        },
+        {
+          "word": "乾咳",
+          "reading": "からぜき"
+        }
+      ]
+    },
+    {
+      "slug": "干し物",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "干し物",
+          "reading": "ほしもの"
+        },
+        {
+          "word": "乾し物",
+          "reading": "ほしもの"
+        },
+        {
+          "word": "干物",
+          "reading": "ほしもの"
+        },
+        {
+          "word": "乾物",
+          "reading": "ほしもの"
+        }
+      ]
+    },
+    {
+      "slug": "乾坤一擲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乾坤一擲",
+          "reading": "けんこんいってき"
+        }
+      ]
+    },
+    {
+      "slug": "乾物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乾物",
+          "reading": "かんぶつ"
+        },
+        {
+          "word": "干物",
+          "reading": "かんぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "乾き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乾き",
+          "reading": "かわき"
+        }
+      ]
+    },
+    {
+      "slug": "子分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "子分",
+          "reading": "こぶん"
+        },
+        {
+          "word": "乾児",
+          "reading": "こぶん"
+        },
+        {
+          "word": "乾分",
+          "reading": "こぶん"
+        }
+      ]
+    },
+    {
+      "slug": "乾燥器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乾燥機",
+          "reading": "かんそうき"
+        },
+        {
+          "word": "乾燥器",
+          "reading": "かんそうき"
+        }
+      ]
+    }
   ]
 }

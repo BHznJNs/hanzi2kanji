@@ -93,5 +93,292 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "納得いかないな。",
+      "furigana": "[納得|なっ|とく]いかないな。",
+      "translation_zh_CN": "我不同意你的看法。"
+    },
+    {
+      "content": "納得いかないなあ。",
+      "furigana": "[納得|なっ|とく]いかないなあ。",
+      "translation_zh_CN": "烦死人。"
+    },
+    {
+      "content": "ペンチを道具箱に納めといて。",
+      "furigana": "ペンチを[道具|どう|ぐ][箱|ばこ]に[納|おさ]めといて。",
+      "translation_zh_CN": "把钳子放在工具箱里。"
+    },
+    {
+      "content": "嵐を避けて近くの納屋に逃げ込んだ。",
+      "furigana": "[嵐|あらし]を[避|さ]けて[近|ちか]くの[納屋|な|や]に[逃|に]げ[込|こ]んだ。",
+      "translation_zh_CN": "为躲避风暴，我们躲到了附近的一个谷仓内。"
+    },
+    {
+      "content": "あなたは家賃を１ヶ月滞納している。",
+      "furigana": "あなたは[家賃|や|ちん]を[１|][ヶ月|かげつ][滞納|たい|のう]している。",
+      "translation_zh_CN": "你的租金遲交了一個月。"
+    },
+    {
+      "content": "遠からず私が正しいと納得しますよ。",
+      "furigana": "[遠|とおざ]からず[私|わたし]が[正|ただ]しいと[納得|なっ|とく]しますよ。",
+      "translation_zh_CN": "你很快就會相信我是對的了。"
+    },
+    {
+      "content": "つまらないものですがご笑納ください。",
+      "furigana": "つまらないものですがご[笑納|しょう|のう]ください。",
+      "translation_zh_CN": "請收下這份小禮物吧。"
+    },
+    {
+      "content": "あなたは部屋代を１ヶ月滞納している。",
+      "furigana": "あなたは[部屋|へ|や][代|だい]を[１|][ヶ月|かげつ][滞納|たい|のう]している。",
+      "translation_zh_CN": "你的租金遲交了一個月。"
+    },
+    {
+      "content": "トムはこのカメラを納得価格で買った。",
+      "furigana": "トムはこのカメラを[納得|なっ|とく][価格|か|かく]で[買|か]った。",
+      "translation_zh_CN": "Tom用合理的價格買了相機。"
+    },
+    {
+      "content": "水道料金を滞納すると給水を停止されるということをお聞きしましたが本当ですか？",
+      "furigana": "[水道|すい|どう][料金|りょう|きん]を[滞納|たい|のう]すると[給水|きゅう|すい]を[停止|てい|し]されるということをお[聞|き]きしましたが[本当|ほん|とう]ですか？",
+      "translation_zh_CN": "聽說不交水費就會被停水，是真的嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "納得",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "納得",
+          "reading": "なっとく"
+        }
+      ]
+    },
+    {
+      "slug": "収める",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "収める",
+          "reading": "おさめる"
+        },
+        {
+          "word": "納める",
+          "reading": "おさめる"
+        }
+      ]
+    },
+    {
+      "slug": "収まる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "収まる",
+          "reading": "おさまる"
+        },
+        {
+          "word": "納まる",
+          "reading": "おさまる"
+        }
+      ]
+    },
+    {
+      "slug": "納豆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納豆",
+          "reading": "なっとう"
+        }
+      ]
+    },
+    {
+      "slug": "納付",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納付",
+          "reading": "のうふ"
+        }
+      ]
+    },
+    {
+      "slug": "納屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納屋",
+          "reading": "なや"
+        }
+      ]
+    },
+    {
+      "slug": "納期",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納期",
+          "reading": "のうき"
+        }
+      ]
+    },
+    {
+      "slug": "納品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納品",
+          "reading": "のうひん"
+        }
+      ]
+    },
+    {
+      "slug": "納入",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "納入",
+          "reading": "のうにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "納税者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納税者",
+          "reading": "のうぜいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "納得ずく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納得ずく",
+          "reading": "なっとくずく"
+        },
+        {
+          "word": "納得尽く",
+          "reading": "なっとくずく"
+        },
+        {
+          "word": "納得づく",
+          "reading": "なっとくづく"
+        }
+      ]
+    },
+    {
+      "slug": "納税",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納税",
+          "reading": "のうぜい"
+        }
+      ]
+    },
+    {
+      "slug": "収まり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収まり",
+          "reading": "おさまり"
+        },
+        {
+          "word": "納まり",
+          "reading": "おさまり"
+        },
+        {
+          "word": "治まり",
+          "reading": "おさまり"
+        }
+      ]
+    },
+    {
+      "slug": "納金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納金",
+          "reading": "のうきん"
+        }
+      ]
+    },
+    {
+      "slug": "納戸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納戸",
+          "reading": "なんど"
+        }
+      ]
+    },
+    {
+      "slug": "納骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納骨",
+          "reading": "のうこつ"
+        }
+      ]
+    },
+    {
+      "slug": "納采",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納采",
+          "reading": "のうさい"
+        }
+      ]
+    },
+    {
+      "slug": "納涼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納涼",
+          "reading": "のうりょう"
+        }
+      ]
+    },
+    {
+      "slug": "納会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納会",
+          "reading": "のうかい"
+        }
+      ]
+    },
+    {
+      "slug": "納骨堂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "納骨堂",
+          "reading": "のうこつどう"
+        }
+      ]
+    }
   ]
 }

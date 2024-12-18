@@ -89,5 +89,174 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "このレストランは推薦できます。",
+      "furigana": "このレストランは[推薦|すい|せん]できます。",
+      "translation_zh_CN": "我推荐这个餐厅。"
+    },
+    {
+      "content": "英語の先生にこれらの本を読むように薦められました。",
+      "furigana": "[英語|えい|ご]の[先生|せん|せい]にこれらの[本|ほん]を[読|よ]むように[薦|すす]められました。",
+      "translation_zh_CN": "我的英语老师建议我读这些书。"
+    },
+    {
+      "content": "英語の先生がこういう本を読むように薦めてくれました。",
+      "furigana": "[英語|えい|ご]の[先生|せん|せい]がこういう[本|ほん]を[読|よ]むように[薦|すす]めてくれました。",
+      "translation_zh_CN": "我的英语老师建议我读这些书。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "勧める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "勧める",
+          "reading": "すすめる"
+        },
+        {
+          "word": "薦める",
+          "reading": "すすめる"
+        },
+        {
+          "word": "奨める",
+          "reading": "すすめる"
+        }
+      ]
+    },
+    {
+      "slug": "勧め",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勧め",
+          "reading": "すすめ"
+        },
+        {
+          "word": "薦め",
+          "reading": "すすめ"
+        },
+        {
+          "word": "奨め",
+          "reading": "すすめ"
+        }
+      ]
+    },
+    {
+      "slug": "薦被り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦被り",
+          "reading": "こもかぶり"
+        }
+      ]
+    },
+    {
+      "slug": "菰蓆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "菰蓆",
+          "reading": "こもむしろ"
+        },
+        {
+          "word": "薦筵",
+          "reading": "こもむしろ"
+        }
+      ]
+    },
+    {
+      "slug": "薦僧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦僧",
+          "reading": "こもそう"
+        },
+        {
+          "word": "薦僧",
+          "reading": "こもぞう"
+        },
+        {
+          "word": "菰僧",
+          "reading": "こもそう"
+        },
+        {
+          "word": "菰僧",
+          "reading": "こもぞう"
+        }
+      ]
+    },
+    {
+      "slug": "こも巻き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "こも巻き",
+          "reading": "こもまき"
+        },
+        {
+          "word": "菰巻き",
+          "reading": "こもまき"
+        },
+        {
+          "word": "薦巻き",
+          "reading": "こもまき"
+        },
+        {
+          "word": "菰巻",
+          "reading": "こもまき"
+        },
+        {
+          "word": "薦巻",
+          "reading": "こもまき"
+        }
+      ]
+    },
+    {
+      "slug": "仙骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仙骨",
+          "reading": "せんこつ"
+        },
+        {
+          "word": "薦骨",
+          "reading": "せんこつ"
+        }
+      ]
+    },
+    {
+      "slug": "薦挙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薦挙",
+          "reading": "せんきょ"
+        }
+      ]
+    },
+    {
+      "slug": "仙椎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仙椎",
+          "reading": "せんつい"
+        },
+        {
+          "word": "薦椎",
+          "reading": "せんつい"
+        }
+      ]
+    }
   ]
 }

@@ -87,5 +87,233 @@
       "startStroke": 5,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼らは一斉に笑い始めた。",
+      "furigana": "[彼|かれ]らは[一斉|いっ|せい]に[笑|わら]い[始|はじ]めた。",
+      "translation_zh_CN": "他們突然一起大笑了起來。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "等しい",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "等しい",
+          "reading": "ひとしい"
+        },
+        {
+          "word": "均しい",
+          "reading": "ひとしい"
+        },
+        {
+          "word": "斉しい",
+          "reading": "ひとしい"
+        }
+      ]
+    },
+    {
+      "slug": "整う",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "整う",
+          "reading": "ととのう"
+        },
+        {
+          "word": "調う",
+          "reading": "ととのう"
+        },
+        {
+          "word": "斉う",
+          "reading": "ととのう"
+        }
+      ]
+    },
+    {
+      "slug": "整える",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "整える",
+          "reading": "ととのえる"
+        },
+        {
+          "word": "調える",
+          "reading": "ととのえる"
+        },
+        {
+          "word": "斉える",
+          "reading": "ととのえる"
+        }
+      ]
+    },
+    {
+      "slug": "斉唱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉唱",
+          "reading": "せいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "斉衡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉衡",
+          "reading": "さいこう"
+        }
+      ]
+    },
+    {
+      "slug": "斉射",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉射",
+          "reading": "せいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "斉一説",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉一説",
+          "reading": "せいいつせつ"
+        }
+      ]
+    },
+    {
+      "slug": "整斉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "整斉",
+          "reading": "せいせい"
+        },
+        {
+          "word": "斉整",
+          "reading": "せいせい"
+        }
+      ]
+    },
+    {
+      "slug": "斎行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎行",
+          "reading": "さいこう"
+        },
+        {
+          "word": "斉行",
+          "reading": "さいこう"
+        }
+      ]
+    },
+    {
+      "slug": "斉次",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉次",
+          "reading": "せいじ"
+        }
+      ]
+    },
+    {
+      "slug": "斉魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉魚",
+          "reading": "えつ"
+        },
+        {
+          "reading": "エツ"
+        }
+      ]
+    },
+    {
+      "slug": "斉備",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉備",
+          "reading": "せいび"
+        }
+      ]
+    },
+    {
+      "slug": "斉一",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉一",
+          "reading": "せいいつ"
+        }
+      ]
+    },
+    {
+      "slug": "斉列",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉列",
+          "reading": "せいれつ"
+        }
+      ]
+    },
+    {
+      "slug": "斉家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉家",
+          "reading": "せいか"
+        }
+      ]
+    },
+    {
+      "slug": "等しく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "等しく",
+          "reading": "ひとしく"
+        },
+        {
+          "word": "斉しく",
+          "reading": "ひとしく"
+        },
+        {
+          "word": "均しく",
+          "reading": "ひとしく"
+        }
+      ]
+    },
+    {
+      "slug": "斉次函数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斉次函数",
+          "reading": "せいじかんすう"
+        }
+      ]
+    }
   ]
 }

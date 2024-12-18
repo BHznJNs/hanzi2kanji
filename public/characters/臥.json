@@ -50,5 +50,216 @@
       "startStroke": 7,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "グリーンランド",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥児狼徳",
+          "reading": "グリーンランド"
+        }
+      ]
+    },
+    {
+      "slug": "画龍点睛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画竜点睛",
+          "reading": "がりょうてんせい"
+        },
+        {
+          "word": "画竜点睛",
+          "reading": "がりゅうてんせい"
+        },
+        {
+          "word": "画龍点睛",
+          "reading": "がりょうてんせい"
+        },
+        {
+          "word": "画龍点睛",
+          "reading": "がりゅうてんせい"
+        }
+      ]
+    },
+    {
+      "slug": "臥薪嘗胆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥薪嘗胆",
+          "reading": "がしんしょうたん"
+        }
+      ]
+    },
+    {
+      "slug": "臥せる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥せる",
+          "reading": "ふせる"
+        }
+      ]
+    },
+    {
+      "slug": "臥龍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥龍",
+          "reading": "がりゅう"
+        },
+        {
+          "word": "臥龍",
+          "reading": "がりょう"
+        },
+        {
+          "word": "臥竜",
+          "reading": "がりゅう"
+        },
+        {
+          "word": "臥竜",
+          "reading": "がりょう"
+        }
+      ]
+    },
+    {
+      "slug": "臥竜鳳雛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥竜鳳雛",
+          "reading": "がりょうほうすう"
+        }
+      ]
+    },
+    {
+      "slug": "臥す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥す",
+          "reading": "ふす"
+        }
+      ]
+    },
+    {
+      "slug": "臥位",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥位",
+          "reading": "がい"
+        }
+      ]
+    },
+    {
+      "slug": "臥具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥具",
+          "reading": "がぐ"
+        }
+      ]
+    },
+    {
+      "slug": "臥床",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥床",
+          "reading": "がしょう"
+        }
+      ]
+    },
+    {
+      "slug": "臥所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥所",
+          "reading": "ふしど"
+        },
+        {
+          "word": "臥所",
+          "reading": "ふしどころ"
+        },
+        {
+          "word": "臥し所",
+          "reading": "ふしど"
+        },
+        {
+          "word": "臥し所",
+          "reading": "ふしどころ"
+        }
+      ]
+    },
+    {
+      "slug": "臥待月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥待月",
+          "reading": "ふしまちづき"
+        },
+        {
+          "word": "臥し待ち月",
+          "reading": "ふしまちづき"
+        },
+        {
+          "word": "臥待ち月",
+          "reading": "ふしまちづき"
+        }
+      ]
+    },
+    {
+      "slug": "臥ゆ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥ゆ",
+          "reading": "こゆ"
+        }
+      ]
+    },
+    {
+      "slug": "臥やす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥やす",
+          "reading": "こやす"
+        },
+        {
+          "word": "臥す",
+          "reading": "こやす"
+        }
+      ]
+    },
+    {
+      "slug": "臥し転ぶ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥し転ぶ",
+          "reading": "ふしまろぶ"
+        }
+      ]
+    },
+    {
+      "slug": "臥する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臥する",
+          "reading": "がする"
+        }
+      ]
+    }
   ]
 }

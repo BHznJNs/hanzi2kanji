@@ -73,5 +73,52 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "詔書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詔書",
+          "reading": "しょうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "詔勅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詔勅",
+          "reading": "しょうちょく"
+        }
+      ]
+    },
+    {
+      "slug": "詔命",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詔命",
+          "reading": "しょうめい"
+        },
+        {
+          "word": "詔命",
+          "reading": "じょうめい"
+        }
+      ]
+    },
+    {
+      "slug": "詔令",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詔令",
+          "reading": "しょうれい"
+        }
+      ]
+    }
   ]
 }

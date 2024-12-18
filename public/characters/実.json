@@ -104,5 +104,348 @@
       "startStroke": 6,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "名を捨てて実を取る。",
+      "furigana": "[名|な]を[捨|す]てて[実|じつ]を[取|と]る。",
+      "translation_zh_CN": "舍名取果。"
+    },
+    {
+      "content": "木はその実で分かる。",
+      "furigana": "[木|き]はその[実|み]で[分|わ]かる。",
+      "translation_zh_CN": "你可以通过它的果实来识别一棵树。"
+    },
+    {
+      "content": "悪い種から必ず悪い実ができる。",
+      "furigana": "[悪|わる]い[種|たね]から[必|かなら]ず[悪|わる]い[実|み]ができる。",
+      "translation_zh_CN": "坏种子总是结出坏果子。"
+    },
+    {
+      "content": "メアリーはトムの実の母です。",
+      "furigana": "メアリーはトムの[実|じつ]の[母|はは]です。",
+      "translation_zh_CN": "玛丽是汤姆的亲生母亲。"
+    },
+    {
+      "content": "彼女は彼の実の母です。",
+      "furigana": "[彼女|かの|じょ]は[彼|かれ]の[実|み]の[母|はは]です。",
+      "translation_zh_CN": "她是他的亲生母亲。"
+    },
+    {
+      "content": "努力は必ず実を結ぶでしょう。",
+      "furigana": "[努力|ど|りょく]は[必|かなら]ず[実|み]を[結|むす]ぶでしょう。",
+      "translation_zh_CN": "你的努力一定会有成果。"
+    },
+    {
+      "content": "その木は実がいっぱいだ。",
+      "furigana": "その[木|き]は[実|み]がいっぱいだ。",
+      "translation_zh_CN": "那棵树结满了果子。"
+    },
+    {
+      "content": "彼らの努力は実を結ばなかった。",
+      "furigana": "[彼|かれ]らの[努力|ど|りょく]は[実|み]を[結|むす]ばなかった。",
+      "translation_zh_CN": "他们的努力没有结果。"
+    },
+    {
+      "content": "オリーブの実から油が取れます。",
+      "furigana": "オリーブの[実|み]から[油|あぶら]が[取|と]れます。",
+      "translation_zh_CN": "油可以从橄榄果中提取。"
+    },
+    {
+      "content": "実の重みで木がたわんでいた。",
+      "furigana": "[実|み]の[重|おも]みで[木|き]がたわんでいた。",
+      "translation_zh_CN": "这棵树在果实的重压下弯曲了。"
+    },
+    {
+      "content": "真実のみが美しい。",
+      "furigana": "[真実|しん|じつ]のみが[美|うつく]しい。",
+      "translation_zh_CN": "没有什么比真实更美了。"
+    },
+    {
+      "content": "彼は真実を話した。",
+      "furigana": "[彼|かれ]は[真実|しん|じつ]を[話|はな]した。",
+      "translation_zh_CN": "他說了實話。"
+    },
+    {
+      "content": "真実を言うべきだ。",
+      "furigana": "[真実|しん|じつ]を[言|い]うべきだ。",
+      "translation_zh_CN": "你该把事实说出来。"
+    },
+    {
+      "content": "実験は成功だった。",
+      "furigana": "[実験|じっ|けん]は[成功|せい|こう]だった。",
+      "translation_zh_CN": "這實驗是成功的。"
+    },
+    {
+      "content": "我々は実在しますか？",
+      "furigana": "[我々|われわれ]は[実在|じつ|ざい]しますか？",
+      "translation_zh_CN": "我们存在吗？"
+    },
+    {
+      "content": "この方法は確実だ。",
+      "furigana": "この[方法|ほう|ほう]は[確実|かく|じつ]だ。",
+      "translation_zh_CN": "這個方法一定會成功。"
+    },
+    {
+      "content": "真実はただひとつ。",
+      "furigana": "[真実|しん|じつ]はただひとつ。",
+      "translation_zh_CN": "真相只有一个。"
+    },
+    {
+      "content": "実際は何があったの？",
+      "furigana": "[実際|じっ|さい]は[何|なに]があったの？",
+      "translation_zh_CN": "到底發生了什麽事。"
+    },
+    {
+      "content": "彼女は実にいい子だ。",
+      "furigana": "[彼女|かの|じょ]は[実|じつ]にいい[子|こ]だ。",
+      "translation_zh_CN": "她真是個好姑娘。"
+    },
+    {
+      "content": "実際に何が起こったの？",
+      "furigana": "[実際|じっ|さい]に[何|なに]が[起|お]こったの？",
+      "translation_zh_CN": "到底發生了什麽事。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "正身",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "正身",
+          "reading": "そうじみ"
+        },
+        {
+          "word": "正身",
+          "reading": "ただみ"
+        },
+        {
+          "word": "正身",
+          "reading": "むざね"
+        },
+        {
+          "word": "直身",
+          "reading": "そうじみ"
+        },
+        {
+          "word": "直身",
+          "reading": "ただみ"
+        },
+        {
+          "word": "直身",
+          "reading": "むざね"
+        },
+        {
+          "word": "実",
+          "reading": "そうじみ"
+        },
+        {
+          "word": "実",
+          "reading": "ただみ"
+        },
+        {
+          "word": "実",
+          "reading": "むざね"
+        }
+      ]
+    },
+    {
+      "slug": "実験",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "実験",
+          "reading": "じっけん"
+        }
+      ]
+    },
+    {
+      "slug": "実業家",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "実業家",
+          "reading": "じつぎょうか"
+        }
+      ]
+    },
+    {
+      "slug": "実践",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "実践",
+          "reading": "じっせん"
+        }
+      ]
+    },
+    {
+      "slug": "実行",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "実行",
+          "reading": "じっこう"
+        }
+      ]
+    },
+    {
+      "slug": "実際",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "実際",
+          "reading": "じっさい"
+        }
+      ]
+    },
+    {
+      "slug": "実は",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "実は",
+          "reading": "じつは"
+        }
+      ]
+    },
+    {
+      "slug": "実現",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "実現",
+          "reading": "じつげん"
+        }
+      ]
+    },
+    {
+      "slug": "実施",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "実施",
+          "reading": "じっし"
+        }
+      ]
+    },
+    {
+      "slug": "誠に",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "誠に",
+          "reading": "まことに"
+        },
+        {
+          "word": "真に",
+          "reading": "まことに"
+        },
+        {
+          "word": "寔に",
+          "reading": "まことに"
+        },
+        {
+          "word": "洵に",
+          "reading": "まことに"
+        },
+        {
+          "word": "真に",
+          "reading": "しんに"
+        }
+      ]
+    },
+    {
+      "slug": "実力",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "実力",
+          "reading": "じつりょく"
+        }
+      ]
+    },
+    {
+      "slug": "実物",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "実物",
+          "reading": "じつぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "実例",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "実例",
+          "reading": "じつれい"
+        }
+      ]
+    },
+    {
+      "slug": "実感",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "実感",
+          "reading": "じっかん"
+        }
+      ]
+    },
+    {
+      "slug": "実用",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "実用",
+          "reading": "じつよう"
+        }
+      ]
+    },
+    {
+      "slug": "実績",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "実績",
+          "reading": "じっせき"
+        }
+      ]
+    }
   ]
 }

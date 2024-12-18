@@ -92,5 +92,202 @@
       "startStroke": 15,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "鍛冶屋になるのは，鉄を鍛えながらだ。",
+      "furigana": "[鍛冶|たん|や][屋|や]になるのは，[鉄|てつ]を[鍛|きた]えながらだ。",
+      "translation_zh_CN": "打铁成铁匠。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鍛える",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鍛える",
+          "reading": "きたえる"
+        }
+      ]
+    },
+    {
+      "slug": "鍛錬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛錬",
+          "reading": "たんれん"
+        },
+        {
+          "word": "鍛練",
+          "reading": "たんれん"
+        }
+      ]
+    },
+    {
+      "slug": "鍛冶屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛冶屋",
+          "reading": "かじや"
+        },
+        {
+          "word": "カジ屋",
+          "reading": "かじや"
+        }
+      ]
+    },
+    {
+      "slug": "鍛接",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛接",
+          "reading": "たんせつ"
+        }
+      ]
+    },
+    {
+      "slug": "鍛造",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛造",
+          "reading": "たんぞう"
+        }
+      ]
+    },
+    {
+      "slug": "鍛鉄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛鉄",
+          "reading": "たんてつ"
+        }
+      ]
+    },
+    {
+      "slug": "鍛鋼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛鋼",
+          "reading": "たんこう"
+        }
+      ]
+    },
+    {
+      "slug": "鍛え上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛え上げる",
+          "reading": "きたえあげる"
+        },
+        {
+          "word": "鍛えあげる",
+          "reading": "きたえあげる"
+        }
+      ]
+    },
+    {
+      "slug": "鍛金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛金",
+          "reading": "たんきん"
+        }
+      ]
+    },
+    {
+      "slug": "鍛え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛え",
+          "reading": "きたえ"
+        }
+      ]
+    },
+    {
+      "slug": "鍛工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛工",
+          "reading": "たんこう"
+        }
+      ]
+    },
+    {
+      "slug": "鍛え抜く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛え抜く",
+          "reading": "きたえぬく"
+        },
+        {
+          "word": "鍛えぬく",
+          "reading": "きたえぬく"
+        }
+      ]
+    },
+    {
+      "slug": "鍛冶場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛冶場",
+          "reading": "かじば"
+        }
+      ]
+    },
+    {
+      "slug": "鍛成",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛成",
+          "reading": "たんせい"
+        }
+      ]
+    },
+    {
+      "slug": "鍛冶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍛冶",
+          "reading": "かじ"
+        },
+        {
+          "word": "鍛冶",
+          "reading": "たんや"
+        },
+        {
+          "word": "鍛冶",
+          "reading": "かぬち"
+        },
+        {
+          "word": "鍛治",
+          "reading": "かじ"
+        },
+        {
+          "word": "鍛治",
+          "reading": "たんや"
+        },
+        {
+          "word": "鍛治",
+          "reading": "かぬち"
+        }
+      ]
+    }
   ]
 }

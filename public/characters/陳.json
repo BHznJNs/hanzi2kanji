@@ -87,5 +87,238 @@
       "strokes": 3,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は彼の陳述の正確さを疑い始めた。",
+      "furigana": "[私|わたし]は[彼|かれ]の[陳述|ちん|じゅつ]の[正確|せい|かく]さを[疑|うたが]い[始|はじ]めた。",
+      "translation_zh_CN": "我開始懷疑他陳述的準確性。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "述べる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "述べる",
+          "reading": "のべる"
+        },
+        {
+          "word": "宣べる",
+          "reading": "のべる"
+        },
+        {
+          "word": "陳べる",
+          "reading": "のべる"
+        }
+      ]
+    },
+    {
+      "slug": "陳列",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "陳列",
+          "reading": "ちんれつ"
+        }
+      ]
+    },
+    {
+      "slug": "陳述",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳述",
+          "reading": "ちんじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "陳情",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳情",
+          "reading": "ちんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "陳列台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳列台",
+          "reading": "ちんれつだい"
+        }
+      ]
+    },
+    {
+      "slug": "陳列棟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳列棟",
+          "reading": "ちんれつとう"
+        }
+      ]
+    },
+    {
+      "slug": "陳列品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳列品",
+          "reading": "ちんれつひん"
+        }
+      ]
+    },
+    {
+      "slug": "陳謝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳謝",
+          "reading": "ちんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "陳腐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳腐",
+          "reading": "ちんぷ"
+        }
+      ]
+    },
+    {
+      "slug": "陳皮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳皮",
+          "reading": "ちんぴ"
+        },
+        {
+          "word": "陣皮",
+          "reading": "ちんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "陳朝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳朝",
+          "reading": "ちんちょう"
+        },
+        {
+          "word": "陳朝",
+          "reading": "チャンちょう"
+        }
+      ]
+    },
+    {
+      "slug": "珍糞漢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "珍糞漢",
+          "reading": "ちんぷんかん"
+        },
+        {
+          "word": "珍糞漢",
+          "reading": "ちんぶんかん"
+        },
+        {
+          "word": "珍紛漢",
+          "reading": "ちんぷんかん"
+        },
+        {
+          "word": "珍紛漢",
+          "reading": "ちんぶんかん"
+        },
+        {
+          "word": "陳奮翰",
+          "reading": "ちんぷんかん"
+        },
+        {
+          "word": "陳奮翰",
+          "reading": "ちんぶんかん"
+        }
+      ]
+    },
+    {
+      "slug": "陳列室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳列室",
+          "reading": "ちんれつしつ"
+        }
+      ]
+    },
+    {
+      "slug": "陳套",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳套",
+          "reading": "ちんとう"
+        }
+      ]
+    },
+    {
+      "slug": "陳弁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳弁",
+          "reading": "ちんべん"
+        },
+        {
+          "word": "陳辯",
+          "reading": "ちんべん"
+        }
+      ]
+    },
+    {
+      "slug": "陳列箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳列箱",
+          "reading": "ちんれつばこ"
+        }
+      ]
+    },
+    {
+      "slug": "陳列窓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳列窓",
+          "reading": "ちんれつまど"
+        }
+      ]
+    },
+    {
+      "slug": "陳情団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陳情団",
+          "reading": "ちんじょうだん"
+        }
+      ]
+    }
   ]
 }

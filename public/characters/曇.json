@@ -87,5 +87,176 @@
       "startStroke": 14,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "今日は曇りです。",
+      "furigana": "[今日|きょう]は[曇|くも]りです。",
+      "translation_zh_CN": "今天多云。"
+    },
+    {
+      "content": "昨日は曇っていた。",
+      "furigana": "[昨日|きのう]は[曇|くも]っていた。",
+      "translation_zh_CN": "昨天是多雲。"
+    },
+    {
+      "content": "昨日は曇りだった。",
+      "furigana": "[昨日|きのう]は[曇|くも]りだった。",
+      "translation_zh_CN": "昨天是多雲。"
+    },
+    {
+      "content": "今日は曇っている。",
+      "furigana": "[今日|きょう]は[曇|くも]っている。",
+      "translation_zh_CN": "今天多云。"
+    },
+    {
+      "content": "空が急に曇ってきた。",
+      "furigana": "[空|そら]が[急|きゅう]に[曇|くも]ってきた。",
+      "translation_zh_CN": "天突然转阴了。"
+    },
+    {
+      "content": "予報では明日は曇りです。",
+      "furigana": "[予報|よ|ほう]では[明日|あした]は[曇|くも]りです。",
+      "translation_zh_CN": "預告說明天多雲。"
+    },
+    {
+      "content": "空がだんだん曇ってきた。",
+      "furigana": "[空|そら]がだんだん[曇|くも]ってきた。",
+      "translation_zh_CN": "烏雲逐漸佈滿了整個天空。"
+    },
+    {
+      "content": "曇ってきたぞ。もうすぐ雨が降るかもしれないな。",
+      "furigana": "[曇|くも]ってきたぞ。もうすぐ[雨|あめ]が[降|ふ]るかもしれないな。",
+      "translation_zh_CN": "雲愈來愈多，可能快下雨了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "曇り",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "曇り",
+          "reading": "くもり"
+        },
+        {
+          "word": "曇",
+          "reading": "くもり"
+        }
+      ]
+    },
+    {
+      "slug": "曇る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "曇る",
+          "reading": "くもる"
+        }
+      ]
+    },
+    {
+      "slug": "曇らせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曇らせる",
+          "reading": "くもらせる"
+        }
+      ]
+    },
+    {
+      "slug": "曇らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曇らす",
+          "reading": "くもらす"
+        }
+      ]
+    },
+    {
+      "slug": "曇天",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曇天",
+          "reading": "どんてん"
+        }
+      ]
+    },
+    {
+      "slug": "曇り空",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曇り空",
+          "reading": "くもりぞら"
+        }
+      ]
+    },
+    {
+      "slug": "くぐもった声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "くぐもった声",
+          "reading": "くぐもったこえ"
+        }
+      ]
+    },
+    {
+      "slug": "曇りがち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曇りがち",
+          "reading": "くもりがち"
+        },
+        {
+          "word": "曇り勝ち",
+          "reading": "くもりがち"
+        },
+        {
+          "word": "曇勝ち",
+          "reading": "くもりがち"
+        }
+      ]
+    },
+    {
+      "slug": "曇度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曇度",
+          "reading": "くもりど"
+        }
+      ]
+    },
+    {
+      "slug": "曇り声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曇り声",
+          "reading": "くもりごえ"
+        }
+      ]
+    },
+    {
+      "slug": "曇りガラス",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "曇りガラス",
+          "reading": "くもりガラス"
+        }
+      ]
+    }
   ]
 }

@@ -80,5 +80,301 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "詐欺師が捕まった。",
+      "furigana": "[詐欺師|さ|ぎ|し]が[捕|つか]まった。",
+      "translation_zh_CN": "骗子被抓了。"
+    },
+    {
+      "content": "私は写真師です。",
+      "furigana": "[私|わたし]は[写真師|しゃ|しん|し]です。",
+      "translation_zh_CN": "我是一名摄影师。"
+    },
+    {
+      "content": "私は鍵師です。",
+      "furigana": "[私|わたし]は[鍵師|かぎ|し]です。",
+      "translation_zh_CN": "我是一名锁匠。"
+    },
+    {
+      "content": "メアリーは助産師です。",
+      "furigana": "メアリーは[助産師|じょ|さん|し]です。",
+      "translation_zh_CN": "玛丽是一名助产士。"
+    },
+    {
+      "content": "彼女は看護師です。",
+      "furigana": "[彼女|かの|じょ]は[看護師|かん|ご|し]です。",
+      "translation_zh_CN": "她是一名护士。"
+    },
+    {
+      "content": "私は看護師です。",
+      "furigana": "[私|わたし]は[看護師|かん|ご|し]です。",
+      "translation_zh_CN": "我是一名护士。"
+    },
+    {
+      "content": "看護師ではありません。",
+      "furigana": "[看護師|かん|ご|し]ではありません。",
+      "translation_zh_CN": "我不是护士。"
+    },
+    {
+      "content": "メアリーは看護師です。",
+      "furigana": "メアリーは[看護師|かん|ご|し]です。",
+      "translation_zh_CN": "玛丽是一名护士。"
+    },
+    {
+      "content": "トムはいかさま師だ。",
+      "furigana": "トムはいかさま[師|し]だ。",
+      "translation_zh_CN": "汤姆是个骗子。"
+    },
+    {
+      "content": "奇術師の手品に驚いた。",
+      "furigana": "[奇術師|き|じゅつ|し]の[手品|て|じな]に[驚|おどろ]いた。",
+      "translation_zh_CN": "我对魔术师的魔术感到惊讶。"
+    },
+    {
+      "content": "家内は医師です。",
+      "furigana": "[家内|か|ない]は[医師|い|し]です。",
+      "translation_zh_CN": "我的老婆是一个医生。"
+    },
+    {
+      "content": "私は教師でした。",
+      "furigana": "[私|わたし]は[教師|きょう|し]でした。",
+      "translation_zh_CN": "我当过老师。"
+    },
+    {
+      "content": "私は看護師です。",
+      "furigana": "[私|わたし]は[看護|かん|ご][師|し]です。",
+      "translation_zh_CN": "我是护士。"
+    },
+    {
+      "content": "彼の職業は医師だ。",
+      "furigana": "[彼|かれ]の[職業|しょく|ぎょう]は[医師|い|し]だ。",
+      "translation_zh_CN": "他的职业是医生。"
+    },
+    {
+      "content": "私の父は教師です。",
+      "furigana": "[私|わたし]の[父|ちち]は[教師|きょう|し]です。",
+      "translation_zh_CN": "我父亲是老师。"
+    },
+    {
+      "content": "私の兄は教師です。",
+      "furigana": "[私|わたし]の[兄|あに]は[教師|きょう|し]です。",
+      "translation_zh_CN": "我哥哥是一名教師。"
+    },
+    {
+      "content": "私は教師ではない。",
+      "furigana": "[私|わたし]は[教師|きょう|し]ではない。",
+      "translation_zh_CN": "我不是個老師。"
+    },
+    {
+      "content": "彼女は看護師です。",
+      "furigana": "[彼女|かの|じょ]は[看護|かん|ご][師|し]です。",
+      "translation_zh_CN": "她是护士。"
+    },
+    {
+      "content": "母親は教師であった。",
+      "furigana": "[母親|はは|おや]は[教師|きょう|し]であった。",
+      "translation_zh_CN": "他的母親是一名學校老師。"
+    },
+    {
+      "content": "彼は教師にむかない。",
+      "furigana": "[彼|かれ]は[教師|きょう|し]にむかない。",
+      "translation_zh_CN": "他不适合当老师。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "師団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師団",
+          "reading": "しだん"
+        }
+      ]
+    },
+    {
+      "slug": "師弟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師弟",
+          "reading": "してい"
+        }
+      ]
+    },
+    {
+      "slug": "獅子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子",
+          "reading": "しし"
+        },
+        {
+          "word": "師子",
+          "reading": "しし"
+        }
+      ]
+    },
+    {
+      "slug": "師範",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師範",
+          "reading": "しはん"
+        }
+      ]
+    },
+    {
+      "slug": "師範学校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師範学校",
+          "reading": "しはんがっこう"
+        }
+      ]
+    },
+    {
+      "slug": "師事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師事",
+          "reading": "しじ"
+        }
+      ]
+    },
+    {
+      "slug": "師匠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師匠",
+          "reading": "ししょう"
+        }
+      ]
+    },
+    {
+      "slug": "師走",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師走",
+          "reading": "しわす"
+        },
+        {
+          "word": "師走",
+          "reading": "しはす"
+        }
+      ]
+    },
+    {
+      "slug": "師と仰ぐ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師と仰ぐ",
+          "reading": "しとあおぐ"
+        }
+      ]
+    },
+    {
+      "slug": "師部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師部",
+          "reading": "しぶ"
+        },
+        {
+          "word": "篩部",
+          "reading": "しぶ"
+        }
+      ]
+    },
+    {
+      "slug": "師儒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師儒",
+          "reading": "しじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "師恩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師恩",
+          "reading": "しおん"
+        }
+      ]
+    },
+    {
+      "slug": "師伝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師伝",
+          "reading": "しでん"
+        }
+      ]
+    },
+    {
+      "slug": "師友",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師友",
+          "reading": "しゆう"
+        }
+      ]
+    },
+    {
+      "slug": "師父",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師父",
+          "reading": "しふ"
+        }
+      ]
+    },
+    {
+      "slug": "師傅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師傅",
+          "reading": "しふ"
+        }
+      ]
+    },
+    {
+      "slug": "師団長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師団長",
+          "reading": "しだんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "師範代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "師範代",
+          "reading": "しはんだい"
+        }
+      ]
+    }
   ]
 }

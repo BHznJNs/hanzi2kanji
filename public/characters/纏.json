@@ -94,5 +94,250 @@
       "startStroke": 18,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "纏める",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "纏める",
+          "reading": "まとめる"
+        }
+      ]
+    },
+    {
+      "slug": "纏まる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "纏まる",
+          "reading": "まとまる"
+        }
+      ]
+    },
+    {
+      "slug": "纏まり",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "纏まり",
+          "reading": "まとまり"
+        }
+      ]
+    },
+    {
+      "slug": "纏め",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "纏め",
+          "reading": "まとめ"
+        }
+      ]
+    },
+    {
+      "slug": "纏う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏う",
+          "reading": "まとう"
+        }
+      ]
+    },
+    {
+      "slug": "まとわり付く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏わり付く",
+          "reading": "まとわりつく"
+        },
+        {
+          "word": "纏わり付く",
+          "reading": "まつわりつく"
+        },
+        {
+          "word": "纏り付く",
+          "reading": "まとわりつく"
+        },
+        {
+          "word": "纏り付く",
+          "reading": "まつわりつく"
+        }
+      ]
+    },
+    {
+      "slug": "纏いつく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏いつく",
+          "reading": "まといつく"
+        },
+        {
+          "word": "纏い付く",
+          "reading": "まといつく"
+        },
+        {
+          "word": "まとい付く",
+          "reading": "まといつく"
+        }
+      ]
+    },
+    {
+      "slug": "纏足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏足",
+          "reading": "てんそく"
+        },
+        {
+          "word": "纒足",
+          "reading": "てんそく"
+        }
+      ]
+    },
+    {
+      "slug": "纏綿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏綿",
+          "reading": "てんめん"
+        }
+      ]
+    },
+    {
+      "slug": "纏まった",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏まった",
+          "reading": "まとまった"
+        }
+      ]
+    },
+    {
+      "slug": "纏繞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏繞",
+          "reading": "てんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "纏頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏頭",
+          "reading": "てんとう"
+        }
+      ]
+    },
+    {
+      "slug": "まとめ上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まとめ上げる",
+          "reading": "まとめあげる"
+        },
+        {
+          "word": "纏め上げる",
+          "reading": "まとめあげる"
+        }
+      ]
+    },
+    {
+      "slug": "まとめ役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まとめ役",
+          "reading": "まとめやく"
+        },
+        {
+          "word": "纏め役",
+          "reading": "まとめやく"
+        }
+      ]
+    },
+    {
+      "slug": "纏縛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏縛",
+          "reading": "てんばく"
+        }
+      ]
+    },
+    {
+      "slug": "まとめ買い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まとめ買い",
+          "reading": "まとめがい"
+        },
+        {
+          "word": "纏め買い",
+          "reading": "まとめがい"
+        }
+      ]
+    },
+    {
+      "slug": "まつり縫い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まつり縫い",
+          "reading": "まつりぬい"
+        },
+        {
+          "word": "纏り縫い",
+          "reading": "まつりぬい"
+        }
+      ]
+    },
+    {
+      "slug": "纏わる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏わる",
+          "reading": "まつわる"
+        },
+        {
+          "word": "纏る",
+          "reading": "まつわる"
+        }
+      ]
+    },
+    {
+      "slug": "纏る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "纏る",
+          "reading": "まつる"
+        }
+      ]
+    }
   ]
 }

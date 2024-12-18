@@ -49,5 +49,26 @@
       "startStroke": 7,
       "strokes": 8
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "謗る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謗る",
+          "reading": "そしる"
+        },
+        {
+          "word": "誹る",
+          "reading": "そしる"
+        },
+        {
+          "word": "譏る",
+          "reading": "そしる"
+        }
+      ]
+    }
   ]
 }

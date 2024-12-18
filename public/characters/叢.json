@@ -72,5 +72,261 @@
       "startStroke": 16,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "群がる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "群がる",
+          "reading": "むらがる"
+        },
+        {
+          "word": "叢がる",
+          "reading": "むらがる"
+        },
+        {
+          "word": "簇がる",
+          "reading": "むらがる"
+        }
+      ]
+    },
+    {
+      "slug": "叢書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢書",
+          "reading": "そうしょ"
+        },
+        {
+          "word": "双書",
+          "reading": "そうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "群々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "群々",
+          "reading": "むらむら"
+        },
+        {
+          "word": "群群",
+          "reading": "むらむら"
+        },
+        {
+          "word": "叢々",
+          "reading": "むらむら"
+        },
+        {
+          "word": "叢叢",
+          "reading": "むらむら"
+        },
+        {
+          "word": "斑々",
+          "reading": "むらむら"
+        },
+        {
+          "word": "斑斑",
+          "reading": "むらむら"
+        },
+        {
+          "reading": "ムラムラ"
+        }
+      ]
+    },
+    {
+      "slug": "総立ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総立ち",
+          "reading": "そうだち"
+        },
+        {
+          "word": "叢立ち",
+          "reading": "むらだち"
+        },
+        {
+          "word": "群立ち",
+          "reading": "むらだち"
+        }
+      ]
+    },
+    {
+      "slug": "村雨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "村雨",
+          "reading": "むらさめ"
+        },
+        {
+          "word": "叢雨",
+          "reading": "むらさめ"
+        },
+        {
+          "word": "群雨",
+          "reading": "むらさめ"
+        }
+      ]
+    },
+    {
+      "slug": "叢考",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢考",
+          "reading": "そうこう"
+        }
+      ]
+    },
+    {
+      "slug": "叢談",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢談",
+          "reading": "そうだん"
+        }
+      ]
+    },
+    {
+      "slug": "群竹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "群竹",
+          "reading": "むらたけ"
+        },
+        {
+          "word": "叢竹",
+          "reading": "むらたけ"
+        }
+      ]
+    },
+    {
+      "slug": "叢時雨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢時雨",
+          "reading": "むらしぐれ"
+        },
+        {
+          "word": "群時雨",
+          "reading": "むらしぐれ"
+        },
+        {
+          "word": "村時雨",
+          "reading": "むらしぐれ"
+        }
+      ]
+    },
+    {
+      "slug": "群雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢雲",
+          "reading": "むらくも"
+        },
+        {
+          "word": "群雲",
+          "reading": "むらくも"
+        },
+        {
+          "word": "村雲",
+          "reading": "むらくも"
+        },
+        {
+          "word": "叢雲",
+          "reading": "そううん"
+        }
+      ]
+    },
+    {
+      "slug": "群がり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "群がり",
+          "reading": "むらがり"
+        },
+        {
+          "word": "叢がり",
+          "reading": "むらがり"
+        },
+        {
+          "word": "簇がり",
+          "reading": "むらがり"
+        }
+      ]
+    },
+    {
+      "slug": "叢氷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢氷",
+          "reading": "そうひょう"
+        },
+        {
+          "word": "そう氷",
+          "reading": "そうひょう"
+        }
+      ]
+    },
+    {
+      "slug": "叢雲剣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢雲剣",
+          "reading": "むらくものつるぎ"
+        }
+      ]
+    },
+    {
+      "slug": "叢林",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢林",
+          "reading": "そうりん"
+        }
+      ]
+    },
+    {
+      "slug": "叢生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢生",
+          "reading": "そうせい"
+        },
+        {
+          "word": "簇生",
+          "reading": "そうせい"
+        }
+      ]
+    },
+    {
+      "slug": "叢祠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "叢祠",
+          "reading": "そうし"
+        }
+      ]
+    }
   ]
 }

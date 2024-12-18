@@ -51,5 +51,212 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "わが腎と心とを錬りきよめたまへ。",
+      "furigana": "わが[腎|じん]と[心|こころ]とを[錬|ね]りきよめたまへ。",
+      "translation_zh_CN": "愿你炼净我的肾和我的心。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "腎臓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎臓",
+          "reading": "じんぞう"
+        }
+      ]
+    },
+    {
+      "slug": "腎不全",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎不全",
+          "reading": "じんふぜん"
+        }
+      ]
+    },
+    {
+      "slug": "腎炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎炎",
+          "reading": "じんえん"
+        }
+      ]
+    },
+    {
+      "slug": "腎臓学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎臓学",
+          "reading": "じんぞうがく"
+        }
+      ]
+    },
+    {
+      "slug": "腎静脈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎静脈",
+          "reading": "じんじょうみゃく"
+        }
+      ]
+    },
+    {
+      "slug": "腎小体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎小体",
+          "reading": "じんしょうたい"
+        }
+      ]
+    },
+    {
+      "slug": "腎細胞癌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎細胞癌",
+          "reading": "じんさいぼうがん"
+        },
+        {
+          "word": "腎細胞がん",
+          "reading": "じんさいぼうがん"
+        },
+        {
+          "word": "腎細胞ガン",
+          "reading": "じんさいぼうがん"
+        }
+      ]
+    },
+    {
+      "slug": "腎盂腎炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎盂腎炎",
+          "reading": "じんうじんえん"
+        }
+      ]
+    },
+    {
+      "slug": "腎石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎石",
+          "reading": "じんせき"
+        }
+      ]
+    },
+    {
+      "slug": "腎砂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎砂",
+          "reading": "じんさ"
+        }
+      ]
+    },
+    {
+      "slug": "腎機能",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎機能",
+          "reading": "じんきのう"
+        }
+      ]
+    },
+    {
+      "slug": "腎結石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎結石",
+          "reading": "じんけっせき"
+        }
+      ]
+    },
+    {
+      "slug": "腎単位",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎単位",
+          "reading": "じんたんい"
+        }
+      ]
+    },
+    {
+      "slug": "腎臓炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎臓炎",
+          "reading": "じんぞうえん"
+        }
+      ]
+    },
+    {
+      "slug": "腎臓内科",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎臓内科",
+          "reading": "じんぞうないか"
+        }
+      ]
+    },
+    {
+      "slug": "腎水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎水",
+          "reading": "じんすい"
+        }
+      ]
+    },
+    {
+      "slug": "腎臓病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎臓病",
+          "reading": "じんぞうびょう"
+        }
+      ]
+    },
+    {
+      "slug": "腎症",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎症",
+          "reading": "じんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "腎盂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腎盂",
+          "reading": "じんう"
+        }
+      ]
+    }
   ]
 }

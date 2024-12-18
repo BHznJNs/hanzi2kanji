@@ -52,5 +52,309 @@
       "startStroke": 0,
       "strokes": 8
     }
+  ],
+  "sentences": [
+    {
+      "content": "門を閉めて。",
+      "furigana": "[門|もん]を[閉|し]めて。",
+      "translation_zh_CN": "关上门。"
+    },
+    {
+      "content": "門を閉じて。",
+      "furigana": "[門|もん]を[閉|と]じて。",
+      "translation_zh_CN": "关上门。"
+    },
+    {
+      "content": "門を開けなさい。",
+      "furigana": "[門|もん]を[開|あ]けなさい。",
+      "translation_zh_CN": "打开门。"
+    },
+    {
+      "content": "門は今開いている。",
+      "furigana": "[門|もん]は[今開|いま|ひら]いている。",
+      "translation_zh_CN": "大门现已打开。"
+    },
+    {
+      "content": "門を閉める時間だ。",
+      "furigana": "[門|もん]を[閉|し]める[時間|じ|かん]だ。",
+      "translation_zh_CN": "是时候关门了。"
+    },
+    {
+      "content": "門は開いたままだった。",
+      "furigana": "[門|もん]は[開|あ]いたままだった。",
+      "translation_zh_CN": "大门仍然开着。"
+    },
+    {
+      "content": "門にかぎを掛けなさい。",
+      "furigana": "[門|もん]にかぎを[掛|か]けなさい。",
+      "translation_zh_CN": "锁好门。"
+    },
+    {
+      "content": "馬は門を飛び越えた。",
+      "furigana": "[馬|うま]は[門|もん]を[飛|と]び[越|こ]えた。",
+      "translation_zh_CN": "马跳过了大门。"
+    },
+    {
+      "content": "門ならもう開いてるよ。",
+      "furigana": "[門|もん]ならもう[開|あ]いてるよ。",
+      "translation_zh_CN": "大门已经打开。"
+    },
+    {
+      "content": "門を施錠してください。",
+      "furigana": "[門|もん]を[施錠|せ|じょう]してください。",
+      "translation_zh_CN": "请锁好门。"
+    },
+    {
+      "content": "お門違いですよ。",
+      "furigana": "お[門違|かど|ちが]いですよ。",
+      "translation_zh_CN": "你白費力氣了。"
+    },
+    {
+      "content": "門を閉める時間だ。",
+      "furigana": "[門|もん]を[閉|し]める[時間|じ|かん]だ。",
+      "translation_zh_CN": "是关门的时候了。"
+    },
+    {
+      "content": "彼はつりの専門家だ。",
+      "furigana": "[彼|かれ]はつりの[専門|せん|もん][家|か]だ。",
+      "translation_zh_CN": "他是個釣魚專家。"
+    },
+    {
+      "content": "門にかぎを掛けなさい。",
+      "furigana": "[門|もん]にかぎを[掛|か]けなさい。",
+      "translation_zh_CN": "鎖大門。"
+    },
+    {
+      "content": "彼は天文学の専門家だ。",
+      "furigana": "[彼|かれ]は[天文学|てん|もん|がく]の[専門|せん|もん][家|か]だ。",
+      "translation_zh_CN": "他是个天文学专家。"
+    },
+    {
+      "content": "僕は門をペンキで青く塗った。",
+      "furigana": "[僕|ぼく]は[門|もん]をペンキで[青|あお]く[塗|ぬ]った。",
+      "translation_zh_CN": "我把正门漆成蓝色了。"
+    },
+    {
+      "content": "お母さんは、とても慎重に門を開けた。",
+      "furigana": "お[母|かあ]さんは、とても[慎重|しん|ちょう]に[門|もん]を[開|あ]けた。",
+      "translation_zh_CN": "我妈妈小心翼翼地打开门。"
+    },
+    {
+      "content": "門はすごく狭いので、その車が通り抜けるのは無理ですよ。",
+      "furigana": "[門|もん]はすごく[狭|せま]いので、その[車|くるま]が[通|とお]り[抜|ぬ]けるのは[無理|む|り]ですよ。",
+      "translation_zh_CN": "门太窄了，这辆车通不过。"
+    },
+    {
+      "content": "愛することにかけては、女性こそ専門家で、男性は永遠に素人である。",
+      "furigana": "[愛|あい]することにかけては、[女性|じょ|せい]こそ[専門|せん|もん][家|か]で、[男性|だん|せい]は[永遠|えい|えん]に[素人|しろ|うと]である。",
+      "translation_zh_CN": "當說到愛情，女人是專家而男人永遠是新手。"
+    },
+    {
+      "content": "専門家とは、あらゆる過ちを最も小さな範囲で抑えられる人のことである。",
+      "furigana": "[専門|せん|もん][家|か]とは、あらゆる[過|あやま]ちを[最|もっと]も[小|ちい]さな[範囲|はん|い]で[抑|おさ]えられる[人|ひと]のことである。",
+      "translation_zh_CN": "专家就是一个能够把所有的错误控制在最小范围内的人。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "門前",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門前",
+          "reading": "もんぜん"
+        }
+      ]
+    },
+    {
+      "slug": "門限",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門限",
+          "reading": "もんげん"
+        }
+      ]
+    },
+    {
+      "slug": "門番",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門番",
+          "reading": "もんばん"
+        }
+      ]
+    },
+    {
+      "slug": "門柱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門柱",
+          "reading": "もんちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "門戸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門戸",
+          "reading": "もんこ"
+        }
+      ]
+    },
+    {
+      "slug": "門戸開放政策",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門戸開放政策",
+          "reading": "もんこかいほうせいさく"
+        }
+      ]
+    },
+    {
+      "slug": "門松",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門松",
+          "reading": "かどまつ"
+        }
+      ]
+    },
+    {
+      "slug": "門扉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門扉",
+          "reading": "もんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "門前払い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門前払い",
+          "reading": "もんぜんばらい"
+        }
+      ]
+    },
+    {
+      "slug": "門下",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門下",
+          "reading": "もんか"
+        }
+      ]
+    },
+    {
+      "slug": "門下生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門下生",
+          "reading": "もんかせい"
+        }
+      ]
+    },
+    {
+      "slug": "門出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門出",
+          "reading": "かどで"
+        },
+        {
+          "word": "門出",
+          "reading": "かどいで"
+        },
+        {
+          "word": "首途",
+          "reading": "かどで"
+        },
+        {
+          "word": "首途",
+          "reading": "かどいで"
+        },
+        {
+          "word": "首途",
+          "reading": "しゅと"
+        }
+      ]
+    },
+    {
+      "slug": "門外漢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門外漢",
+          "reading": "もんがいかん"
+        }
+      ]
+    },
+    {
+      "slug": "門外不出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門外不出",
+          "reading": "もんがいふしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "門徒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門徒",
+          "reading": "もんと"
+        }
+      ]
+    },
+    {
+      "slug": "門外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門外",
+          "reading": "もんがい"
+        }
+      ]
+    },
+    {
+      "slug": "門前町",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門前町",
+          "reading": "もんぜんまち"
+        },
+        {
+          "word": "門前町",
+          "reading": "もんぜんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "門跡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "門跡",
+          "reading": "もんぜき"
+        }
+      ]
+    }
   ]
 }

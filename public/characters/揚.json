@@ -96,5 +96,374 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "凧揚げをしよう。",
+      "furigana": "[凧|たこ][揚|あ]げをしよう。",
+      "translation_zh_CN": "讓我們放風箏。"
+    },
+    {
+      "content": "凧を揚げるのは危険かもしれない。",
+      "furigana": "[凧|たこ]を[揚|あ]げるのは[危険|き|けん]かもしれない。",
+      "translation_zh_CN": "放風箏可以是危險的。"
+    },
+    {
+      "content": "凧揚げは危険を伴う可能性があります。",
+      "furigana": "[凧|たこ][揚|あ]げは[危険|き|けん]を[伴|ともな]う[可能|か|のう][性|せい]があります。",
+      "translation_zh_CN": "放風箏可以是危險的。"
+    },
+    {
+      "content": "外国人投資家は資金をアメリカから引き揚げた。",
+      "furigana": "[外国|がい|こく][人|じん][投資|とう|し][家|か]は[資金|し|きん]をアメリカから[引|ひ]き[揚|あ]げた。",
+      "translation_zh_CN": "外国投资者从美国收回他们的钱。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "上げる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "上げる",
+          "reading": "あげる"
+        },
+        {
+          "word": "挙げる",
+          "reading": "あげる"
+        },
+        {
+          "word": "揚げる",
+          "reading": "あげる"
+        }
+      ]
+    },
+    {
+      "slug": "上がる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "上がる",
+          "reading": "あがる"
+        },
+        {
+          "word": "揚がる",
+          "reading": "あがる"
+        },
+        {
+          "word": "挙がる",
+          "reading": "あがる"
+        },
+        {
+          "word": "上る",
+          "reading": "あがる"
+        }
+      ]
+    },
+    {
+      "slug": "上がり",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "上がり",
+          "reading": "あがり"
+        },
+        {
+          "word": "揚がり",
+          "reading": "あがり"
+        }
+      ]
+    },
+    {
+      "slug": "上げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上げ",
+          "reading": "あげ"
+        },
+        {
+          "word": "揚げ",
+          "reading": "あげ"
+        }
+      ]
+    },
+    {
+      "slug": "揚げ句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙句",
+          "reading": "あげく"
+        },
+        {
+          "word": "挙げ句",
+          "reading": "あげく"
+        },
+        {
+          "word": "揚げ句",
+          "reading": "あげく"
+        },
+        {
+          "word": "揚句",
+          "reading": "あげく"
+        }
+      ]
+    },
+    {
+      "slug": "揚げ物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚げ物",
+          "reading": "あげもの"
+        },
+        {
+          "word": "揚げもの",
+          "reading": "あげもの"
+        },
+        {
+          "word": "あげ物",
+          "reading": "あげもの"
+        }
+      ]
+    },
+    {
+      "slug": "揚げ足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚げ足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "挙げ足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "上げ足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "揚足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "挙足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "上足",
+          "reading": "あげあし"
+        }
+      ]
+    },
+    {
+      "slug": "上げ底",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上げ底",
+          "reading": "あげぞこ"
+        },
+        {
+          "word": "上げ底",
+          "reading": "あげそこ"
+        },
+        {
+          "word": "揚げ底",
+          "reading": "あげぞこ"
+        },
+        {
+          "word": "揚げ底",
+          "reading": "あげそこ"
+        },
+        {
+          "word": "上底",
+          "reading": "あげぞこ"
+        },
+        {
+          "word": "上底",
+          "reading": "あげそこ"
+        },
+        {
+          "word": "揚底",
+          "reading": "あげぞこ"
+        },
+        {
+          "word": "揚底",
+          "reading": "あげそこ"
+        }
+      ]
+    },
+    {
+      "slug": "あげくの果て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙句の果て",
+          "reading": "あげくのはて"
+        },
+        {
+          "word": "挙げ句の果て",
+          "reading": "あげくのはて"
+        },
+        {
+          "word": "あげくの果て",
+          "reading": "あげくのはて"
+        },
+        {
+          "word": "揚げ句の果て",
+          "reading": "あげくのはて"
+        },
+        {
+          "word": "揚句の果て",
+          "reading": "あげくのはて"
+        }
+      ]
+    },
+    {
+      "slug": "揚力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚力",
+          "reading": "ようりょく"
+        }
+      ]
+    },
+    {
+      "slug": "揚げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚げ",
+          "reading": "あげ"
+        }
+      ]
+    },
+    {
+      "slug": "上げ下ろし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "上げ下ろし",
+          "reading": "あげおろし"
+        },
+        {
+          "word": "揚降",
+          "reading": "あげおろし"
+        },
+        {
+          "word": "揚げ卸し",
+          "reading": "あげおろし"
+        }
+      ]
+    },
+    {
+      "slug": "揚陸艦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚陸艦",
+          "reading": "ようりくかん"
+        }
+      ]
+    },
+    {
+      "slug": "揚水発電",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚水発電",
+          "reading": "ようすいはつでん"
+        }
+      ]
+    },
+    {
+      "slug": "揚げ出し豆腐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚げ出し豆腐",
+          "reading": "あげだしどうふ"
+        },
+        {
+          "word": "揚出し豆腐",
+          "reading": "あげだしどうふ"
+        }
+      ]
+    },
+    {
+      "slug": "揚子江",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚子江",
+          "reading": "ようすこう"
+        }
+      ]
+    },
+    {
+      "slug": "揚屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚屋",
+          "reading": "あげや"
+        },
+        {
+          "word": "揚げ屋",
+          "reading": "あげや"
+        }
+      ]
+    },
+    {
+      "slug": "揚げ蒲鉾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚げかまぼこ",
+          "reading": "あげかまぼこ"
+        },
+        {
+          "word": "揚げ蒲鉾",
+          "reading": "あげかまぼこ"
+        }
+      ]
+    },
+    {
+      "slug": "揚代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚代",
+          "reading": "あげだい"
+        },
+        {
+          "word": "揚げ代",
+          "reading": "あげだい"
+        }
+      ]
+    },
+    {
+      "slug": "揚げじゃが",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚げじゃが",
+          "reading": "あげじゃが"
+        }
+      ]
+    }
   ]
 }

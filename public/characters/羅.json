@@ -93,5 +93,275 @@
       "startStroke": 11,
       "strokes": 8
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "薄物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薄物",
+          "reading": "うすもの"
+        },
+        {
+          "word": "羅",
+          "reading": "うすもの"
+        },
+        {
+          "word": "羅",
+          "reading": "ら"
+        }
+      ]
+    },
+    {
+      "slug": "羅馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅馬",
+          "reading": "ローマ"
+        }
+      ]
+    },
+    {
+      "slug": "羅針盤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅針盤",
+          "reading": "らしんばん"
+        }
+      ]
+    },
+    {
+      "slug": "羅列",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅列",
+          "reading": "られつ"
+        }
+      ]
+    },
+    {
+      "slug": "ラテン語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ラテン語",
+          "reading": "ラテンご"
+        },
+        {
+          "word": "拉丁語",
+          "reading": "ラテンご"
+        },
+        {
+          "word": "羅甸語",
+          "reading": "ラテンご"
+        },
+        {
+          "word": "羅典語",
+          "reading": "ラテンご"
+        }
+      ]
+    },
+    {
+      "slug": "ローマ字",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "ローマ字",
+          "reading": "ローマじ"
+        },
+        {
+          "word": "羅馬字",
+          "reading": "ローマじ"
+        }
+      ]
+    },
+    {
+      "slug": "羅府",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅府",
+          "reading": "らふ"
+        },
+        {
+          "word": "羅府",
+          "reading": "ロサンゼルス"
+        }
+      ]
+    },
+    {
+      "slug": "罹患",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "罹患",
+          "reading": "りかん"
+        }
+      ]
+    },
+    {
+      "slug": "羅漢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅漢",
+          "reading": "らかん"
+        }
+      ]
+    },
+    {
+      "slug": "羅生門",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅生門",
+          "reading": "らしょうもん"
+        }
+      ]
+    },
+    {
+      "slug": "ロサンゼルス",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ロサンゼルス"
+        },
+        {
+          "reading": "ロサンジェルス"
+        },
+        {
+          "reading": "ロスアンゼルス"
+        },
+        {
+          "reading": "ロスアンジェルス"
+        },
+        {
+          "reading": "ロス・アンゼルス"
+        },
+        {
+          "reading": "ロス・アンジェルス"
+        }
+      ]
+    },
+    {
+      "slug": "羅鱶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ラブカ"
+        },
+        {
+          "word": "羅鱶",
+          "reading": "らぶか"
+        }
+      ]
+    },
+    {
+      "slug": "羅漢果",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅漢果",
+          "reading": "らかんか"
+        },
+        {
+          "reading": "ラカンカ"
+        }
+      ]
+    },
+    {
+      "slug": "翌檜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "翌檜",
+          "reading": "あすなろ"
+        },
+        {
+          "word": "翌桧",
+          "reading": "あすなろ"
+        },
+        {
+          "word": "羅漢柏",
+          "reading": "あすなろ"
+        },
+        {
+          "word": "羅漢柏",
+          "reading": "らかんはく"
+        },
+        {
+          "reading": "アスナロ"
+        }
+      ]
+    },
+    {
+      "slug": "羅馬尼亜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅馬尼亜",
+          "reading": "ルーマニア"
+        }
+      ]
+    },
+    {
+      "slug": "乱離骨灰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱離骨灰",
+          "reading": "らりこっぱい"
+        },
+        {
+          "word": "羅利粉灰",
+          "reading": "らりこっぱい"
+        }
+      ]
+    },
+    {
+      "slug": "羅和",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅和",
+          "reading": "らわ"
+        }
+      ]
+    },
+    {
+      "slug": "羅切",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅切",
+          "reading": "らせつ"
+        },
+        {
+          "word": "羅切",
+          "reading": "らぎり"
+        }
+      ]
+    },
+    {
+      "slug": "羅漢槙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "羅漢槙",
+          "reading": "らかんまき"
+        },
+        {
+          "reading": "ラカンマキ"
+        }
+      ]
+    }
   ]
 }

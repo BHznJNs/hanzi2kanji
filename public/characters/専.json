@@ -79,5 +79,269 @@
       "startStroke": 6,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "専攻は何ですか。",
+      "furigana": "[専攻|せん|こう]は[何|なん]ですか。",
+      "translation_zh_CN": "专业是什么？"
+    },
+    {
+      "content": "彼はつりの専門家だ。",
+      "furigana": "[彼|かれ]はつりの[専門|せん|もん][家|か]だ。",
+      "translation_zh_CN": "他是個釣魚專家。"
+    },
+    {
+      "content": "私は言語学専攻です。",
+      "furigana": "[私|わたし]は[言語|げん|ご][学|がく][専攻|せん|こう]です。",
+      "translation_zh_CN": "我的主修是語言學。"
+    },
+    {
+      "content": "彼は天文学の専門家だ。",
+      "furigana": "[彼|かれ]は[天文学|てん|もん|がく]の[専門|せん|もん][家|か]だ。",
+      "translation_zh_CN": "他是个天文学专家。"
+    },
+    {
+      "content": "何を専攻していますか。",
+      "furigana": "[何|なに]を[専攻|せん|こう]していますか。",
+      "translation_zh_CN": "你的专业是什么？"
+    },
+    {
+      "content": "経済学を専攻しています。",
+      "furigana": "[経済|けい|ざい][学|がく]を[専攻|せん|こう]しています。",
+      "translation_zh_CN": "我專攻經濟學。"
+    },
+    {
+      "content": "大学では何を専攻してたの？",
+      "furigana": "[大学|だい|がく]では[何|なに]を[専攻|せん|こう]してたの？",
+      "translation_zh_CN": "你大學時主修什麼？"
+    },
+    {
+      "content": "私は大学で化学を専攻した。",
+      "furigana": "[私|わたし]は[大学|だい|がく]で[化学|か|がく]を[専攻|せん|こう]した。",
+      "translation_zh_CN": "我在大學主修化學。"
+    },
+    {
+      "content": "大学時代の専攻は何でしたか？",
+      "furigana": "[大学|だい|がく][時代|じ|だい]の[専攻|せん|こう]は[何|なん]でしたか？",
+      "translation_zh_CN": "你大學時主修什麼？"
+    },
+    {
+      "content": "彼女は新しい仕事に専念した。",
+      "furigana": "[彼女|かの|じょ]は[新|あたら]しい[仕事|し|ごと]に[専念|せん|ねん]した。",
+      "translation_zh_CN": "她专注在她的新工作上。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "専攻",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "専攻",
+          "reading": "せんこう"
+        }
+      ]
+    },
+    {
+      "slug": "専用",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "専用",
+          "reading": "せんよう"
+        }
+      ]
+    },
+    {
+      "slug": "専ら",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "専ら",
+          "reading": "もっぱら"
+        },
+        {
+          "word": "専ら",
+          "reading": "もはら"
+        }
+      ]
+    },
+    {
+      "slug": "専門家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専門家",
+          "reading": "せんもんか"
+        }
+      ]
+    },
+    {
+      "slug": "専門店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専門店",
+          "reading": "せんもんてん"
+        }
+      ]
+    },
+    {
+      "slug": "専門",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専門",
+          "reading": "せんもん"
+        }
+      ]
+    },
+    {
+      "slug": "専門的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専門的",
+          "reading": "せんもんてき"
+        }
+      ]
+    },
+    {
+      "slug": "専門学校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専門学校",
+          "reading": "せんもんがっこう"
+        },
+        {
+          "word": "専門ガッコウ",
+          "reading": "せんもんガッコウ"
+        },
+        {
+          "word": "専門ガッコ",
+          "reading": "せんもんガッコ"
+        }
+      ]
+    },
+    {
+      "slug": "専務",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専務",
+          "reading": "せんむ"
+        }
+      ]
+    },
+    {
+      "slug": "専属",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専属",
+          "reading": "せんぞく"
+        }
+      ]
+    },
+    {
+      "slug": "専売",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専売",
+          "reading": "せんばい"
+        }
+      ]
+    },
+    {
+      "slug": "専門医",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専門医",
+          "reading": "せんもんい"
+        }
+      ]
+    },
+    {
+      "slug": "専念",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専念",
+          "reading": "せんねん"
+        }
+      ]
+    },
+    {
+      "slug": "専心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専心",
+          "reading": "せんしん"
+        }
+      ]
+    },
+    {
+      "slug": "専門用語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専門用語",
+          "reading": "せんもんようご"
+        }
+      ]
+    },
+    {
+      "slug": "専門職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専門職",
+          "reading": "せんもんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "専制政治",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専制政治",
+          "reading": "せんせいせいじ"
+        }
+      ]
+    },
+    {
+      "slug": "専用線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "専用線",
+          "reading": "せんようせん"
+        }
+      ]
+    },
+    {
+      "slug": "専修",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "専修",
+          "reading": "せんしゅう"
+        }
+      ]
+    }
   ]
 }

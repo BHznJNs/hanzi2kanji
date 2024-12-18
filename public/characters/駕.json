@@ -75,5 +75,36 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "駕籠屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駕籠屋",
+          "reading": "かごや"
+        }
+      ]
+    },
+    {
+      "slug": "駕籠かき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駕籠かき",
+          "reading": "かごかき"
+        },
+        {
+          "word": "駕篭かき",
+          "reading": "かごかき"
+        },
+        {
+          "word": "駕籠舁き",
+          "reading": "かごかき"
+        }
+      ]
+    }
   ]
 }

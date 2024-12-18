@@ -64,5 +64,22 @@
       "startStroke": 8,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "率先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "率先",
+          "reading": "そっせん"
+        },
+        {
+          "word": "帥先",
+          "reading": "そっせん"
+        }
+      ]
+    }
   ]
 }

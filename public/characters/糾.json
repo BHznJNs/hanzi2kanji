@@ -74,5 +74,92 @@
       "startStroke": 8,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "糺す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糺す",
+          "reading": "ただす"
+        },
+        {
+          "word": "糾す",
+          "reading": "ただす"
+        },
+        {
+          "word": "正す",
+          "reading": "ただす"
+        }
+      ]
+    },
+    {
+      "slug": "糾う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糾う",
+          "reading": "あざなう"
+        }
+      ]
+    },
+    {
+      "slug": "糾合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糾合",
+          "reading": "きゅうごう"
+        },
+        {
+          "word": "鳩合",
+          "reading": "きゅうごう"
+        }
+      ]
+    },
+    {
+      "slug": "糾弾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糾弾",
+          "reading": "きゅうだん"
+        },
+        {
+          "word": "糺弾",
+          "reading": "きゅうだん"
+        }
+      ]
+    },
+    {
+      "slug": "糾問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糾問",
+          "reading": "きゅうもん"
+        },
+        {
+          "word": "糺問",
+          "reading": "きゅうもん"
+        }
+      ]
+    },
+    {
+      "slug": "糾明",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糾明",
+          "reading": "きゅうめい"
+        },
+        {
+          "word": "糺明",
+          "reading": "きゅうめい"
+        }
+      ]
+    }
   ]
 }

@@ -106,5 +106,384 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "５の２乗は２５です。",
+      "furigana": "[５|ご]の[２乗|に|じょう]は[２５|にじゅう|ご]です。",
+      "translation_zh_CN": "5的平方是25。"
+    },
+    {
+      "content": "3の3乗は27です。",
+      "furigana": "[3|さん]の[3乗|さん|じょう]は[27|にじゅうなな]です。",
+      "translation_zh_CN": "3的立方是27。"
+    },
+    {
+      "content": "３の２乗は９です。",
+      "furigana": "[３|さん]の[２乗|に|じょう]は[９|きゅう]です。",
+      "translation_zh_CN": "3的平方是9。"
+    },
+    {
+      "content": "2の5乗は32です。",
+      "furigana": "[2|に]の[5乗|ご|じょう]は[32|さんじゅう|に]です。",
+      "translation_zh_CN": "2的5次方是32。"
+    },
+    {
+      "content": "5の2乗は25です。",
+      "furigana": "[5|ご]の[2乗|に|じょう]は[25|にじゅうご]です。",
+      "translation_zh_CN": "5的平方是25。"
+    },
+    {
+      "content": "３の３乗は２７である。",
+      "furigana": "[３|さん]の[３乗|さん|じょう]は[２７|にじゅうなな]である。",
+      "translation_zh_CN": "3的3次方是27。"
+    },
+    {
+      "content": "五の二乗は２５である。",
+      "furigana": "[五|ご]の[二乗|に|じょう]は２５である。",
+      "translation_zh_CN": "五的平方是25。"
+    },
+    {
+      "content": "２は１６の４乗根です。",
+      "furigana": "２は１６の４[乗根|じょう|ね]です。",
+      "translation_zh_CN": "2是16的第四次方根。"
+    },
+    {
+      "content": "７の２乗は、４９です。",
+      "furigana": "[７|なな]の[２乗|に|じょう]は、[４９|よんじゅう|きゅう]です。",
+      "translation_zh_CN": "7 的平方是 49。"
+    },
+    {
+      "content": "あらゆる素数の二乗は半素数です。",
+      "furigana": "あらゆる[素数|そ|すう]の[二乗|に|じょう]は[半素数|はん|そ|すう]です。",
+      "translation_zh_CN": "任何素数的平方都是半素数。"
+    },
+    {
+      "content": "地下鉄に乗ろう。",
+      "furigana": "[地下鉄|ち|か|てつ]に[乗|の]ろう。",
+      "translation_zh_CN": "我們坐地鐵去吧。"
+    },
+    {
+      "content": "乗ってください。",
+      "furigana": "[乗|の]ってください。",
+      "translation_zh_CN": "请进。"
+    },
+    {
+      "content": "飲んだら乗るな。",
+      "furigana": "[飲|の]んだら[乗|の]るな。",
+      "translation_zh_CN": "酒后别开车 。"
+    },
+    {
+      "content": "馬に乗りなさい。",
+      "furigana": "[馬|うま]に[乗|の]りなさい。",
+      "translation_zh_CN": "上马。"
+    },
+    {
+      "content": "自転車乗れますか？",
+      "furigana": "[自転車|じ|てん|しゃ][乗|の]れますか？",
+      "translation_zh_CN": "你會騎車嗎？"
+    },
+    {
+      "content": "彼は乗馬が得意だ。",
+      "furigana": "[彼|かれ]は[乗馬|じょう|ば]が[得意|とく|い]だ。",
+      "translation_zh_CN": "他擅長騎馬。"
+    },
+    {
+      "content": "3の3乗は27です。",
+      "furigana": "[3|さん]の[3|さん][乗|じょう]は[27|にじゅうなな]です。",
+      "translation_zh_CN": "3的三次方等于27。"
+    },
+    {
+      "content": "自転車には乗れるの？",
+      "furigana": "[自転車|じ|てん|しゃ]には[乗|の]れるの？",
+      "translation_zh_CN": "你會騎車嗎？"
+    },
+    {
+      "content": "５の２乗は２５です。",
+      "furigana": "[５|ご]の[２|に][乗|じょう]は[２|にじゅう][５|ご]です。",
+      "translation_zh_CN": "五的二次方是二十五。"
+    },
+    {
+      "content": "自転車に乗れますか？",
+      "furigana": "[自転車|じ|てん|しゃ]に[乗|の]れますか？",
+      "translation_zh_CN": "你會騎車嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "乗り物",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "乗り物",
+          "reading": "のりもの"
+        },
+        {
+          "word": "乗物",
+          "reading": "のりもの"
+        }
+      ]
+    },
+    {
+      "slug": "乗る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "乗る",
+          "reading": "のる"
+        },
+        {
+          "reading": "ノる"
+        }
+      ]
+    },
+    {
+      "slug": "乗り換え",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "乗り換え",
+          "reading": "のりかえ"
+        },
+        {
+          "word": "乗換",
+          "reading": "のりかえ"
+        },
+        {
+          "word": "乗換え",
+          "reading": "のりかえ"
+        },
+        {
+          "word": "乗り替え",
+          "reading": "のりかえ"
+        }
+      ]
+    },
+    {
+      "slug": "乗り換える",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "乗り換える",
+          "reading": "のりかえる"
+        },
+        {
+          "word": "乗りかえる",
+          "reading": "のりかえる"
+        },
+        {
+          "word": "乗換える",
+          "reading": "のりかえる"
+        },
+        {
+          "word": "乗り替える",
+          "reading": "のりかえる"
+        },
+        {
+          "word": "乗替える",
+          "reading": "のりかえる"
+        }
+      ]
+    },
+    {
+      "slug": "乗客",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "乗客",
+          "reading": "じょうきゃく"
+        },
+        {
+          "word": "乗客",
+          "reading": "じょうかく"
+        }
+      ]
+    },
+    {
+      "slug": "乗せる",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "乗せる",
+          "reading": "のせる"
+        },
+        {
+          "word": "載せる",
+          "reading": "のせる"
+        }
+      ]
+    },
+    {
+      "slug": "乗車",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "乗車",
+          "reading": "じょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "乗り込む",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "乗り込む",
+          "reading": "のりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "乗車券",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗車券",
+          "reading": "じょうしゃけん"
+        }
+      ]
+    },
+    {
+      "slug": "乗組員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗組員",
+          "reading": "のりくみいん"
+        }
+      ]
+    },
+    {
+      "slug": "乗馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗馬",
+          "reading": "じょうば"
+        }
+      ]
+    },
+    {
+      "slug": "乗り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗り",
+          "reading": "のり"
+        },
+        {
+          "reading": "ノリ"
+        }
+      ]
+    },
+    {
+      "slug": "乗員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗員",
+          "reading": "じょういん"
+        }
+      ]
+    },
+    {
+      "slug": "乗用車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗用車",
+          "reading": "じょうようしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "乗務員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗務員",
+          "reading": "じょうむいん"
+        }
+      ]
+    },
+    {
+      "slug": "乗り遅れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗り遅れる",
+          "reading": "のりおくれる"
+        },
+        {
+          "word": "乗りおくれる",
+          "reading": "のりおくれる"
+        },
+        {
+          "word": "乗遅れる",
+          "reading": "のりおくれる"
+        }
+      ]
+    },
+    {
+      "slug": "乗り出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗り出す",
+          "reading": "のりだす"
+        }
+      ]
+    },
+    {
+      "slug": "乗り場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗り場",
+          "reading": "のりば"
+        },
+        {
+          "word": "乗場",
+          "reading": "のりば"
+        }
+      ]
+    },
+    {
+      "slug": "乗り回す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乗り回す",
+          "reading": "のりまわす"
+        },
+        {
+          "word": "乗回す",
+          "reading": "のりまわす"
+        },
+        {
+          "word": "乗りまわす",
+          "reading": "のりまわす"
+        }
+      ]
+    }
   ]
 }

@@ -39,7 +39,7 @@
       "lang": "fr",
       "values": [
         "ouvrir",
-        "s\u0027ouvrir",
+        "s'ouvrir",
         "briser le sceau"
       ]
     },
@@ -92,6 +92,286 @@
       "radical": "干",
       "startStroke": 11,
       "strokes": 1
+    }
+  ],
+  "sentences": [
+    {
+      "content": "文書ファイルが開らけないんだ。",
+      "furigana": "[文書|ぶん|しょ]ファイルが[開|ひ]らけないんだ。",
+      "translation_zh_CN": "我无法打开文档文件。"
+    },
+    {
+      "content": "目を開けなさい。",
+      "furigana": "[目|め]を[開|あ]けなさい。",
+      "translation_zh_CN": "张开眼睛。"
+    },
+    {
+      "content": "窓を開けなさい。",
+      "furigana": "[窓|まど]を[開|あ]けなさい。",
+      "translation_zh_CN": "請打開窗。"
+    },
+    {
+      "content": "口を開けなさい。",
+      "furigana": "[口|くち]を[開|あ]けなさい。",
+      "translation_zh_CN": "把嘴张开！"
+    },
+    {
+      "content": "何時開店ですか。",
+      "furigana": "[何|なん][時|じ][開店|かい|てん]ですか。",
+      "translation_zh_CN": "什么时候开门？"
+    },
+    {
+      "content": "何故箱を開けたの？",
+      "furigana": "[何故|なぜ][箱|はこ]を[開|あ]けたの？",
+      "translation_zh_CN": "你為什麼打開這個盒子？"
+    },
+    {
+      "content": "こころを開いて。",
+      "furigana": "こころを[開|ひら]いて。",
+      "translation_zh_CN": "敞開你的心扉。"
+    },
+    {
+      "content": "本を開かないで。",
+      "furigana": "[本|ほん]を[開|ひら]かないで。",
+      "translation_zh_CN": "不要打开你的书。"
+    },
+    {
+      "content": "蓋を開けました。",
+      "furigana": "[蓋|ぶた]を[開|あ]けました。",
+      "translation_zh_CN": "我掀開了蓋子。"
+    },
+    {
+      "content": "目を開けてみな。",
+      "furigana": "[目|め]を[開|あ]けてみな。",
+      "translation_zh_CN": "张开眼睛。"
+    },
+    {
+      "content": "口を開けてください！",
+      "furigana": "[口|くち]を[開|あ]けてください！",
+      "translation_zh_CN": "把嘴张开！"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "開ける",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "開ける",
+          "reading": "あける"
+        },
+        {
+          "word": "空ける",
+          "reading": "あける"
+        },
+        {
+          "word": "明ける",
+          "reading": "あける"
+        }
+      ]
+    },
+    {
+      "slug": "開く",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "開く",
+          "reading": "ひらく"
+        }
+      ]
+    },
+    {
+      "slug": "開始",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "開始",
+          "reading": "かいし"
+        }
+      ]
+    },
+    {
+      "slug": "開拓",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "開拓",
+          "reading": "かいたく"
+        }
+      ]
+    },
+    {
+      "slug": "開会",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "開会",
+          "reading": "かいかい"
+        }
+      ]
+    },
+    {
+      "slug": "開放",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "開放",
+          "reading": "かいほう"
+        }
+      ]
+    },
+    {
+      "slug": "開通",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "開通",
+          "reading": "かいつう"
+        }
+      ]
+    },
+    {
+      "slug": "開発",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "開発",
+          "reading": "かいはつ"
+        },
+        {
+          "word": "開発",
+          "reading": "かいほつ"
+        }
+      ]
+    },
+    {
+      "slug": "開催",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "開催",
+          "reading": "かいさい"
+        }
+      ]
+    },
+    {
+      "slug": "開花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開花",
+          "reading": "かいか"
+        }
+      ]
+    },
+    {
+      "slug": "開業医",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開業医",
+          "reading": "かいぎょうい"
+        }
+      ]
+    },
+    {
+      "slug": "開発途上国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開発途上国",
+          "reading": "かいはつとじょうこく"
+        }
+      ]
+    },
+    {
+      "slug": "開店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開店",
+          "reading": "かいてん"
+        }
+      ]
+    },
+    {
+      "slug": "開業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開業",
+          "reading": "かいぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "開演",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開演",
+          "reading": "かいえん"
+        }
+      ]
+    },
+    {
+      "slug": "開館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開館",
+          "reading": "かいかん"
+        }
+      ]
+    },
+    {
+      "slug": "開校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開校",
+          "reading": "かいこう"
+        }
+      ]
+    },
+    {
+      "slug": "開設",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開設",
+          "reading": "かいせつ"
+        }
+      ]
+    },
+    {
+      "slug": "開き直る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "開き直る",
+          "reading": "ひらきなおる"
+        }
+      ]
     }
   ]
 }

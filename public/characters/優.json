@@ -118,5 +118,287 @@
       "startStroke": 14,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "新任の取締役として江崎優を紹介いたします。",
+      "furigana": "[新任|しん|にん]の[取締役|とりしまりやく]として[江崎優|え|ざき|ゆう]を[紹介|しょう|かい]いたします。",
+      "translation_zh_CN": "我想向您介绍新任命的董事江崎佑。"
+    },
+    {
+      "content": "「お母さんのしゃべり方って、おばあちゃんにそっくりだよね？」「そりゃそうよ。おばあちゃんに育てられたんだから。優斗だって、お父さんの話し方にそっくりよ」",
+      "furigana": "「お[母|かあ]さんのしゃべり[方|かた]って、おばあちゃんにそっくりだよね？」「そりゃそうよ。おばあちゃんに[育|そだ]てられたんだから。[優斗|ゆう|と]だって、お[父|とう]さんの[話|はな]し[方|かた]にそっくりよ」",
+      "translation_zh_CN": "“你母亲的说话方式和你祖母的一样，对吧？”“确实，他是由他祖母抚养长大的。佑斗就像他父亲的说话方式一样。”"
+    },
+    {
+      "content": "彼らは俳優です。",
+      "furigana": "[彼|かれ]らは[俳優|はい|ゆう]です。",
+      "translation_zh_CN": "他们是演员。"
+    },
+    {
+      "content": "トムは俳優さんなの？",
+      "furigana": "トムは[俳優|はい|ゆう]さんなの？",
+      "translation_zh_CN": "汤姆是演员吗？"
+    },
+    {
+      "content": "彼は女優と結婚した。",
+      "furigana": "[彼|かれ]は[女優|じょ|ゆう]と[結婚|けっ|こん]した。",
+      "translation_zh_CN": "他和一个女演员结婚了。"
+    },
+    {
+      "content": "人に優しくしなさい。",
+      "furigana": "[人|ひと]に[優|やさ]しくしなさい。",
+      "translation_zh_CN": "对他人要友善。"
+    },
+    {
+      "content": "彼は優秀な脳外科医だ。",
+      "furigana": "[彼|かれ]は[優秀|ゆう|しゅう]な[脳外科|のう|げ|か][医|い]だ。",
+      "translation_zh_CN": "他是一個優秀的腦外科醫生。"
+    },
+    {
+      "content": "私は彼と優勝を争った。",
+      "furigana": "[私|わたし]は[彼|かれ]と[優勝|ゆう|しょう]を[争|あらそ]った。",
+      "translation_zh_CN": "我和他競爭冠軍。"
+    },
+    {
+      "content": "好きな俳優は誰ですか。",
+      "furigana": "[好|す]きな[俳優|はい|ゆう]は[誰|だれ]ですか。",
+      "translation_zh_CN": "你最喜歡的演員是誰？"
+    },
+    {
+      "content": "優しくしてあげなさい。",
+      "furigana": "[優|やさ]しくしてあげなさい。",
+      "translation_zh_CN": "和气点。"
+    },
+    {
+      "content": "トムはみんなに優しいよ。",
+      "furigana": "トムはみんなに[優|やさ]しいよ。",
+      "translation_zh_CN": "汤姆对每个人都好。"
+    },
+    {
+      "content": "彼女は有名な女優だそうだ。",
+      "furigana": "[彼女|かの|じょ]は[有名|ゆう|めい]な[女優|じょ|ゆう]だそうだ。",
+      "translation_zh_CN": "我聽說她是個有名的演員。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "優勝",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "優勝",
+          "reading": "ゆうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "優しい",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "優しい",
+          "reading": "やさしい"
+        }
+      ]
+    },
+    {
+      "slug": "有利",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "有利",
+          "reading": "ゆうり"
+        },
+        {
+          "word": "優利",
+          "reading": "ゆうり"
+        }
+      ]
+    },
+    {
+      "slug": "優秀",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "優秀",
+          "reading": "ゆうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "優れる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "優れる",
+          "reading": "すぐれる"
+        },
+        {
+          "word": "勝れる",
+          "reading": "すぐれる"
+        }
+      ]
+    },
+    {
+      "slug": "勝る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勝る",
+          "reading": "まさる"
+        },
+        {
+          "word": "優る",
+          "reading": "まさる"
+        }
+      ]
+    },
+    {
+      "slug": "優先",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "優先",
+          "reading": "ゆうせん"
+        }
+      ]
+    },
+    {
+      "slug": "優勢",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "優勢",
+          "reading": "ゆうせい"
+        }
+      ]
+    },
+    {
+      "slug": "優美",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "優美",
+          "reading": "ゆうび"
+        }
+      ]
+    },
+    {
+      "slug": "優位",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "優位",
+          "reading": "ゆうい"
+        }
+      ]
+    },
+    {
+      "slug": "優越",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "優越",
+          "reading": "ゆうえつ"
+        }
+      ]
+    },
+    {
+      "slug": "優等生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "優等生",
+          "reading": "ゆうとうせい"
+        }
+      ]
+    },
+    {
+      "slug": "優越感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "優越感",
+          "reading": "ゆうえつかん"
+        }
+      ]
+    },
+    {
+      "slug": "優先権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "優先権",
+          "reading": "ゆうせんけん"
+        }
+      ]
+    },
+    {
+      "slug": "優雅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "優雅",
+          "reading": "ゆうが"
+        }
+      ]
+    },
+    {
+      "slug": "優柔不断",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "優柔不断",
+          "reading": "ゆうじゅうふだん"
+        }
+      ]
+    },
+    {
+      "slug": "優に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "優に",
+          "reading": "ゆうに"
+        },
+        {
+          "word": "裕に",
+          "reading": "ゆうに"
+        }
+      ]
+    },
+    {
+      "slug": "悠長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悠長",
+          "reading": "ゆうちょう"
+        }
+      ]
+    }
   ]
 }

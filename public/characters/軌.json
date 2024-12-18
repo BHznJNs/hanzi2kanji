@@ -72,5 +72,206 @@
       "startStroke": 8,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "私の事業もようやく軌道に乗りました。",
+      "furigana": "[私|わたし]の[事業|じ|ぎょう]もようやく[軌道|き|どう]に[乗|の]りました。",
+      "translation_zh_CN": "我的生意终于走上了正轨。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "軌範",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "規範",
+          "reading": "きはん"
+        },
+        {
+          "word": "軌範",
+          "reading": "きはん"
+        }
+      ]
+    },
+    {
+      "slug": "軌道",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "軌道",
+          "reading": "きどう"
+        }
+      ]
+    },
+    {
+      "slug": "軌跡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌跡",
+          "reading": "きせき"
+        }
+      ]
+    },
+    {
+      "slug": "軌道に乗る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道に乗る",
+          "reading": "きどうにのる"
+        }
+      ]
+    },
+    {
+      "slug": "軌道に乗せる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道に乗せる",
+          "reading": "きどうにのせる"
+        }
+      ]
+    },
+    {
+      "slug": "軌道離心率",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道離心率",
+          "reading": "きどうりしんりつ"
+        }
+      ]
+    },
+    {
+      "slug": "軌陸車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌陸車",
+          "reading": "きりくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "軌間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌間",
+          "reading": "きかん"
+        }
+      ]
+    },
+    {
+      "slug": "軌道長半径",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道長半径",
+          "reading": "きどうちょうはんけい"
+        }
+      ]
+    },
+    {
+      "slug": "軌条",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌条",
+          "reading": "きじょう"
+        }
+      ]
+    },
+    {
+      "slug": "軌道短半径",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道短半径",
+          "reading": "きどうたんはんけい"
+        }
+      ]
+    },
+    {
+      "slug": "軌道力学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道力学",
+          "reading": "きどうりきがく"
+        }
+      ]
+    },
+    {
+      "slug": "軌道上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道上",
+          "reading": "きどうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "軌を一にする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌を一にする",
+          "reading": "きをいつにする"
+        },
+        {
+          "word": "揆を一にする",
+          "reading": "きをいつにする"
+        }
+      ]
+    },
+    {
+      "slug": "軌道修正",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道修正",
+          "reading": "きどうしゅうせい"
+        }
+      ]
+    },
+    {
+      "slug": "軌道間隔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道間隔",
+          "reading": "きどうかんかく"
+        }
+      ]
+    },
+    {
+      "slug": "軌道運動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道運動",
+          "reading": "きどううんどう"
+        }
+      ]
+    },
+    {
+      "slug": "軌道船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "軌道船",
+          "reading": "きどうせん"
+        }
+      ]
+    }
   ]
 }

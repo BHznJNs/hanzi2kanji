@@ -128,5 +128,306 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムは捜索願を出した。",
+      "furigana": "トムは[捜索願|そう|さく|ねがい]を[出|だ]した。",
+      "translation_zh_CN": "汤姆提交了搜查令。"
+    },
+    {
+      "content": "ダニエル王にいひけるは願くは王長壽かれ",
+      "furigana": "ダニエル[王|わう]にいひけるは[願|ねがは]くは[王|わう][長壽|いのちなが]かれ",
+      "translation_zh_CN": "但以理王对他说：“我希望昌居王做我的王。”"
+    },
+    {
+      "content": "おまじないって言うのはね、女の子が好きな人と結ばれるように願をかけたりすることだよ。",
+      "furigana": "おまじないって[言|い]うのはね、[女|おんな]の[子|こ]が[好|す]きな[人|ひと]と[結|むす]ばれるように[願|ねがい]をかけたりすることだよ。",
+      "translation_zh_CN": "当我说魔法时，我的意思是许愿一个女孩最终能和她喜欢的人在一起。"
+    },
+    {
+      "content": "ご注目願います。",
+      "furigana": "ご[注目|ちゅう|もく][願|ねが]います。",
+      "translation_zh_CN": "請注意。"
+    },
+    {
+      "content": "勘定お願いします。",
+      "furigana": "[勘定|かん|じょう]お[願|ねが]いします。",
+      "translation_zh_CN": "請結帳。"
+    },
+    {
+      "content": "魚をお願いします。",
+      "furigana": "[魚|さかな]をお[願|ねが]いします。",
+      "translation_zh_CN": "鱼，谢谢。"
+    },
+    {
+      "content": "お勘定をお願いね。",
+      "furigana": "お[勘定|かん|じょう]をお[願|ねが]いね。",
+      "translation_zh_CN": "請把帳單給我好嗎？"
+    },
+    {
+      "content": "お願い、死なないで！",
+      "furigana": "お[願|ねが]い、[死|し]なないで！",
+      "translation_zh_CN": "请不要死!"
+    },
+    {
+      "content": "私もそう願います。",
+      "furigana": "[私|わたし]もそう[願|ねが]います。",
+      "translation_zh_CN": "我希望如此。"
+    },
+    {
+      "content": "お静かに願います。",
+      "furigana": "お[静|しず]かに[願|ねが]います。",
+      "translation_zh_CN": "請安靜。"
+    },
+    {
+      "content": "清算をお願いします。",
+      "furigana": "[清算|せい|さん]をお[願|ねが]いします。",
+      "translation_zh_CN": "請結帳。"
+    },
+    {
+      "content": "会計をお願いします。",
+      "furigana": "[会計|かい|けい]をお[願|ねが]いします。",
+      "translation_zh_CN": "把帳單給我好嗎？"
+    },
+    {
+      "content": "レアでお願いします。",
+      "furigana": "レアでお[願|ねが]いします。",
+      "translation_zh_CN": "我的牛排要生的。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "願い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "願い",
+          "reading": "ねがい"
+        },
+        {
+          "word": "願",
+          "reading": "ねがい"
+        }
+      ]
+    },
+    {
+      "slug": "願う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "願う",
+          "reading": "ねがう"
+        }
+      ]
+    },
+    {
+      "slug": "願書",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "願書",
+          "reading": "がんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "願望",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願望",
+          "reading": "がんぼう"
+        },
+        {
+          "word": "願望",
+          "reading": "がんもう"
+        }
+      ]
+    },
+    {
+      "slug": "願い出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願い出る",
+          "reading": "ねがいでる"
+        }
+      ]
+    },
+    {
+      "slug": "願い下げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願い下げ",
+          "reading": "ねがいさげ"
+        }
+      ]
+    },
+    {
+      "slug": "願い事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願い事",
+          "reading": "ねがいごと"
+        }
+      ]
+    },
+    {
+      "slug": "願わくは",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願わくは",
+          "reading": "ねがわくは"
+        },
+        {
+          "word": "希わくは",
+          "reading": "ねがわくは"
+        }
+      ]
+    },
+    {
+      "slug": "願い出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願い出",
+          "reading": "ねがいで"
+        }
+      ]
+    },
+    {
+      "slug": "願を掛ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願をかける",
+          "reading": "がんをかける"
+        },
+        {
+          "word": "願を掛ける",
+          "reading": "がんをかける"
+        },
+        {
+          "word": "願を懸ける",
+          "reading": "がんをかける"
+        }
+      ]
+    },
+    {
+      "slug": "願い主",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願い主",
+          "reading": "ねがいぬし"
+        }
+      ]
+    },
+    {
+      "slug": "願ってもない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願ってもない",
+          "reading": "ねがってもない"
+        },
+        {
+          "word": "願っても無い",
+          "reading": "ねがってもない"
+        }
+      ]
+    },
+    {
+      "slug": "願解き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願解き",
+          "reading": "がんほどき"
+        },
+        {
+          "word": "願ほどき",
+          "reading": "がんほどき"
+        }
+      ]
+    },
+    {
+      "slug": "願わくば",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願わくば",
+          "reading": "ねがわくば"
+        },
+        {
+          "word": "希わくば",
+          "reading": "ねがわくば"
+        }
+      ]
+    },
+    {
+      "slug": "願主",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願主",
+          "reading": "がんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "願わしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願わしい",
+          "reading": "ねがわしい"
+        }
+      ]
+    },
+    {
+      "slug": "願い書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願い書",
+          "reading": "ねがいしょ"
+        }
+      ]
+    },
+    {
+      "slug": "願人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願人",
+          "reading": "がんにん"
+        }
+      ]
+    },
+    {
+      "slug": "願掛け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "願掛け",
+          "reading": "がんかけ"
+        },
+        {
+          "word": "願掛け",
+          "reading": "がんがけ"
+        }
+      ]
+    }
   ]
 }

@@ -70,5 +70,283 @@
       "startStroke": 6,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "ご協力に感謝します。",
+      "furigana": "ご[協力|きょう|りょく]に[感謝|かん|しゃ]します。",
+      "translation_zh_CN": "我感謝您的合作。"
+    },
+    {
+      "content": "ご協力をお願いします。",
+      "furigana": "ご[協力|きょう|りょく]をお[願|ねが]いします。",
+      "translation_zh_CN": "我先谢谢你的帮忙。"
+    },
+    {
+      "content": "ご協力に感謝いたします。",
+      "furigana": "ご[協力|きょう|りょく]に[感謝|かん|しゃ]いたします。",
+      "translation_zh_CN": "謝謝您的合作。"
+    },
+    {
+      "content": "ご協力ありがとうございます。",
+      "furigana": "ご[協力|きょう|りょく]ありがとうございます。",
+      "translation_zh_CN": "謝謝您的合作。"
+    },
+    {
+      "content": "ご協力ありがとうございました。",
+      "furigana": "ご[協力|きょう|りょく]ありがとうございました。",
+      "translation_zh_CN": "谢谢您的帮助。"
+    },
+    {
+      "content": "ご協力いただきありがとうございます。",
+      "furigana": "ご[協力|きょう|りょく]いただきありがとうございます。",
+      "translation_zh_CN": "我感謝您的合作。"
+    },
+    {
+      "content": "ご協力いただき、ありがとうございます。",
+      "furigana": "ご[協力|きょう|りょく]いただき、ありがとうございます。",
+      "translation_zh_CN": "我感謝您的合作。"
+    },
+    {
+      "content": "ご協力のほど、よろしくお願いいたします。",
+      "furigana": "ご[協力|きょう|りょく]のほど、よろしくお[願|ねが]いいたします。",
+      "translation_zh_CN": "提前感謝你們的合作。"
+    },
+    {
+      "content": "この協力の結果がどうなるか、だれにも予測できない。",
+      "furigana": "この[協力|きょう|りょく]の[結果|けっ|か]がどうなるか、だれにも[予測|よ|そく]できない。",
+      "translation_zh_CN": "没人能够预言这次合作的结果。"
+    },
+    {
+      "content": "この仕事を成し遂げるには、私たち皆が協力する必要がある。",
+      "furigana": "この[仕事|し|ごと]を[成|な]し[遂|と]げるには、[私|わたし]たち[皆|みな]が[協力|きょう|りょく]する[必要|ひつ|よう]がある。",
+      "translation_zh_CN": "我们必须一起完成这个任务。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "共同",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "共同",
+          "reading": "きょうどう"
+        },
+        {
+          "word": "協同",
+          "reading": "きょうどう"
+        }
+      ]
+    },
+    {
+      "slug": "協力",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "協力",
+          "reading": "きょうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "協定",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "協定",
+          "reading": "きょうてい"
+        }
+      ]
+    },
+    {
+      "slug": "協会",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "協会",
+          "reading": "きょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "協議",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "協議",
+          "reading": "きょうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "協調",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "協調",
+          "reading": "きょうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "共同体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "共同体",
+          "reading": "きょうどうたい"
+        },
+        {
+          "word": "協同体",
+          "reading": "きょうどうたい"
+        }
+      ]
+    },
+    {
+      "slug": "協奏曲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協奏曲",
+          "reading": "きょうそうきょく"
+        }
+      ]
+    },
+    {
+      "slug": "協議事項",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協議事項",
+          "reading": "きょうぎじこう"
+        }
+      ]
+    },
+    {
+      "slug": "協力者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協力者",
+          "reading": "きょうりょくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "協同組合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協同組合",
+          "reading": "きょうどうくみあい"
+        },
+        {
+          "word": "共同組合",
+          "reading": "きょうどうくみあい"
+        }
+      ]
+    },
+    {
+      "slug": "協賛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協賛",
+          "reading": "きょうさん"
+        }
+      ]
+    },
+    {
+      "slug": "協和",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協和",
+          "reading": "きょうわ"
+        }
+      ]
+    },
+    {
+      "slug": "協約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協約",
+          "reading": "きょうやく"
+        }
+      ]
+    },
+    {
+      "slug": "協商",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協商",
+          "reading": "きょうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "協定世界時",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協定世界時",
+          "reading": "きょうていせかいじ"
+        }
+      ]
+    },
+    {
+      "slug": "協働",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協働",
+          "reading": "きょうどう"
+        }
+      ]
+    },
+    {
+      "slug": "協心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協心",
+          "reading": "きょうしん"
+        }
+      ]
+    },
+    {
+      "slug": "協力金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協力金",
+          "reading": "きょうりょくきん"
+        }
+      ]
+    },
+    {
+      "slug": "協力合意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "協力合意",
+          "reading": "きょうりょくごうい"
+        }
+      ]
+    }
   ]
 }

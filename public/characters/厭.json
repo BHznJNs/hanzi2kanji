@@ -74,5 +74,315 @@
       "startStroke": 13,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "公衆の面前に姿を見せなければならないのが厭だった。",
+      "furigana": "[公衆|こう|しゅう]の[面前|めん|ぜん]に[姿|すがた]を[見|み]せなければならないのが[厭|いや]だった。",
+      "translation_zh_CN": "我讨厌出现在公共场合。"
+    },
+    {
+      "content": "夫は、なぜだか、彼女が私について話すのを厭ふやうに見えました。実際、彼女は、私のことを話し過ぎるのでした。",
+      "furigana": "[夫|おっと]は、なぜだか、[彼女|かの|じょ]が[私|わたし]について[話|はな]すのを[厭|いや]ふやうに[見|み]えました。[実際|じっ|さい]、[彼女|かの|じょ]は、[私|わたし]のことを[話|はな]し[過|す]ぎるのでした。",
+      "translation_zh_CN": "出于某种原因，我丈夫似乎不愿意听她谈论我。事实上，她谈论了太多关于我的事情。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "飽きる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飽きる",
+          "reading": "あきる"
+        },
+        {
+          "word": "厭きる",
+          "reading": "あきる"
+        },
+        {
+          "word": "倦きる",
+          "reading": "あきる"
+        }
+      ]
+    },
+    {
+      "slug": "嫌がる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "嫌がる",
+          "reading": "いやがる"
+        },
+        {
+          "word": "厭がる",
+          "reading": "いやがる"
+        }
+      ]
+    },
+    {
+      "slug": "嫌らしい",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "嫌らしい",
+          "reading": "いやらしい"
+        },
+        {
+          "word": "嫌らしい",
+          "reading": "やらしい"
+        },
+        {
+          "word": "厭らしい",
+          "reading": "いやらしい"
+        },
+        {
+          "word": "厭らしい",
+          "reading": "やらしい"
+        }
+      ]
+    },
+    {
+      "slug": "嫌々",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "嫌々",
+          "reading": "いやいや"
+        },
+        {
+          "word": "嫌嫌",
+          "reading": "いやいや"
+        },
+        {
+          "word": "厭々",
+          "reading": "いやいや"
+        },
+        {
+          "word": "厭厭",
+          "reading": "いやいや"
+        }
+      ]
+    },
+    {
+      "slug": "嫌がらせ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嫌がらせ",
+          "reading": "いやがらせ"
+        },
+        {
+          "word": "厭がらせ",
+          "reading": "いやがらせ"
+        }
+      ]
+    },
+    {
+      "slug": "飽き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽き",
+          "reading": "あき"
+        },
+        {
+          "word": "厭き",
+          "reading": "あき"
+        }
+      ]
+    },
+    {
+      "slug": "嫌味",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嫌味",
+          "reading": "いやみ"
+        },
+        {
+          "word": "嫌み",
+          "reading": "いやみ"
+        },
+        {
+          "word": "厭味",
+          "reading": "いやみ"
+        }
+      ]
+    },
+    {
+      "slug": "飽き飽き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽き飽き",
+          "reading": "あきあき"
+        },
+        {
+          "word": "厭き厭き",
+          "reading": "あきあき"
+        }
+      ]
+    },
+    {
+      "slug": "厭う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "厭う",
+          "reading": "いとう"
+        }
+      ]
+    },
+    {
+      "slug": "飽きっぽい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽きっぽい",
+          "reading": "あきっぽい"
+        },
+        {
+          "word": "厭きっぽい",
+          "reading": "あきっぽい"
+        }
+      ]
+    },
+    {
+      "slug": "飽かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽かす",
+          "reading": "あかす"
+        },
+        {
+          "word": "厭かす",
+          "reading": "あかす"
+        }
+      ]
+    },
+    {
+      "slug": "嫌みたらしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嫌みたらしい",
+          "reading": "いやみたらしい"
+        },
+        {
+          "word": "厭みたらしい",
+          "reading": "いやみたらしい"
+        }
+      ]
+    },
+    {
+      "slug": "嫌みったらしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嫌みったらしい",
+          "reading": "いやみったらしい"
+        },
+        {
+          "word": "厭みったらしい",
+          "reading": "いやみったらしい"
+        }
+      ]
+    },
+    {
+      "slug": "厭わしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "厭わしい",
+          "reading": "いとわしい"
+        }
+      ]
+    },
+    {
+      "slug": "飽かず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽かず",
+          "reading": "あかず"
+        },
+        {
+          "word": "厭かず",
+          "reading": "あかず"
+        }
+      ]
+    },
+    {
+      "slug": "厭き性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "厭き性",
+          "reading": "あきしょう"
+        },
+        {
+          "word": "飽き性",
+          "reading": "あきしょう"
+        }
+      ]
+    },
+    {
+      "slug": "飽く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽く",
+          "reading": "あく"
+        },
+        {
+          "word": "厭く",
+          "reading": "あく"
+        },
+        {
+          "word": "倦く",
+          "reading": "あく"
+        }
+      ]
+    },
+    {
+      "slug": "嫌な気持",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嫌な気持ち",
+          "reading": "いやなきもち"
+        },
+        {
+          "word": "厭な気持ち",
+          "reading": "いやなきもち"
+        }
+      ]
+    },
+    {
+      "slug": "嫌に",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "嫌に",
+          "reading": "いやに"
+        },
+        {
+          "word": "厭に",
+          "reading": "いやに"
+        }
+      ]
+    }
   ]
 }

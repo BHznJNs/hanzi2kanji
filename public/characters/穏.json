@@ -96,5 +96,102 @@
       "startStroke": 12,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "嵐の後の海は穏やかだった。",
+      "furigana": "[嵐|あらし]の[後|あと]の[海|うみ]は[穏|おだ]やかだった。",
+      "translation_zh_CN": "暴风雨后，大海恢复了平静。"
+    },
+    {
+      "content": "彼女は穏やかな声で話しました。",
+      "furigana": "[彼女|かの|じょ]は[穏|おだ]やかな[声|こえ]で[話|はな]しました。",
+      "translation_zh_CN": "她以轻柔的语调说话。"
+    },
+    {
+      "content": "田舎での生活は、都会生活と比較してとても穏やかだ。",
+      "furigana": "[田舎|いなか]での[生活|せい|かつ]は、[都会|と|かい][生活|せい|かつ]と[比較|ひ|かく]してとても[穏|おだ]やかだ。",
+      "translation_zh_CN": "和都市生活相比，鄉村生活和諧多了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "穏やか",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "穏やか",
+          "reading": "おだやか"
+        }
+      ]
+    },
+    {
+      "slug": "温和",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "温和",
+          "reading": "おんわ"
+        },
+        {
+          "word": "穏和",
+          "reading": "おんわ"
+        }
+      ]
+    },
+    {
+      "slug": "穏健",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穏健",
+          "reading": "おんけん"
+        }
+      ]
+    },
+    {
+      "slug": "穏当",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穏当",
+          "reading": "おんとう"
+        }
+      ]
+    },
+    {
+      "slug": "穏便",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穏便",
+          "reading": "おんびん"
+        }
+      ]
+    },
+    {
+      "slug": "穏健派",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穏健派",
+          "reading": "おんけんは"
+        }
+      ]
+    },
+    {
+      "slug": "穏健路線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穏健路線",
+          "reading": "おんけんろせん"
+        }
+      ]
+    }
   ]
 }

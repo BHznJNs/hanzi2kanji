@@ -59,5 +59,176 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鉤爪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉤爪",
+          "reading": "かぎづめ"
+        },
+        {
+          "word": "鉤爪",
+          "reading": "かぎつめ"
+        },
+        {
+          "word": "かぎ爪",
+          "reading": "かぎづめ"
+        },
+        {
+          "word": "かぎ爪",
+          "reading": "かぎつめ"
+        },
+        {
+          "word": "鈎爪",
+          "reading": "かぎづめ"
+        },
+        {
+          "word": "鈎爪",
+          "reading": "かぎつめ"
+        },
+        {
+          "word": "カギ爪",
+          "reading": "カギづめ"
+        }
+      ]
+    },
+    {
+      "slug": "勾股弦の定理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勾股弦の定理",
+          "reading": "こうこげんのていり"
+        },
+        {
+          "word": "鈎股弦の定理",
+          "reading": "こうこげんのていり"
+        }
+      ]
+    },
+    {
+      "slug": "勾股弦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勾股弦",
+          "reading": "こうこげん"
+        },
+        {
+          "word": "鈎股弦",
+          "reading": "こうこげん"
+        }
+      ]
+    },
+    {
+      "slug": "鉤形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉤型",
+          "reading": "かぎがた"
+        },
+        {
+          "word": "鉤形",
+          "reading": "かぎがた"
+        },
+        {
+          "word": "鈎型",
+          "reading": "かぎがた"
+        },
+        {
+          "word": "鈎形",
+          "reading": "かぎがた"
+        }
+      ]
+    },
+    {
+      "slug": "鈎虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈎虫",
+          "reading": "こうちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "かぎ括弧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かぎ括弧",
+          "reading": "かぎかっこ"
+        },
+        {
+          "word": "鉤括弧",
+          "reading": "かぎかっこ"
+        },
+        {
+          "word": "鈎括弧",
+          "reading": "かぎかっこ"
+        },
+        {
+          "word": "鍵括弧",
+          "reading": "かぎかっこ"
+        }
+      ]
+    },
+    {
+      "slug": "鉤鼻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉤鼻",
+          "reading": "かぎばな"
+        },
+        {
+          "word": "鉤鼻",
+          "reading": "かぎはな"
+        },
+        {
+          "word": "かぎ鼻",
+          "reading": "かぎばな"
+        },
+        {
+          "word": "かぎ鼻",
+          "reading": "かぎはな"
+        },
+        {
+          "word": "鈎鼻",
+          "reading": "かぎばな"
+        },
+        {
+          "word": "鈎鼻",
+          "reading": "かぎはな"
+        }
+      ]
+    },
+    {
+      "slug": "鉤状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉤状",
+          "reading": "こうじょう"
+        },
+        {
+          "word": "鉤状",
+          "reading": "かぎじょう"
+        },
+        {
+          "word": "鈎状",
+          "reading": "こうじょう"
+        },
+        {
+          "word": "鈎状",
+          "reading": "かぎじょう"
+        }
+      ]
+    }
   ]
 }

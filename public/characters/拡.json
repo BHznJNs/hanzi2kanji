@@ -86,5 +86,259 @@
       "startStroke": 6,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "その市場は急速に拡大している。",
+      "furigana": "その[市場|し|じょう]は[急速|きゅう|そく]に[拡大|かく|だい]している。",
+      "translation_zh_CN": "那個市場一直在急速擴展。"
+    },
+    {
+      "content": "これらの対策は、その疫病の感染拡大を防止することができます。",
+      "furigana": "これらの[対策|たい|さく]は、その[疫病|えき|びょう]の[感染|かん|せん][拡大|かく|だい]を[防止|ぼう|し]することができます。",
+      "translation_zh_CN": "这些措施可以预防疾病蔓延。"
+    },
+    {
+      "content": "中国衛生当局は、コロナウイルス拡大を阻止するための措置をとっている。",
+      "furigana": "[中国|ちゅう|ごく][衛生|えい|せい][当局|とう|きょく]は、コロナウイルス[拡大|かく|だい]を[阻止|そ|し]するための[措置|そ|ち]をとっている。",
+      "translation_zh_CN": "中国的卫生当局正在采取措施来阻止冠状病毒的传播。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "拡散",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "拡散",
+          "reading": "かくさん"
+        }
+      ]
+    },
+    {
+      "slug": "拡大",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "拡大",
+          "reading": "かくだい"
+        }
+      ]
+    },
+    {
+      "slug": "広がる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "広がる",
+          "reading": "ひろがる"
+        },
+        {
+          "word": "拡がる",
+          "reading": "ひろがる"
+        }
+      ]
+    },
+    {
+      "slug": "広げる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "広げる",
+          "reading": "ひろげる"
+        },
+        {
+          "word": "拡げる",
+          "reading": "ひろげる"
+        },
+        {
+          "word": "展げる",
+          "reading": "ひろげる"
+        }
+      ]
+    },
+    {
+      "slug": "拡張",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "拡張",
+          "reading": "かくちょう"
+        }
+      ]
+    },
+    {
+      "slug": "拡充",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "拡充",
+          "reading": "かくじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "拡張子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡張子",
+          "reading": "かくちょうし"
+        }
+      ]
+    },
+    {
+      "slug": "広がり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "広がり",
+          "reading": "ひろがり"
+        },
+        {
+          "word": "拡がり",
+          "reading": "ひろがり"
+        }
+      ]
+    },
+    {
+      "slug": "拡大鏡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡大鏡",
+          "reading": "かくだいきょう"
+        }
+      ]
+    },
+    {
+      "slug": "拡大解釈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡大解釈",
+          "reading": "かくだいかいしゃく"
+        }
+      ]
+    },
+    {
+      "slug": "拡大均衡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡大均衡",
+          "reading": "かくだいきんこう"
+        }
+      ]
+    },
+    {
+      "slug": "拡声機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡声器",
+          "reading": "かくせいき"
+        },
+        {
+          "word": "拡声機",
+          "reading": "かくせいき"
+        }
+      ]
+    },
+    {
+      "slug": "拡張現実",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡張現実",
+          "reading": "かくちょうげんじつ"
+        }
+      ]
+    },
+    {
+      "slug": "拡張条虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡張条虫",
+          "reading": "かくちょうじょうちゅう"
+        },
+        {
+          "reading": "カクチョウジョウチュウ"
+        }
+      ]
+    },
+    {
+      "slug": "拡張新字体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡張新字体",
+          "reading": "かくちょうしんじたい"
+        }
+      ]
+    },
+    {
+      "slug": "拡散反射",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡散反射",
+          "reading": "かくさんはんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "拡張性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡張性",
+          "reading": "かくちょうせい"
+        }
+      ]
+    },
+    {
+      "slug": "拡張倍精度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡張倍精度",
+          "reading": "かくちょうばいせいど"
+        }
+      ]
+    },
+    {
+      "slug": "拡がり角",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡がり角",
+          "reading": "ひろがりかく"
+        }
+      ]
+    },
+    {
+      "slug": "拡大家族",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拡大家族",
+          "reading": "かくだいかぞく"
+        }
+      ]
+    }
   ]
 }

@@ -88,5 +88,118 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "逓信",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓信",
+          "reading": "ていしん"
+        }
+      ]
+    },
+    {
+      "slug": "逓倍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓倍",
+          "reading": "ていばい"
+        }
+      ]
+    },
+    {
+      "slug": "逓減",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓減",
+          "reading": "ていげん"
+        }
+      ]
+    },
+    {
+      "slug": "逓降変圧器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓降変圧器",
+          "reading": "ていこうへんあつき"
+        }
+      ]
+    },
+    {
+      "slug": "逓次",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓次",
+          "reading": "ていじ"
+        }
+      ]
+    },
+    {
+      "slug": "逓信省",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓信省",
+          "reading": "ていしんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "逓送",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓送",
+          "reading": "ていそう"
+        }
+      ]
+    },
+    {
+      "slug": "逓倍器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓倍器",
+          "reading": "ていばいき"
+        }
+      ]
+    },
+    {
+      "slug": "逓伝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓伝",
+          "reading": "ていでん"
+        }
+      ]
+    },
+    {
+      "slug": "逓信大臣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓信大臣",
+          "reading": "ていしんだいじん"
+        }
+      ]
+    },
+    {
+      "slug": "逓増",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "逓増",
+          "reading": "ていぞう"
+        }
+      ]
+    }
   ]
 }

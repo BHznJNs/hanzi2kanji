@@ -73,5 +73,108 @@
       "startStroke": 11,
       "strokes": 6
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "燦々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燦々",
+          "reading": "さんさん"
+        },
+        {
+          "word": "燦燦",
+          "reading": "さんさん"
+        },
+        {
+          "word": "粲粲",
+          "reading": "さんさん"
+        },
+        {
+          "word": "粲々",
+          "reading": "さんさん"
+        }
+      ]
+    },
+    {
+      "slug": "煌く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煌めく",
+          "reading": "きらめく"
+        },
+        {
+          "word": "煌く",
+          "reading": "きらめく"
+        },
+        {
+          "word": "燦めく",
+          "reading": "きらめく"
+        }
+      ]
+    },
+    {
+      "slug": "燦然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燦然",
+          "reading": "さんぜん"
+        },
+        {
+          "word": "さん然",
+          "reading": "さんぜん"
+        },
+        {
+          "word": "粲然",
+          "reading": "さんぜん"
+        }
+      ]
+    },
+    {
+      "slug": "煌めき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煌めき",
+          "reading": "きらめき"
+        },
+        {
+          "word": "煌き",
+          "reading": "きらめき"
+        }
+      ]
+    },
+    {
+      "slug": "燦爛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燦爛",
+          "reading": "さんらん"
+        },
+        {
+          "word": "粲爛",
+          "reading": "さんらん"
+        }
+      ]
+    },
+    {
+      "slug": "燦然と輝く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燦然と輝く",
+          "reading": "さんぜんとかがやく"
+        },
+        {
+          "word": "粲然と輝く",
+          "reading": "さんぜんとかがやく"
+        }
+      ]
+    }
   ]
 }

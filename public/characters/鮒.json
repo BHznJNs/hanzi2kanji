@@ -79,5 +79,40 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鮒寿司",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮒寿司",
+          "reading": "ふなずし"
+        },
+        {
+          "word": "鮒ずし",
+          "reading": "ふなずし"
+        },
+        {
+          "word": "鮒鮨",
+          "reading": "ふなずし"
+        },
+        {
+          "word": "鮒鮓",
+          "reading": "ふなずし"
+        }
+      ]
+    },
+    {
+      "slug": "鮒侍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮒侍",
+          "reading": "ふなざむらい"
+        }
+      ]
+    }
   ]
 }

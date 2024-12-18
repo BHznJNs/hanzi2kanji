@@ -63,5 +63,290 @@
       "startStroke": 6,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "その紅の花は一月に咲きます。",
+      "furigana": "その[紅|べに]の[花|はな]は[一月|いち|がつ]に[咲|さ]きます。",
+      "translation_zh_CN": "它的红色花朵在一月份盛开。"
+    },
+    {
+      "content": "お寿司には紅ショウガが付いてくることが多いです。",
+      "furigana": "お[寿司|す|し]には[紅|べに]ショウガが[付|つ]いてくることが[多|おお]いです。",
+      "translation_zh_CN": "寿司通常配有红姜。"
+    },
+    {
+      "content": "紅茶をください。",
+      "furigana": "[紅茶|こう|ちゃ]をください。",
+      "translation_zh_CN": "请给我一杯茶。"
+    },
+    {
+      "content": "彼は紅茶を注文した。",
+      "furigana": "[彼|かれ]は[紅茶|こう|ちゃ]を[注文|ちゅう|もん]した。",
+      "translation_zh_CN": "他點了一杯茶。"
+    },
+    {
+      "content": "紅茶を一杯飲みたい。",
+      "furigana": "[紅茶|こう|ちゃ]を[一杯|いっ|ぱい][飲|の]みたい。",
+      "translation_zh_CN": "我想喝杯紅茶。"
+    },
+    {
+      "content": "紅茶をお願いします。",
+      "furigana": "[紅茶|こう|ちゃ]をお[願|ねが]いします。",
+      "translation_zh_CN": "請給我一杯茶。"
+    },
+    {
+      "content": "コーヒー？それとも紅茶？",
+      "furigana": "コーヒー？それとも[紅茶|こう|ちゃ]？",
+      "translation_zh_CN": "咖啡還是茶？"
+    },
+    {
+      "content": "紅茶をいただけますか。",
+      "furigana": "[紅茶|こう|ちゃ]をいただけますか。",
+      "translation_zh_CN": "能來點茶嗎？"
+    },
+    {
+      "content": "紅茶を一杯いかがですか。",
+      "furigana": "[紅茶|こう|ちゃ]を[一杯|いっ|ぱい]いかがですか。",
+      "translation_zh_CN": "喝杯紅茶嗎？"
+    },
+    {
+      "content": "紅茶を１杯お願いします。",
+      "furigana": "[紅茶|こう|ちゃ]を[１|いっ][杯|ぱい]お[願|ねが]いします。",
+      "translation_zh_CN": "请给我一杯茶。"
+    },
+    {
+      "content": "秋には山全体が紅葉する。",
+      "furigana": "[秋|あき]には[山|やま][全体|ぜん|たい]が[紅葉|こう|よう]する。",
+      "translation_zh_CN": "在秋天，整座山都会变成红色。"
+    },
+    {
+      "content": "紅茶よりコーヒーがいいな。",
+      "furigana": "[紅茶|こう|ちゃ]よりコーヒーがいいな。",
+      "translation_zh_CN": "我喜歡咖啡勝過茶。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "紅茶",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "紅茶",
+          "reading": "こうちゃ"
+        }
+      ]
+    },
+    {
+      "slug": "赤い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "赤い",
+          "reading": "あかい"
+        },
+        {
+          "word": "紅い",
+          "reading": "あかい"
+        },
+        {
+          "word": "朱い",
+          "reading": "あかい"
+        }
+      ]
+    },
+    {
+      "slug": "紅白",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅白",
+          "reading": "こうはく"
+        }
+      ]
+    },
+    {
+      "slug": "紅葉",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "紅葉",
+          "reading": "こうよう"
+        }
+      ]
+    },
+    {
+      "slug": "紅潮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅潮",
+          "reading": "こうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "紅茶道具一式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅茶道具一式",
+          "reading": "こうちゃどうぐいっしき"
+        }
+      ]
+    },
+    {
+      "slug": "紅海",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅海",
+          "reading": "こうかい"
+        }
+      ]
+    },
+    {
+      "slug": "紅梅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅梅",
+          "reading": "こうばい"
+        },
+        {
+          "word": "紅梅",
+          "reading": "べにうめ"
+        }
+      ]
+    },
+    {
+      "slug": "紅花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅花",
+          "reading": "べにばな"
+        },
+        {
+          "reading": "ベニバナ"
+        }
+      ]
+    },
+    {
+      "slug": "紅色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅色",
+          "reading": "べにいろ"
+        },
+        {
+          "word": "紅色",
+          "reading": "こうしょく"
+        },
+        {
+          "word": "紅色",
+          "reading": "くれないいろ"
+        }
+      ]
+    },
+    {
+      "slug": "紅毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅毛",
+          "reading": "こうもう"
+        }
+      ]
+    },
+    {
+      "slug": "紅斑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅斑",
+          "reading": "こうはん"
+        }
+      ]
+    },
+    {
+      "slug": "紅海月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅海月",
+          "reading": "べにくらげ"
+        },
+        {
+          "reading": "ベニクラゲ"
+        }
+      ]
+    },
+    {
+      "slug": "紅柱石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅柱石",
+          "reading": "こうちゅうせき"
+        }
+      ]
+    },
+    {
+      "slug": "紅巾の乱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅巾の乱",
+          "reading": "こうきんのらん"
+        }
+      ]
+    },
+    {
+      "slug": "紅炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紅炎",
+          "reading": "こうえん"
+        },
+        {
+          "word": "紅焔",
+          "reading": "こうえん"
+        }
+      ]
+    },
+    {
+      "slug": "てんとう虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "てんとう虫",
+          "reading": "てんとうむし"
+        },
+        {
+          "word": "天道虫",
+          "reading": "てんとうむし"
+        },
+        {
+          "word": "瓢虫",
+          "reading": "てんとうむし"
+        },
+        {
+          "word": "紅娘",
+          "reading": "てんとうむし"
+        },
+        {
+          "reading": "テントウムシ"
+        }
+      ]
+    }
   ]
 }

@@ -135,5 +135,272 @@
       "startStroke": 16,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "これらの権利は不可譲だ。",
+      "furigana": "これらの[権利|けん|り]は[不可譲|ふ|か|ゆずる]だ。",
+      "translation_zh_CN": "这些权利是不可剥夺的。"
+    },
+    {
+      "content": "彼女の性格は母親譲りだ。",
+      "furigana": "[彼女|かの|じょ]の[性格|せい|かく]は[母親|はは|おや][譲|ゆず]りだ。",
+      "translation_zh_CN": "她的性格很像她母親。"
+    },
+    {
+      "content": "彼は老人に席を譲りました。",
+      "furigana": "[彼|かれ]は[老人|ろう|じん]に[席|せき]を[譲|ゆず]りました。",
+      "translation_zh_CN": "他把座位讓給了老人。"
+    },
+    {
+      "content": "叔父は私に車を譲ってくれた。",
+      "furigana": "[叔父|おじ]は[私|わたし]に[車|くるま]を[譲|ゆず]ってくれた。",
+      "translation_zh_CN": "我叔叔把他的車給我。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "譲る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "譲る",
+          "reading": "ゆずる"
+        }
+      ]
+    },
+    {
+      "slug": "譲歩",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "譲歩",
+          "reading": "じょうほ"
+        }
+      ]
+    },
+    {
+      "slug": "譲り渡す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲り渡す",
+          "reading": "ゆずりわたす"
+        },
+        {
+          "word": "譲りわたす",
+          "reading": "ゆずりわたす"
+        }
+      ]
+    },
+    {
+      "slug": "譲り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲り",
+          "reading": "ゆずり"
+        }
+      ]
+    },
+    {
+      "slug": "譲渡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲渡",
+          "reading": "じょうと"
+        }
+      ]
+    },
+    {
+      "slug": "譲与",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲与",
+          "reading": "じょうよ"
+        }
+      ]
+    },
+    {
+      "slug": "譲り受ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲り受ける",
+          "reading": "ゆずりうける"
+        }
+      ]
+    },
+    {
+      "slug": "譲渡所得",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲渡所得",
+          "reading": "じょうとしょとく"
+        }
+      ]
+    },
+    {
+      "slug": "譲渡性預金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲渡性預金",
+          "reading": "じょうとせいよきん"
+        }
+      ]
+    },
+    {
+      "slug": "譲葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲葉",
+          "reading": "ゆずりは"
+        },
+        {
+          "word": "交譲木",
+          "reading": "ゆずりは"
+        },
+        {
+          "word": "楪",
+          "reading": "ゆずりは"
+        },
+        {
+          "reading": "ユズリハ"
+        }
+      ]
+    },
+    {
+      "slug": "譲渡不能",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲渡不能",
+          "reading": "じょうとふのう"
+        }
+      ]
+    },
+    {
+      "slug": "譲り状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲り状",
+          "reading": "ゆずりじょう"
+        }
+      ]
+    },
+    {
+      "slug": "譲渡会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲渡会",
+          "reading": "じょうとかい"
+        }
+      ]
+    },
+    {
+      "slug": "譲り渡し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲り渡し",
+          "reading": "ゆずりわたし"
+        },
+        {
+          "word": "譲渡し",
+          "reading": "ゆずりわたし"
+        }
+      ]
+    },
+    {
+      "slug": "譲渡人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲渡人",
+          "reading": "じょうとにん"
+        },
+        {
+          "word": "譲渡人",
+          "reading": "ゆずりわたしにん"
+        }
+      ]
+    },
+    {
+      "slug": "譲り合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲り合う",
+          "reading": "ゆずりあう"
+        },
+        {
+          "word": "譲りあう",
+          "reading": "ゆずりあう"
+        }
+      ]
+    },
+    {
+      "slug": "譲り受け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲り受け",
+          "reading": "ゆずりうけ"
+        },
+        {
+          "word": "譲受",
+          "reading": "ゆずりうけ"
+        },
+        {
+          "word": "譲受け",
+          "reading": "ゆずりうけ"
+        }
+      ]
+    },
+    {
+      "slug": "譲渡会社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲渡会社",
+          "reading": "ゆずりわたしがいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "譲渡価格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲渡価格",
+          "reading": "じょうとかかく"
+        }
+      ]
+    },
+    {
+      "slug": "譲位",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譲位",
+          "reading": "じょうい"
+        },
+        {
+          "word": "讓位",
+          "reading": "じょうい"
+        }
+      ]
+    }
   ]
 }

@@ -80,5 +80,219 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "修学旅行は、志賀高原にスキーに行きました。",
+      "furigana": "[修学旅行|しゅう|がく|りょ|こう]は、[志賀高原|し|が|こう|げん]にスキーに[行|い]きました。",
+      "translation_zh_CN": "修学旅行，我们去了志贺高原滑雪。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "歌留多",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "歌留多",
+          "reading": "カルタ"
+        },
+        {
+          "word": "骨牌",
+          "reading": "カルタ"
+        },
+        {
+          "word": "加留多",
+          "reading": "カルタ"
+        },
+        {
+          "reading": "かるた"
+        }
+      ]
+    },
+    {
+      "slug": "賀正",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀正",
+          "reading": "がしょう"
+        },
+        {
+          "word": "賀正",
+          "reading": "がせい"
+        }
+      ]
+    },
+    {
+      "slug": "賀状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀状",
+          "reading": "がじょう"
+        }
+      ]
+    },
+    {
+      "slug": "賀の祝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀の祝い",
+          "reading": "がのいわい"
+        },
+        {
+          "word": "賀の祝",
+          "reading": "がのいわい"
+        }
+      ]
+    },
+    {
+      "slug": "賀宴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀宴",
+          "reading": "がえん"
+        }
+      ]
+    },
+    {
+      "slug": "賀寿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀寿",
+          "reading": "がじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "賀儀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀儀",
+          "reading": "がぎ"
+        }
+      ]
+    },
+    {
+      "slug": "賀表",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀表",
+          "reading": "がひょう"
+        }
+      ]
+    },
+    {
+      "slug": "賀詞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀詞",
+          "reading": "がし"
+        }
+      ]
+    },
+    {
+      "slug": "賀詞交換会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀詞交換会",
+          "reading": "がしこうかんかい"
+        }
+      ]
+    },
+    {
+      "slug": "賀す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀す",
+          "reading": "がす"
+        }
+      ]
+    },
+    {
+      "slug": "賀茂茄子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀茂茄子",
+          "reading": "かもなす"
+        },
+        {
+          "word": "賀茂なす",
+          "reading": "かもなす"
+        },
+        {
+          "word": "加茂なす",
+          "reading": "かもなす"
+        },
+        {
+          "word": "賀茂ナス",
+          "reading": "かもなす"
+        },
+        {
+          "word": "加茂ナス",
+          "reading": "かもなす"
+        },
+        {
+          "word": "加茂茄",
+          "reading": "かもなす"
+        },
+        {
+          "reading": "カモナス"
+        }
+      ]
+    },
+    {
+      "slug": "賀春",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀春",
+          "reading": "がしゅん"
+        }
+      ]
+    },
+    {
+      "slug": "賀意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀意",
+          "reading": "がい"
+        }
+      ]
+    },
+    {
+      "slug": "賀する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀する",
+          "reading": "がする"
+        }
+      ]
+    },
+    {
+      "slug": "賀慶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賀慶",
+          "reading": "がけい"
+        }
+      ]
+    }
   ]
 }

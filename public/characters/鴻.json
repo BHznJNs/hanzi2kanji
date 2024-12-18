@@ -77,5 +77,190 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "大鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大鳥",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鳳",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鵬",
+          "reading": "おおとり"
+        },
+        {
+          "word": "鴻",
+          "reading": "おおとり"
+        },
+        {
+          "word": "凰",
+          "reading": "おおとり"
+        }
+      ]
+    },
+    {
+      "slug": "鴻鵠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴻鵠",
+          "reading": "こうこく"
+        }
+      ]
+    },
+    {
+      "slug": "洪恩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "洪恩",
+          "reading": "こうおん"
+        },
+        {
+          "word": "鴻恩",
+          "reading": "こうおん"
+        }
+      ]
+    },
+    {
+      "slug": "鴻業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴻業",
+          "reading": "こうぎょう"
+        },
+        {
+          "word": "洪業",
+          "reading": "こうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "宏図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宏図",
+          "reading": "こうと"
+        },
+        {
+          "word": "鴻図",
+          "reading": "こうと"
+        },
+        {
+          "word": "洪図",
+          "reading": "こうと"
+        }
+      ]
+    },
+    {
+      "slug": "鴻雁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴻雁",
+          "reading": "こうがん"
+        }
+      ]
+    },
+    {
+      "slug": "宏謨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宏謨",
+          "reading": "こうぼ"
+        },
+        {
+          "word": "洪謨",
+          "reading": "こうぼ"
+        },
+        {
+          "word": "鴻謨",
+          "reading": "こうぼ"
+        }
+      ]
+    },
+    {
+      "slug": "鴻基",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴻基",
+          "reading": "こうき"
+        },
+        {
+          "word": "洪基",
+          "reading": "こうき"
+        }
+      ]
+    },
+    {
+      "slug": "鴻毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴻毛",
+          "reading": "こうもう"
+        }
+      ]
+    },
+    {
+      "slug": "洪範",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "洪範",
+          "reading": "こうはん"
+        },
+        {
+          "word": "鴻範",
+          "reading": "こうはん"
+        }
+      ]
+    },
+    {
+      "slug": "鴻臚館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴻臚館",
+          "reading": "こうろかん"
+        }
+      ]
+    },
+    {
+      "slug": "洪大",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "洪大",
+          "reading": "こうだい"
+        },
+        {
+          "word": "鴻大",
+          "reading": "こうだい"
+        }
+      ]
+    },
+    {
+      "slug": "鴻蒙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴻蒙",
+          "reading": "ホンモン"
+        }
+      ]
+    }
   ]
 }

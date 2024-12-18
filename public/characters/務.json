@@ -112,5 +112,169 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は勤務中です。",
+      "furigana": "[彼|かれ]は[勤務|きん|む][中|ちゅう]です。",
+      "translation_zh_CN": "他在服役。"
+    },
+    {
+      "content": "彼は義務を怠った。",
+      "furigana": "[彼|かれ]は[義務|ぎ|む]を[怠|おこた]った。",
+      "translation_zh_CN": "他怠忽職守了。"
+    },
+    {
+      "content": "まだ事務所にいるの？",
+      "furigana": "まだ[事務所|じ|む|しょ]にいるの？",
+      "translation_zh_CN": "你還在辦公室裡嗎？"
+    },
+    {
+      "content": "任務完了しました。",
+      "furigana": "[任務|にん|む][完了|かん|りょう]しました。",
+      "translation_zh_CN": "任务完成。"
+    },
+    {
+      "content": "彼は職務怠慢だった。",
+      "furigana": "[彼|かれ]は[職務|しょく|む][怠慢|たい|まん]だった。",
+      "translation_zh_CN": "他怠忽職守了。"
+    },
+    {
+      "content": "彼は任務を完了した。",
+      "furigana": "[彼|かれ]は[任務|にん|む]を[完了|かん|りょう]した。",
+      "translation_zh_CN": "他完成了他的使命。"
+    },
+    {
+      "content": "彼女は義務を果たした。",
+      "furigana": "[彼女|かの|じょ]は[義務|ぎ|む]を[果|は]たした。",
+      "translation_zh_CN": "她盡了自己的職責。"
+    },
+    {
+      "content": "彼は任務を成し遂げた。",
+      "furigana": "[彼|かれ]は[任務|にん|む]を[成|な]し[遂|と]げた。",
+      "translation_zh_CN": "他完成了他的使命。"
+    },
+    {
+      "content": "彼は刑務所へ送られた。",
+      "furigana": "[彼|かれ]は[刑務所|けい|む|しょ]へ[送|おく]られた。",
+      "translation_zh_CN": "他被送进了监狱。"
+    },
+    {
+      "content": "君は何時に勤務につくの？",
+      "furigana": "[君|きみ]は[何時|いつ]に[勤務|きん|む]につくの？",
+      "translation_zh_CN": "你幾點值班?"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "勤める",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "勤める",
+          "reading": "つとめる"
+        },
+        {
+          "word": "務める",
+          "reading": "つとめる"
+        }
+      ]
+    },
+    {
+      "slug": "勤め",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "勤め",
+          "reading": "つとめ"
+        },
+        {
+          "word": "務め",
+          "reading": "つとめ"
+        }
+      ]
+    },
+    {
+      "slug": "勤まる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "務まる",
+          "reading": "つとまる"
+        },
+        {
+          "word": "勤まる",
+          "reading": "つとまる"
+        }
+      ]
+    },
+    {
+      "slug": "務所送り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ムショ送り",
+          "reading": "むしょおくり"
+        },
+        {
+          "word": "務所送り",
+          "reading": "むしょおくり"
+        }
+      ]
+    },
+    {
+      "slug": "務歯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "務歯",
+          "reading": "むし"
+        }
+      ]
+    },
+    {
+      "slug": "務所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "務所",
+          "reading": "むしょ"
+        },
+        {
+          "reading": "ムショ"
+        }
+      ]
+    },
+    {
+      "slug": "ムショ上がり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ムショ上がり",
+          "reading": "むしょあがり"
+        },
+        {
+          "word": "務所上がり",
+          "reading": "むしょあがり"
+        }
+      ]
+    },
+    {
+      "slug": "務長官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "務長官",
+          "reading": "むちょうかん"
+        }
+      ]
+    }
   ]
 }

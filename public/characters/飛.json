@@ -91,5 +91,321 @@
       "startStroke": 6,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "これは意訳なんかじゃない。飛訳だよ。",
+      "furigana": "これは[意訳|い|やく]なんかじゃない。[飛訳|ひ|やく]だよ。",
+      "translation_zh_CN": "这不是任意翻译。这是随意翻译的。"
+    },
+    {
+      "content": "普通、アマチュアでは250ヤード飛べばすごい飛距離だと言われます。",
+      "furigana": "[普通|ふ|つう]、アマチュアでは250ヤード[飛|と]べばすごい[飛距離|ひ|きょ|り]だと[言|い]われます。",
+      "translation_zh_CN": "通常，业余爱好者认为 250 码是一个很长的距离。"
+    },
+    {
+      "content": "彼は飛び起きた。",
+      "furigana": "[彼|かれ]は[飛|と]び[起|お]きた。",
+      "translation_zh_CN": "他从床上跳了起来。"
+    },
+    {
+      "content": "ぶっ飛ばしてやる！",
+      "furigana": "ぶっ[飛|と]ばしてやる！",
+      "translation_zh_CN": "我揍你!"
+    },
+    {
+      "content": "この鳥は飛べません。",
+      "furigana": "この[鳥|とり]は[飛|と]べません。",
+      "translation_zh_CN": "这只鸟不能飞。"
+    },
+    {
+      "content": "この飛行機は巨大だ。",
+      "furigana": "この[飛行機|ひ|こう|き]は[巨大|きょ|だい]だ。",
+      "translation_zh_CN": "那飞机真大！"
+    },
+    {
+      "content": "飛行機は離陸間際だ。",
+      "furigana": "[飛行機|ひ|こう|き]は[離陸|り|りく][間際|ま|ぎわ]だ。",
+      "translation_zh_CN": "飞机快要起飞了。"
+    },
+    {
+      "content": "飛行機乗ったことある？",
+      "furigana": "[飛行機|ひ|こう|き][乗|の]ったことある？",
+      "translation_zh_CN": "你曾經坐飛機旅行過嗎?"
+    },
+    {
+      "content": "僕は川に飛び込んだ。",
+      "furigana": "[僕|ぼく]は[川|かわ]に[飛|と]び[込|こ]んだ。",
+      "translation_zh_CN": "我跳進了河裡。"
+    },
+    {
+      "content": "紙飛行機を折ったよ。",
+      "furigana": "[紙|かみ][飛行機|ひ|こう|き]を[折|お]ったよ。",
+      "translation_zh_CN": "我摺了一隻紙飛機。"
+    },
+    {
+      "content": "飛行機は無事着陸した。",
+      "furigana": "[飛行機|ひ|こう|き]は[無事|ぶ|じ][着陸|ちゃく|りく]した。",
+      "translation_zh_CN": "這架飛機安全著陸了。"
+    },
+    {
+      "content": "ワシが空を飛んでいる。",
+      "furigana": "ワシが[空|そら]を[飛|と]んでいる。",
+      "translation_zh_CN": "一只鹰在天上飞。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "飛行機",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "飛行機",
+          "reading": "ひこうき"
+        }
+      ]
+    },
+    {
+      "slug": "飛行場",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "飛行場",
+          "reading": "ひこうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "飛ぶ",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "飛ぶ",
+          "reading": "とぶ"
+        },
+        {
+          "word": "跳ぶ",
+          "reading": "とぶ"
+        },
+        {
+          "word": "翔ぶ",
+          "reading": "とぶ"
+        }
+      ]
+    },
+    {
+      "slug": "飛び出す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飛び出す",
+          "reading": "とびだす"
+        }
+      ]
+    },
+    {
+      "slug": "飛行",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飛行",
+          "reading": "ひこう"
+        }
+      ]
+    },
+    {
+      "slug": "飛ばす",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飛ばす",
+          "reading": "とばす"
+        }
+      ]
+    },
+    {
+      "slug": "飛び込む",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "飛び込む",
+          "reading": "とびこむ"
+        },
+        {
+          "word": "飛びこむ",
+          "reading": "とびこむ"
+        },
+        {
+          "word": "飛込む",
+          "reading": "とびこむ"
+        }
+      ]
+    },
+    {
+      "slug": "飛行船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行船",
+          "reading": "ひこうせん"
+        }
+      ]
+    },
+    {
+      "slug": "飛行艇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛行艇",
+          "reading": "ひこうてい"
+        }
+      ]
+    },
+    {
+      "slug": "飛躍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛躍",
+          "reading": "ひやく"
+        }
+      ]
+    },
+    {
+      "slug": "飛球",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛球",
+          "reading": "ひきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "飛び交う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び交う",
+          "reading": "とびかう"
+        },
+        {
+          "word": "飛びかう",
+          "reading": "とびかう"
+        },
+        {
+          "word": "とび交う",
+          "reading": "とびかう"
+        }
+      ]
+    },
+    {
+      "slug": "飛び下りる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び降りる",
+          "reading": "とびおりる"
+        },
+        {
+          "word": "飛び下りる",
+          "reading": "とびおりる"
+        },
+        {
+          "word": "跳び下りる",
+          "reading": "とびおりる"
+        }
+      ]
+    },
+    {
+      "slug": "飛び切り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び切り",
+          "reading": "とびきり"
+        }
+      ]
+    },
+    {
+      "slug": "とんだ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "飛んだ",
+          "reading": "とんだ"
+        }
+      ]
+    },
+    {
+      "slug": "とんでも無い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "reading": "とんでもない"
+        }
+      ]
+    },
+    {
+      "slug": "飛び越える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び越える",
+          "reading": "とびこえる"
+        },
+        {
+          "word": "跳び越える",
+          "reading": "とびこえる"
+        }
+      ]
+    },
+    {
+      "slug": "飛び抜ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び抜ける",
+          "reading": "とびぬける"
+        },
+        {
+          "word": "飛びぬける",
+          "reading": "とびぬける"
+        }
+      ]
+    },
+    {
+      "slug": "飛び乗る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飛び乗る",
+          "reading": "とびのる"
+        },
+        {
+          "word": "跳び乗る",
+          "reading": "とびのる"
+        }
+      ]
+    }
   ]
 }

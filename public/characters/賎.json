@@ -113,5 +113,46 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "賤民",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賤民",
+          "reading": "せんみん"
+        },
+        {
+          "word": "賎民",
+          "reading": "せんみん"
+        }
+      ]
+    },
+    {
+      "slug": "賎業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賎業",
+          "reading": "せんぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "賎業婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賎業婦",
+          "reading": "せんぎょうふ"
+        },
+        {
+          "word": "賤業婦",
+          "reading": "せんぎょうふ"
+        }
+      ]
+    }
   ]
 }

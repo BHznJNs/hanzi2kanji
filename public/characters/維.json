@@ -73,5 +73,202 @@
       "startStroke": 6,
       "strokes": 8
     }
+  ],
+  "sentences": [
+    {
+      "content": "この車の維持は高くつく。",
+      "furigana": "この[車|くるま]の[維持|い|じ]は[高|たか]くつく。",
+      "translation_zh_CN": "这辆车保养起来很贵。"
+    },
+    {
+      "content": "もっと繊維質を取りなさい。",
+      "furigana": "もっと[繊維|せん|い][質|しつ]を[取|と]りなさい。",
+      "translation_zh_CN": "你要吃多點含膳食纖維的食物。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "此れ",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "此れ",
+          "reading": "これ"
+        },
+        {
+          "word": "是",
+          "reading": "これ"
+        },
+        {
+          "word": "之",
+          "reading": "これ"
+        },
+        {
+          "word": "維",
+          "reading": "これ"
+        },
+        {
+          "word": "惟",
+          "reading": "これ"
+        }
+      ]
+    },
+    {
+      "slug": "維持",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "維持",
+          "reading": "いじ"
+        }
+      ]
+    },
+    {
+      "slug": "維新",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維新",
+          "reading": "いしん"
+        }
+      ]
+    },
+    {
+      "slug": "維吾爾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維吾爾",
+          "reading": "ウイグル"
+        },
+        {
+          "word": "維吾爾",
+          "reading": "ウィグル"
+        }
+      ]
+    },
+    {
+      "slug": "維摩経",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維摩経",
+          "reading": "ゆいまきょう"
+        },
+        {
+          "word": "維摩経",
+          "reading": "ゆいまぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "維管束植物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維管束植物",
+          "reading": "いかんそくしょくぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "維管束",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維管束",
+          "reading": "いかんそく"
+        }
+      ]
+    },
+    {
+      "slug": "維納",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維納",
+          "reading": "ウィーン"
+        }
+      ]
+    },
+    {
+      "slug": "維新の党",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維新の党",
+          "reading": "いしんのとう"
+        }
+      ]
+    },
+    {
+      "slug": "維那",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維那",
+          "reading": "いな"
+        },
+        {
+          "word": "維那",
+          "reading": "いの"
+        }
+      ]
+    },
+    {
+      "slug": "維持費",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維持費",
+          "reading": "いじひ"
+        }
+      ]
+    },
+    {
+      "slug": "維管束形成層",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維管束形成層",
+          "reading": "いかんそくけいせいそう"
+        }
+      ]
+    },
+    {
+      "slug": "維新の三傑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維新の三傑",
+          "reading": "いしんのさんけつ"
+        }
+      ]
+    },
+    {
+      "slug": "維持可能スループット",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維持可能スループット",
+          "reading": "いじかのうスループット"
+        }
+      ]
+    },
+    {
+      "slug": "維持可能セル速度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "維持可能セル速度",
+          "reading": "いじかのうセルそくど"
+        }
+      ]
+    }
   ]
 }

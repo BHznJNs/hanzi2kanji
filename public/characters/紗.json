@@ -56,5 +56,47 @@
       "startStroke": 9,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "紗美は、何も知らなかった。",
+      "furigana": "[紗美|さ|み]は、[何|なに]も[知|し]らなかった。",
+      "translation_zh_CN": "萨米什么都不知道。"
+    },
+    {
+      "content": "莉紗さんのお誕生日は、２ヶ月後です。",
+      "furigana": "[莉紗|りさ]さんのお[誕生日|たん|じょう|び]は、[２|に]ヶ[月後|かげつ|ご]です。",
+      "translation_zh_CN": "两个月后就是丽莎的生日了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "紗の様",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紗のよう",
+          "reading": "しゃのよう"
+        },
+        {
+          "word": "紗の様",
+          "reading": "しゃのよう"
+        }
+      ]
+    },
+    {
+      "slug": "紗綾形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紗綾形",
+          "reading": "さやがた"
+        },
+        {
+          "word": "さや型",
+          "reading": "さやがた"
+        }
+      ]
+    }
   ]
 }

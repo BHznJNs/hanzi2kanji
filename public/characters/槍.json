@@ -64,5 +64,262 @@
       "startStroke": 11,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "これは槍だよ。",
+      "furigana": "これは[槍|やり]だよ。",
+      "translation_zh_CN": "这是一支矛。"
+    },
+    {
+      "content": "彼は敵目がけて槍を投げつけた。",
+      "furigana": "[彼|かれ]は[敵目|てき|め]がけて[槍|やり]を[投|な]げつけた。",
+      "translation_zh_CN": "他把长矛扔向敌人。"
+    },
+    {
+      "content": "あなたは槍ヶ岳に登ったことがありますか。",
+      "furigana": "あなたは[槍|やり]ヶ[岳|たけ]に[登|のぼ]ったことがありますか。",
+      "translation_zh_CN": "你曾爬過槍岳嗎?"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "槍術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍術",
+          "reading": "そうじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "槍騎兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍騎兵",
+          "reading": "そうきへい"
+        }
+      ]
+    },
+    {
+      "slug": "槍鱮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍鱮",
+          "reading": "やりたなご"
+        },
+        {
+          "reading": "ヤリタナゴ"
+        }
+      ]
+    },
+    {
+      "slug": "槍玉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍玉",
+          "reading": "やりだま"
+        },
+        {
+          "word": "やり玉",
+          "reading": "やりだま"
+        },
+        {
+          "word": "ヤリ玉",
+          "reading": "ヤリだま"
+        }
+      ]
+    },
+    {
+      "slug": "槍使い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍使い",
+          "reading": "やりつかい"
+        }
+      ]
+    },
+    {
+      "slug": "槍先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍先",
+          "reading": "やりさき"
+        }
+      ]
+    },
+    {
+      "slug": "槍術家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍術家",
+          "reading": "そうじゅつか"
+        }
+      ]
+    },
+    {
+      "slug": "槍の穂先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍の穂先",
+          "reading": "やりのほさき"
+        }
+      ]
+    },
+    {
+      "slug": "槍衾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍衾",
+          "reading": "やりぶすま"
+        },
+        {
+          "word": "槍ぶすま",
+          "reading": "やりぶすま"
+        }
+      ]
+    },
+    {
+      "slug": "槍投げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "やり投げ",
+          "reading": "やりなげ"
+        },
+        {
+          "word": "やり投",
+          "reading": "やりなげ"
+        },
+        {
+          "word": "槍投げ",
+          "reading": "やりなげ"
+        }
+      ]
+    },
+    {
+      "slug": "槍烏賊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍烏賊",
+          "reading": "やりいか"
+        },
+        {
+          "reading": "ヤリイカ"
+        }
+      ]
+    },
+    {
+      "slug": "槍持ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍持ち",
+          "reading": "やりもち"
+        }
+      ]
+    },
+    {
+      "slug": "搶槓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搶槓",
+          "reading": "チャンカン"
+        },
+        {
+          "word": "槍槓",
+          "reading": "チャンカン"
+        }
+      ]
+    },
+    {
+      "slug": "槍玉に上がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍玉に上がる",
+          "reading": "やりだまにあがる"
+        },
+        {
+          "word": "槍玉にあがる",
+          "reading": "やりだまにあがる"
+        },
+        {
+          "word": "やり玉に上がる",
+          "reading": "やりだまにあがる"
+        },
+        {
+          "word": "やり玉にあがる",
+          "reading": "やりだまにあがる"
+        },
+        {
+          "word": "槍玉に挙がる",
+          "reading": "やりだまにあがる"
+        },
+        {
+          "word": "やり玉に挙がる",
+          "reading": "やりだまにあがる"
+        }
+      ]
+    },
+    {
+      "slug": "槍玉に挙げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍玉に挙げる",
+          "reading": "やりだまにあげる"
+        },
+        {
+          "word": "槍玉にあげる",
+          "reading": "やりだまにあげる"
+        },
+        {
+          "word": "槍玉に上げる",
+          "reading": "やりだまにあげる"
+        }
+      ]
+    },
+    {
+      "slug": "槍兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍兵",
+          "reading": "そうへい"
+        }
+      ]
+    },
+    {
+      "slug": "槍が降っても",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍が降っても",
+          "reading": "やりがふっても"
+        }
+      ]
+    },
+    {
+      "slug": "槍を振るう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "槍を振るう",
+          "reading": "やりをふるう"
+        }
+      ]
+    }
   ]
 }

@@ -41,7 +41,7 @@
         "condition",
         "état",
         "apparence",
-        "forme (d\u0027un verbe)"
+        "forme (d'un verbe)"
       ]
     },
     {
@@ -99,6 +99,171 @@
       "radical": "心",
       "startStroke": 10,
       "strokes": 4
+    }
+  ],
+  "sentences": [
+    {
+      "content": "態度に気を付けて。",
+      "furigana": "[態度|たい|ど]に[気|き]を[付|つ]けて。",
+      "translation_zh_CN": "规矩点。"
+    },
+    {
+      "content": "態度に気を付けなさい。",
+      "furigana": "[態度|たい|ど]に[気|き]を[付|つ]けなさい。",
+      "translation_zh_CN": "规矩点。"
+    },
+    {
+      "content": "事態は非常に深刻である。",
+      "furigana": "[事態|じ|たい]は[非常|ひ|じょう]に[深刻|しん|こく]である。",
+      "translation_zh_CN": "情況非常嚴重。"
+    },
+    {
+      "content": "彼女の態度にはうんざりだ。",
+      "furigana": "[彼女|かの|じょ]の[態度|たい|ど]にはうんざりだ。",
+      "translation_zh_CN": "她的态度让我恶心。"
+    },
+    {
+      "content": "彼に対する態度が変わった。",
+      "furigana": "[彼|かれ]に[対|たい]する[態度|たい|ど]が[変|か]わった。",
+      "translation_zh_CN": "我对他的态度变了。"
+    },
+    {
+      "content": "彼への私の態度は変わった。",
+      "furigana": "[彼|かれ]への[私|わたし]の[態度|たい|ど]は[変|か]わった。",
+      "translation_zh_CN": "我对他的态度变了。"
+    },
+    {
+      "content": "彼は今、寝たきりの状態だ。",
+      "furigana": "[彼|かれ]は[今|いま]、[寝|ね]たきりの[状態|じょう|たい]だ。",
+      "translation_zh_CN": "他现在卧床不起。"
+    },
+    {
+      "content": "事態は一刻の猶予も許さない。",
+      "furigana": "[事態|じ|たい]は[一刻|いっ|こく]の[猶予|ゆう|よ]も[許|ゆる]さない。",
+      "translation_zh_CN": "一刻也不浪費。"
+    },
+    {
+      "content": "最悪の事態に備えるべきです。",
+      "furigana": "[最悪|さい|あく]の[事態|じ|たい]に[備|そな]えるべきです。",
+      "translation_zh_CN": "你应该作最坏的准备。"
+    },
+    {
+      "content": "最悪の事態は覚悟しています。",
+      "furigana": "[最悪|さい|あく]の[事態|じ|たい]は[覚悟|かく|ご]しています。",
+      "translation_zh_CN": "我們已經做好了最壞的準備。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "態度",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "態度",
+          "reading": "たいど"
+        }
+      ]
+    },
+    {
+      "slug": "態と",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "態と",
+          "reading": "わざと"
+        }
+      ]
+    },
+    {
+      "slug": "態勢",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "態勢",
+          "reading": "たいせい"
+        }
+      ]
+    },
+    {
+      "slug": "態々",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "態々",
+          "reading": "わざわざ"
+        },
+        {
+          "word": "態態",
+          "reading": "わざわざ"
+        }
+      ]
+    },
+    {
+      "slug": "態とらしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "態とらしい",
+          "reading": "わざとらしい"
+        }
+      ]
+    },
+    {
+      "slug": "態度を取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "態度を取る",
+          "reading": "たいどをとる"
+        },
+        {
+          "word": "態度をとる",
+          "reading": "たいどをとる"
+        }
+      ]
+    },
+    {
+      "slug": "態度が大きい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "態度が大きい",
+          "reading": "たいどがおおきい"
+        }
+      ]
+    },
+    {
+      "slug": "態度物腰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "態度物腰",
+          "reading": "たいどものごし"
+        }
+      ]
+    },
+    {
+      "slug": "体様",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "態様",
+          "reading": "たいよう"
+        },
+        {
+          "word": "体様",
+          "reading": "たいよう"
+        }
+      ]
     }
   ]
 }

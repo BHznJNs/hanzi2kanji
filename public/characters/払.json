@@ -72,5 +72,329 @@
       "startStroke": 3,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "僕が払っとこう。",
+      "furigana": "[僕|ぼく]が[払|はら]っとこう。",
+      "translation_zh_CN": "我來付錢。"
+    },
+    {
+      "content": "彼は咳払いをした。",
+      "furigana": "[彼|かれ]は[咳払|せき|ばら]いをした。",
+      "translation_zh_CN": "他清了清喉嚨。"
+    },
+    {
+      "content": "私が払いましょう。",
+      "furigana": "[私|わたし]が[払|はら]いましょう。",
+      "translation_zh_CN": "我來付錢。"
+    },
+    {
+      "content": "いくら払いましたか？",
+      "furigana": "いくら[払|はら]いましたか？",
+      "translation_zh_CN": "您付了多少钱？"
+    },
+    {
+      "content": "私は彼に金を払った。",
+      "furigana": "[私|わたし]は[彼|かれ]に[金|かね]を[払|はら]った。",
+      "translation_zh_CN": "我付了他钱。"
+    },
+    {
+      "content": "お金は彼に払ったよ。",
+      "furigana": "お[金|かね]は[彼|かれ]に[払|はら]ったよ。",
+      "translation_zh_CN": "我付了他钱。"
+    },
+    {
+      "content": "トムは酔っ払ってる。",
+      "furigana": "トムは[酔|よ]っ[払|ぱら]ってる。",
+      "translation_zh_CN": "汤姆醉了。"
+    },
+    {
+      "content": "彼はひどく酔っ払った。",
+      "furigana": "[彼|かれ]はひどく[酔|よ]っ[払|ぱら]った。",
+      "translation_zh_CN": "他喝得酩酊大醉。"
+    },
+    {
+      "content": "カードで支払えますか。",
+      "furigana": "カードで[支払|し|はら]えますか。",
+      "translation_zh_CN": "我可以用信用卡付帳嗎?"
+    },
+    {
+      "content": "新しいＣＤに３０００円払った。",
+      "furigana": "[新|あたら]しい[ＣＤ|シーディー]に[３０００円|さんぜんえん][払|はら]った。",
+      "translation_zh_CN": "我花了3000日元買了一張新的CD。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "払う",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "払う",
+          "reading": "はらう"
+        },
+        {
+          "word": "掃う",
+          "reading": "はらう"
+        }
+      ]
+    },
+    {
+      "slug": "払い込む",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "払い込む",
+          "reading": "はらいこむ"
+        }
+      ]
+    },
+    {
+      "slug": "払い戻す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "払い戻す",
+          "reading": "はらいもどす"
+        },
+        {
+          "word": "払戻す",
+          "reading": "はらいもどす"
+        }
+      ]
+    },
+    {
+      "slug": "払い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い",
+          "reading": "はらい"
+        }
+      ]
+    },
+    {
+      "slug": "払い戻し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い戻し",
+          "reading": "はらいもどし"
+        },
+        {
+          "word": "払戻し",
+          "reading": "はらいもどし"
+        },
+        {
+          "word": "払戻",
+          "reading": "はらいもどし"
+        },
+        {
+          "word": "払いもどし",
+          "reading": "はらいもどし"
+        }
+      ]
+    },
+    {
+      "slug": "払い除ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払いのける",
+          "reading": "はらいのける"
+        },
+        {
+          "word": "払い除ける",
+          "reading": "はらいのける"
+        },
+        {
+          "word": "払い退ける",
+          "reading": "はらいのける"
+        }
+      ]
+    },
+    {
+      "slug": "払拭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払拭",
+          "reading": "ふっしょく"
+        },
+        {
+          "word": "払しょく",
+          "reading": "ふっしょく"
+        },
+        {
+          "word": "払拭",
+          "reading": "ふっしき"
+        }
+      ]
+    },
+    {
+      "slug": "払い下げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い下げ",
+          "reading": "はらいさげ"
+        }
+      ]
+    },
+    {
+      "slug": "払い下げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い下げる",
+          "reading": "はらいさげる"
+        }
+      ]
+    },
+    {
+      "slug": "払い落とす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い落とす",
+          "reading": "はらいおとす"
+        }
+      ]
+    },
+    {
+      "slug": "払子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払子",
+          "reading": "ほっす"
+        }
+      ]
+    },
+    {
+      "slug": "払い下げ品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い下げ品",
+          "reading": "はらいさげひん"
+        }
+      ]
+    },
+    {
+      "slug": "払いきる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払いきる",
+          "reading": "はらいきる"
+        },
+        {
+          "word": "払い切る",
+          "reading": "はらいきる"
+        }
+      ]
+    },
+    {
+      "slug": "払い出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い出す",
+          "reading": "はらいだす"
+        },
+        {
+          "word": "払出す",
+          "reading": "はらいだす"
+        }
+      ]
+    },
+    {
+      "slug": "払い出し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い出し",
+          "reading": "はらいだし"
+        },
+        {
+          "word": "払出し",
+          "reading": "はらいだし"
+        }
+      ]
+    },
+    {
+      "slug": "払い物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い物",
+          "reading": "はらいもの"
+        }
+      ]
+    },
+    {
+      "slug": "払い込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い込み",
+          "reading": "はらいこみ"
+        },
+        {
+          "word": "払込み",
+          "reading": "はらいこみ"
+        },
+        {
+          "word": "払込",
+          "reading": "はらいこみ"
+        }
+      ]
+    },
+    {
+      "slug": "払い超",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払い超",
+          "reading": "はらいちょう"
+        }
+      ]
+    },
+    {
+      "slug": "払戻金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払戻金",
+          "reading": "はらいもどしきん"
+        },
+        {
+          "word": "払い戻し金",
+          "reading": "はらいもどしきん"
+        }
+      ]
+    },
+    {
+      "slug": "払い過ぎ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "払いすぎ",
+          "reading": "はらいすぎ"
+        },
+        {
+          "word": "払い過ぎ",
+          "reading": "はらいすぎ"
+        }
+      ]
+    }
   ]
 }

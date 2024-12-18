@@ -93,5 +93,293 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は市長選に立つだろう。",
+      "furigana": "[彼|かれ]は[市長選|し|ちょう|せん]に[立|た]つだろう。",
+      "translation_zh_CN": "他将竞选市长。"
+    },
+    {
+      "content": "市長選は４年ごとに行われる。",
+      "furigana": "[市長選|し|ちょう|せん]は[４年|よ|ねん]ごとに[行|おこな]われる。",
+      "translation_zh_CN": "市长选举每四年举行一次。"
+    },
+    {
+      "content": "彼は野球選手だ。",
+      "furigana": "[彼|かれ]は[野球|や|きゅう][選手|せん|しゅ]だ。",
+      "translation_zh_CN": "他是个棒球手。"
+    },
+    {
+      "content": "トムは選択した。",
+      "furigana": "トムは[選択|せん|たく]した。",
+      "translation_zh_CN": "汤姆做出了选择。"
+    },
+    {
+      "content": "好きなの選んで。",
+      "furigana": "[好|す]きなの[選|えら]んで。",
+      "translation_zh_CN": "选喜欢的。"
+    },
+    {
+      "content": "好きなの選んでよ。",
+      "furigana": "[好|す]きなの[選|えら]んでよ。",
+      "translation_zh_CN": "拿你想要的。"
+    },
+    {
+      "content": "彼は野球の選手です。",
+      "furigana": "[彼|かれ]は[野球|や|きゅう]の[選手|せん|しゅ]です。",
+      "translation_zh_CN": "他是个棒球手。"
+    },
+    {
+      "content": "彼は市長に選ばれた。",
+      "furigana": "[彼|かれ]は[市長|し|ちょう]に[選|えら]ばれた。",
+      "translation_zh_CN": "他被选为市长。"
+    },
+    {
+      "content": "彼は議長に選ばれた。",
+      "furigana": "[彼|かれ]は[議長|ぎ|ちょう]に[選|えら]ばれた。",
+      "translation_zh_CN": "他被选为总统。"
+    },
+    {
+      "content": "金を選ぶべきだった。",
+      "furigana": "[金|きん]を[選|えら]ぶべきだった。",
+      "translation_zh_CN": "我應該拿那些錢的。"
+    },
+    {
+      "content": "君は選ぶ必要がある。",
+      "furigana": "[君|きみ]は[選|えら]ぶ[必要|ひつ|よう]がある。",
+      "translation_zh_CN": "你必須做選擇。"
+    },
+    {
+      "content": "トムが選ばれたんだ。",
+      "furigana": "トムが[選|えら]ばれたんだ。",
+      "translation_zh_CN": "汤姆被选中了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "選ぶ",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "選ぶ",
+          "reading": "えらぶ"
+        },
+        {
+          "word": "撰ぶ",
+          "reading": "えらぶ"
+        },
+        {
+          "word": "択ぶ",
+          "reading": "えらぶ"
+        }
+      ]
+    },
+    {
+      "slug": "選挙",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "選挙",
+          "reading": "せんきょ"
+        }
+      ]
+    },
+    {
+      "slug": "選手",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "選手",
+          "reading": "せんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "選択",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "選択",
+          "reading": "せんたく"
+        },
+        {
+          "word": "選択",
+          "reading": "せんだく"
+        }
+      ]
+    },
+    {
+      "slug": "選考",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "選考",
+          "reading": "せんこう"
+        },
+        {
+          "word": "銓衡",
+          "reading": "せんこう"
+        }
+      ]
+    },
+    {
+      "slug": "選手権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選手権",
+          "reading": "せんしゅけん"
+        }
+      ]
+    },
+    {
+      "slug": "選出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選出",
+          "reading": "せんしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "選挙権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選挙権",
+          "reading": "せんきょけん"
+        }
+      ]
+    },
+    {
+      "slug": "選挙戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選挙戦",
+          "reading": "せんきょせん"
+        }
+      ]
+    },
+    {
+      "slug": "選別",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選別",
+          "reading": "せんべつ"
+        }
+      ]
+    },
+    {
+      "slug": "選択肢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選択肢",
+          "reading": "せんたくし"
+        }
+      ]
+    },
+    {
+      "slug": "選抜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選抜",
+          "reading": "せんばつ"
+        }
+      ]
+    },
+    {
+      "slug": "選定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選定",
+          "reading": "せんてい"
+        }
+      ]
+    },
+    {
+      "slug": "選挙運動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選挙運動",
+          "reading": "せんきょうんどう"
+        }
+      ]
+    },
+    {
+      "slug": "選び出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選び出す",
+          "reading": "えらびだす"
+        }
+      ]
+    },
+    {
+      "slug": "選集",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選集",
+          "reading": "せんしゅう"
+        },
+        {
+          "word": "撰集",
+          "reading": "せんしゅう"
+        },
+        {
+          "word": "撰集",
+          "reading": "せんじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "選曲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選曲",
+          "reading": "せんきょく"
+        }
+      ]
+    },
+    {
+      "slug": "選択科目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選択科目",
+          "reading": "せんたくかもく"
+        }
+      ]
+    },
+    {
+      "slug": "選挙区",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "選挙区",
+          "reading": "せんきょく"
+        }
+      ]
+    }
   ]
 }

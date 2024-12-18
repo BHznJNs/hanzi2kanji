@@ -84,5 +84,333 @@
       "startStroke": 6,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "これ変？",
+      "furigana": "これ[変|へん]？",
+      "translation_zh_CN": "这很奇怪吗？"
+    },
+    {
+      "content": "変じゃない？",
+      "furigana": "[変|へん]じゃない？",
+      "translation_zh_CN": "是不是很奇怪？"
+    },
+    {
+      "content": "変ね。",
+      "furigana": "[変|へん]ね。",
+      "translation_zh_CN": "这很奇怪。"
+    },
+    {
+      "content": "変だなあ。",
+      "furigana": "[変|へん]だなあ。",
+      "translation_zh_CN": "这很奇怪。"
+    },
+    {
+      "content": "変なの！",
+      "furigana": "[変|へん]なの！",
+      "translation_zh_CN": "太奇怪了！"
+    },
+    {
+      "content": "変ですね。",
+      "furigana": "[変|へん]ですね。",
+      "translation_zh_CN": "这很奇怪。"
+    },
+    {
+      "content": "変な奴！",
+      "furigana": "[変|へん]な[奴|やつ]！",
+      "translation_zh_CN": "奇怪的家伙！"
+    },
+    {
+      "content": "めっちゃ変！",
+      "furigana": "めっちゃ[変|へん]！",
+      "translation_zh_CN": "太奇怪了！"
+    },
+    {
+      "content": "変な天気！",
+      "furigana": "[変|へん]な[天気|てん|き]！",
+      "translation_zh_CN": "奇怪的天气！"
+    },
+    {
+      "content": "変なやつ。",
+      "furigana": "[変|へん]なやつ。",
+      "translation_zh_CN": "有什么奇怪的。"
+    },
+    {
+      "content": "彼は時々変です。",
+      "furigana": "[彼|かれ]は[時々|ときどき][変|へん]です。",
+      "translation_zh_CN": "他有时候很奇怪。"
+    },
+    {
+      "content": "今日は大変寒い。",
+      "furigana": "[今日|きょう]は[大変|たい|へん][寒|さむ]い。",
+      "translation_zh_CN": "今天超級冷。"
+    },
+    {
+      "content": "何も変わらない。",
+      "furigana": "[何|なに]も[変|か]わらない。",
+      "translation_zh_CN": "這樣做的話什麼都不會改變的。"
+    },
+    {
+      "content": "何か変わりはない？",
+      "furigana": "[何|なに]か[変|か]わりはない？",
+      "translation_zh_CN": "有什么新鲜事吗？"
+    },
+    {
+      "content": "そんなに変わった？",
+      "furigana": "そんなに[変|か]わった？",
+      "translation_zh_CN": "我变了这么多吗？"
+    },
+    {
+      "content": "変わりはないかい。",
+      "furigana": "[変|か]わりはないかい。",
+      "translation_zh_CN": "有什么新鲜事吗？"
+    },
+    {
+      "content": "変なこと言うなよ。",
+      "furigana": "[変|へん]なこと[言|い]うなよ。",
+      "translation_zh_CN": "别胡说。"
+    },
+    {
+      "content": "彼女は大変忙しい。",
+      "furigana": "[彼女|かの|じょ]は[大変|たい|へん][忙|いそが]しい。",
+      "translation_zh_CN": "她很忙。"
+    },
+    {
+      "content": "彼は決心を変えた。",
+      "furigana": "[彼|かれ]は[決心|けっ|しん]を[変|か]えた。",
+      "translation_zh_CN": "他改变想法了。"
+    },
+    {
+      "content": "彼は変わった人だ。",
+      "furigana": "[彼|かれ]は[変|か]わった[人|ひと]だ。",
+      "translation_zh_CN": "他的性情古怪。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "変わる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "変わる",
+          "reading": "かわる"
+        },
+        {
+          "word": "変る",
+          "reading": "かわる"
+        }
+      ]
+    },
+    {
+      "slug": "変える",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "変える",
+          "reading": "かえる"
+        }
+      ]
+    },
+    {
+      "slug": "変化",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "変化",
+          "reading": "へんか"
+        }
+      ]
+    },
+    {
+      "slug": "変更",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "変更",
+          "reading": "へんこう"
+        }
+      ]
+    },
+    {
+      "slug": "変動",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "変動",
+          "reading": "へんどう"
+        }
+      ]
+    },
+    {
+      "slug": "変革",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "変革",
+          "reading": "へんかく"
+        }
+      ]
+    },
+    {
+      "slug": "変遷",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "変遷",
+          "reading": "へんせん"
+        }
+      ]
+    },
+    {
+      "slug": "変装",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変装",
+          "reading": "へんそう"
+        }
+      ]
+    },
+    {
+      "slug": "変数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変数",
+          "reading": "へんすう"
+        }
+      ]
+    },
+    {
+      "slug": "変換",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変換",
+          "reading": "へんかん"
+        }
+      ]
+    },
+    {
+      "slug": "変わった",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変わった",
+          "reading": "かわった"
+        }
+      ]
+    },
+    {
+      "slug": "変形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変形",
+          "reading": "へんけい"
+        }
+      ]
+    },
+    {
+      "slug": "変身",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変身",
+          "reading": "へんしん"
+        }
+      ]
+    },
+    {
+      "slug": "変貌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変貌",
+          "reading": "へんぼう"
+        }
+      ]
+    },
+    {
+      "slug": "変更届",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変更届",
+          "reading": "へんこうとどけ"
+        },
+        {
+          "word": "変更届け",
+          "reading": "へんこうとどけ"
+        }
+      ]
+    },
+    {
+      "slug": "変わり者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変わり者",
+          "reading": "かわりもの"
+        },
+        {
+          "word": "変り者",
+          "reading": "かわりもの"
+        },
+        {
+          "word": "変りもの",
+          "reading": "かわりもの"
+        }
+      ]
+    },
+    {
+      "slug": "変人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変人",
+          "reading": "へんじん"
+        },
+        {
+          "word": "偏人",
+          "reading": "へんじん"
+        }
+      ]
+    },
+    {
+      "slug": "変色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変色",
+          "reading": "へんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "変心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "変心",
+          "reading": "へんしん"
+        }
+      ]
+    }
   ]
 }

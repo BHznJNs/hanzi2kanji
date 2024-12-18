@@ -136,5 +136,276 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "来月、ジョンとジルの結婚の儀が執り行われます。",
+      "furigana": "[来月|らい|げつ]、ジョンとジルの[結婚|けっ|こん]の[儀|ぎ]が[執|と]り[行|おこな]われます。",
+      "translation_zh_CN": "约翰和吉尔的婚礼将于下个月举行。"
+    },
+    {
+      "content": "行儀よくしなさい。",
+      "furigana": "[行儀|ぎょう|ぎ]よくしなさい。",
+      "translation_zh_CN": "规矩点。"
+    },
+    {
+      "content": "礼儀正しくしなさい。",
+      "furigana": "[礼儀|れい|ぎ][正|ただ]しくしなさい。",
+      "translation_zh_CN": "规矩点。"
+    },
+    {
+      "content": "トムは礼儀知らずだ。",
+      "furigana": "トムは[礼儀|れい|ぎ][知|し]らずだ。",
+      "translation_zh_CN": "Tom没有礼貌。"
+    },
+    {
+      "content": "お行儀良くしなさい。",
+      "furigana": "お[行儀|ぎょう|ぎ][良|よ]くしなさい。",
+      "translation_zh_CN": "规矩点。"
+    },
+    {
+      "content": "お行儀よくしなさい。",
+      "furigana": "お[行儀|ぎょう|ぎ]よくしなさい。",
+      "translation_zh_CN": "规矩点。"
+    },
+    {
+      "content": "彼女はとても行儀がよい。",
+      "furigana": "[彼女|かの|じょ]はとても[行儀|ぎょう|ぎ]がよい。",
+      "translation_zh_CN": "她很有礼貌。"
+    },
+    {
+      "content": "私は彼の葬儀に参加した。",
+      "furigana": "[私|わたし]は[彼|かれ]の[葬儀|そう|ぎ]に[参加|さん|か]した。",
+      "translation_zh_CN": "我參加了他的葬禮。"
+    },
+    {
+      "content": "今日は行儀よくしていたかい。",
+      "furigana": "[今日|きょう]は[行儀|ぎょう|ぎ]よくしていたかい。",
+      "translation_zh_CN": "你今天乖嗎？"
+    },
+    {
+      "content": "彼は私をまるで他人行儀に扱う。",
+      "furigana": "[彼|かれ]は[私|わたし]をまるで[他人行儀|た|にん|ぎょう|ぎ]に[扱|あつか]う。",
+      "translation_zh_CN": "他把我當成陌生人來看待。"
+    },
+    {
+      "content": "それはとても伝統的な儀式だった。",
+      "furigana": "それはとても[伝統|でん|とう][的|てき]な[儀式|ぎ|しき]だった。",
+      "translation_zh_CN": "那是一個十分傳統的儀式。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "儀式",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "儀式",
+          "reading": "ぎしき"
+        }
+      ]
+    },
+    {
+      "slug": "儀礼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀礼",
+          "reading": "ぎれい"
+        }
+      ]
+    },
+    {
+      "slug": "儀典",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀典",
+          "reading": "ぎてん"
+        }
+      ]
+    },
+    {
+      "slug": "儀礼的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀礼的",
+          "reading": "ぎれいてき"
+        }
+      ]
+    },
+    {
+      "slug": "儀礼文化学会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀礼文化学会",
+          "reading": "ぎれいぶんかがっかい"
+        }
+      ]
+    },
+    {
+      "slug": "儀刑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀刑",
+          "reading": "ぎけい"
+        },
+        {
+          "word": "儀型",
+          "reading": "ぎけい"
+        },
+        {
+          "word": "儀形",
+          "reading": "ぎけい"
+        }
+      ]
+    },
+    {
+      "slug": "儀宸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀宸",
+          "reading": "ぎしん"
+        }
+      ]
+    },
+    {
+      "slug": "儀礼刀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀礼刀",
+          "reading": "ぎれいとう"
+        }
+      ]
+    },
+    {
+      "slug": "儀容",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀容",
+          "reading": "ぎよう"
+        }
+      ]
+    },
+    {
+      "slug": "儀式主義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀式主義",
+          "reading": "ぎしきしゅぎ"
+        }
+      ]
+    },
+    {
+      "slug": "儀仗隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀仗隊",
+          "reading": "ぎじょうたい"
+        },
+        {
+          "word": "儀杖隊",
+          "reading": "ぎじょうたい"
+        }
+      ]
+    },
+    {
+      "slug": "儀典長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀典長",
+          "reading": "ぎてんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "儀式張る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀式張る",
+          "reading": "ぎしきばる"
+        }
+      ]
+    },
+    {
+      "slug": "儀礼兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀礼兵",
+          "reading": "ぎれいへい"
+        }
+      ]
+    },
+    {
+      "slug": "儀仗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀仗",
+          "reading": "ぎじょう"
+        },
+        {
+          "word": "儀杖",
+          "reading": "ぎじょう"
+        }
+      ]
+    },
+    {
+      "slug": "儀式用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀式用",
+          "reading": "ぎしきよう"
+        }
+      ]
+    },
+    {
+      "slug": "儀仗兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀仗兵",
+          "reading": "ぎじょうへい"
+        },
+        {
+          "word": "儀杖兵",
+          "reading": "ぎじょうへい"
+        }
+      ]
+    },
+    {
+      "slug": "儀刀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀刀",
+          "reading": "ぎとう"
+        }
+      ]
+    },
+    {
+      "slug": "儀式的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儀式的",
+          "reading": "ぎしきてき"
+        }
+      ]
+    }
   ]
 }

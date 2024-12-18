@@ -95,5 +95,318 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "蜘蛛が巣を張った。",
+      "furigana": "[蜘蛛|くも]が[巣|す]を[張|は]った。",
+      "translation_zh_CN": "蜘蛛结了一张网。"
+    },
+    {
+      "content": "蜘蛛は巣を張る。",
+      "furigana": "[蜘蛛|くも]は[巣|す]を[張|は]る。",
+      "translation_zh_CN": "蜘蛛结网。"
+    },
+    {
+      "content": "それを巣に戻しなさい。",
+      "furigana": "それを[巣|す]に[戻|もど]しなさい。",
+      "translation_zh_CN": "把它带回巢穴。"
+    },
+    {
+      "content": "巣に返してあげて。",
+      "furigana": "[巣|す]に[返|かえ]してあげて。",
+      "translation_zh_CN": "把它送回巢穴。"
+    },
+    {
+      "content": "大きな蜘蛛が巣を作っていた。",
+      "furigana": "[大|おお]きな[蜘蛛|くも]が[巣|す]を[作|つく]っていた。",
+      "translation_zh_CN": "一只大蜘蛛正在结网。"
+    },
+    {
+      "content": "クモは巣を張りたがる。",
+      "furigana": "クモは[巣|す]を[張|は]りたがる。",
+      "translation_zh_CN": "蜘蛛喜欢结网。"
+    },
+    {
+      "content": "鳥は巣をつくる。",
+      "furigana": "[鳥|とり]は[巣|す]をつくる。",
+      "translation_zh_CN": "鸟儿筑巢。"
+    },
+    {
+      "content": "鳥は巣作りをする。",
+      "furigana": "[鳥|とり]は[巣作|す|づく]りをする。",
+      "translation_zh_CN": "鸟儿筑巢。"
+    },
+    {
+      "content": "世界は奇人の巣だ。",
+      "furigana": "[世界|せ|かい]は[奇人|き|じん]の[巣|す]だ。",
+      "translation_zh_CN": "世界是一群陌生的人。"
+    },
+    {
+      "content": "燕は泥で巣を作ります。",
+      "furigana": "[燕|つばめ]は[泥|どろ]で[巣|す]を[作|つく]ります。",
+      "translation_zh_CN": "燕子用泥土筑巢。"
+    },
+    {
+      "content": "空巣にやられた。",
+      "furigana": "[空巣|あき|す]にやられた。",
+      "translation_zh_CN": "我们走开的时候，房子被盗窃了。"
+    },
+    {
+      "content": "鳥は巣をつくる。",
+      "furigana": "[鳥|とり]は[巣|す]をつくる。",
+      "translation_zh_CN": "鸟儿筑巢。"
+    },
+    {
+      "content": "世界は奇人の巣だ。",
+      "furigana": "[世界|せ|かい]は[奇人|き|じん]の[巣|す]だ。",
+      "translation_zh_CN": "世界就是一个疯子的囚笼。"
+    },
+    {
+      "content": "鳥は巣作りをする。",
+      "furigana": "[鳥|とり]は[巣|す][作|づく]りをする。",
+      "translation_zh_CN": "鸟儿筑巢。"
+    },
+    {
+      "content": "クモは巣を張りたがる。",
+      "furigana": "クモは[巣|す]を[張|は]りたがる。",
+      "translation_zh_CN": "蜘蛛喜欢织网。"
+    },
+    {
+      "content": "空き巣に入られたんだ。",
+      "furigana": "[空|あ]き[巣|す]に[入|はい]られたんだ。",
+      "translation_zh_CN": "我们走开的时候，房子被盗窃了。"
+    },
+    {
+      "content": "子供はいつか巣立って行くんだよね。",
+      "furigana": "[子供|こ|ども]はいつか[巣立|す|だ]って[行|い]くんだよね。",
+      "translation_zh_CN": "总有一天孩子们会离开自己的小窝。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "巣食う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣食う",
+          "reading": "すくう"
+        },
+        {
+          "word": "巣くう",
+          "reading": "すくう"
+        }
+      ]
+    },
+    {
+      "slug": "巣作り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣作り",
+          "reading": "すづくり"
+        }
+      ]
+    },
+    {
+      "slug": "巣箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣箱",
+          "reading": "すばこ"
+        }
+      ]
+    },
+    {
+      "slug": "巣立つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣立つ",
+          "reading": "すだつ"
+        }
+      ]
+    },
+    {
+      "slug": "巣立ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣立ち",
+          "reading": "すだち"
+        }
+      ]
+    },
+    {
+      "slug": "巣穴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣穴",
+          "reading": "すあな"
+        },
+        {
+          "word": "巣孔",
+          "reading": "すあな"
+        },
+        {
+          "word": "巣穴",
+          "reading": "そうけつ"
+        }
+      ]
+    },
+    {
+      "slug": "巣隠れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣隠れ",
+          "reading": "すがくれ"
+        }
+      ]
+    },
+    {
+      "slug": "巣雛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣雛",
+          "reading": "すひな"
+        },
+        {
+          "word": "巣雛",
+          "reading": "すびな"
+        }
+      ]
+    },
+    {
+      "slug": "巣ごもり需要",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣ごもり需要",
+          "reading": "すごもりじゅよう"
+        }
+      ]
+    },
+    {
+      "slug": "巣替え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣替え",
+          "reading": "すがえ"
+        },
+        {
+          "word": "巣換え",
+          "reading": "すがえ"
+        }
+      ]
+    },
+    {
+      "slug": "巣鶏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣鶏",
+          "reading": "すどり"
+        }
+      ]
+    },
+    {
+      "slug": "巣引き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣引き",
+          "reading": "すびき"
+        }
+      ]
+    },
+    {
+      "slug": "巣ごもり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣ごもり",
+          "reading": "すごもり"
+        },
+        {
+          "word": "巣篭もり",
+          "reading": "すごもり"
+        },
+        {
+          "word": "巣籠もり",
+          "reading": "すごもり"
+        },
+        {
+          "word": "巣篭り",
+          "reading": "すごもり"
+        },
+        {
+          "word": "巣籠り",
+          "reading": "すごもり"
+        }
+      ]
+    },
+    {
+      "slug": "巣ごもり消費",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣ごもり消費",
+          "reading": "すごもりしょうひ"
+        },
+        {
+          "word": "巣籠もり消費",
+          "reading": "すごもりしょうひ"
+        }
+      ]
+    },
+    {
+      "slug": "巣離れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣離れ",
+          "reading": "すばなれ"
+        }
+      ]
+    },
+    {
+      "slug": "巣窟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣窟",
+          "reading": "そうくつ"
+        }
+      ]
+    },
+    {
+      "slug": "巣籠る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣籠る",
+          "reading": "すごもる"
+        },
+        {
+          "word": "巣ごもる",
+          "reading": "すごもる"
+        }
+      ]
+    },
+    {
+      "slug": "巣をくう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巣をくう",
+          "reading": "すをくう"
+        }
+      ]
+    }
   ]
 }

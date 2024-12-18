@@ -93,5 +93,273 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は営業部の部長です。",
+      "furigana": "[彼|かれ]は[営業|えい|ぎょう][部|ぶ]の[部長|ぶ|ちょう]です。",
+      "translation_zh_CN": "他是营销部的负责人。"
+    },
+    {
+      "content": "日曜日は営業してますか？",
+      "furigana": "[日曜日|にち|よう|び]は[営業|えい|ぎょう]してますか？",
+      "translation_zh_CN": "星期日营业吗？"
+    },
+    {
+      "content": "営業時間を教えてください。",
+      "furigana": "[営業|えい|ぎょう][時間|じ|かん]を[教|おし]えてください。",
+      "translation_zh_CN": "请告诉我营业时间。"
+    },
+    {
+      "content": "おじはホテルを経営している。",
+      "furigana": "おじはホテルを[経営|けい|えい]している。",
+      "translation_zh_CN": "我叔叔開旅館。"
+    },
+    {
+      "content": "父はレストランを経営している。",
+      "furigana": "[父|ちち]はレストランを[経営|けい|えい]している。",
+      "translation_zh_CN": "我的父親經營一家餐館。"
+    },
+    {
+      "content": "彼は町でスーパーを経営している。",
+      "furigana": "[彼|かれ]は[町|まち]でスーパーを[経営|けい|えい]している。",
+      "translation_zh_CN": "他在這個鎮上經營一家超級市場。"
+    },
+    {
+      "content": "その会社は外国人が経営している。",
+      "furigana": "その[会社|かい|しゃ]は[外国|がい|こく][人|じん]が[経営|けい|えい]している。",
+      "translation_zh_CN": "這家公司由一個外國人經營。"
+    },
+    {
+      "content": "両陣営ともに数千人単位の負傷者が出た。",
+      "furigana": "[両|りょう][陣営|じん|えい]ともに[数|すう][千|せん][人|にん][単位|たん|い]の[負傷|ふ|しょう][者|しゃ]が[出|で]た。",
+      "translation_zh_CN": "双方都有几千人受伤。"
+    },
+    {
+      "content": "お父さんはレストランを経営しているのよ。",
+      "furigana": "お[父|とう]さんはレストランを[経営|けい|えい]しているのよ。",
+      "translation_zh_CN": "我的父親經營一家餐館。"
+    },
+    {
+      "content": "そのラーメン屋は夜中でも営業をしている。",
+      "furigana": "そのラーメン[屋|や]は[夜中|よ|なか]でも[営業|えい|ぎょう]をしている。",
+      "translation_zh_CN": "那間拉麵店在半夜也營業"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "営業",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "営業",
+          "reading": "えいぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "栄養",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "栄養",
+          "reading": "えいよう"
+        },
+        {
+          "word": "営養",
+          "reading": "えいよう"
+        }
+      ]
+    },
+    {
+      "slug": "営む",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "営む",
+          "reading": "いとなむ"
+        }
+      ]
+    },
+    {
+      "slug": "営利",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営利",
+          "reading": "えいり"
+        }
+      ]
+    },
+    {
+      "slug": "営み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営み",
+          "reading": "いとなみ"
+        }
+      ]
+    },
+    {
+      "slug": "営業時間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営業時間",
+          "reading": "えいぎょうじかん"
+        }
+      ]
+    },
+    {
+      "slug": "営業部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営業部",
+          "reading": "えいぎょうぶ"
+        }
+      ]
+    },
+    {
+      "slug": "営業活動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営業活動",
+          "reading": "えいぎょうかつどう"
+        }
+      ]
+    },
+    {
+      "slug": "営業員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営業員",
+          "reading": "えいぎょういん"
+        }
+      ]
+    },
+    {
+      "slug": "営業マン",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営業マン",
+          "reading": "えいぎょうマン"
+        }
+      ]
+    },
+    {
+      "slug": "営団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営団",
+          "reading": "えいだん"
+        }
+      ]
+    },
+    {
+      "slug": "営業所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営業所",
+          "reading": "えいぎょうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "営農",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営農",
+          "reading": "えいのう"
+        }
+      ]
+    },
+    {
+      "slug": "営林局",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営林局",
+          "reading": "えいりんきょく"
+        }
+      ]
+    },
+    {
+      "slug": "営営",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営々",
+          "reading": "えいえい"
+        },
+        {
+          "word": "営営",
+          "reading": "えいえい"
+        }
+      ]
+    },
+    {
+      "slug": "営為",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営為",
+          "reading": "えいい"
+        }
+      ]
+    },
+    {
+      "slug": "営巣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営巣",
+          "reading": "えいそう"
+        }
+      ]
+    },
+    {
+      "slug": "営繕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営繕",
+          "reading": "えいぜん"
+        }
+      ]
+    },
+    {
+      "slug": "営林署",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営林署",
+          "reading": "えいりんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "営利事業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "営利事業",
+          "reading": "えいりじぎょう"
+        }
+      ]
+    }
   ]
 }

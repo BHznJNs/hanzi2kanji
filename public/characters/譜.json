@@ -104,5 +104,106 @@
       "startStroke": 15,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "譜面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜面",
+          "reading": "ふめん"
+        }
+      ]
+    },
+    {
+      "slug": "譜めくり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜めくり",
+          "reading": "ふめくり"
+        },
+        {
+          "word": "譜捲り",
+          "reading": "ふめくり"
+        }
+      ]
+    },
+    {
+      "slug": "譜代大名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜代大名",
+          "reading": "ふだいだいみょう"
+        }
+      ]
+    },
+    {
+      "slug": "譜本",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜本",
+          "reading": "ふほん"
+        }
+      ]
+    },
+    {
+      "slug": "譜表",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜表",
+          "reading": "ふひょう"
+        }
+      ]
+    },
+    {
+      "slug": "譜代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜代",
+          "reading": "ふだい"
+        },
+        {
+          "word": "譜第",
+          "reading": "ふだい"
+        }
+      ]
+    },
+    {
+      "slug": "譜読み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜読み",
+          "reading": "ふよみ"
+        }
+      ]
+    },
+    {
+      "slug": "譜面台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜面台",
+          "reading": "ふめんだい"
+        }
+      ]
+    },
+    {
+      "slug": "譜代相伝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "譜代相伝",
+          "reading": "ふだいそうでん"
+        }
+      ]
+    }
   ]
 }

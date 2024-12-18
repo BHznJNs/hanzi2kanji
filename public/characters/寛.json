@@ -44,8 +44,8 @@
         "indulgent",
         "générosité",
         "se sentir chez soi",
-        "être à l\u0027aise",
-        "ouverture d\u0027esprit"
+        "être à l'aise",
+        "ouverture d'esprit"
       ]
     },
     {
@@ -105,6 +105,206 @@
       "radical": "儿",
       "startStroke": 11,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "彼は生来寛大な人だ。",
+      "furigana": "[彼|かれ]は[生来|せい|らい][寛大|かん|だい]な[人|ひと]だ。",
+      "translation_zh_CN": "他生来就是一个大方的人。"
+    },
+    {
+      "content": "姫君は皇帝に寛恕を請いました。",
+      "furigana": "[姫君|ひめ|ぎみ]は[皇帝|こう|てい]に[寛恕|かん|じょ]を[請|こ]いました。",
+      "translation_zh_CN": "公主向皇帝请求饶恕。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "寛容",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "寛容",
+          "reading": "かんよう"
+        }
+      ]
+    },
+    {
+      "slug": "寛大",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛大",
+          "reading": "かんだい"
+        }
+      ]
+    },
+    {
+      "slug": "寛ぐ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛ぐ",
+          "reading": "くつろぐ"
+        }
+      ]
+    },
+    {
+      "slug": "寛げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛げる",
+          "reading": "くつろげる"
+        }
+      ]
+    },
+    {
+      "slug": "寛ぎ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛ぎ",
+          "reading": "くつろぎ"
+        }
+      ]
+    },
+    {
+      "slug": "寛恕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛恕",
+          "reading": "かんじょ"
+        }
+      ]
+    },
+    {
+      "slug": "寛喜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛喜",
+          "reading": "かんぎ"
+        },
+        {
+          "word": "寛喜",
+          "reading": "かんき"
+        }
+      ]
+    },
+    {
+      "slug": "寛正",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛正",
+          "reading": "かんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "寛徳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛徳",
+          "reading": "かんとく"
+        }
+      ]
+    },
+    {
+      "slug": "寛永",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛永",
+          "reading": "かんえい"
+        }
+      ]
+    },
+    {
+      "slug": "寛政",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛政",
+          "reading": "かんせい"
+        }
+      ]
+    },
+    {
+      "slug": "寛弘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛弘",
+          "reading": "かんこう"
+        }
+      ]
+    },
+    {
+      "slug": "寛保",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛保",
+          "reading": "かんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "寛元",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛元",
+          "reading": "かんげん"
+        }
+      ]
+    },
+    {
+      "slug": "寛治",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛治",
+          "reading": "かんじ"
+        }
+      ]
+    },
+    {
+      "slug": "寛政の改革",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛政の改革",
+          "reading": "かんせいのかいかく"
+        }
+      ]
+    },
+    {
+      "slug": "寛仁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛仁",
+          "reading": "かんじん"
+        }
+      ]
+    },
+    {
+      "slug": "寛仁大度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寛仁大度",
+          "reading": "かんじんたいど"
+        }
+      ]
     }
   ]
 }

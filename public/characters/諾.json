@@ -87,5 +87,124 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼はすでに承諾していた。",
+      "furigana": "[彼|かれ]はすでに[承諾|しょう|だく]していた。",
+      "translation_zh_CN": "他已经说了是。"
+    },
+    {
+      "content": "私は彼女の招待を受諾した。",
+      "furigana": "[私|わたし]は[彼女|かの|じょ]の[招待|しょう|たい]を[受諾|じゅ|だく]した。",
+      "translation_zh_CN": "我接受了她的邀請。"
+    },
+    {
+      "content": "私は彼の要求を承諾するだろう。",
+      "furigana": "[私|わたし]は[彼|かれ]の[要求|よう|きゅう]を[承諾|しょう|だく]するだろう。",
+      "translation_zh_CN": "我会接受他的请求。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "諾威",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諾威",
+          "reading": "ノルウェー"
+        }
+      ]
+    },
+    {
+      "slug": "諾否",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諾否",
+          "reading": "だくひ"
+        }
+      ]
+    },
+    {
+      "slug": "諾諾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諾々",
+          "reading": "だくだく"
+        },
+        {
+          "word": "諾諾",
+          "reading": "だくだく"
+        }
+      ]
+    },
+    {
+      "slug": "諾約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諾約",
+          "reading": "だくやく"
+        }
+      ]
+    },
+    {
+      "slug": "諾約者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諾約者",
+          "reading": "だくやくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "諾う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諾う",
+          "reading": "うべなう"
+        },
+        {
+          "word": "肯う",
+          "reading": "うべなう"
+        },
+        {
+          "word": "宜う",
+          "reading": "うべなう"
+        }
+      ]
+    },
+    {
+      "slug": "だく足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "だく足",
+          "reading": "だくあし"
+        },
+        {
+          "word": "跑足",
+          "reading": "だくあし"
+        },
+        {
+          "word": "諾足",
+          "reading": "だくあし"
+        }
+      ]
+    },
+    {
+      "slug": "諾する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諾する",
+          "reading": "だくする"
+        }
+      ]
+    }
   ]
 }

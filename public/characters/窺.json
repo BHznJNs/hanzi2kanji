@@ -88,5 +88,88 @@
       "startStroke": 14,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "覗く",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "覗く",
+          "reading": "のぞく"
+        },
+        {
+          "word": "覘く",
+          "reading": "のぞく"
+        },
+        {
+          "word": "窺く",
+          "reading": "のぞく"
+        },
+        {
+          "word": "臨く",
+          "reading": "のぞく"
+        }
+      ]
+    },
+    {
+      "slug": "窺う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窺う",
+          "reading": "うかがう"
+        },
+        {
+          "word": "覗う",
+          "reading": "うかがう"
+        }
+      ]
+    },
+    {
+      "slug": "うかがい知る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うかがい知る",
+          "reading": "うかがいしる"
+        },
+        {
+          "word": "窺い知る",
+          "reading": "うかがいしる"
+        },
+        {
+          "word": "伺い知る",
+          "reading": "うかがいしる"
+        }
+      ]
+    },
+    {
+      "slug": "窺知",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窺知",
+          "reading": "きち"
+        }
+      ]
+    },
+    {
+      "slug": "窺い探る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窺い探る",
+          "reading": "うかがいさぐる"
+        },
+        {
+          "word": "伺い探る",
+          "reading": "うかがいさぐる"
+        }
+      ]
+    }
   ]
 }

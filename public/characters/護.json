@@ -103,5 +103,275 @@
       "startStroke": 18,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は看護婦です。",
+      "furigana": "[私|わたし]は[看護|かん|ご][婦|ふ]です。",
+      "translation_zh_CN": "我是护士。"
+    },
+    {
+      "content": "私は看護師です。",
+      "furigana": "[私|わたし]は[看護|かん|ご][師|し]です。",
+      "translation_zh_CN": "我是护士。"
+    },
+    {
+      "content": "母は弁護士です。",
+      "furigana": "[母|はは]は[弁護士|べん|ご|し]です。",
+      "translation_zh_CN": "我妈妈是律师。"
+    },
+    {
+      "content": "彼女は看護婦です。",
+      "furigana": "[彼女|かの|じょ]は[看護|かん|ご][婦|ふ]です。",
+      "translation_zh_CN": "她是护士。"
+    },
+    {
+      "content": "彼女は看護師です。",
+      "furigana": "[彼女|かの|じょ]は[看護|かん|ご][師|し]です。",
+      "translation_zh_CN": "她是护士。"
+    },
+    {
+      "content": "私の母は弁護士です。",
+      "furigana": "[私|わたし]の[母|はは]は[弁護士|べん|ご|し]です。",
+      "translation_zh_CN": "我妈妈是律师。"
+    },
+    {
+      "content": "私は看護婦になりたい。",
+      "furigana": "[私|わたし]は[看護|かん|ご][婦|ふ]になりたい。",
+      "translation_zh_CN": "我想当护士"
+    },
+    {
+      "content": "弁護士はみんな嘘つきだ。",
+      "furigana": "[弁護士|べん|ご|し]はみんな[嘘|うそ]つきだ。",
+      "translation_zh_CN": "律师都是骗子。"
+    },
+    {
+      "content": "彼は娘を弁護士に嫁がせた。",
+      "furigana": "[彼|かれ]は[娘|むすめ]を[弁護士|べん|ご|し]に[嫁|とつ]がせた。",
+      "translation_zh_CN": "他把女儿嫁给了一个律师。"
+    },
+    {
+      "content": "弁護士はみんなウソつきだ。",
+      "furigana": "[弁護士|べん|ご|し]はみんなウソつきだ。",
+      "translation_zh_CN": "律师都是骗子。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "守る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "守る",
+          "reading": "まもる"
+        },
+        {
+          "word": "護る",
+          "reading": "まもる"
+        }
+      ]
+    },
+    {
+      "slug": "護謨",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "護謨",
+          "reading": "ゴム"
+        }
+      ]
+    },
+    {
+      "slug": "護衛",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "護衛",
+          "reading": "ごえい"
+        }
+      ]
+    },
+    {
+      "slug": "ゴミ箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ゴミ箱",
+          "reading": "ごみばこ"
+        },
+        {
+          "word": "ごみ箱",
+          "reading": "ごみばこ"
+        },
+        {
+          "word": "護美箱",
+          "reading": "ごみばこ"
+        },
+        {
+          "word": "塵箱",
+          "reading": "ごみばこ"
+        },
+        {
+          "word": "芥箱",
+          "reading": "ごみばこ"
+        }
+      ]
+    },
+    {
+      "slug": "護身術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護身術",
+          "reading": "ごしんじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "護教論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護教論",
+          "reading": "ごきょうろん"
+        }
+      ]
+    },
+    {
+      "slug": "護送",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護送",
+          "reading": "ごそう"
+        }
+      ]
+    },
+    {
+      "slug": "護岸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護岸",
+          "reading": "ごがん"
+        }
+      ]
+    },
+    {
+      "slug": "護国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護国",
+          "reading": "ごこく"
+        }
+      ]
+    },
+    {
+      "slug": "護憲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護憲",
+          "reading": "ごけん"
+        }
+      ]
+    },
+    {
+      "slug": "護持",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護持",
+          "reading": "ごじ"
+        }
+      ]
+    },
+    {
+      "slug": "護身",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護身",
+          "reading": "ごしん"
+        }
+      ]
+    },
+    {
+      "slug": "護摩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護摩",
+          "reading": "ごま"
+        }
+      ]
+    },
+    {
+      "slug": "護送船団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護送船団",
+          "reading": "ごそうせんだん"
+        }
+      ]
+    },
+    {
+      "slug": "護衛駆逐艦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護衛駆逐艦",
+          "reading": "ごえいくちくかん"
+        }
+      ]
+    },
+    {
+      "slug": "護民官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護民官",
+          "reading": "ごみんかん"
+        }
+      ]
+    },
+    {
+      "slug": "護送車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護送車",
+          "reading": "ごそうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "護法善神",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護法善神",
+          "reading": "ごほうぜんじん"
+        }
+      ]
+    },
+    {
+      "slug": "護法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "護法",
+          "reading": "ごほう"
+        }
+      ]
+    }
   ]
 }

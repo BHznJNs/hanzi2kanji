@@ -58,5 +58,44 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "雨ニモマケズ／風ニモマケズ／雪ニモ夏ノ暑サニモマケヌ／丈夫ナカラダヲモチ／慾ハナク／決シテ瞋ラズ／イツモシズカニワラッテイル",
+      "furigana": "[雨|あめ]ニモマケズ／[風|かぜ]ニモマケズ／[雪|ゆき]ニモ[夏|なつ]ノ[暑|あつ]サニモマケヌ／[丈夫|じょう|ぶ]ナカラダヲモチ／[慾|よく]ハナク／[決|けつ]シテ[瞋|いか]ラズ／イツモシズカニワラッテイル",
+      "translation_zh_CN": "雨尼莫 Makezu/风尼莫 Makezu/雪尼莫 Summer Heat Sani Mo Makenu/Hardcore Nakaradawomochi/Hanaku/KetsuteshiteRazu/Itsumoshizu Kaniwarattail"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "欲望",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "欲望",
+          "reading": "よくぼう"
+        },
+        {
+          "word": "慾望",
+          "reading": "よくぼう"
+        }
+      ]
+    },
+    {
+      "slug": "欲深",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲深",
+          "reading": "よくふか"
+        },
+        {
+          "word": "欲深",
+          "reading": "よくぶか"
+        }
+      ]
+    }
   ]
 }

@@ -95,5 +95,48 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "謁見",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謁見",
+          "reading": "えっけん"
+        }
+      ]
+    },
+    {
+      "slug": "謁する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謁する",
+          "reading": "えっする"
+        }
+      ]
+    },
+    {
+      "slug": "謁を賜わる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謁を賜わる",
+          "reading": "えつをたまわる"
+        }
+      ]
+    },
+    {
+      "slug": "謁す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謁す",
+          "reading": "えっす"
+        }
+      ]
+    }
   ]
 }

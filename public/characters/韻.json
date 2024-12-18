@@ -106,5 +106,118 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "韻律",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻律",
+          "reading": "いんりつ"
+        }
+      ]
+    },
+    {
+      "slug": "韻文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻文",
+          "reading": "いんぶん"
+        }
+      ]
+    },
+    {
+      "slug": "韻脚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻脚",
+          "reading": "いんきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "韻母",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻母",
+          "reading": "いんぼ"
+        }
+      ]
+    },
+    {
+      "slug": "韻尾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻尾",
+          "reading": "いんび"
+        }
+      ]
+    },
+    {
+      "slug": "韻書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻書",
+          "reading": "いんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "韻語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻語",
+          "reading": "いんご"
+        }
+      ]
+    },
+    {
+      "slug": "韻字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻字",
+          "reading": "いんじ"
+        }
+      ]
+    },
+    {
+      "slug": "韻律論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻律論",
+          "reading": "いんりつろん"
+        }
+      ]
+    },
+    {
+      "slug": "韻事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻事",
+          "reading": "いんじ"
+        }
+      ]
+    },
+    {
+      "slug": "韻を踏む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "韻を踏む",
+          "reading": "いんをふむ"
+        }
+      ]
+    }
   ]
 }

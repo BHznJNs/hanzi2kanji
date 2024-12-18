@@ -36,7 +36,7 @@
       "lang": "fr",
       "values": [
         "percer",
-        "kan (\u003d 3750 g)",
+        "kan (= 3750 g)",
         "pénétrer",
         "cohérence",
         "soutien (renfort)"
@@ -82,6 +82,208 @@
       "radical": "八",
       "startStroke": 9,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "ある人物が不変の性質で全人生を貫くということは小説の中だけの話だ。",
+      "furigana": "ある[人物|じん|ぶつ]が[不変|ふ|へん]の[性質|せい|しつ]で[全|ぜん][人生|じん|せい]を[貫|つらぬ]くということは[小説|しょう|せつ]の[中|なか]だけの[話|はなし]だ。",
+      "translation_zh_CN": "只有小說人物才會有一輩子不改變的性格。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "貫く",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "貫く",
+          "reading": "つらぬく"
+        }
+      ]
+    },
+    {
+      "slug": "貫禄",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "貫禄",
+          "reading": "かんろく"
+        },
+        {
+          "word": "貫録",
+          "reading": "かんろく"
+        }
+      ]
+    },
+    {
+      "slug": "貫通",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫通",
+          "reading": "かんつう"
+        }
+      ]
+    },
+    {
+      "slug": "貫徹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫徹",
+          "reading": "かんてつ"
+        }
+      ]
+    },
+    {
+      "slug": "貫流",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫流",
+          "reading": "かんりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "貫き通す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫き通す",
+          "reading": "つらぬきとおす"
+        },
+        {
+          "word": "つらぬき通す",
+          "reading": "つらぬきとおす"
+        },
+        {
+          "word": "貫き通す",
+          "reading": "ぬきとおす"
+        }
+      ]
+    },
+    {
+      "slug": "貫生葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫生葉",
+          "reading": "かんせいよう"
+        }
+      ]
+    },
+    {
+      "slug": "貫属",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫属",
+          "reading": "かんぞく"
+        }
+      ]
+    },
+    {
+      "slug": "貫目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫目",
+          "reading": "かんめ"
+        }
+      ]
+    },
+    {
+      "slug": "貫入岩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫入岩",
+          "reading": "かんにゅうがん"
+        }
+      ]
+    },
+    {
+      "slug": "藪蘇鉄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ヤブソテツ"
+        },
+        {
+          "word": "藪蘇鉄",
+          "reading": "やぶそてつ"
+        },
+        {
+          "word": "貫衆",
+          "reading": "やぶそてつ"
+        }
+      ]
+    },
+    {
+      "slug": "貫禄十分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫禄十分",
+          "reading": "かんろくじゅうぶん"
+        }
+      ]
+    },
+    {
+      "slug": "貫禄不足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫禄不足",
+          "reading": "かんろくぶそく"
+        }
+      ]
+    },
+    {
+      "slug": "貫手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫手",
+          "reading": "ぬきて"
+        }
+      ]
+    },
+    {
+      "slug": "貫木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫木",
+          "reading": "かんぎ"
+        }
+      ]
+    },
+    {
+      "slug": "貫入",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫入",
+          "reading": "かんにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "貫板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貫板",
+          "reading": "ぬきいた"
+        }
+      ]
     }
   ]
 }

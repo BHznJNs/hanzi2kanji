@@ -76,5 +76,420 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "あの煙を見て。",
+      "furigana": "あの[煙|けむり]を[見|み]て。",
+      "translation_zh_CN": "看看那烟雾。"
+    },
+    {
+      "content": "煙でむせた。",
+      "furigana": "[煙|けむり]でむせた。",
+      "translation_zh_CN": "我被烟呛到了。"
+    },
+    {
+      "content": "あの煙を見なさい。",
+      "furigana": "あの[煙|けむり]を[見|み]なさい。",
+      "translation_zh_CN": "看看那烟雾。"
+    },
+    {
+      "content": "煙のない火はない。",
+      "furigana": "[煙|けむり]のない[火|ひ]はない。",
+      "translation_zh_CN": "没有烟就没有火。"
+    },
+    {
+      "content": "煙突から煙が立っていた。",
+      "furigana": "[煙突|えん|とつ]から[煙|けむり]が[立|た]っていた。",
+      "translation_zh_CN": "烟从烟囱里冒出来。"
+    },
+    {
+      "content": "煙突から煙が出ている。",
+      "furigana": "[煙突|えん|とつ]から[煙|けむり]が[出|で]ている。",
+      "translation_zh_CN": "烟从烟囱里冒出来。"
+    },
+    {
+      "content": "煙が空へ昇っている。",
+      "furigana": "[煙|けむり]が[空|そら]へ[昇|のぼ]っている。",
+      "translation_zh_CN": "烟雾升腾到天空。"
+    },
+    {
+      "content": "煙は空中へと舞い上がった。",
+      "furigana": "[煙|けむり]は[空中|くう|ちゅう]へと[舞|ま]い[上|あ]がった。",
+      "translation_zh_CN": "烟雾升入空中。"
+    },
+    {
+      "content": "煙が風に吹き流された。",
+      "furigana": "[煙|けむり]が[風|かぜ]に[吹|ふ]き[流|なが]された。",
+      "translation_zh_CN": "烟雾被风吹散了。"
+    },
+    {
+      "content": "煙突から煙がもくもくと出ていた。",
+      "furigana": "[煙突|えん|とつ]から[煙|けむり]がもくもくと[出|で]ていた。",
+      "translation_zh_CN": "烟从烟囱里冒出来。"
+    },
+    {
+      "content": "彼女は禁煙した。",
+      "furigana": "[彼女|かの|じょ]は[禁煙|きん|えん]した。",
+      "translation_zh_CN": "她停下來抽煙。"
+    },
+    {
+      "content": "喫煙は絶対禁止。",
+      "furigana": "[喫煙|きつ|えん]は[絶対|ぜっ|たい][禁止|きん|し]。",
+      "translation_zh_CN": "严禁吸烟。"
+    },
+    {
+      "content": "ここは禁煙です。",
+      "furigana": "ここは[禁煙|きん|えん]です。",
+      "translation_zh_CN": "这里不允许抽烟。"
+    },
+    {
+      "content": "喫煙は人を殺す。",
+      "furigana": "[喫煙|きつ|えん]は[人|ひと]を[殺|ころ]す。",
+      "translation_zh_CN": "吸烟有害。"
+    },
+    {
+      "content": "父は煙草を止めた。",
+      "furigana": "[父|ちち]は[煙草|たばこ]を[止|や]めた。",
+      "translation_zh_CN": "我父亲戒烟了。"
+    },
+    {
+      "content": "彼は喫煙をやめた。",
+      "furigana": "[彼|かれ]は[喫煙|きつ|えん]をやめた。",
+      "translation_zh_CN": "他把烟戒了。"
+    },
+    {
+      "content": "彼は煙草をやめた。",
+      "furigana": "[彼|かれ]は[煙草|たばこ]をやめた。",
+      "translation_zh_CN": "他把烟戒了。"
+    },
+    {
+      "content": "喫煙は健康に悪い。",
+      "furigana": "[喫煙|きつ|えん]は[健康|けん|こう]に[悪|わる]い。",
+      "translation_zh_CN": "吸煙對你的健康不好。"
+    },
+    {
+      "content": "煙草を吸いますか。",
+      "furigana": "[煙草|たばこ]を[吸|す]いますか。",
+      "translation_zh_CN": "你吸烟吗?"
+    },
+    {
+      "content": "ここでは禁煙です。",
+      "furigana": "ここでは[禁煙|きん|えん]です。",
+      "translation_zh_CN": "你不應在這裏吸煙。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "煙草",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "煙草",
+          "reading": "タバコ"
+        },
+        {
+          "word": "煙草",
+          "reading": "たばこ"
+        },
+        {
+          "word": "莨",
+          "reading": "タバコ"
+        },
+        {
+          "word": "莨",
+          "reading": "たばこ"
+        },
+        {
+          "word": "烟草",
+          "reading": "タバコ"
+        },
+        {
+          "word": "烟草",
+          "reading": "たばこ"
+        }
+      ]
+    },
+    {
+      "slug": "煙突",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "煙突",
+          "reading": "えんとつ"
+        },
+        {
+          "word": "烟突",
+          "reading": "えんとつ"
+        }
+      ]
+    },
+    {
+      "slug": "花火",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "花火",
+          "reading": "はなび"
+        },
+        {
+          "word": "煙火",
+          "reading": "はなび"
+        }
+      ]
+    },
+    {
+      "slug": "煙たい",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "煙たい",
+          "reading": "けむたい"
+        },
+        {
+          "word": "煙たい",
+          "reading": "けぶたい"
+        },
+        {
+          "word": "烟たい",
+          "reading": "けむたい"
+        },
+        {
+          "word": "烟たい",
+          "reading": "けぶたい"
+        }
+      ]
+    },
+    {
+      "slug": "煙る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "煙る",
+          "reading": "けむる"
+        },
+        {
+          "word": "煙る",
+          "reading": "けぶる"
+        },
+        {
+          "word": "烟る",
+          "reading": "けむる"
+        },
+        {
+          "word": "烟る",
+          "reading": "けぶる"
+        }
+      ]
+    },
+    {
+      "slug": "煙い",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "煙い",
+          "reading": "けむい"
+        },
+        {
+          "word": "煙い",
+          "reading": "けぶい"
+        },
+        {
+          "word": "烟い",
+          "reading": "けむい"
+        },
+        {
+          "word": "烟い",
+          "reading": "けぶい"
+        }
+      ]
+    },
+    {
+      "slug": "煙幕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙幕",
+          "reading": "えんまく"
+        }
+      ]
+    },
+    {
+      "slug": "タバコを吸う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "タバコを吸う",
+          "reading": "タバコをすう"
+        },
+        {
+          "word": "煙草を吸う",
+          "reading": "タバコをすう"
+        },
+        {
+          "word": "たばこを吸う",
+          "reading": "タバコをすう"
+        }
+      ]
+    },
+    {
+      "slug": "煙草を止める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "タバコを止める",
+          "reading": "タバコをやめる"
+        },
+        {
+          "word": "煙草をやめる",
+          "reading": "タバコをやめる"
+        }
+      ]
+    },
+    {
+      "slug": "煙霧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙霧",
+          "reading": "えんむ"
+        }
+      ]
+    },
+    {
+      "slug": "煙突効果",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙突効果",
+          "reading": "えんとつこうか"
+        }
+      ]
+    },
+    {
+      "slug": "煙がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙がる",
+          "reading": "けむがる"
+        },
+        {
+          "word": "煙がる",
+          "reading": "けぶがる"
+        },
+        {
+          "word": "烟がる",
+          "reading": "けむがる"
+        },
+        {
+          "word": "烟がる",
+          "reading": "けぶがる"
+        }
+      ]
+    },
+    {
+      "slug": "煙っぽい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙っぽい",
+          "reading": "けむっぽい"
+        },
+        {
+          "word": "烟っぽい",
+          "reading": "けむっぽい"
+        }
+      ]
+    },
+    {
+      "slug": "煙塵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙塵",
+          "reading": "えんじん"
+        }
+      ]
+    },
+    {
+      "slug": "煙死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙死",
+          "reading": "えんし"
+        }
+      ]
+    },
+    {
+      "slug": "煙に巻く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙に巻く",
+          "reading": "けむにまく"
+        },
+        {
+          "word": "けむに巻く",
+          "reading": "けむにまく"
+        },
+        {
+          "word": "烟に巻く",
+          "reading": "けむにまく"
+        },
+        {
+          "word": "煙に巻く",
+          "reading": "けむりにまく"
+        },
+        {
+          "word": "烟に巻く",
+          "reading": "けむりにまく"
+        }
+      ]
+    },
+    {
+      "slug": "煙害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙害",
+          "reading": "えんがい"
+        }
+      ]
+    },
+    {
+      "slug": "煙毒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙毒",
+          "reading": "えんどく"
+        }
+      ]
+    },
+    {
+      "slug": "煙弾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煙弾",
+          "reading": "えんだん"
+        }
+      ]
+    }
   ]
 }

@@ -98,7 +98,8 @@ export class InputBox extends LitElement {
       background-color: transparent;
       border: none;
       outline: none;
-      transition: padding .3s;
+      transition: max-width .3s,
+                  padding .3s;
     }
     input::placeholder {
       color: var(--placeholder-color);
@@ -109,6 +110,7 @@ export class InputBox extends LitElement {
     }
 
     :host([show-result]) input {
+      max-width: 6rem;
       padding-top: .6rem;
       padding-bottom: .6rem;
     }
@@ -127,9 +129,9 @@ export class InputBox extends LitElement {
   }, 100)
 
   // debug
-  // firstUpdated() {
-  //   this.dispatchEvent(searchEventFactory("飞"))
-  // }
+  firstUpdated() {
+    this.dispatchEvent(searchEventFactory("飞"))
+  }
 
   render() {
     return html`
@@ -144,6 +146,7 @@ export class InputBox extends LitElement {
           <input
             type="search"
             placeholder="要搜索的汉字"
+            maxlength="6"
             ${ref(this.inputRef)}
             @input=${this.debouncedInputHandler}
           />

@@ -95,5 +95,77 @@
       "startStroke": 16,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "海老で鯛を釣る。",
+      "furigana": "[海老|えび]で[鯛|たい]を[釣|つ]る。",
+      "translation_zh_CN": "用虾抓鲷鱼。"
+    },
+    {
+      "content": "海老で鯛を釣る。",
+      "furigana": "[海老|えび]で[鯛|たい]を[釣|つ]る。",
+      "translation_zh_CN": "丟鲱鱼抓鯨魚。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "たい焼き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たい焼き",
+          "reading": "たいやき"
+        },
+        {
+          "word": "鯛焼き",
+          "reading": "たいやき"
+        }
+      ]
+    },
+    {
+      "slug": "鯛めし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鯛めし",
+          "reading": "たいめし"
+        },
+        {
+          "word": "鯛飯",
+          "reading": "たいめし"
+        }
+      ]
+    },
+    {
+      "slug": "鯛車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鯛車",
+          "reading": "たいぐるま"
+        }
+      ]
+    },
+    {
+      "slug": "鯛も一人はうまからず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鯛も一人はうまからず",
+          "reading": "たいもひとりはうまからず"
+        }
+      ]
+    },
+    {
+      "slug": "鯛の尾より鰯の頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鯛の尾より鰯の頭",
+          "reading": "たいのおよりいわしのかしら"
+        }
+      ]
+    }
   ]
 }

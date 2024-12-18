@@ -95,5 +95,309 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "結愛と悠真は朝から終電まで1日中歩き続けた。",
+      "furigana": "[結愛|ゆ|あ]と[悠真|ゆ|ま]は[朝|あさ]から[終電|しゅう|でん]まで[1日中歩|いち|にち|じゅう|ある]き[続|つづ]けた。",
+      "translation_zh_CN": "由亚和由麻从早上一直步行到末班车。"
+    },
+    {
+      "content": "確かに、現代社会は消費が人々の生活に重要な役割を果たし、幸福や喜びに強く結 びついているのも当然のことといえる。",
+      "furigana": "[確|たし]かに、[現代社会|げん|だい|しゃ|かい]は[消費|しょう|ひ]が[人々|ひとびと]の[生活|せい|かつ]に[重要|じゅう|よう]な[役割|やく|わり]を[果|は]たし、[幸福|こう|ふく]や[喜|よろこ]びに[強|つよ]く[結|ゆい] びついているのも[当然|とう|ぜん]のことといえる。",
+      "translation_zh_CN": "确实，在现代社会，消费在人们的生活中发挥着重要作用，毫不奇怪，消费与幸福和快乐密切相关。"
+    },
+    {
+      "content": "嫌なら結構です。",
+      "furigana": "[嫌|いや]なら[結構|けっ|こう]です。",
+      "translation_zh_CN": "如果你不想的话也没问题。"
+    },
+    {
+      "content": "これで結構です。",
+      "furigana": "これで[結構|けっ|こう]です。",
+      "translation_zh_CN": "没有关系呀。"
+    },
+    {
+      "content": "いえ、結構です。",
+      "furigana": "いえ、[結構|けっ|こう]です。",
+      "translation_zh_CN": "不用了，謝謝。"
+    },
+    {
+      "content": "３時で結構です。",
+      "furigana": "[３|][時|じ]で[結構|けっ|こう]です。",
+      "translation_zh_CN": "我三點鐘可以來。"
+    },
+    {
+      "content": "お金は結構です。",
+      "furigana": "お[金|かね]は[結構|けっ|こう]です。",
+      "translation_zh_CN": "我不要钱。"
+    },
+    {
+      "content": "何歳で結婚したい？",
+      "furigana": "[何|なん][歳|さい]で[結婚|けっ|こん]したい？",
+      "translation_zh_CN": "你想到几岁才结婚呢？"
+    },
+    {
+      "content": "1,000円で結構です。",
+      "furigana": "[1|],[0|][0|][0|][円|えん]で[結構|けっ|こう]です。",
+      "translation_zh_CN": "1000日元足够了。"
+    },
+    {
+      "content": "結婚していますか。",
+      "furigana": "[結婚|けっ|こん]していますか。",
+      "translation_zh_CN": "您成家了吗？"
+    },
+    {
+      "content": "彼女は来年結婚する。",
+      "furigana": "[彼女|かの|じょ]は[来年|らい|ねん][結婚|けっ|こん]する。",
+      "translation_zh_CN": "她明年將要結婚。"
+    },
+    {
+      "content": "彼女は彼と結婚した。",
+      "furigana": "[彼女|かの|じょ]は[彼|かれ]と[結婚|けっ|こん]した。",
+      "translation_zh_CN": "她嫁给了他。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "結婚",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "結婚",
+          "reading": "けっこん"
+        }
+      ]
+    },
+    {
+      "slug": "結果",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "結果",
+          "reading": "けっか"
+        }
+      ]
+    },
+    {
+      "slug": "結構",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "結構",
+          "reading": "けっこう"
+        }
+      ]
+    },
+    {
+      "slug": "結晶",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "結晶",
+          "reading": "けっしょう"
+        }
+      ]
+    },
+    {
+      "slug": "結核",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "結核",
+          "reading": "けっかく"
+        }
+      ]
+    },
+    {
+      "slug": "結局",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "結局",
+          "reading": "けっきょく"
+        }
+      ]
+    },
+    {
+      "slug": "結論",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "結論",
+          "reading": "けつろん"
+        }
+      ]
+    },
+    {
+      "slug": "結ぶ",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "結ぶ",
+          "reading": "むすぶ"
+        }
+      ]
+    },
+    {
+      "slug": "結びつく",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "結びつく",
+          "reading": "むすびつく"
+        },
+        {
+          "word": "結び付く",
+          "reading": "むすびつく"
+        }
+      ]
+    },
+    {
+      "slug": "結合",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "結合",
+          "reading": "けつごう"
+        }
+      ]
+    },
+    {
+      "slug": "結成",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "結成",
+          "reading": "けっせい"
+        }
+      ]
+    },
+    {
+      "slug": "結び付ける",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "結びつける",
+          "reading": "むすびつける"
+        },
+        {
+          "word": "結び付ける",
+          "reading": "むすびつける"
+        }
+      ]
+    },
+    {
+      "slug": "結婚式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "結婚式",
+          "reading": "けっこんしき"
+        }
+      ]
+    },
+    {
+      "slug": "結集",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "結集",
+          "reading": "けっしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "結露",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "結露",
+          "reading": "けつろ"
+        }
+      ]
+    },
+    {
+      "slug": "結末",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "結末",
+          "reading": "けつまつ"
+        }
+      ]
+    },
+    {
+      "slug": "決着",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決着",
+          "reading": "けっちゃく"
+        },
+        {
+          "word": "結着",
+          "reading": "けっちゃく"
+        }
+      ]
+    },
+    {
+      "slug": "結う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "結う",
+          "reading": "ゆう"
+        },
+        {
+          "word": "結う",
+          "reading": "いう"
+        }
+      ]
+    },
+    {
+      "slug": "結婚相手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "結婚相手",
+          "reading": "けっこんあいて"
+        }
+      ]
+    },
+    {
+      "slug": "結び目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "結び目",
+          "reading": "むすびめ"
+        }
+      ]
+    }
   ]
 }

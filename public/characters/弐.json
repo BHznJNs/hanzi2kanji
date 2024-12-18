@@ -76,5 +76,82 @@
       "startStroke": 5,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "二十",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "２０",
+          "reading": "にじゅう"
+        },
+        {
+          "word": "二十",
+          "reading": "にじゅう"
+        },
+        {
+          "word": "廿",
+          "reading": "にじゅう"
+        },
+        {
+          "word": "弐拾",
+          "reading": "にじゅう"
+        },
+        {
+          "word": "二〇",
+          "reading": "にじゅう"
+        },
+        {
+          "word": "卄",
+          "reading": "にじゅう"
+        },
+        {
+          "word": "二十",
+          "reading": "はた"
+        }
+      ]
+    },
+    {
+      "slug": "弐つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弐つ",
+          "reading": "ふたつ"
+        }
+      ]
+    },
+    {
+      "slug": "弐心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "二心",
+          "reading": "ふたごころ"
+        },
+        {
+          "word": "二心",
+          "reading": "にしん"
+        },
+        {
+          "word": "二心",
+          "reading": "じしん"
+        },
+        {
+          "word": "弐心",
+          "reading": "ふたごころ"
+        },
+        {
+          "word": "弐心",
+          "reading": "にしん"
+        },
+        {
+          "word": "弐心",
+          "reading": "じしん"
+        }
+      ]
+    }
   ]
 }

@@ -62,5 +62,323 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "島が見えてきた。",
+      "furigana": "[島|しま]が[見|み]えてきた。",
+      "translation_zh_CN": "岛屿映入眼帘。"
+    },
+    {
+      "content": "小さな島が見えてきた。",
+      "furigana": "[小|ちい]さな[島|しま]が[見|み]えてきた。",
+      "translation_zh_CN": "一座小岛映入眼帘。"
+    },
+    {
+      "content": "遠くに島が見えた。",
+      "furigana": "[遠|とお]くに[島|しま]が[見|み]えた。",
+      "translation_zh_CN": "我可以看到远处有一座岛屿。"
+    },
+    {
+      "content": "イギリスは島です。",
+      "furigana": "イギリスは[島|しま]です。",
+      "translation_zh_CN": "英国是一个岛国。"
+    },
+    {
+      "content": "オーストラリアって、島？",
+      "furigana": "オーストラリアって、[島|しま]？",
+      "translation_zh_CN": "澳大利亚是一个岛国吗？"
+    },
+    {
+      "content": "遠方にその島が見える。",
+      "furigana": "[遠方|えん|ぽう]にその[島|しま]が[見|み]える。",
+      "translation_zh_CN": "远处可以看到小岛。"
+    },
+    {
+      "content": "ギリシャは島が多い。",
+      "furigana": "ギリシャは[島|しま]が[多|おお]い。",
+      "translation_zh_CN": "希腊有许多岛屿。"
+    },
+    {
+      "content": "ナポレオンはセントヘレナ島へ流された。",
+      "furigana": "ナポレオンはセントヘレナ[島|とう]へ[流|なが]された。",
+      "translation_zh_CN": "拿破仑被流放到圣赫勒拿岛。"
+    },
+    {
+      "content": "カリブ海には島が多い。",
+      "furigana": "カリブ[海|かい]には[島|しま]が[多|おお]い。",
+      "translation_zh_CN": "加勒比海有许多岛屿。"
+    },
+    {
+      "content": "その島は一年中あたたかい。",
+      "furigana": "その[島|しま]は[一年中|いち|ねん|じゅう]あたたかい。",
+      "translation_zh_CN": "岛上一年四季气候温暖。"
+    },
+    {
+      "content": "島が見えてきた。",
+      "furigana": "[島|しま]が[見|み]えてきた。",
+      "translation_zh_CN": "一座岛屿映入眼帘。"
+    },
+    {
+      "content": "海には島がある。",
+      "furigana": "[海|うみ]には[島|しま]がある。",
+      "translation_zh_CN": "海里有岛。"
+    },
+    {
+      "content": "海の上に島がある。",
+      "furigana": "[海|うみ]の[上|うえ]に[島|しま]がある。",
+      "translation_zh_CN": "有海岛。"
+    },
+    {
+      "content": "海の上に島があります。",
+      "furigana": "[海|うみ]の[上|うえ]に[島|しま]があります。",
+      "translation_zh_CN": "有海岛。"
+    },
+    {
+      "content": "日本もイギリスも島国だ。",
+      "furigana": "[日本|にっ|ぽん]もイギリスも[島国|しま|ぐに]だ。",
+      "translation_zh_CN": "日本和英國都是島國。"
+    },
+    {
+      "content": "その島は日本の西方にある。",
+      "furigana": "その[島|しま]は[日本|にっ|ぽん]の[西方|せい|ほう]にある。",
+      "translation_zh_CN": "这个岛屿位于日本的西边。"
+    },
+    {
+      "content": "島にはどれぐらい住んでたの？",
+      "furigana": "[島|しま]にはどれぐらい[住|す]んでたの？",
+      "translation_zh_CN": "你在島上住了多久？"
+    },
+    {
+      "content": "日本とイギリスは島国である。",
+      "furigana": "[日本|に|ほん]とイギリスは[島国|しま|ぐに]である。",
+      "translation_zh_CN": "日本和英國都是島國。"
+    },
+    {
+      "content": "島を出る手だてはありません。",
+      "furigana": "[島|しま]を[出|で]る[手|て]だてはありません。",
+      "translation_zh_CN": "沒有辦法離開這個島。"
+    },
+    {
+      "content": "その島には一軒しか店がない。",
+      "furigana": "その[島|しま]には[一軒|いっ|けん]しか[店|みせ]がない。",
+      "translation_zh_CN": "在這個島上只有一家商店。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "島国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島国",
+          "reading": "しまぐに"
+        },
+        {
+          "word": "島国",
+          "reading": "とうごく"
+        }
+      ]
+    },
+    {
+      "slug": "島々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島々",
+          "reading": "しまじま"
+        },
+        {
+          "word": "島島",
+          "reading": "しまじま"
+        },
+        {
+          "word": "島じま",
+          "reading": "しまじま"
+        }
+      ]
+    },
+    {
+      "slug": "島影",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島影",
+          "reading": "しまかげ"
+        }
+      ]
+    },
+    {
+      "slug": "島流し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島流し",
+          "reading": "しまながし"
+        }
+      ]
+    },
+    {
+      "slug": "島根",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島根",
+          "reading": "しまね"
+        }
+      ]
+    },
+    {
+      "slug": "島根大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島根大学",
+          "reading": "しまねだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "島根県",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島根県",
+          "reading": "しまねけん"
+        }
+      ]
+    },
+    {
+      "slug": "島根県立美術館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島根県立美術館",
+          "reading": "しまねけんりつびじゅつかん"
+        }
+      ]
+    },
+    {
+      "slug": "島中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島中",
+          "reading": "しまじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "島田",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島田",
+          "reading": "しまだ"
+        }
+      ]
+    },
+    {
+      "slug": "島梟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島梟",
+          "reading": "しまふくろう"
+        },
+        {
+          "reading": "シマフクロウ"
+        }
+      ]
+    },
+    {
+      "slug": "島田髷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島田髷",
+          "reading": "しまだまげ"
+        },
+        {
+          "word": "島田髷",
+          "reading": "しまだわげ"
+        }
+      ]
+    },
+    {
+      "slug": "縞鰺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞鰺",
+          "reading": "しまあじ"
+        },
+        {
+          "word": "縞鯵",
+          "reading": "しまあじ"
+        },
+        {
+          "word": "島鯵",
+          "reading": "しまあじ"
+        },
+        {
+          "reading": "シマアジ"
+        }
+      ]
+    },
+    {
+      "slug": "島皮質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島皮質",
+          "reading": "とうひしつ"
+        }
+      ]
+    },
+    {
+      "slug": "島原の乱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島原の乱",
+          "reading": "しまばらのらん"
+        }
+      ]
+    },
+    {
+      "slug": "島嶼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島嶼",
+          "reading": "とうしょ"
+        },
+        {
+          "word": "島しょ",
+          "reading": "とうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "島田理化工業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島田理化工業",
+          "reading": "しまだりかこうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "島根大学附属図書館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "島根大学附属図書館",
+          "reading": "しまねだいがくふぞくとしょかん"
+        }
+      ]
+    }
   ]
 }

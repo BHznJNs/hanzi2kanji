@@ -83,5 +83,108 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "蕩ける",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "蕩ける",
+          "reading": "とろける"
+        },
+        {
+          "word": "盪ける",
+          "reading": "とろける"
+        }
+      ]
+    },
+    {
+      "slug": "蕩蕩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕩々",
+          "reading": "とうとう"
+        },
+        {
+          "word": "蕩蕩",
+          "reading": "とうとう"
+        },
+        {
+          "word": "盪々",
+          "reading": "とうとう"
+        },
+        {
+          "word": "盪盪",
+          "reading": "とうとう"
+        }
+      ]
+    },
+    {
+      "slug": "たらし込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たらし込む",
+          "reading": "たらしこむ"
+        },
+        {
+          "word": "誑し込む",
+          "reading": "たらしこむ"
+        }
+      ]
+    },
+    {
+      "slug": "蕩かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕩かす",
+          "reading": "とろかす"
+        },
+        {
+          "word": "盪かす",
+          "reading": "とろかす"
+        }
+      ]
+    },
+    {
+      "slug": "蕩児",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕩児",
+          "reading": "とうじ"
+        }
+      ]
+    },
+    {
+      "slug": "蕩尽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕩尽",
+          "reading": "とうじん"
+        }
+      ]
+    },
+    {
+      "slug": "誑す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誑す",
+          "reading": "たらす"
+        },
+        {
+          "word": "蕩す",
+          "reading": "たらす"
+        }
+      ]
+    }
   ]
 }

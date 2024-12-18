@@ -98,5 +98,111 @@
       "startStroke": 10,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼に干渉するな。",
+      "furigana": "[彼|かれ]に[干渉|かん|しょう]するな。",
+      "translation_zh_CN": "别掺和他的事。"
+    },
+    {
+      "content": "僕のことに干渉しないでくれ。",
+      "furigana": "[僕|ぼく]のことに[干渉|かん|しょう]しないでくれ。",
+      "translation_zh_CN": "不要插手我的事。"
+    },
+    {
+      "content": "他人の事に干渉しないほうがいいよ。",
+      "furigana": "[他人|た|にん]の[事|こと]に[干渉|かん|しょう]しないほうがいいよ。",
+      "translation_zh_CN": "你最好不要插手别人的事务。"
+    },
+    {
+      "content": "彼は私たちの家族の問題に干渉する権利はない。",
+      "furigana": "[彼|かれ]は[私|わたし]たちの[家族|か|ぞく]の[問題|もん|だい]に[干渉|かん|しょう]する[権利|けん|り]はない。",
+      "translation_zh_CN": "他无权干涉我们的家庭事务。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "渡る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "渡る",
+          "reading": "わたる"
+        }
+      ]
+    },
+    {
+      "slug": "渉外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渉外",
+          "reading": "しょうがい"
+        }
+      ]
+    },
+    {
+      "slug": "渉禽類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渉禽類",
+          "reading": "しょうきんるい"
+        }
+      ]
+    },
+    {
+      "slug": "渉外労務管理事務所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渉外労務管理事務所",
+          "reading": "しょうがいろうむかんりじむしょ"
+        }
+      ]
+    },
+    {
+      "slug": "渉外私法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渉外私法",
+          "reading": "しょうがいしほう"
+        }
+      ]
+    },
+    {
+      "slug": "渉外部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渉外部",
+          "reading": "しょうがいぶ"
+        }
+      ]
+    },
+    {
+      "slug": "渉外係",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渉外係",
+          "reading": "しょうがいがかり"
+        }
+      ]
+    },
+    {
+      "slug": "渉猟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渉猟",
+          "reading": "しょうりょう"
+        }
+      ]
+    }
   ]
 }

@@ -96,5 +96,303 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "話を続けなさい。",
+      "furigana": "[話|はなし]を[続|つづ]けなさい。",
+      "translation_zh_CN": "繼續說你的故事吧。"
+    },
+    {
+      "content": "僕は歌い続けた。",
+      "furigana": "[僕|ぼく]は[歌|うた]い[続|つづ]けた。",
+      "translation_zh_CN": "我繼續唱歌。"
+    },
+    {
+      "content": "本を読み続けた。",
+      "furigana": "[本|ほん]を[読|よ]み[続|つづ]けた。",
+      "translation_zh_CN": "我继续阅读。"
+    },
+    {
+      "content": "そのまま続けて。",
+      "furigana": "そのまま[続|つづ]けて。",
+      "translation_zh_CN": "继续吧。"
+    },
+    {
+      "content": "働き続けなさい。",
+      "furigana": "[働|はたら]き[続|つづ]けなさい。",
+      "translation_zh_CN": "繼續工作！"
+    },
+    {
+      "content": "話を続けて下さい。",
+      "furigana": "[話|はなし]を[続|つづ]けて[下|くだ]さい。",
+      "translation_zh_CN": "请继续讲你的故事。"
+    },
+    {
+      "content": "彼女は働き続けた。",
+      "furigana": "[彼女|かの|じょ]は[働|はたら]き[続|つづ]けた。",
+      "translation_zh_CN": "她继续工作。"
+    },
+    {
+      "content": "私は仕事を続けた。",
+      "furigana": "[私|わたし]は[仕事|し|ごと]を[続|つづ]けた。",
+      "translation_zh_CN": "我繼續工作。"
+    },
+    {
+      "content": "仕事を続けなさい。",
+      "furigana": "[仕事|し|ごと]を[続|つづ]けなさい。",
+      "translation_zh_CN": "繼續工作！"
+    },
+    {
+      "content": "その調子で続けて。",
+      "furigana": "その[調子|ちょう|し]で[続|つづ]けて。",
+      "translation_zh_CN": "坚持。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "続ける",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "続ける",
+          "reading": "つづける"
+        }
+      ]
+    },
+    {
+      "slug": "続く",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "続く",
+          "reading": "つづく"
+        }
+      ]
+    },
+    {
+      "slug": "続き",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "続き",
+          "reading": "つづき"
+        }
+      ]
+    },
+    {
+      "slug": "続々",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "続々",
+          "reading": "ぞくぞく"
+        },
+        {
+          "word": "続続",
+          "reading": "ぞくぞく"
+        }
+      ]
+    },
+    {
+      "slug": "継ぐ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "継ぐ",
+          "reading": "つぐ"
+        },
+        {
+          "word": "嗣ぐ",
+          "reading": "つぐ"
+        },
+        {
+          "word": "続ぐ",
+          "reading": "つぐ"
+        },
+        {
+          "word": "襲ぐ",
+          "reading": "つぐ"
+        }
+      ]
+    },
+    {
+      "slug": "続行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続行",
+          "reading": "ぞっこう"
+        }
+      ]
+    },
+    {
+      "slug": "続柄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続柄",
+          "reading": "つづきがら"
+        },
+        {
+          "word": "続き柄",
+          "reading": "つづきがら"
+        },
+        {
+          "word": "続柄",
+          "reading": "ぞくがら"
+        }
+      ]
+    },
+    {
+      "slug": "続け様",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続けざま",
+          "reading": "つづけざま"
+        },
+        {
+          "word": "続け様",
+          "reading": "つづけざま"
+        },
+        {
+          "word": "続け様",
+          "reading": "つづけさま"
+        },
+        {
+          "word": "続けさま",
+          "reading": "つづけさま"
+        }
+      ]
+    },
+    {
+      "slug": "続伸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続伸",
+          "reading": "ぞくしん"
+        }
+      ]
+    },
+    {
+      "slug": "続出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続出",
+          "reading": "ぞくしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "続編",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続編",
+          "reading": "ぞくへん"
+        },
+        {
+          "word": "続篇",
+          "reading": "ぞくへん"
+        }
+      ]
+    },
+    {
+      "slug": "続落",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続落",
+          "reading": "ぞくらく"
+        }
+      ]
+    },
+    {
+      "slug": "続開",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続開",
+          "reading": "ぞっかい"
+        }
+      ]
+    },
+    {
+      "slug": "続発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続発",
+          "reading": "ぞくはつ"
+        }
+      ]
+    },
+    {
+      "slug": "続刊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続刊",
+          "reading": "ぞっかん"
+        }
+      ]
+    },
+    {
+      "slug": "続日本紀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続日本紀",
+          "reading": "しょくにほんぎ"
+        }
+      ]
+    },
+    {
+      "slug": "続日本後紀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続日本後紀",
+          "reading": "しょくにほんこうき"
+        }
+      ]
+    },
+    {
+      "slug": "続け字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続け字",
+          "reading": "つづけじ"
+        },
+        {
+          "word": "つづけ字",
+          "reading": "つづけじ"
+        }
+      ]
+    },
+    {
+      "slug": "続いて",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "続いて",
+          "reading": "つづいて"
+        }
+      ]
+    }
   ]
 }

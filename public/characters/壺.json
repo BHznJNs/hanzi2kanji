@@ -62,5 +62,257 @@
       "variant": true,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "そんなことしたら相手の思う壺だよ。",
+      "furigana": "そんなことしたら[相手|あい|て]の[思|おも]う[壺|つぼ]だよ。",
+      "translation_zh_CN": "如果你这样做了，那就是别人的想法了。"
+    },
+    {
+      "content": "私は彼がその箱から何か壺のようなものを取り出すのを見た。",
+      "furigana": "[私|わたし]は[彼|かれ]がその[箱|はこ]から[何|なに]か[壺|つぼ]のようなものを[取|と]り[出|だ]すのを[見|み]た。",
+      "translation_zh_CN": "只见他从盒子里拿出了一个类似罐子的东西。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "壷黴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ツボカビ"
+        },
+        {
+          "word": "壷黴",
+          "reading": "つぼかび"
+        },
+        {
+          "word": "壺黴",
+          "reading": "つぼかび"
+        }
+      ]
+    },
+    {
+      "slug": "つぼ型",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "つぼ型",
+          "reading": "つぼがた"
+        },
+        {
+          "word": "壺型",
+          "reading": "つぼがた"
+        },
+        {
+          "word": "壷型",
+          "reading": "つぼがた"
+        },
+        {
+          "word": "ツボ型",
+          "reading": "つぼがた"
+        }
+      ]
+    },
+    {
+      "slug": "坪庭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "坪庭",
+          "reading": "つぼにわ"
+        },
+        {
+          "word": "壺庭",
+          "reading": "つぼにわ"
+        }
+      ]
+    },
+    {
+      "slug": "つぼ金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "つぼ金",
+          "reading": "つぼがね"
+        },
+        {
+          "word": "壺金",
+          "reading": "つぼがね"
+        }
+      ]
+    },
+    {
+      "slug": "壺草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壺草",
+          "reading": "つぼくさ"
+        },
+        {
+          "word": "壷草",
+          "reading": "つぼくさ"
+        },
+        {
+          "reading": "ツボクサ"
+        }
+      ]
+    },
+    {
+      "slug": "壺中の天地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壺中の天地",
+          "reading": "こちゅうのてんち"
+        },
+        {
+          "word": "壷中の天地",
+          "reading": "こちゅうのてんち"
+        }
+      ]
+    },
+    {
+      "slug": "壷洗い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壷洗い",
+          "reading": "つぼあらい"
+        },
+        {
+          "word": "壺洗い",
+          "reading": "つぼあらい"
+        }
+      ]
+    },
+    {
+      "slug": "つぼ湯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "つぼ湯",
+          "reading": "つぼゆ"
+        },
+        {
+          "word": "壺湯",
+          "reading": "つぼゆ"
+        },
+        {
+          "word": "壷湯",
+          "reading": "つぼゆ"
+        }
+      ]
+    },
+    {
+      "slug": "つぼ焼き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "つぼ焼き",
+          "reading": "つぼやき"
+        },
+        {
+          "word": "壺焼き",
+          "reading": "つぼやき"
+        },
+        {
+          "word": "壷焼き",
+          "reading": "つぼやき"
+        },
+        {
+          "word": "壺焼",
+          "reading": "つぼやき"
+        },
+        {
+          "word": "壷焼",
+          "reading": "つぼやき"
+        }
+      ]
+    },
+    {
+      "slug": "壺皿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壺皿",
+          "reading": "つぼざら"
+        }
+      ]
+    },
+    {
+      "slug": "ツボに入る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ツボに入る",
+          "reading": "ツボにはいる"
+        },
+        {
+          "word": "つぼに入る",
+          "reading": "つぼにはいる"
+        },
+        {
+          "word": "壺に入る",
+          "reading": "つぼにはいる"
+        }
+      ]
+    },
+    {
+      "slug": "壺を心得る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "つぼを心得る",
+          "reading": "つぼをこころえる"
+        },
+        {
+          "word": "壺を心得る",
+          "reading": "つぼをこころえる"
+        }
+      ]
+    },
+    {
+      "slug": "壺にはまる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壺にはまる",
+          "reading": "つぼにはまる"
+        },
+        {
+          "word": "つぼに嵌まる",
+          "reading": "つぼにはまる"
+        },
+        {
+          "word": "壺に嵌まる",
+          "reading": "つぼにはまる"
+        },
+        {
+          "word": "ツボに嵌まる",
+          "reading": "ツボにはまる"
+        }
+      ]
+    },
+    {
+      "slug": "ツボを押さえる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ツボを押さえる",
+          "reading": "ツボをおさえる"
+        },
+        {
+          "word": "つぼを押さえる",
+          "reading": "つぼをおさえる"
+        },
+        {
+          "word": "壺を押さえる",
+          "reading": "つぼをおさえる"
+        }
+      ]
+    }
   ]
 }

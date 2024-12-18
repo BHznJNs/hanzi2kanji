@@ -55,5 +55,243 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "鳶が鷹を生む。",
+      "furigana": "[鳶|とんび]が[鷹|たか]を[生|う]む。",
+      "translation_zh_CN": "风筝生下了一只鹰。"
+    },
+    {
+      "content": "鳶に油揚げをさらわれたようなものだ。",
+      "furigana": "[鳶|とんび]に[油揚|あぶら|あ]げをさらわれたようなものだ。",
+      "translation_zh_CN": "就像你的炸豆腐被风筝抢走了一样。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鳶色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶色",
+          "reading": "とびいろ"
+        },
+        {
+          "word": "とび色",
+          "reading": "とびいろ"
+        }
+      ]
+    },
+    {
+      "slug": "鳶に油揚げをさらわれる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶に油揚げをさらわれる",
+          "reading": "とんびにあぶらあげをさらわれる"
+        },
+        {
+          "word": "鳶に油揚げをさらわれる",
+          "reading": "とびにあぶらあげをさらわれる"
+        },
+        {
+          "word": "鳶に油揚げを攫われる",
+          "reading": "とんびにあぶらあげをさらわれる"
+        },
+        {
+          "word": "鳶に油揚げを攫われる",
+          "reading": "とびにあぶらあげをさらわれる"
+        },
+        {
+          "word": "鳶に油揚を攫われる",
+          "reading": "とんびにあぶらあげをさらわれる"
+        },
+        {
+          "word": "鳶に油揚を攫われる",
+          "reading": "とびにあぶらあげをさらわれる"
+        }
+      ]
+    },
+    {
+      "slug": "鳶子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶子",
+          "reading": "とびこ"
+        }
+      ]
+    },
+    {
+      "slug": "鳶飛魚躍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶飛魚躍",
+          "reading": "えんぴぎょやく"
+        }
+      ]
+    },
+    {
+      "slug": "鳶鱝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶鱝",
+          "reading": "とびえい"
+        },
+        {
+          "word": "鳶鱏",
+          "reading": "とびえい"
+        },
+        {
+          "word": "鳶えい",
+          "reading": "とびえい"
+        },
+        {
+          "word": "鳶エイ",
+          "reading": "とびエイ"
+        },
+        {
+          "reading": "トビエイ"
+        }
+      ]
+    },
+    {
+      "slug": "鳶工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶工",
+          "reading": "とびこう"
+        },
+        {
+          "word": "とび工",
+          "reading": "とびこう"
+        }
+      ]
+    },
+    {
+      "slug": "鳶の者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶の者",
+          "reading": "とびのもの"
+        }
+      ]
+    },
+    {
+      "slug": "鳶合羽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶合羽",
+          "reading": "とんびがっぱ"
+        },
+        {
+          "word": "鳶ガッパ",
+          "reading": "とんびガッパ"
+        }
+      ]
+    },
+    {
+      "slug": "とび職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "とび職",
+          "reading": "とびしょく"
+        },
+        {
+          "word": "鳶職",
+          "reading": "とびしょく"
+        }
+      ]
+    },
+    {
+      "slug": "とび職人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "とび職人",
+          "reading": "とびしょくにん"
+        },
+        {
+          "word": "鳶職人",
+          "reading": "とびしょくにん"
+        }
+      ]
+    },
+    {
+      "slug": "鳶口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶口",
+          "reading": "とびぐち"
+        },
+        {
+          "word": "とび口",
+          "reading": "とびぐち"
+        },
+        {
+          "word": "トビ口",
+          "reading": "トビぐち"
+        },
+        {
+          "reading": "トビグチ"
+        }
+      ]
+    },
+    {
+      "slug": "鳶足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶足",
+          "reading": "とんびあし"
+        }
+      ]
+    },
+    {
+      "slug": "鳶尾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶尾",
+          "reading": "いちはつ"
+        },
+        {
+          "word": "一八",
+          "reading": "いちはつ"
+        }
+      ]
+    },
+    {
+      "slug": "鳶が鷹を生む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶が鷹を生む",
+          "reading": "とんびがたかをうむ"
+        },
+        {
+          "word": "鳶が鷹を生む",
+          "reading": "とびがたかをうむ"
+        }
+      ]
+    },
+    {
+      "slug": "鳶ズボン",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳶ズボン",
+          "reading": "とびズボン"
+        }
+      ]
+    }
   ]
 }

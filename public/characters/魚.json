@@ -72,5 +72,387 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "魚を食べる。",
+      "furigana": "[魚|さかな]を[食|た]べる。",
+      "translation_zh_CN": "吃鱼"
+    },
+    {
+      "content": "魚が食べる。",
+      "furigana": "[魚|さかな]が[食|た]べる。",
+      "translation_zh_CN": "鱼吃"
+    },
+    {
+      "content": "魚が美味しかった。",
+      "furigana": "[魚|さかな]が[美味|おい]しかった。",
+      "translation_zh_CN": "鱼很好吃。"
+    },
+    {
+      "content": "魚は泳げます。",
+      "furigana": "[魚|さかな]は[泳|およ]げます。",
+      "translation_zh_CN": "鱼会游泳。"
+    },
+    {
+      "content": "魚は食べれません。",
+      "furigana": "[魚|さかな]は[食|た]べれません。",
+      "translation_zh_CN": "我不能吃鱼。"
+    },
+    {
+      "content": "魚は頼んでない。",
+      "furigana": "[魚|さかな]は[頼|たの]んでない。",
+      "translation_zh_CN": "我没有点鱼。"
+    },
+    {
+      "content": "魚は不味い。",
+      "furigana": "[魚|さかな]は[不味|まず]い。",
+      "translation_zh_CN": "鱼的味道不好。"
+    },
+    {
+      "content": "魚は美味しくない。",
+      "furigana": "[魚|さかな]は[美味|おい]しくない。",
+      "translation_zh_CN": "鱼不好吃。"
+    },
+    {
+      "content": "魚どう？美味しい？",
+      "furigana": "[魚|さかな]どう？[美味|おい]しい？",
+      "translation_zh_CN": "鱼怎么样？可口的？"
+    },
+    {
+      "content": "魚は釣れなかった。",
+      "furigana": "[魚|さかな]は[釣|つ]れなかった。",
+      "translation_zh_CN": "我一条鱼也钓不到。"
+    },
+    {
+      "content": "今日は魚が安い。",
+      "furigana": "[今日|きょう]は[魚|さかな]が[安|やす]い。",
+      "translation_zh_CN": "今天魚很便宜。"
+    },
+    {
+      "content": "この魚おいしい。",
+      "furigana": "この[魚|さかな]おいしい。",
+      "translation_zh_CN": "这条鱼很美味。"
+    },
+    {
+      "content": "魚をお願いします。",
+      "furigana": "[魚|さかな]をお[願|ねが]いします。",
+      "translation_zh_CN": "鱼，谢谢。"
+    },
+    {
+      "content": "この魚は同じ色だ。",
+      "furigana": "この[魚|さかな]は[同|おな]じ[色|いろ]だ。",
+      "translation_zh_CN": "这鱼的颜色一样。"
+    },
+    {
+      "content": "彼は魚が好きでない。",
+      "furigana": "[彼|かれ]は[魚|さかな]が[好|す]きでない。",
+      "translation_zh_CN": "他不喜歡吃魚。"
+    },
+    {
+      "content": "猫は肉より魚を好む。",
+      "furigana": "[猫|ねこ]は[肉|にく]より[魚|さかな]を[好|この]む。",
+      "translation_zh_CN": "猫喜欢鱼多过肉。"
+    },
+    {
+      "content": "魚は海に住んでいる。",
+      "furigana": "[魚|さかな]は[海|うみ]に[住|す]んでいる。",
+      "translation_zh_CN": "鱼生活在海里。"
+    },
+    {
+      "content": "この湖には魚が多い。",
+      "furigana": "この[湖|みずうみ]には[魚|さかな]が[多|おお]い。",
+      "translation_zh_CN": "這個湖裡有很多魚。"
+    },
+    {
+      "content": "この魚はなに色ですか？",
+      "furigana": "この[魚|さかな]はなに[色|いろ]ですか？",
+      "translation_zh_CN": "这条鱼是什么颜色？"
+    },
+    {
+      "content": "昨日魚を食べました。",
+      "furigana": "[昨日|きのう][魚|ぎょ]を[食|た]べました。",
+      "translation_zh_CN": "昨天吃了鱼。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "当たり",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "当たり",
+          "reading": "あたり"
+        },
+        {
+          "word": "当り",
+          "reading": "あたり"
+        },
+        {
+          "word": "中り",
+          "reading": "あたり"
+        },
+        {
+          "word": "中たり",
+          "reading": "あたり"
+        }
+      ]
+    },
+    {
+      "slug": "魚雷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚雷",
+          "reading": "ぎょらい"
+        }
+      ]
+    },
+    {
+      "slug": "魚市場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚市場",
+          "reading": "うおいちば"
+        }
+      ]
+    },
+    {
+      "slug": "魚釣り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚釣り",
+          "reading": "さかなつり"
+        },
+        {
+          "word": "魚釣り",
+          "reading": "うおつり"
+        },
+        {
+          "word": "魚釣り",
+          "reading": "いおつり"
+        },
+        {
+          "word": "魚つり",
+          "reading": "さかなつり"
+        },
+        {
+          "word": "魚つり",
+          "reading": "うおつり"
+        },
+        {
+          "word": "魚つり",
+          "reading": "いおつり"
+        },
+        {
+          "word": "魚釣",
+          "reading": "さかなつり"
+        },
+        {
+          "word": "魚釣",
+          "reading": "うおつり"
+        },
+        {
+          "word": "魚釣",
+          "reading": "いおつり"
+        }
+      ]
+    },
+    {
+      "slug": "魚屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚屋",
+          "reading": "さかなや"
+        }
+      ]
+    },
+    {
+      "slug": "魚の目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚の目",
+          "reading": "うおのめ"
+        },
+        {
+          "reading": "ウオノメ"
+        }
+      ]
+    },
+    {
+      "slug": "魚類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚類",
+          "reading": "ぎょるい"
+        }
+      ]
+    },
+    {
+      "slug": "魚介類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚介類",
+          "reading": "ぎょかいるい"
+        },
+        {
+          "word": "魚貝類",
+          "reading": "ぎょかいるい"
+        }
+      ]
+    },
+    {
+      "slug": "魚河岸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚河岸",
+          "reading": "うおがし"
+        },
+        {
+          "word": "魚がし",
+          "reading": "うおがし"
+        }
+      ]
+    },
+    {
+      "slug": "魚介",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚介",
+          "reading": "ぎょかい"
+        },
+        {
+          "word": "魚貝",
+          "reading": "ぎょかい"
+        }
+      ]
+    },
+    {
+      "slug": "魚肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚肉",
+          "reading": "ぎょにく"
+        }
+      ]
+    },
+    {
+      "slug": "魚群",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚群",
+          "reading": "ぎょぐん"
+        },
+        {
+          "word": "魚群",
+          "reading": "なむら"
+        }
+      ]
+    },
+    {
+      "slug": "魚の食い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚の食い",
+          "reading": "さかなのくい"
+        }
+      ]
+    },
+    {
+      "slug": "魚竜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚竜",
+          "reading": "ぎょりゅう"
+        },
+        {
+          "word": "魚龍",
+          "reading": "ぎょりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "魚眼石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚眼石",
+          "reading": "ぎょがんせき"
+        }
+      ]
+    },
+    {
+      "slug": "川蝉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "川蝉",
+          "reading": "かわせみ"
+        },
+        {
+          "word": "翡翠",
+          "reading": "かわせみ"
+        },
+        {
+          "word": "魚狗",
+          "reading": "かわせみ"
+        },
+        {
+          "word": "翡翠",
+          "reading": "ひすい"
+        },
+        {
+          "word": "翡翠",
+          "reading": "しょうびん"
+        },
+        {
+          "reading": "カワセミ"
+        }
+      ]
+    },
+    {
+      "slug": "魚粉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚粉",
+          "reading": "ぎょふん"
+        }
+      ]
+    },
+    {
+      "slug": "魚油",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚油",
+          "reading": "ぎょゆ"
+        }
+      ]
+    },
+    {
+      "slug": "魚拓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魚拓",
+          "reading": "ぎょたく"
+        }
+      ]
+    }
   ]
 }

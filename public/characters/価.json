@@ -63,5 +63,258 @@
       "startStroke": 2,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "柿は栄養価が高く、甘いのは最高に美味ですが、時々渋いのがあります。",
+      "furigana": "[柿|こけら]は[栄養価|えい|よう|か]が[高|たか]く、[甘|あま]いのは[最高|さい|こう]に[美味|び|み]ですが、[時々|ときどき][渋|しぶ]いのがあります。",
+      "translation_zh_CN": "柿子的营养很高，甜的时候很好吃，但有时却很苦。"
+    },
+    {
+      "content": "物価が上がった。",
+      "furigana": "[物価|ぶっ|か]が[上|あ]がった。",
+      "translation_zh_CN": "物價上漲。"
+    },
+    {
+      "content": "株価が下がった。",
+      "furigana": "[株価|かぶ|か]が[下|さ]がった。",
+      "translation_zh_CN": "股價下跌了。"
+    },
+    {
+      "content": "物価は上昇し続けた。",
+      "furigana": "[物価|ぶっ|か]は[上昇|じょう|しょう]し[続|つづ]けた。",
+      "translation_zh_CN": "物价持续上涨。"
+    },
+    {
+      "content": "物価が上昇している。",
+      "furigana": "[物価|ぶっ|か]が[上昇|じょう|しょう]している。",
+      "translation_zh_CN": "物价上涨了。"
+    },
+    {
+      "content": "物価が上がっている。",
+      "furigana": "[物価|ぶっ|か]が[上|あ]がっている。",
+      "translation_zh_CN": "物价上涨了。"
+    },
+    {
+      "content": "覚える価値さえない。",
+      "furigana": "[覚|おぼ]える[価値|か|ち]さえない。",
+      "translation_zh_CN": "不值得去記。"
+    },
+    {
+      "content": "物価は上がる一方だ。",
+      "furigana": "[物価|ぶっ|か]は[上|あ]がる[一方|いっ|ぽう]だ。",
+      "translation_zh_CN": "物價在上漲。"
+    },
+    {
+      "content": "価格は需要を反映する。",
+      "furigana": "[価格|か|かく]は[需要|じゅ|よう]を[反映|はん|えい]する。",
+      "translation_zh_CN": "價格反映著需求。"
+    },
+    {
+      "content": "物価が劇的に上がった。",
+      "furigana": "[物価|ぶっ|か]が[劇的|げき|てき]に[上|あ]がった。",
+      "translation_zh_CN": "物价从根本上提高了。"
+    },
+    {
+      "content": "私は彼女を高く評価した。",
+      "furigana": "[私|わたし]は[彼女|かの|じょ]を[高|たか]く[評価|ひょう|か]した。",
+      "translation_zh_CN": "我對她的評價很好。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "価格",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "価格",
+          "reading": "かかく"
+        }
+      ]
+    },
+    {
+      "slug": "価値",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "価値",
+          "reading": "かち"
+        }
+      ]
+    },
+    {
+      "slug": "値する",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "値する",
+          "reading": "あたいする"
+        },
+        {
+          "word": "価する",
+          "reading": "あたいする"
+        }
+      ]
+    },
+    {
+      "slug": "価値観",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価値観",
+          "reading": "かちかん"
+        }
+      ]
+    },
+    {
+      "slug": "価格競争",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価格競争",
+          "reading": "かかくきょうそう"
+        }
+      ]
+    },
+    {
+      "slug": "価値体系",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価値体系",
+          "reading": "かちたいけい"
+        }
+      ]
+    },
+    {
+      "slug": "価格表",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価格表",
+          "reading": "かかくひょう"
+        }
+      ]
+    },
+    {
+      "slug": "価格統制",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価格統制",
+          "reading": "かかくとうせい"
+        }
+      ]
+    },
+    {
+      "slug": "価額",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価額",
+          "reading": "かがく"
+        }
+      ]
+    },
+    {
+      "slug": "価値判断",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価値判断",
+          "reading": "かちはんだん"
+        }
+      ]
+    },
+    {
+      "slug": "価電子帯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価電子帯",
+          "reading": "かでんしたい"
+        }
+      ]
+    },
+    {
+      "slug": "価値論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価値論",
+          "reading": "かちろん"
+        }
+      ]
+    },
+    {
+      "slug": "価電子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価電子",
+          "reading": "かでんし"
+        }
+      ]
+    },
+    {
+      "slug": "価格革命",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価格革命",
+          "reading": "かかくかくめい"
+        }
+      ]
+    },
+    {
+      "slug": "価値法則",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価値法則",
+          "reading": "かちほうそく"
+        }
+      ]
+    },
+    {
+      "slug": "価値倫理学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価値倫理学",
+          "reading": "かちりんりがく"
+        }
+      ]
+    },
+    {
+      "slug": "価値観外交",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価値観外交",
+          "reading": "かちかんがいこう"
+        }
+      ]
+    },
+    {
+      "slug": "価値ある",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "価値ある",
+          "reading": "かちある"
+        },
+        {
+          "word": "価値有る",
+          "reading": "かちある"
+        }
+      ]
+    }
   ]
 }

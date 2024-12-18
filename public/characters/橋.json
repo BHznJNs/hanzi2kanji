@@ -103,5 +103,347 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "橋が崩れ落ちた。",
+      "furigana": "[橋|はし]が[崩|くず]れ[落|お]ちた。",
+      "translation_zh_CN": "桥塌了。"
+    },
+    {
+      "content": "橋は開通している。",
+      "furigana": "[橋|はし]は[開通|かい|つう]している。",
+      "translation_zh_CN": "桥是开放的。"
+    },
+    {
+      "content": "橋は石造りだ。",
+      "furigana": "[橋|はし]は[石造|いし|づく]りだ。",
+      "translation_zh_CN": "这座桥是用石头建造的。"
+    },
+    {
+      "content": "兵隊が橋を見張っていた。",
+      "furigana": "[兵隊|へい|たい]が[橋|はし]を[見張|み|は]っていた。",
+      "translation_zh_CN": "士兵们守卫着这座桥。"
+    },
+    {
+      "content": "橋は大水で洗い流された。",
+      "furigana": "[橋|はし]は[大水|おお|みず]で[洗|あら]い[流|なが]された。",
+      "translation_zh_CN": "这座桥被洪水冲毁了。"
+    },
+    {
+      "content": "彼らは橋を造った。",
+      "furigana": "[彼|かれ]らは[橋|はし]を[造|つく]った。",
+      "translation_zh_CN": "他们建了一座桥。"
+    },
+    {
+      "content": "川に橋がかけられた。",
+      "furigana": "[川|かわ]に[橋|はし]がかけられた。",
+      "translation_zh_CN": "河上建了一座桥。"
+    },
+    {
+      "content": "洪水で橋が壊れた。",
+      "furigana": "[洪水|こう|ずい]で[橋|はし]が[壊|こわ]れた。",
+      "translation_zh_CN": "这座桥被洪水冲毁了。"
+    },
+    {
+      "content": "橋が重みで落ちた。",
+      "furigana": "[橋|はし]が[重|おも]みで[落|お]ちた。",
+      "translation_zh_CN": "桥在重压下倒塌了。"
+    },
+    {
+      "content": "橋は修理中です。",
+      "furigana": "[橋|はし]は[修理中|しゅう|り|ちゅう]です。",
+      "translation_zh_CN": "这座桥正在维修中。"
+    },
+    {
+      "content": "橋は修理中です。",
+      "furigana": "[橋|はし]は[修理|しゅう|り][中|ちゅう]です。",
+      "translation_zh_CN": "桥处于修理中。"
+    },
+    {
+      "content": "そこに橋があった。",
+      "furigana": "そこに[橋|はし]があった。",
+      "translation_zh_CN": "那里有座桥。"
+    },
+    {
+      "content": "昔ここに橋があった。",
+      "furigana": "[昔|むかし]ここに[橋|はし]があった。",
+      "translation_zh_CN": "以前這裡有一座橋。"
+    },
+    {
+      "content": "あの橋は大変美しい。",
+      "furigana": "あの[橋|はし]は[大変|たい|へん][美|うつく]しい。",
+      "translation_zh_CN": "那座橋很漂亮。"
+    },
+    {
+      "content": "彼らは川に橋をかけた。",
+      "furigana": "[彼|かれ]らは[川|かわ]に[橋|はし]をかけた。",
+      "translation_zh_CN": "他們建了一座橫跨河流的橋。"
+    },
+    {
+      "content": "兵隊が橋を見張っていた。",
+      "furigana": "[兵隊|へい|たい]が[橋|はし]を[見張|み|は]っていた。",
+      "translation_zh_CN": "士兵們守衛著這座橋。"
+    },
+    {
+      "content": "池には橋がかかっている。",
+      "furigana": "[池|いけ]には[橋|はし]がかかっている。",
+      "translation_zh_CN": "池塘上有座桥。"
+    },
+    {
+      "content": "この橋はじょうぶそうだ。",
+      "furigana": "この[橋|はし]はじょうぶそうだ。",
+      "translation_zh_CN": "這座橋看起來很安全。"
+    },
+    {
+      "content": "橋まで一緒に行きましょう。",
+      "furigana": "[橋|はし]まで[一緒|いっ|しょ]に[行|い]きましょう。",
+      "translation_zh_CN": "我会跟着你走到桥那里。"
+    },
+    {
+      "content": "かつてはここに橋があった。",
+      "furigana": "かつてはここに[橋|はし]があった。",
+      "translation_zh_CN": "以前這裡有一座橋。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "橋渡し",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "橋渡し",
+          "reading": "はしわたし"
+        }
+      ]
+    },
+    {
+      "slug": "橋梁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋梁",
+          "reading": "きょうりょう"
+        }
+      ]
+    },
+    {
+      "slug": "橋桁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋桁",
+          "reading": "はしげた"
+        },
+        {
+          "word": "橋げた",
+          "reading": "はしげた"
+        }
+      ]
+    },
+    {
+      "slug": "橋脚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋脚",
+          "reading": "きょうきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "橋頭堡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋頭堡",
+          "reading": "きょうとうほ"
+        },
+        {
+          "word": "橋頭堡",
+          "reading": "きょうとうほう"
+        },
+        {
+          "word": "橋頭保",
+          "reading": "きょうとうほ"
+        },
+        {
+          "word": "橋頭保",
+          "reading": "きょうとうほう"
+        }
+      ]
+    },
+    {
+      "slug": "橋杙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋杙",
+          "reading": "はしぐい"
+        },
+        {
+          "word": "橋杭",
+          "reading": "はしぐい"
+        }
+      ]
+    },
+    {
+      "slug": "橋台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋台",
+          "reading": "きょうだい"
+        }
+      ]
+    },
+    {
+      "slug": "橋柱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋柱",
+          "reading": "はしばしら"
+        }
+      ]
+    },
+    {
+      "slug": "橋場の煙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋場の煙",
+          "reading": "はしばのけむり"
+        },
+        {
+          "word": "橋場の煙",
+          "reading": "はしばのけぶり"
+        }
+      ]
+    },
+    {
+      "slug": "橋板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋板",
+          "reading": "はしいた"
+        }
+      ]
+    },
+    {
+      "slug": "橋架",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋架",
+          "reading": "きょうか"
+        }
+      ]
+    },
+    {
+      "slug": "橋脚舟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋脚舟",
+          "reading": "きょうきゃくしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "橋畔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋畔",
+          "reading": "きょうはん"
+        }
+      ]
+    },
+    {
+      "slug": "橋本病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋本病",
+          "reading": "はしもとびょう"
+        }
+      ]
+    },
+    {
+      "slug": "橋上駅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋上駅",
+          "reading": "きょうじょうえき"
+        }
+      ]
+    },
+    {
+      "slug": "橋本文法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋本文法",
+          "reading": "はしもとぶんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "橋架け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋かけ",
+          "reading": "はしかけ"
+        },
+        {
+          "word": "橋架け",
+          "reading": "はしかけ"
+        },
+        {
+          "word": "橋掛け",
+          "reading": "はしかけ"
+        }
+      ]
+    },
+    {
+      "slug": "橋掛かり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "橋掛かり",
+          "reading": "はしがかり"
+        },
+        {
+          "word": "橋掛り",
+          "reading": "はしがかり"
+        },
+        {
+          "word": "橋掛",
+          "reading": "はしがかり"
+        },
+        {
+          "word": "橋がかり",
+          "reading": "はしがかり"
+        },
+        {
+          "word": "橋懸かり",
+          "reading": "はしがかり"
+        },
+        {
+          "word": "橋懸り",
+          "reading": "はしがかり"
+        },
+        {
+          "word": "橋懸",
+          "reading": "はしがかり"
+        }
+      ]
+    }
   ]
 }

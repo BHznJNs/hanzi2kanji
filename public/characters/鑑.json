@@ -95,5 +95,229 @@
       "startStroke": 18,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムには近代絵画の鑑賞能力がある。",
+      "furigana": "トムには[近代|きん|だい][絵画|かい|が]の[鑑賞|かん|しょう][能力|のう|りょく]がある。",
+      "translation_zh_CN": "汤姆欣赏现代艺术。"
+    },
+    {
+      "content": "DNA鑑定によって彼の無罪が証明された。",
+      "furigana": "[DNA|でぃーえぬえー][鑑定|かん|てい]によって[彼|かれ]の[無罪|む|ざい]が[証明|しょう|めい]された。",
+      "translation_zh_CN": "DNA检测表明，他是无辜的。"
+    },
+    {
+      "content": "あの映画を鑑賞できるのは大人だけだ。",
+      "furigana": "あの[映画|えい|が]を[鑑賞|かん|しょう]できるのは[大人|おとな]だけだ。",
+      "translation_zh_CN": "只有成人可以看那种电影。"
+    },
+    {
+      "content": "時間があるときには、いつもクラシック音楽鑑賞を楽しんでいる。",
+      "furigana": "[時間|じ|かん]があるときには、いつもクラシック[音楽|おん|がく][鑑賞|かん|しょう]を[楽|たの]しんでいる。",
+      "translation_zh_CN": "有空的时候，我总喜欢听古典音乐。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鑑賞",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "鑑賞",
+          "reading": "かんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定",
+          "reading": "かんてい"
+        }
+      ]
+    },
+    {
+      "slug": "鑑識",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑識",
+          "reading": "かんしき"
+        }
+      ]
+    },
+    {
+      "slug": "鑑識眼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑識眼",
+          "reading": "かんしきがん"
+        }
+      ]
+    },
+    {
+      "slug": "監査",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "word": "鑑査",
+          "reading": "かんさ"
+        }
+      ]
+    },
+    {
+      "slug": "鑑みる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑みる",
+          "reading": "かんがみる"
+        },
+        {
+          "word": "鑒みる",
+          "reading": "かんがみる"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定書",
+          "reading": "かんていしょ"
+        }
+      ]
+    },
+    {
+      "slug": "鑑別",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑別",
+          "reading": "かんべつ"
+        }
+      ]
+    },
+    {
+      "slug": "鑑別所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑別所",
+          "reading": "かんべつしょ"
+        }
+      ]
+    },
+    {
+      "slug": "鑑評会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑評会",
+          "reading": "かんぴょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定士",
+          "reading": "かんていし"
+        }
+      ]
+    },
+    {
+      "slug": "鑑識家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑識家",
+          "reading": "かんしきか"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定価格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定価格",
+          "reading": "かんていかかく"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定官",
+          "reading": "かんていかん"
+        }
+      ]
+    },
+    {
+      "slug": "鑑別診断",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑別診断",
+          "reading": "かんべつしんだん"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定家",
+          "reading": "かんていか"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定料",
+          "reading": "かんていりょう"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定留置",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定留置",
+          "reading": "かんていりゅうち"
+        }
+      ]
+    },
+    {
+      "slug": "鑑定人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鑑定人",
+          "reading": "かんていにん"
+        }
+      ]
+    }
   ]
 }

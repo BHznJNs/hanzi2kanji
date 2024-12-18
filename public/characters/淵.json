@@ -67,5 +67,62 @@
       "startStroke": 7,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "世界は破滅の淵に立たされている。",
+      "furigana": "[世界|せ|かい]は[破滅|は|めつ]の[淵|ふち]に[立|た]たされている。",
+      "translation_zh_CN": "世界正处于毁灭的边缘。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "淵酔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淵酔",
+          "reading": "えんすい"
+        },
+        {
+          "word": "淵酔",
+          "reading": "えんずい"
+        }
+      ]
+    },
+    {
+      "slug": "淵底",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淵底",
+          "reading": "えんてい"
+        }
+      ]
+    },
+    {
+      "slug": "淵源",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淵源",
+          "reading": "えんげん"
+        }
+      ]
+    },
+    {
+      "slug": "淵叢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淵叢",
+          "reading": "えんそう"
+        },
+        {
+          "word": "淵藪",
+          "reading": "えんそう"
+        }
+      ]
+    }
   ]
 }

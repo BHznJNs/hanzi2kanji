@@ -88,5 +88,367 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "絵を見なさい。",
+      "furigana": "[絵|え]を[見|み]なさい。",
+      "translation_zh_CN": "看图片。"
+    },
+    {
+      "content": "あの絵は見える？",
+      "furigana": "あの[絵|え]は[見|み]える？",
+      "translation_zh_CN": "你能看到那张照片吗？"
+    },
+    {
+      "content": "絵が曲がって掛かっている。",
+      "furigana": "[絵|え]が[曲|ま]がって[掛|か]かっている。",
+      "translation_zh_CN": "图片歪斜地挂着。"
+    },
+    {
+      "content": "その絵を見なさい。",
+      "furigana": "その[絵|え]を[見|み]なさい。",
+      "translation_zh_CN": "看看那张照片。"
+    },
+    {
+      "content": "彼女は絵がうまい。",
+      "furigana": "[彼女|かの|じょ]は[絵|え]がうまい。",
+      "translation_zh_CN": "她擅长绘画。"
+    },
+    {
+      "content": "絵に触ってはいけない。",
+      "furigana": "[絵|え]に[触|さわ]ってはいけない。",
+      "translation_zh_CN": "别碰图片。"
+    },
+    {
+      "content": "彼女は絵を見ました。",
+      "furigana": "[彼女|かの|じょ]は[絵|え]を[見|み]ました。",
+      "translation_zh_CN": "她看着照片。"
+    },
+    {
+      "content": "絵が苦手なの。",
+      "furigana": "[絵|え]が[苦手|にが|て]なの。",
+      "translation_zh_CN": "我不擅长画画。"
+    },
+    {
+      "content": "これは絵ですよ。",
+      "furigana": "これは[絵|え]ですよ。",
+      "translation_zh_CN": "这是一张照片。"
+    },
+    {
+      "content": "絵を描くの好き？",
+      "furigana": "[絵|え]を[描|か]くの[好|す]き？",
+      "translation_zh_CN": "你喜欢画画吗？"
+    },
+    {
+      "content": "彼女は絵を見ました。",
+      "furigana": "[彼女|かの|じょ]は[絵|え]を[見|み]ました。",
+      "translation_zh_CN": "她看着那幅画。"
+    },
+    {
+      "content": "彼は絵をかいている。",
+      "furigana": "[彼|かれ]は[絵|え]をかいている。",
+      "translation_zh_CN": "他正在画一幅画。"
+    },
+    {
+      "content": "彼は犬の絵を書いた。",
+      "furigana": "[彼|かれ]は[犬|いぬ]の[絵|え]を[書|か]いた。",
+      "translation_zh_CN": "他畫了一幅狗的畫。"
+    },
+    {
+      "content": "彼は犬の絵を描いた。",
+      "furigana": "[彼|かれ]は[犬|いぬ]の[絵|え]を[描|えが]いた。",
+      "translation_zh_CN": "他畫了一幅狗的畫。"
+    },
+    {
+      "content": "僕、絵が下手なんだ。",
+      "furigana": "[僕|ぼく]、[絵|え]が[下手|へた]なんだ。",
+      "translation_zh_CN": "我不擅長畫畫。"
+    },
+    {
+      "content": "彼女は壁を絵で飾った。",
+      "furigana": "[彼女|かの|じょ]は[壁|かべ]を[絵|え]で[飾|かざ]った。",
+      "translation_zh_CN": "她用绘画来装饰墙。"
+    },
+    {
+      "content": "彼はバラの絵を描いた。",
+      "furigana": "[彼|かれ]はバラの[絵|え]を[描|えが]いた。",
+      "translation_zh_CN": "他畫了一幅玫瑰的畫。"
+    },
+    {
+      "content": "絵を描くのが苦手なの。",
+      "furigana": "[絵|え]を[描|か]くのが[苦手|にが|て]なの。",
+      "translation_zh_CN": "我不擅長畫畫。"
+    },
+    {
+      "content": "壁には絵が掛かっている。",
+      "furigana": "[壁|かべ]には[絵|え]が[掛|か]かっている。",
+      "translation_zh_CN": "牆上有一幅畫。"
+    },
+    {
+      "content": "私は絵をかくのが苦手だ。",
+      "furigana": "[私|わたし]は[絵|え]をかくのが[苦手|にが|て]だ。",
+      "translation_zh_CN": "我不擅長畫畫。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "絵画",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "絵画",
+          "reading": "かいが"
+        }
+      ]
+    },
+    {
+      "slug": "絵の具",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "絵の具",
+          "reading": "えのぐ"
+        },
+        {
+          "word": "絵具",
+          "reading": "えのぐ"
+        }
+      ]
+    },
+    {
+      "slug": "絵本",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵本",
+          "reading": "えほん"
+        }
+      ]
+    },
+    {
+      "slug": "絵はがき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵葉書",
+          "reading": "えはがき"
+        },
+        {
+          "word": "絵はがき",
+          "reading": "えはがき"
+        },
+        {
+          "word": "絵端書",
+          "reading": "えはがき"
+        },
+        {
+          "word": "絵ハガキ",
+          "reading": "えハガキ"
+        }
+      ]
+    },
+    {
+      "slug": "絵筆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵筆",
+          "reading": "えふで"
+        }
+      ]
+    },
+    {
+      "slug": "絵かき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵かき",
+          "reading": "えかき"
+        },
+        {
+          "word": "絵描き",
+          "reading": "えかき"
+        },
+        {
+          "word": "絵描",
+          "reading": "えかき"
+        },
+        {
+          "word": "絵書き",
+          "reading": "えかき"
+        }
+      ]
+    },
+    {
+      "slug": "絵を描く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵を描く",
+          "reading": "えをかく"
+        },
+        {
+          "word": "絵を書く",
+          "reading": "えをかく"
+        },
+        {
+          "word": "絵を描く",
+          "reading": "えをえがく"
+        }
+      ]
+    },
+    {
+      "slug": "絵馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵馬",
+          "reading": "えま"
+        },
+        {
+          "word": "絵馬",
+          "reading": "えうま"
+        }
+      ]
+    },
+    {
+      "slug": "絵巻物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵巻物",
+          "reading": "えまきもの"
+        }
+      ]
+    },
+    {
+      "slug": "絵巻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵巻",
+          "reading": "えまき"
+        }
+      ]
+    },
+    {
+      "slug": "絵文字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵文字",
+          "reading": "えもじ"
+        }
+      ]
+    },
+    {
+      "slug": "画師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵師",
+          "reading": "えし"
+        },
+        {
+          "word": "画師",
+          "reading": "えし"
+        },
+        {
+          "word": "画師",
+          "reading": "がし"
+        }
+      ]
+    },
+    {
+      "slug": "絵解き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵解き",
+          "reading": "えとき"
+        },
+        {
+          "word": "絵とき",
+          "reading": "えとき"
+        }
+      ]
+    },
+    {
+      "slug": "絵空事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵空事",
+          "reading": "えそらごと"
+        }
+      ]
+    },
+    {
+      "slug": "絵柄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵柄",
+          "reading": "えがら"
+        }
+      ]
+    },
+    {
+      "slug": "絵入り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵入り",
+          "reading": "えいり"
+        }
+      ]
+    },
+    {
+      "slug": "絵図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵図",
+          "reading": "えず"
+        }
+      ]
+    },
+    {
+      "slug": "絵に描いた餅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵に描いた餅",
+          "reading": "えにかいたもち"
+        },
+        {
+          "word": "絵に描いた餠",
+          "reading": "えにかいたもち"
+        },
+        {
+          "word": "絵にかいた餅",
+          "reading": "えにかいたもち"
+        }
+      ]
+    },
+    {
+      "slug": "絵に描いたよう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絵に描いたよう",
+          "reading": "えにかいたよう"
+        },
+        {
+          "word": "絵に描いたよう",
+          "reading": "えにえがいたよう"
+        }
+      ]
+    }
   ]
 }

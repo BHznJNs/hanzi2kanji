@@ -38,7 +38,7 @@
         "prix",
         "frais",
         "charges",
-        "droits (d\u0027inscription)",
+        "droits (d'inscription)",
         "location",
         "salaire"
       ]
@@ -104,6 +104,250 @@
       "radical": "八",
       "startStroke": 11,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "バス賃はいくらですか。",
+      "furigana": "バス[賃|ちん]はいくらですか。",
+      "translation_zh_CN": "巴士票价是多少？"
+    },
+    {
+      "content": "家賃は月いくらですか。",
+      "furigana": "[家賃|や|ちん]は[月|つき]いくらですか。",
+      "translation_zh_CN": "一個月的租金多少？"
+    },
+    {
+      "content": "彼らは賃上げを求めた。",
+      "furigana": "[彼|かれ]らは[賃上|ちん|あ]げを[求|もと]めた。",
+      "translation_zh_CN": "他们要求加薪。"
+    },
+    {
+      "content": "沖縄の最低賃金は642円です。",
+      "furigana": "[沖縄|おき|なわ]の[最低|さい|てい][賃金|ちん|ぎん]は[6|][4|][2|][円|えん]です。",
+      "translation_zh_CN": "冲绳的最低时薪是每小时642日元。"
+    },
+    {
+      "content": "家賃は週に５０ドルしか払えないよ。",
+      "furigana": "[家賃|や|ちん]は[週|しゅう]に[５|ご][０|じゅう]ドルしか[払|はら]えないよ。",
+      "translation_zh_CN": "我最多只能付每周50美元的房租。"
+    },
+    {
+      "content": "あなたは家賃を１ヶ月滞納している。",
+      "furigana": "あなたは[家賃|や|ちん]を[１|][ヶ月|かげつ][滞納|たい|のう]している。",
+      "translation_zh_CN": "你的租金遲交了一個月。"
+    },
+    {
+      "content": "あなたの国の最低賃金はいくらですか？",
+      "furigana": "あなたの[国|くに]の[最低|さい|てい][賃金|ちん|ぎん]はいくらですか？",
+      "translation_zh_CN": "你的国家的最低工资是多少？"
+    },
+    {
+      "content": "ジョージア州の最低賃金はいくらですか？",
+      "furigana": "ジョージア[州|しゅう]の[最低|さい|てい][賃金|ちん|ぎん]はいくらですか？",
+      "translation_zh_CN": "请问乔治亚洲的最低工资是多少？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "賃金",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賃金",
+          "reading": "ちんぎん"
+        },
+        {
+          "word": "賃銀",
+          "reading": "ちんぎん"
+        },
+        {
+          "word": "賃金",
+          "reading": "ちんきん"
+        }
+      ]
+    },
+    {
+      "slug": "賃上げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃上げ",
+          "reading": "ちんあげ"
+        }
+      ]
+    },
+    {
+      "slug": "賃貸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃貸",
+          "reading": "ちんたい"
+        }
+      ]
+    },
+    {
+      "slug": "賃金交渉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃金交渉",
+          "reading": "ちんぎんこうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "賃料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃料",
+          "reading": "ちんりょう"
+        }
+      ]
+    },
+    {
+      "slug": "賃借り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃借り",
+          "reading": "ちんがり"
+        }
+      ]
+    },
+    {
+      "slug": "賃貸借",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃貸借",
+          "reading": "ちんたいしゃく"
+        }
+      ]
+    },
+    {
+      "slug": "賃金格差",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃金格差",
+          "reading": "ちんぎんかくさ"
+        }
+      ]
+    },
+    {
+      "slug": "賃借",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃借",
+          "reading": "ちんしゃく"
+        }
+      ]
+    },
+    {
+      "slug": "賃下げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃下げ",
+          "reading": "ちんさげ"
+        }
+      ]
+    },
+    {
+      "slug": "賃仕事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃仕事",
+          "reading": "ちんしごと"
+        }
+      ]
+    },
+    {
+      "slug": "賃借権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃借権",
+          "reading": "ちんしゃくけん"
+        }
+      ]
+    },
+    {
+      "slug": "賃貸人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃貸人",
+          "reading": "ちんたいにん"
+        }
+      ]
+    },
+    {
+      "slug": "賃加工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃加工",
+          "reading": "ちんかこう"
+        }
+      ]
+    },
+    {
+      "slug": "賃貸住宅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃貸住宅",
+          "reading": "ちんたいじゅうたく"
+        }
+      ]
+    },
+    {
+      "slug": "賃貸契約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃貸契約",
+          "reading": "ちんたいけいやく"
+        }
+      ]
+    },
+    {
+      "slug": "賃貸借契約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃貸借契約",
+          "reading": "ちんたいしゃくけいやく"
+        }
+      ]
+    },
+    {
+      "slug": "賃貸価格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃貸価格",
+          "reading": "ちんたいかかく"
+        }
+      ]
+    },
+    {
+      "slug": "賃料減額",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賃料減額",
+          "reading": "ちんりょうげんがく"
+        }
+      ]
     }
   ]
 }

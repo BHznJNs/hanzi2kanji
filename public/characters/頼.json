@@ -105,5 +105,311 @@
       "startStroke": 14,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "勘定書を頼むよ。",
+      "furigana": "[勘定|かん|じょう][書|しょ]を[頼|たの]むよ。",
+      "translation_zh_CN": "請結帳。"
+    },
+    {
+      "content": "彼は信頼できる。",
+      "furigana": "[彼|かれ]は[信頼|しん|らい]できる。",
+      "translation_zh_CN": "你可以依靠他。"
+    },
+    {
+      "content": "頼りにしてるよ。",
+      "furigana": "[頼|たよ]りにしてるよ。",
+      "translation_zh_CN": "我就指望你了。"
+    },
+    {
+      "content": "頼りにしてます。",
+      "furigana": "[頼|たよ]りにしてます。",
+      "translation_zh_CN": "我就指望你了。"
+    },
+    {
+      "content": "君を信頼してるよ。",
+      "furigana": "[君|きみ]を[信頼|しん|らい]してるよ。",
+      "translation_zh_CN": "我相信你。"
+    },
+    {
+      "content": "あまり人に頼るな。",
+      "furigana": "あまり[人|じん]に[頼|たよ]るな。",
+      "translation_zh_CN": "不要太过于依赖别人。"
+    },
+    {
+      "content": "お前が頼りなんだ。",
+      "furigana": "お[前|まえ]が[頼|たよ]りなんだ。",
+      "translation_zh_CN": "我们可全指望你了。"
+    },
+    {
+      "content": "君に１つ頼みがある。",
+      "furigana": "[君|きみ]に[１|ひと]つ[頼|たの]みがある。",
+      "translation_zh_CN": "我想請你們幫個忙。"
+    },
+    {
+      "content": "苦しいときの神頼み。",
+      "furigana": "[苦|くる]しいときの[神頼|かみ|だの]み。",
+      "translation_zh_CN": "过河拆桥。"
+    },
+    {
+      "content": "彼への信頼を失った。",
+      "furigana": "[彼|かれ]への[信頼|しん|らい]を[失|うしな]った。",
+      "translation_zh_CN": "我失去了對他的信任。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "頼む",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "頼む",
+          "reading": "たのむ"
+        },
+        {
+          "word": "恃む",
+          "reading": "たのむ"
+        },
+        {
+          "word": "憑む",
+          "reading": "たのむ"
+        }
+      ]
+    },
+    {
+      "slug": "頼る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "頼る",
+          "reading": "たよる"
+        },
+        {
+          "word": "便る",
+          "reading": "たよる"
+        }
+      ]
+    },
+    {
+      "slug": "頼もしい",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "頼もしい",
+          "reading": "たのもしい"
+        }
+      ]
+    },
+    {
+      "slug": "頼み",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "頼み",
+          "reading": "たのみ"
+        },
+        {
+          "word": "恃み",
+          "reading": "たのみ"
+        },
+        {
+          "word": "憑み",
+          "reading": "たのみ"
+        }
+      ]
+    },
+    {
+      "slug": "頼り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼り",
+          "reading": "たより"
+        }
+      ]
+    },
+    {
+      "slug": "頼りない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼りない",
+          "reading": "たよりない"
+        },
+        {
+          "word": "頼り無い",
+          "reading": "たよりない"
+        }
+      ]
+    },
+    {
+      "slug": "頼み込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼み込む",
+          "reading": "たのみこむ"
+        }
+      ]
+    },
+    {
+      "slug": "頼み事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼みごと",
+          "reading": "たのみごと"
+        },
+        {
+          "word": "頼み事",
+          "reading": "たのみごと"
+        }
+      ]
+    },
+    {
+      "slug": "頼り甲斐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼りがい",
+          "reading": "たよりがい"
+        },
+        {
+          "word": "頼り甲斐",
+          "reading": "たよりがい"
+        }
+      ]
+    },
+    {
+      "slug": "頼りになる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼りになる",
+          "reading": "たよりになる"
+        }
+      ]
+    },
+    {
+      "slug": "頼りにする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼りにする",
+          "reading": "たよりにする"
+        }
+      ]
+    },
+    {
+      "slug": "頼りに出来る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼りに出来る",
+          "reading": "たよりにできる"
+        },
+        {
+          "word": "頼りにできる",
+          "reading": "たよりにできる"
+        }
+      ]
+    },
+    {
+      "slug": "頼むから",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼むから",
+          "reading": "たのむから"
+        }
+      ]
+    },
+    {
+      "slug": "頼母子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼母子",
+          "reading": "たのもし"
+        },
+        {
+          "word": "憑子",
+          "reading": "たのもし"
+        }
+      ]
+    },
+    {
+      "slug": "頼み入る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼み入る",
+          "reading": "たのみいる"
+        }
+      ]
+    },
+    {
+      "slug": "頼み少ない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼み少ない",
+          "reading": "たのみすくない"
+        }
+      ]
+    },
+    {
+      "slug": "頼信紙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼信紙",
+          "reading": "らいしんし"
+        }
+      ]
+    },
+    {
+      "slug": "頼うだ人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼うだ人",
+          "reading": "たのうだひと"
+        }
+      ]
+    },
+    {
+      "slug": "頼み甲斐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼み甲斐",
+          "reading": "たのみがい"
+        },
+        {
+          "word": "頼みがい",
+          "reading": "たのみがい"
+        }
+      ]
+    },
+    {
+      "slug": "頼みの綱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頼みの綱",
+          "reading": "たのみのつな"
+        }
+      ]
+    }
   ]
 }

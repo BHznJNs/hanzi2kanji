@@ -68,5 +68,255 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "ボクは鴨ガー。英語を話すガー。",
+      "furigana": "ボクは[鴨|かも]ガー。[英語|えい|ご]を[話|はな]すガー。",
+      "translation_zh_CN": "我是鸭子。加尔说英语。"
+    },
+    {
+      "content": "鴨にされる人というのはやはり鴨のオーラを発散しているということでしょう。",
+      "furigana": "[鴨|かも]にされる[人|ひと]というのはやはり[鴨|かも]のオーラを[発散|はっ|さん]しているということでしょう。",
+      "translation_zh_CN": "变成鸭子的人，大概都散发着鸭子的气息。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "銀杏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀杏",
+          "reading": "いちょう"
+        },
+        {
+          "word": "公孫樹",
+          "reading": "いちょう"
+        },
+        {
+          "word": "鴨脚樹",
+          "reading": "いちょう"
+        },
+        {
+          "word": "公孫樹",
+          "reading": "こうそんじゅ"
+        },
+        {
+          "reading": "イチョウ"
+        }
+      ]
+    },
+    {
+      "slug": "鴨の嘴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨の嘴",
+          "reading": "かものはし"
+        },
+        {
+          "word": "鴨嘴",
+          "reading": "かものはし"
+        },
+        {
+          "reading": "カモノハシ"
+        }
+      ]
+    },
+    {
+      "slug": "鴨肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨肉",
+          "reading": "かもにく"
+        },
+        {
+          "word": "かも肉",
+          "reading": "かもにく"
+        },
+        {
+          "word": "カモ肉",
+          "reading": "カモにく"
+        }
+      ]
+    },
+    {
+      "slug": "鴨茅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨茅",
+          "reading": "かもがや"
+        },
+        {
+          "reading": "カモガヤ"
+        }
+      ]
+    },
+    {
+      "slug": "鴨猟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨猟",
+          "reading": "かもりょう"
+        }
+      ]
+    },
+    {
+      "slug": "鴨鍋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨鍋",
+          "reading": "かもなべ"
+        }
+      ]
+    },
+    {
+      "slug": "鴨居",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨居",
+          "reading": "かもい"
+        }
+      ]
+    },
+    {
+      "slug": "鴨場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨場",
+          "reading": "かもば"
+        }
+      ]
+    },
+    {
+      "slug": "鴨打ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨撃ち",
+          "reading": "かもうち"
+        },
+        {
+          "word": "鴨打ち",
+          "reading": "かもうち"
+        }
+      ]
+    },
+    {
+      "slug": "鴨南蛮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨南蛮",
+          "reading": "かもなんばん"
+        }
+      ]
+    },
+    {
+      "slug": "カモ目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "カモ目",
+          "reading": "カモもく"
+        },
+        {
+          "word": "鴨目",
+          "reading": "かももく"
+        }
+      ]
+    },
+    {
+      "slug": "鴨がねぎを背負って来る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨が葱を背負って来る",
+          "reading": "かもがねぎをしょってくる"
+        }
+      ]
+    },
+    {
+      "slug": "鴨る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨る",
+          "reading": "かもる"
+        },
+        {
+          "reading": "カモる"
+        }
+      ]
+    },
+    {
+      "slug": "鴨葱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨ネギ",
+          "reading": "かもねぎ"
+        },
+        {
+          "word": "鴨葱",
+          "reading": "かもねぎ"
+        },
+        {
+          "word": "鴨ねぎ",
+          "reading": "かもねぎ"
+        },
+        {
+          "reading": "カモネギ"
+        }
+      ]
+    },
+    {
+      "slug": "カモ科",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "カモ科",
+          "reading": "カモか"
+        },
+        {
+          "word": "鴨科",
+          "reading": "かもか"
+        }
+      ]
+    },
+    {
+      "slug": "カモハシ竜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "カモハシ竜",
+          "reading": "カモハシりゅう"
+        },
+        {
+          "word": "鴨嘴竜",
+          "reading": "かもはしりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "鴨にする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴨にする",
+          "reading": "かもにする"
+        },
+        {
+          "reading": "カモにする"
+        }
+      ]
+    }
   ]
 }

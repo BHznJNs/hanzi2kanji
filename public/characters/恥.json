@@ -69,5 +69,375 @@
       "startStroke": 6,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "恥を知りなさい。",
+      "furigana": "[恥|はじ]を[知|し]りなさい。",
+      "translation_zh_CN": "感到羞耻吧。"
+    },
+    {
+      "content": "恥を知れ！",
+      "furigana": "[恥|はじ]を[知|し]れ！",
+      "translation_zh_CN": "你太无耻了！"
+    },
+    {
+      "content": "恥を知りなさい！",
+      "furigana": "[恥|はじ]を[知|し]りなさい！",
+      "translation_zh_CN": "感到羞耻吧！"
+    },
+    {
+      "content": "少しは恥を知りなさい。",
+      "furigana": "[少|すこ]しは[恥|はじ]を[知|し]りなさい。",
+      "translation_zh_CN": "有点羞愧吧。"
+    },
+    {
+      "content": "恥の上塗りはよせ。",
+      "furigana": "[恥|はじ]の[上塗|うわ|ぬ]りはよせ。",
+      "translation_zh_CN": "不要掩盖你的耻辱。"
+    },
+    {
+      "content": "旅の恥はかきすて。",
+      "furigana": "[旅|たび]の[恥|はじ]はかきすて。",
+      "translation_zh_CN": "抛开旅行的耻辱。"
+    },
+    {
+      "content": "恥を知れ、みっともない。",
+      "furigana": "[恥|はじ]を[知|し]れ、みっともない。",
+      "translation_zh_CN": "你真丢脸，太恶心了。"
+    },
+    {
+      "content": "聞くは一時の恥、聞かぬは一生の恥。",
+      "furigana": "[聞|き]くは[一時|いっ|とき]の[恥|はじ]、[聞|き]かぬは[一生|いっ|しょう]の[恥|はじ]。",
+      "translation_zh_CN": "听是一时的耻辱，不听是终身的耻辱。"
+    },
+    {
+      "content": "約束を守らないのは恥だ。",
+      "furigana": "[約束|やく|そく]を[守|まも]らないのは[恥|はじ]だ。",
+      "translation_zh_CN": "不遵守诺言真是可惜。"
+    },
+    {
+      "content": "恥の多い生涯を送って来ました。",
+      "furigana": "[恥|はじ]の[多|おお]い[生涯|しょう|がい]を[送|おく]って[来|き]ました。",
+      "translation_zh_CN": "我过着充满耻辱的生活。"
+    },
+    {
+      "content": "恥ずかしがらないで。",
+      "furigana": "[恥|は]ずかしがらないで。",
+      "translation_zh_CN": "不要害羞。"
+    },
+    {
+      "content": "めっちゃ恥ずかしい。",
+      "furigana": "めっちゃ[恥|は]ずかしい。",
+      "translation_zh_CN": "好丢脸！"
+    },
+    {
+      "content": "自分が恥ずかしいよ。",
+      "furigana": "[自分|じ|ぶん]が[恥|は]ずかしいよ。",
+      "translation_zh_CN": "我对我自己感到惭愧。"
+    },
+    {
+      "content": "彼は失敗を恥じている。",
+      "furigana": "[彼|かれ]は[失敗|しっ|ぱい]を[恥|は]じている。",
+      "translation_zh_CN": "他为他的失败感到羞耻。"
+    },
+    {
+      "content": "少しは恥を知りなさい。",
+      "furigana": "[少|すこ]しは[恥|はじ]を[知|し]りなさい。",
+      "translation_zh_CN": "你應該為你自己感到羞恥。"
+    },
+    {
+      "content": "トムは恥ずかしがり屋だ。",
+      "furigana": "トムは[恥|は]ずかしがり[屋|や]だ。",
+      "translation_zh_CN": "汤姆害羞。"
+    },
+    {
+      "content": "私は自分の振る舞いを恥じた。",
+      "furigana": "[私|わたし]は[自分|じ|ぶん]の[振|ふ]る[舞|ま]いを[恥|は]じた。",
+      "translation_zh_CN": "我对自己的行为感到羞愧。"
+    },
+    {
+      "content": "古着での外出は恥ずかしかった。",
+      "furigana": "[古着|ふる|ぎ]での[外出|がい|しゅつ]は[恥|は]ずかしかった。",
+      "translation_zh_CN": "穿旧衣服出门令我感觉颜面扫地。"
+    },
+    {
+      "content": "聞くは一時の恥、聞かぬは一生の恥。",
+      "furigana": "[聞|き]くは[一時|いっ|とき]の[恥|はじ]、[聞|き]かぬは[一生|いっ|しょう]の[恥|はじ]。",
+      "translation_zh_CN": "问一下不要钱。"
+    },
+    {
+      "content": "彼は自分の違法行為を恥じていない。",
+      "furigana": "[彼|かれ]は[自分|じ|ぶん]の[違法|い|ほう][行為|こう|い]を[恥|は]じていない。",
+      "translation_zh_CN": "他对自己的违法行为毫不羞耻。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "恥ずかしい",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "恥ずかしい",
+          "reading": "はずかしい"
+        }
+      ]
+    },
+    {
+      "slug": "恥じる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "恥じる",
+          "reading": "はじる"
+        },
+        {
+          "word": "羞じる",
+          "reading": "はじる"
+        },
+        {
+          "word": "耻じる",
+          "reading": "はじる"
+        },
+        {
+          "word": "愧じる",
+          "reading": "はじる"
+        },
+        {
+          "word": "慙じる",
+          "reading": "はじる"
+        }
+      ]
+    },
+    {
+      "slug": "恥知らず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥知らず",
+          "reading": "はじしらず"
+        }
+      ]
+    },
+    {
+      "slug": "恥じらい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥じらい",
+          "reading": "はじらい"
+        },
+        {
+          "word": "恥らい",
+          "reading": "はじらい"
+        },
+        {
+          "word": "羞じらい",
+          "reading": "はじらい"
+        },
+        {
+          "word": "羞い",
+          "reading": "はじらい"
+        },
+        {
+          "word": "羞らい",
+          "reading": "はじらい"
+        }
+      ]
+    },
+    {
+      "slug": "恥じらう",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "恥じらう",
+          "reading": "はじらう"
+        },
+        {
+          "word": "恥らう",
+          "reading": "はじらう"
+        },
+        {
+          "word": "羞じらう",
+          "reading": "はじらう"
+        }
+      ]
+    },
+    {
+      "slug": "恥ずかしがる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥ずかしがる",
+          "reading": "はずかしがる"
+        }
+      ]
+    },
+    {
+      "slug": "恥ずかしがり屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥ずかしがり屋",
+          "reading": "はずかしがりや"
+        },
+        {
+          "word": "恥ずかしがりや",
+          "reading": "はずかしがりや"
+        }
+      ]
+    },
+    {
+      "slug": "恥ずべき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥ずべき",
+          "reading": "はずべき"
+        }
+      ]
+    },
+    {
+      "slug": "恥さらし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥さらし",
+          "reading": "はじさらし"
+        },
+        {
+          "word": "恥晒し",
+          "reading": "はじさらし"
+        },
+        {
+          "word": "恥曝し",
+          "reading": "はじさらし"
+        }
+      ]
+    },
+    {
+      "slug": "恥辱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥辱",
+          "reading": "ちじょく"
+        }
+      ]
+    },
+    {
+      "slug": "恥をかく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥をかく",
+          "reading": "はじをかく"
+        },
+        {
+          "word": "恥を掻く",
+          "reading": "はじをかく"
+        }
+      ]
+    },
+    {
+      "slug": "恥を知る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥を知る",
+          "reading": "はじをしる"
+        }
+      ]
+    },
+    {
+      "slug": "恥の上塗り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥の上塗り",
+          "reading": "はじのうわぬり"
+        }
+      ]
+    },
+    {
+      "slug": "恥を忍ぶ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥を忍ぶ",
+          "reading": "はじをしのぶ"
+        },
+        {
+          "word": "恥をしのぶ",
+          "reading": "はじをしのぶ"
+        }
+      ]
+    },
+    {
+      "slug": "恥骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥骨",
+          "reading": "ちこつ"
+        }
+      ]
+    },
+    {
+      "slug": "恥垢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥垢",
+          "reading": "ちこう"
+        }
+      ]
+    },
+    {
+      "slug": "恥丘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥丘",
+          "reading": "ちきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "恥ずい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥ずい",
+          "reading": "はずい"
+        },
+        {
+          "reading": "ハズイ"
+        },
+        {
+          "reading": "ハズい"
+        }
+      ]
+    },
+    {
+      "slug": "恥も外聞もない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "恥も外聞もない",
+          "reading": "はじもがいぶんもない"
+        },
+        {
+          "word": "恥も外聞も無い",
+          "reading": "はじもがいぶんもない"
+        }
+      ]
+    }
   ]
 }

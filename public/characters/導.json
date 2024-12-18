@@ -94,5 +94,222 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "検事は誘導尋問をした。",
+      "furigana": "[検事|けん|じ]は[誘導|ゆう|どう][尋問|じん|もん]をした。",
+      "translation_zh_CN": "检察官问了我一个引导性的问题。"
+    },
+    {
+      "content": "運命は、志あるものを導き、志なきものをひきずってゆく。",
+      "furigana": "[運命|うん|めい]は、[志|こころざし]あるものを[導|みちび]き、[志|こころざし]なきものをひきずってゆく。",
+      "translation_zh_CN": "命运是指引着鸿志者前进，拖拽着平庸者继续混生活。"
+    },
+    {
+      "content": "カトリックを信じていない人々でさえ象徴的指導者として法王を敬っている。",
+      "furigana": "カトリックを[信|しん]じていない[人々|ひとびと]でさえ[象徴|しょう|ちょう][的|てき][指導|し|どう][者|しゃ]として[法王|ほう|おう]を[敬|うやま]っている。",
+      "translation_zh_CN": "甚至是不相信天主教的人也把教皇敬为一个象征性的领导者。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "導入",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "導入",
+          "reading": "どうにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "導く",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "導く",
+          "reading": "みちびく"
+        }
+      ]
+    },
+    {
+      "slug": "導火線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導火線",
+          "reading": "どうかせん"
+        }
+      ]
+    },
+    {
+      "slug": "導き出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導き出す",
+          "reading": "みちびきだす"
+        },
+        {
+          "word": "導きだす",
+          "reading": "みちびきだす"
+        }
+      ]
+    },
+    {
+      "slug": "導入部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導入部",
+          "reading": "どうにゅうぶ"
+        }
+      ]
+    },
+    {
+      "slug": "導き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導き",
+          "reading": "みちびき"
+        }
+      ]
+    },
+    {
+      "slug": "導出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導出",
+          "reading": "どうしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "導電性高分子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導電性高分子",
+          "reading": "どうでんせいこうぶんし"
+        }
+      ]
+    },
+    {
+      "slug": "導波管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導波管",
+          "reading": "どうはかん"
+        }
+      ]
+    },
+    {
+      "slug": "導手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導手",
+          "reading": "どうしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "導引",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導引",
+          "reading": "どういん"
+        }
+      ]
+    },
+    {
+      "slug": "導光板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導光板",
+          "reading": "どうこうばん"
+        }
+      ]
+    },
+    {
+      "slug": "導水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導水",
+          "reading": "どうすい"
+        }
+      ]
+    },
+    {
+      "slug": "導水管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導水管",
+          "reading": "どうすいかん"
+        }
+      ]
+    },
+    {
+      "slug": "導入教育",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導入教育",
+          "reading": "どうにゅうきょういく"
+        }
+      ]
+    },
+    {
+      "slug": "導き手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導き手",
+          "reading": "みちびきて"
+        }
+      ]
+    },
+    {
+      "slug": "導入済み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導入済み",
+          "reading": "どうにゅうずみ"
+        }
+      ]
+    },
+    {
+      "slug": "導波管定数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導波管定数",
+          "reading": "どうはかんていすう"
+        }
+      ]
+    },
+    {
+      "slug": "導因",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "導因",
+          "reading": "どういん"
+        }
+      ]
+    }
   ]
 }

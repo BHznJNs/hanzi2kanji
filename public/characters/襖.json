@@ -63,5 +63,46 @@
       "startStroke": 15,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "襖絵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "襖絵",
+          "reading": "ふすまえ"
+        }
+      ]
+    },
+    {
+      "slug": "襖越し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "襖越し",
+          "reading": "ふすまごし"
+        },
+        {
+          "word": "ふすま越し",
+          "reading": "ふすまごし"
+        }
+      ]
+    },
+    {
+      "slug": "ふすま紙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ふすま紙",
+          "reading": "ふすまがみ"
+        },
+        {
+          "word": "襖紙",
+          "reading": "ふすまがみ"
+        }
+      ]
+    }
   ]
 }

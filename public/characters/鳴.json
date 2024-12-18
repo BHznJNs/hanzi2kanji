@@ -89,5 +89,139 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "ラインが鳴った。",
+      "furigana": "[ライン|らいん]が[鳴|な]った。",
+      "translation_zh_CN": "线路响了。"
+    },
+    {
+      "content": "携帯が鳴った。",
+      "furigana": "[携帯|けい|たい]が[鳴|な]った。",
+      "translation_zh_CN": "我的手机响了。"
+    },
+    {
+      "content": "火災報知器が鳴った。",
+      "furigana": "[火災報知器|か|さい|ほう|ち|き]が[鳴|な]った。",
+      "translation_zh_CN": "火警警报响了。"
+    },
+    {
+      "content": "ベルが鳴った。",
+      "furigana": "ベルが[鳴|な]った。",
+      "translation_zh_CN": "铃声响了。"
+    },
+    {
+      "content": "ベルが鳴っている。",
+      "furigana": "ベルが[鳴|な]っている。",
+      "translation_zh_CN": "铃声响起。"
+    },
+    {
+      "content": "電話が鳴った。",
+      "furigana": "[電話|でん|わ]が[鳴|な]った。",
+      "translation_zh_CN": "电话响了。"
+    },
+    {
+      "content": "携帯が鳴ってる。",
+      "furigana": "[携帯|けい|たい]が[鳴|な]ってる。",
+      "translation_zh_CN": "我的手机响了。"
+    },
+    {
+      "content": "煙感知器が鳴った。",
+      "furigana": "[煙感知器|けむり|かん|ち|き]が[鳴|な]った。",
+      "translation_zh_CN": "烟雾探测器响了。"
+    },
+    {
+      "content": "鐘って鳴った？",
+      "furigana": "[鐘|かね]って[鳴|な]った？",
+      "translation_zh_CN": "铃声响了吗？"
+    },
+    {
+      "content": "鐘が鳴っている。",
+      "furigana": "[鐘|かね]が[鳴|な]っている。",
+      "translation_zh_CN": "铃声响起。"
+    },
+    {
+      "content": "携帯が鳴ってる。",
+      "furigana": "[携帯|けい|たい]が[鳴|な]ってる。",
+      "translation_zh_CN": "我的手机在响。"
+    },
+    {
+      "content": "俺に怒鳴るなよ。",
+      "furigana": "[俺|おれ]に[怒鳴|ど|な]るなよ。",
+      "translation_zh_CN": "別對著我吼。"
+    },
+    {
+      "content": "火災警報が鳴った。",
+      "furigana": "[火災|か|さい][警報|けい|ほう]が[鳴|な]った。",
+      "translation_zh_CN": "火警警报响了。"
+    },
+    {
+      "content": "電話が鳴ってるよ。",
+      "furigana": "[電話|でん|わ]が[鳴|な]ってるよ。",
+      "translation_zh_CN": "電話正在響。"
+    },
+    {
+      "content": "火災報知器が鳴った。",
+      "furigana": "[火災報知器|か|さい|ほう|ち|き]が[鳴|な]った。",
+      "translation_zh_CN": "火警警报响了。"
+    },
+    {
+      "content": "トムの携帯が鳴った。",
+      "furigana": "トムの[携帯|けい|たい]が[鳴|な]った。",
+      "translation_zh_CN": "Tom的手機響了。"
+    },
+    {
+      "content": "電話が鳴っているよ。",
+      "furigana": "[電話|でん|わ]が[鳴|な]っているよ。",
+      "translation_zh_CN": "電話正在響。"
+    },
+    {
+      "content": "数分後に電話が鳴った。",
+      "furigana": "[数|すう][分|ふん][後|ご]に[電話|でん|わ]が[鳴|な]った。",
+      "translation_zh_CN": "几分钟后，电话响了。"
+    },
+    {
+      "content": "教会の鐘が鳴っている。",
+      "furigana": "[教会|きょう|かい]の[鐘|かね]が[鳴|な]っている。",
+      "translation_zh_CN": "教堂的钟声响了。"
+    },
+    {
+      "content": "彼はドアベルを鳴らした。",
+      "furigana": "[彼|かれ]はドアベルを[鳴|な]らした。",
+      "translation_zh_CN": "他按了门铃。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鳴る",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "鳴る",
+          "reading": "なる"
+        }
+      ]
+    },
+    {
+      "slug": "鳴神",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳴神",
+          "reading": "なるかみ"
+        },
+        {
+          "word": "鳴る神",
+          "reading": "なるかみ"
+        },
+        {
+          "word": "雷",
+          "reading": "なるかみ"
+        }
+      ]
+    }
   ]
 }

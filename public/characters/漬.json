@@ -95,5 +95,326 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "マロン・グラアセは栗の砂糖漬で、日本の甘納豆に当るだらう。",
+      "furigana": "マロン・グラアセは[栗|ぐり]の[砂糖|さ|とう]漬で、[日本|にっ|ぽん]の[甘納豆|あま|なっ|とう]に[当|あた]るだらう。",
+      "translation_zh_CN": "Marron gulace 是蜜饯栗子，类似于日本的甘纳特。"
+    },
+    {
+      "content": "大根がよく漬かる。",
+      "furigana": "[大根|だい|こん]がよく[漬|つ]かる。",
+      "translation_zh_CN": "萝卜腌好了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "漬ける",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "漬ける",
+          "reading": "つける"
+        },
+        {
+          "word": "浸ける",
+          "reading": "つける"
+        }
+      ]
+    },
+    {
+      "slug": "浸す",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "浸す",
+          "reading": "ひたす"
+        },
+        {
+          "word": "漬す",
+          "reading": "ひたす"
+        }
+      ]
+    },
+    {
+      "slug": "浸る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浸る",
+          "reading": "ひたる"
+        },
+        {
+          "word": "漬る",
+          "reading": "ひたる"
+        }
+      ]
+    },
+    {
+      "slug": "浸かる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浸かる",
+          "reading": "つかる"
+        },
+        {
+          "word": "漬かる",
+          "reading": "つかる"
+        }
+      ]
+    },
+    {
+      "slug": "漬け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬け",
+          "reading": "づけ"
+        }
+      ]
+    },
+    {
+      "slug": "漬物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬物",
+          "reading": "つけもの"
+        },
+        {
+          "word": "漬け物",
+          "reading": "つけもの"
+        }
+      ]
+    },
+    {
+      "slug": "付け台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "付け台",
+          "reading": "つけだい"
+        },
+        {
+          "word": "付台",
+          "reading": "つけだい"
+        },
+        {
+          "word": "漬け台",
+          "reading": "つけだい"
+        },
+        {
+          "word": "漬台",
+          "reading": "つけだい"
+        }
+      ]
+    },
+    {
+      "slug": "漬け汁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬け汁",
+          "reading": "つけじる"
+        },
+        {
+          "word": "漬け汁",
+          "reading": "つけしる"
+        }
+      ]
+    },
+    {
+      "slug": "漬物屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬物屋",
+          "reading": "つけものや"
+        }
+      ]
+    },
+    {
+      "slug": "漬けタレ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬けタレ",
+          "reading": "つけたれ"
+        },
+        {
+          "word": "漬けたれ",
+          "reading": "つけたれ"
+        }
+      ]
+    },
+    {
+      "slug": "漬け焼き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬け焼き",
+          "reading": "つけやき"
+        },
+        {
+          "word": "つけ焼き",
+          "reading": "つけやき"
+        },
+        {
+          "word": "付け焼き",
+          "reading": "つけやき"
+        },
+        {
+          "word": "漬焼き",
+          "reading": "つけやき"
+        },
+        {
+          "word": "漬焼",
+          "reading": "つけやき"
+        },
+        {
+          "word": "付焼き",
+          "reading": "つけやき"
+        },
+        {
+          "word": "付焼",
+          "reading": "つけやき"
+        }
+      ]
+    },
+    {
+      "slug": "漬物石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬物石",
+          "reading": "つけものいし"
+        },
+        {
+          "word": "漬け物石",
+          "reading": "つけものいし"
+        }
+      ]
+    },
+    {
+      "slug": "浸けっ放し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬けっぱなし",
+          "reading": "つけっぱなし"
+        },
+        {
+          "word": "浸けっぱなし",
+          "reading": "つけっぱなし"
+        },
+        {
+          "word": "漬けっ放し",
+          "reading": "つけっぱなし"
+        },
+        {
+          "word": "浸けっ放し",
+          "reading": "つけっぱなし"
+        }
+      ]
+    },
+    {
+      "slug": "漬け菜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬け菜",
+          "reading": "つけな"
+        }
+      ]
+    },
+    {
+      "slug": "漬け込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬け込む",
+          "reading": "つけこむ"
+        },
+        {
+          "word": "漬込む",
+          "reading": "つけこむ"
+        }
+      ]
+    },
+    {
+      "slug": "漬け魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬け魚",
+          "reading": "つけざかな"
+        },
+        {
+          "word": "漬け魚",
+          "reading": "つけうお"
+        },
+        {
+          "word": "漬魚",
+          "reading": "つけざかな"
+        },
+        {
+          "word": "漬魚",
+          "reading": "つけうお"
+        }
+      ]
+    },
+    {
+      "slug": "漬く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬く",
+          "reading": "つく"
+        },
+        {
+          "word": "浸く",
+          "reading": "つく"
+        }
+      ]
+    },
+    {
+      "slug": "漬けダレ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬けダレ",
+          "reading": "つけだれ"
+        },
+        {
+          "word": "漬けだれ",
+          "reading": "つけだれ"
+        },
+        {
+          "word": "付けダレ",
+          "reading": "つけだれ"
+        },
+        {
+          "word": "浸けダレ",
+          "reading": "つけだれ"
+        }
+      ]
+    },
+    {
+      "slug": "漬物器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漬物器",
+          "reading": "つけものき"
+        }
+      ]
+    }
   ]
 }

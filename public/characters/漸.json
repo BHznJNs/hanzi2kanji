@@ -84,5 +84,211 @@
       "startStroke": 10,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "軈て",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "軈て",
+          "reading": "やがて"
+        },
+        {
+          "word": "頓て",
+          "reading": "やがて"
+        },
+        {
+          "word": "漸て",
+          "reading": "やがて"
+        }
+      ]
+    },
+    {
+      "slug": "漸く",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "漸く",
+          "reading": "ようやく"
+        }
+      ]
+    },
+    {
+      "slug": "やっと",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "漸と",
+          "reading": "やっと"
+        }
+      ]
+    },
+    {
+      "slug": "漸減",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸減",
+          "reading": "ぜんげん"
+        }
+      ]
+    },
+    {
+      "slug": "漸次",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸次",
+          "reading": "ぜんじ"
+        },
+        {
+          "word": "漸時",
+          "reading": "ぜんじ"
+        }
+      ]
+    },
+    {
+      "slug": "漸進",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸進",
+          "reading": "ぜんしん"
+        }
+      ]
+    },
+    {
+      "slug": "漸近線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸近線",
+          "reading": "ぜんきんせん"
+        }
+      ]
+    },
+    {
+      "slug": "漸新世",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸新世",
+          "reading": "ぜんしんせい"
+        }
+      ]
+    },
+    {
+      "slug": "漸落",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸落",
+          "reading": "ぜんらく"
+        }
+      ]
+    },
+    {
+      "slug": "漸増",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸増",
+          "reading": "ぜんぞう"
+        }
+      ]
+    },
+    {
+      "slug": "漸近",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸近",
+          "reading": "ぜんきん"
+        }
+      ]
+    },
+    {
+      "slug": "漸う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸う",
+          "reading": "ようよう"
+        }
+      ]
+    },
+    {
+      "slug": "漸落市況",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸落市況",
+          "reading": "ぜんらくしきょう"
+        }
+      ]
+    },
+    {
+      "slug": "漸近的自由",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸近的自由",
+          "reading": "ぜんきんてきじゆう"
+        }
+      ]
+    },
+    {
+      "slug": "漸悟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸悟",
+          "reading": "ぜんご"
+        }
+      ]
+    },
+    {
+      "slug": "漸漸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸漸",
+          "reading": "ぜんぜん"
+        },
+        {
+          "word": "漸々",
+          "reading": "ぜんぜん"
+        }
+      ]
+    },
+    {
+      "slug": "漸次的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸次的",
+          "reading": "ぜんじてき"
+        }
+      ]
+    },
+    {
+      "slug": "漸深海帯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漸深海帯",
+          "reading": "ぜんしんかいたい"
+        }
+      ]
+    }
   ]
 }

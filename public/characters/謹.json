@@ -110,5 +110,238 @@
       "startStroke": 16,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "慎む",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慎む",
+          "reading": "つつしむ"
+        },
+        {
+          "word": "謹む",
+          "reading": "つつしむ"
+        },
+        {
+          "word": "虔む",
+          "reading": "つつしむ"
+        }
+      ]
+    },
+    {
+      "slug": "慎み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慎み",
+          "reading": "つつしみ"
+        },
+        {
+          "word": "謹み",
+          "reading": "つつしみ"
+        },
+        {
+          "word": "慎しみ",
+          "reading": "つつしみ"
+        },
+        {
+          "word": "虔み",
+          "reading": "つつしみ"
+        },
+        {
+          "word": "虔しみ",
+          "reading": "つつしみ"
+        }
+      ]
+    },
+    {
+      "slug": "謹んで",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹んで",
+          "reading": "つつしんで"
+        }
+      ]
+    },
+    {
+      "slug": "謹聴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹聴",
+          "reading": "きんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "謹慎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹慎",
+          "reading": "きんしん"
+        }
+      ]
+    },
+    {
+      "slug": "謹厳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹厳",
+          "reading": "きんげん"
+        }
+      ]
+    },
+    {
+      "slug": "謹製",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹製",
+          "reading": "きんせい"
+        }
+      ]
+    },
+    {
+      "slug": "謹告",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹告",
+          "reading": "きんこく"
+        }
+      ]
+    },
+    {
+      "slug": "謹話",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹話",
+          "reading": "きんわ"
+        }
+      ]
+    },
+    {
+      "slug": "謹啓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹啓",
+          "reading": "きんけい"
+        }
+      ]
+    },
+    {
+      "slug": "謹賀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹賀",
+          "reading": "きんが"
+        }
+      ]
+    },
+    {
+      "slug": "謹直",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹直",
+          "reading": "きんちょく"
+        }
+      ]
+    },
+    {
+      "slug": "謹呈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹呈",
+          "reading": "きんてい"
+        }
+      ]
+    },
+    {
+      "slug": "謹言",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹言",
+          "reading": "きんげん"
+        }
+      ]
+    },
+    {
+      "slug": "謹慎処分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹慎処分",
+          "reading": "きんしんしょぶん"
+        }
+      ]
+    },
+    {
+      "slug": "謹書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹書",
+          "reading": "きんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "謹選",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹選",
+          "reading": "きんせん"
+        }
+      ]
+    },
+    {
+      "slug": "謹飭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹飭",
+          "reading": "きんちょく"
+        },
+        {
+          "word": "謹勅",
+          "reading": "きんちょく"
+        }
+      ]
+    },
+    {
+      "slug": "謹白",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹白",
+          "reading": "きんぱく"
+        }
+      ]
+    },
+    {
+      "slug": "謹厳実直",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謹厳実直",
+          "reading": "きんげんじっちょく"
+        }
+      ]
+    }
   ]
 }

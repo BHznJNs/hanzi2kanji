@@ -95,5 +95,379 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムはメアリーを抱き締めた。",
+      "furigana": "トムはメアリーを[抱|だ]き[締|し]めた。",
+      "translation_zh_CN": "汤姆拥抱了玛丽。"
+    },
+    {
+      "content": "座席のベルトをお締めください。",
+      "furigana": "[座席|ざ|せき]のベルトをお[締|し]めください。",
+      "translation_zh_CN": "系上您的安全带。"
+    },
+    {
+      "content": "シートベルトを締めてください。",
+      "furigana": "シートベルトを[締|し]めてください。",
+      "translation_zh_CN": "請繫好安全帶。"
+    },
+    {
+      "content": "今月は財布の紐を締めなくちゃ。",
+      "furigana": "[今月|こん|げつ]は[財布|さい|ふ]の[紐|ひも]を[締|し]めなくちゃ。",
+      "translation_zh_CN": "我这个月要减少开支。"
+    },
+    {
+      "content": "必ずシートベルトを締めること。",
+      "furigana": "[必|かなら]ずシートベルトを[締|し]めること。",
+      "translation_zh_CN": "無論何時都要扣好安全帶。"
+    },
+    {
+      "content": "飛行機が乱気流に近付いていたため操縦士は乗客にシートベルトを締めるよう呼びかけた。",
+      "furigana": "[飛行機|ひ|こう|き]が[乱気流|らん|き|りゅう]に[近付|ちか|づ]いていたため[操縦|そう|じゅう][士|し]は[乗客|じょう|きゃく]にシートベルトを[締|し]めるよう[呼|よ]びかけた。",
+      "translation_zh_CN": "随着飞机对涡流的接近，飞行员要求机上的乘客系好安全带。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "締める",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "締める",
+          "reading": "しめる"
+        }
+      ]
+    },
+    {
+      "slug": "閉まる",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "閉まる",
+          "reading": "しまる"
+        },
+        {
+          "word": "締まる",
+          "reading": "しまる"
+        },
+        {
+          "word": "緊まる",
+          "reading": "しまる"
+        }
+      ]
+    },
+    {
+      "slug": "締め切り",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "締め切り",
+          "reading": "しめきり"
+        },
+        {
+          "word": "締切",
+          "reading": "しめきり"
+        },
+        {
+          "word": "締切り",
+          "reading": "しめきり"
+        }
+      ]
+    },
+    {
+      "slug": "締め切る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "締め切る",
+          "reading": "しめきる"
+        },
+        {
+          "word": "閉め切る",
+          "reading": "しめきる"
+        },
+        {
+          "word": "〆切る",
+          "reading": "しめきる"
+        },
+        {
+          "word": "閉切る",
+          "reading": "しめきる"
+        },
+        {
+          "word": "締切る",
+          "reading": "しめきる"
+        }
+      ]
+    },
+    {
+      "slug": "締め出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め出す",
+          "reading": "しめだす"
+        },
+        {
+          "word": "閉め出す",
+          "reading": "しめだす"
+        }
+      ]
+    },
+    {
+      "slug": "締結",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締結",
+          "reading": "ていけつ"
+        }
+      ]
+    },
+    {
+      "slug": "締め付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め付ける",
+          "reading": "しめつける"
+        },
+        {
+          "word": "締めつける",
+          "reading": "しめつける"
+        },
+        {
+          "word": "締付ける",
+          "reading": "しめつける"
+        }
+      ]
+    },
+    {
+      "slug": "締まり屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締まり屋",
+          "reading": "しまりや"
+        },
+        {
+          "word": "締り屋",
+          "reading": "しまりや"
+        }
+      ]
+    },
+    {
+      "slug": "締め切り日",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め切り日",
+          "reading": "しめきりび"
+        },
+        {
+          "word": "締切日",
+          "reading": "しめきりび"
+        },
+        {
+          "word": "〆切日",
+          "reading": "しめきりび"
+        },
+        {
+          "word": "乄切日",
+          "reading": "しめきりび"
+        }
+      ]
+    },
+    {
+      "slug": "締めくくる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締めくくる",
+          "reading": "しめくくる"
+        },
+        {
+          "word": "締め括る",
+          "reading": "しめくくる"
+        }
+      ]
+    },
+    {
+      "slug": "締め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め",
+          "reading": "しめ"
+        },
+        {
+          "word": "〆",
+          "reading": "しめ"
+        },
+        {
+          "reading": "シメ"
+        }
+      ]
+    },
+    {
+      "slug": "締め付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め付け",
+          "reading": "しめつけ"
+        },
+        {
+          "word": "締めつけ",
+          "reading": "しめつけ"
+        },
+        {
+          "word": "締付け",
+          "reading": "しめつけ"
+        },
+        {
+          "word": "締付",
+          "reading": "しめつけ"
+        }
+      ]
+    },
+    {
+      "slug": "締約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締約",
+          "reading": "ていやく"
+        }
+      ]
+    },
+    {
+      "slug": "締まり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締まり",
+          "reading": "しまり"
+        },
+        {
+          "word": "締り",
+          "reading": "しまり"
+        }
+      ]
+    },
+    {
+      "slug": "しめ縄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しめ縄",
+          "reading": "しめなわ"
+        },
+        {
+          "word": "注連縄",
+          "reading": "しめなわ"
+        },
+        {
+          "word": "七五三縄",
+          "reading": "しめなわ"
+        },
+        {
+          "word": "標縄",
+          "reading": "しめなわ"
+        }
+      ]
+    },
+    {
+      "slug": "絞め技",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞め技",
+          "reading": "しめわざ"
+        },
+        {
+          "word": "締め技",
+          "reading": "しめわざ"
+        },
+        {
+          "word": "絞技",
+          "reading": "しめわざ"
+        },
+        {
+          "word": "締技",
+          "reading": "しめわざ"
+        }
+      ]
+    },
+    {
+      "slug": "締めて",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締めて",
+          "reading": "しめて"
+        }
+      ]
+    },
+    {
+      "slug": "締まりの無い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締まりのない",
+          "reading": "しまりのない"
+        },
+        {
+          "word": "締まりの無い",
+          "reading": "しまりのない"
+        },
+        {
+          "word": "締りのない",
+          "reading": "しまりのない"
+        },
+        {
+          "word": "締りの無い",
+          "reading": "しまりのない"
+        }
+      ]
+    },
+    {
+      "slug": "締め上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め上げる",
+          "reading": "しめあげる"
+        },
+        {
+          "word": "絞め上げる",
+          "reading": "しめあげる"
+        }
+      ]
+    },
+    {
+      "slug": "締めひも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め紐",
+          "reading": "しめひも"
+        },
+        {
+          "word": "締めひも",
+          "reading": "しめひも"
+        }
+      ]
+    }
   ]
 }

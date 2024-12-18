@@ -69,5 +69,342 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "明日チケット買おっと。",
+      "furigana": "[明日|あした]チケット[買|か]おっと。",
+      "translation_zh_CN": "我明天就去买票。"
+    },
+    {
+      "content": "その政治家は何年間も、麻薬の密売買をしてきた。",
+      "furigana": "その[政治家|せい|じ|か]は[何年間|なん|ねん|かん]も、[麻薬|ま|やく]の[密売買|みつ|ばい|かい]をしてきた。",
+      "translation_zh_CN": "这位政客多年来一直参与贩毒活动。"
+    },
+    {
+      "content": "十七八の頃、自分の小遣で菓子を買ふやうになつて、僕は、しきりにマシマロを買つた。",
+      "furigana": "[十七八|じゅう|なな|はち]の[頃|ころ]、[自分|じ|ぶん]の[小遣|こ|づかい]で[菓子|か|し]を[買|かい]ふやうになつて、[僕|ぼく]は、しきりにマシマロを[買|かい]つた。",
+      "translation_zh_CN": "当我178岁的时候，我开始用零用钱买糖果，而且一直买棉花糖。"
+    },
+    {
+      "content": "買い物一緒に行く？",
+      "furigana": "[買|か]い[物|もの][一緒|いっ|しょ]に[行|い]く？",
+      "translation_zh_CN": "你想和我一起去逛街吗？"
+    },
+    {
+      "content": "幸福は買えない。",
+      "furigana": "[幸福|こう|ふく]は[買|か]えない。",
+      "translation_zh_CN": "幸福是买不到的。"
+    },
+    {
+      "content": "これを買います。",
+      "furigana": "これを[買|か]います。",
+      "translation_zh_CN": "我会去接他的。"
+    },
+    {
+      "content": "彼は車を買った。",
+      "furigana": "[彼|かれ]は[車|くるま]を[買|か]った。",
+      "translation_zh_CN": "他買了輛車。"
+    },
+    {
+      "content": "これ、買います。",
+      "furigana": "これ、[買|か]います。",
+      "translation_zh_CN": "我要買這個。"
+    },
+    {
+      "content": "花を買ったのかい？",
+      "furigana": "[花|はな]を[買|か]ったのかい？",
+      "translation_zh_CN": "花儿你买了没有?"
+    },
+    {
+      "content": "お土産何買ったの？",
+      "furigana": "お[土産|みやげ][何|なに][買|か]ったの？",
+      "translation_zh_CN": "你买了些什么特产呀？"
+    },
+    {
+      "content": "新しい車買ったの？",
+      "furigana": "[新|あたら]しい[車|くるま][買|か]ったの？",
+      "translation_zh_CN": "您買了輛新車嗎？"
+    },
+    {
+      "content": "家を買いたいな。",
+      "furigana": "[家|いえ]を[買|か]いたいな。",
+      "translation_zh_CN": "我想买套房子。"
+    },
+    {
+      "content": "お菓子買ってよ。",
+      "furigana": "お[菓子|か|し][買|か]ってよ。",
+      "translation_zh_CN": "帮我买点零食吧。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "買い物",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "買い物",
+          "reading": "かいもの"
+        },
+        {
+          "word": "買い物",
+          "reading": "かいもん"
+        },
+        {
+          "word": "買物",
+          "reading": "かいもの"
+        },
+        {
+          "word": "買物",
+          "reading": "かいもん"
+        }
+      ]
+    },
+    {
+      "slug": "買う",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "買う",
+          "reading": "かう"
+        }
+      ]
+    },
+    {
+      "slug": "買収",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買収",
+          "reading": "ばいしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "買い手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い手",
+          "reading": "かいて"
+        },
+        {
+          "word": "買手",
+          "reading": "かいて"
+        }
+      ]
+    },
+    {
+      "slug": "買い占める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い占める",
+          "reading": "かいしめる"
+        },
+        {
+          "word": "買占める",
+          "reading": "かいしめる"
+        }
+      ]
+    },
+    {
+      "slug": "買い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "slug": "買い付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い付け",
+          "reading": "かいつけ"
+        },
+        {
+          "word": "買付け",
+          "reading": "かいつけ"
+        },
+        {
+          "word": "買付",
+          "reading": "かいつけ"
+        }
+      ]
+    },
+    {
+      "slug": "買い得",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い得",
+          "reading": "かいどく"
+        },
+        {
+          "word": "買得",
+          "reading": "かいどく"
+        }
+      ]
+    },
+    {
+      "slug": "買い戻す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い戻す",
+          "reading": "かいもどす"
+        },
+        {
+          "word": "買戻す",
+          "reading": "かいもどす"
+        }
+      ]
+    },
+    {
+      "slug": "買い込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い込む",
+          "reading": "かいこむ"
+        },
+        {
+          "word": "買いこむ",
+          "reading": "かいこむ"
+        },
+        {
+          "word": "買込む",
+          "reading": "かいこむ"
+        }
+      ]
+    },
+    {
+      "slug": "買い取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い取る",
+          "reading": "かいとる"
+        }
+      ]
+    },
+    {
+      "slug": "買い支え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い支え",
+          "reading": "かいささえ"
+        }
+      ]
+    },
+    {
+      "slug": "買い手市場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い手市場",
+          "reading": "かいてしじょう"
+        }
+      ]
+    },
+    {
+      "slug": "買いかぶる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買いかぶる",
+          "reading": "かいかぶる"
+        },
+        {
+          "word": "買い被る",
+          "reading": "かいかぶる"
+        }
+      ]
+    },
+    {
+      "slug": "買い物客",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い物客",
+          "reading": "かいものきゃく"
+        },
+        {
+          "word": "買物客",
+          "reading": "かいものきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "買い換える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い換える",
+          "reading": "かいかえる"
+        },
+        {
+          "word": "買い替える",
+          "reading": "かいかえる"
+        }
+      ]
+    },
+    {
+      "slug": "買い置き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い置き",
+          "reading": "かいおき"
+        },
+        {
+          "word": "買置き",
+          "reading": "かいおき"
+        }
+      ]
+    },
+    {
+      "slug": "買い与える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い与える",
+          "reading": "かいあたえる"
+        }
+      ]
+    },
+    {
+      "slug": "買い言葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買い言葉",
+          "reading": "かいことば"
+        }
+      ]
+    },
+    {
+      "slug": "買物袋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "買物袋",
+          "reading": "かいものぶくろ"
+        },
+        {
+          "word": "買い物袋",
+          "reading": "かいものぶくろ"
+        }
+      ]
+    }
   ]
 }

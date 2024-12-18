@@ -100,5 +100,177 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "話の接ぎ穂がなくて困った。",
+      "furigana": "[話|はなし]の[接|つ]ぎ[穂|ほ]がなくて[困|こま]った。",
+      "translation_zh_CN": "我遇到了麻烦，因为我没有故事可讲。"
+    },
+    {
+      "content": "果樹栽培者がリンゴの接ぎ穂を台木に接ぎ木しました。",
+      "furigana": "[果樹栽培者|か|じゅ|さい|ばい|しゃ]がリンゴの[接|つ]ぎ[穂|ほ]を[台木|だい|ぎ]に[接|つ]ぎ[木|き]しました。",
+      "translation_zh_CN": "果农将苹果接穗嫁接到砧木上。"
+    },
+    {
+      "content": "実るほど頭の下がる稲穂かな。",
+      "furigana": "[実|みの]るほど[頭|あたま]の[下|さ]がる[稲穂|いな|ほ]かな。",
+      "translation_zh_CN": "稻穗越飽滿越低頭。"
+    },
+    {
+      "content": "実るほど頭を垂れる稲穂かな。",
+      "furigana": "[実|みの]るほど[頭|こうべ]を[垂|た]れる[稲穂|いな|ほ]かな。",
+      "translation_zh_CN": "稻穗越飽滿越低頭。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "穂木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂木",
+          "reading": "ほぎ"
+        }
+      ]
+    },
+    {
+      "slug": "穂長犬莧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂長犬莧",
+          "reading": "ほながいぬびゆ"
+        },
+        {
+          "reading": "ホナガイヌビユ"
+        }
+      ]
+    },
+    {
+      "slug": "穂先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂先",
+          "reading": "ほさき"
+        },
+        {
+          "word": "鋒先",
+          "reading": "ほさき"
+        }
+      ]
+    },
+    {
+      "slug": "穂状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂状",
+          "reading": "すいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "穂羊歯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂羊歯",
+          "reading": "ほしだ"
+        },
+        {
+          "reading": "ホシダ"
+        }
+      ]
+    },
+    {
+      "slug": "穂波",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂波",
+          "reading": "ほなみ"
+        }
+      ]
+    },
+    {
+      "slug": "穂咲下野",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂咲下野",
+          "reading": "ほざきしもつけ"
+        },
+        {
+          "reading": "ホザキシモツケ"
+        }
+      ]
+    },
+    {
+      "slug": "穂状花序",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂状花序",
+          "reading": "すいじょうかじょ"
+        }
+      ]
+    },
+    {
+      "slug": "穂咲の総藻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂咲の総藻",
+          "reading": "ほざきのふさも"
+        },
+        {
+          "reading": "ホザキノフサモ"
+        }
+      ]
+    },
+    {
+      "slug": "穂並",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂並",
+          "reading": "ほなみ"
+        }
+      ]
+    },
+    {
+      "slug": "穂綿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂綿",
+          "reading": "ほわた"
+        },
+        {
+          "word": "穂絮",
+          "reading": "ほわた"
+        }
+      ]
+    },
+    {
+      "slug": "穂紫蘇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穂紫蘇",
+          "reading": "ほじそ"
+        },
+        {
+          "word": "穂じそ",
+          "reading": "ほじそ"
+        },
+        {
+          "word": "穂ジソ",
+          "reading": "ほじそ"
+        }
+      ]
+    }
   ]
 }

@@ -38,9 +38,9 @@
     {
       "lang": "fr",
       "values": [
-        "fin d\u0027année",
+        "fin d'année",
         "âge",
-        "compteur d\u0027années",
+        "compteur d'années",
         "occasion",
         "opportunité"
       ]
@@ -133,6 +133,336 @@
       "startStroke": 12,
       "strokes": 1,
       "part": 3
+    }
+  ],
+  "sentences": [
+    {
+      "content": "12歳です。",
+      "furigana": "[12歳|じゅう|に|さい]です。",
+      "translation_zh_CN": "我12岁了。"
+    },
+    {
+      "content": "もう歳取りたくない。",
+      "furigana": "もう[歳取|とし|と]りたくない。",
+      "translation_zh_CN": "我不想再变老了。"
+    },
+    {
+      "content": "猫万歳！",
+      "furigana": "[猫万歳|ねこ|ばん|ざい]！",
+      "translation_zh_CN": "猫万岁！"
+    },
+    {
+      "content": "天皇陛下万歳！",
+      "furigana": "[天皇陛下万歳|てん|のう|へい|か|ばん|ざい]！",
+      "translation_zh_CN": "皇帝万岁！"
+    },
+    {
+      "content": "歳を感じるわ。",
+      "furigana": "[歳|とし]を[感|かん]じるわ。",
+      "translation_zh_CN": "我感觉自己老了。"
+    },
+    {
+      "content": "８歳だよ。",
+      "furigana": "[８歳|はっ|さい]だよ。",
+      "translation_zh_CN": "我今年8岁了。"
+    },
+    {
+      "content": "何歳ですか。",
+      "furigana": "[何歳|なん|さい]ですか。",
+      "translation_zh_CN": "你今年多大。"
+    },
+    {
+      "content": "１３歳です。",
+      "furigana": "[１３|じゅうさん][歳|さい]です。",
+      "translation_zh_CN": "我今年13岁。"
+    },
+    {
+      "content": "１９歳です。",
+      "furigana": "１９[歳|さい]です。",
+      "translation_zh_CN": "我今年 19 岁。"
+    },
+    {
+      "content": "弓子、何歳？",
+      "furigana": "[弓子|ゆみこ]、[何歳|なんさい]？",
+      "translation_zh_CN": "由美子，你几岁了？"
+    },
+    {
+      "content": "彼女は１７歳です。",
+      "furigana": "[彼女|かの|じょ]は[１|][７|][歳|さい]です。",
+      "translation_zh_CN": "她十七岁了。"
+    },
+    {
+      "content": "年齢は１８歳です。",
+      "furigana": "[年齢|ねん|れい]は[１|じゅう][８|はっ][歳|さい]です。",
+      "translation_zh_CN": "我十八岁。"
+    },
+    {
+      "content": "私は今30歳です。",
+      "furigana": "[私|わたし]は[今|いま][30|さんじゅっ][歳|さい]です。",
+      "translation_zh_CN": "我现在30岁了。"
+    },
+    {
+      "content": "友達は１７歳です。",
+      "furigana": "[友達|とも|だち]は[１７|じゅうなな][歳|さい]です。",
+      "translation_zh_CN": "我的朋友十七岁了。"
+    },
+    {
+      "content": "息子は十歳です。",
+      "furigana": "[息子|むす|こ]は[十|じゅっ][歳|さい]です。",
+      "translation_zh_CN": "我儿子十岁了。"
+    },
+    {
+      "content": "私は十八歳です。",
+      "furigana": "[私|わたし]は[十八|じゅう|はっ][歳|さい]です。",
+      "translation_zh_CN": "我十八岁。"
+    },
+    {
+      "content": "貴男は何歳ですか？",
+      "furigana": "[貴男|たか|お]は[何|なん][歳|さい]ですか？",
+      "translation_zh_CN": "你几岁了？"
+    },
+    {
+      "content": "歳月人を待たず。",
+      "furigana": "[歳月|さい|げつ][人|ひと]を[待|ま]たず。",
+      "translation_zh_CN": "时间不等人。"
+    },
+    {
+      "content": "何歳で結婚したい？",
+      "furigana": "[何|なん][歳|さい]で[結婚|けっ|こん]したい？",
+      "translation_zh_CN": "你想到几岁才结婚呢？"
+    },
+    {
+      "content": "トムは30歳です。",
+      "furigana": "トムは[30歳|さんじゅっさい]です。",
+      "translation_zh_CN": "汤姆今年三十岁。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "歳入",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳入",
+          "reading": "さいにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "歳月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳月",
+          "reading": "さいげつ"
+        }
+      ]
+    },
+    {
+      "slug": "年取った",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年取った",
+          "reading": "としとった"
+        },
+        {
+          "word": "年とった",
+          "reading": "としとった"
+        },
+        {
+          "word": "歳とった",
+          "reading": "としとった"
+        },
+        {
+          "word": "歳取った",
+          "reading": "としとった"
+        }
+      ]
+    },
+    {
+      "slug": "年老いる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年老いる",
+          "reading": "としおいる"
+        }
+      ]
+    },
+    {
+      "slug": "年取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年取る",
+          "reading": "としとる"
+        },
+        {
+          "word": "年とる",
+          "reading": "としとる"
+        },
+        {
+          "word": "歳とる",
+          "reading": "としとる"
+        },
+        {
+          "word": "歳取る",
+          "reading": "としとる"
+        }
+      ]
+    },
+    {
+      "slug": "歳出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳出",
+          "reading": "さいしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "年をとる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年をとる",
+          "reading": "としをとる"
+        },
+        {
+          "word": "歳をとる",
+          "reading": "としをとる"
+        },
+        {
+          "word": "年を取る",
+          "reading": "としをとる"
+        },
+        {
+          "word": "歳を取る",
+          "reading": "としをとる"
+        }
+      ]
+    },
+    {
+      "slug": "歳時記",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳時記",
+          "reading": "さいじき"
+        }
+      ]
+    },
+    {
+      "slug": "歳暮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳暮",
+          "reading": "せいぼ"
+        }
+      ]
+    },
+    {
+      "slug": "歳末",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳末",
+          "reading": "さいまつ"
+        }
+      ]
+    },
+    {
+      "slug": "歳費",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳費",
+          "reading": "さいひ"
+        }
+      ]
+    },
+    {
+      "slug": "年の瀬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年の瀬",
+          "reading": "としのせ"
+        },
+        {
+          "word": "歳の瀬",
+          "reading": "としのせ"
+        }
+      ]
+    },
+    {
+      "slug": "年の割に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年の割に",
+          "reading": "としのわりに"
+        },
+        {
+          "word": "年のわりに",
+          "reading": "としのわりに"
+        },
+        {
+          "word": "歳の割に",
+          "reading": "としのわりに"
+        }
+      ]
+    },
+    {
+      "slug": "歳代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳代",
+          "reading": "さいだい"
+        }
+      ]
+    },
+    {
+      "slug": "年神",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "年神",
+          "reading": "としがみ"
+        },
+        {
+          "word": "歳神",
+          "reading": "としがみ"
+        }
+      ]
+    },
+    {
+      "slug": "歳未満",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳未満",
+          "reading": "さいみまん"
+        },
+        {
+          "word": "才未満",
+          "reading": "さいみまん"
+        }
+      ]
+    },
+    {
+      "slug": "歳差",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歳差",
+          "reading": "さいさ"
+        }
+      ]
     }
   ]
 }

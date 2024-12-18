@@ -80,5 +80,158 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "和邇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "和邇",
+          "reading": "わに"
+        },
+        {
+          "word": "鰐",
+          "reading": "わに"
+        }
+      ]
+    },
+    {
+      "slug": "鰐鱛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰐鱛",
+          "reading": "わにえそ"
+        },
+        {
+          "reading": "ワニエソ"
+        }
+      ]
+    },
+    {
+      "slug": "鰐亀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰐亀",
+          "reading": "わにがめ"
+        },
+        {
+          "reading": "ワニガメ"
+        }
+      ]
+    },
+    {
+      "slug": "鰐皮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰐皮",
+          "reading": "わにがわ"
+        },
+        {
+          "word": "ワニ皮",
+          "reading": "わにがわ"
+        }
+      ]
+    },
+    {
+      "slug": "鰐口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰐口",
+          "reading": "わにぐち"
+        },
+        {
+          "word": "ワニ口",
+          "reading": "わにぐち"
+        }
+      ]
+    },
+    {
+      "slug": "鰐足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "わに足",
+          "reading": "わにあし"
+        },
+        {
+          "word": "ワニ足",
+          "reading": "わにあし"
+        },
+        {
+          "word": "鰐足",
+          "reading": "わにあし"
+        }
+      ]
+    },
+    {
+      "slug": "鰐魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰐魚",
+          "reading": "がくぎょ"
+        },
+        {
+          "word": "鱷魚",
+          "reading": "がくぎょ"
+        }
+      ]
+    },
+    {
+      "slug": "鰐梨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰐梨",
+          "reading": "わになし"
+        },
+        {
+          "reading": "ワニナシ"
+        }
+      ]
+    },
+    {
+      "slug": "鰐鮫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰐鮫",
+          "reading": "わにざめ"
+        }
+      ]
+    },
+    {
+      "slug": "ワニトカゲギス目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ワニトカゲギス目",
+          "reading": "ワニトカゲギスもく"
+        },
+        {
+          "word": "鰐蜥蜴鱚目",
+          "reading": "わにとかげぎすもく"
+        }
+      ]
+    },
+    {
+      "slug": "鰐口クリップ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰐口クリップ",
+          "reading": "わにぐちクリップ"
+        },
+        {
+          "reading": "ワニグチクリップ"
+        }
+      ]
+    }
   ]
 }

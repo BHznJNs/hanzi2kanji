@@ -98,5 +98,251 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "維持費もバカにならない。",
+      "furigana": "[維持費|い|じ|ひ]もバカにならない。",
+      "translation_zh_CN": "维护费用也很合理。"
+    },
+    {
+      "content": "入会費はかかりません。",
+      "furigana": "[入会費|にゅう|かい|ひ]はかかりません。",
+      "translation_zh_CN": "没有加盟费。"
+    },
+    {
+      "content": "生活費が高騰している。",
+      "furigana": "[生活費|せい|かつ|ひ]が[高騰|こう|とう]している。",
+      "translation_zh_CN": "生活成本正在上升。"
+    },
+    {
+      "content": "生活費が断然上がった。",
+      "furigana": "[生活費|せい|かつ|ひ]が[断然上|だん|ぜん|あ]がった。",
+      "translation_zh_CN": "生活成本肯定增加了。"
+    },
+    {
+      "content": "生活費が必要です。",
+      "furigana": "[生活費|せい|かつ|ひ]が[必要|ひつ|よう]です。",
+      "translation_zh_CN": "我需要生活费。"
+    },
+    {
+      "content": "生活費は上がる一方だ。",
+      "furigana": "[生活費|せい|かつ|ひ]は[上|あ]がる[一方|いっ|ぽう]だ。",
+      "translation_zh_CN": "生活成本持续上升。"
+    },
+    {
+      "content": "生活費はいつも上がっている。",
+      "furigana": "[生活費|せい|かつ|ひ]はいつも[上|あ]がっている。",
+      "translation_zh_CN": "生活成本总是在上涨。"
+    },
+    {
+      "content": "生活費はだんだん高くなっている。",
+      "furigana": "[生活費|せい|かつ|ひ]はだんだん[高|たか]くなっている。",
+      "translation_zh_CN": "生活成本越来越高。"
+    },
+    {
+      "content": "生活費が高くなってきている。",
+      "furigana": "[生活費|せい|かつ|ひ]が[高|たか]くなってきている。",
+      "translation_zh_CN": "生活成本越来越高。"
+    },
+    {
+      "content": "生活費はどうやって稼いでるの？",
+      "furigana": "[生活費|せい|かつ|ひ]はどうやって[稼|かせ]いでるの？",
+      "translation_zh_CN": "你如何谋生？"
+    },
+    {
+      "content": "旅費が足りない。",
+      "furigana": "[旅費|りょ|ひ]が[足|た]りない。",
+      "translation_zh_CN": "我不够钱去旅行。"
+    },
+    {
+      "content": "参加会費は不要です。",
+      "furigana": "[参加|さん|か][会費|かい|ひ]は[不要|ふ|よう]です。",
+      "translation_zh_CN": "參加不用會員費。"
+    },
+    {
+      "content": "生活費が断然上がった。",
+      "furigana": "[生活|せい|かつ][費|ひ]が[断然|だん|ぜん][上|あ]がった。",
+      "translation_zh_CN": "生活支出急剧上涨。"
+    },
+    {
+      "content": "浪費なければ欠乏なし。",
+      "furigana": "[浪費|ろう|ひ]なければ[欠乏|けつ|ぼう]なし。",
+      "translation_zh_CN": "不浪費則不匱乏。"
+    },
+    {
+      "content": "入会費はかかりません。",
+      "furigana": "[入会|にゅう|かい][費|ひ]はかかりません。",
+      "translation_zh_CN": "參加不用會員費。"
+    },
+    {
+      "content": "参加費はかかりません。",
+      "furigana": "[参加|さん|か][費|ひ]はかかりません。",
+      "translation_zh_CN": "參加不用會員費。"
+    },
+    {
+      "content": "今月は出費を抑えないと。",
+      "furigana": "[今月|こん|げつ]は[出費|しゅっ|ぴ]を[抑|おさ]えないと。",
+      "translation_zh_CN": "我这个月要减少开支。"
+    },
+    {
+      "content": "生活費が高くなってきている。",
+      "furigana": "[生活|せい|かつ][費|ひ]が[高|たか]くなってきている。",
+      "translation_zh_CN": "我花的生活费变多了。"
+    },
+    {
+      "content": "参加のための会費は不要です。",
+      "furigana": "[参加|さん|か]のための[会費|かい|ひ]は[不要|ふ|よう]です。",
+      "translation_zh_CN": "參加不用會員費。"
+    },
+    {
+      "content": "愛情は浪費されるものではない。",
+      "furigana": "[愛情|あい|じょう]は[浪費|ろう|ひ]されるものではない。",
+      "translation_zh_CN": "从来就没有徒劳的爱情。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "費用",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "費用",
+          "reading": "ひよう"
+        }
+      ]
+    },
+    {
+      "slug": "費やす",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "費やす",
+          "reading": "ついやす"
+        }
+      ]
+    },
+    {
+      "slug": "費える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費える",
+          "reading": "ついえる"
+        }
+      ]
+    },
+    {
+      "slug": "費消",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費消",
+          "reading": "ひしょう"
+        }
+      ]
+    },
+    {
+      "slug": "費目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費目",
+          "reading": "ひもく"
+        }
+      ]
+    },
+    {
+      "slug": "費用便益分析",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費用便益分析",
+          "reading": "ひようべんえきぶんせき"
+        }
+      ]
+    },
+    {
+      "slug": "費え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費え",
+          "reading": "ついえ"
+        },
+        {
+          "word": "弊え",
+          "reading": "ついえ"
+        },
+        {
+          "word": "潰え",
+          "reading": "ついえ"
+        }
+      ]
+    },
+    {
+      "slug": "費用最小化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費用最小化",
+          "reading": "ひようさいしょうか"
+        }
+      ]
+    },
+    {
+      "slug": "費途",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費途",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "slug": "費用一切",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費用一切",
+          "reading": "ひよういっさい"
+        }
+      ]
+    },
+    {
+      "slug": "費用対効果",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費用対効果",
+          "reading": "ひようたいこうか"
+        }
+      ]
+    },
+    {
+      "slug": "費用便益比",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費用便益比",
+          "reading": "ひようべんえきひ"
+        }
+      ]
+    },
+    {
+      "slug": "費用を持つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "費用を持つ",
+          "reading": "ひようをもつ"
+        }
+      ]
+    }
   ]
 }

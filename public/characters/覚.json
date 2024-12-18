@@ -94,5 +94,342 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "誰がツンデレかっ！少なくともデレとか、した覚えなんかないわよっ！",
+      "furigana": "[誰|だれ]がツンデレかっ！[少|すく]なくともデレとか、した[覚|おぼ]えなんかないわよっ！",
+      "translation_zh_CN": "谁是傲娇？至少我不记得做过这样的事！"
+    },
+    {
+      "content": "何で目が覚めたの？",
+      "furigana": "[何|なん]で[目|め]が[覚|さ]めたの？",
+      "translation_zh_CN": "什麼吵醒你了?"
+    },
+    {
+      "content": "覚えていません。",
+      "furigana": "[覚|おぼ]えていません。",
+      "translation_zh_CN": "我記不得了。"
+    },
+    {
+      "content": "よく覚えてるよ。",
+      "furigana": "よく[覚|おぼ]えてるよ。",
+      "translation_zh_CN": "我牢记此事。"
+    },
+    {
+      "content": "目は覚めています。",
+      "furigana": "[目|め]は[覚|さ]めています。",
+      "translation_zh_CN": "我已经起来了。"
+    },
+    {
+      "content": "その音で目覚めた。",
+      "furigana": "その[音|おと]で[目覚|め|ざ]めた。",
+      "translation_zh_CN": "噪音把我吵醒了。"
+    },
+    {
+      "content": "覚えていないんだ。",
+      "furigana": "[覚|おぼ]えていないんだ。",
+      "translation_zh_CN": "我記不得了。"
+    },
+    {
+      "content": "11時に目が覚めた。",
+      "furigana": "[11|じゅういち][時|じ]に[目|め]が[覚|さ]めた。",
+      "translation_zh_CN": "我十一点起床了。"
+    },
+    {
+      "content": "覚える価値さえない。",
+      "furigana": "[覚|おぼ]える[価値|か|ち]さえない。",
+      "translation_zh_CN": "不值得去記。"
+    },
+    {
+      "content": "その音で目が覚めた。",
+      "furigana": "その[音|おと]で[目|め]が[覚|さ]めた。",
+      "translation_zh_CN": "噪音把我吵醒了。"
+    },
+    {
+      "content": "泳ぎを覚えたいです。",
+      "furigana": "[泳|およ]ぎを[覚|おぼ]えたいです。",
+      "translation_zh_CN": "我想学习如何游泳。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "覚える",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "覚える",
+          "reading": "おぼえる"
+        },
+        {
+          "word": "憶える",
+          "reading": "おぼえる"
+        }
+      ]
+    },
+    {
+      "slug": "覚悟",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "覚悟",
+          "reading": "かくご"
+        }
+      ]
+    },
+    {
+      "slug": "覚める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "覚める",
+          "reading": "さめる"
+        },
+        {
+          "word": "醒める",
+          "reading": "さめる"
+        }
+      ]
+    },
+    {
+      "slug": "覚ます",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "覚ます",
+          "reading": "さます"
+        },
+        {
+          "word": "醒ます",
+          "reading": "さます"
+        }
+      ]
+    },
+    {
+      "slug": "覚え",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "覚え",
+          "reading": "おぼえ"
+        }
+      ]
+    },
+    {
+      "slug": "悟る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "悟る",
+          "reading": "さとる"
+        },
+        {
+          "word": "覚る",
+          "reading": "さとる"
+        }
+      ]
+    },
+    {
+      "slug": "覚醒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚醒",
+          "reading": "かくせい"
+        }
+      ]
+    },
+    {
+      "slug": "覚束ない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚束ない",
+          "reading": "おぼつかない"
+        },
+        {
+          "word": "覚束ない",
+          "reading": "かくそくない"
+        }
+      ]
+    },
+    {
+      "slug": "覚えてろ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚えてろ",
+          "reading": "おぼえてろ"
+        }
+      ]
+    },
+    {
+      "slug": "思しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "思しい",
+          "reading": "おぼしい"
+        },
+        {
+          "word": "覚しい",
+          "reading": "おぼしい"
+        }
+      ]
+    },
+    {
+      "slug": "覚書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚書",
+          "reading": "おぼえがき"
+        },
+        {
+          "word": "覚え書き",
+          "reading": "おぼえがき"
+        },
+        {
+          "word": "覚え書",
+          "reading": "おぼえがき"
+        },
+        {
+          "word": "覚書き",
+          "reading": "おぼえがき"
+        }
+      ]
+    },
+    {
+      "slug": "覚醒剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚醒剤",
+          "reading": "かくせいざい"
+        },
+        {
+          "word": "覚せい剤",
+          "reading": "かくせいざい"
+        }
+      ]
+    },
+    {
+      "slug": "悟り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悟り",
+          "reading": "さとり"
+        },
+        {
+          "word": "覚り",
+          "reading": "さとり"
+        }
+      ]
+    },
+    {
+      "slug": "覚悟を決める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚悟を決める",
+          "reading": "かくごをきめる"
+        }
+      ]
+    },
+    {
+      "slug": "覚え易い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚え易い",
+          "reading": "おぼえやすい"
+        }
+      ]
+    },
+    {
+      "slug": "冷めやらぬ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "冷めやらぬ",
+          "reading": "さめやらぬ"
+        },
+        {
+          "word": "覚めやらぬ",
+          "reading": "さめやらぬ"
+        },
+        {
+          "word": "醒めやらぬ",
+          "reading": "さめやらぬ"
+        },
+        {
+          "word": "冷め遣らぬ",
+          "reading": "さめやらぬ"
+        },
+        {
+          "word": "覚め遣らぬ",
+          "reading": "さめやらぬ"
+        },
+        {
+          "word": "醒め遣らぬ",
+          "reading": "さめやらぬ"
+        }
+      ]
+    },
+    {
+      "slug": "覚え込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚えこむ",
+          "reading": "おぼえこむ"
+        },
+        {
+          "word": "覚え込む",
+          "reading": "おぼえこむ"
+        },
+        {
+          "word": "覚込む",
+          "reading": "おぼえこむ"
+        }
+      ]
+    },
+    {
+      "slug": "覚め際",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覚め際",
+          "reading": "さめぎわ"
+        }
+      ]
+    },
+    {
+      "slug": "悟りが早い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悟りが早い",
+          "reading": "さとりがはやい"
+        },
+        {
+          "word": "覚りが早い",
+          "reading": "さとりがはやい"
+        }
+      ]
+    }
   ]
 }

@@ -34,7 +34,7 @@
       "values": [
         "décider",
         "fixer",
-        "se mettre d\u0027accord",
+        "se mettre d'accord",
         "arrangement"
       ]
     },
@@ -78,6 +78,335 @@
       "radical": "人",
       "startStroke": 5,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "雨ニモマケズ／風ニモマケズ／雪ニモ夏ノ暑サニモマケヌ／丈夫ナカラダヲモチ／慾ハナク／決シテ瞋ラズ／イツモシズカニワラッテイル",
+      "furigana": "[雨|あめ]ニモマケズ／[風|かぜ]ニモマケズ／[雪|ゆき]ニモ[夏|なつ]ノ[暑|あつ]サニモマケヌ／[丈夫|じょう|ぶ]ナカラダヲモチ／[慾|よく]ハナク／[決|けつ]シテ[瞋|いか]ラズ／イツモシズカニワラッテイル",
+      "translation_zh_CN": "雨尼莫 Makezu/风尼莫 Makezu/雪尼莫 Summer Heat Sani Mo Makenu/Hardcore Nakaradawomochi/Hanaku/KetsuteshiteRazu/Itsumoshizu Kaniwarattail"
+    },
+    {
+      "content": "えっと、じゃ、決を取りたいと思います。今の小川君の提案に賛成の人、手を上げてください。",
+      "furigana": "えっと、じゃ、[決|けつ]を[取|と]りたいと[思|おも]います。[今|いま]の[小川君|お|がわ|くん]の[提案|てい|あん]に[賛成|さん|せい]の[人|ひと]、[手|て]を[上|あ]げてください。",
+      "translation_zh_CN": "嗯，我想做一个决定。如果您同意小川目前的提议，请举手。"
+    },
+    {
+      "content": "まだ決めてないの？",
+      "furigana": "まだ[決|き]めてないの？",
+      "translation_zh_CN": "您還沒決定嗎？"
+    },
+    {
+      "content": "彼は決心を変えた。",
+      "furigana": "[彼|かれ]は[決心|けっ|しん]を[変|か]えた。",
+      "translation_zh_CN": "他改变想法了。"
+    },
+    {
+      "content": "彼はすぐに決心した。",
+      "furigana": "[彼|かれ]はすぐに[決心|けっ|しん]した。",
+      "translation_zh_CN": "他很快就下定了決心。"
+    },
+    {
+      "content": "試合は雨天決行です。",
+      "furigana": "[試合|し|あい]は[雨天|う|てん][決行|けっ|こう]です。",
+      "translation_zh_CN": "無論颳風還是下雨，比賽都會繼續進行下去。"
+    },
+    {
+      "content": "まだ決めていません。",
+      "furigana": "まだ[決|き]めていません。",
+      "translation_zh_CN": "我還沒有下定決心。"
+    },
+    {
+      "content": "彼は難問を解決した。",
+      "furigana": "[彼|かれ]は[難問|なん|もん]を[解決|かい|けつ]した。",
+      "translation_zh_CN": "他解決了難題。"
+    },
+    {
+      "content": "まだ決めてないです。",
+      "furigana": "まだ[決|き]めてないです。",
+      "translation_zh_CN": "我還沒決定。"
+    },
+    {
+      "content": "僕は自分で決断した。",
+      "furigana": "[僕|ぼく]は[自分|じ|ぶん]で[決断|けつ|だん]した。",
+      "translation_zh_CN": "我自己做了决定。"
+    },
+    {
+      "content": "その問題は解決できた？",
+      "furigana": "その[問題|もん|だい]は[解決|かい|けつ]できた？",
+      "translation_zh_CN": "你能解決這個問題嗎？"
+    },
+    {
+      "content": "最終決定は彼に任せた。",
+      "furigana": "[最終|さい|しゅう][決定|けっ|てい]は[彼|かれ]に[任|まか]せた。",
+      "translation_zh_CN": "我們讓他做最後的決定。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "決して",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "決して",
+          "reading": "けっして"
+        },
+        {
+          "word": "決して",
+          "reading": "けして"
+        }
+      ]
+    },
+    {
+      "slug": "決める",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "決める",
+          "reading": "きめる"
+        },
+        {
+          "word": "極める",
+          "reading": "きめる"
+        },
+        {
+          "reading": "キメる"
+        }
+      ]
+    },
+    {
+      "slug": "決まる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "決まる",
+          "reading": "きまる"
+        },
+        {
+          "word": "決る",
+          "reading": "きまる"
+        },
+        {
+          "word": "極る",
+          "reading": "きまる"
+        },
+        {
+          "reading": "キマる"
+        }
+      ]
+    },
+    {
+      "slug": "決断",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "決断",
+          "reading": "けつだん"
+        }
+      ]
+    },
+    {
+      "slug": "決心",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "決心",
+          "reading": "けっしん"
+        }
+      ]
+    },
+    {
+      "slug": "決定",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "決定",
+          "reading": "けってい"
+        }
+      ]
+    },
+    {
+      "slug": "決まり",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "決まり",
+          "reading": "きまり"
+        },
+        {
+          "word": "決り",
+          "reading": "きまり"
+        },
+        {
+          "word": "極まり",
+          "reading": "きまり"
+        },
+        {
+          "word": "極り",
+          "reading": "きまり"
+        }
+      ]
+    },
+    {
+      "slug": "決意",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "決意",
+          "reading": "けつい"
+        }
+      ]
+    },
+    {
+      "slug": "決勝",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "決勝",
+          "reading": "けっしょう"
+        }
+      ]
+    },
+    {
+      "slug": "決議",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "決議",
+          "reading": "けつぎ"
+        }
+      ]
+    },
+    {
+      "slug": "決算",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "決算",
+          "reading": "けっさん"
+        }
+      ]
+    },
+    {
+      "slug": "決行",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "決行",
+          "reading": "けっこう"
+        }
+      ]
+    },
+    {
+      "slug": "決闘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決闘",
+          "reading": "けっとう"
+        }
+      ]
+    },
+    {
+      "slug": "決まって",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決まって",
+          "reading": "きまって"
+        },
+        {
+          "word": "極まって",
+          "reading": "きまって"
+        },
+        {
+          "word": "決って",
+          "reading": "きまって"
+        }
+      ]
+    },
+    {
+      "slug": "決定的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決定的",
+          "reading": "けっていてき"
+        }
+      ]
+    },
+    {
+      "slug": "決め手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決め手",
+          "reading": "きめて"
+        },
+        {
+          "word": "極め手",
+          "reading": "きめて"
+        }
+      ]
+    },
+    {
+      "slug": "決する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決する",
+          "reading": "けっする"
+        }
+      ]
+    },
+    {
+      "slug": "決裂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決裂",
+          "reading": "けつれつ"
+        }
+      ]
+    },
+    {
+      "slug": "決着",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決着",
+          "reading": "けっちゃく"
+        },
+        {
+          "word": "結着",
+          "reading": "けっちゃく"
+        }
+      ]
     }
   ]
 }

@@ -99,5 +99,130 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "然り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "然り",
+          "reading": "しかり"
+        },
+        {
+          "word": "爾り",
+          "reading": "しかり"
+        }
+      ]
+    },
+    {
+      "slug": "爾来",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爾来",
+          "reading": "じらい"
+        },
+        {
+          "word": "而来",
+          "reading": "じらい"
+        }
+      ]
+    },
+    {
+      "slug": "自余",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自余",
+          "reading": "じよ"
+        },
+        {
+          "word": "爾余",
+          "reading": "じよ"
+        }
+      ]
+    },
+    {
+      "slug": "爾後",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爾後",
+          "reading": "じご"
+        },
+        {
+          "word": "而後",
+          "reading": "じご"
+        }
+      ]
+    },
+    {
+      "slug": "爾汝の交わり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爾汝の交わり",
+          "reading": "じじょのまじわり"
+        }
+      ]
+    },
+    {
+      "slug": "自今",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自今",
+          "reading": "じこん"
+        },
+        {
+          "word": "爾今",
+          "reading": "じこん"
+        },
+        {
+          "word": "而今",
+          "reading": "じこん"
+        }
+      ]
+    },
+    {
+      "slug": "爾汝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爾汝",
+          "reading": "じじょ"
+        }
+      ]
+    },
+    {
+      "slug": "爾前",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爾前",
+          "reading": "にぜん"
+        }
+      ]
+    },
+    {
+      "slug": "爾ら",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "爾ら",
+          "reading": "おれら"
+        },
+        {
+          "word": "爾等",
+          "reading": "おれら"
+        },
+        {
+          "word": "儞等",
+          "reading": "おれら"
+        }
+      ]
+    }
   ]
 }

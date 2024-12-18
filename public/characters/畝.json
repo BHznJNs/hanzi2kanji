@@ -91,5 +91,93 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "畝ねり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畝り",
+          "reading": "うねり"
+        }
+      ]
+    },
+    {
+      "slug": "畝織り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畝織り",
+          "reading": "うねおり"
+        },
+        {
+          "word": "畝織",
+          "reading": "うねおり"
+        }
+      ]
+    },
+    {
+      "slug": "畝須",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畝須",
+          "reading": "うねす"
+        }
+      ]
+    },
+    {
+      "slug": "畝間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畝間",
+          "reading": "うねま"
+        }
+      ]
+    },
+    {
+      "slug": "畝溝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畝溝",
+          "reading": "うねみぞ"
+        }
+      ]
+    },
+    {
+      "slug": "畝る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "うねる"
+        }
+      ]
+    },
+    {
+      "slug": "畝立て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畝立て",
+          "reading": "うねたて"
+        },
+        {
+          "word": "畝立て",
+          "reading": "うねだて"
+        },
+        {
+          "word": "うね立て",
+          "reading": "うねたて"
+        },
+        {
+          "word": "うね立て",
+          "reading": "うねだて"
+        }
+      ]
+    }
   ]
 }

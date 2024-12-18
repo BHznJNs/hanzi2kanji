@@ -58,5 +58,241 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "獅子女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子女",
+          "reading": "スフィンクス"
+        }
+      ]
+    },
+    {
+      "slug": "獅子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子",
+          "reading": "しし"
+        },
+        {
+          "word": "師子",
+          "reading": "しし"
+        }
+      ]
+    },
+    {
+      "slug": "獅子奮迅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子奮迅",
+          "reading": "ししふんじん"
+        }
+      ]
+    },
+    {
+      "slug": "獅子舞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子舞",
+          "reading": "ししまい"
+        }
+      ]
+    },
+    {
+      "slug": "獅子宮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子宮",
+          "reading": "ししきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "獅子座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しし座",
+          "reading": "ししざ"
+        },
+        {
+          "word": "獅子座",
+          "reading": "ししざ"
+        }
+      ]
+    },
+    {
+      "slug": "獅子唐辛子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しし唐辛子",
+          "reading": "ししとうがらし"
+        },
+        {
+          "word": "獅子唐辛子",
+          "reading": "ししとうがらし"
+        },
+        {
+          "word": "獅子唐芥子",
+          "reading": "ししとうがらし"
+        },
+        {
+          "reading": "シシトウガラシ"
+        }
+      ]
+    },
+    {
+      "slug": "獅子猿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子猿",
+          "reading": "ししざる"
+        }
+      ]
+    },
+    {
+      "slug": "獅子身中の虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子身中の虫",
+          "reading": "しししんちゅうのむし"
+        }
+      ]
+    },
+    {
+      "slug": "獅子蘭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子蘭",
+          "reading": "ししらん"
+        },
+        {
+          "reading": "シシラン"
+        }
+      ]
+    },
+    {
+      "slug": "獅子吼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子吼",
+          "reading": "ししく"
+        }
+      ]
+    },
+    {
+      "slug": "獅子頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子頭",
+          "reading": "ししがしら"
+        },
+        {
+          "reading": "シシガシラ"
+        }
+      ]
+    },
+    {
+      "slug": "獅子唐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しし唐",
+          "reading": "ししとう"
+        },
+        {
+          "word": "獅子唐",
+          "reading": "ししとう"
+        },
+        {
+          "reading": "シシトウ"
+        }
+      ]
+    },
+    {
+      "slug": "獅子身中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子身中",
+          "reading": "しししんちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "獅子鼻猿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子鼻猿",
+          "reading": "ししばなざる"
+        },
+        {
+          "reading": "シシバナザル"
+        }
+      ]
+    },
+    {
+      "slug": "獅子鼻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子鼻",
+          "reading": "ししばな"
+        },
+        {
+          "word": "しし鼻",
+          "reading": "ししばな"
+        }
+      ]
+    },
+    {
+      "slug": "獅子の座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子の座",
+          "reading": "ししのざ"
+        }
+      ]
+    },
+    {
+      "slug": "獅子奮迅の勢い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子奮迅の勢い",
+          "reading": "ししふんじんのいきおい"
+        }
+      ]
+    },
+    {
+      "slug": "獅子っ鼻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "獅子っ鼻",
+          "reading": "ししっぱな"
+        },
+        {
+          "word": "ししっ鼻",
+          "reading": "ししっぱな"
+        }
+      ]
+    }
   ]
 }

@@ -39,7 +39,7 @@
       "lang": "fr",
       "values": [
         "qui",
-        "quelqu\u0027un"
+        "quelqu'un"
       ]
     },
     {
@@ -71,6 +71,355 @@
       "radical": "隹",
       "startStroke": 7,
       "strokes": 8
+    }
+  ],
+  "sentences": [
+    {
+      "content": "誰か驚いた？",
+      "furigana": "[誰|だれ]か[驚|おどろ]いた？",
+      "translation_zh_CN": "有人感到惊讶吗？"
+    },
+    {
+      "content": "これ誰の？",
+      "furigana": "これ[誰|だれ]の？",
+      "translation_zh_CN": "这是谁的？"
+    },
+    {
+      "content": "誰か来る。",
+      "furigana": "[誰|だれ]か[来|く]る。",
+      "translation_zh_CN": "有人来了。"
+    },
+    {
+      "content": "誰も知らなかった。",
+      "furigana": "[誰|だれ]も[知|し]らなかった。",
+      "translation_zh_CN": "没有人知道。"
+    },
+    {
+      "content": "誰も来ていなかった。",
+      "furigana": "[誰|だれ]も[来|き]ていなかった。",
+      "translation_zh_CN": "没有人来。"
+    },
+    {
+      "content": "これ誰のコップ？",
+      "furigana": "これ[誰|だれ]のコップ？",
+      "translation_zh_CN": "这是谁的杯子？"
+    },
+    {
+      "content": "誰かきてくれ。",
+      "furigana": "[誰|だれ]かきてくれ。",
+      "translation_zh_CN": "有人请来。"
+    },
+    {
+      "content": "誰が話しますか。",
+      "furigana": "[誰|だれ]が[話|はな]しますか。",
+      "translation_zh_CN": "谁来发言？"
+    },
+    {
+      "content": "もう誰も信じたくない。",
+      "furigana": "もう[誰|だれ]も[信|しん]じたくない。",
+      "translation_zh_CN": "我不想再相信任何人了。"
+    },
+    {
+      "content": "エミリーってだれ？",
+      "furigana": "エミリーってだれ？",
+      "translation_zh_CN": "艾米丽是谁？"
+    },
+    {
+      "content": "誰も来なかった。",
+      "furigana": "[誰|だれ]も[来|こ]なかった。",
+      "translation_zh_CN": "没有人来了。"
+    },
+    {
+      "content": "彼女は誰ですか。",
+      "furigana": "[彼女|かの|じょ]は[誰|だれ]ですか。",
+      "translation_zh_CN": "她是谁？"
+    },
+    {
+      "content": "誰を待っているの？",
+      "furigana": "[誰|だれ]を[待|ま]っているの？",
+      "translation_zh_CN": "你在等誰?"
+    },
+    {
+      "content": "あの人は誰ですか？",
+      "furigana": "あの[人|ひと]は[誰|だれ]ですか？",
+      "translation_zh_CN": "那个人是谁？"
+    },
+    {
+      "content": "誰と行くんですか？",
+      "furigana": "[誰|だれ]と[行|い]くんですか？",
+      "translation_zh_CN": "你和谁一起去那？"
+    },
+    {
+      "content": "誰にも言うなよ。",
+      "furigana": "[誰|だれ]にも[言|い]うなよ。",
+      "translation_zh_CN": "别跟任何人说哟。"
+    },
+    {
+      "content": "トムの彼女って誰？",
+      "furigana": "トムの[彼女|かの|じょ]って[誰|だれ]？",
+      "translation_zh_CN": "汤姆的女朋友是谁？"
+    },
+    {
+      "content": "これ誰のか分かる？",
+      "furigana": "これ[誰|だれ]のか[分|わ]かる？",
+      "translation_zh_CN": "这是谁的你知道吗？"
+    },
+    {
+      "content": "この自転車、誰の？",
+      "furigana": "この[自転車|じ|てん|しゃ]、[誰|だれ]の？",
+      "translation_zh_CN": "这辆自行车是谁的？"
+    },
+    {
+      "content": "それ誰がくれたの？",
+      "furigana": "それ[誰|だれ]がくれたの？",
+      "translation_zh_CN": "那是谁给你的？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "誰か",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "誰か",
+          "reading": "だれか"
+        }
+      ]
+    },
+    {
+      "slug": "誰にも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰にも",
+          "reading": "だれにも"
+        }
+      ]
+    },
+    {
+      "slug": "誰彼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰彼",
+          "reading": "だれかれ"
+        },
+        {
+          "word": "誰彼",
+          "reading": "たれかれ"
+        },
+        {
+          "word": "誰かれ",
+          "reading": "だれかれ"
+        },
+        {
+          "word": "誰かれ",
+          "reading": "たれかれ"
+        }
+      ]
+    },
+    {
+      "slug": "誰しも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰しも",
+          "reading": "だれしも"
+        },
+        {
+          "word": "誰しも",
+          "reading": "たれしも"
+        }
+      ]
+    },
+    {
+      "slug": "誰何",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰何",
+          "reading": "すいか"
+        }
+      ]
+    },
+    {
+      "slug": "誰もかも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰もかも",
+          "reading": "だれもかも"
+        }
+      ]
+    },
+    {
+      "slug": "誰にも増して",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰にも増して",
+          "reading": "だれにもまして"
+        },
+        {
+          "word": "誰にもまして",
+          "reading": "だれにもまして"
+        }
+      ]
+    },
+    {
+      "slug": "誰一人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰一人",
+          "reading": "だれひとり"
+        },
+        {
+          "word": "誰ひとり",
+          "reading": "だれひとり"
+        },
+        {
+          "word": "だれ一人",
+          "reading": "だれひとり"
+        }
+      ]
+    },
+    {
+      "slug": "誰も",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰も",
+          "reading": "だれも"
+        }
+      ]
+    },
+    {
+      "slug": "誰でも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰でも",
+          "reading": "だれでも"
+        }
+      ]
+    },
+    {
+      "slug": "誰にでも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰にでも",
+          "reading": "だれにでも"
+        }
+      ]
+    },
+    {
+      "slug": "誰であれ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰であれ",
+          "reading": "だれであれ"
+        }
+      ]
+    },
+    {
+      "slug": "誰も彼も",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰も彼も",
+          "reading": "だれもかれも"
+        },
+        {
+          "word": "誰もかれも",
+          "reading": "だれもかれも"
+        },
+        {
+          "word": "だれも彼も",
+          "reading": "だれもかれも"
+        }
+      ]
+    },
+    {
+      "slug": "誰にだって",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰にだって",
+          "reading": "だれにだって"
+        }
+      ]
+    },
+    {
+      "slug": "誰一人として",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰一人として",
+          "reading": "だれひとりとして"
+        },
+        {
+          "word": "誰ひとりとして",
+          "reading": "だれひとりとして"
+        },
+        {
+          "word": "だれ一人として",
+          "reading": "だれひとりとして"
+        }
+      ]
+    },
+    {
+      "slug": "誰だって",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰だって",
+          "reading": "だれだって"
+        }
+      ]
+    },
+    {
+      "slug": "誰が為に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰が為に",
+          "reading": "たがために"
+        },
+        {
+          "word": "誰がために",
+          "reading": "たがために"
+        }
+      ]
+    },
+    {
+      "slug": "誰かさん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰かさん",
+          "reading": "だれかさん"
+        }
+      ]
+    },
+    {
+      "slug": "誰それ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誰それ",
+          "reading": "だれそれ"
+        },
+        {
+          "word": "誰某",
+          "reading": "だれそれ"
+        }
+      ]
     }
   ]
 }

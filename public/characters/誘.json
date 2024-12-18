@@ -117,5 +117,281 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "友達を誘いました。",
+      "furigana": "[友達|とも|だち]を[誘|さそ]いました。",
+      "translation_zh_CN": "我邀请了我的朋友。"
+    },
+    {
+      "content": "トランプに誘われた。",
+      "furigana": "トランプに[誘|さそ]われた。",
+      "translation_zh_CN": "他們邀請我去玩牌。"
+    },
+    {
+      "content": "大都会には誘惑が多い。",
+      "furigana": "[大|だい][都会|と|かい]には[誘惑|ゆう|わく]が[多|おお]い。",
+      "translation_zh_CN": "大城市有很多誘惑。"
+    },
+    {
+      "content": "検事は誘導尋問をした。",
+      "furigana": "[検事|けん|じ]は[誘導|ゆう|どう][尋問|じん|もん]をした。",
+      "translation_zh_CN": "检察官问了我一个引导性的问题。"
+    },
+    {
+      "content": "彼女を映画に誘ったんだ。",
+      "furigana": "[彼女|かの|じょ]を[映画|えい|が]に[誘|さそ]ったんだ。",
+      "translation_zh_CN": "我邀请她去看电影。"
+    },
+    {
+      "content": "私は彼女をデートに誘った。",
+      "furigana": "[私|わたし]は[彼女|かの|じょ]をデートに[誘|さそ]った。",
+      "translation_zh_CN": "我向她提出約會的請求。"
+    },
+    {
+      "content": "私の友達を晩ご飯に誘った。",
+      "furigana": "[私|わたし]の[友達|とも|だち]を[晩|ばん]ご[飯|はん]に[誘|さそ]った。",
+      "translation_zh_CN": "我邀請我的朋友吃晚餐。"
+    },
+    {
+      "content": "彼らは僕をトランプに誘った。",
+      "furigana": "[彼|かれ]らは[僕|ぼく]をトランプに[誘|さそ]った。",
+      "translation_zh_CN": "他們邀請我去玩牌。"
+    },
+    {
+      "content": "僕たちを外食に誘って下さい。",
+      "furigana": "[僕|ぼく]たちを[外食|がい|しょく]に[誘|さそ]って[下|くだ]さい。",
+      "translation_zh_CN": "请我们去饭店吃晚饭。"
+    },
+    {
+      "content": "トランプをしようと誘われた。",
+      "furigana": "トランプをしようと[誘|さそ]われた。",
+      "translation_zh_CN": "他們邀請我去玩牌。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "誘う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "誘う",
+          "reading": "さそう"
+        },
+        {
+          "word": "誘う",
+          "reading": "いざなう"
+        }
+      ]
+    },
+    {
+      "slug": "誘惑",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "誘惑",
+          "reading": "ゆうわく"
+        }
+      ]
+    },
+    {
+      "slug": "誘導",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "誘導",
+          "reading": "ゆうどう"
+        }
+      ]
+    },
+    {
+      "slug": "誘拐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘拐",
+          "reading": "ゆうかい"
+        }
+      ]
+    },
+    {
+      "slug": "誘い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘い",
+          "reading": "さそい"
+        },
+        {
+          "word": "誘い",
+          "reading": "いざない"
+        }
+      ]
+    },
+    {
+      "slug": "誘拐犯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘拐犯",
+          "reading": "ゆうかいはん"
+        }
+      ]
+    },
+    {
+      "slug": "誘き寄せる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "おびき寄せる",
+          "reading": "おびきよせる"
+        },
+        {
+          "word": "誘き寄せる",
+          "reading": "おびきよせる"
+        }
+      ]
+    },
+    {
+      "slug": "誘拐罪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘拐罪",
+          "reading": "ゆうかいざい"
+        }
+      ]
+    },
+    {
+      "slug": "誘き出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "おびき出す",
+          "reading": "おびきだす"
+        },
+        {
+          "word": "誘き出す",
+          "reading": "おびきだす"
+        }
+      ]
+    },
+    {
+      "slug": "誘導尋問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘導尋問",
+          "reading": "ゆうどうじんもん"
+        }
+      ]
+    },
+    {
+      "slug": "誘拐犯人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘拐犯人",
+          "reading": "ゆうかいはんにん"
+        }
+      ]
+    },
+    {
+      "slug": "誘拐事件",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘拐事件",
+          "reading": "ゆうかいじけん"
+        }
+      ]
+    },
+    {
+      "slug": "誘致",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘致",
+          "reading": "ゆうち"
+        }
+      ]
+    },
+    {
+      "slug": "誘因",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘因",
+          "reading": "ゆういん"
+        }
+      ]
+    },
+    {
+      "slug": "誘引",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘引",
+          "reading": "ゆういん"
+        }
+      ]
+    },
+    {
+      "slug": "誘発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘発",
+          "reading": "ゆうはつ"
+        }
+      ]
+    },
+    {
+      "slug": "誘爆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘爆",
+          "reading": "ゆうばく"
+        }
+      ]
+    },
+    {
+      "slug": "誘い出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘い出す",
+          "reading": "さそいだす"
+        }
+      ]
+    },
+    {
+      "slug": "誘い水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘い水",
+          "reading": "さそいみず"
+        }
+      ]
+    },
+    {
+      "slug": "誘導体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誘導体",
+          "reading": "ゆうどうたい"
+        }
+      ]
+    }
   ]
 }

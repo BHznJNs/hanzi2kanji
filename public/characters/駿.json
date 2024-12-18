@@ -86,5 +86,110 @@
       "startStroke": 14,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "「風立ちぬ」は宮崎駿の最後の映画です。",
+      "furigana": "「[風立|かぜ|た]ちぬ」は[宮崎駿|みや|ざき|しゅん]の[最後|さい|ご]の[映画|えい|が]です。",
+      "translation_zh_CN": "《起风了》是宫崎骏的最后一部电影。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "駿馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駿馬",
+          "reading": "しゅんめ"
+        },
+        {
+          "word": "駿馬",
+          "reading": "しゅんば"
+        }
+      ]
+    },
+    {
+      "slug": "俊足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "俊足",
+          "reading": "しゅんそく"
+        },
+        {
+          "word": "駿足",
+          "reading": "しゅんそく"
+        }
+      ]
+    },
+    {
+      "slug": "駿河台大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駿河台大学",
+          "reading": "するがだいだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "駿台電子情報専門学校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駿台電子情報専門学校",
+          "reading": "すんだいでんしじょうほうせんもんがっこう"
+        }
+      ]
+    },
+    {
+      "slug": "駿台法律経済専門学校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駿台法律経済専門学校",
+          "reading": "すんだいほうりつけいざいせんもんがっこう"
+        }
+      ]
+    },
+    {
+      "slug": "駿河問い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駿河問い",
+          "reading": "するがどい"
+        }
+      ]
+    },
+    {
+      "slug": "俊才",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "俊才",
+          "reading": "しゅんさい"
+        },
+        {
+          "word": "駿才",
+          "reading": "しゅんさい"
+        },
+        {
+          "word": "儁才",
+          "reading": "しゅんさい"
+        }
+      ]
+    },
+    {
+      "slug": "駿豆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駿豆",
+          "reading": "すんず"
+        }
+      ]
+    }
   ]
 }

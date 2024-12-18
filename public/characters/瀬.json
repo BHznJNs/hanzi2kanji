@@ -123,5 +123,209 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "人生沈む瀬あれば浮かぶ瀬あるわけだから、あまりくよくよしないように。",
+      "furigana": "[人生沈|じん|せい|しず]む[瀬|せ]あれば[浮|う]かぶ[瀬|せ]あるわけだから、あまりくよくよしないように。",
+      "translation_zh_CN": "人生有沉沦的时候，也有崛起的时候，所以不要过多的去思考。"
+    },
+    {
+      "content": "この店は瀬戸物を売っている。",
+      "furigana": "この[店|みせ]は[瀬戸物|せ|と|もの]を[売|う]っている。",
+      "translation_zh_CN": "这个商店卖陶器。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "瀬戸物",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "瀬戸物",
+          "reading": "せともの"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸",
+          "reading": "せと"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸際",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸際",
+          "reading": "せとぎわ"
+        }
+      ]
+    },
+    {
+      "slug": "瀬踏み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬踏み",
+          "reading": "せぶみ"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸内海",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸内海",
+          "reading": "せとないかい"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸際政策",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸際政策",
+          "reading": "せとぎわせいさく"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸内海環境保全審議会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸内海環境保全審議会",
+          "reading": "せとないかいかんきょうほぜんしんぎかい"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸焼き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸焼き",
+          "reading": "せとやき"
+        },
+        {
+          "word": "瀬戸焼",
+          "reading": "せとやき"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸引き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸引き",
+          "reading": "せとびき"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸際外交",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸際外交",
+          "reading": "せとぎわがいこう"
+        }
+      ]
+    },
+    {
+      "slug": "瀬切れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬切れ",
+          "reading": "せぎれ"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸物市",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸物市",
+          "reading": "せとものいち"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸茅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸茅",
+          "reading": "せとがや"
+        },
+        {
+          "word": "背戸茅",
+          "reading": "せとがや"
+        },
+        {
+          "reading": "セトガヤ"
+        }
+      ]
+    },
+    {
+      "slug": "瀬取り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬取り",
+          "reading": "せどり"
+        }
+      ]
+    },
+    {
+      "slug": "瀬田蜆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬田蜆",
+          "reading": "せたしじみ"
+        },
+        {
+          "reading": "セタシジミ"
+        }
+      ]
+    },
+    {
+      "slug": "瀬戸内式気候",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬戸内式気候",
+          "reading": "せとうちしききこう"
+        }
+      ]
+    },
+    {
+      "slug": "瀬取り船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "瀬取り船",
+          "reading": "せどりぶね"
+        },
+        {
+          "word": "瀬取船",
+          "reading": "せどりぶね"
+        }
+      ]
+    }
   ]
 }

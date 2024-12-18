@@ -103,5 +103,243 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "誕生日、いつなの？",
+      "furigana": "[誕生|たん|じょう][日|び]、いつなの？",
+      "translation_zh_CN": "你的生日是几月几号？"
+    },
+    {
+      "content": "誕生日おめでとう。",
+      "furigana": "[誕生|たん|じょう][日|び]おめでとう。",
+      "translation_zh_CN": "生日快乐！"
+    },
+    {
+      "content": "誕生日はいつですか。",
+      "furigana": "[誕生|たん|じょう][日|び]はいつですか。",
+      "translation_zh_CN": "你的生日是几月几号？"
+    },
+    {
+      "content": "誕生日、おめでとう。",
+      "furigana": "[誕生|たん|じょう][日|び]、おめでとう。",
+      "translation_zh_CN": "生日快乐！"
+    },
+    {
+      "content": "明日は私の誕生日だ。",
+      "furigana": "[明日|あした]は[私|わたし]の[誕生|たん|じょう][日|び]だ。",
+      "translation_zh_CN": "明天是我生日。"
+    },
+    {
+      "content": "明日は彼女の誕生日だ。",
+      "furigana": "[明日|あした]は[彼女|かの|じょ]の[誕生|たん|じょう][日|び]だ。",
+      "translation_zh_CN": "明天是她的生日。"
+    },
+    {
+      "content": "明日は私の誕生日です。",
+      "furigana": "[明日|あした]は[私|わたし]の[誕生|たん|じょう][日|び]です。",
+      "translation_zh_CN": "明天是我生日。"
+    },
+    {
+      "content": "もうすぐ私の誕生日だ。",
+      "furigana": "もうすぐ[私|わたし]の[誕生|たん|じょう][日|び]だ。",
+      "translation_zh_CN": "我的生日就快到了。"
+    },
+    {
+      "content": "今日は私の誕生日です。",
+      "furigana": "[今日|きょう]は[私|わたし]の[誕生|たん|じょう][日|び]です。",
+      "translation_zh_CN": "今天是我的生日。"
+    },
+    {
+      "content": "お誕生日はいつですか。",
+      "furigana": "お[誕生|たん|じょう][日|び]はいつですか。",
+      "translation_zh_CN": "你的生日是几号？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "誕生日",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "誕生日",
+          "reading": "たんじょうび"
+        }
+      ]
+    },
+    {
+      "slug": "誕生",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "誕生",
+          "reading": "たんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "誕生石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生石",
+          "reading": "たんじょうせき"
+        }
+      ]
+    },
+    {
+      "slug": "誕生会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生会",
+          "reading": "たんじょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "誕生祝い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生祝い",
+          "reading": "たんじょういわい"
+        }
+      ]
+    },
+    {
+      "slug": "誕生月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生月",
+          "reading": "たんじょうづき"
+        }
+      ]
+    },
+    {
+      "slug": "誕生花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生花",
+          "reading": "たんじょうか"
+        }
+      ]
+    },
+    {
+      "slug": "誕辰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕辰",
+          "reading": "たんしん"
+        }
+      ]
+    },
+    {
+      "slug": "誕生秘話",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生秘話",
+          "reading": "たんじょうひわ"
+        }
+      ]
+    },
+    {
+      "slug": "誕生地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生地",
+          "reading": "たんじょうち"
+        }
+      ]
+    },
+    {
+      "slug": "誕生仏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生仏",
+          "reading": "たんじょうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "誕生日会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生日会",
+          "reading": "たんじょうびかい"
+        }
+      ]
+    },
+    {
+      "slug": "誕生日おめでとうございます",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生日おめでとうございます",
+          "reading": "たんじょうびおめでとうございます"
+        }
+      ]
+    },
+    {
+      "slug": "誕生日ケーキ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生日ケーキ",
+          "reading": "たんじょうびケーキ"
+        }
+      ]
+    },
+    {
+      "slug": "誕生日パーティー",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生日パーティー",
+          "reading": "たんじょうびパーティー"
+        }
+      ]
+    },
+    {
+      "slug": "誕生日プレゼント",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生日プレゼント",
+          "reading": "たんじょうびプレゼント"
+        }
+      ]
+    },
+    {
+      "slug": "誕プレ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕プレ",
+          "reading": "たんプレ"
+        }
+      ]
+    },
+    {
+      "slug": "誕生パーティー",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誕生パーティー",
+          "reading": "たんじょうパーティー"
+        }
+      ]
+    }
   ]
 }

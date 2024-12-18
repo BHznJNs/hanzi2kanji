@@ -89,5 +89,335 @@
       "startStroke": 8,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は強そうだ。",
+      "furigana": "[彼|かれ]は[強|きょう]そうだ。",
+      "translation_zh_CN": "他看起来很坚强。"
+    },
+    {
+      "content": "香水が強すぎるよ。",
+      "furigana": "[香水|こう|すい]が[強|つよ]すぎるよ。",
+      "translation_zh_CN": "香水太浓了。"
+    },
+    {
+      "content": "彼は強そうにみえる。",
+      "furigana": "[彼|かれ]は[強|きょう]そうにみえる。",
+      "translation_zh_CN": "他看起来很强壮。"
+    },
+    {
+      "content": "このウイスキーは強すぎる。",
+      "furigana": "このウイスキーは[強|つよ]すぎる。",
+      "translation_zh_CN": "这威士忌太烈了。"
+    },
+    {
+      "content": "彼の体つきはいかにも強そうだった。",
+      "furigana": "[彼|かれ]の[体|からだ]つきはいかにも[強|つよ]そうだった。",
+      "translation_zh_CN": "他的体质看起来非常的强健。"
+    },
+    {
+      "content": "風が強すぎて、髪の毛がぐしゃぐしゃになっちゃった。",
+      "furigana": "[風|かぜ]が[強|つよ]すぎて、[髪|かみ]の[毛|け]がぐしゃぐしゃになっちゃった。",
+      "translation_zh_CN": "风太大了，把我的头发都吹乱了。"
+    },
+    {
+      "content": "挑戦者の中で彼が一番強そうに見えた。",
+      "furigana": "[挑戦者|ちょう|せん|しゃ]の[中|なか]で[彼|かれ]が[一番強|いち|ばん|きょう]そうに[見|み]えた。",
+      "translation_zh_CN": "他看起来是挑战者中最强的。"
+    },
+    {
+      "content": "彼はうぬぼれが強過ぎるのでだれからも嫌われる。",
+      "furigana": "[彼|かれ]はうぬぼれが[強過|つよ|す]ぎるのでだれからも[嫌|きら]われる。",
+      "translation_zh_CN": "他太虚荣了，以至于每个人都讨厌他。"
+    },
+    {
+      "content": "図体ばかり大きいから喧嘩強そうだが、実際喧嘩弱いだろ。",
+      "furigana": "[図体|ずう|たい]ばかり[大|おお]きいから[喧嘩強|けん|か|きょう]そうだが、[実際喧嘩弱|じっ|さい|けん|か|よわ]いだろ。",
+      "translation_zh_CN": "因为体型庞大，看起来战斗力很强，但实际上战斗力很弱。"
+    },
+    {
+      "content": "彼は自尊心が強すぎて、他人にものを尋ねることができない。",
+      "furigana": "[彼|かれ]は[自尊心|じ|そん|しん]が[強|つよ]すぎて、[他人|た|にん]にものを[尋|たず]ねることができない。",
+      "translation_zh_CN": "他太自尊了，不敢要求别人。"
+    },
+    {
+      "content": "彼女は強情です。",
+      "furigana": "[彼女|かの|じょ]は[強情|ごう|じょう]です。",
+      "translation_zh_CN": "她很固执。"
+    },
+    {
+      "content": "彼は勉強中です。",
+      "furigana": "[彼|かれ]は[勉強|べん|きょう][中|ちゅう]です。",
+      "translation_zh_CN": "他在讀書。"
+    },
+    {
+      "content": "彼は君より強い。",
+      "furigana": "[彼|かれ]は[君|きみ]より[強|つよ]い。",
+      "translation_zh_CN": "他比你強壯。"
+    },
+    {
+      "content": "今日は風が強い。",
+      "furigana": "[今日|きょう]は[風|かぜ]が[強|つよ]い。",
+      "translation_zh_CN": "今天风很大。"
+    },
+    {
+      "content": "勉強が嫌いです。",
+      "furigana": "[勉強|べん|きょう]が[嫌|きら]いです。",
+      "translation_zh_CN": "我讨厌学习。"
+    },
+    {
+      "content": "なんて強い風なの！",
+      "furigana": "なんて[強|つよ]い[風|かぜ]なの！",
+      "translation_zh_CN": "多麼強的風啊！"
+    },
+    {
+      "content": "勉強は毎日してる？",
+      "furigana": "[勉強|べん|きょう]は[毎日|まい|にち]してる？",
+      "translation_zh_CN": "你每天都学习吗？"
+    },
+    {
+      "content": "パリで勉強したい。",
+      "furigana": "パリで[勉強|べん|きょう]したい。",
+      "translation_zh_CN": "我想到巴黎读书。"
+    },
+    {
+      "content": "勉強する気がない。",
+      "furigana": "[勉強|べん|きょう]する[気|き]がない。",
+      "translation_zh_CN": "我没有强烈的欲望去学习。"
+    },
+    {
+      "content": "彼女は個性が強い。",
+      "furigana": "[彼女|かの|じょ]は[個性|こ|せい]が[強|つよ]い。",
+      "translation_zh_CN": "她有很强的个性。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "強盗",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "強盗",
+          "reading": "ごうとう"
+        }
+      ]
+    },
+    {
+      "slug": "強い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "強い",
+          "reading": "つよい"
+        }
+      ]
+    },
+    {
+      "slug": "強化",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "強化",
+          "reading": "きょうか"
+        }
+      ]
+    },
+    {
+      "slug": "強制",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "強制",
+          "reading": "きょうせい"
+        }
+      ]
+    },
+    {
+      "slug": "強力",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "強力",
+          "reading": "きょうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "強調",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "強調",
+          "reading": "きょうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "強引",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "強引",
+          "reading": "ごういん"
+        }
+      ]
+    },
+    {
+      "slug": "強気",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "強気",
+          "reading": "つよき"
+        }
+      ]
+    },
+    {
+      "slug": "強烈",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "強烈",
+          "reading": "きょうれつ"
+        }
+      ]
+    },
+    {
+      "slug": "強硬",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "強硬",
+          "reading": "きょうこう"
+        }
+      ]
+    },
+    {
+      "slug": "強める",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "強める",
+          "reading": "つよめる"
+        }
+      ]
+    },
+    {
+      "slug": "強いる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "強いる",
+          "reading": "しいる"
+        }
+      ]
+    },
+    {
+      "slug": "強請る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "強請る",
+          "reading": "ねだる"
+        }
+      ]
+    },
+    {
+      "slug": "強まる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "強まる",
+          "reading": "つよまる"
+        }
+      ]
+    },
+    {
+      "slug": "傲慢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傲慢",
+          "reading": "ごうまん"
+        }
+      ]
+    },
+    {
+      "slug": "強風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強風",
+          "reading": "きょうふう"
+        }
+      ]
+    },
+    {
+      "slug": "強み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強み",
+          "reading": "つよみ"
+        },
+        {
+          "word": "強味",
+          "reading": "つよみ"
+        }
+      ]
+    },
+    {
+      "slug": "強要",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強要",
+          "reading": "きょうよう"
+        }
+      ]
+    },
+    {
+      "slug": "強固",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強固",
+          "reading": "きょうこ"
+        },
+        {
+          "word": "鞏固",
+          "reading": "きょうこ"
+        }
+      ]
+    }
   ]
 }

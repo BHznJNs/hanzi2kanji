@@ -74,5 +74,326 @@
       "strokes": 3,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "氷は入れる？",
+      "furigana": "[氷|こおり]は[入|い]れる？",
+      "translation_zh_CN": "可以放冰吗？"
+    },
+    {
+      "content": "氷が溶けてしまった。",
+      "furigana": "[氷|こおり]が[溶|と]けてしまった。",
+      "translation_zh_CN": "冰已经融化了。"
+    },
+    {
+      "content": "氷が溶けている。",
+      "furigana": "[氷|こおり]が[溶|と]けている。",
+      "translation_zh_CN": "冰正在融化。"
+    },
+    {
+      "content": "氷が解けちゃった。",
+      "furigana": "[氷|こおり]が[解|と]けちゃった。",
+      "translation_zh_CN": "冰已经融化了。"
+    },
+    {
+      "content": "氷が欲しいの？",
+      "furigana": "[氷|こおり]が[欲|ほ]しいの？",
+      "translation_zh_CN": "你想要冰吗？"
+    },
+    {
+      "content": "氷はどうされますか。",
+      "furigana": "[氷|こおり]はどうされますか。",
+      "translation_zh_CN": "你用冰做什么？"
+    },
+    {
+      "content": "船は氷に閉じ込められてしまった。",
+      "furigana": "[船|ふね]は[氷|こおり]に[閉|と]じ[込|こ]められてしまった。",
+      "translation_zh_CN": "船被困在冰里了。"
+    },
+    {
+      "content": "氷を温めるととける。",
+      "furigana": "[氷|こおり]を[温|あたた]めるととける。",
+      "translation_zh_CN": "如果你加热冰，它就会融化。"
+    },
+    {
+      "content": "その氷は硬くて割れない。",
+      "furigana": "その[氷|こおり]は[硬|かた]くて[割|わ]れない。",
+      "translation_zh_CN": "冰很硬，无法打破。"
+    },
+    {
+      "content": "水は氷になりました。",
+      "furigana": "[水|みず]は[氷|こおり]になりました。",
+      "translation_zh_CN": "水变成了冰。"
+    },
+    {
+      "content": "氷のように冷たい。",
+      "furigana": "[氷|こおり]のように[冷|つめ]たい。",
+      "translation_zh_CN": "它冷得像冰一樣。"
+    },
+    {
+      "content": "氷を温めるととける。",
+      "furigana": "[氷|こおり]を[温|あたた]めるととける。",
+      "translation_zh_CN": "如果你加热冰它就会融化。"
+    },
+    {
+      "content": "水は氷になりました。",
+      "furigana": "[水|みず]は[氷|こおり]になりました。",
+      "translation_zh_CN": "水结成冰了。"
+    },
+    {
+      "content": "氷が溶けると水になる。",
+      "furigana": "[氷|こおり]が[溶|と]けると[水|みず]になる。",
+      "translation_zh_CN": "冰融了就會化成水。"
+    },
+    {
+      "content": "氷の上で滑って転ぶなよ。",
+      "furigana": "[氷|こおり]の[上|うえ]で[滑|すべ]って[転|ころ]ぶなよ。",
+      "translation_zh_CN": "在冰上别滑倒了啊。"
+    },
+    {
+      "content": "タイタニックは氷山に衝突した。",
+      "furigana": "タイタニックは[氷山|ひょう|ざん]に[衝突|しょう|とつ]した。",
+      "translation_zh_CN": "泰坦尼克號撞到了冰山。"
+    },
+    {
+      "content": "今朝は気温が氷点下に下がっている。",
+      "furigana": "[今朝|けさ]は[気温|き|おん]が[氷点下|ひょう|てん|か]に[下|さ]がっている。",
+      "translation_zh_CN": "今天早上温度降到了零下。"
+    },
+    {
+      "content": "ロジェは氷で滑って脚に怪我をした。",
+      "furigana": "ロジェは[氷|こおり]で[滑|すべ]って[脚|あし]に[怪我|け|が]をした。",
+      "translation_zh_CN": "罗杰在冰上滑倒了，弄伤了腿。"
+    },
+    {
+      "content": "ロジャーは氷で滑って脚に怪我をした。",
+      "furigana": "ロジャーは[氷|こおり]で[滑|すべ]って[脚|あし]に[怪我|け|が]をした。",
+      "translation_zh_CN": "罗杰在冰上滑倒了，弄伤了腿。"
+    },
+    {
+      "content": "とても寒かったので、湖は一面氷に覆われた。",
+      "furigana": "とても[寒|さむ]かったので、[湖|みずうみ]は[一|いち][面|めん][氷|こおり]に[覆|おお]われた。",
+      "translation_zh_CN": "天冷得足以让湖结冰。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "氷柱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷柱",
+          "reading": "つらら"
+        },
+        {
+          "word": "氷",
+          "reading": "つらら"
+        },
+        {
+          "word": "氷柱",
+          "reading": "ひょうちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "凍る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "凍る",
+          "reading": "こおる"
+        },
+        {
+          "word": "氷る",
+          "reading": "こおる"
+        }
+      ]
+    },
+    {
+      "slug": "氷山",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷山",
+          "reading": "ひょうざん"
+        }
+      ]
+    },
+    {
+      "slug": "氷河",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷河",
+          "reading": "ひょうが"
+        }
+      ]
+    },
+    {
+      "slug": "氷原",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷原",
+          "reading": "ひょうげん"
+        }
+      ]
+    },
+    {
+      "slug": "氷点下",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷点下",
+          "reading": "ひょうてんか"
+        }
+      ]
+    },
+    {
+      "slug": "氷解",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷解",
+          "reading": "ひょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "氷水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷水",
+          "reading": "こおりみず"
+        },
+        {
+          "word": "氷水",
+          "reading": "こおりすい"
+        },
+        {
+          "word": "氷水",
+          "reading": "ひみず"
+        }
+      ]
+    },
+    {
+      "slug": "凍り付く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凍りつく",
+          "reading": "こおりつく"
+        },
+        {
+          "word": "凍り付く",
+          "reading": "こおりつく"
+        }
+      ]
+    },
+    {
+      "slug": "氷嚢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷嚢",
+          "reading": "ひょうのう"
+        },
+        {
+          "word": "氷のう",
+          "reading": "ひょうのう"
+        }
+      ]
+    },
+    {
+      "slug": "氷結",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷結",
+          "reading": "ひょうけつ"
+        }
+      ]
+    },
+    {
+      "slug": "氷河時代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷河時代",
+          "reading": "ひょうがじだい"
+        }
+      ]
+    },
+    {
+      "slug": "氷下魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷下魚",
+          "reading": "こまい"
+        },
+        {
+          "word": "氷魚",
+          "reading": "こまい"
+        },
+        {
+          "reading": "コマイ"
+        }
+      ]
+    },
+    {
+      "slug": "氷晶石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷晶石",
+          "reading": "ひょうしょうせき"
+        }
+      ]
+    },
+    {
+      "slug": "氷河期",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷河期",
+          "reading": "ひょうがき"
+        }
+      ]
+    },
+    {
+      "slug": "氷晶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷晶",
+          "reading": "ひょうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "氷床",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷床",
+          "reading": "ひょうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "氷砂糖",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "氷砂糖",
+          "reading": "こおりざとう"
+        }
+      ]
+    }
   ]
 }

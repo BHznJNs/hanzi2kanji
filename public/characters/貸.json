@@ -89,5 +89,371 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "これは貸室です。",
+      "furigana": "これは[貸室|かし|しつ]です。",
+      "translation_zh_CN": "这是出租房间。"
+    },
+    {
+      "content": "はしご貸りてもいい？",
+      "furigana": "はしご[貸|かし]りてもいい？",
+      "translation_zh_CN": "我可以借个梯子吗？"
+    },
+    {
+      "content": "耳を貸して下さい。",
+      "furigana": "[耳|みみ]を[貸|か]して[下|くだ]さい。",
+      "translation_zh_CN": "請洗耳恭聽。"
+    },
+    {
+      "content": "鉛筆貸してくんない？",
+      "furigana": "[鉛筆|えん|ぴつ][貸|か]してくんない？",
+      "translation_zh_CN": "能借我支铅笔吗？"
+    },
+    {
+      "content": "辞書貸してくれない？",
+      "furigana": "[辞書|じ|しょ][貸|か]してくれない？",
+      "translation_zh_CN": "把你的字典借給我好嗎？"
+    },
+    {
+      "content": "お金は貸せません。",
+      "furigana": "お[金|かね]は[貸|か]せません。",
+      "translation_zh_CN": "我不能借你任何錢。"
+    },
+    {
+      "content": "CDを貸したんだよ。",
+      "furigana": "[CD|しーでぃー]を[貸|か]したんだよ。",
+      "translation_zh_CN": "我借给他一盘CD。"
+    },
+    {
+      "content": "ちょっと手を貸して。",
+      "furigana": "ちょっと[手|て]を[貸|か]して。",
+      "translation_zh_CN": "你能帮我一点忙吗？"
+    },
+    {
+      "content": "一万円貸してくれない？",
+      "furigana": "[一|いち][万|まん][円|えん][貸|か]してくれない？",
+      "translation_zh_CN": "你能借給我10000日元？"
+    },
+    {
+      "content": "ナイフを貸して下さい。",
+      "furigana": "ナイフを[貸|か]して[下|くだ]さい。",
+      "translation_zh_CN": "請借我你的刀。"
+    },
+    {
+      "content": "車を貸してもらえますか。",
+      "furigana": "[車|くるま]を[貸|か]してもらえますか。",
+      "translation_zh_CN": "我能借你的车吗？"
+    },
+    {
+      "content": "車を貸してくれませんか。",
+      "furigana": "[車|くるま]を[貸|か]してくれませんか。",
+      "translation_zh_CN": "我能借你的车吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "貸し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸し",
+          "reading": "かし"
+        },
+        {
+          "word": "貸",
+          "reading": "かし"
+        }
+      ]
+    },
+    {
+      "slug": "借りる",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "借りる",
+          "reading": "かりる"
+        }
+      ]
+    },
+    {
+      "slug": "貸す",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "貸す",
+          "reading": "かす"
+        },
+        {
+          "word": "藉す",
+          "reading": "かす"
+        }
+      ]
+    },
+    {
+      "slug": "貸家",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "貸家",
+          "reading": "かしや"
+        },
+        {
+          "word": "貸し家",
+          "reading": "かしや"
+        },
+        {
+          "word": "貸屋",
+          "reading": "かしや"
+        },
+        {
+          "word": "貸し屋",
+          "reading": "かしや"
+        },
+        {
+          "word": "貸家",
+          "reading": "かしいえ"
+        },
+        {
+          "word": "貸し家",
+          "reading": "かしいえ"
+        }
+      ]
+    },
+    {
+      "slug": "貸し出し",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "貸出",
+          "reading": "かしだし"
+        },
+        {
+          "word": "貸し出し",
+          "reading": "かしだし"
+        },
+        {
+          "word": "貸出し",
+          "reading": "かしだし"
+        }
+      ]
+    },
+    {
+      "slug": "貸間",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "貸間",
+          "reading": "かしま"
+        },
+        {
+          "word": "貸し間",
+          "reading": "かしま"
+        }
+      ]
+    },
+    {
+      "slug": "貸付",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸付",
+          "reading": "かしつけ"
+        },
+        {
+          "word": "貸し付け",
+          "reading": "かしつけ"
+        },
+        {
+          "word": "貸付け",
+          "reading": "かしつけ"
+        },
+        {
+          "word": "貸し付",
+          "reading": "かしつけ"
+        },
+        {
+          "word": "貸しつけ",
+          "reading": "かしつけ"
+        }
+      ]
+    },
+    {
+      "slug": "貸与",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸与",
+          "reading": "たいよ"
+        }
+      ]
+    },
+    {
+      "slug": "貸借",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸借",
+          "reading": "たいしゃく"
+        }
+      ]
+    },
+    {
+      "slug": "貸し切り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸し切り",
+          "reading": "かしきり"
+        },
+        {
+          "word": "貸切り",
+          "reading": "かしきり"
+        },
+        {
+          "word": "貸切",
+          "reading": "かしきり"
+        }
+      ]
+    },
+    {
+      "slug": "貸し出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸し出す",
+          "reading": "かしだす"
+        },
+        {
+          "word": "貸出す",
+          "reading": "かしだす"
+        }
+      ]
+    },
+    {
+      "slug": "貸し借り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸し借り",
+          "reading": "かしかり"
+        }
+      ]
+    },
+    {
+      "slug": "貸し付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸し付ける",
+          "reading": "かしつける"
+        },
+        {
+          "word": "貸付ける",
+          "reading": "かしつける"
+        },
+        {
+          "word": "貸しつける",
+          "reading": "かしつける"
+        }
+      ]
+    },
+    {
+      "slug": "貸し手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸し手",
+          "reading": "かして"
+        },
+        {
+          "word": "貸手",
+          "reading": "かして"
+        }
+      ]
+    },
+    {
+      "slug": "貸金業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸金業",
+          "reading": "かしきんぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "貸して上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸して上げる",
+          "reading": "かしてあげる"
+        },
+        {
+          "word": "貸してあげる",
+          "reading": "かしてあげる"
+        }
+      ]
+    },
+    {
+      "slug": "貸金庫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸金庫",
+          "reading": "かしきんこ"
+        },
+        {
+          "word": "貸し金庫",
+          "reading": "かしきんこ"
+        }
+      ]
+    },
+    {
+      "slug": "貸付金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸付金",
+          "reading": "かしつけきん"
+        }
+      ]
+    },
+    {
+      "slug": "貸渋り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸し渋り",
+          "reading": "かししぶり"
+        }
+      ]
+    },
+    {
+      "slug": "貸本",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貸本",
+          "reading": "かしほん"
+        },
+        {
+          "word": "貸し本",
+          "reading": "かしほん"
+        }
+      ]
+    }
   ]
 }

@@ -82,5 +82,184 @@
       "startStroke": 7,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "メアリーは年齢詐称をした。",
+      "furigana": "メアリーは[年齢|ねん|れい][詐称|さ|しょう]をした。",
+      "translation_zh_CN": "玛丽在年龄上撒了谎。"
+    },
+    {
+      "content": "最近、タチの悪い詐欺事件が多いわね。",
+      "furigana": "[最近|さい|きん]、タチの[悪|わる]い[詐欺|さ|ぎ][事件|じ|けん]が[多|おお]いわね。",
+      "translation_zh_CN": "最近，恶性的诈骗案可真多啊。"
+    },
+    {
+      "content": "われわれの社会には、高潔な人もいれば、詐欺師もいる。",
+      "furigana": "われわれの[社会|しゃ|かい]には、[高潔|こう|けつ]な[人|ひと]もいれば、[詐欺|さ|ぎ][師|し]もいる。",
+      "translation_zh_CN": "我們的社會良莠不齊。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "詐欺",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "詐欺",
+          "reading": "さぎ"
+        }
+      ]
+    },
+    {
+      "slug": "偽り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽り",
+          "reading": "いつわり"
+        },
+        {
+          "word": "詐り",
+          "reading": "いつわり"
+        }
+      ]
+    },
+    {
+      "slug": "詐欺師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐欺師",
+          "reading": "さぎし"
+        }
+      ]
+    },
+    {
+      "slug": "偽る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽る",
+          "reading": "いつわる"
+        },
+        {
+          "word": "詐る",
+          "reading": "いつわる"
+        }
+      ]
+    },
+    {
+      "slug": "詐取",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐取",
+          "reading": "さしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "詐称",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐称",
+          "reading": "さしょう"
+        }
+      ]
+    },
+    {
+      "slug": "詐欺罪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐欺罪",
+          "reading": "さぎざい"
+        }
+      ]
+    },
+    {
+      "slug": "詐術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐術",
+          "reading": "さじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "詐害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐害",
+          "reading": "さがい"
+        }
+      ]
+    },
+    {
+      "slug": "詐偽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐偽",
+          "reading": "さぎ"
+        }
+      ]
+    },
+    {
+      "slug": "詐略",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐略",
+          "reading": "さりゃく"
+        }
+      ]
+    },
+    {
+      "slug": "詐病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐病",
+          "reading": "さびょう"
+        }
+      ]
+    },
+    {
+      "slug": "詐欺グループ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐欺グループ",
+          "reading": "さぎグループ"
+        }
+      ]
+    },
+    {
+      "slug": "詐欺メール",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐欺メール",
+          "reading": "さぎメール"
+        }
+      ]
+    },
+    {
+      "slug": "詐欺アプリ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詐欺アプリ",
+          "reading": "さぎアプリ"
+        }
+      ]
+    }
   ]
 }

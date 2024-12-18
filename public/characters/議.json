@@ -139,5 +139,271 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "午後の会議、出る？",
+      "furigana": "[午後|ご|ご]の[会議|かい|ぎ]、[出|で]る？",
+      "translation_zh_CN": "下午的会议你去吗？"
+    },
+    {
+      "content": "彼は議長に選ばれた。",
+      "furigana": "[彼|かれ]は[議長|ぎ|ちょう]に[選|えら]ばれた。",
+      "translation_zh_CN": "他被选为总统。"
+    },
+    {
+      "content": "彼は会議に出席した。",
+      "furigana": "[彼|かれ]は[会議|かい|ぎ]に[出席|しゅっ|せき]した。",
+      "translation_zh_CN": "他出席了会议。"
+    },
+    {
+      "content": "会議は明日開かれる。",
+      "furigana": "[会議|かい|ぎ]は[明日|あした][開|ひら]かれる。",
+      "translation_zh_CN": "會議將於明天舉行。"
+    },
+    {
+      "content": "渋滞で会議に遅れた。",
+      "furigana": "[渋滞|じゅう|たい]で[会議|かい|ぎ]に[遅|おく]れた。",
+      "translation_zh_CN": "因为堵车， 我开会迟到了。"
+    },
+    {
+      "content": "会議は終了しました。",
+      "furigana": "[会議|かい|ぎ]は[終了|しゅう|りょう]しました。",
+      "translation_zh_CN": "会议结束了。"
+    },
+    {
+      "content": "何か異議がありますか？",
+      "furigana": "[何|なに]か[異議|い|ぎ]がありますか？",
+      "translation_zh_CN": "有什么不同意见吗？"
+    },
+    {
+      "content": "私が会議に行きます。",
+      "furigana": "[私|わたし]が[会議|かい|ぎ]に[行|い]きます。",
+      "translation_zh_CN": "我将要去参加会议。"
+    },
+    {
+      "content": "和平会議が来週始まる。",
+      "furigana": "[和平|わ|へい][会議|かい|ぎ]が[来週|らい|しゅう][始|はじ]まる。",
+      "translation_zh_CN": "和平會談將在下週開始。"
+    },
+    {
+      "content": "彼は議長に任命された。",
+      "furigana": "[彼|かれ]は[議長|ぎ|ちょう]に[任命|にん|めい]された。",
+      "translation_zh_CN": "他被任命為議長。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "議長",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "議長",
+          "reading": "ぎちょう"
+        }
+      ]
+    },
+    {
+      "slug": "議会",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "議会",
+          "reading": "ぎかい"
+        }
+      ]
+    },
+    {
+      "slug": "議員",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "議員",
+          "reading": "ぎいん"
+        }
+      ]
+    },
+    {
+      "slug": "議論",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "議論",
+          "reading": "ぎろん"
+        }
+      ]
+    },
+    {
+      "slug": "議案",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "議案",
+          "reading": "ぎあん"
+        }
+      ]
+    },
+    {
+      "slug": "議題",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "議題",
+          "reading": "ぎだい"
+        }
+      ]
+    },
+    {
+      "slug": "議決",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "議決",
+          "reading": "ぎけつ"
+        }
+      ]
+    },
+    {
+      "slug": "諮る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "諮る",
+          "reading": "はかる"
+        },
+        {
+          "word": "議る",
+          "reading": "はかる"
+        }
+      ]
+    },
+    {
+      "slug": "議事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議事",
+          "reading": "ぎじ"
+        }
+      ]
+    },
+    {
+      "slug": "議席",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議席",
+          "reading": "ぎせき"
+        }
+      ]
+    },
+    {
+      "slug": "議事録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議事録",
+          "reading": "ぎじろく"
+        }
+      ]
+    },
+    {
+      "slug": "議事妨害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議事妨害",
+          "reading": "ぎじぼうがい"
+        }
+      ]
+    },
+    {
+      "slug": "議事堂",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "議事堂",
+          "reading": "ぎじどう"
+        }
+      ]
+    },
+    {
+      "slug": "議院",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議院",
+          "reading": "ぎいん"
+        }
+      ]
+    },
+    {
+      "slug": "議院運営委員会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議院運営委員会",
+          "reading": "ぎいんうんえいいいんかい"
+        }
+      ]
+    },
+    {
+      "slug": "議定書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議定書",
+          "reading": "ぎていしょ"
+        }
+      ]
+    },
+    {
+      "slug": "議場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議場",
+          "reading": "ぎじょう"
+        }
+      ]
+    },
+    {
+      "slug": "議会主義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議会主義",
+          "reading": "ぎかいしゅぎ"
+        }
+      ]
+    },
+    {
+      "slug": "議会政治",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "議会政治",
+          "reading": "ぎかいせいじ"
+        }
+      ]
+    }
   ]
 }

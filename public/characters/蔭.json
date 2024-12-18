@@ -82,5 +82,86 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "陰口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陰口",
+          "reading": "かげぐち"
+        }
+      ]
+    },
+    {
+      "slug": "陰り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陰り",
+          "reading": "かげり"
+        },
+        {
+          "word": "翳り",
+          "reading": "かげり"
+        },
+        {
+          "word": "蔭り",
+          "reading": "かげり"
+        }
+      ]
+    },
+    {
+      "slug": "陰間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陰間",
+          "reading": "かげま"
+        },
+        {
+          "word": "蔭間",
+          "reading": "かげま"
+        }
+      ]
+    },
+    {
+      "slug": "陰乍ら",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陰ながら",
+          "reading": "かげながら"
+        },
+        {
+          "word": "蔭ながら",
+          "reading": "かげながら"
+        },
+        {
+          "word": "影ながら",
+          "reading": "かげながら"
+        }
+      ]
+    },
+    {
+      "slug": "陰る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陰る",
+          "reading": "かげる"
+        },
+        {
+          "word": "翳る",
+          "reading": "かげる"
+        },
+        {
+          "word": "蔭る",
+          "reading": "かげる"
+        }
+      ]
+    }
   ]
 }

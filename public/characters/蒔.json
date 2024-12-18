@@ -71,5 +71,86 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "蒔く",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "蒔く",
+          "reading": "まく"
+        },
+        {
+          "word": "播く",
+          "reading": "まく"
+        }
+      ]
+    },
+    {
+      "slug": "蒔絵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔絵",
+          "reading": "まきえ"
+        },
+        {
+          "word": "まき絵",
+          "reading": "まきえ"
+        }
+      ]
+    },
+    {
+      "slug": "蒔き付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔き付ける",
+          "reading": "まきつける"
+        },
+        {
+          "word": "蒔きつける",
+          "reading": "まきつける"
+        }
+      ]
+    },
+    {
+      "slug": "蒔き灰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔き灰",
+          "reading": "まきばい"
+        }
+      ]
+    },
+    {
+      "slug": "蒔き付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔き付け",
+          "reading": "まきつけ"
+        }
+      ]
+    },
+    {
+      "slug": "蒔かぬ種は生えぬ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒔かぬ種は生えぬ",
+          "reading": "まかぬたねははえぬ"
+        },
+        {
+          "word": "まかぬ種は生えぬ",
+          "reading": "まかぬたねははえぬ"
+        }
+      ]
+    }
   ]
 }

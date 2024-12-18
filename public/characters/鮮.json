@@ -101,5 +101,260 @@
       "startStroke": 11,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "巧言令色、鮮なし仁。",
+      "furigana": "[巧言令色|こう|げん|れい|しょく]、鮮なし[仁|じん]。",
+      "translation_zh_CN": "语言委婉、生动、激情。"
+    },
+    {
+      "content": "巧言令色、鮮なし仁。",
+      "furigana": "[巧言令色|こう|げん|れい|しょく]、[鮮|]なし[仁|じん]。",
+      "translation_zh_CN": "巧言令色，鮮矣仁。"
+    },
+    {
+      "content": "新鮮な魚が食べたいな。",
+      "furigana": "[新鮮|しん|せん]な[魚|さかな]が[食|た]べたいな。",
+      "translation_zh_CN": "我想吃點新鮮的魚。"
+    },
+    {
+      "content": "私は朝鮮語を勉強します。",
+      "furigana": "[私|わたし]は[朝鮮|ちょう|せん][語|ご]を[勉強|べん|きょう]します。",
+      "translation_zh_CN": "我学韩语。"
+    },
+    {
+      "content": "こちらのレモンは新鮮ですよ。",
+      "furigana": "こちらのレモンは[新鮮|しん|せん]ですよ。",
+      "translation_zh_CN": "这些柠檬很新鲜"
+    },
+    {
+      "content": "布は鮮やかな赤色に染められた。",
+      "furigana": "[布|ぬの]は[鮮|あざ]やかな[赤色|あか|いろ]に[染|そ]められた。",
+      "translation_zh_CN": "布被染成鲜红。"
+    },
+    {
+      "content": "新鮮な果物や野菜は健康によい。",
+      "furigana": "[新鮮|しん|せん]な[果物|くだ|もの]や[野菜|や|さい]は[健康|けん|こう]によい。",
+      "translation_zh_CN": "新鮮水果和蔬菜有益健康。"
+    },
+    {
+      "content": "新鮮な野菜や果物は健康にいい。",
+      "furigana": "[新鮮|しん|せん]な[野菜|や|さい]や[果物|くだ|もの]は[健康|けん|こう]にいい。",
+      "translation_zh_CN": "新鮮水果和蔬菜有益健康。"
+    },
+    {
+      "content": "スーパーで新鮮な魚が買えたよ。",
+      "furigana": "スーパーで[新鮮|しん|せん]な[魚|さかな]が[買|か]えたよ。",
+      "translation_zh_CN": "我在超市买到了新鲜的鱼。"
+    },
+    {
+      "content": "朝鮮半島を訪れたことがありますか。",
+      "furigana": "[朝鮮半島|ちょう|せん|はん|とう]を[訪|おとず]れたことがありますか。",
+      "translation_zh_CN": "你去过朝鲜半岛吗？"
+    },
+    {
+      "content": "新鮮なイチゴを持っているんですか。",
+      "furigana": "[新鮮|しん|せん]なイチゴを[持|も]っているんですか。",
+      "translation_zh_CN": "您有新鮮草莓嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鮮やか",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鮮やか",
+          "reading": "あざやか"
+        }
+      ]
+    },
+    {
+      "slug": "鮮明",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮明",
+          "reading": "せんめい"
+        }
+      ]
+    },
+    {
+      "slug": "鮮烈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮烈",
+          "reading": "せんれつ"
+        }
+      ]
+    },
+    {
+      "slug": "鮮度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮度",
+          "reading": "せんど"
+        }
+      ]
+    },
+    {
+      "slug": "鮮血",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮血",
+          "reading": "せんけつ"
+        }
+      ]
+    },
+    {
+      "slug": "鮮魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮魚",
+          "reading": "せんぎょ"
+        }
+      ]
+    },
+    {
+      "slug": "鮮卑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮卑",
+          "reading": "せんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "鮮新世",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮新世",
+          "reading": "せんしんせい"
+        }
+      ]
+    },
+    {
+      "slug": "鮮度保持剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮度保持剤",
+          "reading": "せんどほじざい"
+        }
+      ]
+    },
+    {
+      "slug": "鮮肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮肉",
+          "reading": "せんにく"
+        }
+      ]
+    },
+    {
+      "slug": "鮮緑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮緑",
+          "reading": "せんりょく"
+        }
+      ]
+    },
+    {
+      "slug": "鮮鋭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮鋭",
+          "reading": "せんえい"
+        }
+      ]
+    },
+    {
+      "slug": "鮮血淋漓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮血淋漓",
+          "reading": "せんけつりんり"
+        }
+      ]
+    },
+    {
+      "slug": "鮮少",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮少",
+          "reading": "せんしょう"
+        },
+        {
+          "word": "尠少",
+          "reading": "せんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "鮮人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮人",
+          "reading": "せんじん"
+        }
+      ]
+    },
+    {
+      "slug": "鮮鋭度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮鋭度",
+          "reading": "せんえいど"
+        }
+      ]
+    },
+    {
+      "slug": "鮮紅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮紅",
+          "reading": "せんこう"
+        }
+      ]
+    },
+    {
+      "slug": "鮮度保持",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮度保持",
+          "reading": "せんどほじ"
+        }
+      ]
+    },
+    {
+      "slug": "鮮紅色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮮紅色",
+          "reading": "せんこうしょく"
+        }
+      ]
+    }
   ]
 }

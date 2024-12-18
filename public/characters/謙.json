@@ -100,5 +100,157 @@
       "startStroke": 14,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "高倉謙は新しい仕事になれてなかった。",
+      "furigana": "[高倉謙|たか|くら|けん]は[新|あたら]しい[仕事|し|ごと]になれてなかった。",
+      "translation_zh_CN": "高仓健不习惯他的新工作。"
+    },
+    {
+      "content": "褒められても謙虚さが大事。",
+      "furigana": "[褒|ほ]められても[謙虚|けん|きょ]さが[大事|だい|じ]。",
+      "translation_zh_CN": "即使在受到表扬的时候，谦虚也是很重要的。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "謙虚",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "謙虚",
+          "reading": "けんきょ"
+        }
+      ]
+    },
+    {
+      "slug": "謙遜",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "謙遜",
+          "reading": "けんそん"
+        }
+      ]
+    },
+    {
+      "slug": "謙る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "謙る",
+          "reading": "へりくだる"
+        },
+        {
+          "word": "遜る",
+          "reading": "へりくだる"
+        }
+      ]
+    },
+    {
+      "slug": "謙譲語Ｉ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙譲語Ｉ",
+          "reading": "けんじょうごいち"
+        },
+        {
+          "word": "謙譲語１",
+          "reading": "けんじょうごいち"
+        }
+      ]
+    },
+    {
+      "slug": "謙譲語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙譲語",
+          "reading": "けんじょうご"
+        }
+      ]
+    },
+    {
+      "slug": "謙称",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙称",
+          "reading": "けんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "謙譲語ＩＩ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙譲語ＩＩ",
+          "reading": "けんじょうごに"
+        },
+        {
+          "word": "謙譲語２",
+          "reading": "けんじょうごに"
+        }
+      ]
+    },
+    {
+      "slug": "謙辞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙辞",
+          "reading": "けんじ"
+        }
+      ]
+    },
+    {
+      "slug": "謙譲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙譲",
+          "reading": "けんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "謙遜語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙遜語",
+          "reading": "けんそんご"
+        }
+      ]
+    },
+    {
+      "slug": "謙抑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙抑",
+          "reading": "けんよく"
+        }
+      ]
+    },
+    {
+      "slug": "謙譲の美徳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謙譲の美徳",
+          "reading": "けんじょうのびとく"
+        }
+      ]
+    }
   ]
 }

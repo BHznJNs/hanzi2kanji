@@ -80,5 +80,189 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼女は高須クリニックに行きました。",
+      "furigana": "[彼女|かの|じょ]は[高須|たか|す]クリニックに[行|い]きました。",
+      "translation_zh_CN": "她去了高須診所。"
+    },
+    {
+      "content": "この用紙に必須事項を記入してください。",
+      "furigana": "この[用紙|よう|し]に[必須|ひっ|す][事項|じ|こう]を[記入|き|にゅう]してください。",
+      "translation_zh_CN": "请填写这份表格。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "暫く",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "暫く",
+          "reading": "しばらく"
+        },
+        {
+          "word": "暫らく",
+          "reading": "しばらく"
+        },
+        {
+          "word": "姑く",
+          "reading": "しばらく"
+        },
+        {
+          "word": "須臾",
+          "reading": "しばらく"
+        }
+      ]
+    },
+    {
+      "slug": "須らく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須らく",
+          "reading": "すべからく"
+        },
+        {
+          "word": "須く",
+          "reading": "すべからく"
+        }
+      ]
+    },
+    {
+      "slug": "須恵器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須恵器",
+          "reading": "すえき"
+        },
+        {
+          "word": "陶器",
+          "reading": "すえき"
+        }
+      ]
+    },
+    {
+      "slug": "須弥山",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須弥山",
+          "reading": "しゅみせん"
+        },
+        {
+          "word": "須弥山",
+          "reading": "すみせん"
+        }
+      ]
+    },
+    {
+      "slug": "須佐之男命",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須佐之男命",
+          "reading": "すさのおのみこと"
+        },
+        {
+          "word": "素戔嗚尊",
+          "reading": "すさのおのみこと"
+        },
+        {
+          "reading": "スサノオノミコト"
+        },
+        {
+          "reading": "スサノヲノミコト"
+        }
+      ]
+    },
+    {
+      "slug": "須弥壇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須弥壇",
+          "reading": "しゅみだん"
+        }
+      ]
+    },
+    {
+      "slug": "須髯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須髯",
+          "reading": "しゅぜん"
+        }
+      ]
+    },
+    {
+      "slug": "須要",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須要",
+          "reading": "しゅよう"
+        }
+      ]
+    },
+    {
+      "slug": "須臾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須臾",
+          "reading": "しゅゆ"
+        },
+        {
+          "word": "須臾",
+          "reading": "すゆ"
+        }
+      ]
+    },
+    {
+      "slug": "須義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須義",
+          "reading": "すぎ"
+        },
+        {
+          "reading": "スギ"
+        }
+      ]
+    },
+    {
+      "slug": "須磨琴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須磨琴",
+          "reading": "すまごと"
+        }
+      ]
+    },
+    {
+      "slug": "スサノオ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "須佐之男",
+          "reading": "すさのお"
+        },
+        {
+          "reading": "スサノオ"
+        },
+        {
+          "reading": "スサノヲ"
+        }
+      ]
+    }
   ]
 }

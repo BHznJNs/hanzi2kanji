@@ -40,7 +40,7 @@
       "values": [
         "victoire",
         "gagner",
-        "l\u0027emporter",
+        "l'emporter",
         "surpasser"
       ]
     },
@@ -88,6 +88,336 @@
       "radical": "力",
       "startStroke": 10,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "勝てっこないさ。",
+      "furigana": "[勝|か]てっこないさ。",
+      "translation_zh_CN": "我赢不了。"
+    },
+    {
+      "content": "勝君はこの色が好きではない。",
+      "furigana": "[勝君|かつ|くん]はこの[色|いろ]が[好|す]きではない。",
+      "translation_zh_CN": "卡苏不喜欢这个颜色。"
+    },
+    {
+      "content": "勝はその仕事を１時間で終えることはできないでしょう。",
+      "furigana": "[勝|かち]はその[仕事|し|ごと]を１[時間|じ|かん]で[終|お]えることはできないでしょう。",
+      "translation_zh_CN": "胜一小时内完成不了这项工作。"
+    },
+    {
+      "content": "江本勝は氷の結晶に人類へのメッセージが読みとれると思っています。",
+      "furigana": "[江本勝|え|もと|まさる]は[氷|こおり]の[結晶|けっ|しょう]に[人類|じん|るい]へのメッセージが[読|よ]みとれると[思|おも]っています。",
+      "translation_zh_CN": "江本胜相信，可以从冰晶中读取人类的信息。"
+    },
+    {
+      "content": "早い者勝ちですよ。",
+      "furigana": "[早|はや]い[者|もの][勝|が]ちですよ。",
+      "translation_zh_CN": "先到先得。"
+    },
+    {
+      "content": "ビルが勝つだろうね？",
+      "furigana": "ビルが[勝|か]つだろうね？",
+      "translation_zh_CN": "Bill会赢的，不是吗 ?"
+    },
+    {
+      "content": "彼らはきっと勝つよ。",
+      "furigana": "[彼|かれ]らはきっと[勝|か]つよ。",
+      "translation_zh_CN": "我確定他們會贏。"
+    },
+    {
+      "content": "勝手に何でも使って。",
+      "furigana": "[勝手|かっ|て]に[何|なん]でも[使|つか]って。",
+      "translation_zh_CN": "就当在家一样。"
+    },
+    {
+      "content": "ビルは勝つでしょうね？",
+      "furigana": "ビルは[勝|か]つでしょうね？",
+      "translation_zh_CN": "比爾肯定會贏的。"
+    },
+    {
+      "content": "来た、見た、勝った。",
+      "furigana": "[来|き]た、[見|み]た、[勝|か]った。",
+      "translation_zh_CN": "我来，我见，我征服。"
+    },
+    {
+      "content": "私たちは戦いに勝った。",
+      "furigana": "[私|わたし]たちは[戦|たたか]いに[勝|か]った。",
+      "translation_zh_CN": "我们战争胜利了。"
+    },
+    {
+      "content": "彼は試合に勝ちそうだ。",
+      "furigana": "[彼|かれ]は[試合|し|あい]に[勝|か]ちそうだ。",
+      "translation_zh_CN": "他有可能赢得比赛。"
+    },
+    {
+      "content": "彼は困難に打ち勝った。",
+      "furigana": "[彼|かれ]は[困難|こん|なん]に[打|う]ち[勝|か]った。",
+      "translation_zh_CN": "他战胜了困难。"
+    },
+    {
+      "content": "私は彼と優勝を争った。",
+      "furigana": "[私|わたし]は[彼|かれ]と[優勝|ゆう|しょう]を[争|あらそ]った。",
+      "translation_zh_CN": "我和他競爭冠軍。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "勝利",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勝利",
+          "reading": "しょうり"
+        },
+        {
+          "word": "捷利",
+          "reading": "しょうり"
+        }
+      ]
+    },
+    {
+      "slug": "勝つ",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "勝つ",
+          "reading": "かつ"
+        },
+        {
+          "word": "克つ",
+          "reading": "かつ"
+        },
+        {
+          "word": "贏つ",
+          "reading": "かつ"
+        }
+      ]
+    },
+    {
+      "slug": "勝ち",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "勝ち",
+          "reading": "かち"
+        }
+      ]
+    },
+    {
+      "slug": "勝負",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "勝負",
+          "reading": "しょうぶ"
+        }
+      ]
+    },
+    {
+      "slug": "優れる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "優れる",
+          "reading": "すぐれる"
+        },
+        {
+          "word": "勝れる",
+          "reading": "すぐれる"
+        }
+      ]
+    },
+    {
+      "slug": "勝敗",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "勝敗",
+          "reading": "しょうはい"
+        }
+      ]
+    },
+    {
+      "slug": "勝る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勝る",
+          "reading": "まさる"
+        },
+        {
+          "word": "優る",
+          "reading": "まさる"
+        }
+      ]
+    },
+    {
+      "slug": "勝手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝手",
+          "reading": "かって"
+        }
+      ]
+    },
+    {
+      "slug": "勝者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝者",
+          "reading": "しょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "勝ち負け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝ち負け",
+          "reading": "かちまけ"
+        }
+      ]
+    },
+    {
+      "slug": "勝手気まま",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝手気まま",
+          "reading": "かってきまま"
+        },
+        {
+          "word": "勝手気儘",
+          "reading": "かってきまま"
+        }
+      ]
+    },
+    {
+      "slug": "勝ち取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝ち取る",
+          "reading": "かちとる"
+        },
+        {
+          "word": "勝ちとる",
+          "reading": "かちとる"
+        }
+      ]
+    },
+    {
+      "slug": "勝ち得る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝ち得る",
+          "reading": "かちえる"
+        },
+        {
+          "word": "勝得る",
+          "reading": "かちえる"
+        },
+        {
+          "word": "贏ち得る",
+          "reading": "かちえる"
+        }
+      ]
+    },
+    {
+      "slug": "勝ち目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝ち目",
+          "reading": "かちめ"
+        }
+      ]
+    },
+    {
+      "slug": "勝算",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝算",
+          "reading": "しょうさん"
+        }
+      ]
+    },
+    {
+      "slug": "勝ち進む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝ち進む",
+          "reading": "かちすすむ"
+        },
+        {
+          "word": "勝進む",
+          "reading": "かちすすむ"
+        }
+      ]
+    },
+    {
+      "slug": "勝手口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝手口",
+          "reading": "かってぐち"
+        }
+      ]
+    },
+    {
+      "slug": "かつお節",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰹節",
+          "reading": "かつおぶし"
+        },
+        {
+          "word": "かつお節",
+          "reading": "かつおぶし"
+        },
+        {
+          "word": "勝男武士",
+          "reading": "かつおぶし"
+        },
+        {
+          "word": "鰹節",
+          "reading": "かつぶし"
+        }
+      ]
+    },
+    {
+      "slug": "勝手に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勝手に",
+          "reading": "かってに"
+        }
+      ]
     }
   ]
 }

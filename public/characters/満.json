@@ -98,5 +98,330 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "満タンでお願いします。",
+      "furigana": "[満|まん]タンでお[願|ねが]いします。",
+      "translation_zh_CN": "请填写。"
+    },
+    {
+      "content": "満タンにしてください。",
+      "furigana": "[満|まん]タンにしてください。",
+      "translation_zh_CN": "请填写。"
+    },
+    {
+      "content": "レギュラー満タンでお願いします。",
+      "furigana": "レギュラー[満|まん]タンでお[願|ねが]いします。",
+      "translation_zh_CN": "我想要一个普通的满水箱。"
+    },
+    {
+      "content": "無鉛レギュラーを満タンにしてください。",
+      "furigana": "[無鉛|む|えん]レギュラーを[満|まん]タンにしてください。",
+      "translation_zh_CN": "用普通无铅汽油填充。"
+    },
+    {
+      "content": "角のガソリンスタンドで満タンにしたんだ。",
+      "furigana": "[角|かど]のガソリンスタンドで[満|まん]タンにしたんだ。",
+      "translation_zh_CN": "我在拐角处的加油站加满了油。"
+    },
+    {
+      "content": "次の給油所で満タンにする必要がある。",
+      "furigana": "[次|つぎ]の[給油所|きゅう|ゆ|しょ]で[満|まん]タンにする[必要|ひつ|よう]がある。",
+      "translation_zh_CN": "我需要在下一个加油站加油。"
+    },
+    {
+      "content": "ガソリンを満タンにして、ついでにオイルも見てくれませんか？",
+      "furigana": "ガソリンを[満|まん]タンにして、ついでにオイルも[見|み]てくれませんか？",
+      "translation_zh_CN": "你能在加油时给油箱加满油并检查一下油吗？"
+    },
+    {
+      "content": "これで満足ですか？",
+      "furigana": "これで[満足|まん|ぞく]ですか？",
+      "translation_zh_CN": "你现在高兴吗？"
+    },
+    {
+      "content": "少年は満腹だった。",
+      "furigana": "[少年|しょう|ねん]は[満腹|まん|ぷく]だった。",
+      "translation_zh_CN": "男孩吃饱了。"
+    },
+    {
+      "content": "バスは満員だった。",
+      "furigana": "バスは[満員|まん|いん]だった。",
+      "translation_zh_CN": "這輛公車客滿了。"
+    },
+    {
+      "content": "昨夜は満月だった。",
+      "furigana": "[昨夜|さく|や]は[満月|まん|げつ]だった。",
+      "translation_zh_CN": "昨晚是满月。"
+    },
+    {
+      "content": "花瓶を水で満たした。",
+      "furigana": "[花瓶|か|びん]を[水|みず]で[満|み]たした。",
+      "translation_zh_CN": "我倒水進去花瓶裡。"
+    },
+    {
+      "content": "彼女は不満な様子だ。",
+      "furigana": "[彼女|かの|じょ]は[不満|ふ|まん]な[様子|よう|す]だ。",
+      "translation_zh_CN": "她看起来不幸福。"
+    },
+    {
+      "content": "満タンにしてください。",
+      "furigana": "[満|まん]タンにしてください。",
+      "translation_zh_CN": "把它填滿。"
+    },
+    {
+      "content": "今夜は満月が見られる。",
+      "furigana": "[今夜|こん|や]は[満月|まん|げつ]が[見|み]られる。",
+      "translation_zh_CN": "今晚能看到满月。"
+    },
+    {
+      "content": "この本は下ネタ満載だ。",
+      "furigana": "この[本|ほん]は[下|しも]ネタ[満載|まん|さい]だ。",
+      "translation_zh_CN": "这本书满眼都是荤段子。"
+    },
+    {
+      "content": "彼は結果に満足している。",
+      "furigana": "[彼|かれ]は[結果|けっ|か]に[満足|まん|ぞく]している。",
+      "translation_zh_CN": "他对结果很满意。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "満月",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "満月",
+          "reading": "まんげつ"
+        }
+      ]
+    },
+    {
+      "slug": "満足",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "満足",
+          "reading": "まんぞく"
+        },
+        {
+          "word": "滿足",
+          "reading": "まんぞく"
+        }
+      ]
+    },
+    {
+      "slug": "満ちる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "満ちる",
+          "reading": "みちる"
+        },
+        {
+          "word": "充ちる",
+          "reading": "みちる"
+        },
+        {
+          "word": "盈ちる",
+          "reading": "みちる"
+        }
+      ]
+    },
+    {
+      "slug": "満点",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "満点",
+          "reading": "まんてん"
+        }
+      ]
+    },
+    {
+      "slug": "満員",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "満員",
+          "reading": "まんいん"
+        }
+      ]
+    },
+    {
+      "slug": "満たす",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "満たす",
+          "reading": "みたす"
+        },
+        {
+          "word": "充たす",
+          "reading": "みたす"
+        }
+      ]
+    },
+    {
+      "slug": "満場",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "満場",
+          "reading": "まんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "満塁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満塁",
+          "reading": "まんるい"
+        }
+      ]
+    },
+    {
+      "slug": "満開",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満開",
+          "reading": "まんかい"
+        }
+      ]
+    },
+    {
+      "slug": "満席",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満席",
+          "reading": "まんせき"
+        }
+      ]
+    },
+    {
+      "slug": "満々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満々",
+          "reading": "まんまん"
+        },
+        {
+          "word": "満満",
+          "reading": "まんまん"
+        }
+      ]
+    },
+    {
+      "slug": "満喫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満喫",
+          "reading": "まんきつ"
+        }
+      ]
+    },
+    {
+      "slug": "満面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満面",
+          "reading": "まんめん"
+        }
+      ]
+    },
+    {
+      "slug": "満場一致",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満場一致",
+          "reading": "まんじょういっち"
+        }
+      ]
+    },
+    {
+      "slug": "満更",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満更",
+          "reading": "まんざら"
+        },
+        {
+          "word": "万更",
+          "reading": "まんざら"
+        }
+      ]
+    },
+    {
+      "slug": "満足感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満足感",
+          "reading": "まんぞくかん"
+        }
+      ]
+    },
+    {
+      "slug": "満腹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満腹",
+          "reading": "まんぷく"
+        }
+      ]
+    },
+    {
+      "slug": "満身",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満身",
+          "reading": "まんしん"
+        }
+      ]
+    },
+    {
+      "slug": "満潮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "満潮",
+          "reading": "まんちょう"
+        },
+        {
+          "word": "満潮",
+          "reading": "みちしお"
+        },
+        {
+          "word": "満ち潮",
+          "reading": "みちしお"
+        }
+      ]
+    }
   ]
 }

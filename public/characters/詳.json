@@ -81,5 +81,287 @@
       "startStroke": 7,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は詳しく説明した。",
+      "furigana": "[彼|かれ]は[詳|くわ]しく[説明|せつ|めい]した。",
+      "translation_zh_CN": "他为我做了详细说明。"
+    },
+    {
+      "content": "船のことは詳しいよ。",
+      "furigana": "[船|ふね]のことは[詳|くわ]しいよ。",
+      "translation_zh_CN": "我知道很多關於船的知識。"
+    },
+    {
+      "content": "来週詳しく説明します。",
+      "furigana": "[来週|らい|しゅう][詳|くわ]しく[説明|せつ|めい]します。",
+      "translation_zh_CN": "我下周会详细说明的。"
+    },
+    {
+      "content": "詳らかに教えてください。",
+      "furigana": "[詳|つまび]らかに[教|おし]えてください。",
+      "translation_zh_CN": "请详细地解释。"
+    },
+    {
+      "content": "彼は日本の文化に詳しい。",
+      "furigana": "[彼|かれ]は[日本|にっ|ぽん]の[文化|ぶん|か]に[詳|くわ]しい。",
+      "translation_zh_CN": "他熟悉日本文化。"
+    },
+    {
+      "content": "彼は海外の事情に詳しい。",
+      "furigana": "[彼|かれ]は[海外|かい|がい]の[事情|じ|じょう]に[詳|くわ]しい。",
+      "translation_zh_CN": "他知道很多外國事務。"
+    },
+    {
+      "content": "詳しく説明してください。",
+      "furigana": "[詳|くわ]しく[説明|せつ|めい]してください。",
+      "translation_zh_CN": "请详细地解释。"
+    },
+    {
+      "content": "もっと詳しい情報が欲しい。",
+      "furigana": "もっと[詳|くわ]しい[情報|じょう|ほう]が[欲|ほ]しい。",
+      "translation_zh_CN": "我要更多詳細的訊息。"
+    },
+    {
+      "content": "私は詳しくその理由を説明した。",
+      "furigana": "[私|わたし]は[詳|くわ]しくその[理由|り|ゆう]を[説明|せつ|めい]した。",
+      "translation_zh_CN": "我詳細地解釋了原因。"
+    },
+    {
+      "content": "私たちはその件を詳細に検討した。",
+      "furigana": "[私|わたし]たちはその[件|けん]を[詳細|しょう|さい]に[検討|けん|とう]した。",
+      "translation_zh_CN": "我们详细地讨论了这个问题。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "詳しい",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "詳しい",
+          "reading": "くわしい"
+        },
+        {
+          "word": "精しい",
+          "reading": "くわしい"
+        },
+        {
+          "word": "委しい",
+          "reading": "くわしい"
+        }
+      ]
+    },
+    {
+      "slug": "詳細",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "詳細",
+          "reading": "しょうさい"
+        }
+      ]
+    },
+    {
+      "slug": "詳しく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳しく",
+          "reading": "くわしく"
+        }
+      ]
+    },
+    {
+      "slug": "詳らか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳らか",
+          "reading": "つまびらか"
+        },
+        {
+          "word": "詳らか",
+          "reading": "つばひらか"
+        },
+        {
+          "word": "審らか",
+          "reading": "つまびらか"
+        },
+        {
+          "word": "審らか",
+          "reading": "つばひらか"
+        }
+      ]
+    },
+    {
+      "slug": "詳報",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳報",
+          "reading": "しょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "詳述",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳述",
+          "reading": "しょうじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "詳しくは",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳しくは",
+          "reading": "くわしくは"
+        }
+      ]
+    },
+    {
+      "slug": "詳伝社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳伝社",
+          "reading": "しょうでんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "詳細地図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳細地図",
+          "reading": "しょうさいちず"
+        }
+      ]
+    },
+    {
+      "slug": "詳密",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳密",
+          "reading": "しょうみつ"
+        }
+      ]
+    },
+    {
+      "slug": "詳細設定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳細設定",
+          "reading": "しょうさいせってい"
+        }
+      ]
+    },
+    {
+      "slug": "詳細設計",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳細設計",
+          "reading": "しょうさいせっけい"
+        }
+      ]
+    },
+    {
+      "slug": "詳らかでない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳らかでない",
+          "reading": "つまびらかでない"
+        }
+      ]
+    },
+    {
+      "slug": "詳査",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳査",
+          "reading": "しょうさ"
+        }
+      ]
+    },
+    {
+      "slug": "詳細情報",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳細情報",
+          "reading": "しょうさいじょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "詳注",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳注",
+          "reading": "しょうちゅう"
+        },
+        {
+          "word": "詳註",
+          "reading": "しょうちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "詳解",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳解",
+          "reading": "しょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "詳細説明",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳細説明",
+          "reading": "しょうさいせつめい"
+        }
+      ]
+    },
+    {
+      "slug": "詳察",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳察",
+          "reading": "しょうさつ"
+        }
+      ]
+    },
+    {
+      "slug": "詳伝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳伝",
+          "reading": "しょうでん"
+        }
+      ]
+    }
   ]
 }

@@ -70,5 +70,280 @@
       "startStroke": 2,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "低血圧なんです。",
+      "furigana": "[低|てい][血圧|けつ|あつ]なんです。",
+      "translation_zh_CN": "我的血压很低。"
+    },
+    {
+      "content": "トムは低血圧だ。",
+      "furigana": "トムは[低|てい][血圧|けつ|あつ]だ。",
+      "translation_zh_CN": "汤姆有低血压。"
+    },
+    {
+      "content": "トムは高血圧だ。",
+      "furigana": "トムは[高血圧|こう|けつ|あつ]だ。",
+      "translation_zh_CN": "汤姆有高血压。"
+    },
+    {
+      "content": "血圧が低いんだ。",
+      "furigana": "[血圧|けつ|あつ]が[低|ひく]いんだ。",
+      "translation_zh_CN": "我的血压很低。"
+    },
+    {
+      "content": "トムは血圧が低い。",
+      "furigana": "トムは[血圧|けつ|あつ]が[低|ひく]い。",
+      "translation_zh_CN": "汤姆有低血压。"
+    },
+    {
+      "content": "トムは血圧が高い。",
+      "furigana": "トムは[血圧|けつ|あつ]が[高|たか]い。",
+      "translation_zh_CN": "汤姆有高血压。"
+    },
+    {
+      "content": "血圧を測りますね。",
+      "furigana": "[血圧|けつ|あつ]を[測|はか]りますね。",
+      "translation_zh_CN": "讓我量量你的血壓。"
+    },
+    {
+      "content": "血圧が低いですね。",
+      "furigana": "[血圧|けつ|あつ]が[低|ひく]いですね。",
+      "translation_zh_CN": "您的血壓很低。"
+    },
+    {
+      "content": "私は血圧が低いです。",
+      "furigana": "[私|わたし]は[血圧|けつ|あつ]が[低|ひく]いです。",
+      "translation_zh_CN": "我的血压很低。"
+    },
+    {
+      "content": "血圧を計りましょう。",
+      "furigana": "[血圧|けつ|あつ]を[計|はか]りましょう。",
+      "translation_zh_CN": "讓我量量你的血壓。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "押す",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "押す",
+          "reading": "おす"
+        }
+      ]
+    },
+    {
+      "slug": "圧縮",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "圧縮",
+          "reading": "あっしゅく"
+        }
+      ]
+    },
+    {
+      "slug": "圧力",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "圧力",
+          "reading": "あつりょく"
+        }
+      ]
+    },
+    {
+      "slug": "押さえる",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "押さえる",
+          "reading": "おさえる"
+        },
+        {
+          "word": "押える",
+          "reading": "おさえる"
+        }
+      ]
+    },
+    {
+      "slug": "圧迫",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "圧迫",
+          "reading": "あっぱく"
+        }
+      ]
+    },
+    {
+      "slug": "押し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "押し",
+          "reading": "おし"
+        },
+        {
+          "word": "圧し",
+          "reading": "おし"
+        }
+      ]
+    },
+    {
+      "slug": "圧倒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧倒",
+          "reading": "あっとう"
+        }
+      ]
+    },
+    {
+      "slug": "圧倒的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧倒的",
+          "reading": "あっとうてき"
+        }
+      ]
+    },
+    {
+      "slug": "圧勝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧勝",
+          "reading": "あっしょう"
+        }
+      ]
+    },
+    {
+      "slug": "圧政",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧政",
+          "reading": "あっせい"
+        }
+      ]
+    },
+    {
+      "slug": "押しつぶす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "押しつぶす",
+          "reading": "おしつぶす"
+        },
+        {
+          "word": "押し潰す",
+          "reading": "おしつぶす"
+        },
+        {
+          "word": "圧し潰す",
+          "reading": "おしつぶす"
+        }
+      ]
+    },
+    {
+      "slug": "圧倒的多数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧倒的多数",
+          "reading": "あっとうてきたすう"
+        }
+      ]
+    },
+    {
+      "slug": "圧制",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧制",
+          "reading": "あっせい"
+        }
+      ]
+    },
+    {
+      "slug": "圧迫感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧迫感",
+          "reading": "あっぱくかん"
+        }
+      ]
+    },
+    {
+      "slug": "圧制的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧制的",
+          "reading": "あっせいてき"
+        }
+      ]
+    },
+    {
+      "slug": "圧縮空気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧縮空気",
+          "reading": "あっしゅくくうき"
+        }
+      ]
+    },
+    {
+      "slug": "圧延",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧延",
+          "reading": "あつえん"
+        }
+      ]
+    },
+    {
+      "slug": "圧巻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧巻",
+          "reading": "あっかん"
+        },
+        {
+          "word": "圧観",
+          "reading": "あっかん"
+        }
+      ]
+    },
+    {
+      "slug": "圧力団体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "圧力団体",
+          "reading": "あつりょくだんたい"
+        }
+      ]
+    }
   ]
 }

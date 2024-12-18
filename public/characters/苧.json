@@ -64,5 +64,71 @@
       "startStroke": 7,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "麻幹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麻幹",
+          "reading": "おがら"
+        },
+        {
+          "word": "苧殻",
+          "reading": "おがら"
+        }
+      ]
+    },
+    {
+      "slug": "苧環",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "苧環",
+          "reading": "おだまき"
+        },
+        {
+          "word": "小田巻",
+          "reading": "おだまき"
+        },
+        {
+          "reading": "オダマキ"
+        }
+      ]
+    },
+    {
+      "slug": "おだまき蒸し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "おだまき蒸し",
+          "reading": "おだまきむし"
+        },
+        {
+          "word": "小田巻蒸し",
+          "reading": "おだまきむし"
+        },
+        {
+          "word": "苧環蒸し",
+          "reading": "おだまきむし"
+        }
+      ]
+    },
+    {
+      "slug": "麻実",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麻実",
+          "reading": "おのみ"
+        },
+        {
+          "word": "苧実",
+          "reading": "おのみ"
+        }
+      ]
+    }
   ]
 }

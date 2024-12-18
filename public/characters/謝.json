@@ -86,5 +86,273 @@
       "startStroke": 14,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "俺に感謝しろよ。",
+      "furigana": "[俺|おれ]に[感謝|かん|しゃ]しろよ。",
+      "translation_zh_CN": "你應該感謝我。"
+    },
+    {
+      "content": "私に感謝してね。",
+      "furigana": "[私|わたし]に[感謝|かん|しゃ]してね。",
+      "translation_zh_CN": "你應該感謝我。"
+    },
+    {
+      "content": "謝る必要はないよ。",
+      "furigana": "[謝|あやま]る[必要|ひつ|よう]はないよ。",
+      "translation_zh_CN": "沒有必要道歉。"
+    },
+    {
+      "content": "君は謝罪すべきだ。",
+      "furigana": "[君|きみ]は[謝罪|しゃ|ざい]すべきだ。",
+      "translation_zh_CN": "你應該道歉。"
+    },
+    {
+      "content": "ご協力に感謝します。",
+      "furigana": "ご[協力|きょう|りょく]に[感謝|かん|しゃ]します。",
+      "translation_zh_CN": "我感謝您的合作。"
+    },
+    {
+      "content": "とても感謝してるわ。",
+      "furigana": "とても[感謝|かん|しゃ]してるわ。",
+      "translation_zh_CN": "我非常感谢你。"
+    },
+    {
+      "content": "君は彼に感謝すべきだ。",
+      "furigana": "[君|きみ]は[彼|かれ]に[感謝|かん|しゃ]すべきだ。",
+      "translation_zh_CN": "你应该感谢他。"
+    },
+    {
+      "content": "とても感謝しています。",
+      "furigana": "とても[感謝|かん|しゃ]しています。",
+      "translation_zh_CN": "我真的很感激你所做的一切。"
+    },
+    {
+      "content": "今さら謝っても遅いよ。",
+      "furigana": "[今|いま]さら[謝|あやま]っても[遅|おそ]いよ。",
+      "translation_zh_CN": "现在道歉也迟了。"
+    },
+    {
+      "content": "ご親切を感謝しています。",
+      "furigana": "ご[親切|しん|せつ]を[感謝|かん|しゃ]しています。",
+      "translation_zh_CN": "谢谢您的好意。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "謝る",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "謝る",
+          "reading": "あやまる"
+        }
+      ]
+    },
+    {
+      "slug": "謝罪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝罪",
+          "reading": "しゃざい"
+        }
+      ]
+    },
+    {
+      "slug": "謝礼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝礼",
+          "reading": "しゃれい"
+        }
+      ]
+    },
+    {
+      "slug": "謝意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝意",
+          "reading": "しゃい"
+        }
+      ]
+    },
+    {
+      "slug": "謝辞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝辞",
+          "reading": "しゃじ"
+        }
+      ]
+    },
+    {
+      "slug": "謝恩会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝恩会",
+          "reading": "しゃおんかい"
+        }
+      ]
+    },
+    {
+      "slug": "謝絶",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "謝絶",
+          "reading": "しゃぜつ"
+        }
+      ]
+    },
+    {
+      "slug": "謝り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝り",
+          "reading": "あやまり"
+        }
+      ]
+    },
+    {
+      "slug": "謝肉祭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝肉祭",
+          "reading": "しゃにくさい"
+        }
+      ]
+    },
+    {
+      "slug": "謝罪会見",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝罪会見",
+          "reading": "しゃざいかいけん"
+        }
+      ]
+    },
+    {
+      "slug": "朱欒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朱欒",
+          "reading": "ザボン"
+        },
+        {
+          "word": "朱欒",
+          "reading": "ざぼん"
+        },
+        {
+          "word": "香欒",
+          "reading": "ザボン"
+        },
+        {
+          "word": "香欒",
+          "reading": "ざぼん"
+        },
+        {
+          "word": "謝文",
+          "reading": "ザボン"
+        },
+        {
+          "word": "謝文",
+          "reading": "ざぼん"
+        }
+      ]
+    },
+    {
+      "slug": "謝罪文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝罪文",
+          "reading": "しゃざいぶん"
+        }
+      ]
+    },
+    {
+      "slug": "謝礼金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝礼金",
+          "reading": "しゃれいきん"
+        }
+      ]
+    },
+    {
+      "slug": "謝状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝状",
+          "reading": "しゃじょう"
+        }
+      ]
+    },
+    {
+      "slug": "謝罪広告",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝罪広告",
+          "reading": "しゃざいこうこく"
+        }
+      ]
+    },
+    {
+      "slug": "謝す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝す",
+          "reading": "しゃす"
+        }
+      ]
+    },
+    {
+      "slug": "謝恩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝恩",
+          "reading": "しゃおん"
+        }
+      ]
+    },
+    {
+      "slug": "謝する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝する",
+          "reading": "しゃする"
+        }
+      ]
+    },
+    {
+      "slug": "謝恩使",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謝恩使",
+          "reading": "しゃおんし"
+        }
+      ]
+    }
   ]
 }

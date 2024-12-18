@@ -82,5 +82,350 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "愛って何？",
+      "furigana": "[愛|あい]って[何|なに]？",
+      "translation_zh_CN": "什么是爱？"
+    },
+    {
+      "content": "愛は許さない。",
+      "furigana": "[愛|あい]は[許|ゆる]さない。",
+      "translation_zh_CN": "爱情是不允许的。"
+    },
+    {
+      "content": "愛は狂気。",
+      "furigana": "[愛|あい]は[狂気|きょう|き]。",
+      "translation_zh_CN": "爱是疯狂"
+    },
+    {
+      "content": "愛と平和です。",
+      "furigana": "[愛|あい]と[平和|へい|わ]です。",
+      "translation_zh_CN": "这是爱与和平。"
+    },
+    {
+      "content": "愛は存在しない。",
+      "furigana": "[愛|あい]は[存在|そん|ざい]しない。",
+      "translation_zh_CN": "爱不存在。"
+    },
+    {
+      "content": "愛を信じますか？",
+      "furigana": "[愛|あい]を[信|しん]じますか？",
+      "translation_zh_CN": "你相信爱情吗？"
+    },
+    {
+      "content": "愛は愛を愛してる。",
+      "furigana": "[愛|あい]は[愛|あい]を[愛|あい]してる。",
+      "translation_zh_CN": "爱爱爱"
+    },
+    {
+      "content": "愛は愛を愛する。",
+      "furigana": "[愛|あい]は[愛|あい]を[愛|あい]する。",
+      "translation_zh_CN": "爱爱爱。"
+    },
+    {
+      "content": "決して愛を諦めないで。",
+      "furigana": "[決|けっ]して[愛|あい]を[諦|あきら]めないで。",
+      "translation_zh_CN": "永远不要放弃爱情。"
+    },
+    {
+      "content": "そして愛が好き。",
+      "furigana": "そして[愛|あい]が[好|す]き。",
+      "translation_zh_CN": "而且我喜欢爱情。"
+    },
+    {
+      "content": "細く長く愛して。",
+      "furigana": "[細|ほそ]く[長|なが]く[愛|あい]して。",
+      "translation_zh_CN": "淡淡地愛我，長久地愛我。"
+    },
+    {
+      "content": "愛は愛を愛する。",
+      "furigana": "[愛|あい]は[愛|あい]を[愛|あい]する。",
+      "translation_zh_CN": "愛喜歡愛。"
+    },
+    {
+      "content": "愛は存在しない。",
+      "furigana": "[愛|あい]は[存在|そん|ざい]しない。",
+      "translation_zh_CN": "愛不存在。"
+    },
+    {
+      "content": "可愛くなりたい。",
+      "furigana": "[可愛|か|わい]くなりたい。",
+      "translation_zh_CN": "想变得可爱一些。"
+    },
+    {
+      "content": "私のこと愛してる？",
+      "furigana": "[私|わたし]のこと[愛|あい]してる？",
+      "translation_zh_CN": "你愛我嗎？"
+    },
+    {
+      "content": "愛のために死ねる？",
+      "furigana": "[愛|あい]のために[死|し]ねる？",
+      "translation_zh_CN": "您能为爱情而死吗？"
+    },
+    {
+      "content": "彼女を愛してる。",
+      "furigana": "[彼女|かの|じょ]を[愛|あい]してる。",
+      "translation_zh_CN": "我愛她。"
+    },
+    {
+      "content": "ごめん、愛してる。",
+      "furigana": "ごめん、[愛|あい]してる。",
+      "translation_zh_CN": "对不起，我爱你。"
+    },
+    {
+      "content": "愛は愛が好きです。",
+      "furigana": "[愛|あい]は[愛|あい]が[好|す]きです。",
+      "translation_zh_CN": "愛喜歡愛。"
+    },
+    {
+      "content": "愛は愛を愛してる。",
+      "furigana": "[愛|あい]は[愛|あい]を[愛|あい]してる。",
+      "translation_zh_CN": "愛喜歡愛。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "美しい",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "美しい",
+          "reading": "うつくしい"
+        },
+        {
+          "word": "愛しい",
+          "reading": "うつくしい"
+        }
+      ]
+    },
+    {
+      "slug": "悲しい",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "悲しい",
+          "reading": "かなしい"
+        },
+        {
+          "word": "哀しい",
+          "reading": "かなしい"
+        },
+        {
+          "word": "愛しい",
+          "reading": "かなしい"
+        }
+      ]
+    },
+    {
+      "slug": "愛する",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "愛する",
+          "reading": "あいする"
+        }
+      ]
+    },
+    {
+      "slug": "愛情",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "愛情",
+          "reading": "あいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "目出度い",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "目出度い",
+          "reading": "めでたい"
+        },
+        {
+          "word": "愛でたい",
+          "reading": "めでたい"
+        },
+        {
+          "word": "芽出度い",
+          "reading": "めでたい"
+        }
+      ]
+    },
+    {
+      "slug": "愛想",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "愛想",
+          "reading": "あいそ"
+        },
+        {
+          "word": "愛想",
+          "reading": "あいそう"
+        }
+      ]
+    },
+    {
+      "slug": "惜しむ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "惜しむ",
+          "reading": "おしむ"
+        }
+      ]
+    },
+    {
+      "slug": "愛憎",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "愛憎",
+          "reading": "あいぞう"
+        }
+      ]
+    },
+    {
+      "slug": "悲しみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悲しみ",
+          "reading": "かなしみ"
+        },
+        {
+          "word": "哀しみ",
+          "reading": "かなしみ"
+        },
+        {
+          "word": "愛しみ",
+          "reading": "かなしみ"
+        }
+      ]
+    },
+    {
+      "slug": "愛称",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛称",
+          "reading": "あいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "愛国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛国",
+          "reading": "あいこく"
+        }
+      ]
+    },
+    {
+      "slug": "愛着",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛着",
+          "reading": "あいちゃく"
+        }
+      ]
+    },
+    {
+      "slug": "愛読",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛読",
+          "reading": "あいどく"
+        }
+      ]
+    },
+    {
+      "slug": "愛人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛人",
+          "reading": "あいじん"
+        }
+      ]
+    },
+    {
+      "slug": "愛好",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛好",
+          "reading": "あいこう"
+        }
+      ]
+    },
+    {
+      "slug": "愛用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛用",
+          "reading": "あいよう"
+        }
+      ]
+    },
+    {
+      "slug": "愛犬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛犬",
+          "reading": "あいけん"
+        }
+      ]
+    },
+    {
+      "slug": "愛嬌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "愛嬌",
+          "reading": "あいきょう"
+        },
+        {
+          "word": "愛嬌",
+          "reading": "あいぎょう"
+        },
+        {
+          "word": "愛敬",
+          "reading": "あいきょう"
+        },
+        {
+          "word": "愛敬",
+          "reading": "あいぎょう"
+        }
+      ]
+    }
   ]
 }

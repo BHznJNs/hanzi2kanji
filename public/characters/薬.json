@@ -97,5 +97,313 @@
       "startStroke": 12,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "薬が効いた。",
+      "furigana": "[薬|くすり]が[効|き]いた。",
+      "translation_zh_CN": "药起作用了。"
+    },
+    {
+      "content": "薬は苦い。",
+      "furigana": "[薬|くすり]は[苦|にが]い。",
+      "translation_zh_CN": "药是苦的。"
+    },
+    {
+      "content": "薬を飲みなさい。",
+      "furigana": "[薬|くすり]を[飲|の]みなさい。",
+      "translation_zh_CN": "吃药吧。"
+    },
+    {
+      "content": "薬飲んだっけ？",
+      "furigana": "[薬飲|くすり|の]んだっけ？",
+      "translation_zh_CN": "你吃药了吗？"
+    },
+    {
+      "content": "薬を飲んで。",
+      "furigana": "[薬|くすり]を[飲|の]んで。",
+      "translation_zh_CN": "吃药。"
+    },
+    {
+      "content": "薬飲んでるの？",
+      "furigana": "[薬飲|くすり|の]んでるの？",
+      "translation_zh_CN": "你在吃药吗？"
+    },
+    {
+      "content": "お薬飲んだ？",
+      "furigana": "お[薬飲|くすり|の]んだ？",
+      "translation_zh_CN": "你吃药了吗？"
+    },
+    {
+      "content": "薬は全く効かなかった。",
+      "furigana": "[薬|くすり]は[全|まった]く[効|き]かなかった。",
+      "translation_zh_CN": "药根本没有作用。"
+    },
+    {
+      "content": "薬アレルギーがあります。",
+      "furigana": "[薬|くすり]アレルギーがあります。",
+      "translation_zh_CN": "我有药物过敏。"
+    },
+    {
+      "content": "薬は飲んだの？",
+      "furigana": "[薬|くすり]は[飲|の]んだの？",
+      "translation_zh_CN": "有吃什么药吗？"
+    },
+    {
+      "content": "目薬をください。",
+      "furigana": "[目薬|め|ぐすり]をください。",
+      "translation_zh_CN": "我想要眼药水。"
+    },
+    {
+      "content": "薬はもう飲んだの？",
+      "furigana": "[薬|くすり]はもう[飲|の]んだの？",
+      "translation_zh_CN": "您已经吃过药了吗？"
+    },
+    {
+      "content": "もう薬を飲みましたか？",
+      "furigana": "もう[薬|くすり]を[飲|の]みましたか？",
+      "translation_zh_CN": "您已经吃过药了吗？"
+    },
+    {
+      "content": "薬、飲み忘れるなよ。",
+      "furigana": "[薬|くすり]、[飲|の]み[忘|わす]れるなよ。",
+      "translation_zh_CN": "別忘了吃藥。"
+    },
+    {
+      "content": "母は私に薬を飲ませた。",
+      "furigana": "[母|はは]は[私|わたし]に[薬|くすり]を[飲|の]ませた。",
+      "translation_zh_CN": "我媽媽讓我吃點藥。"
+    },
+    {
+      "content": "薬効の程は定かでない。",
+      "furigana": "[薬効|やっ|こう]の[程|ほど]は[定|さだ]かでない。",
+      "translation_zh_CN": "药物的作用还不确定。"
+    },
+    {
+      "content": "馬鹿につける薬はない。",
+      "furigana": "[馬鹿|ば|か]につける[薬|くすり]はない。",
+      "translation_zh_CN": "这个笨蛋没救儿了。"
+    },
+    {
+      "content": "薬缶のお湯が沸いている。",
+      "furigana": "[薬缶|や|かん]のお[湯|ゆ]が[沸|わ]いている。",
+      "translation_zh_CN": "茶壺沸了。"
+    },
+    {
+      "content": "風邪に効く薬はありますか。",
+      "furigana": "[風邪|かぜ]に[効|き]く[薬|くすり]はありますか。",
+      "translation_zh_CN": "你有任何治感冒的東西嗎?"
+    },
+    {
+      "content": "何か薬を常用していますか。",
+      "furigana": "[何|なに]か[薬|くすり]を[常用|じょう|よう]していますか。",
+      "translation_zh_CN": "你經常服用任何藥物嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "薬局",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "薬局",
+          "reading": "やっきょく"
+        }
+      ]
+    },
+    {
+      "slug": "薬指",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "薬指",
+          "reading": "くすりゆび"
+        }
+      ]
+    },
+    {
+      "slug": "薬品",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "薬品",
+          "reading": "やくひん"
+        }
+      ]
+    },
+    {
+      "slug": "薬缶",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "薬缶",
+          "reading": "やかん"
+        },
+        {
+          "word": "薬罐",
+          "reading": "やかん"
+        },
+        {
+          "word": "薬鑵",
+          "reading": "やかん"
+        }
+      ]
+    },
+    {
+      "slug": "薬剤師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬剤師",
+          "reading": "やくざいし"
+        }
+      ]
+    },
+    {
+      "slug": "薬物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬物",
+          "reading": "やくぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "薬学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬学",
+          "reading": "やくがく"
+        }
+      ]
+    },
+    {
+      "slug": "薬屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬屋",
+          "reading": "くすりや"
+        }
+      ]
+    },
+    {
+      "slug": "薬箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬箱",
+          "reading": "くすりばこ"
+        },
+        {
+          "word": "くすり箱",
+          "reading": "くすりばこ"
+        }
+      ]
+    },
+    {
+      "slug": "薬理学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬理学",
+          "reading": "やくりがく"
+        }
+      ]
+    },
+    {
+      "slug": "薬価",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬価",
+          "reading": "やっか"
+        },
+        {
+          "word": "薬価",
+          "reading": "やくか"
+        }
+      ]
+    },
+    {
+      "slug": "薬害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬害",
+          "reading": "やくがい"
+        }
+      ]
+    },
+    {
+      "slug": "薬剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬剤",
+          "reading": "やくざい"
+        }
+      ]
+    },
+    {
+      "slug": "薬味",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬味",
+          "reading": "やくみ"
+        }
+      ]
+    },
+    {
+      "slug": "薬効",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬効",
+          "reading": "やっこう"
+        }
+      ]
+    },
+    {
+      "slug": "薬用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬用",
+          "reading": "やくよう"
+        }
+      ]
+    },
+    {
+      "slug": "薬理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬理",
+          "reading": "やくり"
+        }
+      ]
+    },
+    {
+      "slug": "薬師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薬師",
+          "reading": "やくし"
+        }
+      ]
+    }
   ]
 }

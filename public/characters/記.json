@@ -72,5 +72,302 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムは体験記を書きました。",
+      "furigana": "トムは[体験記|たい|けん|き]を[書|か]きました。",
+      "translation_zh_CN": "汤姆写下了他的经历。"
+    },
+    {
+      "content": "大統領は自分の回想記を書き留めました。",
+      "furigana": "[大統領|だい|とう|りょう]は[自分|じ|ぶん]の[回想記|かい|そう|き]を[書|か]き[留|と]めました。",
+      "translation_zh_CN": "总统写下了他的回忆录。"
+    },
+    {
+      "content": "その回想記は父に対する深い尊敬に満ち溢れている。",
+      "furigana": "その[回想記|かい|そう|き]は[父|ちち]に[対|たい]する[深|ふか]い[尊敬|そん|けい]に[満|み]ち[溢|あふ]れている。",
+      "translation_zh_CN": "他的回忆录中充满了对父亲深深的敬意。"
+    },
+    {
+      "content": "記憶にまだ新しい。",
+      "furigana": "[記憶|き|おく]にまだ[新|あたら]しい。",
+      "translation_zh_CN": "我仍然記憶猶新。"
+    },
+    {
+      "content": "君すごい記憶力だね。",
+      "furigana": "[君|きみ]すごい[記憶|き|おく][力|りょく]だね。",
+      "translation_zh_CN": "你記性很好。"
+    },
+    {
+      "content": "記事を一つ書きたい。",
+      "furigana": "[記事|き|じ]を[一|ひと]つ[書|か]きたい。",
+      "translation_zh_CN": "我想写篇文章。"
+    },
+    {
+      "content": "トムは記憶力がいい。",
+      "furigana": "トムは[記憶|き|おく][力|りょく]がいい。",
+      "translation_zh_CN": "湯姆記憶力好。"
+    },
+    {
+      "content": "上記をご覧ください。",
+      "furigana": "[上記|じょう|き]をご[覧|らん]ください。",
+      "translation_zh_CN": "参见上文。"
+    },
+    {
+      "content": "彼は世界記録を破った。",
+      "furigana": "[彼|かれ]は[世界|せ|かい][記録|き|ろく]を[破|やぶ]った。",
+      "translation_zh_CN": "他破了世界纪录。"
+    },
+    {
+      "content": "日記をつけていますか。",
+      "furigana": "[日記|にっ|き]をつけていますか。",
+      "translation_zh_CN": "你记日记吗？"
+    },
+    {
+      "content": "君は簿記ができますか。",
+      "furigana": "[君|きみ]は[簿記|ぼ|き]ができますか。",
+      "translation_zh_CN": "你會記帳嗎?"
+    },
+    {
+      "content": "彼はタイム誌の記者です。",
+      "furigana": "[彼|かれ]はタイム[誌|し]の[記者|き|しゃ]です。",
+      "translation_zh_CN": "他是时代杂志的记者。"
+    },
+    {
+      "content": "＆という記号は、ａｎｄを指す。",
+      "furigana": "[＆|あんど]という[記号|き|ごう]は、[ａｎｄ|]を[指|さ]す。",
+      "translation_zh_CN": "「&」這個符號是「和」的意思。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "記録",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "記録",
+          "reading": "きろく"
+        }
+      ]
+    },
+    {
+      "slug": "記憶",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "記憶",
+          "reading": "きおく"
+        }
+      ]
+    },
+    {
+      "slug": "記事",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "記事",
+          "reading": "きじ"
+        }
+      ]
+    },
+    {
+      "slug": "記号",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "記号",
+          "reading": "きごう"
+        }
+      ]
+    },
+    {
+      "slug": "記入",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "記入",
+          "reading": "きにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "記者",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "記者",
+          "reading": "きしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "記念",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "記念",
+          "reading": "きねん"
+        },
+        {
+          "word": "紀念",
+          "reading": "きねん"
+        }
+      ]
+    },
+    {
+      "slug": "記述",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "記述",
+          "reading": "きじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "記載",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "記載",
+          "reading": "きさい"
+        }
+      ]
+    },
+    {
+      "slug": "記す",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "記す",
+          "reading": "しるす"
+        },
+        {
+          "word": "誌す",
+          "reading": "しるす"
+        },
+        {
+          "word": "識す",
+          "reading": "しるす"
+        },
+        {
+          "word": "記す",
+          "reading": "きす"
+        }
+      ]
+    },
+    {
+      "slug": "記名",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "記名",
+          "reading": "きめい"
+        }
+      ]
+    },
+    {
+      "slug": "記念日",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記念日",
+          "reading": "きねんび"
+        }
+      ]
+    },
+    {
+      "slug": "記者会見",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記者会見",
+          "reading": "きしゃかいけん"
+        }
+      ]
+    },
+    {
+      "slug": "記念碑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記念碑",
+          "reading": "きねんひ"
+        }
+      ]
+    },
+    {
+      "slug": "記録的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記録的",
+          "reading": "きろくてき"
+        }
+      ]
+    },
+    {
+      "slug": "記憶障害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記憶障害",
+          "reading": "きおくしょうがい"
+        }
+      ]
+    },
+    {
+      "slug": "記憶力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記憶力",
+          "reading": "きおくりょく"
+        }
+      ]
+    },
+    {
+      "slug": "記者団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記者団",
+          "reading": "きしゃだん"
+        }
+      ]
+    },
+    {
+      "slug": "記憶喪失",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "記憶喪失",
+          "reading": "きおくそうしつ"
+        }
+      ]
+    }
   ]
 }

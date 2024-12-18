@@ -60,5 +60,275 @@
       "startStroke": 8,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "金は銀より重い。",
+      "furigana": "[金|きん]は[銀|ぎん]より[重|おも]い。",
+      "translation_zh_CN": "黄金比白银重。"
+    },
+    {
+      "content": "弁舌は銀、沈黙は金。",
+      "furigana": "[弁舌|べん|ぜつ]は[銀|ぎん]、[沈黙|ちん|もく]は[金|きん]。",
+      "translation_zh_CN": "雄辩是银，沉默是金。"
+    },
+    {
+      "content": "銅も銀も金属である。",
+      "furigana": "[銅|どう]も[銀|ぎん]も[金属|きん|ぞく]である。",
+      "translation_zh_CN": "铜和银都是​​金属。"
+    },
+    {
+      "content": "これは本物の銀ですか？",
+      "furigana": "これは[本物|ほん|もの]の[銀|ぎん]ですか？",
+      "translation_zh_CN": "这是真银吗？"
+    },
+    {
+      "content": "雄弁は銀、沈黙は金。",
+      "furigana": "[雄弁|ゆう|べん]は[銀|ぎん]、[沈黙|ちん|もく]は[金|きん]。",
+      "translation_zh_CN": "雄辩是银，沉默是金。"
+    },
+    {
+      "content": "世界中の銀のティースプーンのコレクションがある。",
+      "furigana": "[世界中|せ|かい|じゅう]の[銀|ぎん]のティースプーンのコレクションがある。",
+      "translation_zh_CN": "我收集了来自世界各地的银茶匙。"
+    },
+    {
+      "content": "金は銀より価値があります。",
+      "furigana": "[金|きん]は[銀|ぎん]より[価値|か|ち]があります。",
+      "translation_zh_CN": "黄金比白银更有价值。"
+    },
+    {
+      "content": "私は銀のティースプーンを集めています。",
+      "furigana": "[私|わたし]は[銀|ぎん]のティースプーンを[集|あつ]めています。",
+      "translation_zh_CN": "我收集银茶匙。"
+    },
+    {
+      "content": "鉱山を所有している人から銀を買っています。",
+      "furigana": "[鉱山|こう|ざん]を[所有|しょ|ゆう]している[人|ひと]から[銀|ぎん]を[買|か]っています。",
+      "translation_zh_CN": "我们从拥有矿山的人那里购买白银。"
+    },
+    {
+      "content": "ニッケルは硬い銀白色の金属です。",
+      "furigana": "ニッケルは[硬|かた]い[銀白色|ぎん|はく|しょく]の[金属|きん|ぞく]です。",
+      "translation_zh_CN": "镍是一种坚硬的银白色金属。"
+    },
+    {
+      "content": "金は銀より重い。",
+      "furigana": "[金|きん]は[銀|ぎん]より[重|おも]い。",
+      "translation_zh_CN": "金比銀重。"
+    },
+    {
+      "content": "私は銀行員です。",
+      "furigana": "[私|わたし]は[銀行員|ぎん|こう|いん]です。",
+      "translation_zh_CN": "我是一名銀行職員。"
+    },
+    {
+      "content": "銀行に行かねば。",
+      "furigana": "[銀行|ぎん|こう]に[行|い]かねば。",
+      "translation_zh_CN": "我必须到银行去。"
+    },
+    {
+      "content": "銀行は９時に開く。",
+      "furigana": "[銀行|ぎん|こう]は[９|く][時|じ]に[開|ひら]く。",
+      "translation_zh_CN": "银行九点开门。"
+    },
+    {
+      "content": "雄弁は銀、沈黙は金。",
+      "furigana": "[雄弁|ゆう|べん]は[銀|ぎん]、[沈黙|ちん|もく]は[金|きん]。",
+      "translation_zh_CN": "开口是银，沉默是金。"
+    },
+    {
+      "content": "銀行に行って下さい。",
+      "furigana": "[銀行|ぎん|こう]に[行|い]って[下|くだ]さい。",
+      "translation_zh_CN": "請去銀行。"
+    },
+    {
+      "content": "銀行で働いています。",
+      "furigana": "[銀行|ぎん|こう]で[働|はたら]いています。",
+      "translation_zh_CN": "我為一家銀行工作。"
+    },
+    {
+      "content": "駅前に銀行があるよ。",
+      "furigana": "[駅前|えき|まえ]に[銀行|ぎん|こう]があるよ。",
+      "translation_zh_CN": "车站前有个银行。"
+    },
+    {
+      "content": "駅前には銀行がある。",
+      "furigana": "[駅前|えき|まえ]には[銀行|ぎん|こう]がある。",
+      "translation_zh_CN": "车站前有个银行。"
+    },
+    {
+      "content": "銀行に行ってくるよ。",
+      "furigana": "[銀行|ぎん|こう]に[行|い]ってくるよ。",
+      "translation_zh_CN": "我要去银行了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "銀行",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "銀行",
+          "reading": "ぎんこう"
+        }
+      ]
+    },
+    {
+      "slug": "銀座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀座",
+          "reading": "ぎんざ"
+        }
+      ]
+    },
+    {
+      "slug": "銀河",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀河",
+          "reading": "ぎんが"
+        }
+      ]
+    },
+    {
+      "slug": "銀色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀色",
+          "reading": "ぎんいろ"
+        }
+      ]
+    },
+    {
+      "slug": "銀河系",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀河系",
+          "reading": "ぎんがけい"
+        }
+      ]
+    },
+    {
+      "slug": "銀貨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀貨",
+          "reading": "ぎんか"
+        }
+      ]
+    },
+    {
+      "slug": "金持ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金持ち",
+          "reading": "かねもち"
+        },
+        {
+          "word": "金持",
+          "reading": "かねもち"
+        }
+      ]
+    },
+    {
+      "slug": "銀世界",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀世界",
+          "reading": "ぎんせかい"
+        }
+      ]
+    },
+    {
+      "slug": "銀行強盗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀行強盗",
+          "reading": "ぎんこうごうとう"
+        }
+      ]
+    },
+    {
+      "slug": "銀行員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀行員",
+          "reading": "ぎんこういん"
+        }
+      ]
+    },
+    {
+      "slug": "銀行家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀行家",
+          "reading": "ぎんこうか"
+        }
+      ]
+    },
+    {
+      "slug": "銀行口座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀行口座",
+          "reading": "ぎんこうこうざ"
+        }
+      ]
+    },
+    {
+      "slug": "銀行預金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀行預金",
+          "reading": "ぎんこうよきん"
+        }
+      ]
+    },
+    {
+      "slug": "銀行融資",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀行融資",
+          "reading": "ぎんこうゆうし"
+        }
+      ]
+    },
+    {
+      "slug": "銀髪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀髪",
+          "reading": "ぎんぱつ"
+        }
+      ]
+    },
+    {
+      "slug": "銀白色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銀白色",
+          "reading": "ぎんはくしょく"
+        }
+      ]
+    }
   ]
 }

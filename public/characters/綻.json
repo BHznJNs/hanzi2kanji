@@ -85,5 +85,50 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "綻びる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "綻びる",
+          "reading": "ほころびる"
+        }
+      ]
+    },
+    {
+      "slug": "綻び",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綻び",
+          "reading": "ほころび"
+        }
+      ]
+    },
+    {
+      "slug": "綻ばす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綻ばす",
+          "reading": "ほころばす"
+        }
+      ]
+    },
+    {
+      "slug": "綻ぶ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綻ぶ",
+          "reading": "ほころぶ"
+        }
+      ]
+    }
   ]
 }

@@ -60,5 +60,166 @@
       "startStroke": 9,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "私生活を詮索しないでよ。",
+      "furigana": "[私生活|し|せい|かつ]を[詮索|せん|さく]しないでよ。",
+      "translation_zh_CN": "不要插手我的私生活。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "甲斐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "甲斐",
+          "reading": "かい"
+        },
+        {
+          "word": "詮",
+          "reading": "かい"
+        },
+        {
+          "word": "効",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "slug": "選考",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "選考",
+          "reading": "せんこう"
+        },
+        {
+          "word": "銓衡",
+          "reading": "せんこう"
+        }
+      ]
+    },
+    {
+      "slug": "詮索",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詮索",
+          "reading": "せんさく"
+        }
+      ]
+    },
+    {
+      "slug": "詮索好き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詮索好き",
+          "reading": "せんさくずき"
+        }
+      ]
+    },
+    {
+      "slug": "詮無い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詮無い",
+          "reading": "せんない"
+        },
+        {
+          "word": "詮ない",
+          "reading": "せんない"
+        }
+      ]
+    },
+    {
+      "slug": "為ん術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "為ん術",
+          "reading": "せんすべ"
+        },
+        {
+          "word": "詮術",
+          "reading": "せんすべ"
+        }
+      ]
+    },
+    {
+      "slug": "詮方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詮方",
+          "reading": "せんかた"
+        },
+        {
+          "word": "せん方",
+          "reading": "せんかた"
+        },
+        {
+          "word": "為ん方",
+          "reading": "せんかた"
+        }
+      ]
+    },
+    {
+      "slug": "詮議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詮議",
+          "reading": "せんぎ"
+        }
+      ]
+    },
+    {
+      "slug": "詮ずる所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詮ずるところ",
+          "reading": "せんずるところ"
+        },
+        {
+          "word": "詮ずる所",
+          "reading": "せんずるところ"
+        }
+      ]
+    },
+    {
+      "slug": "為ん方無い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詮方ない",
+          "reading": "せんかたない"
+        },
+        {
+          "word": "せん方ない",
+          "reading": "せんかたない"
+        },
+        {
+          "word": "為ん方ない",
+          "reading": "せんかたない"
+        }
+      ]
+    },
+    {
+      "slug": "詮議立て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詮議立て",
+          "reading": "せんぎだて"
+        }
+      ]
+    }
   ]
 }

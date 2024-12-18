@@ -76,5 +76,88 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "蕪汁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕪汁",
+          "reading": "かぶらじる"
+        },
+        {
+          "word": "蕪汁",
+          "reading": "かぶじる"
+        }
+      ]
+    },
+    {
+      "slug": "蕪雑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕪雑",
+          "reading": "ぶざつ"
+        }
+      ]
+    },
+    {
+      "slug": "蕪鮨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕪鮨",
+          "reading": "かぶらずし"
+        }
+      ]
+    },
+    {
+      "slug": "蕪辞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕪辞",
+          "reading": "ぶじ"
+        }
+      ]
+    },
+    {
+      "slug": "蕪菜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕪菜",
+          "reading": "かぶな"
+        },
+        {
+          "word": "蕪菜",
+          "reading": "かぶらな"
+        },
+        {
+          "word": "かぶ菜",
+          "reading": "かぶな"
+        },
+        {
+          "word": "かぶ菜",
+          "reading": "かぶらな"
+        }
+      ]
+    },
+    {
+      "slug": "蕪蒸し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蕪蒸し",
+          "reading": "かぶらむし"
+        },
+        {
+          "word": "蕪蒸",
+          "reading": "かぶらむし"
+        }
+      ]
+    }
   ]
 }

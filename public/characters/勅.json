@@ -77,5 +77,206 @@
       "startStroke": 7,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "勅撰和歌集",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅撰和歌集",
+          "reading": "ちょくせんわかしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "勅令",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅令",
+          "reading": "ちょくれい"
+        }
+      ]
+    },
+    {
+      "slug": "勅使",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅使",
+          "reading": "ちょくし"
+        }
+      ]
+    },
+    {
+      "slug": "勅旨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅旨",
+          "reading": "ちょくし"
+        }
+      ]
+    },
+    {
+      "slug": "勅書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅書",
+          "reading": "ちょくしょ"
+        }
+      ]
+    },
+    {
+      "slug": "勅問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅問",
+          "reading": "ちょくもん"
+        }
+      ]
+    },
+    {
+      "slug": "勅祭社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅祭社",
+          "reading": "ちょくさいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "勅諚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅諚",
+          "reading": "ちょくじょう"
+        },
+        {
+          "word": "勅定",
+          "reading": "ちょくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "勅筆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅筆",
+          "reading": "ちょくひつ"
+        }
+      ]
+    },
+    {
+      "slug": "勅宣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅宣",
+          "reading": "ちょくせん"
+        }
+      ]
+    },
+    {
+      "slug": "勅意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅意",
+          "reading": "ちょくい"
+        }
+      ]
+    },
+    {
+      "slug": "勅命",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅命",
+          "reading": "ちょくめい"
+        }
+      ]
+    },
+    {
+      "slug": "勅祭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅祭",
+          "reading": "ちょくさい"
+        }
+      ]
+    },
+    {
+      "slug": "勅任官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅任官",
+          "reading": "ちょくにんかん"
+        }
+      ]
+    },
+    {
+      "slug": "勅使門",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅使門",
+          "reading": "ちょくしもん"
+        }
+      ]
+    },
+    {
+      "slug": "勅撰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅撰",
+          "reading": "ちょくせん"
+        }
+      ]
+    },
+    {
+      "slug": "勅任",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅任",
+          "reading": "ちょくにん"
+        }
+      ]
+    },
+    {
+      "slug": "勅勘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅勘",
+          "reading": "ちょっかん"
+        }
+      ]
+    },
+    {
+      "slug": "勅撰集",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勅撰集",
+          "reading": "ちょくせんしゅう"
+        },
+        {
+          "word": "勅選集",
+          "reading": "ちょくせんしゅう"
+        }
+      ]
+    }
   ]
 }

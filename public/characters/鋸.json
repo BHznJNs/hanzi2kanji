@@ -71,5 +71,231 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "父はのこぎりで木を切った。",
+      "furigana": "[父|ちち]はのこぎりで[木|き]を[切|き]った。",
+      "translation_zh_CN": "父亲用锯子把树砍了。"
+    },
+    {
+      "content": "彼が木をのこぎりでひいているのを見た。",
+      "furigana": "[彼|かれ]が[木|き]をのこぎりでひいているのを[見|み]た。",
+      "translation_zh_CN": "我看见他锯木头。"
+    },
+    {
+      "content": "彼は暖炉用に丸太を鋸で切った。",
+      "furigana": "[彼|かれ]は[暖炉用|だん|ろ|よう]に[丸太|まる|た]を[鋸|のこぎり]で[切|き]った。",
+      "translation_zh_CN": "他锯了一根木头来做壁炉。"
+    },
+    {
+      "content": "彼女はその農夫から、のこぎりを借りた。",
+      "furigana": "[彼女|かの|じょ]はその[農夫|のう|ふ]から、のこぎりを[借|か]りた。",
+      "translation_zh_CN": "她向农夫借了一把锯子。"
+    },
+    {
+      "content": "彼は丸太をのこぎりでひいて板にしている。",
+      "furigana": "[彼|かれ]は[丸太|まる|た]をのこぎりでひいて[板|いた]にしている。",
+      "translation_zh_CN": "他将原木锯成木板。"
+    },
+    {
+      "content": "彼女はのこぎりを使うのがとてもうまい。",
+      "furigana": "[彼女|かの|じょ]はのこぎりを[使|つか]うのがとてもうまい。",
+      "translation_zh_CN": "她非常擅长使用锯子。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鋸鱏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸鱝",
+          "reading": "のこぎりえい"
+        },
+        {
+          "word": "鋸鱏",
+          "reading": "のこぎりえい"
+        },
+        {
+          "word": "鋸えい",
+          "reading": "のこぎりえい"
+        },
+        {
+          "word": "鋸エイ",
+          "reading": "のこぎりエイ"
+        },
+        {
+          "reading": "ノコギリエイ"
+        }
+      ]
+    },
+    {
+      "slug": "鋸鮫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸鮫",
+          "reading": "のこぎりざめ"
+        },
+        {
+          "reading": "ノコギリザメ"
+        }
+      ]
+    },
+    {
+      "slug": "鋸鍬形虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸鍬形",
+          "reading": "のこぎりくわがた"
+        },
+        {
+          "word": "鋸鍬形虫",
+          "reading": "のこぎりくわがた"
+        },
+        {
+          "reading": "ノコギリクワガタ"
+        }
+      ]
+    },
+    {
+      "slug": "鋸歯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸歯",
+          "reading": "きょし"
+        },
+        {
+          "word": "鋸歯",
+          "reading": "のこぎりば"
+        },
+        {
+          "word": "鋸歯",
+          "reading": "のこば"
+        }
+      ]
+    },
+    {
+      "slug": "鋸鎌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸鎌",
+          "reading": "のこぎりがま"
+        }
+      ]
+    },
+    {
+      "slug": "鋸引き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸引き",
+          "reading": "のこぎりびき"
+        },
+        {
+          "word": "鋸挽き",
+          "reading": "のこぎりびき"
+        }
+      ]
+    },
+    {
+      "slug": "鋸屋根",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸屋根",
+          "reading": "のこぎりやね"
+        }
+      ]
+    },
+    {
+      "slug": "鋸挽き台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸挽き台",
+          "reading": "のこひきだい"
+        }
+      ]
+    },
+    {
+      "slug": "鋸屑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸屑",
+          "reading": "のこくず"
+        },
+        {
+          "word": "鋸屑",
+          "reading": "のこぎりくず"
+        },
+        {
+          "word": "鋸屑",
+          "reading": "きょせつ"
+        }
+      ]
+    },
+    {
+      "slug": "鋸盤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸盤",
+          "reading": "のこぎりばん"
+        },
+        {
+          "word": "鋸盤",
+          "reading": "のこばん"
+        }
+      ]
+    },
+    {
+      "slug": "鋸がざみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸がざみ",
+          "reading": "のこぎりがざみ"
+        },
+        {
+          "word": "鋸蝤蛑",
+          "reading": "のこぎりがざみ"
+        },
+        {
+          "reading": "ノコギリガザミ"
+        }
+      ]
+    },
+    {
+      "slug": "鋸草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸草",
+          "reading": "のこぎりそう"
+        },
+        {
+          "reading": "ノコギリソウ"
+        }
+      ]
+    },
+    {
+      "slug": "鋸パルメット",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋸パルメット",
+          "reading": "のこぎりパルメット"
+        },
+        {
+          "reading": "ノコギリパルメット"
+        }
+      ]
+    }
   ]
 }

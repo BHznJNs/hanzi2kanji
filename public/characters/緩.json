@@ -103,5 +103,98 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "許さねぇ。",
+      "furigana": "[許|ゆる]さねぇ。",
+      "translation_zh_CN": "我不会原谅你的。"
+    },
+    {
+      "content": "お許しを。",
+      "furigana": "お[許|ゆる]しを。",
+      "translation_zh_CN": "请原谅我。"
+    },
+    {
+      "content": "緩い結び目をすべて点検してしっかりしめなさい。",
+      "furigana": "[緩|ゆる]い[結|むす]び[目|め]をすべて[点検|てん|けん]してしっかりしめなさい。",
+      "translation_zh_CN": "检查并拉紧所有松散的结。"
+    },
+    {
+      "content": "メグの靴は少し緩い。",
+      "furigana": "メグの[靴|くつ]は[少|すこ]し[緩|ゆる]い。",
+      "translation_zh_CN": "梅格的鞋子有点松。"
+    },
+    {
+      "content": "この靴は少し緩い。",
+      "furigana": "この[靴|くつ]は[少|すこ]し[緩|ゆる]い。",
+      "translation_zh_CN": "这鞋有点松。"
+    },
+    {
+      "content": "このボタンは緩い。",
+      "furigana": "このボタンは[緩|ゆる]い。",
+      "translation_zh_CN": "这个按钮松了。"
+    },
+    {
+      "content": "道は緩い下り坂になっている。",
+      "furigana": "[道|みち]は[緩|ゆる]い[下|くだ]り[坂|ざか]になっている。",
+      "translation_zh_CN": "路是平缓的下坡。"
+    },
+    {
+      "content": "このシャツは少し緩いです。",
+      "furigana": "このシャツは[少|すこ]し[緩|ゆる]いです。",
+      "translation_zh_CN": "这件衬衫有点宽松。"
+    },
+    {
+      "content": "ジョニーは帰宅の許しを得た。",
+      "furigana": "ジョニーは[帰宅|き|たく]の[許|ゆる]しを[得|え]た。",
+      "translation_zh_CN": "约翰尼被允许回家。"
+    },
+    {
+      "content": "ゆるい雰囲気の作品が好きです。",
+      "furigana": "ゆるい[雰囲気|ふん|い|き]の[作品|さく|ひん]が[好|す]きです。",
+      "translation_zh_CN": "我喜欢轻松氛围的作品。"
+    },
+    {
+      "content": "この靴は少し緩い。",
+      "furigana": "この[靴|くつ]は[少|すこ]し[緩|ゆる]い。",
+      "translation_zh_CN": "这双鞋子有些松。"
+    },
+    {
+      "content": "このボタンは緩い。",
+      "furigana": "このボタンは[緩|ゆる]い。",
+      "translation_zh_CN": "這個鈕扣鬆了"
+    },
+    {
+      "content": "道は緩い下り坂になっている。",
+      "furigana": "[道|みち]は[緩|ゆる]い[下|くだ]り[坂|ざか]になっている。",
+      "translation_zh_CN": "下坡道缓。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "温い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "温い",
+          "reading": "ぬるい"
+        }
+      ]
+    },
+    {
+      "slug": "緩い",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "緩い",
+          "reading": "ゆるい"
+        }
+      ]
+    }
   ]
 }

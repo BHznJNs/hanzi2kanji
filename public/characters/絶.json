@@ -46,7 +46,7 @@
         "au-delà",
         "rompre",
         "couper",
-        "s\u0027abstenir",
+        "s'abstenir",
         "interrompre",
         "supprimer"
       ]
@@ -105,6 +105,296 @@
       "radical": "巴",
       "startStroke": 8,
       "strokes": 4
+    }
+  ],
+  "sentences": [
+    {
+      "content": "結婚は、睦まじければ理想郷、争い絶えねば生き地獄。",
+      "furigana": "[結婚|けっ|こん]は、[睦|むつ]まじければ[理想郷|り|そう|きょう]、[争|あらそ]い[絶|た]えねば[生|い]き[地獄|じ|ごく]。",
+      "translation_zh_CN": "和谐的婚姻就是乌托邦，没有冲突就是人间地狱。"
+    },
+    {
+      "content": "明日の午前９時から消化管内視鏡検査を行いますので、今夜９時以降は絶飲食してください。",
+      "furigana": "[明日|あした]の[午前９時|ご|ぜん|く|じ]から[消化管内視鏡検査|しょう|か|かん|ない|し|きょう|けん|さ]を[行|おこな]いますので、[今夜９時以降|こん|や|く|じ|い|こう]は[絶飲食|ぜつ|いん|しょく]してください。",
+      "translation_zh_CN": "明天上午9点我要做胃肠内窥镜检查，所以今晚9点之后请不要吃喝。"
+    },
+    {
+      "content": "喫煙は絶対禁止。",
+      "furigana": "[喫煙|きつ|えん]は[絶対|ぜっ|たい][禁止|きん|し]。",
+      "translation_zh_CN": "严禁吸烟。"
+    },
+    {
+      "content": "絶対楽しいでしょ！",
+      "furigana": "[絶対|ぜっ|たい][楽|たの]しいでしょ！",
+      "translation_zh_CN": "我确定它将会很有趣"
+    },
+    {
+      "content": "絶好の機会を逃した。",
+      "furigana": "[絶好|ぜっ|こう]の[機会|き|かい]を[逃|のが]した。",
+      "translation_zh_CN": "我錯過了我的機會。"
+    },
+    {
+      "content": "笑顔を絶やさないで。",
+      "furigana": "[笑顔|え|がお]を[絶|た]やさないで。",
+      "translation_zh_CN": "保持微笑。"
+    },
+    {
+      "content": "彼女は気絶寸前だった。",
+      "furigana": "[彼女|かの|じょ]は[気絶|き|ぜつ][寸前|すん|ぜん]だった。",
+      "translation_zh_CN": "她几乎喝晕了。"
+    },
+    {
+      "content": "恐竜は大昔に絶滅した。",
+      "furigana": "[恐竜|きょう|りゅう]は[大昔|おお|むかし]に[絶滅|ぜつ|めつ]した。",
+      "translation_zh_CN": "恐龍在很久以前滅絶了。"
+    },
+    {
+      "content": "絶対投げ出したらダメ。",
+      "furigana": "[絶対|ぜっ|たい][投|な]げ[出|だ]したらダメ。",
+      "translation_zh_CN": "决不放弃。"
+    },
+    {
+      "content": "絶対牛乳買ってきてよ。",
+      "furigana": "[絶対|ぜっ|たい][牛乳|ぎゅう|にゅう][買|か]ってきてよ。",
+      "translation_zh_CN": "務必要買一些牛奶。"
+    },
+    {
+      "content": "絶対にあきらめないで。",
+      "furigana": "[絶対|ぜっ|たい]にあきらめないで。",
+      "translation_zh_CN": "永远不要说永远。"
+    },
+    {
+      "content": "彼女は自らの命を絶った。",
+      "furigana": "[彼女|かの|じょ]は[自|みずか]らの[命|いのち]を[絶|た]った。",
+      "translation_zh_CN": "她結束了自己的生命。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "絶滅",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "絶滅",
+          "reading": "ぜつめつ"
+        }
+      ]
+    },
+    {
+      "slug": "絶対",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "絶対",
+          "reading": "ぜったい"
+        }
+      ]
+    },
+    {
+      "slug": "絶版",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "絶版",
+          "reading": "ぜっぱん"
+        }
+      ]
+    },
+    {
+      "slug": "絶えず",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "絶えず",
+          "reading": "たえず"
+        }
+      ]
+    },
+    {
+      "slug": "絶望",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "絶望",
+          "reading": "ぜつぼう"
+        }
+      ]
+    },
+    {
+      "slug": "絶える",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "絶える",
+          "reading": "たえる"
+        }
+      ]
+    },
+    {
+      "slug": "絶頂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶頂",
+          "reading": "ぜっちょう"
+        }
+      ]
+    },
+    {
+      "slug": "絶好",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶好",
+          "reading": "ぜっこう"
+        }
+      ]
+    },
+    {
+      "slug": "絶対的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶対的",
+          "reading": "ぜったいてき"
+        }
+      ]
+    },
+    {
+      "slug": "絶大",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶大",
+          "reading": "ぜつだい"
+        }
+      ]
+    },
+    {
+      "slug": "絶縁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶縁",
+          "reading": "ぜつえん"
+        }
+      ]
+    },
+    {
+      "slug": "絶交",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶交",
+          "reading": "ぜっこう"
+        }
+      ]
+    },
+    {
+      "slug": "絶え間なく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶え間なく",
+          "reading": "たえまなく"
+        },
+        {
+          "word": "絶え間無く",
+          "reading": "たえまなく"
+        },
+        {
+          "word": "絶間なく",
+          "reading": "たえまなく"
+        },
+        {
+          "word": "絶間無く",
+          "reading": "たえまなく"
+        }
+      ]
+    },
+    {
+      "slug": "絶好調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶好調",
+          "reading": "ぜっこうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "断ち切る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "断ち切る",
+          "reading": "たちきる"
+        },
+        {
+          "word": "裁ち切る",
+          "reading": "たちきる"
+        },
+        {
+          "word": "截ち切る",
+          "reading": "たちきる"
+        }
+      ]
+    },
+    {
+      "slug": "絶え間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶え間",
+          "reading": "たえま"
+        },
+        {
+          "word": "絶えま",
+          "reading": "たえま"
+        }
+      ]
+    },
+    {
+      "slug": "絶叫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶叫",
+          "reading": "ぜっきょう"
+        }
+      ]
+    },
+    {
+      "slug": "絶品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶品",
+          "reading": "ぜっぴん"
+        }
+      ]
+    },
+    {
+      "slug": "絶やす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絶やす",
+          "reading": "たやす"
+        }
+      ]
     }
   ]
 }

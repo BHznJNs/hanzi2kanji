@@ -76,5 +76,298 @@
       "startStroke": 4,
       "strokes": 8
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "膨らむ",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "膨らむ",
+          "reading": "ふくらむ"
+        },
+        {
+          "word": "脹らむ",
+          "reading": "ふくらむ"
+        }
+      ]
+    },
+    {
+      "slug": "膨れる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "膨れる",
+          "reading": "ふくれる"
+        },
+        {
+          "word": "脹れる",
+          "reading": "ふくれる"
+        }
+      ]
+    },
+    {
+      "slug": "腫れる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "腫れる",
+          "reading": "はれる"
+        },
+        {
+          "word": "脹れる",
+          "reading": "はれる"
+        }
+      ]
+    },
+    {
+      "slug": "腫れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫れ",
+          "reading": "はれ"
+        },
+        {
+          "word": "脹れ",
+          "reading": "はれ"
+        }
+      ]
+    },
+    {
+      "slug": "膨れっ面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ふくれっ面",
+          "reading": "ふくれっつら"
+        },
+        {
+          "word": "膨れっ面",
+          "reading": "ふくれっつら"
+        },
+        {
+          "word": "脹れっ面",
+          "reading": "ふくれっつら"
+        }
+      ]
+    },
+    {
+      "slug": "膨らみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膨らみ",
+          "reading": "ふくらみ"
+        },
+        {
+          "word": "脹らみ",
+          "reading": "ふくらみ"
+        }
+      ]
+    },
+    {
+      "slug": "ふくれ面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ふくれ面",
+          "reading": "ふくれつら"
+        },
+        {
+          "word": "ふくれ面",
+          "reading": "ふくれづら"
+        },
+        {
+          "word": "膨れ面",
+          "reading": "ふくれつら"
+        },
+        {
+          "word": "膨れ面",
+          "reading": "ふくれづら"
+        },
+        {
+          "word": "脹れ面",
+          "reading": "ふくれつら"
+        },
+        {
+          "word": "脹れ面",
+          "reading": "ふくれづら"
+        }
+      ]
+    },
+    {
+      "slug": "膨ら",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膨ら",
+          "reading": "ふくら"
+        },
+        {
+          "word": "脹ら",
+          "reading": "ふくら"
+        }
+      ]
+    },
+    {
+      "slug": "脹満",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脹満",
+          "reading": "ちょうまん"
+        },
+        {
+          "word": "腸満",
+          "reading": "ちょうまん"
+        }
+      ]
+    },
+    {
+      "slug": "膨よか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膨よか",
+          "reading": "ふくよか"
+        },
+        {
+          "word": "脹よか",
+          "reading": "ふくよか"
+        }
+      ]
+    },
+    {
+      "slug": "ふくらし粉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ふくらし粉",
+          "reading": "ふくらしこ"
+        },
+        {
+          "word": "膨らし粉",
+          "reading": "ふくらしこ"
+        },
+        {
+          "word": "脹らし粉",
+          "reading": "ふくらしこ"
+        }
+      ]
+    },
+    {
+      "slug": "脹脛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脹脛",
+          "reading": "ふくらはぎ"
+        },
+        {
+          "word": "脹ら脛",
+          "reading": "ふくらはぎ"
+        },
+        {
+          "word": "膨ら脛",
+          "reading": "ふくらはぎ"
+        }
+      ]
+    },
+    {
+      "slug": "膨らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膨らす",
+          "reading": "ふくらす"
+        },
+        {
+          "word": "脹らす",
+          "reading": "ふくらす"
+        }
+      ]
+    },
+    {
+      "slug": "膨れ上がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膨れ上がる",
+          "reading": "ふくれあがる"
+        },
+        {
+          "word": "脹れ上がる",
+          "reading": "ふくれあがる"
+        }
+      ]
+    },
+    {
+      "slug": "膨らか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膨らか",
+          "reading": "ふくらか"
+        },
+        {
+          "word": "脹らか",
+          "reading": "ふくらか"
+        },
+        {
+          "word": "脹らか",
+          "reading": "ほこらか"
+        }
+      ]
+    },
+    {
+      "slug": "脹らせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膨らせる",
+          "reading": "ふくらせる"
+        },
+        {
+          "word": "脹らせる",
+          "reading": "ふくらせる"
+        }
+      ]
+    },
+    {
+      "slug": "腫れぼったい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫れぼったい",
+          "reading": "はれぼったい"
+        },
+        {
+          "word": "脹れぼったい",
+          "reading": "はれぼったい"
+        }
+      ]
+    },
+    {
+      "slug": "膨らかす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膨らかす",
+          "reading": "ふくらかす"
+        },
+        {
+          "word": "脹らかす",
+          "reading": "ふくらかす"
+        }
+      ]
+    }
   ]
 }

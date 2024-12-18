@@ -86,5 +86,361 @@
       "startStroke": 13,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "音楽を聴きます。",
+      "furigana": "[音楽|おん|がく]を[聴|き]きます。",
+      "translation_zh_CN": "我听音乐。"
+    },
+    {
+      "content": "唇に聴いてみる。",
+      "furigana": "[唇|くちびる]に[聴|き]いてみる。",
+      "translation_zh_CN": "《问问嘴唇》"
+    },
+    {
+      "content": "聴衆は深く感動した。",
+      "furigana": "[聴衆|ちょう|しゅう]は[深|ふか]く[感動|かん|どう]した。",
+      "translation_zh_CN": "观众深受感动。"
+    },
+    {
+      "content": "我々は耳を使って聴く。",
+      "furigana": "[我々|われわれ]は[耳|みみ]を[使|つか]って[聴|き]く。",
+      "translation_zh_CN": "我们用耳朵听。"
+    },
+    {
+      "content": "私たちは音楽を聴いている。",
+      "furigana": "[私|わたし]たちは[音楽|おん|がく]を[聴|き]いている。",
+      "translation_zh_CN": "我們聽音樂。"
+    },
+    {
+      "content": "昨晩はレコードを聴きました。",
+      "furigana": "[昨晩|さく|ばん]はレコードを[聴|き]きました。",
+      "translation_zh_CN": "我昨晚聽了一些唱片。"
+    },
+    {
+      "content": "ラジオを聴くのが好きなんだ。",
+      "furigana": "ラジオを[聴|き]くのが[好|す]きなんだ。",
+      "translation_zh_CN": "我喜歡聽收音機。"
+    },
+    {
+      "content": "その歌を聴くと故郷を思い出す。",
+      "furigana": "その[歌|うた]を[聴|き]くと[故郷|ふるさと]を[思|おも]い[出|だ]す。",
+      "translation_zh_CN": "这首歌让我想家了。"
+    },
+    {
+      "content": "ご清聴ありがとうございました。",
+      "furigana": "ご[清聴|せい|ちょう]ありがとうございました。",
+      "translation_zh_CN": "谢谢您的聆听。"
+    },
+    {
+      "content": "私はこの歌を聴くたびに泣きます。",
+      "furigana": "[私|わたし]はこの[歌|うた]を[聴|き]くたびに[泣|な]きます。",
+      "translation_zh_CN": "我每次听这首歌都会听到哭。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "聞く",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "聞く",
+          "reading": "きく"
+        },
+        {
+          "word": "聴く",
+          "reading": "きく"
+        }
+      ]
+    },
+    {
+      "slug": "聴覚",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "聴覚",
+          "reading": "ちょうかく"
+        }
+      ]
+    },
+    {
+      "slug": "聞こえる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "聞こえる",
+          "reading": "きこえる"
+        },
+        {
+          "word": "聞える",
+          "reading": "きこえる"
+        },
+        {
+          "word": "聴こえる",
+          "reading": "きこえる"
+        },
+        {
+          "word": "聴える",
+          "reading": "きこえる"
+        }
+      ]
+    },
+    {
+      "slug": "許す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "許す",
+          "reading": "ゆるす"
+        }
+      ]
+    },
+    {
+      "slug": "聴診器",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "聴診器",
+          "reading": "ちょうしんき"
+        }
+      ]
+    },
+    {
+      "slug": "聴講",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "聴講",
+          "reading": "ちょうこう"
+        }
+      ]
+    },
+    {
+      "slug": "聴聞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聴聞",
+          "reading": "ちょうもん"
+        }
+      ]
+    },
+    {
+      "slug": "聴衆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聴衆",
+          "reading": "ちょうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "聴取",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聴取",
+          "reading": "ちょうしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "聞き取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き取る",
+          "reading": "ききとる"
+        },
+        {
+          "word": "聴き取る",
+          "reading": "ききとる"
+        },
+        {
+          "word": "聞きとる",
+          "reading": "ききとる"
+        },
+        {
+          "word": "聞取る",
+          "reading": "ききとる"
+        },
+        {
+          "word": "聴取る",
+          "reading": "ききとる"
+        }
+      ]
+    },
+    {
+      "slug": "聞き入る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き入る",
+          "reading": "ききいる"
+        },
+        {
+          "word": "聴き入る",
+          "reading": "ききいる"
+        },
+        {
+          "word": "聞入る",
+          "reading": "ききいる"
+        },
+        {
+          "word": "聴入る",
+          "reading": "ききいる"
+        }
+      ]
+    },
+    {
+      "slug": "聞き上手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き上手",
+          "reading": "ききじょうず"
+        },
+        {
+          "word": "聴き上手",
+          "reading": "ききじょうず"
+        }
+      ]
+    },
+    {
+      "slug": "聴聞会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聴聞会",
+          "reading": "ちょうもんかい"
+        }
+      ]
+    },
+    {
+      "slug": "聴力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聴力",
+          "reading": "ちょうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "聞き取り",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "聞き取り",
+          "reading": "ききとり"
+        },
+        {
+          "word": "聴き取り",
+          "reading": "ききとり"
+        },
+        {
+          "word": "聞取り",
+          "reading": "ききとり"
+        },
+        {
+          "word": "聴取り",
+          "reading": "ききとり"
+        }
+      ]
+    },
+    {
+      "slug": "聞き耳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き耳",
+          "reading": "ききみみ"
+        },
+        {
+          "word": "聞耳",
+          "reading": "ききみみ"
+        },
+        {
+          "word": "聴き耳",
+          "reading": "ききみみ"
+        },
+        {
+          "word": "聴耳",
+          "reading": "ききみみ"
+        }
+      ]
+    },
+    {
+      "slug": "聴取者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聴取者",
+          "reading": "ちょうしゅしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "聞き手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き手",
+          "reading": "ききて"
+        },
+        {
+          "word": "聴き手",
+          "reading": "ききて"
+        }
+      ]
+    },
+    {
+      "slug": "聞き惚れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞き惚れる",
+          "reading": "ききほれる"
+        },
+        {
+          "word": "聴き惚れる",
+          "reading": "ききほれる"
+        },
+        {
+          "word": "聞きほれる",
+          "reading": "ききほれる"
+        }
+      ]
+    },
+    {
+      "slug": "聞きもしないで",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聞きもしないで",
+          "reading": "ききもしないで"
+        },
+        {
+          "word": "聴きもしないで",
+          "reading": "ききもしないで"
+        }
+      ]
+    }
   ]
 }

@@ -83,5 +83,271 @@
       "startStroke": 6,
       "strokes": 9
     }
+  ],
+  "sentences": [
+    {
+      "content": "私達は子供を養子にした。",
+      "furigana": "[私|わたし][達|たち]は[子供|こ|ども]を[養子|よう|し]にした。",
+      "translation_zh_CN": "我们收养了一个孩子。"
+    },
+    {
+      "content": "私たちは養子をもらった。",
+      "furigana": "[私|わたし]たちは[養子|よう|し]をもらった。",
+      "translation_zh_CN": "我们收养了一个孩子。"
+    },
+    {
+      "content": "彼らはその少女を養女にした。",
+      "furigana": "[彼|かれ]らはその[少女|しょう|じょ]を[養女|よう|じょ]にした。",
+      "translation_zh_CN": "他们收养了那个小女孩。"
+    },
+    {
+      "content": "彼らはその孤児を養子にした。",
+      "furigana": "[彼|かれ]らはその[孤児|こ|じ]を[養子|よう|し]にした。",
+      "translation_zh_CN": "他们收养了那个孤儿。"
+    },
+    {
+      "content": "牛乳は栄養のある食品である。",
+      "furigana": "[牛乳|ぎゅう|にゅう]は[栄養|えい|よう]のある[食品|しょく|ひん]である。",
+      "translation_zh_CN": "牛奶是个很好的食品。"
+    },
+    {
+      "content": "政治意識の涵養には時間を要する。",
+      "furigana": "[政治|せい|じ][意識|い|しき]の[涵養|かん|よう]には[時間|じ|かん]を[要|よう]する。",
+      "translation_zh_CN": "培养政治意识要花费时间。"
+    },
+    {
+      "content": "私は家族を養うために懸命に働いた。",
+      "furigana": "[私|わたし]は[家族|か|ぞく]を[養|やしな]うために[懸命|けん|めい]に[働|はたら]いた。",
+      "translation_zh_CN": "我努力工作养家糊口。"
+    },
+    {
+      "content": "彼には養わなければならない大家族がある。",
+      "furigana": "[彼|かれ]には[養|やしな]わなければならない[大|だい][家族|か|ぞく]がある。",
+      "translation_zh_CN": "他要撫養一大家人。"
+    },
+    {
+      "content": "十分に休養をとることは、非常に大切です。",
+      "furigana": "[十分|じゅう|ぶん]に[休養|きゅう|よう]をとることは、[非常|ひ|じょう]に[大切|たい|せつ]です。",
+      "translation_zh_CN": "充足的休息十分重要。"
+    },
+    {
+      "content": "養っていかねばならない大家族がいるのです。",
+      "furigana": "[養|やしな]っていかねばならない[大|だい][家族|か|ぞく]がいるのです。",
+      "translation_zh_CN": "他要撫養一大家人。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "養成",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "養成",
+          "reading": "ようせい"
+        }
+      ]
+    },
+    {
+      "slug": "養う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "養う",
+          "reading": "やしなう"
+        }
+      ]
+    },
+    {
+      "slug": "養子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養子",
+          "reading": "ようし"
+        }
+      ]
+    },
+    {
+      "slug": "養育",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養育",
+          "reading": "よういく"
+        }
+      ]
+    },
+    {
+      "slug": "養女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養女",
+          "reading": "ようじょ"
+        }
+      ]
+    },
+    {
+      "slug": "養護",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "養護",
+          "reading": "ようご"
+        }
+      ]
+    },
+    {
+      "slug": "養分",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "養分",
+          "reading": "ようぶん"
+        }
+      ]
+    },
+    {
+      "slug": "養鶏場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養鶏場",
+          "reading": "ようけいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "養殖場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養殖場",
+          "reading": "ようしょくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "養殖真珠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養殖真珠",
+          "reading": "ようしょくしんじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "養鶏業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養鶏業",
+          "reading": "ようけいぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "養老",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養老",
+          "reading": "ようろう"
+        }
+      ]
+    },
+    {
+      "slug": "養豚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養豚",
+          "reading": "ようとん"
+        }
+      ]
+    },
+    {
+      "slug": "養子縁組",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養子縁組",
+          "reading": "ようしえんぐみ"
+        },
+        {
+          "word": "養子縁組み",
+          "reading": "ようしえんぐみ"
+        }
+      ]
+    },
+    {
+      "slug": "養父母",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養父母",
+          "reading": "ようふぼ"
+        }
+      ]
+    },
+    {
+      "slug": "養殖",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養殖",
+          "reading": "ようしょく"
+        }
+      ]
+    },
+    {
+      "slug": "養老院",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養老院",
+          "reading": "ようろういん"
+        }
+      ]
+    },
+    {
+      "slug": "養生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養生",
+          "reading": "ようじょう"
+        }
+      ]
+    },
+    {
+      "slug": "養蚕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養蚕",
+          "reading": "ようさん"
+        }
+      ]
+    },
+    {
+      "slug": "養護教諭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "養護教諭",
+          "reading": "ようごきょうゆ"
+        }
+      ]
+    }
   ]
 }

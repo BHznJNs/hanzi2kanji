@@ -82,5 +82,239 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "暫く",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "暫く",
+          "reading": "しばらく"
+        },
+        {
+          "word": "暫らく",
+          "reading": "しばらく"
+        },
+        {
+          "word": "姑く",
+          "reading": "しばらく"
+        },
+        {
+          "word": "須臾",
+          "reading": "しばらく"
+        }
+      ]
+    },
+    {
+      "slug": "暫定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定",
+          "reading": "ざんてい"
+        }
+      ]
+    },
+    {
+      "slug": "しばらくの間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しばらくの間",
+          "reading": "しばらくのあいだ"
+        },
+        {
+          "word": "暫くの間",
+          "reading": "しばらくのあいだ"
+        }
+      ]
+    },
+    {
+      "slug": "暫し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫し",
+          "reading": "しばし"
+        }
+      ]
+    },
+    {
+      "slug": "暫く振り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫くぶり",
+          "reading": "しばらくぶり"
+        },
+        {
+          "word": "しばらく振り",
+          "reading": "しばらくぶり"
+        },
+        {
+          "word": "暫く振り",
+          "reading": "しばらくぶり"
+        }
+      ]
+    },
+    {
+      "slug": "暫定的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定的",
+          "reading": "ざんていてき"
+        }
+      ]
+    },
+    {
+      "slug": "暫定協定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定協定",
+          "reading": "ざんていきょうてい"
+        }
+      ]
+    },
+    {
+      "slug": "暫定措置",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定措置",
+          "reading": "ざんていそち"
+        }
+      ]
+    },
+    {
+      "slug": "暫且",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫且",
+          "reading": "ざんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "暫定政権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定政権",
+          "reading": "ざんていせいけん"
+        }
+      ]
+    },
+    {
+      "slug": "暫時",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫時",
+          "reading": "ざんじ"
+        }
+      ]
+    },
+    {
+      "slug": "暫定予算",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定予算",
+          "reading": "ざんていよさん"
+        }
+      ]
+    },
+    {
+      "slug": "暫定値",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定値",
+          "reading": "ざんていち"
+        }
+      ]
+    },
+    {
+      "slug": "暫定内閣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定内閣",
+          "reading": "ざんていないかく"
+        }
+      ]
+    },
+    {
+      "slug": "暫定政府",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定政府",
+          "reading": "ざんていせいふ"
+        }
+      ]
+    },
+    {
+      "slug": "暫定案",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定案",
+          "reading": "ざんていあん"
+        }
+      ]
+    },
+    {
+      "slug": "しばらく前",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しばらく前",
+          "reading": "しばらくまえ"
+        },
+        {
+          "word": "暫く前",
+          "reading": "しばらくまえ"
+        }
+      ]
+    },
+    {
+      "slug": "暫定的耐容週間摂取量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫定的耐容週間摂取量",
+          "reading": "ざんていてきたいようしゅうかんせっしゅりょう"
+        }
+      ]
+    },
+    {
+      "slug": "暫くすると",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫くすると",
+          "reading": "しばらくすると"
+        }
+      ]
+    },
+    {
+      "slug": "暫くして",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "暫くして",
+          "reading": "しばらくして"
+        }
+      ]
+    }
   ]
 }

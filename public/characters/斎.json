@@ -120,5 +120,301 @@
       "variant": true,
       "part": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は書斎にいる。",
+      "furigana": "[彼|かれ]は[書斎|しょ|さい]にいる。",
+      "translation_zh_CN": "他在图书馆里。"
+    },
+    {
+      "content": "彼の書斎には何百冊という本が有る。",
+      "furigana": "[彼|かれ]の[書斎|しょ|さい]には[何|なん][百|びゃく][冊|さつ]という[本|ほん]が[有|あ]る。",
+      "translation_zh_CN": "他的書房有數百本書。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "祝い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "祝い",
+          "reading": "いわい"
+        },
+        {
+          "word": "祝い",
+          "reading": "ゆわい"
+        },
+        {
+          "word": "祝",
+          "reading": "いわい"
+        },
+        {
+          "word": "祝",
+          "reading": "ゆわい"
+        },
+        {
+          "word": "斎",
+          "reading": "いわい"
+        },
+        {
+          "word": "斎",
+          "reading": "ゆわい"
+        }
+      ]
+    },
+    {
+      "slug": "忌み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "忌み",
+          "reading": "いみ"
+        },
+        {
+          "word": "斎み",
+          "reading": "いみ"
+        },
+        {
+          "word": "忌",
+          "reading": "いみ"
+        },
+        {
+          "word": "斎",
+          "reading": "いみ"
+        }
+      ]
+    },
+    {
+      "slug": "祝う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "祝う",
+          "reading": "いわう"
+        },
+        {
+          "word": "斎う",
+          "reading": "いわう"
+        }
+      ]
+    },
+    {
+      "slug": "斎場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎場",
+          "reading": "さいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "斎王",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎王",
+          "reading": "さいおう"
+        }
+      ]
+    },
+    {
+      "slug": "斎主",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎主",
+          "reading": "さいしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "斎垣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎垣",
+          "reading": "いがき"
+        },
+        {
+          "word": "斎垣",
+          "reading": "いかき"
+        },
+        {
+          "word": "忌垣",
+          "reading": "いがき"
+        },
+        {
+          "word": "忌垣",
+          "reading": "いかき"
+        }
+      ]
+    },
+    {
+      "slug": "斎服",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎服",
+          "reading": "さいふく"
+        }
+      ]
+    },
+    {
+      "slug": "斎行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎行",
+          "reading": "さいこう"
+        },
+        {
+          "word": "斉行",
+          "reading": "さいこう"
+        }
+      ]
+    },
+    {
+      "slug": "斎く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎く",
+          "reading": "いつく"
+        }
+      ]
+    },
+    {
+      "slug": "斎堂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎堂",
+          "reading": "さいどう"
+        }
+      ]
+    },
+    {
+      "slug": "忌み日",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "忌み日",
+          "reading": "いみび"
+        },
+        {
+          "word": "忌日",
+          "reading": "いみび"
+        },
+        {
+          "word": "斎日",
+          "reading": "いみび"
+        }
+      ]
+    },
+    {
+      "slug": "斎み垣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎み垣",
+          "reading": "いみがき"
+        }
+      ]
+    },
+    {
+      "slug": "湯屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯屋",
+          "reading": "ゆや"
+        },
+        {
+          "word": "斎屋",
+          "reading": "ゆや"
+        }
+      ]
+    },
+    {
+      "slug": "斎部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎部",
+          "reading": "いみべ"
+        },
+        {
+          "word": "斎部",
+          "reading": "いんべ"
+        }
+      ]
+    },
+    {
+      "slug": "祝い言",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "祝い言",
+          "reading": "いわいごと"
+        },
+        {
+          "word": "祝言",
+          "reading": "いわいごと"
+        },
+        {
+          "word": "斎言",
+          "reading": "いわいごと"
+        }
+      ]
+    },
+    {
+      "slug": "斎戒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎戒",
+          "reading": "さいかい"
+        }
+      ]
+    },
+    {
+      "slug": "忌む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "忌む",
+          "reading": "いむ"
+        },
+        {
+          "word": "斎む",
+          "reading": "いむ"
+        },
+        {
+          "word": "諱む",
+          "reading": "いむ"
+        }
+      ]
+    },
+    {
+      "slug": "斎戒沐浴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斎戒沐浴",
+          "reading": "さいかいもくよく"
+        },
+        {
+          "word": "斎戒もく浴",
+          "reading": "さいかいもくよく"
+        }
+      ]
+    }
   ]
 }

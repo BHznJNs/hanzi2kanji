@@ -34,7 +34,7 @@
         "factice",
         "intérim",
         "temporaire",
-        "emprunt (nom d\u0027)",
+        "emprunt (nom d')",
         "informel",
         "ka(na)"
       ]
@@ -80,6 +80,308 @@
       "radical": "又",
       "startStroke": 4,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "仮のブリッジをいれます。",
+      "furigana": "[仮|かり]のブリッジをいれます。",
+      "translation_zh_CN": "搭建临时桥。"
+    },
+    {
+      "content": "この世は仮の宿に過ぎない。",
+      "furigana": "この[世|よ]は[仮|かり]の[宿|やど]に[過|す]ぎない。",
+      "translation_zh_CN": "这个世界只是暂时的居所。"
+    },
+    {
+      "content": "仮の議事内容を送付しました。",
+      "furigana": "[仮|かり]の[議事内容|ぎ|じ|ない|よう]を[送付|そう|ふ]しました。",
+      "translation_zh_CN": "我已经发送了暂定议程。"
+    },
+    {
+      "content": "仮病を使っても無駄ですよ。",
+      "furigana": "[仮病|け|びょう]を[使|つか]っても[無駄|む|だ]ですよ。",
+      "translation_zh_CN": "装病是没用的。"
+    },
+    {
+      "content": "トムは仮眠が必要だと言っている。",
+      "furigana": "トムは[仮眠|か|みん]が[必要|ひつ|よう]だと[言|い]っている。",
+      "translation_zh_CN": "汤姆说他需要午睡。"
+    },
+    {
+      "content": "彼女がここにいると仮定してみよう。",
+      "furigana": "[彼女|かの|じょ]がここにいると[仮定|か|てい]してみよう。",
+      "translation_zh_CN": "让我们假设她在这里。"
+    },
+    {
+      "content": "彼は正体を見破られないように仮面をつけていた。",
+      "furigana": "[彼|かれ]は[正体|しょう|たい]を[見破|み|やぶ]られないように[仮面|か|めん]をつけていた。",
+      "translation_zh_CN": "他戴著面具以至於沒有人認出他。"
+    },
+    {
+      "content": "仮に私が死んだとしたら、誰が私の子供の面倒を見てくれるだろう。",
+      "furigana": "[仮|かり]に[私|わたし]が[死|し]んだとしたら、[誰|だれ]が[私|わたし]の[子供|こ|ども]の[面倒|めん|どう]を[見|み]てくれるだろう。",
+      "translation_zh_CN": "要是我死了，谁来照顾我的孩子们？"
+    },
+    {
+      "content": "私は仮に十分な資金があるとしても、フェラーリは買わないだろうね。",
+      "furigana": "[私|わたし]は[仮|かり]に[十分|じゅう|ぶん]な[資金|し|きん]があるとしても、フェラーリは[買|か]わないだろうね。",
+      "translation_zh_CN": "即使我的钱够了，我也不会买一辆法拉利。"
+    },
+    {
+      "content": "大丈夫だって！仮に飲んだとしても、そんなの私の運転には影響ないから。",
+      "furigana": "[大丈夫|だい|じょう|ぶ]だって！[仮|かり]に[飲|の]んだとしても、そんなの[私|わたし]の[運転|うん|てん]には[影響|えい|きょう]ないから。",
+      "translation_zh_CN": "没事！就算我喝了酒，这点程度对我开车也没影响。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "化粧",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "化粧",
+          "reading": "けしょう"
+        },
+        {
+          "word": "化粧",
+          "reading": "けわい"
+        },
+        {
+          "word": "化粧",
+          "reading": "けそう"
+        },
+        {
+          "word": "仮粧",
+          "reading": "けしょう"
+        },
+        {
+          "word": "仮粧",
+          "reading": "けわい"
+        },
+        {
+          "word": "仮粧",
+          "reading": "けそう"
+        }
+      ]
+    },
+    {
+      "slug": "架空",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "架空",
+          "reading": "かくう"
+        },
+        {
+          "word": "架空",
+          "reading": "がくう"
+        }
+      ]
+    },
+    {
+      "slug": "仮定",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "仮定",
+          "reading": "かてい"
+        }
+      ]
+    },
+    {
+      "slug": "仮面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮面",
+          "reading": "かめん"
+        }
+      ]
+    },
+    {
+      "slug": "仮説",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮説",
+          "reading": "かせつ"
+        }
+      ]
+    },
+    {
+      "slug": "仮眠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮眠",
+          "reading": "かみん"
+        }
+      ]
+    },
+    {
+      "slug": "仮名遣い",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "仮名遣い",
+          "reading": "かなづかい"
+        },
+        {
+          "word": "仮名遣",
+          "reading": "かなづかい"
+        },
+        {
+          "word": "かな遣い",
+          "reading": "かなづかい"
+        },
+        {
+          "word": "かな使い",
+          "reading": "かなづかい"
+        },
+        {
+          "word": "仮名使い",
+          "reading": "かなづかい"
+        }
+      ]
+    },
+    {
+      "slug": "仮に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮に",
+          "reading": "かりに"
+        }
+      ]
+    },
+    {
+      "slug": "仮想",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮想",
+          "reading": "かそう"
+        }
+      ]
+    },
+    {
+      "slug": "仮令",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "仮令",
+          "reading": "たとえ"
+        },
+        {
+          "word": "縦え",
+          "reading": "たとえ"
+        },
+        {
+          "word": "縦令",
+          "reading": "たとえ"
+        },
+        {
+          "word": "仮令",
+          "reading": "たとい"
+        },
+        {
+          "word": "縦令",
+          "reading": "たとい"
+        }
+      ]
+    },
+    {
+      "slug": "仮装",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮装",
+          "reading": "かそう"
+        }
+      ]
+    },
+    {
+      "slug": "うたた寝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うたた寝",
+          "reading": "うたたね"
+        },
+        {
+          "word": "転寝",
+          "reading": "うたたね"
+        },
+        {
+          "word": "転た寝",
+          "reading": "うたたね"
+        },
+        {
+          "word": "仮寝",
+          "reading": "うたたね"
+        }
+      ]
+    },
+    {
+      "slug": "仮病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮病",
+          "reading": "けびょう"
+        }
+      ]
+    },
+    {
+      "slug": "仮性近視",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮性近視",
+          "reading": "かせいきんし"
+        }
+      ]
+    },
+    {
+      "slug": "仮にも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮にも",
+          "reading": "かりにも"
+        }
+      ]
+    },
+    {
+      "slug": "仮定法過去",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮定法過去",
+          "reading": "かていほうかこ"
+        }
+      ]
+    },
+    {
+      "slug": "仮称",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仮称",
+          "reading": "かしょう"
+        }
+      ]
     }
   ]
 }

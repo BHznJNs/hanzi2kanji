@@ -68,5 +68,145 @@
       "startStroke": 16,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "聾唖者は手話で話す。",
+      "furigana": "[聾唖|ろう|あ][者|しゃ]は[手話|しゅ|わ]で[話|はな]す。",
+      "translation_zh_CN": "聾啞的人用手語說話。"
+    },
+    {
+      "content": "ヘレン・ケラーは盲人で、聾唖者です。",
+      "furigana": "ヘレン・ケラーは[盲人|もう|じん]で、[聾唖|ろう|あ][者|しゃ]です。",
+      "translation_zh_CN": "海伦·凯勒眼盲、耳聋并且不能说话。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "耳癈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "耳癈",
+          "reading": "みみしい"
+        },
+        {
+          "word": "聾",
+          "reading": "みみしい"
+        }
+      ]
+    },
+    {
+      "slug": "聾者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聾者",
+          "reading": "ろうしゃ"
+        },
+        {
+          "word": "ろう者",
+          "reading": "ろうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "聾唖者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろうあ者",
+          "reading": "ろうあしゃ"
+        },
+        {
+          "word": "聾唖者",
+          "reading": "ろうあしゃ"
+        },
+        {
+          "word": "聾啞者",
+          "reading": "ろうあしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "聾学校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろう学校",
+          "reading": "ろうがっこう"
+        },
+        {
+          "word": "聾学校",
+          "reading": "ろうがっこう"
+        }
+      ]
+    },
+    {
+      "slug": "聾する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聾する",
+          "reading": "ろうする"
+        }
+      ]
+    },
+    {
+      "slug": "つんぼ桟敷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "つんぼ桟敷",
+          "reading": "つんぼさじき"
+        },
+        {
+          "word": "聾桟敷",
+          "reading": "つんぼさじき"
+        }
+      ]
+    },
+    {
+      "slug": "聾唖",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聾唖",
+          "reading": "ろうあ"
+        },
+        {
+          "word": "聾啞",
+          "reading": "ろうあ"
+        }
+      ]
+    },
+    {
+      "slug": "聾盲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聾盲",
+          "reading": "ろうもう"
+        },
+        {
+          "word": "ろう盲",
+          "reading": "ろうもう"
+        }
+      ]
+    },
+    {
+      "slug": "聾唖学校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聾唖学校",
+          "reading": "ろうあがっこう"
+        },
+        {
+          "word": "ろうあ学校",
+          "reading": "ろうあがっこう"
+        }
+      ]
+    }
   ]
 }

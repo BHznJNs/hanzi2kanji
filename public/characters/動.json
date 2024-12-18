@@ -109,5 +109,290 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "私たちはスペリオル湖まで景色のよい自動車動をドライブした。",
+      "furigana": "[私|わたし]たちはスペリオル[湖|みずうみ]まで[景色|け|しき]のよい[自動車動|じ|どう|しゃ|どう]をドライブした。",
+      "translation_zh_CN": "我们驱车前往苏必利尔湖，风景如画。"
+    },
+    {
+      "content": "人間は動物です。",
+      "furigana": "[人間|にん|げん]は[動物|どう|ぶつ]です。",
+      "translation_zh_CN": "人是一種動物。"
+    },
+    {
+      "content": "龍は空想の動物だ。",
+      "furigana": "[龍|りゅう]は[空想|くう|そう]の[動物|どう|ぶつ]だ。",
+      "translation_zh_CN": "龍是人幻想出來的動物。"
+    },
+    {
+      "content": "彼は動物が好きだ。",
+      "furigana": "[彼|かれ]は[動物|どう|ぶつ]が[好|す]きだ。",
+      "translation_zh_CN": "他喜歡動物。"
+    },
+    {
+      "content": "彼は動作がはやい。",
+      "furigana": "[彼|かれ]は[動作|どう|さ]がはやい。",
+      "translation_zh_CN": "他行动迅速。"
+    },
+    {
+      "content": "動物は火を恐れる。",
+      "furigana": "[動物|どう|ぶつ]は[火|ひ]を[恐|おそ]れる。",
+      "translation_zh_CN": "动物怕火。"
+    },
+    {
+      "content": "今が行動する時だ。",
+      "furigana": "[今|いま]が[行動|こう|どう]する[時|とき]だ。",
+      "translation_zh_CN": "现在是行动的时候了。"
+    },
+    {
+      "content": "運動は健康にいい。",
+      "furigana": "[運動|うん|どう]は[健康|けん|こう]にいい。",
+      "translation_zh_CN": "做运动有利于健康。"
+    },
+    {
+      "content": "外で運動しなさい。",
+      "furigana": "[外|そと]で[運動|うん|どう]しなさい。",
+      "translation_zh_CN": "户外运动。"
+    },
+    {
+      "content": "竜は架空の動物だ。",
+      "furigana": "[竜|りゅう]は[架空|か|くう]の[動物|どう|ぶつ]だ。",
+      "translation_zh_CN": "龍是人幻想出來的動物。"
+    },
+    {
+      "content": "馬は有用な動物だ。",
+      "furigana": "[馬|うま]は[有用|ゆう|よう]な[動物|どう|ぶつ]だ。",
+      "translation_zh_CN": "马是种很有用的动物。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "動物",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "動物",
+          "reading": "どうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "動物園",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "動物園",
+          "reading": "どうぶつえん"
+        }
+      ]
+    },
+    {
+      "slug": "動詞",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "動詞",
+          "reading": "どうし"
+        }
+      ]
+    },
+    {
+      "slug": "動機",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "動機",
+          "reading": "どうき"
+        }
+      ]
+    },
+    {
+      "slug": "動力",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "動力",
+          "reading": "どうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "動く",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "動く",
+          "reading": "うごく"
+        }
+      ]
+    },
+    {
+      "slug": "動かす",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "動かす",
+          "reading": "うごかす"
+        }
+      ]
+    },
+    {
+      "slug": "動作",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "動作",
+          "reading": "どうさ"
+        }
+      ]
+    },
+    {
+      "slug": "動き",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "動き",
+          "reading": "うごき"
+        }
+      ]
+    },
+    {
+      "slug": "動揺",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "動揺",
+          "reading": "どうよう"
+        }
+      ]
+    },
+    {
+      "slug": "動向",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "動向",
+          "reading": "どうこう"
+        }
+      ]
+    },
+    {
+      "slug": "動議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "動議",
+          "reading": "どうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "動画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "動画",
+          "reading": "どうが"
+        }
+      ]
+    },
+    {
+      "slug": "動植物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "動植物",
+          "reading": "どうしょくぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "動静",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "動静",
+          "reading": "どうせい"
+        },
+        {
+          "word": "動勢",
+          "reading": "どうせい"
+        }
+      ]
+    },
+    {
+      "slug": "動員",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "動員",
+          "reading": "どういん"
+        }
+      ]
+    },
+    {
+      "slug": "動じる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "動じる",
+          "reading": "どうじる"
+        }
+      ]
+    },
+    {
+      "slug": "動き出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "動き出す",
+          "reading": "うごきだす"
+        },
+        {
+          "word": "動きだす",
+          "reading": "うごきだす"
+        }
+      ]
+    },
+    {
+      "slug": "動き回る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "動き回る",
+          "reading": "うごきまわる"
+        },
+        {
+          "word": "動きまわる",
+          "reading": "うごきまわる"
+        }
+      ]
+    }
   ]
 }

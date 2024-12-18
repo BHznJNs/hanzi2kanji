@@ -62,5 +62,369 @@
       "startStroke": 1,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼に干渉するな。",
+      "furigana": "[彼|かれ]に[干渉|かん|しょう]するな。",
+      "translation_zh_CN": "别掺和他的事。"
+    },
+    {
+      "content": "井戸が干上がった。",
+      "furigana": "[井戸|い|ど]が[干上|ひ|あ]がった。",
+      "translation_zh_CN": "這口井乾涸了。"
+    },
+    {
+      "content": "僕のことに干渉しないでくれ。",
+      "furigana": "[僕|ぼく]のことに[干渉|かん|しょう]しないでくれ。",
+      "translation_zh_CN": "不要插手我的事。"
+    },
+    {
+      "content": "他人の事に干渉しないほうがいいよ。",
+      "furigana": "[他人|た|にん]の[事|こと]に[干渉|かん|しょう]しないほうがいいよ。",
+      "translation_zh_CN": "你最好不要插手别人的事务。"
+    },
+    {
+      "content": "彼は私たちの家族の問題に干渉する権利はない。",
+      "furigana": "[彼|かれ]は[私|わたし]たちの[家族|か|ぞく]の[問題|もん|だい]に[干渉|かん|しょう]する[権利|けん|り]はない。",
+      "translation_zh_CN": "他无权干涉我们的家庭事务。"
+    },
+    {
+      "content": "それは干し草の山の中から針を探し出そうとするようなものだ。",
+      "furigana": "それは[干|ほ]し[草|くさ]の[山|やま]の[中|なか]から[針|はり]を[探|さが]し[出|だ]そうとするようなものだ。",
+      "translation_zh_CN": "这好比大海捞针。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "干し",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "干し",
+          "reading": "ほし"
+        },
+        {
+          "word": "乾し",
+          "reading": "ほし"
+        },
+        {
+          "word": "干",
+          "reading": "ほし"
+        },
+        {
+          "word": "乾",
+          "reading": "ほし"
+        }
+      ]
+    },
+    {
+      "slug": "干す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "干す",
+          "reading": "ほす"
+        },
+        {
+          "word": "乾す",
+          "reading": "ほす"
+        }
+      ]
+    },
+    {
+      "slug": "干渉",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "干渉",
+          "reading": "かんしょう"
+        },
+        {
+          "word": "関渉",
+          "reading": "かんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "関与",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "関与",
+          "reading": "かんよ"
+        },
+        {
+          "word": "干与",
+          "reading": "かんよ"
+        }
+      ]
+    },
+    {
+      "slug": "乾上がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干上がる",
+          "reading": "ひあがる"
+        },
+        {
+          "word": "干あがる",
+          "reading": "ひあがる"
+        },
+        {
+          "word": "ひ上がる",
+          "reading": "ひあがる"
+        },
+        {
+          "word": "乾上がる",
+          "reading": "ひあがる"
+        },
+        {
+          "word": "乾あがる",
+          "reading": "ひあがる"
+        }
+      ]
+    },
+    {
+      "slug": "干満",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干満",
+          "reading": "かんまん"
+        }
+      ]
+    },
+    {
+      "slug": "干ばつ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干ばつ",
+          "reading": "かんばつ"
+        },
+        {
+          "word": "旱魃",
+          "reading": "かんばつ"
+        },
+        {
+          "word": "干魃",
+          "reading": "かんばつ"
+        }
+      ]
+    },
+    {
+      "slug": "干し草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干し草",
+          "reading": "ほしくさ"
+        },
+        {
+          "word": "干し草",
+          "reading": "ほしぐさ"
+        },
+        {
+          "word": "干草",
+          "reading": "ほしくさ"
+        },
+        {
+          "word": "干草",
+          "reading": "ほしぐさ"
+        },
+        {
+          "word": "乾し草",
+          "reading": "ほしくさ"
+        },
+        {
+          "word": "乾し草",
+          "reading": "ほしぐさ"
+        },
+        {
+          "word": "乾草",
+          "reading": "ほしくさ"
+        },
+        {
+          "word": "乾草",
+          "reading": "ほしぐさ"
+        }
+      ]
+    },
+    {
+      "slug": "干潟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干潟",
+          "reading": "ひがた"
+        }
+      ]
+    },
+    {
+      "slug": "干物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干物",
+          "reading": "ひもの"
+        },
+        {
+          "word": "干物",
+          "reading": "からもの"
+        },
+        {
+          "word": "乾物",
+          "reading": "ひもの"
+        },
+        {
+          "word": "乾物",
+          "reading": "からもの"
+        }
+      ]
+    },
+    {
+      "slug": "干し物",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "干し物",
+          "reading": "ほしもの"
+        },
+        {
+          "word": "乾し物",
+          "reading": "ほしもの"
+        },
+        {
+          "word": "干物",
+          "reading": "ほしもの"
+        },
+        {
+          "word": "乾物",
+          "reading": "ほしもの"
+        }
+      ]
+    },
+    {
+      "slug": "干天",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干天",
+          "reading": "かんてん"
+        },
+        {
+          "word": "旱天",
+          "reading": "かんてん"
+        }
+      ]
+    },
+    {
+      "slug": "干拓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干拓",
+          "reading": "かんたく"
+        }
+      ]
+    },
+    {
+      "slug": "干支",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干支",
+          "reading": "えと"
+        },
+        {
+          "word": "干支",
+          "reading": "かんし"
+        }
+      ]
+    },
+    {
+      "slug": "乾物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乾物",
+          "reading": "かんぶつ"
+        },
+        {
+          "word": "干物",
+          "reading": "かんぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "干る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干る",
+          "reading": "ひる"
+        },
+        {
+          "word": "乾る",
+          "reading": "ひる"
+        }
+      ]
+    },
+    {
+      "slug": "干菓子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干菓子",
+          "reading": "ひがし"
+        },
+        {
+          "word": "乾菓子",
+          "reading": "ひがし"
+        }
+      ]
+    },
+    {
+      "slug": "干潟星雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干潟星雲",
+          "reading": "ひがたせいうん"
+        }
+      ]
+    },
+    {
+      "slug": "干渉法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干渉法",
+          "reading": "かんしょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "干し首",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "干し首",
+          "reading": "ほしくび"
+        }
+      ]
+    }
   ]
 }

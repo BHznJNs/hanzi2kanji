@@ -43,5 +43,110 @@
       "strokes": 6,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "住み処",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "住処",
+          "reading": "すみか"
+        },
+        {
+          "word": "住みか",
+          "reading": "すみか"
+        },
+        {
+          "word": "住み家",
+          "reading": "すみか"
+        },
+        {
+          "word": "住家",
+          "reading": "すみか"
+        },
+        {
+          "word": "住み処",
+          "reading": "すみか"
+        },
+        {
+          "word": "棲家",
+          "reading": "すみか"
+        },
+        {
+          "word": "棲み家",
+          "reading": "すみか"
+        },
+        {
+          "word": "棲み処",
+          "reading": "すみか"
+        },
+        {
+          "word": "栖",
+          "reading": "すみか"
+        }
+      ]
+    },
+    {
+      "slug": "生息地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "生息地",
+          "reading": "せいそくち"
+        },
+        {
+          "word": "棲息地",
+          "reading": "せいそくち"
+        }
+      ]
+    },
+    {
+      "slug": "生息",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "生息",
+          "reading": "せいそく"
+        },
+        {
+          "word": "棲息",
+          "reading": "せいそく"
+        },
+        {
+          "word": "栖息",
+          "reading": "せいそく"
+        }
+      ]
+    },
+    {
+      "slug": "棲む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "棲む",
+          "reading": "すむ"
+        },
+        {
+          "word": "栖む",
+          "reading": "すむ"
+        }
+      ]
+    },
+    {
+      "slug": "棲遅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "棲遅",
+          "reading": "せいち"
+        },
+        {
+          "word": "栖遅",
+          "reading": "せいち"
+        }
+      ]
+    }
   ]
 }

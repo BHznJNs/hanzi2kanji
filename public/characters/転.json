@@ -88,5 +88,322 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼はたいていうたた寝をしている。",
+      "furigana": "[彼|かれ]はたいていうたた[寝|ね]をしている。",
+      "translation_zh_CN": "他通常会小睡一会儿。"
+    },
+    {
+      "content": "トムはバク転のやり方を覚えた。",
+      "furigana": "トムはバク[転|てん]のやり[方|かた]を[覚|おぼ]えた。",
+      "translation_zh_CN": "汤姆学会了如何做后空翻。"
+    },
+    {
+      "content": "何人社員が転部を申し込んできましたか。",
+      "furigana": "[何人社員|なん|にん|しゃ|いん]が[転部|てん|ぶ]を[申|もう]し[込|こ]んできましたか。",
+      "translation_zh_CN": "有多少员工申请调岗？"
+    },
+    {
+      "content": "トムがソファーでうたた寝してたよ。",
+      "furigana": "トムがソファーでうたた[寝|ね]してたよ。",
+      "translation_zh_CN": "汤姆正在沙发上打瞌睡。"
+    },
+    {
+      "content": "トム、ソファーでうたた寝してるわよ。",
+      "furigana": "トム、ソファーでうたた[寝|ね]してるわよ。",
+      "translation_zh_CN": "汤姆，我正在沙发上打瞌睡。"
+    },
+    {
+      "content": "祖父はソファーの上でうたたねをしている。",
+      "furigana": "[祖父|そ|ふ]はソファーの[上|じょう]でうたたねをしている。",
+      "translation_zh_CN": "爷爷正在沙发上打盹。"
+    },
+    {
+      "content": "トムったら、またおこたでうたた寝してるよ。",
+      "furigana": "トムったら、またおこたでうたた[寝|ね]してるよ。",
+      "translation_zh_CN": "汤姆又在炉子上打瞌睡了。"
+    },
+    {
+      "content": "こんなところでうたた寝してると、風邪ひくよ。",
+      "furigana": "こんなところでうたた[寝|ね]してると、[風邪|かぜ]ひくよ。",
+      "translation_zh_CN": "如果你在这种地方打盹的话，你会感冒的。"
+    },
+    {
+      "content": "私は家に帰ってからうたた寝した。",
+      "furigana": "[私|わたし]は[家|いえ]に[帰|かえ]ってからうたた[寝|ねか]した。",
+      "translation_zh_CN": "回到家后我睡了个午觉。"
+    },
+    {
+      "content": "彼女は編み物に忙しかった。その間も彼は火の側でうたた寝していた。",
+      "furigana": "[彼女|かの|じょ]は[編|あ]み[物|もの]に[忙|いそが]しかった。その[間|かん]も[彼|かれ]は[火|ひ]の[側|がわ]でうたた[寝|ねか]していた。",
+      "translation_zh_CN": "她正忙着编织。与此同时，他正在火边打瞌睡。"
+    },
+    {
+      "content": "転石苔を生ぜず。",
+      "furigana": "[転石|てん|せき][苔|こけ]を[生|しょう]ぜず。",
+      "translation_zh_CN": "滾石不生苔。"
+    },
+    {
+      "content": "これは君の自転車？",
+      "furigana": "これは[君|きみ]の[自転車|じ|てん|しゃ]？",
+      "translation_zh_CN": "这是你的自行车吗？"
+    },
+    {
+      "content": "安全運転してね。",
+      "furigana": "[安全|あん|ぜん][運転|うん|てん]してね。",
+      "translation_zh_CN": "安全地駕駛。"
+    },
+    {
+      "content": "車は運転できるの？",
+      "furigana": "[車|くるま]は[運転|うん|てん]できるの？",
+      "translation_zh_CN": "你會駕車嗎？"
+    },
+    {
+      "content": "この自転車、誰の？",
+      "furigana": "この[自転車|じ|てん|しゃ]、[誰|だれ]の？",
+      "translation_zh_CN": "这辆自行车是谁的？"
+    },
+    {
+      "content": "自転車通勤です。",
+      "furigana": "[自転車|じ|てん|しゃ][通勤|つう|きん]です。",
+      "translation_zh_CN": "我骑自行车去工作。"
+    },
+    {
+      "content": "自転車が壊れた。",
+      "furigana": "[自転車|じ|てん|しゃ]が[壊|こわ]れた。",
+      "translation_zh_CN": "我的自行車壞了。"
+    },
+    {
+      "content": "運転したいです。",
+      "furigana": "[運転|うん|てん]したいです。",
+      "translation_zh_CN": "我想開車。"
+    },
+    {
+      "content": "自転車乗れますか？",
+      "furigana": "[自転車|じ|てん|しゃ][乗|の]れますか？",
+      "translation_zh_CN": "你會騎車嗎？"
+    },
+    {
+      "content": "彼は昨年転校した。",
+      "furigana": "[彼|かれ]は[昨年|さく|ねん][転校|てん|こう]した。",
+      "translation_zh_CN": "去年他转校了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "転々",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "転々",
+          "reading": "てんてん"
+        },
+        {
+          "word": "転転",
+          "reading": "てんてん"
+        }
+      ]
+    },
+    {
+      "slug": "転勤",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "転勤",
+          "reading": "てんきん"
+        }
+      ]
+    },
+    {
+      "slug": "転ぶ",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "転ぶ",
+          "reading": "ころぶ"
+        },
+        {
+          "word": "転ぶ",
+          "reading": "まろぶ"
+        }
+      ]
+    },
+    {
+      "slug": "転がる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "転がる",
+          "reading": "ころがる"
+        }
+      ]
+    },
+    {
+      "slug": "転がす",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "転がす",
+          "reading": "ころがす"
+        }
+      ]
+    },
+    {
+      "slug": "転落",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "転落",
+          "reading": "てんらく"
+        },
+        {
+          "word": "顛落",
+          "reading": "てんらく"
+        }
+      ]
+    },
+    {
+      "slug": "転じる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "転じる",
+          "reading": "てんじる"
+        }
+      ]
+    },
+    {
+      "slug": "転換",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "転換",
+          "reading": "てんかん"
+        }
+      ]
+    },
+    {
+      "slug": "転校",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "転校",
+          "reading": "てんこう"
+        }
+      ]
+    },
+    {
+      "slug": "転向",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転向",
+          "reading": "てんこう"
+        }
+      ]
+    },
+    {
+      "slug": "転送",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転送",
+          "reading": "てんそう"
+        }
+      ]
+    },
+    {
+      "slug": "転職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転職",
+          "reading": "てんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "転覆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転覆",
+          "reading": "てんぷく"
+        },
+        {
+          "word": "顛覆",
+          "reading": "てんぷく"
+        },
+        {
+          "word": "顚覆",
+          "reading": "てんぷく"
+        }
+      ]
+    },
+    {
+      "slug": "転倒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転倒",
+          "reading": "てんとう"
+        },
+        {
+          "word": "顛倒",
+          "reading": "てんとう"
+        }
+      ]
+    },
+    {
+      "slug": "転用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転用",
+          "reading": "てんよう"
+        }
+      ]
+    },
+    {
+      "slug": "転嫁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転嫁",
+          "reading": "てんか"
+        }
+      ]
+    },
+    {
+      "slug": "転げ落ちる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転げ落ちる",
+          "reading": "ころげおちる"
+        }
+      ]
+    }
   ]
 }

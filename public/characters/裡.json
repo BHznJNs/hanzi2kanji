@@ -52,5 +52,18 @@
       "startStroke": 5,
       "strokes": 7
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "裏面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏面",
+          "reading": "うらめん"
+        }
+      ]
+    }
   ]
 }

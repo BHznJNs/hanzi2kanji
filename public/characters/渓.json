@@ -83,5 +83,138 @@
       "startStroke": 8,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "渓流",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓流",
+          "reading": "けいりゅう"
+        },
+        {
+          "word": "谿流",
+          "reading": "けいりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "渓谷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓谷",
+          "reading": "けいこく"
+        },
+        {
+          "word": "谿谷",
+          "reading": "けいこく"
+        },
+        {
+          "word": "溪谷",
+          "reading": "けいこく"
+        }
+      ]
+    },
+    {
+      "slug": "渓泉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓泉",
+          "reading": "けいせん"
+        },
+        {
+          "word": "谿泉",
+          "reading": "けいせん"
+        }
+      ]
+    },
+    {
+      "slug": "渓声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓声",
+          "reading": "けいせい"
+        },
+        {
+          "word": "谿声",
+          "reading": "けいせい"
+        }
+      ]
+    },
+    {
+      "slug": "渓壑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓壑",
+          "reading": "けいがく"
+        },
+        {
+          "word": "谿壑",
+          "reading": "けいがく"
+        }
+      ]
+    },
+    {
+      "slug": "渓流釣り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓流釣り",
+          "reading": "けいりゅうづり"
+        }
+      ]
+    },
+    {
+      "slug": "渓澗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓澗",
+          "reading": "けいかん"
+        },
+        {
+          "word": "谿澗",
+          "reading": "けいかん"
+        }
+      ]
+    },
+    {
+      "slug": "渓水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓水",
+          "reading": "けいすい"
+        },
+        {
+          "word": "谿水",
+          "reading": "けいすい"
+        }
+      ]
+    },
+    {
+      "slug": "渓間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渓間",
+          "reading": "けいかん"
+        },
+        {
+          "word": "谿間",
+          "reading": "けいかん"
+        },
+        {
+          "word": "溪間",
+          "reading": "けいかん"
+        }
+      ]
+    }
   ]
 }

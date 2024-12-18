@@ -68,5 +68,316 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "鳩は飛んでいった。",
+      "furigana": "[鳩|ばと]は[飛|と]んでいった。",
+      "translation_zh_CN": "鸽子飞走了。"
+    },
+    {
+      "content": "鳩は平和の象徴です。",
+      "furigana": "[鳩|はと]は[平和|へい|わ]の[象徴|しょう|ちょう]です。",
+      "translation_zh_CN": "鸽子是和平的象征。"
+    },
+    {
+      "content": "トムは超速く飛ぶ鳩だ。",
+      "furigana": "トムは[超速|ちょう|はや]く[飛|と]ぶ[鳩|はと]だ。",
+      "translation_zh_CN": "汤姆是一羽飞行速度超快的鸽子。"
+    },
+    {
+      "content": "屋根に白い鳩がとまってるよ。",
+      "furigana": "[屋根|や|ね]に[白|しろ]い[鳩|はと]がとまってるよ。",
+      "translation_zh_CN": "屋顶上栖息着一只白鸽。"
+    },
+    {
+      "content": "白い鳩はきれいな鳥です。",
+      "furigana": "[白|しろ]い[鳩|ばと]はきれいな[鳥|とり]です。",
+      "translation_zh_CN": "白鸽是一种美丽的鸟。"
+    },
+    {
+      "content": "僕のお父さん、鳩飼ってるんだよ。",
+      "furigana": "[僕|ぼく]のお[父|とう]さん、[鳩飼|はと|か]ってるんだよ。",
+      "translation_zh_CN": "我父亲养鸽子。"
+    },
+    {
+      "content": "車が、鳩のフンだらけだよ。",
+      "furigana": "[車|くるま]が、[鳩|はと]のフンだらけだよ。",
+      "translation_zh_CN": "我的车里满是鸽子粪便。"
+    },
+    {
+      "content": "この鳩はサンフランシスコからニューヨークまで飛びました。",
+      "furigana": "この[鳩|ばと]はサンフランシスコからニューヨークまで[飛|と]びました。",
+      "translation_zh_CN": "这只鸽子从旧金山飞往纽约。"
+    },
+    {
+      "content": "俺の車、鳩のフンまみれだよ。",
+      "furigana": "[俺|おれ]の[車|くるま]、[鳩|はと]のフンまみれだよ。",
+      "translation_zh_CN": "我的车上沾满了鸽子粪便。"
+    },
+    {
+      "content": "その市の広場には鳩がたくさんいる。",
+      "furigana": "その[市|し]の[広場|ひろ|ば]には[鳩|ばと]がたくさんいる。",
+      "translation_zh_CN": "城市广场上有很多鸽子。"
+    },
+    {
+      "content": "屋根に白い鳩がとまってるよ。",
+      "furigana": "[屋根|や|ね]に[白|しろ]い[鳩|はと]がとまってるよ。",
+      "translation_zh_CN": "屋顶上有只白鸽。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鳩首",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩首",
+          "reading": "きゅうしゅ"
+        },
+        {
+          "word": "きゅう首",
+          "reading": "きゅうしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "糾合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糾合",
+          "reading": "きゅうごう"
+        },
+        {
+          "word": "鳩合",
+          "reading": "きゅうごう"
+        }
+      ]
+    },
+    {
+      "slug": "鳩座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩座",
+          "reading": "はとざ"
+        },
+        {
+          "word": "はと座",
+          "reading": "はとざ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩時計",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩時計",
+          "reading": "はとどけい"
+        },
+        {
+          "word": "ハト時計",
+          "reading": "はとどけい"
+        },
+        {
+          "word": "はと時計",
+          "reading": "はとどけい"
+        }
+      ]
+    },
+    {
+      "slug": "はと胸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩胸",
+          "reading": "はとむね"
+        },
+        {
+          "word": "ハト胸",
+          "reading": "はとむね"
+        },
+        {
+          "word": "はと胸",
+          "reading": "はとむね"
+        }
+      ]
+    },
+    {
+      "slug": "鳩ぽっぽ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩ぽっぽ",
+          "reading": "はとぽっぽ"
+        }
+      ]
+    },
+    {
+      "slug": "酢漿草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酢漿草",
+          "reading": "かたばみ"
+        },
+        {
+          "word": "酸漿草",
+          "reading": "かたばみ"
+        },
+        {
+          "word": "鳩酸草",
+          "reading": "かたばみ"
+        },
+        {
+          "word": "酢母草",
+          "reading": "かたばみ"
+        },
+        {
+          "word": "片喰",
+          "reading": "かたばみ"
+        },
+        {
+          "reading": "カタバミ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩目",
+          "reading": "はとめ"
+        },
+        {
+          "word": "はと目",
+          "reading": "はとめ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩首密議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩首密議",
+          "reading": "きゅうしゅみつぎ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩舎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩舎",
+          "reading": "きゅうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩信",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩信",
+          "reading": "きゅうしん"
+        }
+      ]
+    },
+    {
+      "slug": "鳩笛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩笛",
+          "reading": "はとぶえ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩小屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩小屋",
+          "reading": "はとごや"
+        }
+      ]
+    },
+    {
+      "slug": "鳩羽色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩羽色",
+          "reading": "はとばいろ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩首協議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩首協議",
+          "reading": "きゅうしゅきょうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "はと麦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "はと麦",
+          "reading": "はとむぎ"
+        },
+        {
+          "word": "鳩麦",
+          "reading": "はとむぎ"
+        },
+        {
+          "reading": "ハトムギ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩首謀議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩首謀議",
+          "reading": "きゅうしゅぼうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩首凝議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩首凝議",
+          "reading": "きゅうしゅぎょうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "鳩尾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鳩尾",
+          "reading": "みぞおち"
+        },
+        {
+          "word": "鳩尾",
+          "reading": "みずおち"
+        }
+      ]
+    }
   ]
 }

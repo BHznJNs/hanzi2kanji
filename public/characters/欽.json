@@ -51,5 +51,76 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "欽定英訳聖書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欽定英訳聖書",
+          "reading": "きんていえいやくせいしょ"
+        }
+      ]
+    },
+    {
+      "slug": "欽仰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欽仰",
+          "reading": "きんぎょう"
+        },
+        {
+          "word": "欽仰",
+          "reading": "きんこう"
+        },
+        {
+          "word": "欽仰",
+          "reading": "きんごう"
+        }
+      ]
+    },
+    {
+      "slug": "欽定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欽定",
+          "reading": "きんてい"
+        }
+      ]
+    },
+    {
+      "slug": "欽慕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欽慕",
+          "reading": "きんぼ"
+        }
+      ]
+    },
+    {
+      "slug": "欽定憲法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欽定憲法",
+          "reading": "きんていけんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "欽定訳聖書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欽定訳聖書",
+          "reading": "きんていやくせいしょ"
+        }
+      ]
+    }
   ]
 }

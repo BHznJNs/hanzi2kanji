@@ -78,5 +78,247 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "漢字の勉強中です。",
+      "furigana": "[漢字|かん|じ]の[勉強|べん|きょう][中|ちゅう]です。",
+      "translation_zh_CN": "我在学汉字。"
+    },
+    {
+      "content": "漢字はもう書けるよ。",
+      "furigana": "[漢字|かん|じ]はもう[書|か]けるよ。",
+      "translation_zh_CN": "我已經會寫漢字了。"
+    },
+    {
+      "content": "漢字は読むのが難しい。",
+      "furigana": "[漢字|かん|じ]は[読|よ]むのが[難|むずか]しい。",
+      "translation_zh_CN": "漢字很難讀。"
+    },
+    {
+      "content": "漢字はいくつありますか？",
+      "furigana": "[漢字|かん|じ]はいくつありますか？",
+      "translation_zh_CN": "汉字有多少个？"
+    },
+    {
+      "content": "漢字の勉強をしてます。",
+      "furigana": "[漢字|かん|じ]の[勉強|べん|きょう]をしてます。",
+      "translation_zh_CN": "我在学汉字。"
+    },
+    {
+      "content": "私は漢字を勉強しています。",
+      "furigana": "[私|わたし]は[漢字|かん|じ]を[勉強|べん|きょう]しています。",
+      "translation_zh_CN": "我在学汉字。"
+    },
+    {
+      "content": "この漢字はどういう意味ですか。",
+      "furigana": "この[漢字|かん|じ]はどういう[意味|い|み]ですか。",
+      "translation_zh_CN": "這個字的意思是什麼？"
+    },
+    {
+      "content": "彼女はこんな難しい漢字も読めます。",
+      "furigana": "[彼女|かの|じょ]はこんな[難|むずか]しい[漢字|かん|じ]も[読|よ]めます。",
+      "translation_zh_CN": "她甚至會讀這麼難的字。"
+    },
+    {
+      "content": "彼女は漢方薬を飲んだ。すると症状が和らいだ。",
+      "furigana": "[彼女|かの|じょ]は[漢方薬|かん|ぽう|やく]を[飲|の]んだ。すると[症状|しょう|じょう]が[和|やわ]らいだ。",
+      "translation_zh_CN": "她吃了中藥，減輕了她的症狀。"
+    },
+    {
+      "content": "漢文の試験で満点を取る生徒はほとんどいません。",
+      "furigana": "[漢文|かん|ぶん]の[試験|し|けん]で[満点|まん|てん]を[取|と]る[生徒|せい|と]はほとんどいません。",
+      "translation_zh_CN": "很少有学生能在古汉语考试上拿满分。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "漢字",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "漢字",
+          "reading": "かんじ"
+        }
+      ]
+    },
+    {
+      "slug": "漢方薬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢方薬",
+          "reading": "かんぽうやく"
+        },
+        {
+          "word": "韓方薬",
+          "reading": "かんぽうやく"
+        }
+      ]
+    },
+    {
+      "slug": "漢文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢文",
+          "reading": "かんぶん"
+        }
+      ]
+    },
+    {
+      "slug": "漢詩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢詩",
+          "reading": "かんし"
+        }
+      ]
+    },
+    {
+      "slug": "漢語",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "漢語",
+          "reading": "かんご"
+        }
+      ]
+    },
+    {
+      "slug": "漢和",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "漢和",
+          "reading": "かんわ"
+        }
+      ]
+    },
+    {
+      "slug": "漢方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢方",
+          "reading": "かんぽう"
+        },
+        {
+          "word": "漢法",
+          "reading": "かんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "漢籍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢籍",
+          "reading": "かんせき"
+        }
+      ]
+    },
+    {
+      "slug": "漢和辞典",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢和辞典",
+          "reading": "かんわじてん"
+        },
+        {
+          "word": "漢和字典",
+          "reading": "かんわじてん"
+        }
+      ]
+    },
+    {
+      "slug": "漢音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢音",
+          "reading": "かんおん"
+        }
+      ]
+    },
+    {
+      "slug": "漢民族",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢民族",
+          "reading": "かんみんぞく"
+        }
+      ]
+    },
+    {
+      "slug": "漢書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢書",
+          "reading": "かんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "漢奸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢奸",
+          "reading": "かんかん"
+        }
+      ]
+    },
+    {
+      "slug": "漢数字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢数字",
+          "reading": "かんすうじ"
+        }
+      ]
+    },
+    {
+      "slug": "漢学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢学",
+          "reading": "かんがく"
+        }
+      ]
+    },
+    {
+      "slug": "漢字文化圏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢字文化圏",
+          "reading": "かんじぶんかけん"
+        }
+      ]
+    },
+    {
+      "slug": "漢儒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漢儒",
+          "reading": "かんじゅ"
+        }
+      ]
+    }
   ]
 }

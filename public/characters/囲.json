@@ -118,5 +118,275 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "周囲に敵影ありません。",
+      "furigana": "[周囲|しゅう|い]に[敵|てき][影|かげ]ありません。",
+      "translation_zh_CN": "在我们的周围没有敌人的迹象。"
+    },
+    {
+      "content": "日本は海に囲まれている。",
+      "furigana": "[日本|に|ほん]は[海|うみ]に[囲|かこ]まれている。",
+      "translation_zh_CN": "日本被海环绕着。"
+    },
+    {
+      "content": "正解をまるで囲みなさい。",
+      "furigana": "[正解|せい|かい]をまるで[囲|かこ]みなさい。",
+      "translation_zh_CN": "請圈出正確答案。"
+    },
+    {
+      "content": "惑星は太陽の周囲を回転する。",
+      "furigana": "[惑星|わく|せい]は[太陽|たい|よう]の[周囲|しゅう|い]を[回転|かい|てん]する。",
+      "translation_zh_CN": "行星繞著太陽轉。"
+    },
+    {
+      "content": "あいにく周囲に誰もいなかった。",
+      "furigana": "あいにく[周囲|しゅう|い]に[誰|だれ]もいなかった。",
+      "translation_zh_CN": "很不幸，没有人在身边。"
+    },
+    {
+      "content": "庭は木のフェンスで囲まれていた。",
+      "furigana": "[庭|にわ]は[木|き]のフェンスで[囲|かこ]まれていた。",
+      "translation_zh_CN": "花园被木栅栏围了起来。"
+    },
+    {
+      "content": "庭園は木の柵で囲まれていました。",
+      "furigana": "[庭園|てい|えん]は[木|き]の[柵|さく]で[囲|かこ]まれていました。",
+      "translation_zh_CN": "花园被木栅栏围了起来。"
+    },
+    {
+      "content": "この場所には不思議な雰囲気がある。",
+      "furigana": "この[場所|ば|しょ]には[不思議|ふ|し|ぎ]な[雰囲気|ふん|い|き]がある。",
+      "translation_zh_CN": "这个地方的气氛很神秘。"
+    },
+    {
+      "content": "日本は四方を海に囲まれた国である。",
+      "furigana": "[日本|にっ|ぽん]は[四方|し|ほう]を[海|うみ]に[囲|かこ]まれた[国|くに]である。",
+      "translation_zh_CN": "日本是个四面环海的国家。"
+    },
+    {
+      "content": "これは私の想像の範囲を超えている。",
+      "furigana": "これは[私|わたし]の[想像|そう|ぞう]の[範囲|はん|い]を[超|こ]えている。",
+      "translation_zh_CN": "這超出了我的想像範圍。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "囲む",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "囲む",
+          "reading": "かこむ"
+        },
+        {
+          "word": "囲む",
+          "reading": "かごむ"
+        }
+      ]
+    },
+    {
+      "slug": "囲い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲い",
+          "reading": "かこい"
+        }
+      ]
+    },
+    {
+      "slug": "囲う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲う",
+          "reading": "かこう"
+        }
+      ]
+    },
+    {
+      "slug": "囲炉裏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲炉裏",
+          "reading": "いろり"
+        }
+      ]
+    },
+    {
+      "slug": "囲い込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲い込み",
+          "reading": "かこいこみ"
+        }
+      ]
+    },
+    {
+      "slug": "匿う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "匿う",
+          "reading": "かくまう"
+        },
+        {
+          "word": "匿まう",
+          "reading": "かくまう"
+        },
+        {
+          "word": "囲まう",
+          "reading": "かくまう"
+        }
+      ]
+    },
+    {
+      "slug": "囲碁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲碁",
+          "reading": "いご"
+        }
+      ]
+    },
+    {
+      "slug": "囲み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲み",
+          "reading": "かこみ"
+        }
+      ]
+    },
+    {
+      "slug": "囲繞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲繞",
+          "reading": "いじょう"
+        },
+        {
+          "word": "囲繞",
+          "reading": "いにょう"
+        },
+        {
+          "word": "囲にょう",
+          "reading": "いにょう"
+        }
+      ]
+    },
+    {
+      "slug": "囲い込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲い込む",
+          "reading": "かこいこむ"
+        }
+      ]
+    },
+    {
+      "slug": "囲壁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲壁",
+          "reading": "いへき"
+        }
+      ]
+    },
+    {
+      "slug": "囲郭村",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲郭村",
+          "reading": "いかくそん"
+        }
+      ]
+    },
+    {
+      "slug": "囲い者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲い者",
+          "reading": "かこいもの"
+        }
+      ]
+    },
+    {
+      "slug": "囲い女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲い女",
+          "reading": "かこいおんな"
+        },
+        {
+          "word": "囲い女",
+          "reading": "かこいめ"
+        }
+      ]
+    },
+    {
+      "slug": "囲み取材",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲み取材",
+          "reading": "かこみしゅざい"
+        }
+      ]
+    },
+    {
+      "slug": "囲障",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲障",
+          "reading": "いしょう"
+        }
+      ]
+    },
+    {
+      "slug": "囲み記事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲み記事",
+          "reading": "かこみきじ"
+        }
+      ]
+    },
+    {
+      "slug": "囲みを破る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲みを破る",
+          "reading": "かこみをやぶる"
+        }
+      ]
+    },
+    {
+      "slug": "囲みクラス",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "囲みクラス",
+          "reading": "かこみクラス"
+        }
+      ]
+    }
   ]
 }

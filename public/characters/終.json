@@ -79,5 +79,342 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "最近僕の義弟Ｙ砲兵少佐が、三年間の巴里駐在を終へて帰つて来た。数々の土産物を取巻いて、われわれはいろいろな土産話を聴いた。",
+      "furigana": "[最近僕|さい|きん|ぼく]の[義弟Ｙ砲兵少佐|ぎ|てい|わい|ほう|へい|しょう|さ]が、[三年間|さん|ねん|かん]の[巴里駐在|ぱ|り|ちゅう|ざい]を[終|おわり]へて[帰|き]つて[来|き]た。[数々|かずかず]の[土産物|みやげ||もの]を[取巻|とり|ま]いて、われわれはいろいろな[土産|みやげ][話|ばなし]を[聴|き]いた。",
+      "translation_zh_CN": "最近，我的姐夫炮兵Y少校在巴黎驻扎三年后回国。我们参观了众多的纪念品，聆听了各种纪念品的故事。"
+    },
+    {
+      "content": "休みは終わった。",
+      "furigana": "[休|やす]みは[終|お]わった。",
+      "translation_zh_CN": "休息结束了！"
+    },
+    {
+      "content": "戦いは終わった。",
+      "furigana": "[戦|たたか]いは[終|お]わった。",
+      "translation_zh_CN": "斗争结束了。"
+    },
+    {
+      "content": "終わったんですか？",
+      "furigana": "[終|お]わったんですか？",
+      "translation_zh_CN": "你做好了嗎?"
+    },
+    {
+      "content": "もう終わりです。",
+      "furigana": "もう[終|お]わりです。",
+      "translation_zh_CN": "時間到了。"
+    },
+    {
+      "content": "終電は何時ですか？",
+      "furigana": "[終電|しゅう|でん]は[何|なん][時|じ]ですか？",
+      "translation_zh_CN": "末班车是几点？"
+    },
+    {
+      "content": "宿題は終わったの？",
+      "furigana": "[宿題|しゅく|だい]は[終|お]わったの？",
+      "translation_zh_CN": "你做完作業了嗎？"
+    },
+    {
+      "content": "食べ終えなさい。",
+      "furigana": "[食|た]べ[終|お]えなさい。",
+      "translation_zh_CN": "把它吃掉。"
+    },
+    {
+      "content": "後期が終わった。",
+      "furigana": "[後期|こう|き]が[終|お]わった。",
+      "translation_zh_CN": "第二學期結束了。"
+    },
+    {
+      "content": "食べ終わったよ。",
+      "furigana": "[食|た]べ[終|お]わったよ。",
+      "translation_zh_CN": "我吃好饭了。"
+    },
+    {
+      "content": "仕事は終わったの？",
+      "furigana": "[仕事|し|ごと]は[終|お]わったの？",
+      "translation_zh_CN": "你把工作做完了沒有？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "終わり",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "終わり",
+          "reading": "おわり"
+        },
+        {
+          "word": "終り",
+          "reading": "おわり"
+        },
+        {
+          "word": "終",
+          "reading": "おわり"
+        }
+      ]
+    },
+    {
+      "slug": "終わる",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "終わる",
+          "reading": "おわる"
+        },
+        {
+          "word": "終る",
+          "reading": "おわる"
+        },
+        {
+          "word": "了る",
+          "reading": "おわる"
+        },
+        {
+          "word": "卒る",
+          "reading": "おわる"
+        },
+        {
+          "word": "畢る",
+          "reading": "おわる"
+        },
+        {
+          "word": "竟る",
+          "reading": "おわる"
+        }
+      ]
+    },
+    {
+      "slug": "終える",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "終える",
+          "reading": "おえる"
+        },
+        {
+          "word": "了える",
+          "reading": "おえる"
+        },
+        {
+          "word": "卒える",
+          "reading": "おえる"
+        }
+      ]
+    },
+    {
+      "slug": "仕舞う",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "仕舞う",
+          "reading": "しまう"
+        },
+        {
+          "word": "終う",
+          "reading": "しまう"
+        },
+        {
+          "word": "了う",
+          "reading": "しまう"
+        },
+        {
+          "word": "蔵う",
+          "reading": "しまう"
+        }
+      ]
+    },
+    {
+      "slug": "遂に",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "遂に",
+          "reading": "ついに"
+        },
+        {
+          "word": "終に",
+          "reading": "ついに"
+        },
+        {
+          "word": "竟に",
+          "reading": "ついに"
+        }
+      ]
+    },
+    {
+      "slug": "終了",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "終了",
+          "reading": "しゅうりょう"
+        }
+      ]
+    },
+    {
+      "slug": "終点",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "終点",
+          "reading": "しゅうてん"
+        }
+      ]
+    },
+    {
+      "slug": "終始",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "終始",
+          "reading": "しゅうし"
+        }
+      ]
+    },
+    {
+      "slug": "終日",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "終日",
+          "reading": "しゅうじつ"
+        }
+      ]
+    },
+    {
+      "slug": "終止符",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終止符",
+          "reading": "しゅうしふ"
+        }
+      ]
+    },
+    {
+      "slug": "終結",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終結",
+          "reading": "しゅうけつ"
+        }
+      ]
+    },
+    {
+      "slug": "終盤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終盤",
+          "reading": "しゅうばん"
+        }
+      ]
+    },
+    {
+      "slug": "終値",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終値",
+          "reading": "おわりね"
+        },
+        {
+          "word": "終わり値",
+          "reading": "おわりね"
+        },
+        {
+          "word": "終り値",
+          "reading": "おわりね"
+        }
+      ]
+    },
+    {
+      "slug": "終局",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終局",
+          "reading": "しゅうきょく"
+        }
+      ]
+    },
+    {
+      "slug": "終戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終戦",
+          "reading": "しゅうせん"
+        }
+      ]
+    },
+    {
+      "slug": "終電",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終電",
+          "reading": "しゅうでん"
+        }
+      ]
+    },
+    {
+      "slug": "終電車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終電車",
+          "reading": "しゅうでんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "終生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終生",
+          "reading": "しゅうせい"
+        },
+        {
+          "word": "終世",
+          "reading": "しゅうせい"
+        }
+      ]
+    },
+    {
+      "slug": "終演",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "終演",
+          "reading": "しゅうえん"
+        }
+      ]
+    }
   ]
 }

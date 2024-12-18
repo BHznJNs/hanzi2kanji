@@ -121,5 +121,222 @@
       "startStroke": 13,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "テキサス州の、縮尺25万分の1の地図が欲しいんですよ。",
+      "furigana": "テキサス[州|しゅう]の、[縮尺|しゅく|しゃく][25|にじゅうご][万|まん][分|ぶん]の[1|いち]の[地図|ち|ず]が[欲|ほ]しいんですよ。",
+      "translation_zh_CN": "我想要一张1比250000的得克萨斯州的地图。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "縮小",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "縮小",
+          "reading": "しゅくしょう"
+        }
+      ]
+    },
+    {
+      "slug": "縮む",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "縮む",
+          "reading": "ちぢむ"
+        },
+        {
+          "word": "縮む",
+          "reading": "ちじむ"
+        }
+      ]
+    },
+    {
+      "slug": "縮れる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "縮れる",
+          "reading": "ちぢれる"
+        }
+      ]
+    },
+    {
+      "slug": "縮尺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮尺",
+          "reading": "しゅくしゃく"
+        }
+      ]
+    },
+    {
+      "slug": "縮める",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "縮める",
+          "reading": "ちぢめる"
+        }
+      ]
+    },
+    {
+      "slug": "縮まる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "縮まる",
+          "reading": "ちぢまる"
+        }
+      ]
+    },
+    {
+      "slug": "縮み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮み",
+          "reading": "ちぢみ"
+        }
+      ]
+    },
+    {
+      "slug": "縮減",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮減",
+          "reading": "しゅくげん"
+        }
+      ]
+    },
+    {
+      "slug": "縮刷版",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮刷版",
+          "reading": "しゅくさつばん"
+        }
+      ]
+    },
+    {
+      "slug": "縮図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮図",
+          "reading": "しゅくず"
+        }
+      ]
+    },
+    {
+      "slug": "縮閉線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮閉線",
+          "reading": "しゅくへいせん"
+        }
+      ]
+    },
+    {
+      "slug": "縮退",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮退",
+          "reading": "しゅくたい"
+        }
+      ]
+    },
+    {
+      "slug": "縮瞳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮瞳",
+          "reading": "しゅくどう"
+        }
+      ]
+    },
+    {
+      "slug": "縮毛矯正",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮毛矯正",
+          "reading": "しゅくもうきょうせい"
+        }
+      ]
+    },
+    {
+      "slug": "縮かむ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮かむ",
+          "reading": "ちぢかむ"
+        }
+      ]
+    },
+    {
+      "slug": "縮れ毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮れ毛",
+          "reading": "ちぢれげ"
+        },
+        {
+          "word": "ちぢれ毛",
+          "reading": "ちぢれげ"
+        }
+      ]
+    },
+    {
+      "slug": "縮写",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮写",
+          "reading": "しゅくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "縮み織り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮み織り",
+          "reading": "ちぢみおり"
+        }
+      ]
+    },
+    {
+      "slug": "縮刷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縮刷",
+          "reading": "しゅくさつ"
+        }
+      ]
+    }
   ]
 }

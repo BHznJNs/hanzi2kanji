@@ -120,5 +120,74 @@
       "startStroke": 15,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "壇上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壇上",
+          "reading": "だんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "壇ノ浦の戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壇ノ浦の戦い",
+          "reading": "だんのうらのたたかい"
+        },
+        {
+          "word": "壇ノ浦の戦",
+          "reading": "だんのうらのたたかい"
+        }
+      ]
+    },
+    {
+      "slug": "壇ノ浦の合戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壇ノ浦の合戦",
+          "reading": "だんのうらのかっせん"
+        }
+      ]
+    },
+    {
+      "slug": "壇場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壇場",
+          "reading": "だんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "檀家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "檀家",
+          "reading": "だんか"
+        },
+        {
+          "word": "檀家",
+          "reading": "だんけ"
+        },
+        {
+          "word": "壇家",
+          "reading": "だんか"
+        },
+        {
+          "word": "壇家",
+          "reading": "だんけ"
+        }
+      ]
+    }
   ]
 }

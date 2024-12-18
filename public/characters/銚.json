@@ -68,5 +68,41 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "銚子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銚子",
+          "reading": "ちょうし"
+        }
+      ]
+    },
+    {
+      "slug": "銚釐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銚釐",
+          "reading": "ちろり"
+        },
+        {
+          "reading": "チロリ"
+        }
+      ]
+    },
+    {
+      "slug": "銚子電鉄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銚子電鉄",
+          "reading": "ちょうしでんてつ"
+        }
+      ]
+    }
   ]
 }

@@ -75,5 +75,234 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "子供が猫を撫でている。",
+      "furigana": "[子供|こ|ども]が[猫|ねこ]を[撫|な]でている。",
+      "translation_zh_CN": "孩子摸着猫。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "撫でる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "撫でる",
+          "reading": "なでる"
+        }
+      ]
+    },
+    {
+      "slug": "撫で付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫で付ける",
+          "reading": "なでつける"
+        },
+        {
+          "word": "撫でつける",
+          "reading": "なでつける"
+        }
+      ]
+    },
+    {
+      "slug": "撫子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫子",
+          "reading": "なでしこ"
+        },
+        {
+          "word": "瞿麦",
+          "reading": "なでしこ"
+        },
+        {
+          "reading": "ナデシコ"
+        }
+      ]
+    },
+    {
+      "slug": "撫ぜる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫ぜる",
+          "reading": "なぜる"
+        }
+      ]
+    },
+    {
+      "slug": "撫で斬り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なで斬り",
+          "reading": "なでぎり"
+        },
+        {
+          "word": "なで切り",
+          "reading": "なでぎり"
+        },
+        {
+          "word": "撫で斬り",
+          "reading": "なでぎり"
+        },
+        {
+          "word": "撫で切り",
+          "reading": "なでぎり"
+        }
+      ]
+    },
+    {
+      "slug": "撫で下ろす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫で下ろす",
+          "reading": "なでおろす"
+        },
+        {
+          "word": "撫で下す",
+          "reading": "なでおろす"
+        },
+        {
+          "word": "なで下ろす",
+          "reading": "なでおろす"
+        }
+      ]
+    },
+    {
+      "slug": "撫で付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫で付け",
+          "reading": "なでつけ"
+        },
+        {
+          "word": "撫でつけ",
+          "reading": "なでつけ"
+        }
+      ]
+    },
+    {
+      "slug": "撫育",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫育",
+          "reading": "ぶいく"
+        }
+      ]
+    },
+    {
+      "slug": "撫で上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫で上げる",
+          "reading": "なであげる"
+        },
+        {
+          "word": "なで上げる",
+          "reading": "なであげる"
+        }
+      ]
+    },
+    {
+      "slug": "撫で撫で",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫で撫で",
+          "reading": "なでなで"
+        },
+        {
+          "reading": "ナデナデ"
+        }
+      ]
+    },
+    {
+      "slug": "なで肩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なで肩",
+          "reading": "なでがた"
+        },
+        {
+          "word": "撫で肩",
+          "reading": "なでがた"
+        }
+      ]
+    },
+    {
+      "slug": "撫で付け髪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫で付け髪",
+          "reading": "なでつけがみ"
+        },
+        {
+          "word": "撫でつけ髪",
+          "reading": "なでつけがみ"
+        }
+      ]
+    },
+    {
+      "slug": "撫子ジャパン",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫子ジャパン",
+          "reading": "なでしこジャパン"
+        }
+      ]
+    },
+    {
+      "slug": "撫する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫する",
+          "reading": "ぶする"
+        }
+      ]
+    },
+    {
+      "slug": "撫でさする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫でさする",
+          "reading": "なでさする"
+        },
+        {
+          "word": "撫で摩る",
+          "reading": "なでさする"
+        }
+      ]
+    },
+    {
+      "slug": "撫で回す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撫で回す",
+          "reading": "なでまわす"
+        },
+        {
+          "word": "なで回す",
+          "reading": "なでまわす"
+        }
+      ]
+    }
   ]
 }

@@ -130,5 +130,172 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "懸け橋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸け橋",
+          "reading": "かけはし"
+        },
+        {
+          "word": "掛け橋",
+          "reading": "かけはし"
+        },
+        {
+          "word": "かけ橋",
+          "reading": "かけはし"
+        },
+        {
+          "word": "架け橋",
+          "reading": "かけはし"
+        },
+        {
+          "word": "懸橋",
+          "reading": "かけはし"
+        },
+        {
+          "word": "掛橋",
+          "reading": "かけはし"
+        },
+        {
+          "word": "梯",
+          "reading": "かけはし"
+        },
+        {
+          "word": "桟",
+          "reading": "かけはし"
+        }
+      ]
+    },
+    {
+      "slug": "桟橋",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "桟橋",
+          "reading": "さんばし"
+        },
+        {
+          "word": "桟橋",
+          "reading": "さんきょう"
+        },
+        {
+          "word": "棧橋",
+          "reading": "さんばし"
+        },
+        {
+          "word": "棧橋",
+          "reading": "さんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "桟敷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟敷",
+          "reading": "さじき"
+        },
+        {
+          "word": "桟敷",
+          "reading": "さんじき"
+        }
+      ]
+    },
+    {
+      "slug": "桟俵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟俵",
+          "reading": "さんだわら"
+        }
+      ]
+    },
+    {
+      "slug": "桟留縞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟留縞",
+          "reading": "さんとめじま"
+        },
+        {
+          "word": "サントメ縞",
+          "reading": "サントメじま"
+        }
+      ]
+    },
+    {
+      "slug": "桟瓦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟瓦",
+          "reading": "さんがわら"
+        }
+      ]
+    },
+    {
+      "slug": "桟唐戸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟唐戸",
+          "reading": "さんからど"
+        }
+      ]
+    },
+    {
+      "slug": "桟竹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟竹",
+          "reading": "えつりだけ"
+        }
+      ]
+    },
+    {
+      "slug": "桟道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟道",
+          "reading": "さんどう"
+        }
+      ]
+    },
+    {
+      "slug": "桟戸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟戸",
+          "reading": "さんど"
+        }
+      ]
+    },
+    {
+      "slug": "桟を打ち付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桟を打ち付ける",
+          "reading": "さんをうちつける"
+        },
+        {
+          "word": "桟を打ちつける",
+          "reading": "さんをうちつける"
+        }
+      ]
+    }
   ]
 }

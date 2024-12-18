@@ -79,5 +79,221 @@
       "startStroke": 10,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は才能のある若い監督だ。",
+      "furigana": "[彼|かれ]は[才能|さい|のう]のある[若|わか]い[監督|かん|とく]だ。",
+      "translation_zh_CN": "他是个富有才能的年轻导演。"
+    },
+    {
+      "content": "暴動が起こったとき、当直の監視員はたった１人だった。",
+      "furigana": "[暴動|ぼう|どう]が[起|お]こったとき、[当直|とう|ちょく]の[監視|かん|し][員|いん]はたった[１人|ひとり]だった。",
+      "translation_zh_CN": "暴動開始時只有一位監獄長值班。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "監督",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "監督",
+          "reading": "かんとく"
+        }
+      ]
+    },
+    {
+      "slug": "監視",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "監視",
+          "reading": "かんし"
+        }
+      ]
+    },
+    {
+      "slug": "監禁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監禁",
+          "reading": "かんきん"
+        }
+      ]
+    },
+    {
+      "slug": "監査",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監査",
+          "reading": "かんさ"
+        },
+        {
+          "word": "鑑査",
+          "reading": "かんさ"
+        }
+      ]
+    },
+    {
+      "slug": "監督者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監督者",
+          "reading": "かんとくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "監視員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監視員",
+          "reading": "かんしいん"
+        }
+      ]
+    },
+    {
+      "slug": "監査役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監査役",
+          "reading": "かんさやく"
+        }
+      ]
+    },
+    {
+      "slug": "監修",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監修",
+          "reading": "かんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "監察",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監察",
+          "reading": "かんさつ"
+        }
+      ]
+    },
+    {
+      "slug": "監獄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監獄",
+          "reading": "かんごく"
+        }
+      ]
+    },
+    {
+      "slug": "監理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監理",
+          "reading": "かんり"
+        },
+        {
+          "word": "幹理",
+          "reading": "かんり"
+        }
+      ]
+    },
+    {
+      "slug": "監訳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監訳",
+          "reading": "かんやく"
+        }
+      ]
+    },
+    {
+      "slug": "監察官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監察官",
+          "reading": "かんさつかん"
+        }
+      ]
+    },
+    {
+      "slug": "監事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監事",
+          "reading": "かんじ"
+        }
+      ]
+    },
+    {
+      "slug": "監察医",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監察医",
+          "reading": "かんさつい"
+        }
+      ]
+    },
+    {
+      "slug": "監査基準",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監査基準",
+          "reading": "かんさきじゅん"
+        }
+      ]
+    },
+    {
+      "slug": "監守人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監守人",
+          "reading": "かんしゅにん"
+        }
+      ]
+    },
+    {
+      "slug": "監査報告",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監査報告",
+          "reading": "かんさほうこく"
+        }
+      ]
+    },
+    {
+      "slug": "監査報告書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "監査報告書",
+          "reading": "かんさほうこくしょ"
+        }
+      ]
+    }
   ]
 }

@@ -79,5 +79,302 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "綴りを少し間違えただけです。",
+      "furigana": "[綴|つづ]りを[少|すこ]し[間違|ま|ちが]えただけです。",
+      "translation_zh_CN": "只是字有些拼錯而已。"
+    },
+    {
+      "content": "靜子が季節の移ろいを詩に綴りました。",
+      "furigana": "[靜子|しず|こ]が[季節|き|せつ]の[移|うつ]ろいを[詩|し]に[綴|つづ]りました。",
+      "translation_zh_CN": "志津子寫了一首關於季節變化的詩。"
+    },
+    {
+      "content": "あなたの苗字はどのように綴るのですか？",
+      "furigana": "あなたの[苗字|みょう|じ]はどのように[綴|つづ]るのですか？",
+      "translation_zh_CN": "你的姓怎麼拼？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "綴り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴り",
+          "reading": "つづり"
+        },
+        {
+          "word": "綴",
+          "reading": "つづり"
+        }
+      ]
+    },
+    {
+      "slug": "綴じる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "綴じる",
+          "reading": "とじる"
+        }
+      ]
+    },
+    {
+      "slug": "綴る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴る",
+          "reading": "つづる"
+        }
+      ]
+    },
+    {
+      "slug": "綴り字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴り字",
+          "reading": "つづりじ"
+        },
+        {
+          "word": "つづり字",
+          "reading": "つづりじ"
+        }
+      ]
+    },
+    {
+      "slug": "綴り方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴り方",
+          "reading": "つづりかた"
+        },
+        {
+          "word": "綴方",
+          "reading": "つづりかた"
+        },
+        {
+          "word": "つづり方",
+          "reading": "つづりかた"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ目",
+          "reading": "とじめ"
+        },
+        {
+          "word": "とじ目",
+          "reading": "とじめ"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ糸",
+          "reading": "とじいと"
+        },
+        {
+          "word": "綴糸",
+          "reading": "とじいと"
+        }
+      ]
+    },
+    {
+      "slug": "綴れ織り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴れ織り",
+          "reading": "つづれおり"
+        },
+        {
+          "word": "つづれ織り",
+          "reading": "つづれおり"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ蓋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ蓋",
+          "reading": "とじぶた"
+        }
+      ]
+    },
+    {
+      "slug": "綴れ錦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴れ錦",
+          "reading": "つづれにしき"
+        },
+        {
+          "word": "つづれ錦",
+          "reading": "つづれにしき"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ込み",
+          "reading": "とじこみ"
+        },
+        {
+          "word": "とじ込み",
+          "reading": "とじこみ"
+        },
+        {
+          "word": "綴込み",
+          "reading": "とじこみ"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ込み付録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ込み付録",
+          "reading": "とじこみふろく"
+        },
+        {
+          "word": "とじ込み付録",
+          "reading": "とじこみふろく"
+        },
+        {
+          "word": "とじこみ付録",
+          "reading": "とじこみふろく"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ暦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ暦",
+          "reading": "とじごよみ"
+        },
+        {
+          "word": "綴暦",
+          "reading": "とじごよみ"
+        }
+      ]
+    },
+    {
+      "slug": "閉じ込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ込む",
+          "reading": "とじこむ"
+        },
+        {
+          "word": "とじ込む",
+          "reading": "とじこむ"
+        },
+        {
+          "word": "綴込む",
+          "reading": "とじこむ"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ代",
+          "reading": "とじしろ"
+        }
+      ]
+    },
+    {
+      "slug": "綴字法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴字法",
+          "reading": "ていじほう"
+        }
+      ]
+    },
+    {
+      "slug": "綴字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴字",
+          "reading": "ていじ"
+        },
+        {
+          "word": "綴字",
+          "reading": "てつじ"
+        },
+        {
+          "word": "綴字",
+          "reading": "せつじ"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ針",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "とじ針",
+          "reading": "とじばり"
+        },
+        {
+          "word": "綴じ針",
+          "reading": "とじばり"
+        }
+      ]
+    },
+    {
+      "slug": "綴じ本",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴じ本",
+          "reading": "とじほん"
+        }
+      ]
+    },
+    {
+      "slug": "綴り合わせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綴り合わせる",
+          "reading": "つづりあわせる"
+        },
+        {
+          "word": "綴り合せる",
+          "reading": "つづりあわせる"
+        }
+      ]
+    }
   ]
 }

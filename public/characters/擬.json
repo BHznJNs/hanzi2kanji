@@ -120,5 +120,273 @@
       "startStroke": 15,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "創造説は擬似科学だ。",
+      "furigana": "[創造|そう|ぞう][説|せつ]は[擬似|ぎ|じ][科学|か|がく]だ。",
+      "translation_zh_CN": "创造主义是一种伪科学。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "擬き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬き",
+          "reading": "もどき"
+        },
+        {
+          "word": "擬",
+          "reading": "もどき"
+        },
+        {
+          "word": "抵牾",
+          "reading": "もどき"
+        },
+        {
+          "word": "牴牾",
+          "reading": "もどき"
+        }
+      ]
+    },
+    {
+      "slug": "擬声語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬声語",
+          "reading": "ぎせいご"
+        }
+      ]
+    },
+    {
+      "slug": "疑陽性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑陽性",
+          "reading": "ぎようせい"
+        },
+        {
+          "word": "擬陽性",
+          "reading": "ぎようせい"
+        }
+      ]
+    },
+    {
+      "slug": "偽装",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽装",
+          "reading": "ぎそう"
+        },
+        {
+          "word": "擬装",
+          "reading": "ぎそう"
+        }
+      ]
+    },
+    {
+      "slug": "疑似",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似",
+          "reading": "ぎじ"
+        },
+        {
+          "word": "擬似",
+          "reading": "ぎじ"
+        }
+      ]
+    },
+    {
+      "slug": "擬人観",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬人観",
+          "reading": "ぎじんかん"
+        }
+      ]
+    },
+    {
+      "slug": "蟹虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蟹虫",
+          "reading": "かにむし"
+        },
+        {
+          "word": "擬蠍",
+          "reading": "かにむし"
+        },
+        {
+          "reading": "カニムシ"
+        }
+      ]
+    },
+    {
+      "slug": "擬螳螂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬螳螂",
+          "reading": "かまきりもどき"
+        },
+        {
+          "word": "蟷螂擬",
+          "reading": "かまきりもどき"
+        },
+        {
+          "reading": "カマキリモドキ"
+        }
+      ]
+    },
+    {
+      "slug": "偽薬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽薬",
+          "reading": "ぎやく"
+        },
+        {
+          "word": "擬薬",
+          "reading": "ぎやく"
+        }
+      ]
+    },
+    {
+      "slug": "擬死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬死",
+          "reading": "ぎし"
+        }
+      ]
+    },
+    {
+      "slug": "擬態",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬態",
+          "reading": "ぎたい"
+        }
+      ]
+    },
+    {
+      "slug": "擬人法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬人法",
+          "reading": "ぎしんほう"
+        },
+        {
+          "word": "擬人法",
+          "reading": "ぎじんほう"
+        }
+      ]
+    },
+    {
+      "slug": "擬似乱数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬似乱数",
+          "reading": "ぎじらんすう"
+        },
+        {
+          "word": "疑似乱数",
+          "reading": "ぎじらんすう"
+        }
+      ]
+    },
+    {
+      "slug": "白蟻擬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "白蟻擬",
+          "reading": "しろありもどき"
+        },
+        {
+          "word": "擬白蟻",
+          "reading": "しろありもどき"
+        },
+        {
+          "reading": "シロアリモドキ"
+        }
+      ]
+    },
+    {
+      "slug": "擬制",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬制",
+          "reading": "ぎせい"
+        }
+      ]
+    },
+    {
+      "slug": "疑似科学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "疑似科学",
+          "reading": "ぎじかがく"
+        },
+        {
+          "word": "擬似科学",
+          "reading": "ぎじかがく"
+        }
+      ]
+    },
+    {
+      "slug": "擬似乱数生成器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬似乱数生成器",
+          "reading": "ぎじらんすうせいせいき"
+        }
+      ]
+    },
+    {
+      "slug": "紛い物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紛い物",
+          "reading": "まがいもの"
+        },
+        {
+          "word": "擬い物",
+          "reading": "まがいもの"
+        },
+        {
+          "word": "まがい物",
+          "reading": "まがいもの"
+        }
+      ]
+    },
+    {
+      "slug": "擬する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擬する",
+          "reading": "ぎする"
+        }
+      ]
+    }
   ]
 }

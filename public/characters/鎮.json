@@ -94,5 +94,218 @@
       "startStroke": 16,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "静まる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "静まる",
+          "reading": "しずまる"
+        },
+        {
+          "word": "鎮まる",
+          "reading": "しずまる"
+        }
+      ]
+    },
+    {
+      "slug": "鎮痛剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮痛剤",
+          "reading": "ちんつうざい"
+        }
+      ]
+    },
+    {
+      "slug": "鎮圧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮圧",
+          "reading": "ちんあつ"
+        }
+      ]
+    },
+    {
+      "slug": "静める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "静める",
+          "reading": "しずめる"
+        },
+        {
+          "word": "鎮める",
+          "reading": "しずめる"
+        }
+      ]
+    },
+    {
+      "slug": "鎮火",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮火",
+          "reading": "ちんか"
+        }
+      ]
+    },
+    {
+      "slug": "鎮静",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮静",
+          "reading": "ちんせい"
+        }
+      ]
+    },
+    {
+      "slug": "鎮静剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮静剤",
+          "reading": "ちんせいざい"
+        }
+      ]
+    },
+    {
+      "slug": "鎮魂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮魂",
+          "reading": "ちんこん"
+        },
+        {
+          "word": "鎮魂",
+          "reading": "たましずめ"
+        }
+      ]
+    },
+    {
+      "slug": "鎮座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮座",
+          "reading": "ちんざ"
+        }
+      ]
+    },
+    {
+      "slug": "鎮定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮定",
+          "reading": "ちんてい"
+        }
+      ]
+    },
+    {
+      "slug": "鎮守",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮守",
+          "reading": "ちんじゅ"
+        },
+        {
+          "word": "鎮主",
+          "reading": "ちんじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "鎮め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮め",
+          "reading": "しずめ"
+        }
+      ]
+    },
+    {
+      "slug": "鎮守府",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮守府",
+          "reading": "ちんじゅふ"
+        }
+      ]
+    },
+    {
+      "slug": "鎮壇具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮壇具",
+          "reading": "ちんだんぐ"
+        }
+      ]
+    },
+    {
+      "slug": "鎮子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮子",
+          "reading": "ちんし"
+        },
+        {
+          "word": "鎮子",
+          "reading": "ちんす"
+        },
+        {
+          "word": "鎮子",
+          "reading": "ちんじ"
+        }
+      ]
+    },
+    {
+      "slug": "鎮守社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮守社",
+          "reading": "ちんじゅしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "鎮台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮台",
+          "reading": "ちんだい"
+        }
+      ]
+    },
+    {
+      "slug": "鎮守の杜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鎮守の杜",
+          "reading": "ちんじゅのもり"
+        },
+        {
+          "word": "鎮守の森",
+          "reading": "ちんじゅのもり"
+        }
+      ]
+    }
   ]
 }

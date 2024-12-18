@@ -93,5 +93,98 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "歌う",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "歌う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唄う",
+          "reading": "うたう"
+        },
+        {
+          "word": "詠う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唱う",
+          "reading": "うたう"
+        }
+      ]
+    },
+    {
+      "slug": "うたい文句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うたい文句",
+          "reading": "うたいもんく"
+        },
+        {
+          "word": "謳い文句",
+          "reading": "うたいもんく"
+        },
+        {
+          "word": "歌い文句",
+          "reading": "うたいもんく"
+        }
+      ]
+    },
+    {
+      "slug": "謡曲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謡曲",
+          "reading": "ようきょく"
+        }
+      ]
+    },
+    {
+      "slug": "謡物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謡物",
+          "reading": "うたいもの"
+        },
+        {
+          "word": "謡い物",
+          "reading": "うたいもの"
+        },
+        {
+          "word": "歌い物",
+          "reading": "うたいもの"
+        }
+      ]
+    },
+    {
+      "slug": "謡う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謡う",
+          "reading": "うたう"
+        }
+      ]
+    },
+    {
+      "slug": "謡を謡う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謡を謡う",
+          "reading": "うたいをうたう"
+        }
+      ]
+    }
   ]
 }

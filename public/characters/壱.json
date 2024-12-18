@@ -62,5 +62,112 @@
       "startStroke": 5,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "それは壱万円と計算されている。",
+      "furigana": "それは[壱万円|いち|まん|えん]と[計算|けい|さん]されている。",
+      "translation_zh_CN": "算下来是10000日元。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "百万",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "１００万",
+          "reading": "ひゃくまん"
+        },
+        {
+          "word": "百万",
+          "reading": "ひゃくまん"
+        },
+        {
+          "word": "１００００００",
+          "reading": "ひゃくまん"
+        },
+        {
+          "word": "壱百萬",
+          "reading": "ひゃくまん"
+        }
+      ]
+    },
+    {
+      "slug": "十万",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "１０万",
+          "reading": "じゅうまん"
+        },
+        {
+          "word": "十万",
+          "reading": "じゅうまん"
+        },
+        {
+          "word": "１０００００",
+          "reading": "じゅうまん"
+        },
+        {
+          "word": "一〇〇〇〇〇",
+          "reading": "じゅうまん"
+        },
+        {
+          "word": "壱拾萬",
+          "reading": "じゅうまん"
+        },
+        {
+          "word": "拾万",
+          "reading": "じゅうまん"
+        },
+        {
+          "word": "拾萬",
+          "reading": "じゅうまん"
+        }
+      ]
+    },
+    {
+      "slug": "一万円",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "一万円",
+          "reading": "いちまんえん"
+        },
+        {
+          "word": "壱万円",
+          "reading": "いちまんえん"
+        },
+        {
+          "word": "１万円",
+          "reading": "いちまんえん"
+        }
+      ]
+    },
+    {
+      "slug": "壱越",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壱越",
+          "reading": "いちこつ"
+        }
+      ]
+    },
+    {
+      "slug": "壱越調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壱越調",
+          "reading": "いちこつちょう"
+        },
+        {
+          "word": "壱越調",
+          "reading": "いちこちちょう"
+        }
+      ]
+    }
   ]
 }

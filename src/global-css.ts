@@ -47,22 +47,23 @@ export const normalBtnStyles = css`
 
 export const actionBtnStyles = css`
   .action-btn {
-    padding: 0.4rem 0.6rem;
-    font-size: 0.875rem;
+    padding: .4rem .6rem;
+    font-size: .875rem;
     background-color: var(--action-btn-bg-color);
     color: var(--default-tx-color);
     cursor: pointer;
     border: none;
-    border-radius: 0.375rem;
+    border-radius: .375rem;
     user-select: none;
     text-decoration: none;
-    transition: background-color 0.2s ease, color 0.2s ease;
+    transition: background-color .2s,
+                color .2s;
   }
   .action-btn:hover {
     background-color: var(--action-btn-hovered-bg-color);
   }
   .action-btn:disabled {
-    opacity: 0.5;
+    opacity: .5;
     cursor: not-allowed;
   }
   .action-btn:focus-visible {

@@ -67,5 +67,74 @@
       "startStroke": 13,
       "strokes": 9
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "饗宴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "饗宴",
+          "reading": "きょうえん"
+        },
+        {
+          "word": "供宴",
+          "reading": "きょうえん"
+        },
+        {
+          "word": "享宴",
+          "reading": "きょうえん"
+        }
+      ]
+    },
+    {
+      "slug": "饗応",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "饗応",
+          "reading": "きょうおう"
+        },
+        {
+          "word": "供応",
+          "reading": "きょうおう"
+        }
+      ]
+    },
+    {
+      "slug": "饗する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "饗する",
+          "reading": "きょうする"
+        }
+      ]
+    },
+    {
+      "slug": "饗設け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "饗設け",
+          "reading": "あるじもうけ"
+        },
+        {
+          "word": "饗設",
+          "reading": "あるじもうけ"
+        }
+      ]
+    },
+    {
+      "slug": "饗す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "饗す",
+          "reading": "きょうす"
+        }
+      ]
+    }
   ]
 }

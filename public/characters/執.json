@@ -116,5 +116,295 @@
       "startStroke": 10,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は原案に固執した。",
+      "furigana": "[彼|かれ]は[原案|げん|あん]に[固執|こ|しつ]した。",
+      "translation_zh_CN": "他堅持原來的計畫。"
+    },
+    {
+      "content": "執事はスミス夫妻の到着を告げた。",
+      "furigana": "[執事|しつ|じ]はスミス[夫妻|ふ|さい]の[到着|とう|ちゃく]を[告|つ]げた。",
+      "translation_zh_CN": "男管家宣佈史密斯先生和夫人駕到。"
+    },
+    {
+      "content": "彼は私に迅速な回答を執拗に求めた。",
+      "furigana": "[彼|かれ]は[私|わたし]に[迅速|じん|そく]な[回答|かい|とう]を[執拗|しつ|よう]に[求|もと]めた。",
+      "translation_zh_CN": "他要求我盡快回覆。"
+    },
+    {
+      "content": "トムは30冊以上の本を執筆している。",
+      "furigana": "トムは[3|さん][0|じゅっ][冊|さつ][以上|い|じょう]の[本|ほん]を[執筆|しっ|ぴつ]している。",
+      "translation_zh_CN": "汤姆大概已经写了三十多本书了。"
+    },
+    {
+      "content": "その結婚式は17世紀建立の教会で執り行われます。",
+      "furigana": "その[結婚式|けっ|こん|しき]は[1|][7|][世紀|せい|き][建立|こん|りゅう]の[教会|きょう|かい]で[執|と]り[行|おこな]われます。",
+      "translation_zh_CN": "婚禮會在一座十七世紀的教堂裏舉行。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "執着",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "執着",
+          "reading": "しゅうちゃく"
+        },
+        {
+          "word": "執着",
+          "reading": "しゅうじゃく"
+        },
+        {
+          "word": "執著",
+          "reading": "しゅうちゃく"
+        },
+        {
+          "word": "執著",
+          "reading": "しゅうじゃく"
+        }
+      ]
+    },
+    {
+      "slug": "執筆",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "執筆",
+          "reading": "しっぴつ"
+        }
+      ]
+    },
+    {
+      "slug": "しつこい",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "執拗い",
+          "reading": "しつこい"
+        },
+        {
+          "reading": "しつっこい"
+        }
+      ]
+    },
+    {
+      "slug": "執行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執行",
+          "reading": "しっこう"
+        },
+        {
+          "word": "執行",
+          "reading": "しゅぎょう"
+        },
+        {
+          "word": "執行",
+          "reading": "しゅうぎょう"
+        },
+        {
+          "word": "執行",
+          "reading": "しぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "執行部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執行部",
+          "reading": "しっこうぶ"
+        }
+      ]
+    },
+    {
+      "slug": "取り持つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "取り持つ",
+          "reading": "とりもつ"
+        },
+        {
+          "word": "取持つ",
+          "reading": "とりもつ"
+        },
+        {
+          "word": "執り持つ",
+          "reading": "とりもつ"
+        },
+        {
+          "word": "執持つ",
+          "reading": "とりもつ"
+        }
+      ]
+    },
+    {
+      "slug": "執拗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執拗",
+          "reading": "しつよう"
+        },
+        {
+          "word": "執よう",
+          "reading": "しつよう"
+        },
+        {
+          "word": "執拗",
+          "reading": "しつおう"
+        }
+      ]
+    },
+    {
+      "slug": "執り行う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執り行う",
+          "reading": "とりおこなう"
+        },
+        {
+          "word": "とり行う",
+          "reading": "とりおこなう"
+        },
+        {
+          "word": "執り行なう",
+          "reading": "とりおこなう"
+        }
+      ]
+    },
+    {
+      "slug": "執着心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執着心",
+          "reading": "しゅうちゃくしん"
+        }
+      ]
+    },
+    {
+      "slug": "執念深い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執念深い",
+          "reading": "しゅうねんぶかい"
+        }
+      ]
+    },
+    {
+      "slug": "執務中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執務中",
+          "reading": "しつむちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "取りなす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "取りなす",
+          "reading": "とりなす"
+        },
+        {
+          "word": "取り成す",
+          "reading": "とりなす"
+        },
+        {
+          "word": "執り成す",
+          "reading": "とりなす"
+        },
+        {
+          "word": "取成す",
+          "reading": "とりなす"
+        },
+        {
+          "word": "執成す",
+          "reading": "とりなす"
+        },
+        {
+          "word": "執りなす",
+          "reading": "とりなす"
+        }
+      ]
+    },
+    {
+      "slug": "執務室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執務室",
+          "reading": "しつむしつ"
+        }
+      ]
+    },
+    {
+      "slug": "執行猶予",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執行猶予",
+          "reading": "しっこうゆうよ"
+        }
+      ]
+    },
+    {
+      "slug": "執念",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執念",
+          "reading": "しゅうねん"
+        }
+      ]
+    },
+    {
+      "slug": "執行委員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執行委員",
+          "reading": "しっこういいん"
+        }
+      ]
+    },
+    {
+      "slug": "執務",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執務",
+          "reading": "しつむ"
+        }
+      ]
+    },
+    {
+      "slug": "執る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "執る",
+          "reading": "とる"
+        }
+      ]
+    }
   ]
 }

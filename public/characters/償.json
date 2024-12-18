@@ -117,5 +117,96 @@
       "startStroke": 15,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "償い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "償い",
+          "reading": "つぐない"
+        }
+      ]
+    },
+    {
+      "slug": "償還",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "償還",
+          "reading": "しょうかん"
+        }
+      ]
+    },
+    {
+      "slug": "償う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "償う",
+          "reading": "つぐなう"
+        },
+        {
+          "word": "償う",
+          "reading": "つぐのう"
+        }
+      ]
+    },
+    {
+      "slug": "償却",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "償却",
+          "reading": "しょうきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "償金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "償金",
+          "reading": "しょうきん"
+        }
+      ]
+    },
+    {
+      "slug": "償還期間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "償還期間",
+          "reading": "しょうかんきかん"
+        }
+      ]
+    },
+    {
+      "slug": "償還義務者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "償還義務者",
+          "reading": "しょうかんぎむしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "賞金を懸ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賞金をかける",
+          "reading": "しょうきんをかける"
+        },
+        {
+          "word": "賞金を懸ける",
+          "reading": "しょうきんをかける"
+        }
+      ]
+    }
   ]
 }

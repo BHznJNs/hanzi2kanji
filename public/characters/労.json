@@ -38,7 +38,7 @@
         "labeur",
         "remerciement pour",
         "récompense pour",
-        "être plein d\u0027attentions",
+        "être plein d'attentions",
         "soucis"
       ]
     },
@@ -76,6 +76,279 @@
       "radical": "力",
       "startStroke": 5,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "労なくして益なし。",
+      "furigana": "[労|ろう]なくして[益|えき]なし。",
+      "translation_zh_CN": "不努力就没有利润。"
+    },
+    {
+      "content": "彼は労をいとわず私を助けてくれた。",
+      "furigana": "[彼|かれ]は[労|ろう]をいとわず[私|わたし]を[助|たす]けてくれた。",
+      "translation_zh_CN": "他毫不费力地帮助了我。"
+    },
+    {
+      "content": "彼女は彼らのために労をいとわず家を見つけてやった。",
+      "furigana": "[彼女|かの|じょ]は[彼|かれ]らのために[労|ろう]をいとわず[家|いえ]を[見|み]つけてやった。",
+      "translation_zh_CN": "她竭尽全力为他们寻找家园。"
+    },
+    {
+      "content": "ご苦労様でした。",
+      "furigana": "ご[苦労|く|ろう][様|さま]でした。",
+      "translation_zh_CN": "谢谢您的帮助。"
+    },
+    {
+      "content": "労なくして益なし。",
+      "furigana": "[労|ろう]なくして[益|えき]なし。",
+      "translation_zh_CN": "一分耕耘，一分收穫。"
+    },
+    {
+      "content": "全労働者よ、団結せよ！",
+      "furigana": "[全|ぜん][労働|ろう|どう][者|しゃ]よ、[団結|だん|けつ]せよ！",
+      "translation_zh_CN": "全世界无产者，联合起来！"
+    },
+    {
+      "content": "万国の労働者よ。団結せよ！",
+      "furigana": "[万国|ばん|こく]の[労働|ろう|どう][者|しゃ]よ。[団結|だん|けつ]せよ！",
+      "translation_zh_CN": "全世界无产者，联合起来！"
+    },
+    {
+      "content": "万国の労働者よ、団結せよ！",
+      "furigana": "[万国|ばん|こく]の[労働|ろう|どう][者|しゃ]よ、[団結|だん|けつ]せよ！",
+      "translation_zh_CN": "全世界无产者，联合起来！"
+    },
+    {
+      "content": "労働者達はストライキ中です。",
+      "furigana": "[労働|ろう|どう][者|しゃ][達|たち]はストライキ[中|ちゅう]です。",
+      "translation_zh_CN": "工人罢工。"
+    },
+    {
+      "content": "労働者の多くは飢えで死んだ。",
+      "furigana": "[労働|ろう|どう][者|しゃ]の[多|おお]くは[飢|う]えで[死|し]んだ。",
+      "translation_zh_CN": "许多工人死于饥饿。"
+    },
+    {
+      "content": "この問題を解くのに苦労した。",
+      "furigana": "この[問題|もん|だい]を[解|と]くのに[苦労|く|ろう]した。",
+      "translation_zh_CN": "我在解決這個問題上有困難。"
+    },
+    {
+      "content": "私は肉体労働には向いていない。",
+      "furigana": "[私|わたし]は[肉体|にく|たい][労働|ろう|どう]には[向|む]いていない。",
+      "translation_zh_CN": "我不能做體力勞動。"
+    },
+    {
+      "content": "外国人労働者に偏見は持っていません。",
+      "furigana": "[外国|がい|こく][人|じん][労働|ろう|どう][者|しゃ]に[偏見|へん|けん]は[持|も]っていません。",
+      "translation_zh_CN": "我对外籍员工没有偏见。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "労働",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "労働",
+          "reading": "ろうどう"
+        },
+        {
+          "word": "労動",
+          "reading": "ろうどう"
+        }
+      ]
+    },
+    {
+      "slug": "労力",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "労力",
+          "reading": "ろうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "労働組合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働組合",
+          "reading": "ろうどうくみあい"
+        }
+      ]
+    },
+    {
+      "slug": "労働基準法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働基準法",
+          "reading": "ろうどうきじゅんほう"
+        }
+      ]
+    },
+    {
+      "slug": "労働力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働力",
+          "reading": "ろうどうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "労働争議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働争議",
+          "reading": "ろうどうそうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "労働者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働者",
+          "reading": "ろうどうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "労働条件",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働条件",
+          "reading": "ろうどうじょうけん"
+        }
+      ]
+    },
+    {
+      "slug": "労使",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労使",
+          "reading": "ろうし"
+        }
+      ]
+    },
+    {
+      "slug": "労務",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労務",
+          "reading": "ろうむ"
+        }
+      ]
+    },
+    {
+      "slug": "労働党",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働党",
+          "reading": "ろうどうとう"
+        }
+      ]
+    },
+    {
+      "slug": "労る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "労る",
+          "reading": "いたわる"
+        },
+        {
+          "word": "労わる",
+          "reading": "いたわる"
+        }
+      ]
+    },
+    {
+      "slug": "労苦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労苦",
+          "reading": "ろうく"
+        }
+      ]
+    },
+    {
+      "slug": "労働時間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働時間",
+          "reading": "ろうどうじかん"
+        }
+      ]
+    },
+    {
+      "slug": "労働者階級",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働者階級",
+          "reading": "ろうどうしゃかいきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "労働問題",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働問題",
+          "reading": "ろうどうもんだい"
+        }
+      ]
+    },
+    {
+      "slug": "労働力不足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働力不足",
+          "reading": "ろうどうりょくぶそく"
+        }
+      ]
+    },
+    {
+      "slug": "労働市場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働市場",
+          "reading": "ろうどうしじょう"
+        }
+      ]
+    },
+    {
+      "slug": "労働集約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "労働集約",
+          "reading": "ろうどうしゅうやく"
+        }
+      ]
     }
   ]
 }

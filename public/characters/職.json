@@ -126,5 +126,305 @@
       "strokes": 1,
       "part": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は職を失ってしまった。",
+      "furigana": "[彼|かれ]は[職|しょく]を[失|うしな]ってしまった。",
+      "translation_zh_CN": "他失业了。"
+    },
+    {
+      "content": "彼は職を探している。",
+      "furigana": "[彼|かれ]は[職|しょく]を[探|さが]している。",
+      "translation_zh_CN": "他正在找工作。"
+    },
+    {
+      "content": "彼は職を求めている。",
+      "furigana": "[彼|かれ]は[職|しょく]を[求|もと]めている。",
+      "translation_zh_CN": "他正在找工作。"
+    },
+    {
+      "content": "職に就けてよかったな！",
+      "furigana": "[職|しょく]に[就|つ]けてよかったな！",
+      "translation_zh_CN": "我很高兴我得到了这份工作！"
+    },
+    {
+      "content": "彼はよい職を探していた。",
+      "furigana": "[彼|かれ]はよい[職|しょく]を[探|さが]していた。",
+      "translation_zh_CN": "他正在寻找一份好工作。"
+    },
+    {
+      "content": "彼に職を見つけてやった。",
+      "furigana": "[彼|かれ]に[職|しょく]を[見|み]つけてやった。",
+      "translation_zh_CN": "我给他找到了一份工作。"
+    },
+    {
+      "content": "彼は新しい職を探し求めている。",
+      "furigana": "[彼|かれ]は[新|あたら]しい[職|しょく]を[探|さが]し[求|もと]めている。",
+      "translation_zh_CN": "他正在寻找新工作。"
+    },
+    {
+      "content": "職探しはどうなったの？",
+      "furigana": "[職探|しょく|さが]しはどうなったの？",
+      "translation_zh_CN": "你的求职进展如何？"
+    },
+    {
+      "content": "トムはついに職を得た。",
+      "furigana": "トムはついに[職|しょく]を[得|え]た。",
+      "translation_zh_CN": "汤姆终于找到了工作。"
+    },
+    {
+      "content": "私は職を変えようと考えた。",
+      "furigana": "[私|わたし]は[職|しょく]を[変|か]えようと[考|かんが]えた。",
+      "translation_zh_CN": "我想过换工作。"
+    },
+    {
+      "content": "トムは求職中だ。",
+      "furigana": "トムは[求職|きゅう|しょく][中|ちゅう]だ。",
+      "translation_zh_CN": "Tom正在找工作。"
+    },
+    {
+      "content": "彼の職業は医師だ。",
+      "furigana": "[彼|かれ]の[職業|しょく|ぎょう]は[医師|い|し]だ。",
+      "translation_zh_CN": "他的职业是医生。"
+    },
+    {
+      "content": "ご職業は何ですか。",
+      "furigana": "ご[職業|しょく|ぎょう]は[何|なん]ですか。",
+      "translation_zh_CN": "你的職業是什麼?"
+    },
+    {
+      "content": "父は６５歳で退職した。",
+      "furigana": "[父|ちち]は[６５|ろくじゅうご][歳|さい]で[退職|たい|しょく]した。",
+      "translation_zh_CN": "我父親在六十五歲時退休。"
+    },
+    {
+      "content": "彼は職務怠慢だった。",
+      "furigana": "[彼|かれ]は[職務|しょく|む][怠慢|たい|まん]だった。",
+      "translation_zh_CN": "他怠忽職守了。"
+    },
+    {
+      "content": "彼の職業は医者です。",
+      "furigana": "[彼|かれ]の[職業|しょく|ぎょう]は[医者|い|しゃ]です。",
+      "translation_zh_CN": "他的职业是医生。"
+    },
+    {
+      "content": "数千人が職を失った。",
+      "furigana": "[数|すう][千|せん][人|にん]が[職|しょく]を[失|うしな]った。",
+      "translation_zh_CN": "数千人失业。"
+    },
+    {
+      "content": "私は昨年退職しました。",
+      "furigana": "[私|わたし]は[昨年|さく|ねん][退職|たい|しょく]しました。",
+      "translation_zh_CN": "我去年退休了。"
+    },
+    {
+      "content": "兄は大企業に就職した。",
+      "furigana": "[兄|あに]は[大|だい][企業|き|ぎょう]に[就職|しゅう|しょく]した。",
+      "translation_zh_CN": "我哥在大公司上班。"
+    },
+    {
+      "content": "私は去年退職しました。",
+      "furigana": "[私|わたし]は[去年|きょ|ねん][退職|たい|しょく]しました。",
+      "translation_zh_CN": "我去年退休了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "職業",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "職業",
+          "reading": "しょくぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "職人",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "職人",
+          "reading": "しょくにん"
+        }
+      ]
+    },
+    {
+      "slug": "職員",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "職員",
+          "reading": "しょくいん"
+        }
+      ]
+    },
+    {
+      "slug": "職務",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "職務",
+          "reading": "しょくむ"
+        }
+      ]
+    },
+    {
+      "slug": "職場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職場",
+          "reading": "しょくば"
+        }
+      ]
+    },
+    {
+      "slug": "識別",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "識別",
+          "reading": "しきべつ"
+        },
+        {
+          "word": "職別",
+          "reading": "しきべつ"
+        }
+      ]
+    },
+    {
+      "slug": "職権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職権",
+          "reading": "しょっけん"
+        }
+      ]
+    },
+    {
+      "slug": "職歴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職歴",
+          "reading": "しょくれき"
+        }
+      ]
+    },
+    {
+      "slug": "職責",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職責",
+          "reading": "しょくせき"
+        }
+      ]
+    },
+    {
+      "slug": "職員室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職員室",
+          "reading": "しょくいんしつ"
+        }
+      ]
+    },
+    {
+      "slug": "職探し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職探し",
+          "reading": "しょくさがし"
+        }
+      ]
+    },
+    {
+      "slug": "職人気質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職人気質",
+          "reading": "しょくにんかたぎ"
+        }
+      ]
+    },
+    {
+      "slug": "職権乱用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職権乱用",
+          "reading": "しょっけんらんよう"
+        },
+        {
+          "word": "職権濫用",
+          "reading": "しょっけんらんよう"
+        }
+      ]
+    },
+    {
+      "slug": "職業柄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職業柄",
+          "reading": "しょくぎょうがら"
+        }
+      ]
+    },
+    {
+      "slug": "職業別電話帳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職業別電話帳",
+          "reading": "しょくぎょうべつでんわちょう"
+        }
+      ]
+    },
+    {
+      "slug": "職業病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職業病",
+          "reading": "しょくぎょうびょう"
+        }
+      ]
+    },
+    {
+      "slug": "職能",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職能",
+          "reading": "しょくのう"
+        }
+      ]
+    },
+    {
+      "slug": "職種",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "職種",
+          "reading": "しょくしゅ"
+        }
+      ]
+    }
   ]
 }

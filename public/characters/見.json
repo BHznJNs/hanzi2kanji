@@ -87,5 +87,356 @@
       "startStroke": 5,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "見してくれ。",
+      "furigana": "[見|み]してくれ。",
+      "translation_zh_CN": "请看一下。"
+    },
+    {
+      "content": "見に来て。",
+      "furigana": "[見|み]に[来|き]て。",
+      "translation_zh_CN": "快来看看吧。"
+    },
+    {
+      "content": "映画見に行かない？",
+      "furigana": "[映画見|えい|が|み]に[行|い]かない？",
+      "translation_zh_CN": "我们去看电影吧？"
+    },
+    {
+      "content": "見に行こうよ。",
+      "furigana": "[見|み]に[行|い]こうよ。",
+      "translation_zh_CN": "我们去看看吧。"
+    },
+    {
+      "content": "映画見に行きたい。",
+      "furigana": "[映画見|えい|が|み]に[行|い]きたい。",
+      "translation_zh_CN": "我想去看电影。"
+    },
+    {
+      "content": "映画を見に行かない？",
+      "furigana": "[映画|えい|が]を[見|み]に[行|い]かない？",
+      "translation_zh_CN": "我们去看电影吧？"
+    },
+    {
+      "content": "ショーを見に来ました。",
+      "furigana": "ショーを[見|み]に[来|き]ました。",
+      "translation_zh_CN": "我是来看演出的。"
+    },
+    {
+      "content": "海を見に行こう。",
+      "furigana": "[海|うみ]を[見|み]に[行|い]こう。",
+      "translation_zh_CN": "我们去看海吧。"
+    },
+    {
+      "content": "街を見に行こう。",
+      "furigana": "[街|まち]を[見|み]に[行|い]こう。",
+      "translation_zh_CN": "我们去这座城市看看吧。"
+    },
+    {
+      "content": "映画を見に行きませんか。",
+      "furigana": "[映画|えい|が]を[見|み]に[行|い]きませんか。",
+      "translation_zh_CN": "你想去看电影吗。"
+    },
+    {
+      "content": "あまり見えない。",
+      "furigana": "あまり[見|み]えない。",
+      "translation_zh_CN": "我很少见到它。"
+    },
+    {
+      "content": "彼女は私を見た。",
+      "furigana": "[彼女|かの|じょ]は[私|わたし]を[見|み]た。",
+      "translation_zh_CN": "她望着我。"
+    },
+    {
+      "content": "彼もそれを見た。",
+      "furigana": "[彼|かれ]もそれを[見|み]た。",
+      "translation_zh_CN": "他也看見那個。"
+    },
+    {
+      "content": "島が見えてきた。",
+      "furigana": "[島|しま]が[見|み]えてきた。",
+      "translation_zh_CN": "一座岛屿映入眼帘。"
+    },
+    {
+      "content": "私を甘く見るな。",
+      "furigana": "[私|わたし]を[甘|あま]く[見|み]るな。",
+      "translation_zh_CN": "别瞧不起人。"
+    },
+    {
+      "content": "見てみましょう。",
+      "furigana": "[見|み]てみましょう。",
+      "translation_zh_CN": "让我看看。"
+    },
+    {
+      "content": "見ているだけだ。",
+      "furigana": "[見|み]ているだけだ。",
+      "translation_zh_CN": "我只是到處看看。"
+    },
+    {
+      "content": "もうお見えです。",
+      "furigana": "もうお[見|み]えです。",
+      "translation_zh_CN": "他們已經在這裡了。"
+    },
+    {
+      "content": "それを見せてよ。",
+      "furigana": "それを[見|み]せてよ。",
+      "translation_zh_CN": "讓我看看它。"
+    },
+    {
+      "content": "彼は若く見える。",
+      "furigana": "[彼|かれ]は[若|わか]く[見|み]える。",
+      "translation_zh_CN": "他的长相与年龄不符。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "現在",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "word": "見在",
+          "reading": "げんざい"
+        }
+      ]
+    },
+    {
+      "slug": "見る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "見る",
+          "reading": "みる"
+        },
+        {
+          "word": "観る",
+          "reading": "みる"
+        },
+        {
+          "word": "視る",
+          "reading": "みる"
+        }
+      ]
+    },
+    {
+      "slug": "見せる",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "見せる",
+          "reading": "みせる"
+        }
+      ]
+    },
+    {
+      "slug": "見物",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "見物",
+          "reading": "けんぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "見合い",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見合い",
+          "reading": "みあい"
+        },
+        {
+          "word": "見合",
+          "reading": "みあい"
+        }
+      ]
+    },
+    {
+      "slug": "見える",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "見える",
+          "reading": "みえる"
+        }
+      ]
+    },
+    {
+      "slug": "見つかる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見つかる",
+          "reading": "みつかる"
+        },
+        {
+          "word": "見付かる",
+          "reading": "みつかる"
+        }
+      ]
+    },
+    {
+      "slug": "見積もり",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見積もり",
+          "reading": "みつもり"
+        },
+        {
+          "word": "見積り",
+          "reading": "みつもり"
+        },
+        {
+          "word": "見積",
+          "reading": "みつもり"
+        }
+      ]
+    },
+    {
+      "slug": "見付ける",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見つける",
+          "reading": "みつける"
+        },
+        {
+          "word": "見付ける",
+          "reading": "みつける"
+        }
+      ]
+    },
+    {
+      "slug": "見送り",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "見送り",
+          "reading": "みおくり"
+        }
+      ]
+    },
+    {
+      "slug": "見事",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "見事",
+          "reading": "みごと"
+        },
+        {
+          "word": "美事",
+          "reading": "みごと"
+        }
+      ]
+    },
+    {
+      "slug": "見舞い",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "見舞い",
+          "reading": "みまい"
+        },
+        {
+          "word": "見舞",
+          "reading": "みまい"
+        }
+      ]
+    },
+    {
+      "slug": "見解",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "見解",
+          "reading": "けんかい"
+        }
+      ]
+    },
+    {
+      "slug": "見当",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "見当",
+          "reading": "けんとう"
+        }
+      ]
+    },
+    {
+      "slug": "見送る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見送る",
+          "reading": "みおくる"
+        }
+      ]
+    },
+    {
+      "slug": "見舞う",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見舞う",
+          "reading": "みまう"
+        }
+      ]
+    },
+    {
+      "slug": "見本",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "見本",
+          "reading": "みほん"
+        }
+      ]
+    }
   ]
 }

@@ -109,5 +109,312 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "我々は彼の急死の報に大いに驚いた。",
+      "furigana": "[我々|われわれ]は[彼|かれ]の[急死|きゅう|し]の[報|ほう]に[大|おお]いに[驚|おどろ]いた。",
+      "translation_zh_CN": "他突然去世的消息让我们感到非常惊讶。"
+    },
+    {
+      "content": "国民全体は国王死去の報を聞いて悲しんだ。",
+      "furigana": "[国民全体|こく|みん|ぜん|たい]は[国王死去|こく|おう|し|きょ]の[報|ほう]を[聞|き]いて[悲|かな]しんだ。",
+      "translation_zh_CN": "当得知国王去世的消息时，举国上下都感到悲痛。"
+    },
+    {
+      "content": "果報は寝て待て。",
+      "furigana": "[果報|か|ほう]は[寝|ね]て[待|ま]て。",
+      "translation_zh_CN": "成功屬於耐心等待的人。"
+    },
+    {
+      "content": "ご一報ください。",
+      "furigana": "ご[一報|いっ|ぽう]ください。",
+      "translation_zh_CN": "讓我知道。"
+    },
+    {
+      "content": "火災警報が鳴った。",
+      "furigana": "[火災|か|さい][警報|けい|ほう]が[鳴|な]った。",
+      "translation_zh_CN": "火警警报响了。"
+    },
+    {
+      "content": "報道陣の方ですね。",
+      "furigana": "[報道陣|ほう|どう|じん]の[方|ほう]ですね。",
+      "translation_zh_CN": "你是个记者。"
+    },
+    {
+      "content": "報告書は提出したの？",
+      "furigana": "[報告|ほう|こく][書|しょ]は[提出|てい|しゅつ]したの？",
+      "translation_zh_CN": "你交報告了嗎？"
+    },
+    {
+      "content": "火災報知器が鳴った。",
+      "furigana": "[火災報知器|か|さい|ほう|ち|き]が[鳴|な]った。",
+      "translation_zh_CN": "火警警报响了。"
+    },
+    {
+      "content": "それは当然の報いだ。",
+      "furigana": "それは[当然|とう|ぜん]の[報|むく]いだ。",
+      "translation_zh_CN": "自作自受。"
+    },
+    {
+      "content": "彼は報告書を書いた。",
+      "furigana": "[彼|かれ]は[報告|ほう|こく][書|しょ]を[書|か]いた。",
+      "translation_zh_CN": "他寫了這份報告。"
+    },
+    {
+      "content": "今日は日報を書いてよ。",
+      "furigana": "[今日|きょう]は[日報|にっ|ぽう]を[書|か]いてよ。",
+      "translation_zh_CN": "今天就去把每日报告写好。"
+    },
+    {
+      "content": "彼は報告書を作文した。",
+      "furigana": "[彼|かれ]は[報告|ほう|こく][書|しょ]を[作文|さく|ぶん]した。",
+      "translation_zh_CN": "他寫了這份報告。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "報道",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "報道",
+          "reading": "ほうどう"
+        }
+      ]
+    },
+    {
+      "slug": "報酬",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "報酬",
+          "reading": "ほうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "知らせる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "知らせる",
+          "reading": "しらせる"
+        },
+        {
+          "word": "報せる",
+          "reading": "しらせる"
+        }
+      ]
+    },
+    {
+      "slug": "報告",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "報告",
+          "reading": "ほうこく"
+        }
+      ]
+    },
+    {
+      "slug": "知らせ",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "知らせ",
+          "reading": "しらせ"
+        },
+        {
+          "word": "報せ",
+          "reading": "しらせ"
+        }
+      ]
+    },
+    {
+      "slug": "報じる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "報じる",
+          "reading": "ほうじる"
+        }
+      ]
+    },
+    {
+      "slug": "報復",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報復",
+          "reading": "ほうふく"
+        }
+      ]
+    },
+    {
+      "slug": "報道機関",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報道機関",
+          "reading": "ほうどうきかん"
+        }
+      ]
+    },
+    {
+      "slug": "答え",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "答え",
+          "reading": "こたえ"
+        },
+        {
+          "word": "答",
+          "reading": "こたえ"
+        },
+        {
+          "word": "応え",
+          "reading": "こたえ"
+        },
+        {
+          "word": "報え",
+          "reading": "こたえ"
+        }
+      ]
+    },
+    {
+      "slug": "報告書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報告書",
+          "reading": "ほうこくしょ"
+        }
+      ]
+    },
+    {
+      "slug": "応える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "応える",
+          "reading": "こたえる"
+        }
+      ]
+    },
+    {
+      "slug": "報道陣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報道陣",
+          "reading": "ほうどうじん"
+        }
+      ]
+    },
+    {
+      "slug": "報われる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報われる",
+          "reading": "むくわれる"
+        },
+        {
+          "word": "酬われる",
+          "reading": "むくわれる"
+        }
+      ]
+    },
+    {
+      "slug": "報いる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報いる",
+          "reading": "むくいる"
+        },
+        {
+          "word": "酬いる",
+          "reading": "むくいる"
+        }
+      ]
+    },
+    {
+      "slug": "報い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報い",
+          "reading": "むくい"
+        },
+        {
+          "word": "酬い",
+          "reading": "むくい"
+        }
+      ]
+    },
+    {
+      "slug": "報ずる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "報ずる",
+          "reading": "ほうずる"
+        }
+      ]
+    },
+    {
+      "slug": "報う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報う",
+          "reading": "むくう"
+        },
+        {
+          "word": "酬う",
+          "reading": "むくう"
+        }
+      ]
+    },
+    {
+      "slug": "報告者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報告者",
+          "reading": "ほうこくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "報道部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "報道部",
+          "reading": "ほうどうぶ"
+        }
+      ]
+    }
   ]
 }

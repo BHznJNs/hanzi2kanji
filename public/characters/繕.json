@@ -96,5 +96,56 @@
       "startStroke": 15,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼女はなんとか体裁を繕った。",
+      "furigana": "[彼女|かの|じょ]はなんとか[体裁|てい|さい]を[繕|つくろ]った。",
+      "translation_zh_CN": "她設法保住面子。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "繕う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "繕う",
+          "reading": "つくろう"
+        }
+      ]
+    },
+    {
+      "slug": "繕い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繕い",
+          "reading": "つくろい"
+        }
+      ]
+    },
+    {
+      "slug": "繕草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繕草",
+          "reading": "つくろいぐさ"
+        }
+      ]
+    },
+    {
+      "slug": "繕い立てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繕い立てる",
+          "reading": "つくろいたてる"
+        }
+      ]
+    }
   ]
 }

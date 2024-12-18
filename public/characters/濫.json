@@ -89,5 +89,297 @@
       "startStroke": 13,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "台風で川が氾濫した。",
+      "furigana": "[台風|たい|ふう]で[川|かわ]が[氾濫|はん|らん]した。",
+      "translation_zh_CN": "颱風造成了河水氾濫。"
+    },
+    {
+      "content": "河川は豪雨で氾濫しました。",
+      "furigana": "[河川|か|せん]は[豪雨|ごう|う]で[氾濫|はん|らん]しました。",
+      "translation_zh_CN": "大雨使河水泛滥。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "乱用",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "乱用",
+          "reading": "らんよう"
+        },
+        {
+          "word": "濫用",
+          "reading": "らんよう"
+        }
+      ]
+    },
+    {
+      "slug": "乱入",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱入",
+          "reading": "らんにゅう"
+        },
+        {
+          "word": "濫入",
+          "reading": "らんにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "乱獲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱獲",
+          "reading": "らんかく"
+        },
+        {
+          "word": "濫獲",
+          "reading": "らんかく"
+        }
+      ]
+    },
+    {
+      "slug": "乱立",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱立",
+          "reading": "らんりつ"
+        },
+        {
+          "word": "濫立",
+          "reading": "らんりつ"
+        }
+      ]
+    },
+    {
+      "slug": "乱発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱発",
+          "reading": "らんぱつ"
+        },
+        {
+          "word": "濫発",
+          "reading": "らんぱつ"
+        }
+      ]
+    },
+    {
+      "slug": "乱伐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱伐",
+          "reading": "らんばつ"
+        },
+        {
+          "word": "濫伐",
+          "reading": "らんばつ"
+        }
+      ]
+    },
+    {
+      "slug": "乱読",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱読",
+          "reading": "らんどく"
+        },
+        {
+          "word": "濫読",
+          "reading": "らんどく"
+        }
+      ]
+    },
+    {
+      "slug": "濫造",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濫造",
+          "reading": "らんぞう"
+        },
+        {
+          "word": "乱造",
+          "reading": "らんぞう"
+        }
+      ]
+    },
+    {
+      "slug": "乱費",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱費",
+          "reading": "らんぴ"
+        },
+        {
+          "word": "濫費",
+          "reading": "らんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "乱り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱り",
+          "reading": "みだり"
+        },
+        {
+          "word": "妄り",
+          "reading": "みだり"
+        },
+        {
+          "word": "猥り",
+          "reading": "みだり"
+        },
+        {
+          "word": "濫り",
+          "reading": "みだり"
+        },
+        {
+          "word": "漫り",
+          "reading": "みだり"
+        }
+      ]
+    },
+    {
+      "slug": "濫りがましい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濫りがましい",
+          "reading": "みだりがましい"
+        },
+        {
+          "word": "猥りがましい",
+          "reading": "みだりがましい"
+        },
+        {
+          "word": "妄りがましい",
+          "reading": "みだりがましい"
+        }
+      ]
+    },
+    {
+      "slug": "乱掘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱掘",
+          "reading": "らんくつ"
+        },
+        {
+          "word": "濫掘",
+          "reading": "らんくつ"
+        }
+      ]
+    },
+    {
+      "slug": "乱作",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱作",
+          "reading": "らんさく"
+        },
+        {
+          "word": "濫作",
+          "reading": "らんさく"
+        }
+      ]
+    },
+    {
+      "slug": "濫觴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濫觴",
+          "reading": "らんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "濫りがわしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濫りがわしい",
+          "reading": "みだりがわしい"
+        },
+        {
+          "word": "猥りがわしい",
+          "reading": "みだりがわしい"
+        }
+      ]
+    },
+    {
+      "slug": "乱倫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "乱倫",
+          "reading": "らんりん"
+        },
+        {
+          "word": "濫倫",
+          "reading": "らんりん"
+        }
+      ]
+    },
+    {
+      "slug": "乱訴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濫訴",
+          "reading": "らんそ"
+        },
+        {
+          "word": "乱訴",
+          "reading": "らんそ"
+        }
+      ]
+    },
+    {
+      "slug": "妄りに",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "妄りに",
+          "reading": "みだりに"
+        },
+        {
+          "word": "濫りに",
+          "reading": "みだりに"
+        },
+        {
+          "word": "猥りに",
+          "reading": "みだりに"
+        },
+        {
+          "word": "漫りに",
+          "reading": "みだりに"
+        },
+        {
+          "word": "乱りに",
+          "reading": "みだりに"
+        }
+      ]
+    }
   ]
 }

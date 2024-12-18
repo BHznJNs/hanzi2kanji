@@ -127,5 +127,308 @@
       "startStroke": 9,
       "strokes": 7
     }
+  ],
+  "sentences": [
+    {
+      "content": "コーヒーって、濃すぎた？",
+      "furigana": "コーヒーって、[濃|こ]すぎた？",
+      "translation_zh_CN": "咖啡太浓了吗？"
+    },
+    {
+      "content": "色がちょっと濃すぎるね。",
+      "furigana": "[色|いろ]がちょっと[濃|こ]すぎるね。",
+      "translation_zh_CN": "颜色有点太暗了。"
+    },
+    {
+      "content": "お茶が濃すぎるので水を少し加えて下さい。",
+      "furigana": "お[茶|ちゃ]が[濃|こ]すぎるので[水|みず]を[少|すこ]し[加|くわ]えて[下|くだ]さい。",
+      "translation_zh_CN": "茶太浓了，请加一点水。"
+    },
+    {
+      "content": "このコーヒー、私には濃すぎるよ。",
+      "furigana": "このコーヒー、[私|わたし]には[濃|こ]すぎるよ。",
+      "translation_zh_CN": "这咖啡对我来说太浓了。"
+    },
+    {
+      "content": "もしコーヒーが濃すぎれば、いくらかお湯を足して下さい。",
+      "furigana": "もしコーヒーが[濃|こ]すぎれば、いくらかお[湯|ゆ]を[足|た]して[下|くだ]さい。",
+      "translation_zh_CN": "如果咖啡太浓，请添加一些热水。"
+    },
+    {
+      "content": "血は水より濃い。",
+      "furigana": "[血|ち]は[水|みず]より[濃|こ]い。",
+      "translation_zh_CN": "血濃於水。"
+    },
+    {
+      "content": "彼女は化粧が濃い。",
+      "furigana": "[彼女|かの|じょ]は[化粧|け|しょう]が[濃|こ]い。",
+      "translation_zh_CN": "她化着浓妆。"
+    },
+    {
+      "content": "血は水よりも濃し。",
+      "furigana": "[血|ち]は[水|みず]よりも[濃|こ]し。",
+      "translation_zh_CN": "血濃於水。"
+    },
+    {
+      "content": "このスープ、濃いよ。",
+      "furigana": "このスープ、[濃|こ]いよ。",
+      "translation_zh_CN": "汤很稠。"
+    },
+    {
+      "content": "色がちょっと濃すぎるね。",
+      "furigana": "[色|いろ]がちょっと[濃|こ]すぎるね。",
+      "translation_zh_CN": "颜色深了些。"
+    },
+    {
+      "content": "何で濃いコーヒーが好きなの？",
+      "furigana": "[何|なん]で[濃|こ]いコーヒーが[好|す]きなの？",
+      "translation_zh_CN": "为什么喜欢喝浓咖啡？"
+    },
+    {
+      "content": "色がちょっと濃いすぎるね。",
+      "furigana": "[色|いろ]がちょっと[濃|こ]いすぎるね。",
+      "translation_zh_CN": "颜色深了些。"
+    },
+    {
+      "content": "父は濃いコーヒーが好きです。",
+      "furigana": "[父|ちち]は[濃|こ]いコーヒーが[好|す]きです。",
+      "translation_zh_CN": "我父親喜歡濃咖啡。"
+    },
+    {
+      "content": "彼女は濃い茶色の靴を履いていた。",
+      "furigana": "[彼女|かの|じょ]は[濃|こ]い[茶色|ちゃ|いろ]の[靴|くつ]を[履|は]いていた。",
+      "translation_zh_CN": "她穿著深褐色的鞋子。"
+    },
+    {
+      "content": "このコーヒー、私には濃すぎるよ。",
+      "furigana": "このコーヒー、[私|わたし]には[濃|こ]すぎるよ。",
+      "translation_zh_CN": "這個咖啡對我來說太濃了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "濃い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "濃い",
+          "reading": "こい"
+        }
+      ]
+    },
+    {
+      "slug": "濃度",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "濃度",
+          "reading": "のうど"
+        }
+      ]
+    },
+    {
+      "slug": "濃厚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃厚",
+          "reading": "のうこう"
+        }
+      ]
+    },
+    {
+      "slug": "濃霧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃霧",
+          "reading": "のうむ"
+        }
+      ]
+    },
+    {
+      "slug": "濃紺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃紺",
+          "reading": "のうこん"
+        }
+      ]
+    },
+    {
+      "slug": "細やか",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "細やか",
+          "reading": "こまやか"
+        },
+        {
+          "word": "濃やか",
+          "reading": "こまやか"
+        }
+      ]
+    },
+    {
+      "slug": "濃縮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃縮",
+          "reading": "のうしゅく"
+        }
+      ]
+    },
+    {
+      "slug": "濃淡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃淡",
+          "reading": "のうたん"
+        }
+      ]
+    },
+    {
+      "slug": "濃密",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃密",
+          "reading": "のうみつ"
+        }
+      ]
+    },
+    {
+      "slug": "濃紅銀鉱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃紅銀鉱",
+          "reading": "のうこうぎんこう"
+        }
+      ]
+    },
+    {
+      "slug": "濃い口醤油",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃口醤油",
+          "reading": "こいくちしょうゆ"
+        },
+        {
+          "word": "濃い口醤油",
+          "reading": "こいくちしょうゆ"
+        },
+        {
+          "word": "濃口しょうゆ",
+          "reading": "こいくちしょうゆ"
+        },
+        {
+          "word": "濃い口しょうゆ",
+          "reading": "こいくちしょうゆ"
+        }
+      ]
+    },
+    {
+      "slug": "濃化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃化",
+          "reading": "のうか"
+        }
+      ]
+    },
+    {
+      "slug": "濃いめ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃いめ",
+          "reading": "こいめ"
+        },
+        {
+          "word": "濃い目",
+          "reading": "こいめ"
+        }
+      ]
+    },
+    {
+      "slug": "濃厚接触",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃厚接触",
+          "reading": "のうこうせっしょく"
+        }
+      ]
+    },
+    {
+      "slug": "濃茶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃茶",
+          "reading": "こいちゃ"
+        },
+        {
+          "word": "濃い茶",
+          "reading": "こいちゃ"
+        }
+      ]
+    },
+    {
+      "slug": "濃厚接触者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃厚接触者",
+          "reading": "のうこうせっしょくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "濃度計",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃度計",
+          "reading": "のうどけい"
+        }
+      ]
+    },
+    {
+      "slug": "濃厚飼料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃厚飼料",
+          "reading": "のうこうしりょう"
+        }
+      ]
+    },
+    {
+      "slug": "濃き色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "濃き色",
+          "reading": "こきいろ"
+        },
+        {
+          "word": "濃色",
+          "reading": "こきいろ"
+        }
+      ]
+    }
   ]
 }

@@ -99,5 +99,150 @@
       "startStroke": 15,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "覇権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇権",
+          "reading": "はけん"
+        }
+      ]
+    },
+    {
+      "slug": "覇気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇気",
+          "reading": "はき"
+        }
+      ]
+    },
+    {
+      "slug": "覇者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇者",
+          "reading": "はしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "覇権安定論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇権安定論",
+          "reading": "はけんあんていろん"
+        }
+      ]
+    },
+    {
+      "slug": "覇王竜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇王竜",
+          "reading": "はおうりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "覇下",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇下",
+          "reading": "はか"
+        },
+        {
+          "word": "蚣蝮",
+          "reading": "はか"
+        }
+      ]
+    },
+    {
+      "slug": "覇道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇道",
+          "reading": "はどう"
+        }
+      ]
+    },
+    {
+      "slug": "覇権争い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇権争い",
+          "reading": "はけんあらそい"
+        }
+      ]
+    },
+    {
+      "slug": "覇王",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇王",
+          "reading": "はおう"
+        }
+      ]
+    },
+    {
+      "slug": "覇業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇業",
+          "reading": "はぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "覇権主義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇権主義",
+          "reading": "はけんしゅぎ"
+        }
+      ]
+    },
+    {
+      "slug": "覇王樹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇王樹",
+          "reading": "サボテン"
+        },
+        {
+          "word": "仙人掌",
+          "reading": "サボテン"
+        },
+        {
+          "word": "仙人掌",
+          "reading": "シャボテン"
+        }
+      ]
+    },
+    {
+      "slug": "覇を唱える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "覇を唱える",
+          "reading": "はをとなえる"
+        }
+      ]
+    }
   ]
 }

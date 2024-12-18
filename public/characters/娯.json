@@ -70,5 +70,127 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "トランプは人気のある娯楽だ。",
+      "furigana": "トランプは[人気|にん|き]のある[娯楽|ご|らく]だ。",
+      "translation_zh_CN": "打牌是一種流行的消遣方式。"
+    },
+    {
+      "content": "仕事と娯楽を混合するのは好きじゃない。",
+      "furigana": "[仕事|し|ごと]と[娯楽|ご|らく]を[混合|こん|ごう]するのは[好|す]きじゃない。",
+      "translation_zh_CN": "我不喜欢把生意和快乐混在一起。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "楽しい",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "楽しい",
+          "reading": "たのしい"
+        },
+        {
+          "word": "愉しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "slug": "娯楽",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "娯楽",
+          "reading": "ごらく"
+        }
+      ]
+    },
+    {
+      "slug": "娯楽施設",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "娯楽施設",
+          "reading": "ごらくしせつ"
+        }
+      ]
+    },
+    {
+      "slug": "娯楽場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "娯楽場",
+          "reading": "ごらくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "娯楽番組",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "娯楽番組",
+          "reading": "ごらくばんぐみ"
+        }
+      ]
+    },
+    {
+      "slug": "娯楽室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "娯楽室",
+          "reading": "ごらくしつ"
+        }
+      ]
+    },
+    {
+      "slug": "娯楽雑誌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "娯楽雑誌",
+          "reading": "ごらくざっし"
+        }
+      ]
+    },
+    {
+      "slug": "娯楽街",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "娯楽街",
+          "reading": "ごらくがい"
+        }
+      ]
+    },
+    {
+      "slug": "娯遊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "娯遊",
+          "reading": "ごゆう"
+        }
+      ]
+    },
+    {
+      "slug": "娯楽映画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "娯楽映画",
+          "reading": "ごらくえいが"
+        }
+      ]
+    }
   ]
 }

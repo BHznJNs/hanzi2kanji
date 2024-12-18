@@ -42,5 +42,110 @@
       "startStroke": 10,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "終わる",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "終わる",
+          "reading": "おわる"
+        },
+        {
+          "word": "終る",
+          "reading": "おわる"
+        },
+        {
+          "word": "了る",
+          "reading": "おわる"
+        },
+        {
+          "word": "卒る",
+          "reading": "おわる"
+        },
+        {
+          "word": "畢る",
+          "reading": "おわる"
+        },
+        {
+          "word": "竟る",
+          "reading": "おわる"
+        }
+      ]
+    },
+    {
+      "slug": "雨降り星",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雨降り星",
+          "reading": "あめふりぼし"
+        },
+        {
+          "word": "雨降星",
+          "reading": "あめふりぼし"
+        },
+        {
+          "word": "畢宿",
+          "reading": "あめふりぼし"
+        }
+      ]
+    },
+    {
+      "slug": "畢竟するに",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畢竟するに",
+          "reading": "ひっきょうするに"
+        }
+      ]
+    },
+    {
+      "slug": "畢撥擬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畢撥擬",
+          "reading": "ひはつもどき"
+        },
+        {
+          "word": "ヒハツ擬",
+          "reading": "ヒハツもどき"
+        },
+        {
+          "reading": "ヒハツモドキ"
+        }
+      ]
+    },
+    {
+      "slug": "畢生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畢生",
+          "reading": "ひっせい"
+        }
+      ]
+    },
+    {
+      "slug": "畢竟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "畢竟",
+          "reading": "ひっきょう"
+        },
+        {
+          "word": "必竟",
+          "reading": "ひっきょう"
+        }
+      ]
+    }
   ]
 }

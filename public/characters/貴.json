@@ -97,5 +97,283 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "貴男は何歳ですか？",
+      "furigana": "[貴男|たか|お]は[何|なん][歳|さい]ですか？",
+      "translation_zh_CN": "你几岁了？"
+    },
+    {
+      "content": "俺は貴様が嫌いだ。",
+      "furigana": "[俺|おれ]は[貴様|き|さま]が[嫌|きら]いだ。",
+      "translation_zh_CN": "我恨你。"
+    },
+    {
+      "content": "金は鉄よりも貴重だ。",
+      "furigana": "[金|きん]は[鉄|てつ]よりも[貴重|き|ちょう]だ。",
+      "translation_zh_CN": "金子比铁珍贵。"
+    },
+    {
+      "content": "貴方は実にバカだなあ",
+      "furigana": "[貴方|あなた]は[実|じつ]にバカだなあ",
+      "translation_zh_CN": "你真的是（一）個笨蛋。"
+    },
+    {
+      "content": "私は、貴方が好きです。",
+      "furigana": "[私|わたし]は、[貴方|あなた]が[好|す]きです。",
+      "translation_zh_CN": "我爱你。"
+    },
+    {
+      "content": "時間ほど貴重な物はない。",
+      "furigana": "[時間|じ|かん]ほど[貴重|き|ちょう]な[物|もの]はない。",
+      "translation_zh_CN": "没有什么和时间一样珍贵。"
+    },
+    {
+      "content": "あれは貴重な経験だった。",
+      "furigana": "あれは[貴重|き|ちょう]な[経験|けい|けん]だった。",
+      "translation_zh_CN": "那是一次寶貴的經驗。"
+    },
+    {
+      "content": "貴方の兄弟はどこですか。",
+      "furigana": "[貴方|あなた]の[兄弟|きょう|だい]はどこですか。",
+      "translation_zh_CN": "你的哥哥在哪里?"
+    },
+    {
+      "content": "どうして貴方は嘘を吐くの？",
+      "furigana": "どうして[貴方|あなた]は[嘘|うそ]を[吐|は]くの？",
+      "translation_zh_CN": "爲什麽騙人呢？"
+    },
+    {
+      "content": "貴方達は、雨が好きですね。",
+      "furigana": "[貴方|あなた][達|たち]は、[雨|あめ]が[好|す]きですね。",
+      "translation_zh_CN": "你喜欢雨对吧？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "貴族",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "貴族",
+          "reading": "きぞく"
+        }
+      ]
+    },
+    {
+      "slug": "貴重",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "貴重",
+          "reading": "きちょう"
+        }
+      ]
+    },
+    {
+      "slug": "尊い",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "尊い",
+          "reading": "とうとい"
+        },
+        {
+          "word": "尊い",
+          "reading": "たっとい"
+        },
+        {
+          "word": "貴い",
+          "reading": "とうとい"
+        },
+        {
+          "word": "貴い",
+          "reading": "たっとい"
+        }
+      ]
+    },
+    {
+      "slug": "貴ぶ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "尊ぶ",
+          "reading": "とうとぶ"
+        },
+        {
+          "word": "尊ぶ",
+          "reading": "たっとぶ"
+        },
+        {
+          "word": "貴ぶ",
+          "reading": "とうとぶ"
+        },
+        {
+          "word": "貴ぶ",
+          "reading": "たっとぶ"
+        },
+        {
+          "word": "尚ぶ",
+          "reading": "とうとぶ"
+        },
+        {
+          "word": "尚ぶ",
+          "reading": "たっとぶ"
+        }
+      ]
+    },
+    {
+      "slug": "貴重品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴重品",
+          "reading": "きちょうひん"
+        }
+      ]
+    },
+    {
+      "slug": "あなた方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あなた方",
+          "reading": "あなたがた"
+        },
+        {
+          "word": "貴方がた",
+          "reading": "あなたがた"
+        },
+        {
+          "word": "貴方方",
+          "reading": "あなたがた"
+        },
+        {
+          "word": "貴方々",
+          "reading": "あなたがた"
+        }
+      ]
+    },
+    {
+      "slug": "貴社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴社",
+          "reading": "きしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "貴婦人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴婦人",
+          "reading": "きふじん"
+        }
+      ]
+    },
+    {
+      "slug": "貴殿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴殿",
+          "reading": "きでん"
+        }
+      ]
+    },
+    {
+      "slug": "貴君",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴君",
+          "reading": "きくん"
+        }
+      ]
+    },
+    {
+      "slug": "貴様",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴様",
+          "reading": "きさま"
+        }
+      ]
+    },
+    {
+      "slug": "貴賤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴賤",
+          "reading": "きせん"
+        },
+        {
+          "word": "貴賎",
+          "reading": "きせん"
+        }
+      ]
+    },
+    {
+      "slug": "貴族的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴族的",
+          "reading": "きぞくてき"
+        }
+      ]
+    },
+    {
+      "slug": "彼方任せ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あなた任せ",
+          "reading": "あなたまかせ"
+        },
+        {
+          "word": "貴方任せ",
+          "reading": "あなたまかせ"
+        },
+        {
+          "word": "彼方任せ",
+          "reading": "あなたまかせ"
+        }
+      ]
+    },
+    {
+      "slug": "貴職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴職",
+          "reading": "きしょく"
+        }
+      ]
+    },
+    {
+      "slug": "貴国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貴国",
+          "reading": "きこく"
+        }
+      ]
+    }
   ]
 }

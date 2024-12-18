@@ -36,7 +36,7 @@
       "lang": "es",
       "values": [
         "Buda",
-        "sonido \u0027satsu\u0027 en sánscrito"
+        "sonido 'satsu' en sánscrito"
       ]
     }
   ],
@@ -88,6 +88,173 @@
       "radical": "生",
       "startStroke": 12,
       "strokes": 5
+    }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "さつま芋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "さつま芋",
+          "reading": "さつまいも"
+        },
+        {
+          "word": "薩摩芋",
+          "reading": "さつまいも"
+        },
+        {
+          "word": "甘薯",
+          "reading": "さつまいも"
+        },
+        {
+          "word": "甘藷",
+          "reading": "さつまいも"
+        },
+        {
+          "word": "甘薯",
+          "reading": "かんしょ"
+        },
+        {
+          "word": "甘藷",
+          "reading": "かんしょ"
+        },
+        {
+          "reading": "サツマイモ"
+        }
+      ]
+    },
+    {
+      "slug": "薩長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩長",
+          "reading": "さっちょう"
+        }
+      ]
+    },
+    {
+      "slug": "薩摩焼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩摩焼",
+          "reading": "さつまやき"
+        }
+      ]
+    },
+    {
+      "slug": "薩摩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩摩",
+          "reading": "さつま"
+        }
+      ]
+    },
+    {
+      "slug": "薩英戦争",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩英戦争",
+          "reading": "さつえいせんそう"
+        }
+      ]
+    },
+    {
+      "slug": "薩摩揚げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "さつま揚げ",
+          "reading": "さつまあげ"
+        },
+        {
+          "word": "薩摩揚げ",
+          "reading": "さつまあげ"
+        }
+      ]
+    },
+    {
+      "slug": "薩摩琵琶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩摩琵琶",
+          "reading": "さつまびわ"
+        }
+      ]
+    },
+    {
+      "slug": "薩摩閥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩摩閥",
+          "reading": "さつまばつ"
+        }
+      ]
+    },
+    {
+      "slug": "薩摩の守",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩摩の守",
+          "reading": "さつまのかみ"
+        }
+      ]
+    },
+    {
+      "slug": "薩埵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩埵",
+          "reading": "さった"
+        }
+      ]
+    },
+    {
+      "slug": "薩摩汁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "さつま汁",
+          "reading": "さつまじる"
+        },
+        {
+          "word": "薩摩汁",
+          "reading": "さつまじる"
+        }
+      ]
+    },
+    {
+      "slug": "薩長同盟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩長同盟",
+          "reading": "さっちょうどうめい"
+        }
+      ]
+    },
+    {
+      "slug": "薩摩スティック",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薩摩スティック",
+          "reading": "さつまスティック"
+        },
+        {
+          "reading": "サツマスティック"
+        }
+      ]
     }
   ]
 }

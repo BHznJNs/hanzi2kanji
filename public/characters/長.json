@@ -60,5 +60,308 @@
       "startStroke": 0,
       "strokes": 8
     }
+  ],
+  "sentences": [
+    {
+      "content": "これは長すぎます。",
+      "furigana": "これは[長|なが]すぎます。",
+      "translation_zh_CN": "这太长了。"
+    },
+    {
+      "content": "笑いは百薬の長。",
+      "furigana": "[笑|わら]いは[百薬|ひゃく|やく]の[長|ちょう]。",
+      "translation_zh_CN": "笑是最好的良药。"
+    },
+    {
+      "content": "これでは長すぎます。",
+      "furigana": "これでは[長|なが]すぎます。",
+      "translation_zh_CN": "这太长了。"
+    },
+    {
+      "content": "彼は委員会の委員長だ。",
+      "furigana": "[彼|かれ]は[委員会|い|いん|かい]の[委員長|い|いん|ちょう]だ。",
+      "translation_zh_CN": "他是该委员会的主席。"
+    },
+    {
+      "content": "君の髪は長すぎる。",
+      "furigana": "[君|きみ]の[髪|かみ]は[長|なが]すぎる。",
+      "translation_zh_CN": "你的头发太长了"
+    },
+    {
+      "content": "この文は長すぎる。",
+      "furigana": "この[文|ぶん]は[長|なが]すぎる。",
+      "translation_zh_CN": "这句话太长了。"
+    },
+    {
+      "content": "私のスカートは長すぎます。",
+      "furigana": "[私|わたし]のスカートは[長|なが]すぎます。",
+      "translation_zh_CN": "我的裙子太长了。"
+    },
+    {
+      "content": "この文は長すぎです。",
+      "furigana": "この[文|ぶん]は[長|なが]すぎです。",
+      "translation_zh_CN": "这句话太长了。"
+    },
+    {
+      "content": "委員会は彼を委員長に選んだ。",
+      "furigana": "[委員会|い|いん|かい]は[彼|かれ]を[委員長|い|いん|ちょう]に[選|えら]んだ。",
+      "translation_zh_CN": "委员会选举他为主席。"
+    },
+    {
+      "content": "その上着の仕立ては長すぎた。",
+      "furigana": "その[上着|うわ|ぎ]の[仕立|し|た]ては[長|なが]すぎた。",
+      "translation_zh_CN": "这件夹克的剪裁太长了。"
+    },
+    {
+      "content": "細く長く愛して。",
+      "furigana": "[細|ほそ]く[長|なが]く[愛|あい]して。",
+      "translation_zh_CN": "淡淡地愛我，長久地愛我。"
+    },
+    {
+      "content": "この鉛筆の長さは？",
+      "furigana": "この[鉛筆|えん|ぴつ]の[長|なが]さは？",
+      "translation_zh_CN": "這支鉛筆有多長？"
+    },
+    {
+      "content": "長居はしないよ。",
+      "furigana": "[長居|なが|い]はしないよ。",
+      "translation_zh_CN": "我不会在这里呆很久。"
+    },
+    {
+      "content": "長い手紙でした。",
+      "furigana": "[長|なが]い[手紙|て|がみ]でした。",
+      "translation_zh_CN": "它是封长信。"
+    },
+    {
+      "content": "彼女は長生きした。",
+      "furigana": "[彼女|かの|じょ]は[長生|なが|い]きした。",
+      "translation_zh_CN": "她活了很久。"
+    },
+    {
+      "content": "社長はどこですか。",
+      "furigana": "[社長|しゃ|ちょう]はどこですか。",
+      "translation_zh_CN": "老闆在哪裡？"
+    },
+    {
+      "content": "子供は成長が早い。",
+      "furigana": "[子供|こ|ども]は[成長|せい|ちょう]が[早|はや]い。",
+      "translation_zh_CN": "孩子们真的长得很快。"
+    },
+    {
+      "content": "君の髪は長すぎる。",
+      "furigana": "[君|きみ]の[髪|かみ]は[長|なが]すぎる。",
+      "translation_zh_CN": "你的頭髮太長了。"
+    },
+    {
+      "content": "これは長すぎます。",
+      "furigana": "これは[長|なが]すぎます。",
+      "translation_zh_CN": "這個太長了。"
+    },
+    {
+      "content": "その川は長いです。",
+      "furigana": "その[川|かわ]は[長|なが]いです。",
+      "translation_zh_CN": "那條河流很長。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "長い",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "長い",
+          "reading": "ながい"
+        },
+        {
+          "word": "永い",
+          "reading": "ながい"
+        }
+      ]
+    },
+    {
+      "slug": "長方形",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "長方形",
+          "reading": "ちょうほうけい"
+        }
+      ]
+    },
+    {
+      "slug": "永久",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "永久",
+          "reading": "えいきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "長期",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "長期",
+          "reading": "ちょうき"
+        }
+      ]
+    },
+    {
+      "slug": "長所",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "長所",
+          "reading": "ちょうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "長男",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "長男",
+          "reading": "ちょうなん"
+        }
+      ]
+    },
+    {
+      "slug": "長女",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "長女",
+          "reading": "ちょうじょ"
+        }
+      ]
+    },
+    {
+      "slug": "長引く",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "長引く",
+          "reading": "ながびく"
+        },
+        {
+          "word": "長びく",
+          "reading": "ながびく"
+        }
+      ]
+    },
+    {
+      "slug": "長官",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "長官",
+          "reading": "ちょうかん"
+        }
+      ]
+    },
+    {
+      "slug": "長編",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "長編",
+          "reading": "ちょうへん"
+        },
+        {
+          "word": "長篇",
+          "reading": "ちょうへん"
+        }
+      ]
+    },
+    {
+      "slug": "長閑",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "長閑",
+          "reading": "のどか"
+        }
+      ]
+    },
+    {
+      "slug": "長々",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "長々",
+          "reading": "ながなが"
+        },
+        {
+          "word": "長長",
+          "reading": "ながなが"
+        },
+        {
+          "word": "永々",
+          "reading": "ながなが"
+        },
+        {
+          "word": "永永",
+          "reading": "ながなが"
+        }
+      ]
+    },
+    {
+      "slug": "長寿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "長寿",
+          "reading": "ちょうじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "長さ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "長さ",
+          "reading": "ながさ"
+        }
+      ]
+    },
+    {
+      "slug": "長老",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "長老",
+          "reading": "ちょうろう"
+        }
+      ]
+    }
   ]
 }

@@ -99,5 +99,319 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "第２課は易しい。",
+      "furigana": "[第|だい]２[課|か]は[易|やさ]しい。",
+      "translation_zh_CN": "第 2 课很简单。"
+    },
+    {
+      "content": "月曜日、営業2課。",
+      "furigana": "[月曜日|げつようび]、[営業|えいぎょう][2|に][課|か]。",
+      "translation_zh_CN": "周一，销售2部。"
+    },
+    {
+      "content": "第３課を読もう。",
+      "furigana": "[第|だい]３[課|か]を[読|よ]もう。",
+      "translation_zh_CN": "我们来读第3课。"
+    },
+    {
+      "content": "１０課から始めましょう。",
+      "furigana": "１０[課|か]から[始|はじ]めましょう。",
+      "translation_zh_CN": "我们从第十课开始吧。"
+    },
+    {
+      "content": "第３課に戻りましょう。",
+      "furigana": "[第|だい]３[課|か]に[戻|もど]りましょう。",
+      "translation_zh_CN": "让我们回到第三课。"
+    },
+    {
+      "content": "第３課から始めましょう。",
+      "furigana": "[第|だい]３[課|か]から[始|はじ]めましょう。",
+      "translation_zh_CN": "我们从第三课开始吧。"
+    },
+    {
+      "content": "第３課を読みましょう。",
+      "furigana": "[第３課|だい|さん|か]を[読|よ]みましょう。",
+      "translation_zh_CN": "我们来读第3课。"
+    },
+    {
+      "content": "第５課を復習しましょう。",
+      "furigana": "[第|だい]５[課|か]を[復習|ふく|しゅう]しましょう。",
+      "translation_zh_CN": "我们来回顾一下第五课。"
+    },
+    {
+      "content": "この課を暗記しなさい。",
+      "furigana": "この[課|か]を[暗記|あん|き]しなさい。",
+      "translation_zh_CN": "记住这一课。"
+    },
+    {
+      "content": "彼は企画課で働いている。",
+      "furigana": "[彼|かれ]は[企画課|き|かく|か]で[働|はたら]いている。",
+      "translation_zh_CN": "他在规划部门工作。"
+    },
+    {
+      "content": "放課後、テニスするの？",
+      "furigana": "[放課後|ほう|か|ご]、テニスするの？",
+      "translation_zh_CN": "你放學後會去打網球嗎？"
+    },
+    {
+      "content": "放課後に野球をしよう。",
+      "furigana": "[放課後|ほう|か|ご]に[野球|や|きゅう]をしよう。",
+      "translation_zh_CN": "讓我們放學後打棒球。"
+    },
+    {
+      "content": "放課後、手伝ってくれる？",
+      "furigana": "[放課後|ほう|か|ご]、[手伝|て|つだ]ってくれる？",
+      "translation_zh_CN": "你能在放學後幫助我們嗎？"
+    },
+    {
+      "content": "１０課から始めましょう。",
+      "furigana": "[１|][０|][課|か]から[始|はじ]めましょう。",
+      "translation_zh_CN": "我们从第十课开始吧。"
+    },
+    {
+      "content": "彼は企画課で働いている。",
+      "furigana": "[彼|かれ]は[企画|き|かく][課|か]で[働|はたら]いている。",
+      "translation_zh_CN": "他在策划部工作。"
+    },
+    {
+      "content": "放課後、テニスしようよ。",
+      "furigana": "[放課後|ほう|か|ご]、テニスしようよ。",
+      "translation_zh_CN": "讓我們放學後打網球。"
+    },
+    {
+      "content": "彼は放課後野球をしました。",
+      "furigana": "[彼|かれ]は[放課後|ほう|か|ご][野球|や|きゅう]をしました。",
+      "translation_zh_CN": "他放学后打棒球。"
+    },
+    {
+      "content": "１０課を初めから読みなさい。",
+      "furigana": "[１|][０|][課|か]を[初|はじ]めから[読|よ]みなさい。",
+      "translation_zh_CN": "從第十課的開頭讀起。"
+    },
+    {
+      "content": "放課後、バスケをしようよ。",
+      "furigana": "[放課後|ほう|か|ご]、バスケをしようよ。",
+      "translation_zh_CN": "讓我們放學後打籃球。"
+    },
+    {
+      "content": "放課後にテニスをしましょう。",
+      "furigana": "[放課後|ほう|か|ご]にテニスをしましょう。",
+      "translation_zh_CN": "讓我們放學後打網球。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "課長",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "課長",
+          "reading": "かちょう"
+        }
+      ]
+    },
+    {
+      "slug": "科目",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "科目",
+          "reading": "かもく"
+        },
+        {
+          "word": "課目",
+          "reading": "かもく"
+        }
+      ]
+    },
+    {
+      "slug": "課税",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "課税",
+          "reading": "かぜい"
+        }
+      ]
+    },
+    {
+      "slug": "課程",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "課程",
+          "reading": "かてい"
+        }
+      ]
+    },
+    {
+      "slug": "課題",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "課題",
+          "reading": "かだい"
+        }
+      ]
+    },
+    {
+      "slug": "課する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課する",
+          "reading": "かする"
+        }
+      ]
+    },
+    {
+      "slug": "課す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課す",
+          "reading": "かす"
+        }
+      ]
+    },
+    {
+      "slug": "課外",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "課外",
+          "reading": "かがい"
+        }
+      ]
+    },
+    {
+      "slug": "課税所得",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課税所得",
+          "reading": "かぜいしょとく"
+        }
+      ]
+    },
+    {
+      "slug": "課徴金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課徴金",
+          "reading": "かちょうきん"
+        }
+      ]
+    },
+    {
+      "slug": "課員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課員",
+          "reading": "かいん"
+        }
+      ]
+    },
+    {
+      "slug": "課外活動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課外活動",
+          "reading": "かがいかつどう"
+        }
+      ]
+    },
+    {
+      "slug": "課の仕事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課の仕事",
+          "reading": "かのしごと"
+        }
+      ]
+    },
+    {
+      "slug": "課外授業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課外授業",
+          "reading": "かがいじゅぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "課程博士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課程博士",
+          "reading": "かていはかせ"
+        },
+        {
+          "word": "課程博士",
+          "reading": "かていはくし"
+        }
+      ]
+    },
+    {
+      "slug": "課税価額",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課税価額",
+          "reading": "かぜいかがく"
+        }
+      ]
+    },
+    {
+      "slug": "課制",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課制",
+          "reading": "かせい"
+        }
+      ]
+    },
+    {
+      "slug": "課役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課役",
+          "reading": "かえき"
+        }
+      ]
+    },
+    {
+      "slug": "課口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "課口",
+          "reading": "かこう"
+        }
+      ]
+    }
   ]
 }

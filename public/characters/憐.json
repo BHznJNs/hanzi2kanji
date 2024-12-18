@@ -63,5 +63,124 @@
       "startStroke": 9,
       "strokes": 7
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "哀れ",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "哀れ",
+          "reading": "あわれ"
+        },
+        {
+          "word": "哀れ",
+          "reading": "あはれ"
+        },
+        {
+          "word": "憐れ",
+          "reading": "あわれ"
+        },
+        {
+          "word": "憐れ",
+          "reading": "あはれ"
+        },
+        {
+          "word": "憫れ",
+          "reading": "あわれ"
+        },
+        {
+          "word": "憫れ",
+          "reading": "あはれ"
+        }
+      ]
+    },
+    {
+      "slug": "哀れむ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "哀れむ",
+          "reading": "あわれむ"
+        },
+        {
+          "word": "憐れむ",
+          "reading": "あわれむ"
+        }
+      ]
+    },
+    {
+      "slug": "哀れみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "哀れみ",
+          "reading": "あわれみ"
+        },
+        {
+          "word": "憐れみ",
+          "reading": "あわれみ"
+        },
+        {
+          "word": "憫れみ",
+          "reading": "あわれみ"
+        },
+        {
+          "word": "愍れみ",
+          "reading": "あわれみ"
+        }
+      ]
+    },
+    {
+      "slug": "憐察",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憐察",
+          "reading": "れんさつ"
+        }
+      ]
+    },
+    {
+      "slug": "哀れがる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "哀れがる",
+          "reading": "あわれがる"
+        },
+        {
+          "word": "憐がる",
+          "reading": "あわれがる"
+        }
+      ]
+    },
+    {
+      "slug": "憐情",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憐情",
+          "reading": "れんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "憐憫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憐憫",
+          "reading": "れんびん"
+        },
+        {
+          "word": "憐愍",
+          "reading": "れんびん"
+        }
+      ]
+    }
   ]
 }

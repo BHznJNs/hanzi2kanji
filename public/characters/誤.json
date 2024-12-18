@@ -86,5 +86,297 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "誤解しないでよ。",
+      "furigana": "[誤解|ご|かい]しないでよ。",
+      "translation_zh_CN": "别误解我了。"
+    },
+    {
+      "content": "誤解しないでくれ。",
+      "furigana": "[誤解|ご|かい]しないでくれ。",
+      "translation_zh_CN": "别误解我了。"
+    },
+    {
+      "content": "彼は自分の誤りを認めた。",
+      "furigana": "[彼|かれ]は[自分|じ|ぶん]の[誤|あやま]りを[認|みと]めた。",
+      "translation_zh_CN": "他承认了自己的错误。"
+    },
+    {
+      "content": "誤りがあれば訂正しなさい。",
+      "furigana": "[誤|あやま]りがあれば[訂正|てい|せい]しなさい。",
+      "translation_zh_CN": "如有錯誤，請改正。"
+    },
+    {
+      "content": "どんな誤解もあって欲しくない。",
+      "furigana": "どんな[誤解|ご|かい]もあって[欲|ほ]しくない。",
+      "translation_zh_CN": "我不想有任何误会。"
+    },
+    {
+      "content": "彼はついに自分の誤りを悟った。",
+      "furigana": "[彼|かれ]はついに[自分|じ|ぶん]の[誤|あやま]りを[悟|さと]った。",
+      "translation_zh_CN": "他終於醒覺到自己做錯了。"
+    },
+    {
+      "content": "誤植のない本などほとんどない。",
+      "furigana": "[誤植|ご|しょく]のない[本|ほん]などほとんどない。",
+      "translation_zh_CN": "世间鲜有没有排版错误的书籍。"
+    },
+    {
+      "content": "私のことを誤解しないでください。",
+      "furigana": "[私|わたし]のことを[誤解|ご|かい]しないでください。",
+      "translation_zh_CN": "千万别误会我的意思。"
+    },
+    {
+      "content": "どんな意見も真実と誤りの混合だ。",
+      "furigana": "どんな[意見|い|けん]も[真実|しん|じつ]と[誤|あやま]りの[混合|こん|ごう]だ。",
+      "translation_zh_CN": "任何意見都是事實與謬誤的混合體。"
+    },
+    {
+      "content": "誤って洗剤を飲んでしまいました。",
+      "furigana": "[誤|あやま]って[洗剤|せん|ざい]を[飲|の]んでしまいました。",
+      "translation_zh_CN": "他误吞了洗衣粉。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "誤り",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "誤り",
+          "reading": "あやまり"
+        },
+        {
+          "word": "謬り",
+          "reading": "あやまり"
+        },
+        {
+          "word": "謬",
+          "reading": "あやまり"
+        }
+      ]
+    },
+    {
+      "slug": "誤解",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "誤解",
+          "reading": "ごかい"
+        }
+      ]
+    },
+    {
+      "slug": "過ち",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "過ち",
+          "reading": "あやまち"
+        },
+        {
+          "word": "誤ち",
+          "reading": "あやまち"
+        }
+      ]
+    },
+    {
+      "slug": "誤差",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "誤差",
+          "reading": "ごさ"
+        }
+      ]
+    },
+    {
+      "slug": "誤る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "誤る",
+          "reading": "あやまる"
+        },
+        {
+          "word": "謬る",
+          "reading": "あやまる"
+        }
+      ]
+    },
+    {
+      "slug": "誤魔化す",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "誤魔化す",
+          "reading": "ごまかす"
+        },
+        {
+          "word": "誤摩化す",
+          "reading": "ごまかす"
+        },
+        {
+          "word": "胡麻化す",
+          "reading": "ごまかす"
+        }
+      ]
+    },
+    {
+      "slug": "誤植",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤植",
+          "reading": "ごしょく"
+        }
+      ]
+    },
+    {
+      "slug": "誤認",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤認",
+          "reading": "ごにん"
+        }
+      ]
+    },
+    {
+      "slug": "誤って",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤って",
+          "reading": "あやまって"
+        },
+        {
+          "word": "過って",
+          "reading": "あやまって"
+        }
+      ]
+    },
+    {
+      "slug": "誤字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤字",
+          "reading": "ごじ"
+        }
+      ]
+    },
+    {
+      "slug": "誤用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤用",
+          "reading": "ごよう"
+        }
+      ]
+    },
+    {
+      "slug": "誤訳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤訳",
+          "reading": "ごやく"
+        }
+      ]
+    },
+    {
+      "slug": "誤診",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤診",
+          "reading": "ごしん"
+        }
+      ]
+    },
+    {
+      "slug": "誤爆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤爆",
+          "reading": "ごばく"
+        }
+      ]
+    },
+    {
+      "slug": "誤記",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤記",
+          "reading": "ごき"
+        }
+      ]
+    },
+    {
+      "slug": "過つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過つ",
+          "reading": "あやまつ"
+        },
+        {
+          "word": "誤つ",
+          "reading": "あやまつ"
+        }
+      ]
+    },
+    {
+      "slug": "誤魔化し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤魔化し",
+          "reading": "ごまかし"
+        },
+        {
+          "word": "胡麻化し",
+          "reading": "ごまかし"
+        }
+      ]
+    },
+    {
+      "slug": "誤報",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤報",
+          "reading": "ごほう"
+        }
+      ]
+    },
+    {
+      "slug": "誤算",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤算",
+          "reading": "ごさん"
+        }
+      ]
+    }
   ]
 }

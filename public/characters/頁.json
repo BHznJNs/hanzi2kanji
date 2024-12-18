@@ -65,5 +65,136 @@
       "startStroke": 7,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "何ページ？",
+      "furigana": "[何|なん]ページ？",
+      "translation_zh_CN": "有多少页？"
+    },
+    {
+      "content": "１ページ足りない。",
+      "furigana": "[１|いち]ページ[足|た]りない。",
+      "translation_zh_CN": "缺少一页。"
+    },
+    {
+      "content": "200ページあります。",
+      "furigana": "[200|にひゃく]ページあります。",
+      "translation_zh_CN": "有200页。"
+    },
+    {
+      "content": "ページの上部の写真を見てごらんなさい。",
+      "furigana": "ページの[上部|じょう|ぶ]の[写真|しゃ|しん]を[見|み]てごらんなさい。",
+      "translation_zh_CN": "请查看页面顶部的照片。"
+    },
+    {
+      "content": "ページをめくりなさい。",
+      "furigana": "ページをめくりなさい。",
+      "translation_zh_CN": "翻页。"
+    },
+    {
+      "content": "もう３ページ残っている。",
+      "furigana": "もう[３|さん]ページ[残|のこ]っている。",
+      "translation_zh_CN": "还剩下三页。"
+    },
+    {
+      "content": "九ページを開きなさい。",
+      "furigana": "[九|きゅう]ページを[開|ひら]きなさい。",
+      "translation_zh_CN": "打开第九页。"
+    },
+    {
+      "content": "30ページからね。",
+      "furigana": "[30|さんじゅっ]ページからね。",
+      "translation_zh_CN": "从第30页开始。"
+    },
+    {
+      "content": "探してたページが見つからない。",
+      "furigana": "[探|さが]してたページが[見|み]つからない。",
+      "translation_zh_CN": "找不到我要查找的页面。"
+    },
+    {
+      "content": "30ページから始めます。",
+      "furigana": "[30|さんじゅっ]ページから[始|はじ]めます。",
+      "translation_zh_CN": "从第 30 页开始。"
+    },
+    {
+      "content": "１０頁を参照してください。",
+      "furigana": "[１|][０|][頁|ぺーじ]を[参照|さん|しょう]してください。",
+      "translation_zh_CN": "請參看第十頁。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "大貝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "大貝",
+          "reading": "おおがい"
+        },
+        {
+          "word": "頁",
+          "reading": "おおがい"
+        }
+      ]
+    },
+    {
+      "slug": "頁岩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頁岩",
+          "reading": "けつがん"
+        }
+      ]
+    },
+    {
+      "slug": "頁岩油",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頁岩油",
+          "reading": "けつがんゆ"
+        }
+      ]
+    },
+    {
+      "slug": "頁付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ページ付け",
+          "reading": "ページづけ"
+        },
+        {
+          "word": "頁付け",
+          "reading": "ページづけ"
+        }
+      ]
+    },
+    {
+      "slug": "頁数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ページ数",
+          "reading": "ページすう"
+        },
+        {
+          "word": "頁数",
+          "reading": "ページすう"
+        }
+      ]
+    },
+    {
+      "slug": "頁送り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頁送り",
+          "reading": "ページおくり"
+        }
+      ]
+    }
   ]
 }

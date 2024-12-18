@@ -69,5 +69,364 @@
       "startStroke": 8,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "何問答えた？",
+      "furigana": "[何問答|なん|もん|こた]えた？",
+      "translation_zh_CN": "你回答了多少个问题？"
+    },
+    {
+      "content": "おかしな問ですね。",
+      "furigana": "おかしな[問|とい]ですね。",
+      "translation_zh_CN": "这是一个奇怪的问题。"
+    },
+    {
+      "content": "テストで一問も答えられなかった。",
+      "furigana": "テストで[一問|いち|もん]も[答|こた]えられなかった。",
+      "translation_zh_CN": "我在考试中一个问题都无法回答。"
+    },
+    {
+      "content": "問3の答え何になった？",
+      "furigana": "[問|とい]3の[答|こた]え[何|なに]になった？",
+      "translation_zh_CN": "问题 3 的答案是什么？"
+    },
+    {
+      "content": "私は全問に答えることができた。",
+      "furigana": "[私|わたし]は[全問|ぜん|とい]に[答|こた]えることができた。",
+      "translation_zh_CN": "我能够回答所有的问题。"
+    },
+    {
+      "content": "この問の意味がとんと分からない。",
+      "furigana": "この[問|とい]の[意味|い|み]がとんと[分|わ]からない。",
+      "translation_zh_CN": "我实在不明白这个问题的意义。"
+    },
+    {
+      "content": "彼女は試験で四問目をぬかしてしまった。",
+      "furigana": "[彼女|かの|じょ]は[試験|し|けん]で[四問目|よん|もん|め]をぬかしてしまった。",
+      "translation_zh_CN": "她错过了考试的第四题。"
+    },
+    {
+      "content": "私はその問がたいへんやさしいことを発見した。",
+      "furigana": "[私|わたし]はその[問|とい]がたいへんやさしいことを[発見|はっ|けん]した。",
+      "translation_zh_CN": "我发现这个问题很简单。"
+    },
+    {
+      "content": "私はその問がわからない。つまり、それを全く理解できない。",
+      "furigana": "[私|わたし]はその[問|とい]がわからない。つまり、それを[全|まった]く[理解|り|かい]できない。",
+      "translation_zh_CN": "我不明白这个问题。我的意思是，我根本不明白。"
+    },
+    {
+      "content": "質問があります。",
+      "furigana": "[質問|しつ|もん]があります。",
+      "translation_zh_CN": "我有一個問題。"
+    },
+    {
+      "content": "それは別問題だ。",
+      "furigana": "それは[別|べつ][問題|もん|だい]だ。",
+      "translation_zh_CN": "那是另一回事。"
+    },
+    {
+      "content": "何も問題はない。",
+      "furigana": "[何|なに]も[問題|もん|だい]はない。",
+      "translation_zh_CN": "什么问题都没有！"
+    },
+    {
+      "content": "質問はありますか？",
+      "furigana": "[質問|しつ|もん]はありますか？",
+      "translation_zh_CN": "你们有没有问题？"
+    },
+    {
+      "content": "月曜日で問題ない？",
+      "furigana": "[月曜日|げつ|よう|び]で[問題|もん|だい]ない？",
+      "translation_zh_CN": "周一可以吗？"
+    },
+    {
+      "content": "深刻な問題だな。",
+      "furigana": "[深刻|しん|こく]な[問題|もん|だい]だな。",
+      "translation_zh_CN": "这个问题很严重。"
+    },
+    {
+      "content": "いい質問ですね。",
+      "furigana": "いい[質問|しつ|もん]ですね。",
+      "translation_zh_CN": "那是一個很好的問題。"
+    },
+    {
+      "content": "そこに問題がある。",
+      "furigana": "そこに[問題|もん|だい]がある。",
+      "translation_zh_CN": "那就是問題所在。"
+    },
+    {
+      "content": "質問に答えなさい。",
+      "furigana": "[質問|しつ|もん]に[答|こた]えなさい。",
+      "translation_zh_CN": "回答問題。"
+    },
+    {
+      "content": "それは問題外だよ。",
+      "furigana": "それは[問題|もん|だい][外|がい]だよ。",
+      "translation_zh_CN": "绝对不可能。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "問い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "問い",
+          "reading": "とい"
+        },
+        {
+          "word": "問",
+          "reading": "とい"
+        }
+      ]
+    },
+    {
+      "slug": "問題",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "問題",
+          "reading": "もんだい"
+        }
+      ]
+    },
+    {
+      "slug": "問い合わせ",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "問い合わせ",
+          "reading": "といあわせ"
+        },
+        {
+          "word": "問合せ",
+          "reading": "といあわせ"
+        },
+        {
+          "word": "問い合せ",
+          "reading": "といあわせ"
+        },
+        {
+          "word": "問合わせ",
+          "reading": "といあわせ"
+        }
+      ]
+    },
+    {
+      "slug": "問う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "問う",
+          "reading": "とう"
+        },
+        {
+          "word": "訪う",
+          "reading": "とう"
+        }
+      ]
+    },
+    {
+      "slug": "問い合わせる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "問い合わせる",
+          "reading": "といあわせる"
+        },
+        {
+          "word": "問合わせる",
+          "reading": "といあわせる"
+        },
+        {
+          "word": "問合せる",
+          "reading": "といあわせる"
+        },
+        {
+          "word": "問い合せる",
+          "reading": "といあわせる"
+        }
+      ]
+    },
+    {
+      "slug": "問屋",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "問屋",
+          "reading": "とんや"
+        },
+        {
+          "word": "問屋",
+          "reading": "といや"
+        }
+      ]
+    },
+    {
+      "slug": "問題点",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題点",
+          "reading": "もんだいてん"
+        }
+      ]
+    },
+    {
+      "slug": "問題意識",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題意識",
+          "reading": "もんだいいしき"
+        }
+      ]
+    },
+    {
+      "slug": "問題ない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題ない",
+          "reading": "もんだいない"
+        },
+        {
+          "word": "問題無い",
+          "reading": "もんだいない"
+        }
+      ]
+    },
+    {
+      "slug": "問題児",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題児",
+          "reading": "もんだいじ"
+        }
+      ]
+    },
+    {
+      "slug": "問答",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "問答",
+          "reading": "もんどう"
+        }
+      ]
+    },
+    {
+      "slug": "問題解決",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題解決",
+          "reading": "もんだいかいけつ"
+        }
+      ]
+    },
+    {
+      "slug": "問題外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題外",
+          "reading": "もんだいがい"
+        }
+      ]
+    },
+    {
+      "slug": "問題にならない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題にならない",
+          "reading": "もんだいにならない"
+        }
+      ]
+    },
+    {
+      "slug": "問わず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問わず",
+          "reading": "とわず"
+        }
+      ]
+    },
+    {
+      "slug": "問い質す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問いただす",
+          "reading": "といただす"
+        },
+        {
+          "word": "問い質す",
+          "reading": "といただす"
+        },
+        {
+          "word": "問い正す",
+          "reading": "といただす"
+        },
+        {
+          "word": "問い糾す",
+          "reading": "といただす"
+        },
+        {
+          "word": "問い糺す",
+          "reading": "といただす"
+        }
+      ]
+    },
+    {
+      "slug": "問題集",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題集",
+          "reading": "もんだいしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "問題視",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題視",
+          "reading": "もんだいし"
+        }
+      ]
+    },
+    {
+      "slug": "問題提起",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "問題提起",
+          "reading": "もんだいていき"
+        }
+      ]
+    }
   ]
 }

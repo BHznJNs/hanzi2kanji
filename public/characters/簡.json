@@ -83,5 +83,260 @@
       "startStroke": 14,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼のいう事は簡にして要を得た。",
+      "furigana": "[彼|かれ]のいう[事|こと]は簡にして[要|かなめ]を[得|え]た。",
+      "translation_zh_CN": "他说的很简单，也很中肯。"
+    },
+    {
+      "content": "これは簡単です。",
+      "furigana": "これは[簡単|かん|たん]です。",
+      "translation_zh_CN": "这很容易。"
+    },
+    {
+      "content": "あれは簡単すぎた？",
+      "furigana": "あれは[簡単|かん|たん]すぎた？",
+      "translation_zh_CN": "太簡單了嗎？"
+    },
+    {
+      "content": "その本は簡単です。",
+      "furigana": "その[本|ほん]は[簡単|かん|たん]です。",
+      "translation_zh_CN": "这本书很简单。"
+    },
+    {
+      "content": "口で言うのは簡単だ。",
+      "furigana": "[口|くち]で[言|い]うのは[簡単|かん|たん]だ。",
+      "translation_zh_CN": "说得容易。"
+    },
+    {
+      "content": "私の仕事簡単だと思う？",
+      "furigana": "[私|わたし]の[仕事|し|ごと][簡単|かん|たん]だと[思|おも]う？",
+      "translation_zh_CN": "你觉得我的工作简单吗？"
+    },
+    {
+      "content": "フランス語は簡単さ。",
+      "furigana": "フランス[語|ご]は[簡単|かん|たん]さ。",
+      "translation_zh_CN": "法语很简单。"
+    },
+    {
+      "content": "簡単な質問だと思った。",
+      "furigana": "[簡単|かん|たん]な[質問|しつ|もん]だと[思|おも]った。",
+      "translation_zh_CN": "我認為這些問題很容易。"
+    },
+    {
+      "content": "泳ぐのなんて簡単だよ。",
+      "furigana": "[泳|およ]ぐのなんて[簡単|かん|たん]だよ。",
+      "translation_zh_CN": "游泳很容易。"
+    },
+    {
+      "content": "あの山は簡単に登れるよ。",
+      "furigana": "あの[山|やま]は[簡単|かん|たん]に[登|のぼ]れるよ。",
+      "translation_zh_CN": "那座山很容易爬。"
+    },
+    {
+      "content": "チーズは簡単に消化しない。",
+      "furigana": "チーズは[簡単|かん|たん]に[消化|しょう|か]しない。",
+      "translation_zh_CN": "奶酪不容易消化。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "簡単",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "簡単",
+          "reading": "かんたん"
+        },
+        {
+          "word": "簡短",
+          "reading": "かんたん"
+        },
+        {
+          "word": "簡端",
+          "reading": "かんたん"
+        }
+      ]
+    },
+    {
+      "slug": "簡潔",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "簡潔",
+          "reading": "かんけつ"
+        }
+      ]
+    },
+    {
+      "slug": "簡素",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "簡素",
+          "reading": "かんそ"
+        }
+      ]
+    },
+    {
+      "slug": "簡明",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡明",
+          "reading": "かんめい"
+        }
+      ]
+    },
+    {
+      "slug": "簡易",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "簡易",
+          "reading": "かんい"
+        }
+      ]
+    },
+    {
+      "slug": "簡易住宅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡易住宅",
+          "reading": "かんいじゅうたく"
+        }
+      ]
+    },
+    {
+      "slug": "簡約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡約",
+          "reading": "かんやく"
+        }
+      ]
+    },
+    {
+      "slug": "簡略",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡略",
+          "reading": "かんりゃく"
+        }
+      ]
+    },
+    {
+      "slug": "簡裁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡裁",
+          "reading": "かんさい"
+        }
+      ]
+    },
+    {
+      "slug": "簡易保険",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡易保険",
+          "reading": "かんいほけん"
+        }
+      ]
+    },
+    {
+      "slug": "簡便",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡便",
+          "reading": "かんべん"
+        }
+      ]
+    },
+    {
+      "slug": "簡易ベッド",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡易ベッド",
+          "reading": "かんいベッド"
+        }
+      ]
+    },
+    {
+      "slug": "簡にして要を得る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡にして要を得る",
+          "reading": "かんにしてようをえる"
+        }
+      ]
+    },
+    {
+      "slug": "簡体字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡体字",
+          "reading": "かんたいじ"
+        }
+      ]
+    },
+    {
+      "slug": "簡易保険局",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡易保険局",
+          "reading": "かんいほけんきょく"
+        }
+      ]
+    },
+    {
+      "slug": "簡保生命保険",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡保生命保険",
+          "reading": "かんぽせいめいほけん"
+        }
+      ]
+    },
+    {
+      "slug": "簡宿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡宿",
+          "reading": "かんしゅく"
+        }
+      ]
+    },
+    {
+      "slug": "簡抜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簡抜",
+          "reading": "かんばつ"
+        }
+      ]
+    }
   ]
 }

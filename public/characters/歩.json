@@ -78,5 +78,309 @@
       "startStroke": 7,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "２歩前に出なさい。",
+      "furigana": "２[歩前|ほ|まえ]に[出|で]なさい。",
+      "translation_zh_CN": "向前迈出两步。"
+    },
+    {
+      "content": "３歩歩いてジャンプしなさい。",
+      "furigana": "３[歩歩|ほ|ある]いてジャンプしなさい。",
+      "translation_zh_CN": "走三步就跳。"
+    },
+    {
+      "content": "一歩前に進みなさい。",
+      "furigana": "[一歩前|いっ|ぽ|まえ]に[進|すす]みなさい。",
+      "translation_zh_CN": "向前迈出一步。"
+    },
+    {
+      "content": "大きな一歩だよ。",
+      "furigana": "[大|おお]きな[一歩|いっぽ]だよ。",
+      "translation_zh_CN": "这是一个很大的进步。"
+    },
+    {
+      "content": "二、三歩下がって下さい。",
+      "furigana": "[二|に]、[三歩下|さん|ほ|さ]がって[下|くだ]さい。",
+      "translation_zh_CN": "请退后几步。"
+    },
+    {
+      "content": "ほらっ、キリキリ歩くっ！",
+      "furigana": "ほらっ、キリキリ[歩|ある]くっ！",
+      "translation_zh_CN": "看，我走得很快！"
+    },
+    {
+      "content": "もう一歩も歩けないよ。",
+      "furigana": "もう[一歩|いっ|ぽ]も[歩|ある]けないよ。",
+      "translation_zh_CN": "我无法再迈出一步。"
+    },
+    {
+      "content": "我々の方が歩がよい。",
+      "furigana": "[我々|われわれ]の[方|ほう]が[歩|ふ]がよい。",
+      "translation_zh_CN": "我们走得更好。"
+    },
+    {
+      "content": "もう１歩動いてみろ。死んでしまうぞ。",
+      "furigana": "もう１[歩動|ほ|うご]いてみろ。[死|し]んでしまうぞ。",
+      "translation_zh_CN": "再迈出一步。你会死的。"
+    },
+    {
+      "content": "初めの一歩が唯一の難関。",
+      "furigana": "[初|はじ]めの[一歩|いち|ほ]が[唯一|ゆい|いつ]の[難関|なん|かん]。",
+      "translation_zh_CN": "第一步是唯一的障碍。"
+    },
+    {
+      "content": "歩きましょうか。",
+      "furigana": "[歩|ある]きましょうか。",
+      "translation_zh_CN": "我们该步行吗？"
+    },
+    {
+      "content": "彼は徒歩通学だ。",
+      "furigana": "[彼|かれ]は[徒歩|と|ほ][通学|つう|がく]だ。",
+      "translation_zh_CN": "他步行上学。"
+    },
+    {
+      "content": "公園で散歩なう。",
+      "furigana": "[公園|こう|えん]で[散歩|さん|ぽ]なう。",
+      "translation_zh_CN": "我在公园里走。"
+    },
+    {
+      "content": "歩道を歩きなさい。",
+      "furigana": "[歩道|ほ|どう]を[歩|ある]きなさい。",
+      "translation_zh_CN": "在人行道上走。"
+    },
+    {
+      "content": "父は毎朝散歩する。",
+      "furigana": "[父|ちち]は[毎朝|まい|あさ][散歩|さん|ぽ]する。",
+      "translation_zh_CN": "我父親每天早上去散步。"
+    },
+    {
+      "content": "彼女は散歩に出た。",
+      "furigana": "[彼女|かの|じょ]は[散歩|さん|ぽ]に[出|で]た。",
+      "translation_zh_CN": "她去散步了。"
+    },
+    {
+      "content": "彼は歩くのが速い。",
+      "furigana": "[彼|かれ]は[歩|ある]くのが[速|はや]い。",
+      "translation_zh_CN": "他走路很快。"
+    },
+    {
+      "content": "川に沿って歩いた。",
+      "furigana": "[川|かわ]に[沿|そ]って[歩|ある]いた。",
+      "translation_zh_CN": "我沿着河走了段路。"
+    },
+    {
+      "content": "私は駅まで歩いた。",
+      "furigana": "[私|わたし]は[駅|えき]まで[歩|ある]いた。",
+      "translation_zh_CN": "我一直走到火車站。"
+    },
+    {
+      "content": "ちょっと散歩しない？",
+      "furigana": "ちょっと[散歩|さん|ぽ]しない？",
+      "translation_zh_CN": "想出去呼吸一下新鮮空氣嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "歩み",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "歩み",
+          "reading": "あゆみ"
+        },
+        {
+          "word": "歩",
+          "reading": "あゆみ"
+        }
+      ]
+    },
+    {
+      "slug": "歩道",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "歩道",
+          "reading": "ほどう"
+        }
+      ]
+    },
+    {
+      "slug": "歩く",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "歩く",
+          "reading": "あるく"
+        }
+      ]
+    },
+    {
+      "slug": "歩む",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "歩む",
+          "reading": "あゆむ"
+        }
+      ]
+    },
+    {
+      "slug": "歩行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩行",
+          "reading": "ほこう"
+        }
+      ]
+    },
+    {
+      "slug": "歩兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩兵",
+          "reading": "ほへい"
+        }
+      ]
+    },
+    {
+      "slug": "歩行者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩行者",
+          "reading": "ほこうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "歩き回る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩き回る",
+          "reading": "あるきまわる"
+        },
+        {
+          "word": "歩きまわる",
+          "reading": "あるきまわる"
+        },
+        {
+          "word": "歩き廻る",
+          "reading": "あるきまわる"
+        }
+      ]
+    },
+    {
+      "slug": "歩調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩調",
+          "reading": "ほちょう"
+        }
+      ]
+    },
+    {
+      "slug": "歩み寄る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩み寄る",
+          "reading": "あゆみよる"
+        },
+        {
+          "word": "歩みよる",
+          "reading": "あゆみよる"
+        }
+      ]
+    },
+    {
+      "slug": "歩道橋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩道橋",
+          "reading": "ほどうきょう"
+        }
+      ]
+    },
+    {
+      "slug": "歩留り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩留まり",
+          "reading": "ぶどまり"
+        },
+        {
+          "word": "歩留り",
+          "reading": "ぶどまり"
+        },
+        {
+          "word": "歩留",
+          "reading": "ぶどまり"
+        },
+        {
+          "word": "歩止まり",
+          "reading": "ぶどまり"
+        },
+        {
+          "word": "歩止り",
+          "reading": "ぶどまり"
+        }
+      ]
+    },
+    {
+      "slug": "歩き方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩き方",
+          "reading": "あるきかた"
+        }
+      ]
+    },
+    {
+      "slug": "歩き疲れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩き疲れる",
+          "reading": "あるきつかれる"
+        }
+      ]
+    },
+    {
+      "slug": "歩哨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩哨",
+          "reading": "ほしょう"
+        }
+      ]
+    },
+    {
+      "slug": "歩き続ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歩き続ける",
+          "reading": "あるきつづける"
+        }
+      ]
+    }
   ]
 }

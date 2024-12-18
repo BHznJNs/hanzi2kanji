@@ -80,5 +80,276 @@
       "startStroke": 6,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は本当にレスラーになりたいのだが、体が細すぎる。",
+      "furigana": "[彼|かれ]は[本当|ほん|とう]にレスラーになりたいのだが、[体|からだ]が[細|ほそ]すぎる。",
+      "translation_zh_CN": "他真的很想成为一名摔跤手，但他太瘦了。"
+    },
+    {
+      "content": "細く長く愛して。",
+      "furigana": "[細|ほそ]く[長|なが]く[愛|あい]して。",
+      "translation_zh_CN": "淡淡地愛我，長久地愛我。"
+    },
+    {
+      "content": "とても心細いです。",
+      "furigana": "とても[心細|こころ|ぼそ]いです。",
+      "translation_zh_CN": "我好孤单。"
+    },
+    {
+      "content": "非常に繊細な問題だ。",
+      "furigana": "[非常|ひ|じょう]に[繊細|せん|さい]な[問題|もん|だい]だ。",
+      "translation_zh_CN": "這是條很微妙的問題。"
+    },
+    {
+      "content": "細かいお金持ってない？",
+      "furigana": "[細|こま]かいお[金|かね][持|も]ってない？",
+      "translation_zh_CN": "有零钱吗？"
+    },
+    {
+      "content": "トムは心細いんだよ。",
+      "furigana": "トムは[心細|こころ|ぼそ]いんだよ。",
+      "translation_zh_CN": "汤姆很孤独。"
+    },
+    {
+      "content": "細かいお金がないんだよ。",
+      "furigana": "[細|こま]かいお[金|かね]がないんだよ。",
+      "translation_zh_CN": "我沒零錢。"
+    },
+    {
+      "content": "細かいの持ってないんだよ。",
+      "furigana": "[細|こま]かいの[持|も]ってないんだよ。",
+      "translation_zh_CN": "我没任何零钱。"
+    },
+    {
+      "content": "私たちはその件を詳細に検討した。",
+      "furigana": "[私|わたし]たちはその[件|けん]を[詳細|しょう|さい]に[検討|けん|とう]した。",
+      "translation_zh_CN": "我们详细地讨论了这个问题。"
+    },
+    {
+      "content": "空気中の微細な粒子が癌を引き起こすことがある。",
+      "furigana": "[空気|くう|き][中|ちゅう]の[微細|び|さい]な[粒子|りゅう|し]が[癌|がん]を[引|ひ]き[起|お]こすことがある。",
+      "translation_zh_CN": "空气中的微粒可以引发癌症。"
+    },
+    {
+      "content": "私が今言ったことに、いちいち細かいケチをつけないでよ。",
+      "furigana": "[私|わたし]が[今|いま][言|い]ったことに、いちいち[細|こま]かいケチをつけないでよ。",
+      "translation_zh_CN": "不用计较我刚刚的话。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "細ら",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "細ら",
+          "reading": "ささら"
+        },
+        {
+          "word": "細ら",
+          "reading": "さざら"
+        },
+        {
+          "word": "細",
+          "reading": "ささら"
+        },
+        {
+          "word": "細",
+          "reading": "さざら"
+        },
+        {
+          "word": "細れ",
+          "reading": "さざれ"
+        },
+        {
+          "word": "細",
+          "reading": "さざれ"
+        }
+      ]
+    },
+    {
+      "slug": "細い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "細い",
+          "reading": "ほそい"
+        }
+      ]
+    },
+    {
+      "slug": "細かい",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "細かい",
+          "reading": "こまかい"
+        }
+      ]
+    },
+    {
+      "slug": "細胞",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "細胞",
+          "reading": "さいぼう"
+        },
+        {
+          "word": "細胞",
+          "reading": "さいほう"
+        }
+      ]
+    },
+    {
+      "slug": "細菌",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "細菌",
+          "reading": "さいきん"
+        }
+      ]
+    },
+    {
+      "slug": "細か",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "細か",
+          "reading": "こまか"
+        }
+      ]
+    },
+    {
+      "slug": "細心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "細心",
+          "reading": "さいしん"
+        }
+      ]
+    },
+    {
+      "slug": "細部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "細部",
+          "reading": "さいぶ"
+        }
+      ]
+    },
+    {
+      "slug": "細工",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "細工",
+          "reading": "さいく"
+        }
+      ]
+    },
+    {
+      "slug": "細々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "細々",
+          "reading": "こまごま"
+        },
+        {
+          "word": "細細",
+          "reading": "こまごま"
+        }
+      ]
+    },
+    {
+      "slug": "小魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "小魚",
+          "reading": "こざかな"
+        },
+        {
+          "word": "小肴",
+          "reading": "こざかな"
+        }
+      ]
+    },
+    {
+      "slug": "細波",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "さざ波",
+          "reading": "さざなみ"
+        },
+        {
+          "word": "漣",
+          "reading": "さざなみ"
+        },
+        {
+          "word": "小波",
+          "reading": "さざなみ"
+        },
+        {
+          "word": "細波",
+          "reading": "さざなみ"
+        },
+        {
+          "word": "漣",
+          "reading": "ささなみ"
+        },
+        {
+          "word": "小波",
+          "reading": "ささなみ"
+        },
+        {
+          "word": "細波",
+          "reading": "ささなみ"
+        }
+      ]
+    },
+    {
+      "slug": "細やか",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "細やか",
+          "reading": "こまやか"
+        },
+        {
+          "word": "濃やか",
+          "reading": "こまやか"
+        }
+      ]
+    },
+    {
+      "slug": "細かいお金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "細かいお金",
+          "reading": "こまかいおかね"
+        }
+      ]
+    }
   ]
 }

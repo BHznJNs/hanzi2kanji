@@ -83,5 +83,232 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "移る",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "移る",
+          "reading": "うつる"
+        },
+        {
+          "word": "遷る",
+          "reading": "うつる"
+        }
+      ]
+    },
+    {
+      "slug": "移す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "移す",
+          "reading": "うつす"
+        },
+        {
+          "word": "遷す",
+          "reading": "うつす"
+        },
+        {
+          "word": "感染す",
+          "reading": "うつす"
+        },
+        {
+          "word": "伝染す",
+          "reading": "うつす"
+        }
+      ]
+    },
+    {
+      "slug": "遷都",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷都",
+          "reading": "せんと"
+        }
+      ]
+    },
+    {
+      "slug": "移り変わる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "移り変わる",
+          "reading": "うつりかわる"
+        },
+        {
+          "word": "移り変る",
+          "reading": "うつりかわる"
+        }
+      ]
+    },
+    {
+      "slug": "遷宮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷宮",
+          "reading": "せんぐう"
+        }
+      ]
+    },
+    {
+      "slug": "遷移元素",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷移元素",
+          "reading": "せんいげんそ"
+        }
+      ]
+    },
+    {
+      "slug": "遷宮祭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷宮祭",
+          "reading": "せんぐうさい"
+        }
+      ]
+    },
+    {
+      "slug": "遷幸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷幸",
+          "reading": "せんこう"
+        }
+      ]
+    },
+    {
+      "slug": "遷移",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷移",
+          "reading": "せんい"
+        }
+      ]
+    },
+    {
+      "slug": "遷移関数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷移関数",
+          "reading": "せんいかんすう"
+        }
+      ]
+    },
+    {
+      "slug": "遷座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷座",
+          "reading": "せんざ"
+        }
+      ]
+    },
+    {
+      "slug": "遷座祭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷座祭",
+          "reading": "せんざさい"
+        }
+      ]
+    },
+    {
+      "slug": "遷化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷化",
+          "reading": "せんげ"
+        }
+      ]
+    },
+    {
+      "slug": "遷移図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷移図",
+          "reading": "せんいず"
+        }
+      ]
+    },
+    {
+      "slug": "遷移確率",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷移確率",
+          "reading": "せんいかくりつ"
+        }
+      ]
+    },
+    {
+      "slug": "遷延",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷延",
+          "reading": "せんえん"
+        }
+      ]
+    },
+    {
+      "slug": "遷客",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷客",
+          "reading": "せんかく"
+        }
+      ]
+    },
+    {
+      "slug": "遷車台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷車台",
+          "reading": "せんしゃだい"
+        }
+      ]
+    },
+    {
+      "slug": "遷御",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷御",
+          "reading": "せんぎょ"
+        }
+      ]
+    },
+    {
+      "slug": "遷流",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遷流",
+          "reading": "せんる"
+        }
+      ]
+    }
   ]
 }

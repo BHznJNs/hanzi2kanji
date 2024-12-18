@@ -77,5 +77,323 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "シマウマは縞模様をしてます。",
+      "furigana": "シマウマは[縞模様|しま|も|よう]をしてます。",
+      "translation_zh_CN": "斑马有条纹图案。"
+    },
+    {
+      "content": "私の縞々のセーターどこかしら？",
+      "furigana": "[私|わたし]の[縞々|しま|しま]のセーターどこかしら？",
+      "translation_zh_CN": "我的条纹毛衣在哪里？"
+    },
+    {
+      "content": "この縞々のシャツ好きだったのに。",
+      "furigana": "この[縞|じま]々のシャツ[好|す]きだったのに。",
+      "translation_zh_CN": "我喜欢这件条纹衬衫。"
+    },
+    {
+      "content": "あのグリーンの縞のシャツ、今洗濯してるん？",
+      "furigana": "あのグリーンの[縞|しま]のシャツ、[今洗濯|こん|せん|たく]してるん？",
+      "translation_zh_CN": "你现在在洗那件绿色条纹衬衫吗？"
+    },
+    {
+      "content": "「お前、どこの子だ？」足に纏わりついてきたのは、小さな子猫だった。灰色の縞模様のふわふわした猫だ。",
+      "furigana": "「お[前|まえ]、どこの[子|こ]だ？」[足|あし]に[纏|まつ]わりついてきたのは、[小|ちい]さな[子猫|こ|ねこ]だった。[灰色|はい|いろ]の[縞模様|しま|も|よう]のふわふわした[猫|ねこ]だ。",
+      "translation_zh_CN": "“你在哪儿？”那是一只小猫，紧贴着我的腿。这是一只毛茸茸的猫，身上有灰色条纹。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "縞柄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞柄",
+          "reading": "しまがら"
+        }
+      ]
+    },
+    {
+      "slug": "縞模様",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞模様",
+          "reading": "しまもよう"
+        },
+        {
+          "word": "しま模様",
+          "reading": "しまもよう"
+        }
+      ]
+    },
+    {
+      "slug": "縞河豚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞河豚",
+          "reading": "しまふぐ"
+        },
+        {
+          "reading": "シマフグ"
+        }
+      ]
+    },
+    {
+      "slug": "縞栗鼠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞栗鼠",
+          "reading": "しまりす"
+        },
+        {
+          "reading": "シマリス"
+        }
+      ]
+    },
+    {
+      "slug": "縞鰺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞鰺",
+          "reading": "しまあじ"
+        },
+        {
+          "word": "縞鯵",
+          "reading": "しまあじ"
+        },
+        {
+          "word": "島鯵",
+          "reading": "しまあじ"
+        },
+        {
+          "reading": "シマアジ"
+        }
+      ]
+    },
+    {
+      "slug": "縞馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞馬",
+          "reading": "しまうま"
+        },
+        {
+          "word": "斑馬",
+          "reading": "しまうま"
+        },
+        {
+          "word": "しま馬",
+          "reading": "しまうま"
+        },
+        {
+          "word": "シマ馬",
+          "reading": "シマうま"
+        },
+        {
+          "reading": "シマウマ"
+        },
+        {
+          "word": "斑馬",
+          "reading": "まだらうま"
+        }
+      ]
+    },
+    {
+      "slug": "縞剥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "シマハギ"
+        },
+        {
+          "word": "縞剥",
+          "reading": "しまはぎ"
+        },
+        {
+          "word": "縞剝",
+          "reading": "しまはぎ"
+        }
+      ]
+    },
+    {
+      "slug": "縞牛の舌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞牛の舌",
+          "reading": "しまうしのした"
+        },
+        {
+          "word": "縞牛舌",
+          "reading": "しまうしのした"
+        },
+        {
+          "reading": "シマウシノシタ"
+        }
+      ]
+    },
+    {
+      "slug": "縞々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞々",
+          "reading": "しましま"
+        },
+        {
+          "word": "縞縞",
+          "reading": "しましま"
+        }
+      ]
+    },
+    {
+      "slug": "縞曹以",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞曹以",
+          "reading": "しまそい"
+        },
+        {
+          "word": "縞曹以",
+          "reading": "しまぞい"
+        },
+        {
+          "reading": "シマソイ"
+        },
+        {
+          "reading": "シマゾイ"
+        }
+      ]
+    },
+    {
+      "slug": "縞浮鮴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞浮鮴",
+          "reading": "しまうきごり"
+        },
+        {
+          "reading": "シマウキゴリ"
+        }
+      ]
+    },
+    {
+      "slug": "縞味",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞味",
+          "reading": "しまあじ"
+        },
+        {
+          "reading": "シマアジ"
+        }
+      ]
+    },
+    {
+      "slug": "縞物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞物",
+          "reading": "しまもの"
+        },
+        {
+          "word": "島物",
+          "reading": "しまもの"
+        }
+      ]
+    },
+    {
+      "slug": "縞蛇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞蛇",
+          "reading": "しまへび"
+        },
+        {
+          "reading": "シマヘビ"
+        }
+      ]
+    },
+    {
+      "slug": "縞蚯蚓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "シマミミズ"
+        },
+        {
+          "word": "縞蚯蚓",
+          "reading": "しまみみず"
+        }
+      ]
+    },
+    {
+      "slug": "縞織物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞織物",
+          "reading": "しまおりもの"
+        }
+      ]
+    },
+    {
+      "slug": "縞瑪瑙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞瑪瑙",
+          "reading": "しまめのう"
+        }
+      ]
+    },
+    {
+      "slug": "縞蠅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞蠅",
+          "reading": "しまばえ"
+        },
+        {
+          "word": "縞蝿",
+          "reading": "しまばえ"
+        },
+        {
+          "word": "大麻蠅",
+          "reading": "しまばえ"
+        },
+        {
+          "word": "大麻蝿",
+          "reading": "しまばえ"
+        },
+        {
+          "reading": "シマバエ"
+        }
+      ]
+    },
+    {
+      "slug": "縞秧鶏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縞秧鶏",
+          "reading": "しまくいな"
+        }
+      ]
+    }
   ]
 }

@@ -77,5 +77,285 @@
       "startStroke": 11,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "上質の綿でできています。",
+      "furigana": "[上質|じょう|しつ]の[綿|めん]でできています。",
+      "translation_zh_CN": "由优质棉制成。"
+    },
+    {
+      "content": "綿は水を吸い込む。",
+      "furigana": "[綿|めん]は[水|みず]を[吸|す]い[込|こ]む。",
+      "translation_zh_CN": "棉花吸收水分。"
+    },
+    {
+      "content": "茶碗を投げれば綿にて受けよ。",
+      "furigana": "[茶碗|ちゃ|わん]を[投|な]げれば[綿|めん]にて[受|う]けよ。",
+      "translation_zh_CN": "如果你向我扔碗，我会用棉花接住它。"
+    },
+    {
+      "content": "綿は水を吸収する。",
+      "furigana": "[綿|めん]は[水|みず]を[吸収|きゅう|しゅう]する。",
+      "translation_zh_CN": "棉花吸收水分。"
+    },
+    {
+      "content": "オレンジの綿パンが欲しかったな。",
+      "furigana": "オレンジの[綿|めん]パンが[欲|ほ]しかったな。",
+      "translation_zh_CN": "我想要橙色棉质裤子。"
+    },
+    {
+      "content": "このブラウスは綿100%です。",
+      "furigana": "このブラウスは[綿|めん]100%です。",
+      "translation_zh_CN": "这件衬衫是 100% 纯棉的。"
+    },
+    {
+      "content": "彼女は色褪せた綿のスカートをはいていた。",
+      "furigana": "[彼女|かの|じょ]は[色褪|いろ|あ]せた[綿|めん]のスカートをはいていた。",
+      "translation_zh_CN": "她穿着一条褪色的棉质裙子。"
+    },
+    {
+      "content": "その工場は綿製品を生産する。",
+      "furigana": "その[工場|こう|じょう]は[綿製品|めん|せい|ひん]を[生産|せい|さん]する。",
+      "translation_zh_CN": "该工厂生产棉制品。"
+    },
+    {
+      "content": "我々は綿の代わりにピーナッツを植えた。",
+      "furigana": "[我々|われわれ]は[綿|わた]の[代|か]わりにピーナッツを[植|う]えた。",
+      "translation_zh_CN": "我们种植花生而不是棉花。"
+    },
+    {
+      "content": "彼はウールと綿の区別がつかない。",
+      "furigana": "[彼|かれ]はウールと[綿|めん]の[区別|く|べつ]がつかない。",
+      "translation_zh_CN": "他无法区分羊毛和棉花。"
+    },
+    {
+      "content": "このブラウスは綿100%です。",
+      "furigana": "このブラウスは[綿|めん][1|][0|][0|]%です。",
+      "translation_zh_CN": "這件罩衫是棉的。"
+    },
+    {
+      "content": "いつか、綿菓子をつくる機械を買うんだ。",
+      "furigana": "いつか、[綿菓子|わた|が|し]をつくる[機械|き|かい]を[買|か]うんだ。",
+      "translation_zh_CN": "有一天我买了一台棉花糖机。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "綿密",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿密",
+          "reading": "めんみつ"
+        }
+      ]
+    },
+    {
+      "slug": "綿製品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿製品",
+          "reading": "めんせいひん"
+        }
+      ]
+    },
+    {
+      "slug": "綿棒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿棒",
+          "reading": "めんぼう"
+        },
+        {
+          "word": "めん棒",
+          "reading": "めんぼう"
+        }
+      ]
+    },
+    {
+      "slug": "綿花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿花",
+          "reading": "めんか"
+        },
+        {
+          "word": "棉花",
+          "reading": "めんか"
+        }
+      ]
+    },
+    {
+      "slug": "綿糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿糸",
+          "reading": "めんし"
+        }
+      ]
+    },
+    {
+      "slug": "綿布",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿布",
+          "reading": "めんぷ"
+        }
+      ]
+    },
+    {
+      "slug": "綿実油",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿実油",
+          "reading": "めんじつゆ"
+        },
+        {
+          "word": "棉実油",
+          "reading": "めんじつゆ"
+        }
+      ]
+    },
+    {
+      "slug": "綿菓子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿菓子",
+          "reading": "わたがし"
+        }
+      ]
+    },
+    {
+      "slug": "綿実",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿実",
+          "reading": "めんじつ"
+        },
+        {
+          "word": "棉実",
+          "reading": "めんじつ"
+        }
+      ]
+    },
+    {
+      "slug": "綿ぼこり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿ぼこり",
+          "reading": "わたぼこり"
+        },
+        {
+          "word": "綿埃",
+          "reading": "わたぼこり"
+        }
+      ]
+    },
+    {
+      "slug": "綿飴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿飴",
+          "reading": "わたあめ"
+        },
+        {
+          "word": "綿あめ",
+          "reading": "わたあめ"
+        }
+      ]
+    },
+    {
+      "slug": "綿密周到",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿密周到",
+          "reading": "めんみつしゅうとう"
+        }
+      ]
+    },
+    {
+      "slug": "綿打ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿打ち",
+          "reading": "わたうち"
+        }
+      ]
+    },
+    {
+      "slug": "綿帽子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿帽子",
+          "reading": "わたぼうし"
+        }
+      ]
+    },
+    {
+      "slug": "綿抜き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿抜き",
+          "reading": "わたぬき"
+        },
+        {
+          "word": "綿貫",
+          "reading": "わたぬき"
+        }
+      ]
+    },
+    {
+      "slug": "綿弓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿弓",
+          "reading": "わたゆみ"
+        }
+      ]
+    },
+    {
+      "slug": "綿屑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿くず",
+          "reading": "わたくず"
+        },
+        {
+          "word": "綿屑",
+          "reading": "わたくず"
+        }
+      ]
+    },
+    {
+      "slug": "綿綿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綿々",
+          "reading": "めんめん"
+        },
+        {
+          "word": "綿綿",
+          "reading": "めんめん"
+        }
+      ]
+    }
   ]
 }

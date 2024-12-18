@@ -100,5 +100,230 @@
       "startStroke": 10,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "チェッカー盤の黒と白の枡は交互に並んでいる。",
+      "furigana": "チェッカー[盤|ばん]の[黒|くろ]と[白|しろ]の[枡|ます]は[交互|こう|ご]に[並|なら]んでいる。",
+      "translation_zh_CN": "棋盘上的黑色和白色方块交替排列。"
+    },
+    {
+      "content": "空飛ぶ円盤を見た事がありますか。",
+      "furigana": "[空|そら][飛|と]ぶ[円盤|えん|ばん]を[見|み]た[事|こと]がありますか。",
+      "translation_zh_CN": "你看過飛碟嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "盤面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤面",
+          "reading": "ばんめん"
+        }
+      ]
+    },
+    {
+      "slug": "盤石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤石",
+          "reading": "ばんじゃく"
+        },
+        {
+          "word": "磐石",
+          "reading": "ばんじゃく"
+        }
+      ]
+    },
+    {
+      "slug": "半田",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "半田",
+          "reading": "はんだ"
+        },
+        {
+          "word": "盤陀",
+          "reading": "はんだ"
+        },
+        {
+          "reading": "ハンダ"
+        }
+      ]
+    },
+    {
+      "slug": "バンコク",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤谷",
+          "reading": "バンコク"
+        },
+        {
+          "word": "盤谷",
+          "reading": "バンコック"
+        }
+      ]
+    },
+    {
+      "slug": "盤竜類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤竜類",
+          "reading": "ばんりゅうるい"
+        }
+      ]
+    },
+    {
+      "slug": "盤古",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤古",
+          "reading": "ばんこ"
+        },
+        {
+          "word": "盤固",
+          "reading": "ばんこ"
+        }
+      ]
+    },
+    {
+      "slug": "盤外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤外",
+          "reading": "ばんがい"
+        }
+      ]
+    },
+    {
+      "slug": "盤上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤上",
+          "reading": "ばんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "盤層",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤層",
+          "reading": "ばんそう"
+        }
+      ]
+    },
+    {
+      "slug": "盤渉調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤渉調",
+          "reading": "ばんしきちょう"
+        }
+      ]
+    },
+    {
+      "slug": "盤竜目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤竜目",
+          "reading": "ばんりゅうもく"
+        }
+      ]
+    },
+    {
+      "slug": "盤質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤質",
+          "reading": "ばんしつ"
+        }
+      ]
+    },
+    {
+      "slug": "皿ばかり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "皿ばかり",
+          "reading": "さらばかり"
+        },
+        {
+          "word": "皿秤",
+          "reading": "さらばかり"
+        },
+        {
+          "word": "盤秤",
+          "reading": "さらばかり"
+        }
+      ]
+    },
+    {
+      "slug": "盤割",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤割",
+          "reading": "ばんかつ"
+        }
+      ]
+    },
+    {
+      "slug": "盤根",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤根",
+          "reading": "ばんこん"
+        }
+      ]
+    },
+    {
+      "slug": "盤根錯節",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤根錯節",
+          "reading": "ばんこんさくせつ"
+        }
+      ]
+    },
+    {
+      "slug": "蟠踞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蟠踞",
+          "reading": "ばんきょ"
+        },
+        {
+          "word": "盤踞",
+          "reading": "ばんきょ"
+        }
+      ]
+    },
+    {
+      "slug": "盤台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "盤台",
+          "reading": "ばんだい"
+        }
+      ]
+    }
   ]
 }

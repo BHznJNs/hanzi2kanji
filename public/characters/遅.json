@@ -84,5 +84,121 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "遅くなります。",
+      "furigana": "[遅|おそ]くなります。",
+      "translation_zh_CN": "会晚了。"
+    },
+    {
+      "content": "お、遅くない？",
+      "furigana": "お、[遅|おそ]くない？",
+      "translation_zh_CN": "哦，是不是很晚了？"
+    },
+    {
+      "content": "もう遅いから。",
+      "furigana": "もう[遅|おそ]いから。",
+      "translation_zh_CN": "因为已经很晚了。"
+    },
+    {
+      "content": "遅すぎる。",
+      "furigana": "[遅|おそ]すぎる。",
+      "translation_zh_CN": "为时已晚。"
+    },
+    {
+      "content": "急いで。遅いぞ。",
+      "furigana": "[急|いそ]いで。[遅|おそ]いぞ。",
+      "translation_zh_CN": "赶快。现在已经晚了。"
+    },
+    {
+      "content": "速く。遅いです。",
+      "furigana": "[速|はや]く。[遅|おそ]いです。",
+      "translation_zh_CN": "快速地。现在已经晚了。"
+    },
+    {
+      "content": "トムは遅い。",
+      "furigana": "トムは[遅|おそ]い。",
+      "translation_zh_CN": "汤姆迟到了。"
+    },
+    {
+      "content": "夜遅くです。",
+      "furigana": "[夜遅|よる|おそ]くです。",
+      "translation_zh_CN": "已经是深夜了。"
+    },
+    {
+      "content": "私のパソコン遅い。",
+      "furigana": "[私|わたし]のパソコン[遅|おそ]い。",
+      "translation_zh_CN": "我的电脑很慢。"
+    },
+    {
+      "content": "いまさら遅いよ。",
+      "furigana": "いまさら[遅|おそ]いよ。",
+      "translation_zh_CN": "现在已经太晚了。"
+    },
+    {
+      "content": "学校に遅刻した。",
+      "furigana": "[学校|がっ|こう]に[遅刻|ち|こく]した。",
+      "translation_zh_CN": "我上学迟到了。"
+    },
+    {
+      "content": "授業に遅れるよ。",
+      "furigana": "[授業|じゅ|ぎょう]に[遅|おく]れるよ。",
+      "translation_zh_CN": "你上課會遲到的。"
+    },
+    {
+      "content": "何人か遅刻した。",
+      "furigana": "[何|なん][人|にん]か[遅刻|ち|こく]した。",
+      "translation_zh_CN": "有几个人来迟了。"
+    },
+    {
+      "content": "雨で私は遅れた。",
+      "furigana": "[雨|あめ]で[私|わたし]は[遅|おく]れた。",
+      "translation_zh_CN": "我因為這場雨而遲到了。"
+    },
+    {
+      "content": "いまさら遅いよ。",
+      "furigana": "いまさら[遅|おそ]いよ。",
+      "translation_zh_CN": "现在太晚了。"
+    },
+    {
+      "content": "トムは足が遅い。",
+      "furigana": "トムは[足|あし]が[遅|おそ]い。",
+      "translation_zh_CN": "汤姆走得很慢。"
+    },
+    {
+      "content": "速く。遅いです。",
+      "furigana": "[速|はや]く。[遅|おそ]いです。",
+      "translation_zh_CN": "快快，很晚了。"
+    },
+    {
+      "content": "仕事に遅れたね。",
+      "furigana": "[仕事|し|ごと]に[遅|おく]れたね。",
+      "translation_zh_CN": "你上班迟到了。"
+    },
+    {
+      "content": "どうして遅れたの？",
+      "furigana": "どうして[遅|おく]れたの？",
+      "translation_zh_CN": "你为什么迟到？"
+    },
+    {
+      "content": "遅刻はしないよな？",
+      "furigana": "[遅刻|ち|こく]はしないよな？",
+      "translation_zh_CN": "你不會遲到，是嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "遅い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "遅い",
+          "reading": "おそい"
+        }
+      ]
+    }
   ]
 }

@@ -96,5 +96,321 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "質の良いサービスが求められている。",
+      "furigana": "[質|しつ]の[良|よ]いサービスが[求|もと]められている。",
+      "translation_zh_CN": "优质的服务是有需求的。"
+    },
+    {
+      "content": "翻訳の質が良くなった。",
+      "furigana": "[翻訳|ほん|やく]の[質|しつ]が[良|よ]くなった。",
+      "translation_zh_CN": "翻译质量有所提高。"
+    },
+    {
+      "content": "私は量より質をとる。",
+      "furigana": "[私|わたし]は[量|りょう]より[質|しつ]をとる。",
+      "translation_zh_CN": "我更喜欢质量而不是数量。"
+    },
+    {
+      "content": "お茶の質は下がりつつある。",
+      "furigana": "お[茶|ちゃ]の[質|しつ]は[下|さ]がりつつある。",
+      "translation_zh_CN": "茶叶品质不断下降。"
+    },
+    {
+      "content": "大切なのは量でなく質だ。",
+      "furigana": "[大切|たい|せつ]なのは[量|りょう]でなく[質|しつ]だ。",
+      "translation_zh_CN": "重要的是质量，而不是数量。"
+    },
+    {
+      "content": "私はカメラを質に入れた。",
+      "furigana": "[私|わたし]はカメラを[質|しつ]に[入|い]れた。",
+      "translation_zh_CN": "我当掉了相机。"
+    },
+    {
+      "content": "私は量よりも質を重んじる。",
+      "furigana": "[私|わたし]は[量|りょう]よりも[質|しつ]を[重|おも]んじる。",
+      "translation_zh_CN": "我重视质量胜过数量。"
+    },
+    {
+      "content": "お米の質は下がりつつある。",
+      "furigana": "お[米|べい]の[質|しつ]は[下|さ]がりつつある。",
+      "translation_zh_CN": "大米的品质正在下降。"
+    },
+    {
+      "content": "質の点で彼のレポートが最高だ。",
+      "furigana": "[質|しつ]の[点|てん]で[彼|かれ]のレポートが[最高|さい|こう]だ。",
+      "translation_zh_CN": "他的报告在质量上是最好的。"
+    },
+    {
+      "content": "質より量の方がむしろ重要である。",
+      "furigana": "[質|しつ]より[量|りょう]の[方|ほう]がむしろ[重要|じゅう|よう]である。",
+      "translation_zh_CN": "数量比质量更重要。"
+    },
+    {
+      "content": "質問があります。",
+      "furigana": "[質問|しつ|もん]があります。",
+      "translation_zh_CN": "我有一個問題。"
+    },
+    {
+      "content": "質問はありますか？",
+      "furigana": "[質問|しつ|もん]はありますか？",
+      "translation_zh_CN": "你们有没有问题？"
+    },
+    {
+      "content": "いい質問ですね。",
+      "furigana": "いい[質問|しつ|もん]ですね。",
+      "translation_zh_CN": "那是一個很好的問題。"
+    },
+    {
+      "content": "量より質が重要だ。",
+      "furigana": "[量|りょう]より[質|しつ]が[重要|じゅう|よう]だ。",
+      "translation_zh_CN": "数量不如质量。"
+    },
+    {
+      "content": "質問に答えなさい。",
+      "furigana": "[質問|しつ|もん]に[答|こた]えなさい。",
+      "translation_zh_CN": "回答問題。"
+    },
+    {
+      "content": "質問がありますか。",
+      "furigana": "[質問|しつ|もん]がありますか。",
+      "translation_zh_CN": "有问题吗？"
+    },
+    {
+      "content": "質問はおありですか。",
+      "furigana": "[質問|しつ|もん]はおありですか。",
+      "translation_zh_CN": "你有问题吗？"
+    },
+    {
+      "content": "質問があるのですが。",
+      "furigana": "[質問|しつ|もん]があるのですが。",
+      "translation_zh_CN": "我有一個問題。"
+    },
+    {
+      "content": "私は彼に質問をした。",
+      "furigana": "[私|わたし]は[彼|かれ]に[質問|しつ|もん]をした。",
+      "translation_zh_CN": "我問了他一條問題。"
+    },
+    {
+      "content": "彼女はひ弱な体質だ。",
+      "furigana": "[彼女|かの|じょ]はひ[弱|よわ]な[体質|たい|しつ]だ。",
+      "translation_zh_CN": "她天生体弱。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "質問",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "質問",
+          "reading": "しつもん"
+        }
+      ]
+    },
+    {
+      "slug": "質素",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "質素",
+          "reading": "しっそ"
+        }
+      ]
+    },
+    {
+      "slug": "質屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質屋",
+          "reading": "しちや"
+        }
+      ]
+    },
+    {
+      "slug": "質疑",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "質疑",
+          "reading": "しつぎ"
+        }
+      ]
+    },
+    {
+      "slug": "質の悪い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たちの悪い",
+          "reading": "たちのわるい"
+        },
+        {
+          "word": "タチの悪い",
+          "reading": "たちのわるい"
+        },
+        {
+          "word": "質の悪い",
+          "reading": "たちのわるい"
+        },
+        {
+          "word": "性質の悪い",
+          "reading": "たちのわるい"
+        }
+      ]
+    },
+    {
+      "slug": "質問攻め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質問攻め",
+          "reading": "しつもんぜめ"
+        }
+      ]
+    },
+    {
+      "slug": "質悪い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "タチ悪い",
+          "reading": "たちわるい"
+        },
+        {
+          "word": "たち悪い",
+          "reading": "たちわるい"
+        },
+        {
+          "word": "性質悪い",
+          "reading": "たちわるい"
+        },
+        {
+          "word": "質悪い",
+          "reading": "たちわるい"
+        }
+      ]
+    },
+    {
+      "slug": "質問用紙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質問用紙",
+          "reading": "しつもんようし"
+        }
+      ]
+    },
+    {
+      "slug": "質量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質量",
+          "reading": "しつりょう"
+        }
+      ]
+    },
+    {
+      "slug": "質問をする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質問をする",
+          "reading": "しつもんをする"
+        }
+      ]
+    },
+    {
+      "slug": "質的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質的",
+          "reading": "しつてき"
+        }
+      ]
+    },
+    {
+      "slug": "質感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質感",
+          "reading": "しつかん"
+        }
+      ]
+    },
+    {
+      "slug": "質実",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質実",
+          "reading": "しつじつ"
+        }
+      ]
+    },
+    {
+      "slug": "質に入れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質に入れる",
+          "reading": "しちにいれる"
+        }
+      ]
+    },
+    {
+      "slug": "質が良い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質がいい",
+          "reading": "しつがいい"
+        },
+        {
+          "word": "質が良い",
+          "reading": "しつがいい"
+        },
+        {
+          "word": "質が良い",
+          "reading": "しつがよい"
+        },
+        {
+          "word": "質がよい",
+          "reading": "しつがよい"
+        }
+      ]
+    },
+    {
+      "slug": "質権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質権",
+          "reading": "しちけん"
+        }
+      ]
+    },
+    {
+      "slug": "質料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "質料",
+          "reading": "しつりょう"
+        }
+      ]
+    }
   ]
 }

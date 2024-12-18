@@ -99,5 +99,179 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "鳶が鷹を生む。",
+      "furigana": "[鳶|とんび]が[鷹|たか]を[生|う]む。",
+      "translation_zh_CN": "风筝生下了一只鹰。"
+    },
+    {
+      "content": "鷹は鋭い目を持っている。",
+      "furigana": "[鷹|たか]は[鋭|するど]い[目|め]を[持|も]っている。",
+      "translation_zh_CN": "鹰的眼睛很锐利。"
+    },
+    {
+      "content": "能ある鷹は爪を隠す。",
+      "furigana": "[能|のう]ある[鷹|たか]は[爪|つめ]を[隠|かく]す。",
+      "translation_zh_CN": "能干的鹰隐藏它的利爪。"
+    },
+    {
+      "content": "一本の矢が鷹を貫通した。",
+      "furigana": "[一本|いち|ほん]の[矢|や]が[鷹|たか]を[貫通|つらぬき|とお]した。",
+      "translation_zh_CN": "一箭射穿了鹰。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "タカ派",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "タカ派",
+          "reading": "たかは"
+        },
+        {
+          "word": "鷹派",
+          "reading": "たかは"
+        }
+      ]
+    },
+    {
+      "slug": "鷹匠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹匠",
+          "reading": "たかじょう"
+        }
+      ]
+    },
+    {
+      "slug": "鷹狩り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹狩り",
+          "reading": "たかがり"
+        },
+        {
+          "word": "鷹狩",
+          "reading": "たかがり"
+        }
+      ]
+    },
+    {
+      "slug": "鷹栖養護学校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹栖養護学校",
+          "reading": "たかすようごがっこう"
+        }
+      ]
+    },
+    {
+      "slug": "鷹の爪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹の爪",
+          "reading": "たかのつめ"
+        },
+        {
+          "reading": "タカノツメ"
+        }
+      ]
+    },
+    {
+      "slug": "鷹隼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹隼",
+          "reading": "ようしゅん"
+        }
+      ]
+    },
+    {
+      "slug": "鷹詞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹詞",
+          "reading": "たかことば"
+        }
+      ]
+    },
+    {
+      "slug": "鷹野",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹野",
+          "reading": "たかの"
+        }
+      ]
+    },
+    {
+      "slug": "鷹の羽鯛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹の羽鯛",
+          "reading": "たかのはだい"
+        },
+        {
+          "reading": "タカノハダイ"
+        }
+      ]
+    },
+    {
+      "slug": "鷹柱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹柱",
+          "reading": "たかばしら"
+        }
+      ]
+    },
+    {
+      "slug": "鷹揚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹揚",
+          "reading": "おうよう"
+        },
+        {
+          "word": "鷹揚",
+          "reading": "ようよう"
+        },
+        {
+          "word": "鷹揚",
+          "reading": "おおよう"
+        },
+        {
+          "word": "大様",
+          "reading": "おおよう"
+        }
+      ]
+    },
+    {
+      "slug": "鷹化して鳩となる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷹化して鳩となる",
+          "reading": "たかかしてはととなる"
+        },
+        {
+          "word": "鷹化して鳩となる",
+          "reading": "たかけしてはととなる"
+        }
+      ]
+    }
   ]
 }

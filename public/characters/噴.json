@@ -124,5 +124,288 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "その火山は突然噴火し、多くの人が亡くなった。",
+      "furigana": "その[火山|か|ざん]は[突然|とつ|ぜん][噴火|ふん|か]し、[多|おお]くの[人|ひと]が[亡|な]くなった。",
+      "translation_zh_CN": "火山突然喷发，造成了多人死亡。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "噴火",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "噴火",
+          "reading": "ふんか"
+        }
+      ]
+    },
+    {
+      "slug": "噴水",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "噴水",
+          "reading": "ふんすい"
+        }
+      ]
+    },
+    {
+      "slug": "噴出",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "噴出",
+          "reading": "ふんしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "吹き出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹き出す",
+          "reading": "ふきだす"
+        },
+        {
+          "word": "噴き出す",
+          "reading": "ふきだす"
+        },
+        {
+          "word": "吹きだす",
+          "reading": "ふきだす"
+        },
+        {
+          "word": "吹出す",
+          "reading": "ふきだす"
+        },
+        {
+          "word": "噴出す",
+          "reading": "ふきだす"
+        },
+        {
+          "word": "噴きだす",
+          "reading": "ふきだす"
+        }
+      ]
+    },
+    {
+      "slug": "噴射",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴射",
+          "reading": "ふんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "吹き付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹き付ける",
+          "reading": "ふきつける"
+        },
+        {
+          "word": "吹きつける",
+          "reading": "ふきつける"
+        },
+        {
+          "word": "吹き着ける",
+          "reading": "ふきつける"
+        }
+      ]
+    },
+    {
+      "slug": "吹きこぼれる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹きこぼれる",
+          "reading": "ふきこぼれる"
+        },
+        {
+          "word": "吹き零れる",
+          "reading": "ふきこぼれる"
+        },
+        {
+          "word": "噴きこぼれる",
+          "reading": "ふきこぼれる"
+        },
+        {
+          "word": "噴き零れる",
+          "reading": "ふきこぼれる"
+        }
+      ]
+    },
+    {
+      "slug": "噴煙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴煙",
+          "reading": "ふんえん"
+        }
+      ]
+    },
+    {
+      "slug": "噴気孔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴気孔",
+          "reading": "ふんきこう"
+        }
+      ]
+    },
+    {
+      "slug": "噴門",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴門",
+          "reading": "ふんもん"
+        }
+      ]
+    },
+    {
+      "slug": "噴く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴く",
+          "reading": "ふく"
+        }
+      ]
+    },
+    {
+      "slug": "噴気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴気",
+          "reading": "ふんき"
+        }
+      ]
+    },
+    {
+      "slug": "噴射管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴射管",
+          "reading": "ふんしゃかん"
+        }
+      ]
+    },
+    {
+      "slug": "噴水効果",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴水効果",
+          "reading": "ふんすいこうか"
+        }
+      ]
+    },
+    {
+      "slug": "吹き上げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹き上げ",
+          "reading": "ふきあげ"
+        },
+        {
+          "word": "噴き上げ",
+          "reading": "ふきあげ"
+        },
+        {
+          "word": "吹上げ",
+          "reading": "ふきあげ"
+        },
+        {
+          "word": "噴上げ",
+          "reading": "ふきあげ"
+        }
+      ]
+    },
+    {
+      "slug": "噴出性嘔吐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴出性嘔吐",
+          "reading": "ふんしゅつせいおうと"
+        }
+      ]
+    },
+    {
+      "slug": "吹き上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹き上げる",
+          "reading": "ふきあげる"
+        },
+        {
+          "word": "噴き上げる",
+          "reading": "ふきあげる"
+        }
+      ]
+    },
+    {
+      "slug": "吹き出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吹き出る",
+          "reading": "ふきでる"
+        },
+        {
+          "word": "噴き出る",
+          "reading": "ふきでる"
+        },
+        {
+          "word": "吹出る",
+          "reading": "ふきでる"
+        },
+        {
+          "word": "噴出る",
+          "reading": "ふきでる"
+        }
+      ]
+    },
+    {
+      "slug": "噴流",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴流",
+          "reading": "ふんりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "噴泉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噴泉",
+          "reading": "ふんせん"
+        }
+      ]
+    }
   ]
 }

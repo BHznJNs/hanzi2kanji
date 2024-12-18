@@ -69,5 +69,244 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "外出する前に髪を櫛でときなさい。",
+      "furigana": "[外出|がい|しゅつ]する[前|まえ]に[髪|かみ]を[櫛|くし]でときなさい。",
+      "translation_zh_CN": "外出前先梳理头发。"
+    },
+    {
+      "content": "外出する前に髪を櫛でときなさい。",
+      "furigana": "[外出|がい|しゅつ]する[前|まえ]に[髪|かみ]を[櫛|くし]でときなさい。",
+      "translation_zh_CN": "在你出門之前，把你的頭髮梳一梳。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "くし形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "くし形",
+          "reading": "くしがた"
+        },
+        {
+          "word": "櫛形",
+          "reading": "くしがた"
+        }
+      ]
+    },
+    {
+      "slug": "櫛目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛目",
+          "reading": "くしめ"
+        },
+        {
+          "word": "くし目",
+          "reading": "くしめ"
+        },
+        {
+          "word": "クシ目",
+          "reading": "くしめ"
+        }
+      ]
+    },
+    {
+      "slug": "くし切り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "くし切り",
+          "reading": "くしぎり"
+        },
+        {
+          "word": "櫛切り",
+          "reading": "くしぎり"
+        }
+      ]
+    },
+    {
+      "slug": "櫛歯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛歯",
+          "reading": "くしば"
+        },
+        {
+          "word": "櫛歯",
+          "reading": "しつし"
+        }
+      ]
+    },
+    {
+      "slug": "櫛笥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛笥",
+          "reading": "くしげ"
+        },
+        {
+          "word": "匣",
+          "reading": "くしげ"
+        }
+      ]
+    },
+    {
+      "slug": "櫛鰓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛鰓",
+          "reading": "くしえら"
+        }
+      ]
+    },
+    {
+      "slug": "櫛板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛板",
+          "reading": "くしいた"
+        },
+        {
+          "word": "櫛板",
+          "reading": "くしばん"
+        },
+        {
+          "word": "くし板",
+          "reading": "くしいた"
+        },
+        {
+          "word": "くし板",
+          "reading": "くしばん"
+        }
+      ]
+    },
+    {
+      "slug": "櫛風沐雨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛風沐雨",
+          "reading": "しっぷうもくう"
+        }
+      ]
+    },
+    {
+      "slug": "櫛比",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛比",
+          "reading": "しっぴ"
+        }
+      ]
+    },
+    {
+      "slug": "櫛箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛箱",
+          "reading": "くしばこ"
+        },
+        {
+          "word": "櫛匣",
+          "reading": "くしばこ"
+        }
+      ]
+    },
+    {
+      "slug": "櫛水母",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛水母",
+          "reading": "くしくらげ"
+        },
+        {
+          "reading": "クシクラゲ"
+        }
+      ]
+    },
+    {
+      "slug": "櫛風浴雨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛風浴雨",
+          "reading": "しっぷうよくう"
+        }
+      ]
+    },
+    {
+      "slug": "櫛鱗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛鱗",
+          "reading": "しつりん"
+        }
+      ]
+    },
+    {
+      "slug": "櫛の歯が欠けたよう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛の歯が欠けたよう",
+          "reading": "くしのはがかけたよう"
+        }
+      ]
+    },
+    {
+      "slug": "クシクラゲ類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "クシクラゲ類",
+          "reading": "クシクラゲるい"
+        },
+        {
+          "word": "櫛水母類",
+          "reading": "くしくらげるい"
+        }
+      ]
+    },
+    {
+      "slug": "櫛の歯が抜けたよう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛の歯が抜けたよう",
+          "reading": "くしのはがぬけたよう"
+        }
+      ]
+    },
+    {
+      "slug": "櫛状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫛状",
+          "reading": "くしじょう"
+        },
+        {
+          "word": "くし状",
+          "reading": "くしじょう"
+        },
+        {
+          "word": "櫛状",
+          "reading": "しつじょう"
+        }
+      ]
+    }
   ]
 }

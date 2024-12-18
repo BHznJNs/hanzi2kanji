@@ -75,5 +75,285 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "君は規則を破った。",
+      "furigana": "[君|きみ]は[規則|き|そく]を[破|やぶ]った。",
+      "translation_zh_CN": "你触犯了规则。"
+    },
+    {
+      "content": "定規で線を書いて。",
+      "furigana": "[定規|じょう|ぎ]で[線|せん]を[書|か]いて。",
+      "translation_zh_CN": "用尺子画线。"
+    },
+    {
+      "content": "どの規則にも例外がある。",
+      "furigana": "どの[規則|き|そく]にも[例外|れい|がい]がある。",
+      "translation_zh_CN": "每條規則都有例外。"
+    },
+    {
+      "content": "どんな規則にも例外はある。",
+      "furigana": "どんな[規則|き|そく]にも[例外|れい|がい]はある。",
+      "translation_zh_CN": "每條規則都有例外。"
+    },
+    {
+      "content": "例外のない規則はありません。",
+      "furigana": "[例外|れい|がい]のない[規則|き|そく]はありません。",
+      "translation_zh_CN": "每條規則都有例外。"
+    },
+    {
+      "content": "規則は守らなければならない。",
+      "furigana": "[規則|き|そく]は[守|まも]らなければならない。",
+      "translation_zh_CN": "我们必须遵守规则。"
+    },
+    {
+      "content": "すべての規則には例外がある。",
+      "furigana": "すべての[規則|き|そく]には[例外|れい|がい]がある。",
+      "translation_zh_CN": "一切规则都有例外。"
+    },
+    {
+      "content": "どんな規則にも例外はあります。",
+      "furigana": "どんな[規則|き|そく]にも[例外|れい|がい]はあります。",
+      "translation_zh_CN": "每條規則都有例外。"
+    },
+    {
+      "content": "不規則動詞の勉強は好きではない。",
+      "furigana": "[不規則|ふ|き|そく][動詞|どう|し]の[勉強|べん|きょう]は[好|す]きではない。",
+      "translation_zh_CN": "我不喜欢学习不规则动词。"
+    },
+    {
+      "content": "彼女は規則をかいくぐるのがうまい。",
+      "furigana": "[彼女|かの|じょ]は[規則|き|そく]をかいくぐるのがうまい。",
+      "translation_zh_CN": "她擅於逃避規則。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "規制",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "規制",
+          "reading": "きせい"
+        }
+      ]
+    },
+    {
+      "slug": "軌範",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "規範",
+          "reading": "きはん"
+        },
+        {
+          "word": "軌範",
+          "reading": "きはん"
+        }
+      ]
+    },
+    {
+      "slug": "基準",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "基準",
+          "reading": "きじゅん"
+        },
+        {
+          "word": "規準",
+          "reading": "きじゅん"
+        }
+      ]
+    },
+    {
+      "slug": "規律",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "規律",
+          "reading": "きりつ"
+        },
+        {
+          "word": "紀律",
+          "reading": "きりつ"
+        }
+      ]
+    },
+    {
+      "slug": "規定",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "規定",
+          "reading": "きてい"
+        }
+      ]
+    },
+    {
+      "slug": "規模",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "規模",
+          "reading": "きぼ"
+        }
+      ]
+    },
+    {
+      "slug": "規約",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "規約",
+          "reading": "きやく"
+        }
+      ]
+    },
+    {
+      "slug": "規則的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規則的",
+          "reading": "きそくてき"
+        }
+      ]
+    },
+    {
+      "slug": "規制緩和",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規制緩和",
+          "reading": "きせいかんわ"
+        }
+      ]
+    },
+    {
+      "slug": "規格",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "規格",
+          "reading": "きかく"
+        }
+      ]
+    },
+    {
+      "slug": "規則正しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規則正しい",
+          "reading": "きそくただしい"
+        },
+        {
+          "word": "規則正い",
+          "reading": "きそくただしい"
+        }
+      ]
+    },
+    {
+      "slug": "規則違反",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規則違反",
+          "reading": "きそくいはん"
+        }
+      ]
+    },
+    {
+      "slug": "規則通り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規則通り",
+          "reading": "きそくどおり"
+        },
+        {
+          "word": "規則どおり",
+          "reading": "きそくどおり"
+        }
+      ]
+    },
+    {
+      "slug": "規制解除",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規制解除",
+          "reading": "きせいかいじょ"
+        }
+      ]
+    },
+    {
+      "slug": "規程",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規程",
+          "reading": "きてい"
+        }
+      ]
+    },
+    {
+      "slug": "規正",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規正",
+          "reading": "きせい"
+        }
+      ]
+    },
+    {
+      "slug": "規則を守る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規則を守る",
+          "reading": "きそくをまもる"
+        }
+      ]
+    },
+    {
+      "slug": "規範文法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規範文法",
+          "reading": "きはんぶんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "規則動詞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "規則動詞",
+          "reading": "きそくどうし"
+        }
+      ]
+    }
   ]
 }

@@ -61,5 +61,231 @@
       "startStroke": 4,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "これは机です。",
+      "furigana": "これは[机|つくえ]です。",
+      "translation_zh_CN": "这是一张桌子。"
+    },
+    {
+      "content": "弟は机に向かっている。",
+      "furigana": "[弟|おとうと]は[机|つくえ]に[向|む]かっている。",
+      "translation_zh_CN": "我弟弟坐在办公桌前。"
+    },
+    {
+      "content": "机の上を片付けよう。",
+      "furigana": "[机|つくえ]の[上|うえ]を[片付|かた|づ]けよう。",
+      "translation_zh_CN": "我们来清理一下桌子吧。"
+    },
+    {
+      "content": "メグは机を片づけた。",
+      "furigana": "メグは[机|つくえ]を[片|かた]づけた。",
+      "translation_zh_CN": "梅格清理了她的桌子。"
+    },
+    {
+      "content": "机を少しは片づけなさい。",
+      "furigana": "[机|つくえ]を[少|すこ]しは[片|かた]づけなさい。",
+      "translation_zh_CN": "请稍微清理一下你的桌子。"
+    },
+    {
+      "content": "机はほこりだらけだ。",
+      "furigana": "[机|つくえ]はほこりだらけだ。",
+      "translation_zh_CN": "桌子上满是灰尘。"
+    },
+    {
+      "content": "机はほこりで覆われている。",
+      "furigana": "[机|つくえ]はほこりで[覆|おお]われている。",
+      "translation_zh_CN": "桌子上布满了灰尘。"
+    },
+    {
+      "content": "私は机を片付けた。",
+      "furigana": "[私|わたし]は[机|つくえ]を[片付|かた|づ]けた。",
+      "translation_zh_CN": "我清理了我的桌子。"
+    },
+    {
+      "content": "彼は机に向かっている。",
+      "furigana": "[彼|かれ]は[机|つくえ]に[向|む]かっている。",
+      "translation_zh_CN": "他在办公桌前。"
+    },
+    {
+      "content": "この机は壊れています。",
+      "furigana": "この[机|つくえ]は[壊|こわ]れています。",
+      "translation_zh_CN": "这张桌子坏了。"
+    },
+    {
+      "content": "机の下に猫がいる。",
+      "furigana": "[机|つくえ]の[下|した]に[猫|ねこ]がいる。",
+      "translation_zh_CN": "书桌下有一只猫。"
+    },
+    {
+      "content": "俺の机には置くな。",
+      "furigana": "[俺|おれ]の[机|つくえ]には[置|お]くな。",
+      "translation_zh_CN": "不要把它放在我的桌子上。"
+    },
+    {
+      "content": "この机は木製だよ。",
+      "furigana": "この[机|つくえ]は[木製|もく|せい]だよ。",
+      "translation_zh_CN": "这张书桌是木制的。"
+    },
+    {
+      "content": "猫が机の上に座る。",
+      "furigana": "[猫|ねこ]が[机|つくえ]の[上|うえ]に[座|すわ]る。",
+      "translation_zh_CN": "猫坐在桌子上。"
+    },
+    {
+      "content": "机の上を片付けよう。",
+      "furigana": "[机|つくえ]の[上|うえ]を[片付|かた|づ]けよう。",
+      "translation_zh_CN": "我们把书桌整理干净吧。"
+    },
+    {
+      "content": "私は机の下に隠れた。",
+      "furigana": "[私|わたし]は[机|つくえ]の[下|した]に[隠|かく]れた。",
+      "translation_zh_CN": "我藏在桌子底下。"
+    },
+    {
+      "content": "机には何が入ってるの？",
+      "furigana": "[机|つくえ]には[何|なに]が[入|はい]ってるの？",
+      "translation_zh_CN": "桌子里面放的是什么东西呀？"
+    },
+    {
+      "content": "彼は机に向かっている。",
+      "furigana": "[彼|かれ]は[机|つくえ]に[向|む]かっている。",
+      "translation_zh_CN": "他在他的办公桌前。"
+    },
+    {
+      "content": "君の本は机の上にある。",
+      "furigana": "[君|きみ]の[本|ほん]は[机|つくえ]の[上|じょう]にある。",
+      "translation_zh_CN": "你的书在书桌上。"
+    },
+    {
+      "content": "机の上に本が１冊ある。",
+      "furigana": "[机|つくえ]の[上|うえ]に[本|ほん]が[１|いっ][冊|さつ]ある。",
+      "translation_zh_CN": "桌上有一本書。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "机上の空論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机上の空論",
+          "reading": "きじょうのくうろん"
+        }
+      ]
+    },
+    {
+      "slug": "机上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机上",
+          "reading": "きじょう"
+        },
+        {
+          "word": "几上",
+          "reading": "きじょう"
+        }
+      ]
+    },
+    {
+      "slug": "机上検査",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机上検査",
+          "reading": "きじょうけんさ"
+        }
+      ]
+    },
+    {
+      "slug": "机下",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机下",
+          "reading": "きか"
+        },
+        {
+          "word": "几下",
+          "reading": "きか"
+        }
+      ]
+    },
+    {
+      "slug": "几案",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "几案",
+          "reading": "きあん"
+        },
+        {
+          "word": "机案",
+          "reading": "きあん"
+        }
+      ]
+    },
+    {
+      "slug": "机辺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机辺",
+          "reading": "きへん"
+        }
+      ]
+    },
+    {
+      "slug": "机の足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机の足",
+          "reading": "つくえのあし"
+        }
+      ]
+    },
+    {
+      "slug": "机に向かう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机に向かう",
+          "reading": "つくえにむかう"
+        }
+      ]
+    },
+    {
+      "slug": "机を並べる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机を並べる",
+          "reading": "つくえをならべる"
+        }
+      ]
+    },
+    {
+      "slug": "机上デバッグ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机上デバッグ",
+          "reading": "きじょうデバッグ"
+        }
+      ]
+    },
+    {
+      "slug": "机上チェック",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "机上チェック",
+          "reading": "きじょうチェック"
+        }
+      ]
+    }
   ]
 }

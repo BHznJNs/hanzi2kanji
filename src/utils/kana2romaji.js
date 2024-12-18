@@ -251,5 +251,6 @@ export default function kana2romaji(string) {
         value += buf !== '' ? uniTable[buf] : '';
 
     value = value.replace(/([aiueo])ー/gi,'$1');
+    value = value.replace('.', ''); // remove dots
 	return value;
 }

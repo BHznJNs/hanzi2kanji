@@ -56,5 +56,83 @@
       "startStroke": 11,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "船は錨を下ろした。",
+      "furigana": "[船|ふね]は[錨|いかり]を[下|お]ろした。",
+      "translation_zh_CN": "船抛锚了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "碇草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "イカリソウ"
+        },
+        {
+          "word": "碇草",
+          "reading": "いかりそう"
+        },
+        {
+          "word": "錨草",
+          "reading": "いかりそう"
+        }
+      ]
+    },
+    {
+      "slug": "錨地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錨地",
+          "reading": "びょうち"
+        }
+      ]
+    },
+    {
+      "slug": "錨泊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錨泊",
+          "reading": "びょうはく"
+        }
+      ]
+    },
+    {
+      "slug": "碇綱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "碇綱",
+          "reading": "いかりづな"
+        },
+        {
+          "word": "錨綱",
+          "reading": "いかりづな"
+        }
+      ]
+    },
+    {
+      "slug": "いかり氷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "いかり氷",
+          "reading": "いかりこおり"
+        },
+        {
+          "word": "錨氷",
+          "reading": "いかりこおり"
+        },
+        {
+          "word": "錨氷",
+          "reading": "びょうひょう"
+        }
+      ]
+    }
   ]
 }

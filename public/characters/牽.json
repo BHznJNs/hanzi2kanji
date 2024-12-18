@@ -77,5 +77,196 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "引く",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "引く",
+          "reading": "ひく"
+        },
+        {
+          "word": "曳く",
+          "reading": "ひく"
+        },
+        {
+          "word": "牽く",
+          "reading": "ひく"
+        }
+      ]
+    },
+    {
+      "slug": "牽引車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽引車",
+          "reading": "けんいんしゃ"
+        },
+        {
+          "word": "けん引車",
+          "reading": "けんいんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "牽制球",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽制球",
+          "reading": "けんせいきゅう"
+        },
+        {
+          "word": "けん制球",
+          "reading": "けんせいきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "牽連",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽連",
+          "reading": "けんれん"
+        }
+      ]
+    },
+    {
+      "slug": "牽牛子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽牛子",
+          "reading": "けんごし"
+        }
+      ]
+    },
+    {
+      "slug": "牽引療法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽引療法",
+          "reading": "けんいんりょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "牽牛星",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽牛星",
+          "reading": "けんぎゅうせい"
+        }
+      ]
+    },
+    {
+      "slug": "牽制",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽制",
+          "reading": "けんせい"
+        },
+        {
+          "word": "けん制",
+          "reading": "けんせい"
+        }
+      ]
+    },
+    {
+      "slug": "牽引",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽引",
+          "reading": "けんいん"
+        },
+        {
+          "word": "牽引",
+          "reading": "けんびき"
+        },
+        {
+          "word": "けん引",
+          "reading": "けんいん"
+        },
+        {
+          "word": "けん引",
+          "reading": "けんびき"
+        }
+      ]
+    },
+    {
+      "slug": "牽引力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽引力",
+          "reading": "けんいんりょく"
+        }
+      ]
+    },
+    {
+      "slug": "牽強",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽強",
+          "reading": "けんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "牽引役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽引役",
+          "reading": "けんいんやく"
+        }
+      ]
+    },
+    {
+      "slug": "牽強付会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽強付会",
+          "reading": "けんきょうふかい"
+        },
+        {
+          "word": "牽強附会",
+          "reading": "けんきょうふかい"
+        }
+      ]
+    },
+    {
+      "slug": "牽制作戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽制作戦",
+          "reading": "けんせいさくせん"
+        }
+      ]
+    },
+    {
+      "slug": "牽束",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "牽束",
+          "reading": "けんそく"
+        }
+      ]
+    }
   ]
 }

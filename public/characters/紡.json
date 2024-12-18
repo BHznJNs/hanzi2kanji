@@ -62,5 +62,236 @@
       "startStroke": 6,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "紡績",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "紡績",
+          "reading": "ぼうせき"
+        }
+      ]
+    },
+    {
+      "slug": "紡ぐ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡ぐ",
+          "reading": "つむぐ"
+        }
+      ]
+    },
+    {
+      "slug": "紡ぎ歌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡ぎ歌",
+          "reading": "つむぎうた"
+        },
+        {
+          "word": "紡ぎ唄",
+          "reading": "つむぎうた"
+        },
+        {
+          "word": "つむぎ唄",
+          "reading": "つむぎうた"
+        },
+        {
+          "word": "つむぎ歌",
+          "reading": "つむぎうた"
+        }
+      ]
+    },
+    {
+      "slug": "紡織",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡織",
+          "reading": "ぼうしょく"
+        }
+      ]
+    },
+    {
+      "slug": "紡錘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡錘",
+          "reading": "ぼうすい"
+        },
+        {
+          "word": "紡錘",
+          "reading": "つむ"
+        },
+        {
+          "word": "錘",
+          "reading": "つむ"
+        },
+        {
+          "word": "錘",
+          "reading": "つみ"
+        }
+      ]
+    },
+    {
+      "slug": "紡錘体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡錘体",
+          "reading": "ぼうすいたい"
+        }
+      ]
+    },
+    {
+      "slug": "紡績工場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡績工場",
+          "reading": "ぼうせきこうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "紡績突起",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡績突起",
+          "reading": "ぼうせきとっき"
+        }
+      ]
+    },
+    {
+      "slug": "紡毛糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡毛糸",
+          "reading": "ぼうもうし"
+        }
+      ]
+    },
+    {
+      "slug": "紡績糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡績糸",
+          "reading": "ぼうせきいと"
+        },
+        {
+          "word": "紡績糸",
+          "reading": "ぼうせきし"
+        }
+      ]
+    },
+    {
+      "slug": "紡績機械",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡績機械",
+          "reading": "ぼうせききかい"
+        }
+      ]
+    },
+    {
+      "slug": "紡毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡毛",
+          "reading": "ぼうもう"
+        }
+      ]
+    },
+    {
+      "slug": "紬糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紬糸",
+          "reading": "つむぎいと"
+        },
+        {
+          "word": "つむぎ糸",
+          "reading": "つむぎいと"
+        }
+      ]
+    },
+    {
+      "slug": "紡織業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡織業",
+          "reading": "ぼうしょくぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "紡ぎ出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡ぎ出す",
+          "reading": "つむぎだす"
+        }
+      ]
+    },
+    {
+      "slug": "紡ぎ糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡ぎ糸",
+          "reading": "つむぎいと"
+        },
+        {
+          "word": "つむぎ糸",
+          "reading": "つむぎいと"
+        }
+      ]
+    },
+    {
+      "slug": "紡糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡糸",
+          "reading": "ぼうし"
+        }
+      ]
+    },
+    {
+      "slug": "紡毛織物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡毛織物",
+          "reading": "ぼうもうおりもの"
+        }
+      ]
+    },
+    {
+      "slug": "紡績工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紡績工",
+          "reading": "ぼうせきこう"
+        }
+      ]
+    }
   ]
 }
