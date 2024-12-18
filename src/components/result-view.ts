@@ -3,7 +3,7 @@ import { customElement, property, state } from 'lit/decorators.js'
 import { Task } from '@lit/task'
 import { unsafeHTML } from 'lit/directives/unsafe-html.js'
 import { showResultProperty } from './app-root'
-import { actionBtnStyles, linkStyles, rubyStyles } from '../global-css'
+import { actionBtnStyles, imgDarkInvert, linkStyles, rubyStyles } from '../global-css'
 import charToUtf16beHex from '../utils/charToUtf16beHex'
 import { dictionary } from '../utils/loadDictionary'
 import { furigana2ruby, kana2ruby, rubyFactory } from '../utils/toRuby'
@@ -52,6 +52,11 @@ export class ResultItem extends LitElement {
       display: grid;
       column-gap: 1rem;
       grid-template-columns: auto 1fr;
+    }
+    @media screen and (min-width: 800px) {
+      .char-info {
+        column-gap: 1.6rem;
+      }
     }
 
     .character-box {
@@ -117,8 +122,34 @@ export class ResultItem extends LitElement {
       align-items: baseline;
       height: fit-content;
     }
-    .sentences .sentence:not(:first-of-type) {
-      margin-top: 1rem;
+    .informations b {
+      user-select: none;
+      font-size: 1.025rem;
+    }
+    .usages .usage-item:not(:first-of-type)::before {
+      content: "、"
+    }
+    :host(:not([show-more-usage])) .usage-item:nth-child(n+6),
+    :host([show-more-usage]) .show-more-usage-btn {
+      display: none;
+    }
+    .show-more-usage-btn,
+    .show-more-sentence-btn {
+      display: flex;
+      width: fit-content;
+      margin-top: .6rem;
+      align-items: center;
+      user-select: none;
+      cursor: pointer;
+    }
+    .sentences .sentence-list {
+      display: flex;
+      flex-direction: column;
+      row-gap: .6rem;
+    }
+    :host(:not([show-more-sentence])) .sentence-list > .sentence:nth-child(n+3),
+    :host([show-more-sentence]) .show-more-sentence-btn {
+      display: none;
     }
 
     .external-link-title {
@@ -133,10 +164,16 @@ export class ResultItem extends LitElement {
       column-gap: 1rem;
     }
 
-  `, linkStyles, rubyStyles, actionBtnStyles]
+  `, imgDarkInvert, linkStyles, rubyStyles, actionBtnStyles]
 
   @property({type: String})
   character = ''
+  @property({type: Boolean, attribute: 'show-more-usage', reflect: true})
+  /** @ts-ignored */
+  private showMoreUsage = false
+  @property({type: Boolean, attribute: 'show-more-sentence', reflect: true})
+  /** @ts-ignored */
+  private showMoreSentence = false
 
   private loadCharData = new Task(this, {
     task: async ([character], {signal}) => {
@@ -175,7 +212,9 @@ export class ResultItem extends LitElement {
               const splitText = '、'
               const pronunciationOn  = data.on  ? unsafeHTML(data.on .map(kana2ruby).join(splitText)) : fallbackText
               const pronunciationKun = data.kun ? unsafeHTML(data.kun.map(kana2ruby).join(splitText)) : fallbackText
-              const usages = data.usages ? unsafeHTML(data.usages.map(({slug, japanese: [{ reading }]}) => rubyFactory(slug, [reading])).join('、')) : fallbackText
+              const usages = data.usages ? unsafeHTML(data.usages.map(({slug, japanese: [{ reading }]}) =>
+                `<span class="usage-item">${rubyFactory(slug, reading)}</span>
+              `).join('')) : fallbackText
               const sentences = data.sentences ? unsafeHTML(data.sentences.map(({furigana, translation_zh_CN}) => `
                 <div class="sentence">
                   <div class="origin">${furigana2ruby(furigana)}</div>
@@ -185,8 +224,24 @@ export class ResultItem extends LitElement {
               return html`
                 <div class="on" ><b>音読：</b>${pronunciationOn }</div>
                 <div class="kun"><b>訓読：</b>${pronunciationKun}</div>
-                <div class="usages"><b>用法：</b>${usages}</div>
-                <div class="sentences"><b>例句：</b>${sentences}</div>
+                <div class="usages">
+                  <b>用法：</b>
+                  ${usages}
+                  <div
+                    class="show-more-usage-btn"
+                    @click=${() => this.showMoreUsage = true}>
+                    展开更多 <img class="dark-invert" src="/down.svg" />
+                  </div>
+                </div>
+                <div class="sentences">
+                  <b>例句：</b>
+                  <div class="sentence-list">${sentences}</div>
+                  <div
+                    class="show-more-sentence-btn"
+                    @click=${() => this.showMoreSentence = true}>
+                    展开更多 <img class="dark-invert" src="/down.svg" />
+                  </div>
+                </div>
               `
             },
             error: () => html`<p>发音信息加载失败，请重试。</p>`

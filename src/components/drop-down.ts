@@ -59,6 +59,10 @@ export class DropDown extends LitElement {
     :host([expand]) .dropped {
       box-shadow: var(--shadow-md-1);
     }
+    .dropped a {
+      color: inherit !important;
+      text-decoration: none;
+    }
     .dropped-item {
       padding: .4rem .8rem .4rem .5rem;
       list-style: none;
@@ -66,6 +70,7 @@ export class DropDown extends LitElement {
       border-radius: 4px;
       white-space: nowrap;
       text-align: center;
+      user-select: none;
       transition: background .3s;
     }
     .dropped-item:hover {
@@ -83,12 +88,15 @@ export class DropDown extends LitElement {
     return html`
       <button class="normal"
         @click=${() => this.dropped = !this.dropped}
-        @blur=${() => this.dropped = false}
+        @blur=${() => setTimeout(() => this.dropped = false, 100)}
       >
         <img class="dark-invert" src="/more.svg" />
       </button>
       <div class="dropped-container">
         <ul class="dropped">
+          <a href="https://github.com/BHznJNs/hanzi2kanji" target="blank_">
+            <li class="dropped-item">🔗 源码</li>
+          </a>
           <li class="dropped-item">👏 鸣谢</li>
           <li class="dropped-item">🎁 捐赠</li>
         </ul>
