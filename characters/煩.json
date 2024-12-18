@@ -108,5 +108,262 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "この世に思い煩らうことはない。",
+      "furigana": "この[世|よ]に[思|おも]い[煩|はん]らうことはない。",
+      "translation_zh_CN": "别担心这个世界。"
+    },
+    {
+      "content": "文法は非常に煩雑だ。",
+      "furigana": "[文法|ぶん|ぽう]は[非常|ひ|じょう]に[煩雑|はん|ざつ]だ。",
+      "translation_zh_CN": "语法非常复杂。"
+    },
+    {
+      "content": "お手を煩わせて申し訳ありません。",
+      "furigana": "お[手|て]を[煩|わずら]わせて[申|もう]し[訳|わけ]ありません。",
+      "translation_zh_CN": "我很抱歉給你添麻煩了。"
+    },
+    {
+      "content": "「百八といえば煩悩の数だ」「お兄ちゃんはどんな煩悩があるの？」「言ってもいいが、検閲削除になるぞ」",
+      "furigana": "「[百|ひゃく][八|はち]といえば[煩悩|ぼん|のう]の[数|かず]だ」「お[兄|にい]ちゃんはどんな[煩悩|ぼん|のう]があるの？」「[言|い]ってもいいが、[検閲|けん|えつ][削除|さく|じょ]になるぞ」",
+      "translation_zh_CN": "「說到一百零八，這不就是代表煩惱的數字嗎。」「那麼你有甚麼煩惱呀？」「告訴你並不是不可以，但是內容會給河蟹掉的。」"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "煩い",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "煩い",
+          "reading": "うるさい"
+        },
+        {
+          "word": "五月蝿い",
+          "reading": "うるさい"
+        },
+        {
+          "word": "五月蠅い",
+          "reading": "うるさい"
+        }
+      ]
+    },
+    {
+      "slug": "煩わしい",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "煩わしい",
+          "reading": "わずらわしい"
+        }
+      ]
+    },
+    {
+      "slug": "煩悩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩悩",
+          "reading": "ぼんのう"
+        },
+        {
+          "word": "煩惱",
+          "reading": "ぼんのう"
+        }
+      ]
+    },
+    {
+      "slug": "煩雑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩雑",
+          "reading": "はんざつ"
+        },
+        {
+          "word": "繁雑",
+          "reading": "はんざつ"
+        }
+      ]
+    },
+    {
+      "slug": "患う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "患う",
+          "reading": "わずらう"
+        }
+      ]
+    },
+    {
+      "slug": "煩わす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩わす",
+          "reading": "わずらわす"
+        }
+      ]
+    },
+    {
+      "slug": "煩忙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繁忙",
+          "reading": "はんぼう"
+        },
+        {
+          "word": "煩忙",
+          "reading": "はんぼう"
+        }
+      ]
+    },
+    {
+      "slug": "煩型",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩型",
+          "reading": "うるさがた"
+        },
+        {
+          "word": "煩さ型",
+          "reading": "うるさがた"
+        },
+        {
+          "word": "うるさ型",
+          "reading": "うるさがた"
+        },
+        {
+          "word": "うるさ方",
+          "reading": "うるさがた"
+        }
+      ]
+    },
+    {
+      "slug": "煩悩具足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩悩具足",
+          "reading": "ぼんのうぐそく"
+        }
+      ]
+    },
+    {
+      "slug": "煩悩魔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩悩魔",
+          "reading": "ぼんのうま"
+        }
+      ]
+    },
+    {
+      "slug": "患いつく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "患いつく",
+          "reading": "わずらいつく"
+        },
+        {
+          "word": "患い付く",
+          "reading": "わずらいつく"
+        },
+        {
+          "word": "煩いつく",
+          "reading": "わずらいつく"
+        },
+        {
+          "word": "煩い付く",
+          "reading": "わずらいつく"
+        }
+      ]
+    },
+    {
+      "slug": "煩悶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩悶",
+          "reading": "はんもん"
+        }
+      ]
+    },
+    {
+      "slug": "煩悩鷺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩悩鷺",
+          "reading": "ぼんのうさぎ"
+        }
+      ]
+    },
+    {
+      "slug": "煩わせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩わせる",
+          "reading": "わずらわせる"
+        }
+      ]
+    },
+    {
+      "slug": "煩労",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩労",
+          "reading": "はんろう"
+        }
+      ]
+    },
+    {
+      "slug": "煩慮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩慮",
+          "reading": "はんりょ"
+        }
+      ]
+    },
+    {
+      "slug": "煩悶懊悩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩悶懊悩",
+          "reading": "はんもんおうのう"
+        }
+      ]
+    },
+    {
+      "slug": "煩がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "煩がる",
+          "reading": "うるさがる"
+        },
+        {
+          "word": "煩さがる",
+          "reading": "うるさがる"
+        }
+      ]
+    }
   ]
 }

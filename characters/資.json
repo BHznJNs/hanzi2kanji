@@ -97,5 +97,261 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は株に投資した。",
+      "furigana": "[彼|かれ]は[株|かぶ]に[投資|とう|し]した。",
+      "translation_zh_CN": "他把錢投資於股票。"
+    },
+    {
+      "content": "資金が底をついた。",
+      "furigana": "[資金|し|きん]が[底|そこ]をついた。",
+      "translation_zh_CN": "我们的钱花完了。"
+    },
+    {
+      "content": "日本は天然資源に乏しい。",
+      "furigana": "[日本|に|ほん]は[天然|てん|ねん][資源|し|げん]に[乏|とぼ]しい。",
+      "translation_zh_CN": "日本自然资源贫乏。"
+    },
+    {
+      "content": "政治家は資金集めが上手だ。",
+      "furigana": "[政治|せい|じ][家|か]は[資金|し|きん][集|あつ]めが[上手|じょう|ず]だ。",
+      "translation_zh_CN": "政客都很會賺錢。"
+    },
+    {
+      "content": "彼は自分のお金を株に投資した。",
+      "furigana": "[彼|かれ]は[自分|じ|ぶん]のお[金|かね]を[株|かぶ]に[投資|とう|し]した。",
+      "translation_zh_CN": "他把錢投資於股票。"
+    },
+    {
+      "content": "日本は天然資源が豊富ではない。",
+      "furigana": "[日本|にっ|ぽん]は[天然|てん|ねん][資源|し|げん]が[豊富|ほう|ふ]ではない。",
+      "translation_zh_CN": "日本並不擁有豐富的自然資源。"
+    },
+    {
+      "content": "彼女は看護婦の資格を持っている。",
+      "furigana": "[彼女|かの|じょ]は[看護|かん|ご][婦|ふ]の[資格|し|かく]を[持|も]っている。",
+      "translation_zh_CN": "她是个合格的护士。"
+    },
+    {
+      "content": "政府は農業にもっと投資するべきだ。",
+      "furigana": "[政府|せい|ふ]は[農業|のう|ぎょう]にもっと[投資|とう|し]するべきだ。",
+      "translation_zh_CN": "政府应该加大对农业的投资。"
+    },
+    {
+      "content": "この資料が信頼できるかどうか疑わしい。",
+      "furigana": "この[資料|し|りょう]が[信頼|しん|らい]できるかどうか[疑|うたが]わしい。",
+      "translation_zh_CN": "這些資料未必可靠。"
+    },
+    {
+      "content": "オーストラリアは天然資源が豊かである。",
+      "furigana": "オーストラリアは[天然|てん|ねん][資源|し|げん]が[豊|ゆた]かである。",
+      "translation_zh_CN": "澳大利亚自然资源很丰富。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "資源",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "資源",
+          "reading": "しげん"
+        }
+      ]
+    },
+    {
+      "slug": "資本",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "資本",
+          "reading": "しほん"
+        }
+      ]
+    },
+    {
+      "slug": "資料",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "資料",
+          "reading": "しりょう"
+        }
+      ]
+    },
+    {
+      "slug": "資格",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "資格",
+          "reading": "しかく"
+        }
+      ]
+    },
+    {
+      "slug": "資産",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "資産",
+          "reading": "しさん"
+        }
+      ]
+    },
+    {
+      "slug": "資金",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "資金",
+          "reading": "しきん"
+        }
+      ]
+    },
+    {
+      "slug": "資本金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資本金",
+          "reading": "しほんきん"
+        }
+      ]
+    },
+    {
+      "slug": "資本主義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資本主義",
+          "reading": "しほんしゅぎ"
+        }
+      ]
+    },
+    {
+      "slug": "資質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資質",
+          "reading": "ししつ"
+        }
+      ]
+    },
+    {
+      "slug": "資材",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資材",
+          "reading": "しざい"
+        }
+      ]
+    },
+    {
+      "slug": "資金繰り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資金繰り",
+          "reading": "しきんぐり"
+        }
+      ]
+    },
+    {
+      "slug": "資本家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資本家",
+          "reading": "しほんか"
+        }
+      ]
+    },
+    {
+      "slug": "資金調達",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資金調達",
+          "reading": "しきんちょうたつ"
+        }
+      ]
+    },
+    {
+      "slug": "資金不足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資金不足",
+          "reading": "しきんぶそく"
+        }
+      ]
+    },
+    {
+      "slug": "資産家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資産家",
+          "reading": "しさんか"
+        }
+      ]
+    },
+    {
+      "slug": "資本集約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資本集約",
+          "reading": "しほんしゅうやく"
+        }
+      ]
+    },
+    {
+      "slug": "資源管理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資源管理",
+          "reading": "しげんかんり"
+        }
+      ]
+    },
+    {
+      "slug": "資金難",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資金難",
+          "reading": "しきんなん"
+        }
+      ]
+    },
+    {
+      "slug": "資本参加",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "資本参加",
+          "reading": "しほんさんか"
+        }
+      ]
+    }
   ]
 }

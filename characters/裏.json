@@ -105,5 +105,309 @@
       "strokes": 4,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "表か裏か。",
+      "furigana": "[表|ひょう]か[裏|うら]か。",
+      "translation_zh_CN": "是头还是尾？"
+    },
+    {
+      "content": "裏には裏がある。",
+      "furigana": "[裏|うら]には[裏|うら]がある。",
+      "translation_zh_CN": "幕后还有另一面。"
+    },
+    {
+      "content": "憎い憎いは可愛いの裏。",
+      "furigana": "[憎|にく]い[憎|にく]いは[可愛|か|わい]いの[裏|うら]。",
+      "translation_zh_CN": "讨厌，讨厌是可爱的另一面。"
+    },
+    {
+      "content": "足の裏ってくすぐったい？",
+      "furigana": "[足|あし]の[裏|うら]ってくすぐったい？",
+      "translation_zh_CN": "你的脚底痒吗？"
+    },
+    {
+      "content": "裏から手を回してくれるよ。",
+      "furigana": "[裏|うら]から[手|て]を[回|まわ]してくれるよ。",
+      "translation_zh_CN": "他会从后面把手放在你身上。"
+    },
+    {
+      "content": "不幸の裏には幸いあり。",
+      "furigana": "[不幸|ふ|こう]の[裏|うら]には[幸|さいわ]いあり。",
+      "translation_zh_CN": "不幸的背后也有幸福。"
+    },
+    {
+      "content": "トムは家の裏の池で泳いだ。",
+      "furigana": "トムは[家|いえ]の[裏|うら]の[池|いけ]で[泳|およ]いだ。",
+      "translation_zh_CN": "汤姆在屋后的池塘里游泳。"
+    },
+    {
+      "content": "封筒の裏に彼の住所を書いてしまった。",
+      "furigana": "[封筒|ふう|とう]の[裏|うら]に[彼|かれ]の[住所|じゅう|しょ]を[書|か]いてしまった。",
+      "translation_zh_CN": "我在信封背面写下了他的地址。"
+    },
+    {
+      "content": "劇場の裏に駐車場がある。",
+      "furigana": "[劇場|げき|じょう]の[裏|うら]に[駐車場|ちゅう|しゃ|じょう]がある。",
+      "translation_zh_CN": "剧院后面有一个停车场。"
+    },
+    {
+      "content": "今、何回の裏ですか。",
+      "furigana": "[今|いま]、[何回|なん|かい]の[裏|うら]ですか。",
+      "translation_zh_CN": "现在有几尾了？"
+    },
+    {
+      "content": "月の裏側は見えません。",
+      "furigana": "[月|つき]の[裏側|うら|がわ]は[見|み]えません。",
+      "translation_zh_CN": "我們看不到月亮的另一邊。"
+    },
+    {
+      "content": "右の靴下が裏返しだよ。",
+      "furigana": "[右|みぎ]の[靴下|くつ|した]が[裏返|うら|がえ]しだよ。",
+      "translation_zh_CN": "你右邊襪子倒轉穿了。"
+    },
+    {
+      "content": "業界の裏話を聞きたい。",
+      "furigana": "[業界|ぎょう|かい]の[裏話|うら|ばなし]を[聞|き]きたい。",
+      "translation_zh_CN": "想听业界秘闻。"
+    },
+    {
+      "content": "セーターが裏返しだよ。",
+      "furigana": "セーターが[裏返|うら|がえ]しだよ。",
+      "translation_zh_CN": "你毛衣穿反了哟。"
+    },
+    {
+      "content": "トムは屋根裏部屋にいる。",
+      "furigana": "トムは[屋根裏|や|ね|うら][部屋|へ|や]にいる。",
+      "translation_zh_CN": "湯姆在閣樓裡。"
+    },
+    {
+      "content": "彼女、彼を裏切ったのよ。",
+      "furigana": "[彼女|かの|じょ]、[彼|かれ]を[裏切|うら|ぎ]ったのよ。",
+      "translation_zh_CN": "她在他的背上戳了一下。"
+    },
+    {
+      "content": "裏から手を回してくれるよ。",
+      "furigana": "[裏|うら]から[手|て]を[回|まわ]してくれるよ。",
+      "translation_zh_CN": "他能为你暗箱操作。"
+    },
+    {
+      "content": "彼は我々の信頼を裏切った。",
+      "furigana": "[彼|かれ]は[我々|われわれ]の[信頼|しん|らい]を[裏切|うら|ぎ]った。",
+      "translation_zh_CN": "他背叛了我們的信賴。"
+    },
+    {
+      "content": "彼は服を表裏反対に着ていた。",
+      "furigana": "[彼|かれ]は[服|ふく]を[表裏|おもて|うら][反対|はん|たい]に[着|き]ていた。",
+      "translation_zh_CN": "他把衣服里外穿反了。"
+    },
+    {
+      "content": "彼は靴下を裏返しに履いていた。",
+      "furigana": "[彼|かれ]は[靴下|くつ|した]を[裏返|うら|がえ]しに[履|は]いていた。",
+      "translation_zh_CN": "他把他的襪子穿反了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "裏切る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "裏切る",
+          "reading": "うらぎる"
+        }
+      ]
+    },
+    {
+      "slug": "裏口",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "裏口",
+          "reading": "うらぐち"
+        }
+      ]
+    },
+    {
+      "slug": "裏返す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "裏返す",
+          "reading": "うらがえす"
+        }
+      ]
+    },
+    {
+      "slug": "裏返し",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "裏返し",
+          "reading": "うらがえし"
+        }
+      ]
+    },
+    {
+      "slug": "裏金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏金",
+          "reading": "うらがね"
+        }
+      ]
+    },
+    {
+      "slug": "裏書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏書",
+          "reading": "うらがき"
+        },
+        {
+          "word": "裏書き",
+          "reading": "うらがき"
+        }
+      ]
+    },
+    {
+      "slug": "裏側",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏側",
+          "reading": "うらがわ"
+        }
+      ]
+    },
+    {
+      "slug": "裏切り者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏切り者",
+          "reading": "うらぎりもの"
+        },
+        {
+          "word": "裏切者",
+          "reading": "うらぎりもの"
+        }
+      ]
+    },
+    {
+      "slug": "裏付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏付け",
+          "reading": "うらづけ"
+        },
+        {
+          "word": "裏づけ",
+          "reading": "うらづけ"
+        },
+        {
+          "word": "裏付",
+          "reading": "うらづけ"
+        }
+      ]
+    },
+    {
+      "slug": "裏腹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏腹",
+          "reading": "うらはら"
+        }
+      ]
+    },
+    {
+      "slug": "裏方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏方",
+          "reading": "うらかた"
+        }
+      ]
+    },
+    {
+      "slug": "裏切り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏切り",
+          "reading": "うらぎり"
+        }
+      ]
+    },
+    {
+      "slug": "裏目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏目",
+          "reading": "うらめ"
+        }
+      ]
+    },
+    {
+      "slug": "裏通り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏通り",
+          "reading": "うらどおり"
+        },
+        {
+          "word": "裏通り",
+          "reading": "うらとおり"
+        },
+        {
+          "word": "裏通",
+          "reading": "うらどおり"
+        },
+        {
+          "word": "裏通",
+          "reading": "うらとおり"
+        }
+      ]
+    },
+    {
+      "slug": "裏表",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏表",
+          "reading": "うらおもて"
+        }
+      ]
+    },
+    {
+      "slug": "裏づける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "裏付ける",
+          "reading": "うらづける"
+        },
+        {
+          "word": "裏づける",
+          "reading": "うらづける"
+        }
+      ]
+    }
   ]
 }

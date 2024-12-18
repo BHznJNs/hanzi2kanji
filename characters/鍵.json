@@ -74,5 +74,345 @@
       "startStroke": 14,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "鍵ある？",
+      "furigana": "[鍵|かぎ]ある？",
+      "translation_zh_CN": "你有钥匙吗？"
+    },
+    {
+      "content": "鍵がかかっている。",
+      "furigana": "[鍵|かぎ]がかかっている。",
+      "translation_zh_CN": "它被锁了。"
+    },
+    {
+      "content": "鍵を渡しました。",
+      "furigana": "[鍵|かぎ]を[渡|わた]しました。",
+      "translation_zh_CN": "我把钥匙递了过去。"
+    },
+    {
+      "content": "鍵を開けろ。",
+      "furigana": "[鍵|かぎ]を[開|あ]けろ。",
+      "translation_zh_CN": "解锁它。"
+    },
+    {
+      "content": "鍵をなくした。",
+      "furigana": "[鍵|かぎ]をなくした。",
+      "translation_zh_CN": "我丢了钥匙。"
+    },
+    {
+      "content": "鍵が見当たらない。",
+      "furigana": "[鍵|かぎ]が[見当|み|あ]たらない。",
+      "translation_zh_CN": "我找不到钥匙。"
+    },
+    {
+      "content": "鍵を探しています。",
+      "furigana": "[鍵|かぎ]を[探|さが]しています。",
+      "translation_zh_CN": "我正在寻找钥匙。"
+    },
+    {
+      "content": "鍵がいる？",
+      "furigana": "[鍵|かぎ]がいる？",
+      "translation_zh_CN": "你需要钥匙吗？"
+    },
+    {
+      "content": "鍵が見つからない。",
+      "furigana": "[鍵|かぎ]が[見|み]つからない。",
+      "translation_zh_CN": "我找不到我的钥匙了。"
+    },
+    {
+      "content": "鍵をなくしてしまった。",
+      "furigana": "[鍵|かぎ]をなくしてしまった。",
+      "translation_zh_CN": "我丢了钥匙。"
+    },
+    {
+      "content": "彼は鍵を回した。",
+      "furigana": "[彼|かれ]は[鍵|かぎ]を[回|まわ]した。",
+      "translation_zh_CN": "他转动钥匙。"
+    },
+    {
+      "content": "私は鍵をなくした。",
+      "furigana": "[私|わたし]は[鍵|かぎ]をなくした。",
+      "translation_zh_CN": "我钥匙丢了。"
+    },
+    {
+      "content": "鍵を探しています。",
+      "furigana": "[鍵|かぎ]を[探|さが]しています。",
+      "translation_zh_CN": "我在找我的鑰匙。"
+    },
+    {
+      "content": "鍵は右に回してよ。",
+      "furigana": "[鍵|かぎ]は[右|みぎ]に[回|まわ]してよ。",
+      "translation_zh_CN": "往右邊轉動鑰匙。"
+    },
+    {
+      "content": "鍵を右に回しなさい。",
+      "furigana": "[鍵|かぎ]を[右|みぎ]に[回|まわ]しなさい。",
+      "translation_zh_CN": "往右邊轉動鑰匙。"
+    },
+    {
+      "content": "君は違う鍵を取った。",
+      "furigana": "[君|きみ]は[違|ちが]う[鍵|かぎ]を[取|と]った。",
+      "translation_zh_CN": "你拿错钥匙了。"
+    },
+    {
+      "content": "君の鍵はどこにあるの？",
+      "furigana": "[君|きみ]の[鍵|かぎ]はどこにあるの？",
+      "translation_zh_CN": "你的钥匙在哪儿？"
+    },
+    {
+      "content": "探してる鍵って、これ？",
+      "furigana": "[探|さが]してる[鍵|かぎ]って、これ？",
+      "translation_zh_CN": "这是你找的钥匙吗？"
+    },
+    {
+      "content": "鍵をなくしてしまった。",
+      "furigana": "[鍵|かぎ]をなくしてしまった。",
+      "translation_zh_CN": "我钥匙丢了。"
+    },
+    {
+      "content": "彼女は彼に鍵を手渡した。",
+      "furigana": "[彼女|かの|じょ]は[彼|かれ]に[鍵|かぎ]を[手渡|て|わた]した。",
+      "translation_zh_CN": "她递给他一把钥匙。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鍵盤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵盤",
+          "reading": "けんばん"
+        }
+      ]
+    },
+    {
+      "slug": "鍵っ子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵っ子",
+          "reading": "かぎっこ"
+        },
+        {
+          "word": "かぎっ子",
+          "reading": "かぎっこ"
+        },
+        {
+          "word": "カギっ子",
+          "reading": "かぎっこ"
+        }
+      ]
+    },
+    {
+      "slug": "鍵をかける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵をかける",
+          "reading": "かぎをかける"
+        },
+        {
+          "word": "鍵を掛ける",
+          "reading": "かぎをかける"
+        }
+      ]
+    },
+    {
+      "slug": "鍵が掛かる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵がかかる",
+          "reading": "かぎがかかる"
+        },
+        {
+          "word": "鍵が掛かる",
+          "reading": "かぎがかかる"
+        }
+      ]
+    },
+    {
+      "slug": "鍵盤楽器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵盤楽器",
+          "reading": "けんばんがっき"
+        }
+      ]
+    },
+    {
+      "slug": "鍵穴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵穴",
+          "reading": "かぎあな"
+        },
+        {
+          "word": "カギ穴",
+          "reading": "かぎあな"
+        }
+      ]
+    },
+    {
+      "slug": "鍵の手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵の手",
+          "reading": "かぎのて"
+        }
+      ]
+    },
+    {
+      "slug": "かぎ括弧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かぎ括弧",
+          "reading": "かぎかっこ"
+        },
+        {
+          "word": "鉤括弧",
+          "reading": "かぎかっこ"
+        },
+        {
+          "word": "鈎括弧",
+          "reading": "かぎかっこ"
+        },
+        {
+          "word": "鍵括弧",
+          "reading": "かぎかっこ"
+        }
+      ]
+    },
+    {
+      "slug": "鍵屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵屋",
+          "reading": "かぎや"
+        }
+      ]
+    },
+    {
+      "slug": "鍵管理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵管理",
+          "reading": "かぎかんり"
+        }
+      ]
+    },
+    {
+      "slug": "鉤形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉤型",
+          "reading": "かぎがた"
+        },
+        {
+          "word": "鉤形",
+          "reading": "かぎがた"
+        },
+        {
+          "word": "鈎型",
+          "reading": "かぎがた"
+        },
+        {
+          "word": "鈎形",
+          "reading": "かぎがた"
+        }
+      ]
+    },
+    {
+      "slug": "鍵の配布",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵の配布",
+          "reading": "かぎのはいふ"
+        }
+      ]
+    },
+    {
+      "slug": "鍵かけ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵かけ",
+          "reading": "かぎかけ"
+        },
+        {
+          "word": "鍵掛け",
+          "reading": "かぎかけ"
+        }
+      ]
+    },
+    {
+      "slug": "鍵開け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵開け",
+          "reading": "かぎあけ"
+        }
+      ]
+    },
+    {
+      "slug": "鍵輪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵輪",
+          "reading": "かぎわ"
+        }
+      ]
+    },
+    {
+      "slug": "鍵束",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵束",
+          "reading": "かぎたば"
+        }
+      ]
+    },
+    {
+      "slug": "鍵垢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵垢",
+          "reading": "かぎアカ"
+        },
+        {
+          "word": "鍵アカ",
+          "reading": "かぎアカ"
+        }
+      ]
+    },
+    {
+      "slug": "鍵型",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍵型",
+          "reading": "かぎがた"
+        },
+        {
+          "word": "鍵形",
+          "reading": "かぎがた"
+        }
+      ]
+    }
   ]
 }

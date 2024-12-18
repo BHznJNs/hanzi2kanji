@@ -41,8 +41,8 @@
       "values": [
         "pratiquer",
         "lustrer",
-        "s\u0027exercer",
-        "s\u0027entraîner",
+        "s'exercer",
+        "s'entraîner",
         "perfectionner",
         "peaufiner"
       ]
@@ -96,6 +96,349 @@
       "startStroke": 11,
       "strokes": 3,
       "part": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "練習は熟達の道。",
+      "furigana": "[練習|れん|しゅう]は[熟達|じゅく|たつ]の[道|みち]。",
+      "translation_zh_CN": "熟能生巧。"
+    },
+    {
+      "content": "彼は毎日家で練習した。",
+      "furigana": "[彼|かれ]は[毎日|まい|にち][家|か]で[練習|れん|しゅう]した。",
+      "translation_zh_CN": "他每天在家練習。"
+    },
+    {
+      "content": "父は熟練した外科医です。",
+      "furigana": "[父|ちち]は[熟練|じゅく|れん]した[外科医|げ|か|い]です。",
+      "translation_zh_CN": "我父亲是一名外科专家。"
+    },
+    {
+      "content": "今朝ピアノ練習をしましたか。",
+      "furigana": "[今朝|けさ]ピアノ[練習|れん|しゅう]をしましたか。",
+      "translation_zh_CN": "你今天早上有练弹钢琴吗？"
+    },
+    {
+      "content": "私たちは昨日防火訓練をした。",
+      "furigana": "[私|わたし]たちは[昨日|きのう][防火|ぼう|か][訓練|くん|れん]をした。",
+      "translation_zh_CN": "我們昨天進行了火警演習。"
+    },
+    {
+      "content": "洗練された文を書きましょう。",
+      "furigana": "[洗練|せん|れん]された[文|ぶん]を[書|か]きましょう。",
+      "translation_zh_CN": "编写高质量的句子。"
+    },
+    {
+      "content": "彼女は毎日ピアノの練習をした。",
+      "furigana": "[彼女|かの|じょ]は[毎日|まい|にち]ピアノの[練習|れん|しゅう]をした。",
+      "translation_zh_CN": "她每天練習彈鋼琴。"
+    },
+    {
+      "content": "今朝ピアノの練習をしましたか。",
+      "furigana": "[今朝|けさ]ピアノの[練習|れん|しゅう]をしましたか。",
+      "translation_zh_CN": "你今天早上有练弹钢琴吗？"
+    },
+    {
+      "content": "アンディは、猛練習したにちがいない。",
+      "furigana": "アンディは、[猛|もう][練習|れん|しゅう]したにちがいない。",
+      "translation_zh_CN": "安迪一定練習得很辛苦。"
+    },
+    {
+      "content": "マイクのバスケの練習は月曜日は休みだ。",
+      "furigana": "マイクのバスケの[練習|れん|しゅう]は[月曜日|げつ|よう|び]は[休|やす]みだ。",
+      "translation_zh_CN": "麥克星期一不練習籃球。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "練習",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "練習",
+          "reading": "れんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "練る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "練る",
+          "reading": "ねる"
+        },
+        {
+          "word": "煉る",
+          "reading": "ねる"
+        },
+        {
+          "word": "錬る",
+          "reading": "ねる"
+        },
+        {
+          "word": "邌る",
+          "reading": "ねる"
+        }
+      ]
+    },
+    {
+      "slug": "練り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り",
+          "reading": "ねり"
+        },
+        {
+          "word": "煉り",
+          "reading": "ねり"
+        },
+        {
+          "word": "錬り",
+          "reading": "ねり"
+        }
+      ]
+    },
+    {
+      "slug": "練り直す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り直す",
+          "reading": "ねりなおす"
+        },
+        {
+          "word": "練りなおす",
+          "reading": "ねりなおす"
+        },
+        {
+          "word": "練直す",
+          "reading": "ねりなおす"
+        }
+      ]
+    },
+    {
+      "slug": "練達",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練達",
+          "reading": "れんたつ"
+        }
+      ]
+    },
+    {
+      "slug": "練習問題",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練習問題",
+          "reading": "れんしゅうもんだい"
+        }
+      ]
+    },
+    {
+      "slug": "練習試合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練習試合",
+          "reading": "れんしゅうじあい"
+        }
+      ]
+    },
+    {
+      "slug": "練習場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練習場",
+          "reading": "れんしゅうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "練り上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り上げる",
+          "reading": "ねりあげる"
+        },
+        {
+          "word": "練りあげる",
+          "reading": "ねりあげる"
+        },
+        {
+          "word": "練上げる",
+          "reading": "ねりあげる"
+        },
+        {
+          "word": "煉り上げる",
+          "reading": "ねりあげる"
+        },
+        {
+          "word": "錬り上げる",
+          "reading": "ねりあげる"
+        }
+      ]
+    },
+    {
+      "slug": "練り製品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り製品",
+          "reading": "ねりせいひん"
+        },
+        {
+          "word": "練製品",
+          "reading": "ねりせいひん"
+        },
+        {
+          "word": "煉り製品",
+          "reading": "ねりせいひん"
+        }
+      ]
+    },
+    {
+      "slug": "錬鉄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錬鉄",
+          "reading": "れんてつ"
+        },
+        {
+          "word": "練鉄",
+          "reading": "れんてつ"
+        }
+      ]
+    },
+    {
+      "slug": "練習船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練習船",
+          "reading": "れんしゅうせん"
+        }
+      ]
+    },
+    {
+      "slug": "練習機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練習機",
+          "reading": "れんしゅうき"
+        }
+      ]
+    },
+    {
+      "slug": "練習曲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練習曲",
+          "reading": "れんしゅうきょく"
+        }
+      ]
+    },
+    {
+      "slug": "練り味噌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り味噌",
+          "reading": "ねりみそ"
+        },
+        {
+          "word": "練りみそ",
+          "reading": "ねりみそ"
+        }
+      ]
+    },
+    {
+      "slug": "練り合わせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り合わせる",
+          "reading": "ねりあわせる"
+        },
+        {
+          "word": "煉り合わせる",
+          "reading": "ねりあわせる"
+        }
+      ]
+    },
+    {
+      "slug": "練り物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り物",
+          "reading": "ねりもの"
+        },
+        {
+          "word": "煉り物",
+          "reading": "ねりもの"
+        },
+        {
+          "word": "練物",
+          "reading": "ねりもの"
+        }
+      ]
+    },
+    {
+      "slug": "練り粉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り粉",
+          "reading": "ねりこ"
+        }
+      ]
+    },
+    {
+      "slug": "練り羊羹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り羊羹",
+          "reading": "ねりようかん"
+        },
+        {
+          "word": "練羊羹",
+          "reading": "ねりようかん"
+        },
+        {
+          "word": "煉り羊羹",
+          "reading": "ねりようかん"
+        }
+      ]
+    },
+    {
+      "slug": "練り糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "練り糸",
+          "reading": "ねりいと"
+        },
+        {
+          "word": "練糸",
+          "reading": "ねりいと"
+        }
+      ]
     }
   ]
 }

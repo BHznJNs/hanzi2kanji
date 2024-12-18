@@ -57,5 +57,140 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "子守唄を歌って。",
+      "furigana": "[子守唄|こ|もり|うた]を[歌|うた]って。",
+      "translation_zh_CN": "唱一首摇篮曲。"
+    },
+    {
+      "content": "aimerの唄が大好き。",
+      "furigana": "[aimer|エメ]の[唄|うた]が[大好|だい|す]き。",
+      "translation_zh_CN": "我很喜欢aimer的歌。"
+    },
+    {
+      "content": "アンは妹のために子守唄を歌ってあげた。",
+      "furigana": "アンは[妹|いもうと]のために[子守唄|こ|もり|うた]を[歌|うた]ってあげた。",
+      "translation_zh_CN": "安妮为她姐姐唱了一首摇篮曲。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "歌う",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "歌う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唄う",
+          "reading": "うたう"
+        },
+        {
+          "word": "詠う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唱う",
+          "reading": "うたう"
+        }
+      ]
+    },
+    {
+      "slug": "うたい文句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うたい文句",
+          "reading": "うたいもんく"
+        },
+        {
+          "word": "謳い文句",
+          "reading": "うたいもんく"
+        },
+        {
+          "word": "歌い文句",
+          "reading": "うたいもんく"
+        }
+      ]
+    },
+    {
+      "slug": "歌物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌物",
+          "reading": "うたもの"
+        },
+        {
+          "word": "唄物",
+          "reading": "うたもの"
+        }
+      ]
+    },
+    {
+      "slug": "唄方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "唄方",
+          "reading": "うたかた"
+        }
+      ]
+    },
+    {
+      "slug": "歌い出し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歌いだし",
+          "reading": "うたいだし"
+        },
+        {
+          "word": "歌い出し",
+          "reading": "うたいだし"
+        },
+        {
+          "word": "唄い出し",
+          "reading": "うたいだし"
+        },
+        {
+          "word": "唄いだし",
+          "reading": "うたいだし"
+        }
+      ]
+    },
+    {
+      "slug": "貝葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝葉",
+          "reading": "ばいよう"
+        },
+        {
+          "word": "唄葉",
+          "reading": "ばいよう"
+        }
+      ]
+    },
+    {
+      "slug": "唄三線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "唄三線",
+          "reading": "うたさんしん"
+        },
+        {
+          "word": "歌三線",
+          "reading": "うたさんしん"
+        }
+      ]
+    }
   ]
 }

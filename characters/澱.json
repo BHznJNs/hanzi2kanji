@@ -86,5 +86,141 @@
       "startStroke": 14,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "淀み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淀み",
+          "reading": "よどみ"
+        },
+        {
+          "word": "澱み",
+          "reading": "よどみ"
+        },
+        {
+          "word": "淀",
+          "reading": "よどみ"
+        },
+        {
+          "word": "澱",
+          "reading": "よどみ"
+        }
+      ]
+    },
+    {
+      "slug": "澱む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淀む",
+          "reading": "よどむ"
+        },
+        {
+          "word": "澱む",
+          "reading": "よどむ"
+        }
+      ]
+    },
+    {
+      "slug": "でん粉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "澱粉",
+          "reading": "でんぷん"
+        },
+        {
+          "word": "でん粉",
+          "reading": "でんぷん"
+        },
+        {
+          "word": "殿粉",
+          "reading": "でんぷん"
+        },
+        {
+          "reading": "デンプン"
+        }
+      ]
+    },
+    {
+      "slug": "でんぷん糊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "でんぷん糊",
+          "reading": "でんぷんのり"
+        },
+        {
+          "word": "澱粉糊",
+          "reading": "でんぷんのり"
+        },
+        {
+          "word": "デンプン糊",
+          "reading": "でんぷんのり"
+        },
+        {
+          "word": "澱粉のり",
+          "reading": "でんぷんのり"
+        }
+      ]
+    },
+    {
+      "slug": "淀み無い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淀みない",
+          "reading": "よどみない"
+        },
+        {
+          "word": "澱みない",
+          "reading": "よどみない"
+        },
+        {
+          "word": "淀み無い",
+          "reading": "よどみない"
+        },
+        {
+          "word": "澱み無い",
+          "reading": "よどみない"
+        }
+      ]
+    },
+    {
+      "slug": "澱粉質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "澱粉質",
+          "reading": "でんぷんしつ"
+        }
+      ]
+    },
+    {
+      "slug": "淀み無く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "淀み無く",
+          "reading": "よどみなく"
+        },
+        {
+          "word": "澱み無く",
+          "reading": "よどみなく"
+        },
+        {
+          "word": "淀みなく",
+          "reading": "よどみなく"
+        },
+        {
+          "word": "澱みなく",
+          "reading": "よどみなく"
+        }
+      ]
+    }
   ]
 }

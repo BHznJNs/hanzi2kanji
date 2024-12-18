@@ -91,5 +91,344 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "その劇は終わった。",
+      "furigana": "その[劇|げき]は[終|お]わった。",
+      "translation_zh_CN": "戏结束了。"
+    },
+    {
+      "content": "その劇は好評だった。",
+      "furigana": "その[劇|げき]は[好評|こう|ひょう]だった。",
+      "translation_zh_CN": "该剧广受好评。"
+    },
+    {
+      "content": "彼は劇作家である。",
+      "furigana": "[彼|かれ]は[劇作家|げき|さっ|か]である。",
+      "translation_zh_CN": "他是一位剧作家。"
+    },
+    {
+      "content": "その劇は好評を得た。",
+      "furigana": "その[劇|げき]は[好評|こう|ひょう]を[得|え]た。",
+      "translation_zh_CN": "该剧获得积极评价。"
+    },
+    {
+      "content": "その劇は実話に基づいていた。",
+      "furigana": "その[劇|げき]は[実話|じつ|わ]に[基|もと]づいていた。",
+      "translation_zh_CN": "该剧是根据真实故事改编的。"
+    },
+    {
+      "content": "彼女はその劇に出ていた。",
+      "furigana": "[彼女|かの|じょ]はその[劇|げき]に[出|で]ていた。",
+      "translation_zh_CN": "她在剧中。"
+    },
+    {
+      "content": "劇はいつ始まりますか。",
+      "furigana": "[劇|げき]はいつ[始|はじ]まりますか。",
+      "translation_zh_CN": "好戏什么时候开始？"
+    },
+    {
+      "content": "彼女は初めて劇に出た。",
+      "furigana": "[彼女|かの|じょ]は[初|はじ]めて[劇|げき]に[出|で]た。",
+      "translation_zh_CN": "这是她第一次出演话剧。"
+    },
+    {
+      "content": "ハムレットはシェイクスピアの劇です。",
+      "furigana": "ハムレットはシェイクスピアの[劇|げき]です。",
+      "translation_zh_CN": "哈姆雷特是莎士比亚的戏剧。"
+    },
+    {
+      "content": "劇はちょうど定刻に始まった。",
+      "furigana": "[劇|げき]はちょうど[定刻|てい|こく]に[始|はじ]まった。",
+      "translation_zh_CN": "比赛准时开始。"
+    },
+    {
+      "content": "演劇部所属です。",
+      "furigana": "[演劇|えん|げき][部|ぶ][所属|しょ|ぞく]です。",
+      "translation_zh_CN": "我參加戲劇社。"
+    },
+    {
+      "content": "私は劇場にいました。",
+      "furigana": "[私|わたし]は[劇場|げき|じょう]にいました。",
+      "translation_zh_CN": "我在劇場。"
+    },
+    {
+      "content": "物価が劇的に上がった。",
+      "furigana": "[物価|ぶっ|か]が[劇的|げき|てき]に[上|あ]がった。",
+      "translation_zh_CN": "物价从根本上提高了。"
+    },
+    {
+      "content": "劇場の前であいましょう。",
+      "furigana": "[劇場|げき|じょう]の[前|まえ]であいましょう。",
+      "translation_zh_CN": "讓我們在戲院前面碰面。"
+    },
+    {
+      "content": "この歌劇は５幕ものです。",
+      "furigana": "この[歌劇|か|げき]は[５|ご][幕|まく]ものです。",
+      "translation_zh_CN": "这是一部五幕歌剧。"
+    },
+    {
+      "content": "劇場の前で会いましょう。",
+      "furigana": "[劇場|げき|じょう]の[前|まえ]で[会|あ]いましょう。",
+      "translation_zh_CN": "讓我們在戲院前面碰面。"
+    },
+    {
+      "content": "彼は私に彼の新しい劇の原稿を見せてくれた。",
+      "furigana": "[彼|かれ]は[私|わたし]に[彼|かれ]の[新|あたら]しい[劇|げき]の[原稿|げん|こう]を[見|み]せてくれた。",
+      "translation_zh_CN": "他给我看了他最新剧的底稿。"
+    },
+    {
+      "content": "その劇をニール・シモンは六十歳代に作った。",
+      "furigana": "その[劇|げき]をニール・シモンは[六|ろく][十|じゅう][歳|さい][代|だい]に[作|つく]った。",
+      "translation_zh_CN": "那个剧本是尼尔·赛门在六十来岁的时候创作的。"
+    },
+    {
+      "content": "「ロミオとジュリエット」が劇場で上演されている。",
+      "furigana": "「ロミオとジュリエット」が[劇場|げき|じょう]で[上演|じょう|えん]されている。",
+      "translation_zh_CN": "罗密欧和朱丽叶正在剧场上演。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "劇場",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "劇場",
+          "reading": "げきじょう"
+        }
+      ]
+    },
+    {
+      "slug": "激しい",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "激しい",
+          "reading": "はげしい"
+        },
+        {
+          "word": "烈しい",
+          "reading": "はげしい"
+        },
+        {
+          "word": "劇しい",
+          "reading": "はげしい"
+        }
+      ]
+    },
+    {
+      "slug": "劇団",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "劇団",
+          "reading": "げきだん"
+        }
+      ]
+    },
+    {
+      "slug": "激論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "激論",
+          "reading": "げきろん"
+        },
+        {
+          "word": "劇論",
+          "reading": "げきろん"
+        }
+      ]
+    },
+    {
+      "slug": "劇的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇的",
+          "reading": "げきてき"
+        },
+        {
+          "word": "激的",
+          "reading": "げきてき"
+        }
+      ]
+    },
+    {
+      "slug": "激戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "激戦",
+          "reading": "げきせん"
+        },
+        {
+          "word": "劇戦",
+          "reading": "げきせん"
+        }
+      ]
+    },
+    {
+      "slug": "劇痛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "激痛",
+          "reading": "げきつう"
+        },
+        {
+          "word": "劇痛",
+          "reading": "げきつう"
+        }
+      ]
+    },
+    {
+      "slug": "劇中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇中",
+          "reading": "げきちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "激烈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "激烈",
+          "reading": "げきれつ"
+        },
+        {
+          "word": "劇烈",
+          "reading": "げきれつ"
+        }
+      ]
+    },
+    {
+      "slug": "劇務",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇務",
+          "reading": "げきむ"
+        },
+        {
+          "word": "激務",
+          "reading": "げきむ"
+        }
+      ]
+    },
+    {
+      "slug": "劇作家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇作家",
+          "reading": "げきさっか"
+        },
+        {
+          "word": "劇作家",
+          "reading": "げきさくか"
+        }
+      ]
+    },
+    {
+      "slug": "劇画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇画",
+          "reading": "げきが"
+        }
+      ]
+    },
+    {
+      "slug": "劇中劇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇中劇",
+          "reading": "げきちゅうげき"
+        }
+      ]
+    },
+    {
+      "slug": "激変",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "激変",
+          "reading": "げきへん"
+        },
+        {
+          "word": "劇変",
+          "reading": "げきへん"
+        }
+      ]
+    },
+    {
+      "slug": "劇作",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇作",
+          "reading": "げきさく"
+        }
+      ]
+    },
+    {
+      "slug": "激甚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "激甚",
+          "reading": "げきじん"
+        },
+        {
+          "word": "劇甚",
+          "reading": "げきじん"
+        }
+      ]
+    },
+    {
+      "slug": "劇評",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇評",
+          "reading": "げきひょう"
+        }
+      ]
+    },
+    {
+      "slug": "劇薬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇薬",
+          "reading": "げきやく"
+        }
+      ]
+    },
+    {
+      "slug": "劇映画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劇映画",
+          "reading": "げきえいが"
+        }
+      ]
+    }
   ]
 }

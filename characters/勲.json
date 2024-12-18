@@ -114,5 +114,88 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "勲さんが来てくれて本当に嬉しいわ。",
+      "furigana": "[勲|いさお]さんが[来|き]てくれて[本当|ほん|とう]に[嬉|うれ]しいわ。",
+      "translation_zh_CN": "Isao 来了我真的很高兴。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "勲章",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勲章",
+          "reading": "くんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "勲記",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勲記",
+          "reading": "くんき"
+        }
+      ]
+    },
+    {
+      "slug": "勲等",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勲等",
+          "reading": "くんとう"
+        }
+      ]
+    },
+    {
+      "slug": "勲位",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勲位",
+          "reading": "くんい"
+        }
+      ]
+    },
+    {
+      "slug": "勲功",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勲功",
+          "reading": "くんこう"
+        }
+      ]
+    },
+    {
+      "slug": "勲一等",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勲一等",
+          "reading": "くんいっとう"
+        },
+        {
+          "word": "勲１等",
+          "reading": "くんいっとう"
+        }
+      ]
+    },
+    {
+      "slug": "勲爵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勲爵",
+          "reading": "くんしゃく"
+        }
+      ]
+    }
   ]
 }

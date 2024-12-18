@@ -162,5 +162,320 @@
       "strokes": 1,
       "part": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "行動の機は熟した。",
+      "furigana": "[行動|こう|どう]の[機|き]は[熟|じゅく]した。",
+      "translation_zh_CN": "采取行动的时机已经成熟。"
+    },
+    {
+      "content": "洗濯機は買ったの？",
+      "furigana": "[洗濯機|せん|たっ|き]は[買|か]ったの？",
+      "translation_zh_CN": "你买洗衣机了吗？"
+    },
+    {
+      "content": "冷水機が故障している。",
+      "furigana": "[冷水機|れい|すい|き]が[故障|こ|しょう]している。",
+      "translation_zh_CN": "饮水机坏了。"
+    },
+    {
+      "content": "突然火災警報機が鳴った。",
+      "furigana": "[突然火災警報機|とつ|ぜん|か|さい|けい|ほう|き]が[鳴|な]った。",
+      "translation_zh_CN": "突然火警警报响起。"
+    },
+    {
+      "content": "まだ機は熟していない。",
+      "furigana": "まだ[機|き]は[熟|じゅく]していない。",
+      "translation_zh_CN": "时机尚未成熟。"
+    },
+    {
+      "content": "計算機を使えよ。",
+      "furigana": "[計算機|けい|さん|き]を[使|つか]えよ。",
+      "translation_zh_CN": "使用你的计算器。"
+    },
+    {
+      "content": "洗濯機が壊れてるんだ。",
+      "furigana": "[洗濯機|せん|たく|き]が[壊|こわ]れてるんだ。",
+      "translation_zh_CN": "我的洗衣机坏了。"
+    },
+    {
+      "content": "この洗濯機は使えません。",
+      "furigana": "この[洗濯機|せん|たく|き]は[使|つか]えません。",
+      "translation_zh_CN": "这台洗衣机不能使用。"
+    },
+    {
+      "content": "その洗濯機は故障している。",
+      "furigana": "その[洗濯機|せん|たく|き]は[故障|こ|しょう]している。",
+      "translation_zh_CN": "洗衣机坏了。"
+    },
+    {
+      "content": "私は洗濯機を直している。",
+      "furigana": "[私|わたし]は[洗濯機|せん|たく|き]を[直|なお]している。",
+      "translation_zh_CN": "我正在修洗衣机。"
+    },
+    {
+      "content": "好機を逃がすな。",
+      "furigana": "[好機|こう|き]を[逃|の]がすな。",
+      "translation_zh_CN": "打鐵趁熱。"
+    },
+    {
+      "content": "家に洗濯機はある？",
+      "furigana": "[家|いえ]に[洗濯機|せんたっき]はある？",
+      "translation_zh_CN": "这个房子里有没有洗衣机？"
+    },
+    {
+      "content": "トムは機敏だよ。",
+      "furigana": "トムは[機敏|き|びん]だよ。",
+      "translation_zh_CN": "汤姆很敏捷。"
+    },
+    {
+      "content": "好機逸すべからず。",
+      "furigana": "[好機|こう|き][逸|いっ]すべからず。",
+      "translation_zh_CN": "打鐵趁熱。"
+    },
+    {
+      "content": "彼女は機嫌が悪い。",
+      "furigana": "[彼女|かの|じょ]は[機嫌|き|げん]が[悪|わる]い。",
+      "translation_zh_CN": "她心情不好。"
+    },
+    {
+      "content": "彼は上機嫌だった。",
+      "furigana": "[彼|かれ]は[上機嫌|じょう|き|げん]だった。",
+      "translation_zh_CN": "他精神很好。"
+    },
+    {
+      "content": "扇風機がほしいな。",
+      "furigana": "[扇風機|せん|ぷう|き]がほしいな。",
+      "translation_zh_CN": "我要那個電風扇。"
+    },
+    {
+      "content": "絶好の機会を逃した。",
+      "furigana": "[絶好|ぜっ|こう]の[機会|き|かい]を[逃|のが]した。",
+      "translation_zh_CN": "我錯過了我的機會。"
+    },
+    {
+      "content": "この飛行機は巨大だ。",
+      "furigana": "この[飛行機|ひ|こう|き]は[巨大|きょ|だい]だ。",
+      "translation_zh_CN": "那飞机真大！"
+    },
+    {
+      "content": "この機械は故障中だ。",
+      "furigana": "この[機械|き|かい]は[故障|こ|しょう][中|ちゅう]だ。",
+      "translation_zh_CN": "这个机器出故障了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "機械",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "機械",
+          "reading": "きかい"
+        },
+        {
+          "word": "器械",
+          "reading": "きかい"
+        }
+      ]
+    },
+    {
+      "slug": "機関車",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "機関車",
+          "reading": "きかんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "機会",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "機会",
+          "reading": "きかい"
+        }
+      ]
+    },
+    {
+      "slug": "機能",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "機能",
+          "reading": "きのう"
+        }
+      ]
+    },
+    {
+      "slug": "機嫌",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "機嫌",
+          "reading": "きげん"
+        },
+        {
+          "word": "譏嫌",
+          "reading": "きげん"
+        },
+        {
+          "word": "気嫌",
+          "reading": "きげん"
+        }
+      ]
+    },
+    {
+      "slug": "機関",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "機関",
+          "reading": "きかん"
+        }
+      ]
+    },
+    {
+      "slug": "機構",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "機構",
+          "reading": "きこう"
+        }
+      ]
+    },
+    {
+      "slug": "機体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機体",
+          "reading": "きたい"
+        }
+      ]
+    },
+    {
+      "slug": "機長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機長",
+          "reading": "きちょう"
+        }
+      ]
+    },
+    {
+      "slug": "機動隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機動隊",
+          "reading": "きどうたい"
+        }
+      ]
+    },
+    {
+      "slug": "機関銃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機関銃",
+          "reading": "きかんじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "機密",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機密",
+          "reading": "きみつ"
+        }
+      ]
+    },
+    {
+      "slug": "機器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機器",
+          "reading": "きき"
+        },
+        {
+          "word": "器機",
+          "reading": "きき"
+        }
+      ]
+    },
+    {
+      "slug": "機種",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機種",
+          "reading": "きしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "機敏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機敏",
+          "reading": "きびん"
+        }
+      ]
+    },
+    {
+      "slug": "機材",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機材",
+          "reading": "きざい"
+        }
+      ]
+    },
+    {
+      "slug": "機首",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機首",
+          "reading": "きしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "機内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "機内",
+          "reading": "きない"
+        }
+      ]
+    }
   ]
 }

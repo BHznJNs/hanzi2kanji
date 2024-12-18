@@ -89,5 +89,352 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は読唇できない。",
+      "furigana": "[私|わたし]は読唇できない。",
+      "translation_zh_CN": "我看不懂唇语。"
+    },
+    {
+      "content": "トムは読唇が上手だから、手話を使う必要はないよ。",
+      "furigana": "トムは[読唇|どくしん]が[上手|じょう|ず]だから、[手話|しゅ|わ]を[使|つか]う[必要|ひつ|よう]はないよ。",
+      "translation_zh_CN": "汤姆可以很好地读唇语，因此他不需要使用手语。"
+    },
+    {
+      "content": "国語の問題ができないというケースには三つあり、一つは速読力がないということです。",
+      "furigana": "[国語|こく|ご]の[問題|もん|だい]ができないというケースには[三|みっ]つあり、[一|ひと]つは[速|はや]読力がないということです。",
+      "translation_zh_CN": "学生不能解决日语问题的情况有三种。一是不具备快速阅读的能力。"
+    },
+    {
+      "content": "本を読み続けた。",
+      "furigana": "[本|ほん]を[読|よ]み[続|つづ]けた。",
+      "translation_zh_CN": "我继续阅读。"
+    },
+    {
+      "content": "読書が好きです。",
+      "furigana": "[読書|どく|しょ]が[好|す]きです。",
+      "translation_zh_CN": "我很喜欢看书。"
+    },
+    {
+      "content": "そんな本読むな。",
+      "furigana": "そんな[本|ほん][読|よ]むな。",
+      "translation_zh_CN": "别看这样的书。"
+    },
+    {
+      "content": "空気が読めない。",
+      "furigana": "[空気|くう|き]が[読|よ]めない。",
+      "translation_zh_CN": "不会看场合。"
+    },
+    {
+      "content": "趣味は読書です。",
+      "furigana": "[趣味|しゅ|み]は[読書|どく|しょ]です。",
+      "translation_zh_CN": "我的爱好是阅读。"
+    },
+    {
+      "content": "本を読んでいる。",
+      "furigana": "[本|ほん]を[読|よ]んでいる。",
+      "translation_zh_CN": "我現在正在讀一本書。"
+    },
+    {
+      "content": "私は本を読んだ。",
+      "furigana": "[私|わたし]は[本|ほん]を[読|よ]んだ。",
+      "translation_zh_CN": "我看了一本書。"
+    },
+    {
+      "content": "本を読みました。",
+      "furigana": "[本|ほん]を[読|よ]みました。",
+      "translation_zh_CN": "我看了一本書。"
+    },
+    {
+      "content": "読書は好きですか？",
+      "furigana": "[読書|どく|しょ]は[好|す]きですか？",
+      "translation_zh_CN": "你喜欢阅读吗？"
+    },
+    {
+      "content": "食事中本を読んだ。",
+      "furigana": "[食事|しょく|じ][中|ちゅう][本|ほん]を[読|よ]んだ。",
+      "translation_zh_CN": "我边吃饭边看书。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "読書",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "読書",
+          "reading": "どくしょ"
+        },
+        {
+          "word": "読書",
+          "reading": "とくしょ"
+        }
+      ]
+    },
+    {
+      "slug": "読む",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "読む",
+          "reading": "よむ"
+        }
+      ]
+    },
+    {
+      "slug": "読み",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "読み",
+          "reading": "よみ"
+        }
+      ]
+    },
+    {
+      "slug": "読者",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "読者",
+          "reading": "どくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "読み上げる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "読み上げる",
+          "reading": "よみあげる"
+        },
+        {
+          "word": "読上げる",
+          "reading": "よみあげる"
+        }
+      ]
+    },
+    {
+      "slug": "読み書き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み書き",
+          "reading": "よみかき"
+        }
+      ]
+    },
+    {
+      "slug": "読み方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み方",
+          "reading": "よみかた"
+        }
+      ]
+    },
+    {
+      "slug": "読み物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み物",
+          "reading": "よみもの"
+        },
+        {
+          "word": "読物",
+          "reading": "よみもの"
+        }
+      ]
+    },
+    {
+      "slug": "読みにくい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読みにくい",
+          "reading": "よみにくい"
+        },
+        {
+          "word": "読み悪い",
+          "reading": "よみにくい"
+        },
+        {
+          "word": "読み難い",
+          "reading": "よみにくい"
+        }
+      ]
+    },
+    {
+      "slug": "読み取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み取る",
+          "reading": "よみとる"
+        },
+        {
+          "word": "読みとる",
+          "reading": "よみとる"
+        },
+        {
+          "word": "読取る",
+          "reading": "よみとる"
+        }
+      ]
+    },
+    {
+      "slug": "読み切る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読みきる",
+          "reading": "よみきる"
+        },
+        {
+          "word": "読み切る",
+          "reading": "よみきる"
+        }
+      ]
+    },
+    {
+      "slug": "読み返す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み返す",
+          "reading": "よみかえす"
+        },
+        {
+          "word": "読みかえす",
+          "reading": "よみかえす"
+        },
+        {
+          "word": "読返す",
+          "reading": "よみかえす"
+        }
+      ]
+    },
+    {
+      "slug": "読破",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読破",
+          "reading": "どくは"
+        }
+      ]
+    },
+    {
+      "slug": "読み直す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み直す",
+          "reading": "よみなおす"
+        },
+        {
+          "word": "読みなおす",
+          "reading": "よみなおす"
+        }
+      ]
+    },
+    {
+      "slug": "読み終わる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み終わる",
+          "reading": "よみおわる"
+        },
+        {
+          "word": "読み終る",
+          "reading": "よみおわる"
+        }
+      ]
+    },
+    {
+      "slug": "読み込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み込む",
+          "reading": "よみこむ"
+        },
+        {
+          "word": "読みこむ",
+          "reading": "よみこむ"
+        },
+        {
+          "word": "読込む",
+          "reading": "よみこむ"
+        }
+      ]
+    },
+    {
+      "slug": "読み出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み出す",
+          "reading": "よみだす"
+        }
+      ]
+    },
+    {
+      "slug": "読書家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読書家",
+          "reading": "どくしょか"
+        }
+      ]
+    },
+    {
+      "slug": "読みふける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読みふける",
+          "reading": "よみふける"
+        },
+        {
+          "word": "読み耽る",
+          "reading": "よみふける"
+        }
+      ]
+    },
+    {
+      "slug": "読み掛ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "読み掛ける",
+          "reading": "よみかける"
+        },
+        {
+          "word": "読掛ける",
+          "reading": "よみかける"
+        },
+        {
+          "word": "読みかける",
+          "reading": "よみかける"
+        }
+      ]
+    }
   ]
 }

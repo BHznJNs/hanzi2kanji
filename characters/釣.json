@@ -88,5 +88,438 @@
       "startStroke": 10,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は父と釣に行くのが好きです。",
+      "furigana": "[私|わたし]は[父|ちち]と[釣|つり]に[行|い]くのが[好|す]きです。",
+      "translation_zh_CN": "我喜欢和爸爸一起去钓鱼。"
+    },
+    {
+      "content": "時は、その中で釣をする流れである。",
+      "furigana": "[時|とき]は、その[中|なか]で[釣|つり]をする[流|なが]れである。",
+      "translation_zh_CN": "时间是我们钓鱼的流动。"
+    },
+    {
+      "content": "海老で鯛を釣る。",
+      "furigana": "[海老|えび]で[鯛|たい]を[釣|つ]る。",
+      "translation_zh_CN": "丟鲱鱼抓鯨魚。"
+    },
+    {
+      "content": "彼は釣りが好きだ。",
+      "furigana": "[彼|かれ]は[釣|つ]りが[好|す]きだ。",
+      "translation_zh_CN": "他喜歡釣魚。"
+    },
+    {
+      "content": "父は釣りに行った。",
+      "furigana": "[父|ちち]は[釣|つ]りに[行|い]った。",
+      "translation_zh_CN": "我父親去釣魚了。"
+    },
+    {
+      "content": "お釣りは取っといて！",
+      "furigana": "お[釣|つ]りは[取|と]っといて！",
+      "translation_zh_CN": "不用找零钱了。"
+    },
+    {
+      "content": "彼は釣りを愛好する。",
+      "furigana": "[彼|かれ]は[釣|つ]りを[愛好|あい|こう]する。",
+      "translation_zh_CN": "他酷爱钓鱼。"
+    },
+    {
+      "content": "彼は釣りが大好きだ。",
+      "furigana": "[彼|かれ]は[釣|つ]りが[大好|だい|す]きだ。",
+      "translation_zh_CN": "他酷爱钓鱼。"
+    },
+    {
+      "content": "ごめん、お釣りが無い。",
+      "furigana": "ごめん、お[釣|つ]りが[無|な]い。",
+      "translation_zh_CN": "不好意思，我没零钱。"
+    },
+    {
+      "content": "彼は釣りが大好きです。",
+      "furigana": "[彼|かれ]は[釣|つ]りが[大好|だい|す]きです。",
+      "translation_zh_CN": "他酷爱钓鱼。"
+    },
+    {
+      "content": "彼とはよく釣りに行った。",
+      "furigana": "[彼|かれ]とはよく[釣|つ]りに[行|い]った。",
+      "translation_zh_CN": "我經常和他去釣魚。"
+    },
+    {
+      "content": "彼女は釣りが大好きです。",
+      "furigana": "[彼女|かの|じょ]は[釣|つ]りが[大好|だい|す]きです。",
+      "translation_zh_CN": "她酷愛釣魚。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "釣り",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "釣り",
+          "reading": "つり"
+        },
+        {
+          "word": "釣",
+          "reading": "つり"
+        }
+      ]
+    },
+    {
+      "slug": "釣る",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "釣る",
+          "reading": "つる"
+        }
+      ]
+    },
+    {
+      "slug": "釣り合う",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "釣り合う",
+          "reading": "つりあう"
+        },
+        {
+          "word": "つり合う",
+          "reading": "つりあう"
+        },
+        {
+          "word": "釣合う",
+          "reading": "つりあう"
+        }
+      ]
+    },
+    {
+      "slug": "釣り糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り糸",
+          "reading": "つりいと"
+        },
+        {
+          "word": "釣糸",
+          "reading": "つりいと"
+        }
+      ]
+    },
+    {
+      "slug": "釣り針",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り針",
+          "reading": "つりばり"
+        },
+        {
+          "word": "釣針",
+          "reading": "つりばり"
+        },
+        {
+          "word": "釣り鉤",
+          "reading": "つりばり"
+        },
+        {
+          "word": "釣鉤",
+          "reading": "つりばり"
+        },
+        {
+          "word": "つり針",
+          "reading": "つりばり"
+        }
+      ]
+    },
+    {
+      "slug": "つり革",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "つり革",
+          "reading": "つりかわ"
+        },
+        {
+          "word": "吊り革",
+          "reading": "つりかわ"
+        },
+        {
+          "word": "吊革",
+          "reading": "つりかわ"
+        },
+        {
+          "word": "釣り革",
+          "reading": "つりかわ"
+        },
+        {
+          "word": "釣革",
+          "reading": "つりかわ"
+        }
+      ]
+    },
+    {
+      "slug": "釣り合い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り合い",
+          "reading": "つりあい"
+        },
+        {
+          "word": "釣合い",
+          "reading": "つりあい"
+        },
+        {
+          "word": "釣合",
+          "reading": "つりあい"
+        }
+      ]
+    },
+    {
+      "slug": "釣り銭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り銭",
+          "reading": "つりせん"
+        },
+        {
+          "word": "釣銭",
+          "reading": "つりせん"
+        },
+        {
+          "word": "つり銭",
+          "reading": "つりせん"
+        }
+      ]
+    },
+    {
+      "slug": "吊橋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吊橋",
+          "reading": "つりばし"
+        },
+        {
+          "word": "吊橋",
+          "reading": "つりはし"
+        },
+        {
+          "word": "吊り橋",
+          "reading": "つりばし"
+        },
+        {
+          "word": "吊り橋",
+          "reading": "つりはし"
+        },
+        {
+          "word": "つり橋",
+          "reading": "つりばし"
+        },
+        {
+          "word": "つり橋",
+          "reading": "つりはし"
+        },
+        {
+          "word": "釣り橋",
+          "reading": "つりばし"
+        },
+        {
+          "word": "釣り橋",
+          "reading": "つりはし"
+        },
+        {
+          "word": "釣橋",
+          "reading": "つりばし"
+        },
+        {
+          "word": "釣橋",
+          "reading": "つりはし"
+        }
+      ]
+    },
+    {
+      "slug": "つるべ落とし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "つるべ落とし",
+          "reading": "つるべおとし"
+        },
+        {
+          "word": "釣瓶落とし",
+          "reading": "つるべおとし"
+        }
+      ]
+    },
+    {
+      "slug": "吊り上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "吊り上げる",
+          "reading": "つりあげる"
+        },
+        {
+          "word": "つり上げる",
+          "reading": "つりあげる"
+        }
+      ]
+    },
+    {
+      "slug": "釣り師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り師",
+          "reading": "つりし"
+        },
+        {
+          "word": "釣師",
+          "reading": "つりし"
+        }
+      ]
+    },
+    {
+      "slug": "釣り人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り人",
+          "reading": "つりびと"
+        }
+      ]
+    },
+    {
+      "slug": "釣果",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣果",
+          "reading": "ちょうか"
+        }
+      ]
+    },
+    {
+      "slug": "釣り上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り上げる",
+          "reading": "つりあげる"
+        },
+        {
+          "word": "釣上げる",
+          "reading": "つりあげる"
+        }
+      ]
+    },
+    {
+      "slug": "釣具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣具",
+          "reading": "つりぐ"
+        },
+        {
+          "word": "釣り具",
+          "reading": "つりぐ"
+        },
+        {
+          "word": "つり具",
+          "reading": "つりぐ"
+        }
+      ]
+    },
+    {
+      "slug": "釣鐘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣鐘",
+          "reading": "つりがね"
+        },
+        {
+          "word": "釣り鐘",
+          "reading": "つりがね"
+        }
+      ]
+    },
+    {
+      "slug": "釣り船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り船",
+          "reading": "つりぶね"
+        },
+        {
+          "word": "釣り船",
+          "reading": "つりふね"
+        },
+        {
+          "word": "釣船",
+          "reading": "つりぶね"
+        },
+        {
+          "word": "釣船",
+          "reading": "つりふね"
+        },
+        {
+          "word": "釣り舟",
+          "reading": "つりぶね"
+        },
+        {
+          "word": "釣り舟",
+          "reading": "つりふね"
+        },
+        {
+          "word": "釣舟",
+          "reading": "つりぶね"
+        },
+        {
+          "word": "釣舟",
+          "reading": "つりふね"
+        }
+      ]
+    },
+    {
+      "slug": "釣り場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り場",
+          "reading": "つりば"
+        }
+      ]
+    },
+    {
+      "slug": "釣り堀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釣り堀",
+          "reading": "つりぼり"
+        },
+        {
+          "word": "釣堀",
+          "reading": "つりぼり"
+        }
+      ]
+    }
   ]
 }

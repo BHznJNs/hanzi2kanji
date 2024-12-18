@@ -98,5 +98,306 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は言葉に詰まった。",
+      "furigana": "[私|わたし]は[言葉|こと|ば]に[詰|つ]まった。",
+      "translation_zh_CN": "我不知道應該說什麼才好。"
+    },
+    {
+      "content": "仕事に行き詰まった。",
+      "furigana": "[仕事|し|ごと]に[行|い]き[詰|づ]まった。",
+      "translation_zh_CN": "我被工作困住了。"
+    },
+    {
+      "content": "彼はびんに水を詰めた。",
+      "furigana": "[彼|かれ]はびんに[水|みず]を[詰|つ]めた。",
+      "translation_zh_CN": "他把瓶子灌满了水。"
+    },
+    {
+      "content": "彼は棚に本をぎっしり詰め込んだ。",
+      "furigana": "[彼|かれ]は[棚|たな]に[本|ほん]をぎっしり[詰|つ]め[込|こ]んだ。",
+      "translation_zh_CN": "他在書架上塞滿了書。"
+    },
+    {
+      "content": "われわれは狭い部屋に詰め込まれた。",
+      "furigana": "われわれは[狭|せま]い[部屋|へ|や]に[詰|つ]め[込|こ]まれた。",
+      "translation_zh_CN": "我们挤进了那间小房间里。"
+    },
+    {
+      "content": "ワインとは、ボトルに詰められた詩である。",
+      "furigana": "ワインとは、ボトルに[詰|つ]められた[詩|し]である。",
+      "translation_zh_CN": "酒是灌入瓶中的诗。"
+    },
+    {
+      "content": "会社をクビになったけど、貯金がすこしあるので、差し詰め生活には困らない。",
+      "furigana": "[会社|かい|しゃ]をクビになったけど、[貯金|ちょ|きん]がすこしあるので、[差|さ]し[詰|づ]め[生活|せい|かつ]には[困|こま]らない。",
+      "translation_zh_CN": "虽然我被公司解雇了，但是我还有点存款，所以目前不用担心生计问题。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "詰め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰め",
+          "reading": "つめ"
+        },
+        {
+          "word": "詰",
+          "reading": "つめ"
+        }
+      ]
+    },
+    {
+      "slug": "詰らない",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "詰らない",
+          "reading": "つまらない"
+        },
+        {
+          "word": "詰まらない",
+          "reading": "つまらない"
+        }
+      ]
+    },
+    {
+      "slug": "詰まり",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "詰まり",
+          "reading": "つまり"
+        },
+        {
+          "word": "詰り",
+          "reading": "つまり"
+        }
+      ]
+    },
+    {
+      "slug": "詰める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "詰める",
+          "reading": "つめる"
+        }
+      ]
+    },
+    {
+      "slug": "詰まる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "詰まる",
+          "reading": "つまる"
+        }
+      ]
+    },
+    {
+      "slug": "詰め込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰め込む",
+          "reading": "つめこむ"
+        }
+      ]
+    },
+    {
+      "slug": "詰問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰問",
+          "reading": "きつもん"
+        }
+      ]
+    },
+    {
+      "slug": "詰る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "詰る",
+          "reading": "なじる"
+        }
+      ]
+    },
+    {
+      "slug": "詰め込み勉強",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰め込み勉強",
+          "reading": "つめこみべんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "詰まる所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰まるところ",
+          "reading": "つまるところ"
+        },
+        {
+          "word": "詰まる所",
+          "reading": "つまるところ"
+        },
+        {
+          "word": "つまる所",
+          "reading": "つまるところ"
+        },
+        {
+          "word": "詰まる処",
+          "reading": "つまるところ"
+        }
+      ]
+    },
+    {
+      "slug": "詰め物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰め物",
+          "reading": "つめもの"
+        },
+        {
+          "word": "詰物",
+          "reading": "つめもの"
+        }
+      ]
+    },
+    {
+      "slug": "詰まらなそう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰まらなそう",
+          "reading": "つまらなそう"
+        }
+      ]
+    },
+    {
+      "slug": "詰め腹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰め腹",
+          "reading": "つめばら"
+        },
+        {
+          "word": "詰腹",
+          "reading": "つめばら"
+        }
+      ]
+    },
+    {
+      "slug": "詰め将棋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰将棋",
+          "reading": "つめしょうぎ"
+        },
+        {
+          "word": "詰め将棋",
+          "reading": "つめしょうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "詰み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰み",
+          "reading": "つみ"
+        }
+      ]
+    },
+    {
+      "slug": "詰まらせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰まらせる",
+          "reading": "つまらせる"
+        }
+      ]
+    },
+    {
+      "slug": "詰め掛ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰め掛ける",
+          "reading": "つめかける"
+        },
+        {
+          "word": "詰掛ける",
+          "reading": "つめかける"
+        },
+        {
+          "word": "詰めかける",
+          "reading": "つめかける"
+        }
+      ]
+    },
+    {
+      "slug": "詰め所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰め所",
+          "reading": "つめしょ"
+        },
+        {
+          "word": "詰所",
+          "reading": "つめしょ"
+        }
+      ]
+    },
+    {
+      "slug": "詰め合わせ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詰め合わせ",
+          "reading": "つめあわせ"
+        },
+        {
+          "word": "詰合せ",
+          "reading": "つめあわせ"
+        },
+        {
+          "word": "詰合わせ",
+          "reading": "つめあわせ"
+        },
+        {
+          "word": "詰め合せ",
+          "reading": "つめあわせ"
+        }
+      ]
+    }
   ]
 }

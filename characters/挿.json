@@ -99,5 +99,298 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "このままでは熾烈な情報戦に勝てない。ＣＩＯの首を挿げ替えよう。",
+      "furigana": "このままでは[熾烈|し|れつ]な[情報戦|じょう|ほう|せん]に[勝|か]てない。ＣＩＯの[首|くび]を[挿|す]げ[替|か]えよう。",
+      "translation_zh_CN": "如果再这样下去，我们将无法赢得激烈的信息战。让我们更换CIO的头。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "挟む",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "挟む",
+          "reading": "はさむ"
+        },
+        {
+          "word": "挿む",
+          "reading": "はさむ"
+        },
+        {
+          "word": "挾む",
+          "reading": "はさむ"
+        }
+      ]
+    },
+    {
+      "slug": "挿す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "挿す",
+          "reading": "さす"
+        }
+      ]
+    },
+    {
+      "slug": "挿絵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿絵",
+          "reading": "さしえ"
+        },
+        {
+          "word": "挿し絵",
+          "reading": "さしえ"
+        },
+        {
+          "word": "さし絵",
+          "reading": "さしえ"
+        }
+      ]
+    },
+    {
+      "slug": "挿入",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿入",
+          "reading": "そうにゅう"
+        },
+        {
+          "word": "插入",
+          "reading": "そうにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "挿し木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿し木",
+          "reading": "さしき"
+        },
+        {
+          "word": "さし木",
+          "reading": "さしき"
+        },
+        {
+          "word": "挿木",
+          "reading": "さしき"
+        }
+      ]
+    },
+    {
+      "slug": "挿錠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿錠",
+          "reading": "さしじょう"
+        },
+        {
+          "word": "さし錠",
+          "reading": "さしじょう"
+        }
+      ]
+    },
+    {
+      "slug": "すげ替える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "すげ替える",
+          "reading": "すげかえる"
+        },
+        {
+          "word": "挿げ替える",
+          "reading": "すげかえる"
+        },
+        {
+          "word": "箝げ替える",
+          "reading": "すげかえる"
+        }
+      ]
+    },
+    {
+      "slug": "差し換える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "差し換える",
+          "reading": "さしかえる"
+        },
+        {
+          "word": "差し替える",
+          "reading": "さしかえる"
+        },
+        {
+          "word": "挿し替える",
+          "reading": "さしかえる"
+        },
+        {
+          "word": "差替える",
+          "reading": "さしかえる"
+        },
+        {
+          "word": "差換える",
+          "reading": "さしかえる"
+        }
+      ]
+    },
+    {
+      "slug": "挿話",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿話",
+          "reading": "そうわ"
+        }
+      ]
+    },
+    {
+      "slug": "指物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "指物",
+          "reading": "さしもの"
+        },
+        {
+          "word": "指し物",
+          "reading": "さしもの"
+        },
+        {
+          "word": "差物",
+          "reading": "さしもの"
+        },
+        {
+          "word": "差し物",
+          "reading": "さしもの"
+        },
+        {
+          "word": "挿物",
+          "reading": "さしもの"
+        },
+        {
+          "word": "挿し物",
+          "reading": "さしもの"
+        }
+      ]
+    },
+    {
+      "slug": "挿入口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿入口",
+          "reading": "そうにゅうぐち"
+        }
+      ]
+    },
+    {
+      "slug": "挿し花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿し花",
+          "reading": "さしばな"
+        }
+      ]
+    },
+    {
+      "slug": "挿入句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿入句",
+          "reading": "そうにゅうく"
+        }
+      ]
+    },
+    {
+      "slug": "挿入図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿入図",
+          "reading": "そうにゅうず"
+        }
+      ]
+    },
+    {
+      "slug": "挿入点",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿入点",
+          "reading": "そうにゅうてん"
+        }
+      ]
+    },
+    {
+      "slug": "挿図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿図",
+          "reading": "そうず"
+        }
+      ]
+    },
+    {
+      "slug": "挿入文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿入文",
+          "reading": "そうにゅうぶん"
+        }
+      ]
+    },
+    {
+      "slug": "挿げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿げる",
+          "reading": "すげる"
+        },
+        {
+          "word": "箝げる",
+          "reading": "すげる"
+        }
+      ]
+    },
+    {
+      "slug": "挿画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿画",
+          "reading": "そうが"
+        }
+      ]
+    },
+    {
+      "slug": "挿抜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挿抜",
+          "reading": "そうばつ"
+        }
+      ]
+    }
   ]
 }

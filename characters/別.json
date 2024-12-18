@@ -85,5 +85,345 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "別々に払います。",
+      "furigana": "[別々|べつべつ]に[払|はら]います。",
+      "translation_zh_CN": "我们分开付账。"
+    },
+    {
+      "content": "別のが欲しい。",
+      "furigana": "[別|べつ]のが[欲|ほ]しい。",
+      "translation_zh_CN": "我想要另一个。"
+    },
+    {
+      "content": "別人みたい。",
+      "furigana": "[別人|べつ|じん]みたい。",
+      "translation_zh_CN": "这就像一个不同的人。"
+    },
+    {
+      "content": "別の仕事を見つけました。",
+      "furigana": "[別|べつ]の[仕事|し|ごと]を[見|み]つけました。",
+      "translation_zh_CN": "我找到了另一份工作。"
+    },
+    {
+      "content": "別のところに行きたい？",
+      "furigana": "[別|べつ]のところに[行|い]きたい？",
+      "translation_zh_CN": "想去别的地方吗？"
+    },
+    {
+      "content": "別なのを買いたい。",
+      "furigana": "[別|べつ]なのを[買|か]いたい。",
+      "translation_zh_CN": "我想买一些不同的东西。"
+    },
+    {
+      "content": "別の電話に出ています。",
+      "furigana": "[別|べつ]の[電話|でん|わ]に[出|で]ています。",
+      "translation_zh_CN": "我正在接另一个电话。"
+    },
+    {
+      "content": "別の話を持ちかけられた。",
+      "furigana": "[別|べつ]の[話|はなし]を[持|も]ちかけられた。",
+      "translation_zh_CN": "有人向我提出了另一个话题。"
+    },
+    {
+      "content": "別の言い方で言ってみよう。",
+      "furigana": "[別|べつ]の[言|い]い[方|かた]で[言|い]ってみよう。",
+      "translation_zh_CN": "我们换个方式来说吧。"
+    },
+    {
+      "content": "別の機会を待て。",
+      "furigana": "[別|べつ]の[機会|き|かい]を[待|まて]て。",
+      "translation_zh_CN": "等待另一个机会。"
+    },
+    {
+      "content": "それは別問題だ。",
+      "furigana": "それは[別|べつ][問題|もん|だい]だ。",
+      "translation_zh_CN": "那是另一回事。"
+    },
+    {
+      "content": "別の例を示しなさい。",
+      "furigana": "[別|べつ]の[例|れい]を[示|しめ]しなさい。",
+      "translation_zh_CN": "再给我举个例子。"
+    },
+    {
+      "content": "別のを見せて下さい。",
+      "furigana": "[別|べつ]のを[見|み]せて[下|くだ]さい。",
+      "translation_zh_CN": "请给我看看另一个。"
+    },
+    {
+      "content": "何か特別なことやるの？",
+      "furigana": "[何|なに]か[特別|とく|べつ]なことやるの？",
+      "translation_zh_CN": "你在做什麼特別的事嗎？"
+    },
+    {
+      "content": "それなら話は別だよ。",
+      "furigana": "それなら[話|はなし]は[別|べつ]だよ。",
+      "translation_zh_CN": "这样的话，我会改变主意。"
+    },
+    {
+      "content": "一緒にとか別々にとか？",
+      "furigana": "[一緒|いっ|しょ]にとか[別々|べつべつ]にとか？",
+      "translation_zh_CN": "一起算還是分開算？"
+    },
+    {
+      "content": "トムは特別な子です。",
+      "furigana": "トムは[特別|とく|べつ]な[子|こ]です。",
+      "translation_zh_CN": "湯姆是個特別的孩子。"
+    },
+    {
+      "content": "別々でお願いします。",
+      "furigana": "[別々|べつべつ]でお[願|ねが]いします。",
+      "translation_zh_CN": "請讓我們分開付錢。"
+    },
+    {
+      "content": "別々に包んでください。",
+      "furigana": "[別々|べつべつ]に[包|つつ]んでください。",
+      "translation_zh_CN": "請你分開包裝好嗎？"
+    },
+    {
+      "content": "別の物を見せて下さい。",
+      "furigana": "[別|べつ]の[物|もの]を[見|み]せて[下|くだ]さい。",
+      "translation_zh_CN": "请给我看看另一个。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "別れる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "別れる",
+          "reading": "わかれる"
+        }
+      ]
+    },
+    {
+      "slug": "分ける",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "分ける",
+          "reading": "わける"
+        },
+        {
+          "word": "別ける",
+          "reading": "わける"
+        }
+      ]
+    },
+    {
+      "slug": "別に",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "別に",
+          "reading": "べつに"
+        }
+      ]
+    },
+    {
+      "slug": "別れ",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "別れ",
+          "reading": "わかれ"
+        }
+      ]
+    },
+    {
+      "slug": "別荘",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "別荘",
+          "reading": "べっそう"
+        }
+      ]
+    },
+    {
+      "slug": "別々",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "別々",
+          "reading": "べつべつ"
+        },
+        {
+          "word": "別別",
+          "reading": "べつべつ"
+        }
+      ]
+    },
+    {
+      "slug": "別居",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別居",
+          "reading": "べっきょ"
+        }
+      ]
+    },
+    {
+      "slug": "別人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別人",
+          "reading": "べつじん"
+        },
+        {
+          "word": "別人",
+          "reading": "べつにん"
+        }
+      ]
+    },
+    {
+      "slug": "別問題",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別問題",
+          "reading": "べつもんだい"
+        }
+      ]
+    },
+    {
+      "slug": "別館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別館",
+          "reading": "べっかん"
+        }
+      ]
+    },
+    {
+      "slug": "分け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "分け",
+          "reading": "わけ"
+        },
+        {
+          "word": "別け",
+          "reading": "わけ"
+        }
+      ]
+    },
+    {
+      "slug": "別個",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別個",
+          "reading": "べっこ"
+        },
+        {
+          "word": "別箇",
+          "reading": "べっこ"
+        }
+      ]
+    },
+    {
+      "slug": "分け前",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "分け前",
+          "reading": "わけまえ"
+        },
+        {
+          "word": "別け前",
+          "reading": "わけまえ"
+        }
+      ]
+    },
+    {
+      "slug": "別物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別物",
+          "reading": "べつもの"
+        }
+      ]
+    },
+    {
+      "slug": "分かれ道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "分かれ道",
+          "reading": "わかれみち"
+        },
+        {
+          "word": "別れ道",
+          "reading": "わかれみち"
+        },
+        {
+          "word": "わかれ道",
+          "reading": "わかれみち"
+        },
+        {
+          "word": "分れ道",
+          "reading": "わかれみち"
+        },
+        {
+          "word": "別れ路",
+          "reading": "わかれみち"
+        }
+      ]
+    },
+    {
+      "slug": "別紙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別紙",
+          "reading": "べっし"
+        }
+      ]
+    },
+    {
+      "slug": "別格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別格",
+          "reading": "べっかく"
+        }
+      ]
+    },
+    {
+      "slug": "別々に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "別々に",
+          "reading": "べつべつに"
+        },
+        {
+          "word": "別別に",
+          "reading": "べつべつに"
+        }
+      ]
+    }
   ]
 }

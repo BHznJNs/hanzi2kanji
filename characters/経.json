@@ -93,5 +93,278 @@
       "startStroke": 8,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "釈迦に経。",
+      "furigana": "[釈迦|しゃ|か]に[経|けい]。",
+      "translation_zh_CN": "经为佛。"
+    },
+    {
+      "content": "門前の小僧習わぬ経を読む。",
+      "furigana": "[門前|もん|ぜん]の[小僧習|こ|ぞう|なら]わぬ[経|きょう]を[読|よ]む。",
+      "translation_zh_CN": "门前童子读着他不学的经。"
+    },
+    {
+      "content": "いくら良い魚でも３日経つと腐る。",
+      "furigana": "いくら[良|よ]い[魚|さかな]でも３[日経|にち|た]つと[腐|くさ]る。",
+      "translation_zh_CN": "再好的鱼，三天后就会腐烂。"
+    },
+    {
+      "content": "時が経つのは早い。",
+      "furigana": "[時|とき]が[経|た]つのは[早|はや]い。",
+      "translation_zh_CN": "时间飞逝。"
+    },
+    {
+      "content": "彼は経済学の権威です。",
+      "furigana": "[彼|かれ]は[経済|けい|ざい][学|がく]の[権威|けん|い]です。",
+      "translation_zh_CN": "他是權威的經濟學家。"
+    },
+    {
+      "content": "彼は教職の経験が豊富だ。",
+      "furigana": "[彼|かれ]は[教職|きょう|しょく]の[経験|けい|けん]が[豊富|ほう|ふ]だ。",
+      "translation_zh_CN": "他在教学上拥有丰富的经验。"
+    },
+    {
+      "content": "経済学を専攻しています。",
+      "furigana": "[経済|けい|ざい][学|がく]を[専攻|せん|こう]しています。",
+      "translation_zh_CN": "我專攻經濟學。"
+    },
+    {
+      "content": "あれは貴重な経験だった。",
+      "furigana": "あれは[貴重|き|ちょう]な[経験|けい|けん]だった。",
+      "translation_zh_CN": "那是一次寶貴的經驗。"
+    },
+    {
+      "content": "食中毒の経験はありますか？",
+      "furigana": "[食中毒|しょく|ちゅう|どく]の[経験|けい|けん]はありますか？",
+      "translation_zh_CN": "您曾經食物中毒過嗎？"
+    },
+    {
+      "content": "この線は経度を表している。",
+      "furigana": "この[線|せん]は[経度|けい|ど]を[表|あらわ]している。",
+      "translation_zh_CN": "這條線代表經度。"
+    },
+    {
+      "content": "私はそれをじかに経験した。",
+      "furigana": "[私|わたし]はそれをじかに[経験|けい|けん]した。",
+      "translation_zh_CN": "我親自感受過。"
+    },
+    {
+      "content": "おじはホテルを経営している。",
+      "furigana": "おじはホテルを[経営|けい|えい]している。",
+      "translation_zh_CN": "我叔叔開旅館。"
+    },
+    {
+      "content": "ストは国の経済をさまたげた。",
+      "furigana": "ストは[国|くに]の[経済|けい|ざい]をさまたげた。",
+      "translation_zh_CN": "罢工妨碍了国家经济。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "経糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縦糸",
+          "reading": "たていと"
+        },
+        {
+          "word": "経糸",
+          "reading": "たていと"
+        },
+        {
+          "word": "たて糸",
+          "reading": "たていと"
+        },
+        {
+          "word": "経",
+          "reading": "たていと"
+        }
+      ]
+    },
+    {
+      "slug": "経済",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "経済",
+          "reading": "けいざい"
+        }
+      ]
+    },
+    {
+      "slug": "経験",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "経験",
+          "reading": "けいけん"
+        }
+      ]
+    },
+    {
+      "slug": "経度",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "経度",
+          "reading": "けいど"
+        }
+      ]
+    },
+    {
+      "slug": "経営",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "経営",
+          "reading": "けいえい"
+        }
+      ]
+    },
+    {
+      "slug": "経由",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "経由",
+          "reading": "けいゆ"
+        },
+        {
+          "word": "経由",
+          "reading": "けいゆう"
+        }
+      ]
+    },
+    {
+      "slug": "経つ",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "経つ",
+          "reading": "たつ"
+        }
+      ]
+    },
+    {
+      "slug": "経費",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "経費",
+          "reading": "けいひ"
+        }
+      ]
+    },
+    {
+      "slug": "経歴",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "経歴",
+          "reading": "けいれき"
+        }
+      ]
+    },
+    {
+      "slug": "経過",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "経過",
+          "reading": "けいか"
+        }
+      ]
+    },
+    {
+      "slug": "経路",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "経路",
+          "reading": "けいろ"
+        },
+        {
+          "word": "径路",
+          "reading": "けいろ"
+        },
+        {
+          "word": "逕路",
+          "reading": "けいろ"
+        }
+      ]
+    },
+    {
+      "slug": "経済学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経済学",
+          "reading": "けいざいがく"
+        }
+      ]
+    },
+    {
+      "slug": "経済的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経済的",
+          "reading": "けいざいてき"
+        }
+      ]
+    },
+    {
+      "slug": "経営者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経営者",
+          "reading": "けいえいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "経験者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経験者",
+          "reading": "けいけんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "経団連",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "経団連",
+          "reading": "けいだんれん"
+        }
+      ]
+    }
   ]
 }

@@ -81,5 +81,287 @@
       "startStroke": 8,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "蛍だね。",
+      "furigana": "[蛍|ほたる]だね。",
+      "translation_zh_CN": "这是一只萤火虫。"
+    },
+    {
+      "content": "蛍を見たことある？",
+      "furigana": "[蛍|ほたる]を[見|み]たことある？",
+      "translation_zh_CN": "你见过萤火虫吗？"
+    },
+    {
+      "content": "それは蛍だよ。",
+      "furigana": "それは[蛍|ほたる]だよ。",
+      "translation_zh_CN": "那是一只萤火虫。"
+    },
+    {
+      "content": "蛍がヒキガエルに食べられちゃったよ。",
+      "furigana": "[蛍|ほたる]がヒキガエルに[食|た]べられちゃったよ。",
+      "translation_zh_CN": "一只萤火虫被蟾蜍吃掉了。"
+    },
+    {
+      "content": "洞窟は蛍でいっぱいだ。",
+      "furigana": "[洞窟|どう|くつ]は[蛍|ほたる]でいっぱいだ。",
+      "translation_zh_CN": "洞里全是萤火虫。"
+    },
+    {
+      "content": "たくさんの蛍がいたよ。",
+      "furigana": "たくさんの[蛍|ほたる]がいたよ。",
+      "translation_zh_CN": "那里有很多萤火虫。"
+    },
+    {
+      "content": "あなたの庭に蛍がいるの？",
+      "furigana": "あなたの[庭|にわ]に[蛍|ほたる]がいるの？",
+      "translation_zh_CN": "你的花园里有萤火虫吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "蛍光灯",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "蛍光灯",
+          "reading": "けいこうとう"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光",
+          "reading": "けいこう"
+        },
+        {
+          "word": "螢光",
+          "reading": "けいこう"
+        },
+        {
+          "word": "けい光",
+          "reading": "けいこう"
+        }
+      ]
+    },
+    {
+      "slug": "蛍烏賊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍烏賊",
+          "reading": "ほたるいか"
+        },
+        {
+          "reading": "ホタルイカ"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光顕微鏡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光顕微鏡",
+          "reading": "けいこうけんびきょう"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光染料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光染料",
+          "reading": "けいこうせんりょう"
+        }
+      ]
+    },
+    {
+      "slug": "蛍石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍石",
+          "reading": "ほたるいし"
+        },
+        {
+          "word": "蛍石",
+          "reading": "けいせき"
+        },
+        {
+          "word": "螢石",
+          "reading": "ほたるいし"
+        },
+        {
+          "word": "螢石",
+          "reading": "けいせき"
+        }
+      ]
+    },
+    {
+      "slug": "蛍の光",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍の光",
+          "reading": "ほたるのひかり"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光管",
+          "reading": "けいこうかん"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光色",
+          "reading": "けいこうしょく"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光色素",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光色素",
+          "reading": "けいこうしきそ"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光体",
+          "reading": "けいこうたい"
+        }
+      ]
+    },
+    {
+      "slug": "螢火",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍火",
+          "reading": "ほたるび"
+        },
+        {
+          "word": "蛍火",
+          "reading": "けいか"
+        },
+        {
+          "word": "螢火",
+          "reading": "ほたるび"
+        },
+        {
+          "word": "螢火",
+          "reading": "けいか"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光塗料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光塗料",
+          "reading": "けいこうとりょう"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光増白剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光増白剤",
+          "reading": "けいこうぞうはくざい"
+        }
+      ]
+    },
+    {
+      "slug": "蛍族",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ホタル族",
+          "reading": "ほたるぞく"
+        },
+        {
+          "word": "蛍族",
+          "reading": "ほたるぞく"
+        }
+      ]
+    },
+    {
+      "slug": "蛍草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍草",
+          "reading": "ほたるぐさ"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光板",
+          "reading": "けいこうばん"
+        }
+      ]
+    },
+    {
+      "slug": "蛍狩り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍狩り",
+          "reading": "ほたるがり"
+        },
+        {
+          "word": "ほたる狩り",
+          "reading": "ほたるがり"
+        },
+        {
+          "word": "蛍狩",
+          "reading": "ほたるがり"
+        },
+        {
+          "word": "ホタル狩り",
+          "reading": "ホタルがり"
+        }
+      ]
+    },
+    {
+      "slug": "蛍光物質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蛍光物質",
+          "reading": "けいこうぶっしつ"
+        }
+      ]
+    }
   ]
 }

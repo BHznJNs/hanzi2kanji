@@ -82,5 +82,140 @@
       "startStroke": 14,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "英才",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "英才",
+          "reading": "えいさい"
+        },
+        {
+          "word": "穎才",
+          "reading": "えいさい"
+        },
+        {
+          "word": "鋭才",
+          "reading": "えいさい"
+        }
+      ]
+    },
+    {
+      "slug": "貝割",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝割",
+          "reading": "かいわり"
+        },
+        {
+          "word": "貝割り",
+          "reading": "かいわり"
+        },
+        {
+          "word": "卵割り",
+          "reading": "かいわり"
+        },
+        {
+          "word": "卵割",
+          "reading": "かいわり"
+        },
+        {
+          "word": "穎割り",
+          "reading": "かいわり"
+        },
+        {
+          "word": "穎割",
+          "reading": "かいわり"
+        }
+      ]
+    },
+    {
+      "slug": "穎果",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穎果",
+          "reading": "えいか"
+        }
+      ]
+    },
+    {
+      "slug": "穎脱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穎脱",
+          "reading": "えいだつ"
+        }
+      ]
+    },
+    {
+      "slug": "穎悟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穎悟",
+          "reading": "えいご"
+        }
+      ]
+    },
+    {
+      "slug": "貝割れ菜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝割れ菜",
+          "reading": "かいわれな"
+        },
+        {
+          "word": "貝割菜",
+          "reading": "かいわれな"
+        },
+        {
+          "word": "かいわれ菜",
+          "reading": "かいわれな"
+        },
+        {
+          "word": "穎割菜",
+          "reading": "かいわれな"
+        }
+      ]
+    },
+    {
+      "slug": "穎割れ大根",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かいわれ大根",
+          "reading": "かいわれだいこん"
+        },
+        {
+          "word": "貝割れ大根",
+          "reading": "かいわれだいこん"
+        },
+        {
+          "word": "カイワレ大根",
+          "reading": "かいわれだいこん"
+        },
+        {
+          "word": "穎割れ大根",
+          "reading": "かいわれだいこん"
+        }
+      ]
+    },
+    {
+      "slug": "穎敏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穎敏",
+          "reading": "えいびん"
+        }
+      ]
+    }
   ]
 }

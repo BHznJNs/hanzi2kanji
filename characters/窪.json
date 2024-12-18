@@ -41,8 +41,8 @@
       "lang": "fr",
       "values": [
         "dépression",
-        "s\u0027effondrer",
-        "s\u0027enfoncer",
+        "s'effondrer",
+        "s'enfoncer",
         "se creuser"
       ]
     },
@@ -98,6 +98,91 @@
       "radical": "土",
       "startStroke": 11,
       "strokes": 3
+    }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "窪む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窪む",
+          "reading": "くぼむ"
+        },
+        {
+          "word": "凹む",
+          "reading": "くぼむ"
+        }
+      ]
+    },
+    {
+      "slug": "凹み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凹み",
+          "reading": "くぼみ"
+        },
+        {
+          "word": "窪み",
+          "reading": "くぼみ"
+        },
+        {
+          "word": "凹み",
+          "reading": "へこみ"
+        }
+      ]
+    },
+    {
+      "slug": "凹溜まり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窪溜まり",
+          "reading": "くぼたまり"
+        },
+        {
+          "word": "凹溜まり",
+          "reading": "くぼたまり"
+        }
+      ]
+    },
+    {
+      "slug": "凹地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窪地",
+          "reading": "くぼち"
+        },
+        {
+          "word": "凹地",
+          "reading": "くぼち"
+        },
+        {
+          "word": "くぼ地",
+          "reading": "くぼち"
+        },
+        {
+          "word": "凹地",
+          "reading": "おうち"
+        }
+      ]
+    },
+    {
+      "slug": "凹まる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窪まる",
+          "reading": "くぼまる"
+        },
+        {
+          "word": "凹まる",
+          "reading": "くぼまる"
+        }
+      ]
     }
   ]
 }

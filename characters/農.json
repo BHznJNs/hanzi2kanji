@@ -101,5 +101,256 @@
       "startStroke": 6,
       "strokes": 7
     }
+  ],
+  "sentences": [
+    {
+      "content": "１日中農場で働いていた。",
+      "furigana": "[１|いち][日|にち][中|じゅう][農場|のう|じょう]で[働|はたら]いていた。",
+      "translation_zh_CN": "我整天在農場上工作。"
+    },
+    {
+      "content": "ここがトムおじさんの農場です。",
+      "furigana": "ここがトムおじさんの[農場|のう|じょう]です。",
+      "translation_zh_CN": "這是湯姆叔叔的農場。"
+    },
+    {
+      "content": "政府は農業にもっと投資するべきだ。",
+      "furigana": "[政府|せい|ふ]は[農業|のう|ぎょう]にもっと[投資|とう|し]するべきだ。",
+      "translation_zh_CN": "政府应该加大对农业的投资。"
+    },
+    {
+      "content": "「農場」ってロシア語でなんて言うの？",
+      "furigana": "「[農場|のう|じょう]」ってロシア[語|ご]でなんて[言|い]うの？",
+      "translation_zh_CN": "你怎么用俄语说“农场”？"
+    },
+    {
+      "content": "彼女はその農夫から、のこぎりを借りた。",
+      "furigana": "[彼女|かの|じょ]はその[農夫|のう|ふ]から、のこぎりを[借|か]りた。",
+      "translation_zh_CN": "她向農夫借了一把鋸子。"
+    },
+    {
+      "content": "去年の夏、私は農場でアルバイトをした。",
+      "furigana": "[去年|きょ|ねん]の[夏|なつ]、[私|わたし]は[農場|のう|じょう]でアルバイトをした。",
+      "translation_zh_CN": "去年夏天，我在一个农场打零工。"
+    },
+    {
+      "content": "「もちろん、捨ててくれ」と農家が答えました。",
+      "furigana": "「もちろん、[捨|す]ててくれ」と[農家|のう|か]が[答|こた]えました。",
+      "translation_zh_CN": "\"擺脫它, 當然!\" 這個農夫回答。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "農業",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "農業",
+          "reading": "のうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "農家",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "農家",
+          "reading": "のうか"
+        }
+      ]
+    },
+    {
+      "slug": "農場",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "農場",
+          "reading": "のうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "農産物",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "農産物",
+          "reading": "のうさんぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "農薬",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "農薬",
+          "reading": "のうやく"
+        }
+      ]
+    },
+    {
+      "slug": "農地",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "農地",
+          "reading": "のうち"
+        }
+      ]
+    },
+    {
+      "slug": "農民",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "農民",
+          "reading": "のうみん"
+        }
+      ]
+    },
+    {
+      "slug": "農園",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農園",
+          "reading": "のうえん"
+        }
+      ]
+    },
+    {
+      "slug": "農夫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農夫",
+          "reading": "のうふ"
+        }
+      ]
+    },
+    {
+      "slug": "農村",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "農村",
+          "reading": "のうそん"
+        }
+      ]
+    },
+    {
+      "slug": "農耕",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "農耕",
+          "reading": "のうこう"
+        }
+      ]
+    },
+    {
+      "slug": "農作物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農作物",
+          "reading": "のうさくぶつ"
+        },
+        {
+          "word": "農作物",
+          "reading": "のうさくもつ"
+        }
+      ]
+    },
+    {
+      "slug": "農園主",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農園主",
+          "reading": "のうえんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "農場主",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農場主",
+          "reading": "のうじょうしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "農村風景",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農村風景",
+          "reading": "のうそんふうけい"
+        }
+      ]
+    },
+    {
+      "slug": "農地改革",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農地改革",
+          "reading": "のうちかいかく"
+        }
+      ]
+    },
+    {
+      "slug": "農業試験場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農業試験場",
+          "reading": "のうぎょうしけんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "農林水産省",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農林水産省",
+          "reading": "のうりんすいさんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "農学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "農学",
+          "reading": "のうがく"
+        }
+      ]
+    }
   ]
 }

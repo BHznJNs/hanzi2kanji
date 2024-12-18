@@ -74,5 +74,169 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "会社員です。",
+      "furigana": "[会社員|かい|しゃ|いん]です。",
+      "translation_zh_CN": "我是公司职员。"
+    },
+    {
+      "content": "乗組員が多い。",
+      "furigana": "[乗組員|のり|くみ|いん]が[多|おお]い。",
+      "translation_zh_CN": "船员有很多。"
+    },
+    {
+      "content": "私は会社員です。",
+      "furigana": "[私|わたし]は[会社員|かい|しゃ|いん]です。",
+      "translation_zh_CN": "我是一名办公室职员。"
+    },
+    {
+      "content": "審査員は誰ですか？",
+      "furigana": "[審査員|しん|さ|いん]は[誰|だれ]ですか？",
+      "translation_zh_CN": "评委是谁？"
+    },
+    {
+      "content": "乗務員は皆疲れていた。",
+      "furigana": "[乗務員|じょう|む|いん]は[皆疲|みな|つか]れていた。",
+      "translation_zh_CN": "船员们都累了。"
+    },
+    {
+      "content": "私は銀行員です。",
+      "furigana": "[私|わたし]は[銀行員|ぎん|こう|いん]です。",
+      "translation_zh_CN": "我是银行业工作者。"
+    },
+    {
+      "content": "彼は会社員です。",
+      "furigana": "[彼|かれ]は[会社員|かい|しゃ|いん]です。",
+      "translation_zh_CN": "他是一名办公室职员。"
+    },
+    {
+      "content": "彼は銀行員です。",
+      "furigana": "[彼|かれ]は[銀行員|ぎん|こう|いん]です。",
+      "translation_zh_CN": "他是一名银行职员。"
+    },
+    {
+      "content": "乗組員は全員救われた。",
+      "furigana": "[乗組員|のり|くみ|いん]は[全員救|ぜん|いん|すく]われた。",
+      "translation_zh_CN": "所有船员均获救。"
+    },
+    {
+      "content": "私は販売員です。",
+      "furigana": "[私|わたし]は[販売員|はん|ばい|いん]です。",
+      "translation_zh_CN": "我是一名销售人员。"
+    },
+    {
+      "content": "私は会社員です。",
+      "furigana": "[私|わたし]は[会社|かい|しゃ][員|いん]です。",
+      "translation_zh_CN": "我是个职员。"
+    },
+    {
+      "content": "私は銀行員です。",
+      "furigana": "[私|わたし]は[銀行員|ぎん|こう|いん]です。",
+      "translation_zh_CN": "我是一名銀行職員。"
+    },
+    {
+      "content": "バスは満員だった。",
+      "furigana": "バスは[満員|まん|いん]だった。",
+      "translation_zh_CN": "這輛公車客滿了。"
+    },
+    {
+      "content": "彼は野球部の一員だ。",
+      "furigana": "[彼|かれ]は[野球|や|きゅう][部|ぶ]の[一員|いち|いん]だ。",
+      "translation_zh_CN": "他是這棒球俱樂部的成員。"
+    },
+    {
+      "content": "全員静かにしなさい。",
+      "furigana": "[全員|ぜん|いん][静|しず]かにしなさい。",
+      "translation_zh_CN": "你們所有的人都安靜。"
+    },
+    {
+      "content": "全員が出席していた。",
+      "furigana": "[全員|ぜん|いん]が[出席|しゅっ|せき]していた。",
+      "translation_zh_CN": "大家齐了。"
+    },
+    {
+      "content": "私の父は会社員です。",
+      "furigana": "[私|わたし]の[父|ちち]は[会社|かい|しゃ][員|いん]です。",
+      "translation_zh_CN": "我父親是一名辦公室職員。"
+    },
+    {
+      "content": "ビルは編集部員です。",
+      "furigana": "ビルは[編集|へん|しゅう][部員|ぶ|いん]です。",
+      "translation_zh_CN": "比爾在編輯部工作。"
+    },
+    {
+      "content": "姉は英語の教員です。",
+      "furigana": "[姉|あね]は[英語|えい|ご]の[教員|きょう|いん]です。",
+      "translation_zh_CN": "我姊姊是個英語教師。"
+    },
+    {
+      "content": "彼は委員会の委員長だ。",
+      "furigana": "[彼|かれ]は[委員|い|いん][会|かい]の[委員|い|いん][長|ちょう]だ。",
+      "translation_zh_CN": "他是委員會主席。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "員数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "員数",
+          "reading": "いんずう"
+        },
+        {
+          "word": "員数",
+          "reading": "いんず"
+        },
+        {
+          "word": "員数",
+          "reading": "いんじゅ"
+        },
+        {
+          "word": "員數",
+          "reading": "いんずう"
+        },
+        {
+          "word": "員數",
+          "reading": "いんず"
+        },
+        {
+          "word": "員數",
+          "reading": "いんじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "員外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "員外",
+          "reading": "いんがい"
+        }
+      ]
+    },
+    {
+      "slug": "員名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "員名",
+          "reading": "いんめい"
+        }
+      ]
+    },
+    {
+      "slug": "員に備わるのみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "員に備わるのみ",
+          "reading": "いんにそなわるのみ"
+        }
+      ]
+    }
   ]
 }

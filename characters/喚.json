@@ -94,5 +94,198 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "コンピュータに向かって喚いても、何も解決しないよ。",
+      "furigana": "コンピュータに[向|む]かって[喚|わめ]いても、[何|なに]も[解決|かい|けつ]しないよ。",
+      "translation_zh_CN": "對你的電腦吼一點幫助也沒有。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "呼ぶ",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "呼ぶ",
+          "reading": "よぶ"
+        },
+        {
+          "word": "喚ぶ",
+          "reading": "よぶ"
+        }
+      ]
+    },
+    {
+      "slug": "呼び出す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "呼び出す",
+          "reading": "よびだす"
+        },
+        {
+          "word": "呼出す",
+          "reading": "よびだす"
+        }
+      ]
+    },
+    {
+      "slug": "喚起",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喚起",
+          "reading": "かんき"
+        }
+      ]
+    },
+    {
+      "slug": "喚問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喚問",
+          "reading": "かんもん"
+        }
+      ]
+    },
+    {
+      "slug": "喚く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喚く",
+          "reading": "わめく"
+        },
+        {
+          "word": "叫く",
+          "reading": "わめく"
+        }
+      ]
+    },
+    {
+      "slug": "呼び起こす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呼び起こす",
+          "reading": "よびおこす"
+        },
+        {
+          "word": "呼び起す",
+          "reading": "よびおこす"
+        },
+        {
+          "word": "呼起こす",
+          "reading": "よびおこす"
+        },
+        {
+          "word": "呼起す",
+          "reading": "よびおこす"
+        },
+        {
+          "word": "喚び起こす",
+          "reading": "よびおこす"
+        },
+        {
+          "word": "喚び起す",
+          "reading": "よびおこす"
+        }
+      ]
+    },
+    {
+      "slug": "わめき声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "わめき声",
+          "reading": "わめきごえ"
+        },
+        {
+          "word": "喚き声",
+          "reading": "わめきごえ"
+        }
+      ]
+    },
+    {
+      "slug": "喚声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喚声",
+          "reading": "かんせい"
+        }
+      ]
+    },
+    {
+      "slug": "喚呼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喚呼",
+          "reading": "かんこ"
+        }
+      ]
+    },
+    {
+      "slug": "喚き立てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喚き立てる",
+          "reading": "わめきたてる"
+        },
+        {
+          "word": "わめき立てる",
+          "reading": "わめきたてる"
+        },
+        {
+          "word": "喚きたてる",
+          "reading": "わめきたてる"
+        }
+      ]
+    },
+    {
+      "slug": "呼子鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呼子鳥",
+          "reading": "よぶこどり"
+        },
+        {
+          "word": "喚子鳥",
+          "reading": "よぶこどり"
+        },
+        {
+          "word": "呼ぶ子鳥",
+          "reading": "よぶこどり"
+        }
+      ]
+    },
+    {
+      "slug": "喚き散らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "わめき散らす",
+          "reading": "わめきちらす"
+        },
+        {
+          "word": "喚き散らす",
+          "reading": "わめきちらす"
+        },
+        {
+          "word": "叫き散らす",
+          "reading": "わめきちらす"
+        }
+      ]
+    }
   ]
 }

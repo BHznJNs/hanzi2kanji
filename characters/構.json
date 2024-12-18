@@ -135,5 +135,284 @@
       "strokes": 3,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "嫌なら結構です。",
+      "furigana": "[嫌|いや]なら[結構|けっ|こう]です。",
+      "translation_zh_CN": "如果你不想的话也没问题。"
+    },
+    {
+      "content": "これで結構です。",
+      "furigana": "これで[結構|けっ|こう]です。",
+      "translation_zh_CN": "没有关系呀。"
+    },
+    {
+      "content": "いえ、結構です。",
+      "furigana": "いえ、[結構|けっ|こう]です。",
+      "translation_zh_CN": "不用了，謝謝。"
+    },
+    {
+      "content": "３時で結構です。",
+      "furigana": "[３|][時|じ]で[結構|けっ|こう]です。",
+      "translation_zh_CN": "我三點鐘可以來。"
+    },
+    {
+      "content": "お金は結構です。",
+      "furigana": "お[金|かね]は[結構|けっ|こう]です。",
+      "translation_zh_CN": "我不要钱。"
+    },
+    {
+      "content": "脳の構造は複雑だ。",
+      "furigana": "[脳|のう]の[構造|こう|ぞう]は[複雑|ふく|ざつ]だ。",
+      "translation_zh_CN": "頭腦的結構很複雜。"
+    },
+    {
+      "content": "私は構いませんよ。",
+      "furigana": "[私|わたし]は[構|かま]いませんよ。",
+      "translation_zh_CN": "我无所谓。"
+    },
+    {
+      "content": "1,000円で結構です。",
+      "furigana": "[1|],[0|][0|][0|][円|えん]で[結構|けっ|こう]です。",
+      "translation_zh_CN": "1000日元足够了。"
+    },
+    {
+      "content": "どんな本でも結構です。",
+      "furigana": "どんな[本|ほん]でも[結構|けっ|こう]です。",
+      "translation_zh_CN": "哪一本书都行。"
+    },
+    {
+      "content": "どっちでも構いません。",
+      "furigana": "どっちでも[構|かま]いません。",
+      "translation_zh_CN": "没关系。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "構え",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "構え",
+          "reading": "かまえ"
+        },
+        {
+          "word": "構",
+          "reading": "かまえ"
+        }
+      ]
+    },
+    {
+      "slug": "構う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "構う",
+          "reading": "かまう"
+        }
+      ]
+    },
+    {
+      "slug": "構成",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "構成",
+          "reading": "こうせい"
+        }
+      ]
+    },
+    {
+      "slug": "構造",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "構造",
+          "reading": "こうぞう"
+        }
+      ]
+    },
+    {
+      "slug": "構想",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "構想",
+          "reading": "こうそう"
+        }
+      ]
+    },
+    {
+      "slug": "構える",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "構える",
+          "reading": "かまえる"
+        }
+      ]
+    },
+    {
+      "slug": "構内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構内",
+          "reading": "こうない"
+        }
+      ]
+    },
+    {
+      "slug": "構築",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構築",
+          "reading": "こうちく"
+        }
+      ]
+    },
+    {
+      "slug": "構いません",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構いません",
+          "reading": "かまいません"
+        }
+      ]
+    },
+    {
+      "slug": "構わない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構わない",
+          "reading": "かまわない"
+        }
+      ]
+    },
+    {
+      "slug": "構文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構文",
+          "reading": "こうぶん"
+        }
+      ]
+    },
+    {
+      "slug": "構成員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構成員",
+          "reading": "こうせいいん"
+        }
+      ]
+    },
+    {
+      "slug": "構成単位",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構成単位",
+          "reading": "こうせいたんい"
+        }
+      ]
+    },
+    {
+      "slug": "構成要素",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構成要素",
+          "reading": "こうせいようそ"
+        }
+      ]
+    },
+    {
+      "slug": "構造式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構造式",
+          "reading": "こうぞうしき"
+        }
+      ]
+    },
+    {
+      "slug": "構造物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構造物",
+          "reading": "こうぞうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "構図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構図",
+          "reading": "こうず"
+        }
+      ]
+    },
+    {
+      "slug": "梶の木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "梶の木",
+          "reading": "かじのき"
+        },
+        {
+          "word": "楮の木",
+          "reading": "かじのき"
+        },
+        {
+          "word": "構の木",
+          "reading": "かじのき"
+        },
+        {
+          "word": "穀の木",
+          "reading": "かじのき"
+        },
+        {
+          "word": "楫の木",
+          "reading": "かじのき"
+        },
+        {
+          "reading": "カジノキ"
+        }
+      ]
+    },
+    {
+      "slug": "構成要件",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "構成要件",
+          "reading": "こうせいようけん"
+        }
+      ]
+    }
   ]
 }

@@ -74,5 +74,315 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "涙が止まりません。",
+      "furigana": "[涙|なみだ]が[止|と]まりません。",
+      "translation_zh_CN": "我无法停止哭泣。"
+    },
+    {
+      "content": "涙が誘われる。",
+      "furigana": "[涙|なみだ]が[誘|さそ]われる。",
+      "translation_zh_CN": "它让我热泪盈眶。"
+    },
+    {
+      "content": "涙が止まらなかった。",
+      "furigana": "[涙|なみだ]が[止|と]まらなかった。",
+      "translation_zh_CN": "我无法停止哭泣。"
+    },
+    {
+      "content": "涙を拭いて。",
+      "furigana": "[涙|なみだ]を[拭|ふ]いて。",
+      "translation_zh_CN": "擦干眼泪。"
+    },
+    {
+      "content": "思わず涙がこぼれた。",
+      "furigana": "[思|おも]わず[涙|なみだ]がこぼれた。",
+      "translation_zh_CN": "我泪流满面。"
+    },
+    {
+      "content": "涙が出そう。",
+      "furigana": "[涙|なみだ]が[出|で]そう。",
+      "translation_zh_CN": "我快要哭了。"
+    },
+    {
+      "content": "涙が出てきますよ。",
+      "furigana": "[涙|なみだ]が[出|で]てきますよ。",
+      "translation_zh_CN": "眼泪就会流出来。"
+    },
+    {
+      "content": "トムは涙を流した。",
+      "furigana": "トムは[涙|なみだ]を[流|なが]した。",
+      "translation_zh_CN": "汤姆泪流满面。"
+    },
+    {
+      "content": "女性は涙もろい。",
+      "furigana": "[女性|じょ|せい]は[涙|なみだ]もろい。",
+      "translation_zh_CN": "女人都是泪流满面的。"
+    },
+    {
+      "content": "彼女は涙を流した。",
+      "furigana": "[彼女|かの|じょ]は[涙|なみだ]を[流|なが]した。",
+      "translation_zh_CN": "她流下了眼泪。"
+    },
+    {
+      "content": "涙が出てきますよ。",
+      "furigana": "[涙|なみだ]が[出|で]てきますよ。",
+      "translation_zh_CN": "我在流眼淚。"
+    },
+    {
+      "content": "彼女は涙を流した。",
+      "furigana": "[彼女|かの|じょ]は[涙|なみだ]を[流|なが]した。",
+      "translation_zh_CN": "她流淚了。"
+    },
+    {
+      "content": "トムは涙を流した。",
+      "furigana": "トムは[涙|なみだ]を[流|なが]した。",
+      "translation_zh_CN": "汤姆当时在哭。"
+    },
+    {
+      "content": "彼女は涙をこらえた。",
+      "furigana": "[彼女|かの|じょ]は[涙|なみだ]をこらえた。",
+      "translation_zh_CN": "她忍住了眼泪。"
+    },
+    {
+      "content": "涙が止まらなかった。",
+      "furigana": "[涙|なみだ]が[止|と]まらなかった。",
+      "translation_zh_CN": "我忍不住哭了。"
+    },
+    {
+      "content": "涙が私の頬を流れ落ちた。",
+      "furigana": "[涙|なみだ]が[私|わたし]の[頬|ほお]を[流|なが]れ[落|お]ちた。",
+      "translation_zh_CN": "泪水沿着我的面颊流了下来。"
+    },
+    {
+      "content": "彼女は涙をうかべて答えた。",
+      "furigana": "[彼女|かの|じょ]は[涙|なみだ]をうかべて[答|ごた]えた。",
+      "translation_zh_CN": "她很傷心地回答。"
+    },
+    {
+      "content": "涙は彼の目から落ちました。",
+      "furigana": "[涙|なみだ]は[彼|かれ]の[目|め]から[落|お]ちました。",
+      "translation_zh_CN": "他的眼里流出了泪水。"
+    },
+    {
+      "content": "お涙頂戴な映画は苦手なんだ。",
+      "furigana": "お[涙|なみだ][頂戴|ちょう|だい]な[映画|えい|が]は[苦手|にが|て]なんだ。",
+      "translation_zh_CN": "我不喜欢悲伤的电影。"
+    },
+    {
+      "content": "涙がアリスのほほを流れ落ちた。",
+      "furigana": "[涙|なみだ]がアリスのほほを[流|なが]れ[落|お]ちた。",
+      "translation_zh_CN": "淚水沿著愛麗絲的臉頰流下來。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "涙ぐむ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙ぐむ",
+          "reading": "なみだぐむ"
+        }
+      ]
+    },
+    {
+      "slug": "涙ぐましい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙ぐましい",
+          "reading": "なみだぐましい"
+        }
+      ]
+    },
+    {
+      "slug": "涙腺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙腺",
+          "reading": "るいせん"
+        }
+      ]
+    },
+    {
+      "slug": "涙する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙する",
+          "reading": "なみだする"
+        }
+      ]
+    },
+    {
+      "slug": "涙混じり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙混じり",
+          "reading": "なみだまじり"
+        },
+        {
+          "word": "涙まじり",
+          "reading": "なみだまじり"
+        },
+        {
+          "word": "涙交じり",
+          "reading": "なみだまじり"
+        }
+      ]
+    },
+    {
+      "slug": "涙目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙目",
+          "reading": "なみだめ"
+        }
+      ]
+    },
+    {
+      "slug": "涙ながら",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙ながら",
+          "reading": "なみだながら"
+        }
+      ]
+    },
+    {
+      "slug": "涙脆い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙もろい",
+          "reading": "なみだもろい"
+        },
+        {
+          "word": "涙脆い",
+          "reading": "なみだもろい"
+        }
+      ]
+    },
+    {
+      "slug": "涙声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙声",
+          "reading": "なみだごえ"
+        }
+      ]
+    },
+    {
+      "slug": "涙を流す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙を流す",
+          "reading": "なみだをながす"
+        }
+      ]
+    },
+    {
+      "slug": "涙を浮かべる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙を浮かべる",
+          "reading": "なみだをうかべる"
+        },
+        {
+          "word": "涙をうかべる",
+          "reading": "なみだをうかべる"
+        }
+      ]
+    },
+    {
+      "slug": "涙が出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙が出る",
+          "reading": "なみだがでる"
+        }
+      ]
+    },
+    {
+      "slug": "涙骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙骨",
+          "reading": "るいこつ"
+        }
+      ]
+    },
+    {
+      "slug": "涙が枯れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙が枯れる",
+          "reading": "なみだがかれる"
+        }
+      ]
+    },
+    {
+      "slug": "涙塞き敢えず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙塞き敢えず",
+          "reading": "なみだせきあえず"
+        }
+      ]
+    },
+    {
+      "slug": "涙器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙器",
+          "reading": "るいき"
+        }
+      ]
+    },
+    {
+      "slug": "涙勝ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙勝ち",
+          "reading": "なみだがち"
+        }
+      ]
+    },
+    {
+      "slug": "涙川",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙川",
+          "reading": "なみだがわ"
+        }
+      ]
+    },
+    {
+      "slug": "涙小管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "涙小管",
+          "reading": "るいしょうかん"
+        }
+      ]
+    }
   ]
 }

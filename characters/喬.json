@@ -77,5 +77,28 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "喬志",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喬志",
+          "reading": "きょうし"
+        }
+      ]
+    },
+    {
+      "slug": "喬木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喬木",
+          "reading": "きょうぼく"
+        }
+      ]
+    }
   ]
 }

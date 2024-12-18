@@ -85,5 +85,144 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "厚い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "厚い",
+          "reading": "あつい"
+        },
+        {
+          "word": "篤い",
+          "reading": "あつい"
+        }
+      ]
+    },
+    {
+      "slug": "篤と",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤と",
+          "reading": "とくと"
+        }
+      ]
+    },
+    {
+      "slug": "篤志家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤志家",
+          "reading": "とくしか"
+        }
+      ]
+    },
+    {
+      "slug": "篤学の士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤学の士",
+          "reading": "とくがくのし"
+        }
+      ]
+    },
+    {
+      "slug": "篤農家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤農家",
+          "reading": "とくのうか"
+        }
+      ]
+    },
+    {
+      "slug": "篤厚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤厚",
+          "reading": "とっこう"
+        }
+      ]
+    },
+    {
+      "slug": "篤学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤学",
+          "reading": "とくがく"
+        }
+      ]
+    },
+    {
+      "slug": "篤実",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤実",
+          "reading": "とくじつ"
+        }
+      ]
+    },
+    {
+      "slug": "篤志",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤志",
+          "reading": "とくし"
+        }
+      ]
+    },
+    {
+      "slug": "篤疾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤疾",
+          "reading": "とくしつ"
+        }
+      ]
+    },
+    {
+      "slug": "篤行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤行",
+          "reading": "とっこう"
+        }
+      ]
+    },
+    {
+      "slug": "篤信",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤信",
+          "reading": "とくしん"
+        }
+      ]
+    },
+    {
+      "slug": "篤農",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "篤農",
+          "reading": "とくのう"
+        }
+      ]
+    }
   ]
 }

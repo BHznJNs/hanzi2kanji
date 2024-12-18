@@ -98,5 +98,217 @@
       "strokes": 1,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "元はと言えば、健ちゃんが鈍ちんなのがいけないんだからね～っ。",
+      "furigana": "[元|もと]はと[言|い]えば、[健|けん]ちゃんが[鈍|どん]ちんなのがいけないんだからね～っ。",
+      "translation_zh_CN": "基本上，小肯这么迟钝是不好的。"
+    },
+    {
+      "content": "いや、あいつは「純」というより「鈍」って感じだな。",
+      "furigana": "いや、あいつは「[純|じゅん]」というより「[鈍|どん]」って[感|かん]じだな。",
+      "translation_zh_CN": "不，那家伙给人的感觉与其说是“纯洁”，不如说是“迟钝”。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "遅い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "遅い",
+          "reading": "おそい"
+        }
+      ]
+    },
+    {
+      "slug": "鈍い",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "鈍い",
+          "reading": "にぶい"
+        }
+      ]
+    },
+    {
+      "slug": "鈍感",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鈍感",
+          "reading": "どんかん"
+        }
+      ]
+    },
+    {
+      "slug": "鈍る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鈍る",
+          "reading": "にぶる"
+        },
+        {
+          "word": "鈍る",
+          "reading": "なまる"
+        }
+      ]
+    },
+    {
+      "slug": "鈍ちん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍ちん",
+          "reading": "にぶちん"
+        },
+        {
+          "word": "鈍チン",
+          "reading": "にぶチン"
+        }
+      ]
+    },
+    {
+      "slug": "鈍痛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍痛",
+          "reading": "どんつう"
+        }
+      ]
+    },
+    {
+      "slug": "鈍らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍らす",
+          "reading": "にぶらす"
+        }
+      ]
+    },
+    {
+      "slug": "鈍器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍器",
+          "reading": "どんき"
+        }
+      ]
+    },
+    {
+      "slug": "鈍化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍化",
+          "reading": "どんか"
+        }
+      ]
+    },
+    {
+      "slug": "鈍間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍間",
+          "reading": "のろま"
+        },
+        {
+          "word": "野呂間",
+          "reading": "のろま"
+        },
+        {
+          "word": "野呂松",
+          "reading": "のろま"
+        },
+        {
+          "reading": "ノロマ"
+        }
+      ]
+    },
+    {
+      "slug": "鈍行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍行",
+          "reading": "どんこう"
+        }
+      ]
+    },
+    {
+      "slug": "鈍甲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍甲",
+          "reading": "どんこ"
+        },
+        {
+          "reading": "ドンコ"
+        }
+      ]
+    },
+    {
+      "slug": "遅し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遅し",
+          "reading": "おそし"
+        },
+        {
+          "word": "鈍し",
+          "reading": "おそし"
+        }
+      ]
+    },
+    {
+      "slug": "緞子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緞子",
+          "reading": "どんす"
+        },
+        {
+          "word": "鈍子",
+          "reading": "どんす"
+        }
+      ]
+    },
+    {
+      "slug": "鈍才",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍才",
+          "reading": "どんさい"
+        }
+      ]
+    },
+    {
+      "slug": "鈍する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鈍する",
+          "reading": "どんする"
+        }
+      ]
+    }
   ]
 }

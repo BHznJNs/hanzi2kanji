@@ -85,5 +85,192 @@
       "startStroke": 10,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "嘗め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘗め",
+          "reading": "なめ"
+        },
+        {
+          "word": "舐め",
+          "reading": "なめ"
+        },
+        {
+          "word": "嘗",
+          "reading": "なめ"
+        },
+        {
+          "word": "舐",
+          "reading": "なめ"
+        }
+      ]
+    },
+    {
+      "slug": "嘗て",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "嘗て",
+          "reading": "かつて"
+        },
+        {
+          "word": "嘗て",
+          "reading": "かって"
+        },
+        {
+          "word": "曾て",
+          "reading": "かつて"
+        },
+        {
+          "word": "曾て",
+          "reading": "かって"
+        },
+        {
+          "word": "曽て",
+          "reading": "かつて"
+        },
+        {
+          "word": "曽て",
+          "reading": "かって"
+        },
+        {
+          "word": "都て",
+          "reading": "かつて"
+        },
+        {
+          "word": "都て",
+          "reading": "かって"
+        }
+      ]
+    },
+    {
+      "slug": "舐める",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "舐める",
+          "reading": "なめる"
+        },
+        {
+          "word": "嘗める",
+          "reading": "なめる"
+        },
+        {
+          "word": "甞める",
+          "reading": "なめる"
+        }
+      ]
+    },
+    {
+      "slug": "舐め尽くす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舐め尽くす",
+          "reading": "なめつくす"
+        },
+        {
+          "word": "嘗め尽くす",
+          "reading": "なめつくす"
+        },
+        {
+          "word": "なめ尽くす",
+          "reading": "なめつくす"
+        },
+        {
+          "word": "舐めつくす",
+          "reading": "なめつくす"
+        }
+      ]
+    },
+    {
+      "slug": "嘗糞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘗糞",
+          "reading": "しょうふん"
+        }
+      ]
+    },
+    {
+      "slug": "なめ味噌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なめ味噌",
+          "reading": "なめみそ"
+        },
+        {
+          "word": "嘗め味噌",
+          "reading": "なめみそ"
+        }
+      ]
+    },
+    {
+      "slug": "嘗めてかかる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘗めてかかる",
+          "reading": "なめてかかる"
+        }
+      ]
+    },
+    {
+      "slug": "嘗てない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嘗てない",
+          "reading": "かつてない"
+        }
+      ]
+    },
+    {
+      "slug": "舐め取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舐め取る",
+          "reading": "なめとる"
+        }
+      ]
+    },
+    {
+      "slug": "舐め回す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "舐め回す",
+          "reading": "なめまわす"
+        },
+        {
+          "word": "舐めまわす",
+          "reading": "なめまわす"
+        },
+        {
+          "word": "嘗め回す",
+          "reading": "なめまわす"
+        },
+        {
+          "word": "なめ回す",
+          "reading": "なめまわす"
+        },
+        {
+          "word": "嘗めまわす",
+          "reading": "なめまわす"
+        }
+      ]
+    }
   ]
 }

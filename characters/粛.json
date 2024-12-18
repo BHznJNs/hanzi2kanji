@@ -78,5 +78,146 @@
       "startStroke": 4,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "みなさん、どうか静粛に。",
+      "furigana": "みなさん、どうか[静粛|せい|しゅく]に。",
+      "translation_zh_CN": "各位，請安靜。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "粛清",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛清",
+          "reading": "しゅくせい"
+        }
+      ]
+    },
+    {
+      "slug": "粛然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛然",
+          "reading": "しゅくぜん"
+        }
+      ]
+    },
+    {
+      "slug": "粛正",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛正",
+          "reading": "しゅくせい"
+        }
+      ]
+    },
+    {
+      "slug": "粛軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛軍",
+          "reading": "しゅくぐん"
+        }
+      ]
+    },
+    {
+      "slug": "粛学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛学",
+          "reading": "しゅくがく"
+        }
+      ]
+    },
+    {
+      "slug": "粛殺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛殺",
+          "reading": "しゅくさつ"
+        }
+      ]
+    },
+    {
+      "slug": "粛党",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛党",
+          "reading": "しゅくとう"
+        }
+      ]
+    },
+    {
+      "slug": "粛粛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛々",
+          "reading": "しゅくしゅく"
+        },
+        {
+          "word": "粛粛",
+          "reading": "しゅくしゅく"
+        }
+      ]
+    },
+    {
+      "slug": "粛啓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛啓",
+          "reading": "しゅくけい"
+        },
+        {
+          "word": "粛啓",
+          "reading": "しゅっけい"
+        }
+      ]
+    },
+    {
+      "slug": "粛慎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛慎",
+          "reading": "みしはせ"
+        },
+        {
+          "word": "粛慎",
+          "reading": "あしはせ"
+        }
+      ]
+    },
+    {
+      "slug": "粛白",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛白",
+          "reading": "しゅくはく"
+        }
+      ]
+    },
+    {
+      "slug": "粛として",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粛として",
+          "reading": "しゅくとして"
+        }
+      ]
+    }
   ]
 }

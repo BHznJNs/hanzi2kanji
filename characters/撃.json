@@ -99,5 +99,342 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は３発撃った。",
+      "furigana": "[彼|かれ]は[３|][発|はつ][撃|う]った。",
+      "translation_zh_CN": "他开了三枪。"
+    },
+    {
+      "content": "攻撃は最大の防御。",
+      "furigana": "[攻撃|こう|げき]は[最大|さい|だい]の[防御|ぼう|ぎょ]。",
+      "translation_zh_CN": "進攻是最好的防禦。"
+    },
+    {
+      "content": "撃たないでください！",
+      "furigana": "[撃|う]たないでください！",
+      "translation_zh_CN": "停火。"
+    },
+    {
+      "content": "彼は殺人を目撃した。",
+      "furigana": "[彼|かれ]は[殺人|さつ|じん]を[目撃|もく|げき]した。",
+      "translation_zh_CN": "他目睹了謀殺案。"
+    },
+    {
+      "content": "止まらないと撃つぞ。",
+      "furigana": "[止|と]まらないと[撃|う]つぞ。",
+      "translation_zh_CN": "停止，不然我就開槍了。"
+    },
+    {
+      "content": "攻撃は最大の防御なり。",
+      "furigana": "[攻撃|こう|げき]は[最大|さい|だい]の[防御|ぼう|ぎょ]なり。",
+      "translation_zh_CN": "進攻是最好的防禦。"
+    },
+    {
+      "content": "彼はその事故を目撃した。",
+      "furigana": "[彼|かれ]はその[事故|じ|こ]を[目撃|もく|げき]した。",
+      "translation_zh_CN": "他目擊了那件意外。"
+    },
+    {
+      "content": "最初の攻撃は目標を外れた。",
+      "furigana": "[最初|さい|しょ]の[攻撃|こう|げき]は[目標|もく|ひょう]を[外|はず]れた。",
+      "translation_zh_CN": "第一次攻击错过了目标。"
+    },
+    {
+      "content": "お願いだから、撃たないで。",
+      "furigana": "お[願|ねが]いだから、[撃|う]たないで。",
+      "translation_zh_CN": "请不要开枪！"
+    },
+    {
+      "content": "ロンドンは数回爆撃を受けた。",
+      "furigana": "ロンドンは[数|すう][回|かい][爆撃|ばく|げき]を[受|う]けた。",
+      "translation_zh_CN": "倫敦被轟炸過許多次。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "撃墜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃墜",
+          "reading": "げきつい"
+        }
+      ]
+    },
+    {
+      "slug": "撃つ",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "撃つ",
+          "reading": "うつ"
+        },
+        {
+          "word": "射つ",
+          "reading": "うつ"
+        }
+      ]
+    },
+    {
+      "slug": "撃ち合い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち合い",
+          "reading": "うちあい"
+        },
+        {
+          "word": "撃合い",
+          "reading": "うちあい"
+        }
+      ]
+    },
+    {
+      "slug": "打ち破る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "討ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "打破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "撃ち破る",
+          "reading": "うちやぶる"
+        },
+        {
+          "word": "うち破る",
+          "reading": "うちやぶる"
+        }
+      ]
+    },
+    {
+      "slug": "討ち取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち取る",
+          "reading": "うちとる"
+        },
+        {
+          "word": "討ち取る",
+          "reading": "うちとる"
+        },
+        {
+          "word": "打ちとる",
+          "reading": "うちとる"
+        },
+        {
+          "word": "討ちとる",
+          "reading": "うちとる"
+        },
+        {
+          "word": "打取る",
+          "reading": "うちとる"
+        },
+        {
+          "word": "討取る",
+          "reading": "うちとる"
+        },
+        {
+          "word": "撃ち取る",
+          "reading": "うちとる"
+        }
+      ]
+    },
+    {
+      "slug": "撃退",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃退",
+          "reading": "げきたい"
+        }
+      ]
+    },
+    {
+      "slug": "撃破",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃破",
+          "reading": "げきは"
+        }
+      ]
+    },
+    {
+      "slug": "撃ち抜く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち抜く",
+          "reading": "うちぬく"
+        }
+      ]
+    },
+    {
+      "slug": "伐つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "討つ",
+          "reading": "うつ"
+        },
+        {
+          "word": "撃つ",
+          "reading": "うつ"
+        },
+        {
+          "word": "伐つ",
+          "reading": "うつ"
+        }
+      ]
+    },
+    {
+      "slug": "撃沈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃沈",
+          "reading": "げきちん"
+        }
+      ]
+    },
+    {
+      "slug": "打ち返す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち返す",
+          "reading": "うちかえす"
+        }
+      ]
+    },
+    {
+      "slug": "打ちまくる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ちまくる",
+          "reading": "うちまくる"
+        },
+        {
+          "word": "打ち捲る",
+          "reading": "うちまくる"
+        }
+      ]
+    },
+    {
+      "slug": "撃ち当てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち当てる",
+          "reading": "うちあてる"
+        }
+      ]
+    },
+    {
+      "slug": "打ち損なう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ちそこなう",
+          "reading": "うちそこなう"
+        },
+        {
+          "word": "打ち損なう",
+          "reading": "うちそこなう"
+        },
+        {
+          "word": "撃ち損なう",
+          "reading": "うちそこなう"
+        },
+        {
+          "word": "撃ちそこなう",
+          "reading": "うちそこなう"
+        }
+      ]
+    },
+    {
+      "slug": "打たれる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打たれる",
+          "reading": "うたれる"
+        },
+        {
+          "word": "撃たれる",
+          "reading": "うたれる"
+        }
+      ]
+    },
+    {
+      "slug": "撃ち方止め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち方やめ",
+          "reading": "うちかたやめ"
+        },
+        {
+          "word": "撃ち方止め",
+          "reading": "うちかたやめ"
+        },
+        {
+          "word": "打ち方やめ",
+          "reading": "うちかたやめ"
+        },
+        {
+          "word": "打ち方止め",
+          "reading": "うちかたやめ"
+        }
+      ]
+    },
+    {
+      "slug": "撃ち止める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "打ち止める",
+          "reading": "うちとめる"
+        },
+        {
+          "word": "打ち留める",
+          "reading": "うちとめる"
+        },
+        {
+          "word": "打止める",
+          "reading": "うちとめる"
+        },
+        {
+          "word": "打留める",
+          "reading": "うちとめる"
+        }
+      ]
+    },
+    {
+      "slug": "撃ち殺す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撃ち殺す",
+          "reading": "うちころす"
+        }
+      ]
+    }
   ]
 }

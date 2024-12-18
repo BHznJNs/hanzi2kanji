@@ -120,5 +120,220 @@
       "startStroke": 14,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "銀行強盗すると懲役１０年食らうぞ。",
+      "furigana": "[銀行|ぎん|こう][強盗|ごう|とう]すると[懲役|ちょう|えき][１０|じゅう][年|ねん][食|く]らうぞ。",
+      "translation_zh_CN": "搶劫銀行的後果就是在監獄裏蹲十年。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "懲りる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "懲りる",
+          "reading": "こりる"
+        }
+      ]
+    },
+    {
+      "slug": "懲役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲役",
+          "reading": "ちょうえき"
+        }
+      ]
+    },
+    {
+      "slug": "懲罰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲罰",
+          "reading": "ちょうばつ"
+        }
+      ]
+    },
+    {
+      "slug": "懲役刑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲役刑",
+          "reading": "ちょうえきけい"
+        }
+      ]
+    },
+    {
+      "slug": "懲らしめる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲らしめる",
+          "reading": "こらしめる"
+        },
+        {
+          "word": "懲しめる",
+          "reading": "こらしめる"
+        }
+      ]
+    },
+    {
+      "slug": "懲り懲り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲り懲り",
+          "reading": "こりごり"
+        }
+      ]
+    },
+    {
+      "slug": "懲戒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲戒",
+          "reading": "ちょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "懲罰委員会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲罰委員会",
+          "reading": "ちょうばついいんかい"
+        }
+      ]
+    },
+    {
+      "slug": "懲らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲らす",
+          "reading": "こらす"
+        }
+      ]
+    },
+    {
+      "slug": "懲戒請求",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲戒請求",
+          "reading": "ちょうかいせいきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "懲りない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲りない",
+          "reading": "こりない"
+        }
+      ]
+    },
+    {
+      "slug": "懲治監",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲治監",
+          "reading": "ちょうじかん"
+        }
+      ]
+    },
+    {
+      "slug": "懲戒解雇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲戒解雇",
+          "reading": "ちょうかいかいこ"
+        }
+      ]
+    },
+    {
+      "slug": "懲らしめ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲らしめ",
+          "reading": "こらしめ"
+        }
+      ]
+    },
+    {
+      "slug": "懲悪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲悪",
+          "reading": "ちょうあく"
+        }
+      ]
+    },
+    {
+      "slug": "懲戒処分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲戒処分",
+          "reading": "ちょうかいしょぶん"
+        }
+      ]
+    },
+    {
+      "slug": "懲戒免",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲戒免",
+          "reading": "ちょうかいめん"
+        }
+      ]
+    },
+    {
+      "slug": "懲戒免官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲戒免官",
+          "reading": "ちょうかいめんかん"
+        }
+      ]
+    },
+    {
+      "slug": "懲戒免職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲戒免職",
+          "reading": "ちょうかいめんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "懲罰的損害賠償",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懲罰的損害賠償",
+          "reading": "ちょうばつてきそんがいばいしょう"
+        }
+      ]
+    }
   ]
 }

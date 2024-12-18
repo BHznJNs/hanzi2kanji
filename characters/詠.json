@@ -90,5 +90,272 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "歌う",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "歌う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唄う",
+          "reading": "うたう"
+        },
+        {
+          "word": "詠う",
+          "reading": "うたう"
+        },
+        {
+          "word": "唱う",
+          "reading": "うたう"
+        }
+      ]
+    },
+    {
+      "slug": "詠む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠む",
+          "reading": "よむ"
+        }
+      ]
+    },
+    {
+      "slug": "うたい文句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うたい文句",
+          "reading": "うたいもんく"
+        },
+        {
+          "word": "謳い文句",
+          "reading": "うたいもんく"
+        },
+        {
+          "word": "歌い文句",
+          "reading": "うたいもんく"
+        }
+      ]
+    },
+    {
+      "slug": "読み人知らず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠み人知らず",
+          "reading": "よみびとしらず"
+        },
+        {
+          "word": "読み人知らず",
+          "reading": "よみびとしらず"
+        },
+        {
+          "word": "よみ人しらず",
+          "reading": "よみびとしらず"
+        },
+        {
+          "word": "読人知らず",
+          "reading": "よみびとしらず"
+        },
+        {
+          "word": "詠人知らず",
+          "reading": "よみびとしらず"
+        }
+      ]
+    },
+    {
+      "slug": "詠じる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠じる",
+          "reading": "えいじる"
+        }
+      ]
+    },
+    {
+      "slug": "詠歌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠歌",
+          "reading": "えいか"
+        },
+        {
+          "word": "詠歌",
+          "reading": "えいが"
+        }
+      ]
+    },
+    {
+      "slug": "詠み手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠み手",
+          "reading": "よみて"
+        },
+        {
+          "word": "詠手",
+          "reading": "よみて"
+        }
+      ]
+    },
+    {
+      "slug": "詠誦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠誦",
+          "reading": "えいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "詠進",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠進",
+          "reading": "えいしん"
+        }
+      ]
+    },
+    {
+      "slug": "詠ずる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠ずる",
+          "reading": "えいずる"
+        }
+      ]
+    },
+    {
+      "slug": "詠叙唱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠叙唱",
+          "reading": "えいじょしょう"
+        }
+      ]
+    },
+    {
+      "slug": "詠史",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠史",
+          "reading": "えいし"
+        }
+      ]
+    },
+    {
+      "slug": "詠み込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠み込む",
+          "reading": "よみこむ"
+        },
+        {
+          "word": "詠みこむ",
+          "reading": "よみこむ"
+        },
+        {
+          "word": "詠込む",
+          "reading": "よみこむ"
+        }
+      ]
+    },
+    {
+      "slug": "詠吟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠吟",
+          "reading": "えいぎん"
+        }
+      ]
+    },
+    {
+      "slug": "詠唱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠唱",
+          "reading": "えいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "読み人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠み人",
+          "reading": "よみびと"
+        },
+        {
+          "word": "読み人",
+          "reading": "よみびと"
+        },
+        {
+          "word": "詠人",
+          "reading": "よみびと"
+        },
+        {
+          "word": "読人",
+          "reading": "よみびと"
+        }
+      ]
+    },
+    {
+      "slug": "詠嘆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠嘆",
+          "reading": "えいたん"
+        },
+        {
+          "word": "詠歎",
+          "reading": "えいたん"
+        }
+      ]
+    },
+    {
+      "slug": "詠春拳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠春拳",
+          "reading": "えいしゅんけん"
+        },
+        {
+          "word": "咏春拳",
+          "reading": "えいしゅんけん"
+        }
+      ]
+    },
+    {
+      "slug": "詠草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詠草",
+          "reading": "えいそう"
+        }
+      ]
+    }
   ]
 }

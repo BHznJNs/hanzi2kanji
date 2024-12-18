@@ -104,5 +104,236 @@
       "startStroke": 15,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "番組の途中ですが、ここで臨時ニュースをお伝えします。",
+      "furigana": "[番組|ばん|ぐみ]の[途中|と|ちゅう]ですが、ここで[臨時|りん|じ]ニュースをお[伝|つた]えします。",
+      "translation_zh_CN": "節目進行當中,我們要插播臨時新聞."
+    }
+  ],
+  "usages": [
+    {
+      "slug": "臨時",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "臨時",
+          "reading": "りんじ"
+        }
+      ]
+    },
+    {
+      "slug": "覗く",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "覗く",
+          "reading": "のぞく"
+        },
+        {
+          "word": "覘く",
+          "reading": "のぞく"
+        },
+        {
+          "word": "窺く",
+          "reading": "のぞく"
+        },
+        {
+          "word": "臨く",
+          "reading": "のぞく"
+        }
+      ]
+    },
+    {
+      "slug": "臨む",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "臨む",
+          "reading": "のぞむ"
+        }
+      ]
+    },
+    {
+      "slug": "臨機応変",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨機応変",
+          "reading": "りんきおうへん"
+        }
+      ]
+    },
+    {
+      "slug": "臨時雇い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨時雇い",
+          "reading": "りんじやとい"
+        },
+        {
+          "word": "臨時雇",
+          "reading": "りんじやとい"
+        }
+      ]
+    },
+    {
+      "slug": "臨海",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨海",
+          "reading": "りんかい"
+        }
+      ]
+    },
+    {
+      "slug": "臨床",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨床",
+          "reading": "りんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "臨場感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨場感",
+          "reading": "りんじょうかん"
+        }
+      ]
+    },
+    {
+      "slug": "臨界",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨界",
+          "reading": "りんかい"
+        }
+      ]
+    },
+    {
+      "slug": "臨終",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨終",
+          "reading": "りんじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "臨港",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨港",
+          "reading": "りんこう"
+        }
+      ]
+    },
+    {
+      "slug": "臨月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨月",
+          "reading": "りんげつ"
+        }
+      ]
+    },
+    {
+      "slug": "臨書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨書",
+          "reading": "りんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "臨床医",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨床医",
+          "reading": "りんしょうい"
+        }
+      ]
+    },
+    {
+      "slug": "臨検",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨検",
+          "reading": "りんけん"
+        }
+      ]
+    },
+    {
+      "slug": "臨戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨戦",
+          "reading": "りんせん"
+        }
+      ]
+    },
+    {
+      "slug": "臨済宗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨済宗",
+          "reading": "りんざいしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "臨死体験",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨死体験",
+          "reading": "りんしたいけん"
+        }
+      ]
+    },
+    {
+      "slug": "臨時記号",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨時記号",
+          "reading": "りんじきごう"
+        }
+      ]
+    },
+    {
+      "slug": "臨床心理学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臨床心理学",
+          "reading": "りんしょうしんりがく"
+        }
+      ]
+    }
   ]
 }

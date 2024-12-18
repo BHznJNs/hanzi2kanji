@@ -91,5 +91,384 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "指にとげが刺さって取れないんだ。",
+      "furigana": "[指|ゆび]にとげが[刺|さ]さって[取|と]れないんだ。",
+      "translation_zh_CN": "我的手指被一根刺扎住了，拔不出来。"
+    },
+    {
+      "content": "指を加えて立っていただけ。",
+      "furigana": "[指|ゆび]を[加|くわ]えて[立|た]っていただけ。",
+      "translation_zh_CN": "我只是加上了手指并站在那里。"
+    },
+    {
+      "content": "指は鍵盤のあちらこちらに動きました。",
+      "furigana": "[指|ゆび]は[鍵盤|けん|ばん]のあちらこちらに[動|うご]きました。",
+      "translation_zh_CN": "我的手指在键盘上动来动去。"
+    },
+    {
+      "content": "指を切りました。",
+      "furigana": "[指|ゆび]を[切|き]りました。",
+      "translation_zh_CN": "我割伤了手指。"
+    },
+    {
+      "content": "指が寒さでかじかんじゃったよ。",
+      "furigana": "[指|ゆび]が[寒|さむ]さでかじかんじゃったよ。",
+      "translation_zh_CN": "我的手指冻僵了。"
+    },
+    {
+      "content": "指にやけどをしました。",
+      "furigana": "[指|ゆび]にやけどをしました。",
+      "translation_zh_CN": "我的手指被烧伤了。"
+    },
+    {
+      "content": "指を鳴らすのはやめろ。",
+      "furigana": "[指|ゆび]を[鳴|な]らすのはやめろ。",
+      "translation_zh_CN": "别再打响指了。"
+    },
+    {
+      "content": "指を開いて。",
+      "furigana": "[指|ゆび]を[開|ひら]いて。",
+      "translation_zh_CN": "张开你的手指。"
+    },
+    {
+      "content": "指一本動かそうとしなかった。",
+      "furigana": "[指一本動|ゆび|いっ|ぽん|うご]かそうとしなかった。",
+      "translation_zh_CN": "他没有动一根手指。"
+    },
+    {
+      "content": "指やつま先の感覚がない。",
+      "furigana": "[指|ゆび]やつま[先|さき]の[感覚|かん|かく]がない。",
+      "translation_zh_CN": "我感觉不到我的手指或脚趾。"
+    },
+    {
+      "content": "薬缶のお湯が沸いている。",
+      "furigana": "[薬缶|や|かん]のお[湯|ゆ]が[沸|わ]いている。",
+      "translation_zh_CN": "茶壺沸了。"
+    },
+    {
+      "content": "熱湯でやけどをしました。",
+      "furigana": "[熱湯|ねっ|とう]でやけどをしました。",
+      "translation_zh_CN": "我給沸水燙傷了。"
+    },
+    {
+      "content": "お湯を少し沸かしてください。",
+      "furigana": "お[湯|ゆ]を[少|すこ]し[沸|わ]かしてください。",
+      "translation_zh_CN": "烧一点水。"
+    },
+    {
+      "content": "沸騰しているお湯に卵を入れます。",
+      "furigana": "[沸騰|ふっ|とう]しているお[湯|ゆ]に[卵|たまご]を[入|い]れます。",
+      "translation_zh_CN": "把蛋放入沸水中。"
+    },
+    {
+      "content": "湯上がりに、私はジュースを飲んだ。",
+      "furigana": "[湯上|ゆ|あ]がりに、[私|わたし]はジュースを[飲|の]んだ。",
+      "translation_zh_CN": "我洗完澡之后喝了点汽水。"
+    },
+    {
+      "content": "湯上がりに、私はあるソフトドリンクを飲んだ。",
+      "furigana": "[湯上|ゆ|あ]がりに、[私|わたし]はあるソフトドリンクを[飲|の]んだ。",
+      "translation_zh_CN": "我洗完澡之后喝了点汽水。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "茹でる",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "茹でる",
+          "reading": "ゆでる"
+        },
+        {
+          "word": "茹でる",
+          "reading": "うでる"
+        },
+        {
+          "word": "煠でる",
+          "reading": "ゆでる"
+        },
+        {
+          "word": "煠でる",
+          "reading": "うでる"
+        }
+      ]
+    },
+    {
+      "slug": "湯のみ",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "湯のみ",
+          "reading": "ゆのみ"
+        },
+        {
+          "word": "湯呑み",
+          "reading": "ゆのみ"
+        },
+        {
+          "word": "湯飲み",
+          "reading": "ゆのみ"
+        },
+        {
+          "word": "湯呑",
+          "reading": "ゆのみ"
+        },
+        {
+          "word": "湯飲",
+          "reading": "ゆのみ"
+        }
+      ]
+    },
+    {
+      "slug": "湯気",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "湯気",
+          "reading": "ゆげ"
+        }
+      ]
+    },
+    {
+      "slug": "湯垢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯垢",
+          "reading": "ゆあか"
+        },
+        {
+          "word": "湯あか",
+          "reading": "ゆあか"
+        }
+      ]
+    },
+    {
+      "slug": "湯沸かし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯沸かし",
+          "reading": "ゆわかし"
+        },
+        {
+          "word": "湯沸し",
+          "reading": "ゆわかし"
+        },
+        {
+          "word": "湯沸",
+          "reading": "ゆわかし"
+        }
+      ]
+    },
+    {
+      "slug": "湯船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯船",
+          "reading": "ゆぶね"
+        },
+        {
+          "word": "湯舟",
+          "reading": "ゆぶね"
+        },
+        {
+          "word": "湯槽",
+          "reading": "ゆぶね"
+        }
+      ]
+    },
+    {
+      "slug": "湯沸かし器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯沸かし器",
+          "reading": "ゆわかしき"
+        },
+        {
+          "word": "湯沸し器",
+          "reading": "ゆわかしき"
+        },
+        {
+          "word": "湯沸器",
+          "reading": "ゆわかしき"
+        }
+      ]
+    },
+    {
+      "slug": "湯治",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯治",
+          "reading": "とうじ"
+        }
+      ]
+    },
+    {
+      "slug": "湯水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯水",
+          "reading": "ゆみず"
+        }
+      ]
+    },
+    {
+      "slug": "湯煎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯煎",
+          "reading": "ゆせん"
+        },
+        {
+          "word": "湯せん",
+          "reading": "ゆせん"
+        }
+      ]
+    },
+    {
+      "slug": "湯たんぽ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯たんぽ",
+          "reading": "ゆたんぽ"
+        },
+        {
+          "word": "湯湯婆",
+          "reading": "ゆたんぽ"
+        }
+      ]
+    },
+    {
+      "slug": "湯風呂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯風呂",
+          "reading": "ゆぶろ"
+        }
+      ]
+    },
+    {
+      "slug": "湯立て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯立て",
+          "reading": "ゆだて"
+        },
+        {
+          "word": "湯立",
+          "reading": "ゆだて"
+        },
+        {
+          "word": "湯立ち",
+          "reading": "ゆだち"
+        },
+        {
+          "word": "湯立",
+          "reading": "ゆだち"
+        }
+      ]
+    },
+    {
+      "slug": "湯のし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯のし",
+          "reading": "ゆのし"
+        },
+        {
+          "word": "湯熨",
+          "reading": "ゆのし"
+        },
+        {
+          "word": "湯熨斗",
+          "reading": "ゆのし"
+        }
+      ]
+    },
+    {
+      "slug": "湯飲み茶碗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯飲み茶碗",
+          "reading": "ゆのみぢゃわん"
+        },
+        {
+          "word": "湯のみ茶碗",
+          "reading": "ゆのみぢゃわん"
+        },
+        {
+          "word": "湯呑み茶碗",
+          "reading": "ゆのみぢゃわん"
+        },
+        {
+          "word": "湯吞み茶碗",
+          "reading": "ゆのみぢゃわん"
+        }
+      ]
+    },
+    {
+      "slug": "湯上がり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯上がり",
+          "reading": "ゆあがり"
+        },
+        {
+          "word": "湯上り",
+          "reading": "ゆあがり"
+        },
+        {
+          "word": "湯あがり",
+          "reading": "ゆあがり"
+        }
+      ]
+    },
+    {
+      "slug": "湯汲み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯汲み",
+          "reading": "ゆくみ"
+        },
+        {
+          "word": "湯くみ",
+          "reading": "ゆくみ"
+        }
+      ]
+    },
+    {
+      "slug": "湯の盤銘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "湯の盤銘",
+          "reading": "とうのばんめい"
+        }
+      ]
+    }
   ]
 }

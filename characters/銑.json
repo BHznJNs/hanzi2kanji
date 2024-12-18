@@ -68,5 +68,22 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "銑鉄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銑鉄",
+          "reading": "せんてつ"
+        },
+        {
+          "word": "銑鉄",
+          "reading": "ずくてつ"
+        }
+      ]
+    }
   ]
 }

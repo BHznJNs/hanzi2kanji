@@ -78,5 +78,301 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "その耳飾はとてもきれいです。",
+      "furigana": "その[耳飾|みみ|かざり]はとてもきれいです。",
+      "translation_zh_CN": "那个耳环非常漂亮。"
+    },
+    {
+      "content": "彼女は壁を絵で飾った。",
+      "furigana": "[彼女|かの|じょ]は[壁|かべ]を[絵|え]で[飾|かざ]った。",
+      "translation_zh_CN": "她用绘画来装饰墙。"
+    },
+    {
+      "content": "火星上にある神殿には蓮の花が飾ってあります。",
+      "furigana": "[火星|か|せい][上|じょう]にある[神殿|しん|でん]には[蓮|はちす]の[花|はな]が[飾|かざ]ってあります。",
+      "translation_zh_CN": "火星上的神殿饰有莲花。"
+    },
+    {
+      "content": "名詞を修飾するもの（形容詞、または形容詞相当語句）。",
+      "furigana": "[名詞|めい|し]を[修飾|しゅう|しょく]するもの（[形容詞|けい|よう|し]、または[形容詞|けい|よう|し][相当|そう|とう][語句|ご|く]）。",
+      "translation_zh_CN": "修飾名詞的東西（形容詞，或形容詞相等語）。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "飾る",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "飾る",
+          "reading": "かざる"
+        },
+        {
+          "word": "餝る",
+          "reading": "かざる"
+        },
+        {
+          "word": "錺る",
+          "reading": "かざる"
+        },
+        {
+          "word": "荘る",
+          "reading": "かざる"
+        }
+      ]
+    },
+    {
+      "slug": "飾り",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "飾り",
+          "reading": "かざり"
+        }
+      ]
+    },
+    {
+      "slug": "飾り気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り気",
+          "reading": "かざりけ"
+        },
+        {
+          "word": "飾りけ",
+          "reading": "かざりけ"
+        }
+      ]
+    },
+    {
+      "slug": "飾り立てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り立てる",
+          "reading": "かざりたてる"
+        }
+      ]
+    },
+    {
+      "slug": "飾り付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り付ける",
+          "reading": "かざりつける"
+        },
+        {
+          "word": "飾りつける",
+          "reading": "かざりつける"
+        }
+      ]
+    },
+    {
+      "slug": "飾り付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り付け",
+          "reading": "かざりつけ"
+        },
+        {
+          "word": "飾りつけ",
+          "reading": "かざりつけ"
+        },
+        {
+          "word": "飾付",
+          "reading": "かざりつけ"
+        }
+      ]
+    },
+    {
+      "slug": "飾り物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り物",
+          "reading": "かざりもの"
+        }
+      ]
+    },
+    {
+      "slug": "飾り窓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り窓",
+          "reading": "かざりまど"
+        },
+        {
+          "word": "飾窓",
+          "reading": "かざりまど"
+        }
+      ]
+    },
+    {
+      "slug": "飾緒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾緒",
+          "reading": "しょくしょ"
+        },
+        {
+          "word": "飾緒",
+          "reading": "しょくちょ"
+        }
+      ]
+    },
+    {
+      "slug": "飾り結び",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り結び",
+          "reading": "かざりむすび"
+        }
+      ]
+    },
+    {
+      "slug": "飾りっ気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾りっ気",
+          "reading": "かざりっけ"
+        },
+        {
+          "word": "飾りっけ",
+          "reading": "かざりっけ"
+        }
+      ]
+    },
+    {
+      "slug": "飾り職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り職",
+          "reading": "かざりしょく"
+        },
+        {
+          "word": "かざり職",
+          "reading": "かざりしょく"
+        },
+        {
+          "word": "錺り職",
+          "reading": "かざりしょく"
+        },
+        {
+          "word": "錺職",
+          "reading": "かざりしょく"
+        },
+        {
+          "word": "飾職",
+          "reading": "かざりしょく"
+        }
+      ]
+    },
+    {
+      "slug": "飾り文字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り文字",
+          "reading": "かざりもじ"
+        }
+      ]
+    },
+    {
+      "slug": "飾り羽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り羽",
+          "reading": "かざりばね"
+        },
+        {
+          "word": "飾り羽根",
+          "reading": "かざりばね"
+        }
+      ]
+    },
+    {
+      "slug": "飾り枠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り枠",
+          "reading": "かざりわく"
+        }
+      ]
+    },
+    {
+      "slug": "飾り車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り車",
+          "reading": "かざりぐるま"
+        },
+        {
+          "word": "餝り車",
+          "reading": "かざりぐるま"
+        }
+      ]
+    },
+    {
+      "slug": "飾り棚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り棚",
+          "reading": "かざりだな"
+        }
+      ]
+    },
+    {
+      "slug": "飾り気の無い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り気のない",
+          "reading": "かざりけのない"
+        },
+        {
+          "word": "飾り気の無い",
+          "reading": "かざりけのない"
+        }
+      ]
+    },
+    {
+      "slug": "飾り鞍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り鞍",
+          "reading": "かざりぐら"
+        }
+      ]
+    },
+    {
+      "slug": "飾り皿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飾り皿",
+          "reading": "かざりざら"
+        }
+      ]
+    }
   ]
 }

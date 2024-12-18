@@ -52,5 +52,362 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "斬新な意見だね。",
+      "furigana": "[斬新|ざん|しん]な[意見|い|けん]だね。",
+      "translation_zh_CN": "那是原创的想法。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "切り捨てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り捨てる",
+          "reading": "きりすてる"
+        },
+        {
+          "word": "切捨てる",
+          "reading": "きりすてる"
+        },
+        {
+          "word": "斬り捨てる",
+          "reading": "きりすてる"
+        }
+      ]
+    },
+    {
+      "slug": "斬新",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斬新",
+          "reading": "ざんしん"
+        }
+      ]
+    },
+    {
+      "slug": "切り倒す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り倒す",
+          "reading": "きりたおす"
+        },
+        {
+          "word": "斬り倒す",
+          "reading": "きりたおす"
+        },
+        {
+          "word": "切倒す",
+          "reading": "きりたおす"
+        }
+      ]
+    },
+    {
+      "slug": "切り込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り込む",
+          "reading": "きりこむ"
+        },
+        {
+          "word": "斬り込む",
+          "reading": "きりこむ"
+        },
+        {
+          "word": "切込む",
+          "reading": "きりこむ"
+        },
+        {
+          "word": "斬込む",
+          "reading": "きりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "斬る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "斬る",
+          "reading": "きる"
+        }
+      ]
+    },
+    {
+      "slug": "切り刻む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り刻む",
+          "reading": "きりきざむ"
+        },
+        {
+          "word": "斬り刻む",
+          "reading": "きりきざむ"
+        },
+        {
+          "word": "斬刻む",
+          "reading": "きりきざむ"
+        }
+      ]
+    },
+    {
+      "slug": "斬首",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斬首",
+          "reading": "ざんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "切り合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り合う",
+          "reading": "きりあう"
+        },
+        {
+          "word": "斬り合う",
+          "reading": "きりあう"
+        }
+      ]
+    },
+    {
+      "slug": "切りつける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切りつける",
+          "reading": "きりつける"
+        },
+        {
+          "word": "斬りつける",
+          "reading": "きりつける"
+        },
+        {
+          "word": "切り付ける",
+          "reading": "きりつける"
+        },
+        {
+          "word": "斬り付ける",
+          "reading": "きりつける"
+        },
+        {
+          "word": "切付ける",
+          "reading": "きりつける"
+        }
+      ]
+    },
+    {
+      "slug": "切り捨て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り捨て",
+          "reading": "きりすて"
+        },
+        {
+          "word": "切捨て",
+          "reading": "きりすて"
+        },
+        {
+          "word": "斬り捨て",
+          "reading": "きりすて"
+        },
+        {
+          "word": "斬捨て",
+          "reading": "きりすて"
+        }
+      ]
+    },
+    {
+      "slug": "切れ味",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切れ味",
+          "reading": "きれあじ"
+        },
+        {
+          "word": "斬れ味",
+          "reading": "きれあじ"
+        },
+        {
+          "word": "切味",
+          "reading": "きれあじ"
+        },
+        {
+          "word": "斬味",
+          "reading": "きれあじ"
+        }
+      ]
+    },
+    {
+      "slug": "切り込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り込み",
+          "reading": "きりこみ"
+        },
+        {
+          "word": "斬り込み",
+          "reading": "きりこみ"
+        },
+        {
+          "word": "切込み",
+          "reading": "きりこみ"
+        }
+      ]
+    },
+    {
+      "slug": "切り取り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り取り",
+          "reading": "きりとり"
+        },
+        {
+          "word": "切り取り",
+          "reading": "きりどり"
+        },
+        {
+          "word": "切取り",
+          "reading": "きりとり"
+        },
+        {
+          "word": "切取り",
+          "reading": "きりどり"
+        },
+        {
+          "word": "斬り取り",
+          "reading": "きりとり"
+        },
+        {
+          "word": "斬り取り",
+          "reading": "きりどり"
+        },
+        {
+          "word": "斬取り",
+          "reading": "きりとり"
+        },
+        {
+          "word": "斬取り",
+          "reading": "きりどり"
+        }
+      ]
+    },
+    {
+      "slug": "切り返す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り返す",
+          "reading": "きりかえす"
+        },
+        {
+          "word": "切返す",
+          "reading": "きりかえす"
+        },
+        {
+          "word": "斬り返す",
+          "reading": "きりかえす"
+        }
+      ]
+    },
+    {
+      "slug": "斬首刑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斬首刑",
+          "reading": "ざんしゅけい"
+        }
+      ]
+    },
+    {
+      "slug": "斬鉄剣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斬鉄剣",
+          "reading": "ざんてつけん"
+        }
+      ]
+    },
+    {
+      "slug": "斬り捨て御免",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り捨て御免",
+          "reading": "きりすてごめん"
+        },
+        {
+          "word": "斬り捨て御免",
+          "reading": "きりすてごめん"
+        },
+        {
+          "word": "切捨て御免",
+          "reading": "きりすてごめん"
+        },
+        {
+          "word": "斬捨て御免",
+          "reading": "きりすてごめん"
+        },
+        {
+          "word": "切捨御免",
+          "reading": "きりすてごめん"
+        }
+      ]
+    },
+    {
+      "slug": "切り死に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切り死に",
+          "reading": "きりじに"
+        },
+        {
+          "word": "斬り死に",
+          "reading": "きりじに"
+        }
+      ]
+    },
+    {
+      "slug": "切り捲る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "切りまくる",
+          "reading": "きりまくる"
+        },
+        {
+          "word": "斬りまくる",
+          "reading": "きりまくる"
+        },
+        {
+          "word": "切り捲る",
+          "reading": "きりまくる"
+        },
+        {
+          "word": "斬り捲る",
+          "reading": "きりまくる"
+        }
+      ]
+    }
   ]
 }

@@ -80,5 +80,94 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "１塁があいていたので打者を歩かせた。",
+      "furigana": "１[塁|るい]があいていたので[打者|だ|しゃ]を[歩|ある]かせた。",
+      "translation_zh_CN": "一垒空位，所以他保送击球手。"
+    },
+    {
+      "content": "トムは三塁打を打った。",
+      "furigana": "トムは[三塁打|さん|るい|だ]を[打|う]った。",
+      "translation_zh_CN": "湯姆擊出三壘安打。"
+    },
+    {
+      "content": "トムは３塁打を打った。",
+      "furigana": "トムは[３|さん][塁打|るい|だ]を[打|う]った。",
+      "translation_zh_CN": "湯姆擊出三壘安打。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "塁打",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塁打",
+          "reading": "るいだ"
+        }
+      ]
+    },
+    {
+      "slug": "塁審",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塁審",
+          "reading": "るいしん"
+        }
+      ]
+    },
+    {
+      "slug": "塁打数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塁打数",
+          "reading": "るいだすう"
+        }
+      ]
+    },
+    {
+      "slug": "塁球",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塁球",
+          "reading": "るいきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "塁壁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塁壁",
+          "reading": "るいへき"
+        }
+      ]
+    },
+    {
+      "slug": "塁上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塁上",
+          "reading": "るいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "塁に出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塁に出る",
+          "reading": "るいにでる"
+        }
+      ]
+    }
   ]
 }

@@ -45,7 +45,7 @@
         "séparer",
         "détacher",
         "diviser",
-        "s\u0027écarter"
+        "s'écarter"
       ]
     },
     {
@@ -119,6 +119,281 @@
       "radical": "隹",
       "startStroke": 11,
       "strokes": 8
+    }
+  ],
+  "sentences": [
+    {
+      "content": "離せっつってんだろ！",
+      "furigana": "[離|はな]せっつってんだろ！",
+      "translation_zh_CN": "你是在告诉我放手吧！"
+    },
+    {
+      "content": "彼女は夫と離婚した。",
+      "furigana": "[彼女|かの|じょ]は[夫|おっと]と[離婚|り|こん]した。",
+      "translation_zh_CN": "她與丈夫離婚。"
+    },
+    {
+      "content": "彼は親離れしている。",
+      "furigana": "[彼|かれ]は[親|おや][離|ばな]れしている。",
+      "translation_zh_CN": "他獨立於他的父母。"
+    },
+    {
+      "content": "親が離婚しています。",
+      "furigana": "[親|おや]が[離婚|り|こん]しています。",
+      "translation_zh_CN": "我父母离婚了。"
+    },
+    {
+      "content": "両親は離婚しました。",
+      "furigana": "[両親|りょう|しん]は[離婚|り|こん]しました。",
+      "translation_zh_CN": "我父母离婚了。"
+    },
+    {
+      "content": "飛行機は離陸間際だ。",
+      "furigana": "[飛行機|ひ|こう|き]は[離陸|り|りく][間際|ま|ぎわ]だ。",
+      "translation_zh_CN": "飞机快要起飞了。"
+    },
+    {
+      "content": "距離が判断できません。",
+      "furigana": "[距離|きょ|り]が[判断|はん|だん]できません。",
+      "translation_zh_CN": "我无法判断距离。"
+    },
+    {
+      "content": "今仕事から手が離せない。",
+      "furigana": "[今|こん][仕事|し|ごと]から[手|て]が[離|はな]せない。",
+      "translation_zh_CN": "我現在上班無法離開。"
+    },
+    {
+      "content": "駅までは距離があります。",
+      "furigana": "[駅|えき]までは[距離|きょ|り]があります。",
+      "translation_zh_CN": "到車站的路程很遠。"
+    },
+    {
+      "content": "離婚するんじゃないかしら。",
+      "furigana": "[離婚|り|こん]するんじゃないかしら。",
+      "translation_zh_CN": "我想她會和他離婚。"
+    },
+    {
+      "content": "彼は先月奥さんと離婚した。",
+      "furigana": "[彼|かれ]は[先月|せん|げつ][奥|おく]さんと[離婚|り|こん]した。",
+      "translation_zh_CN": "上個月他和妻子離婚了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "離婚",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "離婚",
+          "reading": "りこん"
+        }
+      ]
+    },
+    {
+      "slug": "離れる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "離れる",
+          "reading": "はなれる"
+        }
+      ]
+    },
+    {
+      "slug": "離す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "離す",
+          "reading": "はなす"
+        }
+      ]
+    },
+    {
+      "slug": "離陸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離陸",
+          "reading": "りりく"
+        }
+      ]
+    },
+    {
+      "slug": "離党",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離党",
+          "reading": "りとう"
+        }
+      ]
+    },
+    {
+      "slug": "離脱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離脱",
+          "reading": "りだつ"
+        }
+      ]
+    },
+    {
+      "slug": "離着陸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離着陸",
+          "reading": "りちゃくりく"
+        }
+      ]
+    },
+    {
+      "slug": "離れ離れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離れ離れ",
+          "reading": "はなればなれ"
+        },
+        {
+          "word": "離ればなれ",
+          "reading": "はなればなれ"
+        }
+      ]
+    },
+    {
+      "slug": "離別",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離別",
+          "reading": "りべつ"
+        }
+      ]
+    },
+    {
+      "slug": "離婚率",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離婚率",
+          "reading": "りこんりつ"
+        }
+      ]
+    },
+    {
+      "slug": "離れ業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離れ業",
+          "reading": "はなれわざ"
+        },
+        {
+          "word": "離れ技",
+          "reading": "はなれわざ"
+        },
+        {
+          "word": "はなれ技",
+          "reading": "はなれわざ"
+        },
+        {
+          "word": "はなれ業",
+          "reading": "はなれわざ"
+        }
+      ]
+    },
+    {
+      "slug": "離婚訴訟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離婚訴訟",
+          "reading": "りこんそしょう"
+        }
+      ]
+    },
+    {
+      "slug": "離宮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離宮",
+          "reading": "りきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "離職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離職",
+          "reading": "りしょく"
+        }
+      ]
+    },
+    {
+      "slug": "離島",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離島",
+          "reading": "りとう"
+        }
+      ]
+    },
+    {
+      "slug": "離散",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離散",
+          "reading": "りさん"
+        }
+      ]
+    },
+    {
+      "slug": "離反",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離反",
+          "reading": "りはん"
+        },
+        {
+          "word": "離叛",
+          "reading": "りはん"
+        }
+      ]
+    },
+    {
+      "slug": "離乳食",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離乳食",
+          "reading": "りにゅうしょく"
+        }
+      ]
+    },
+    {
+      "slug": "離乳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "離乳",
+          "reading": "りにゅう"
+        }
+      ]
     }
   ]
 }

@@ -61,5 +61,196 @@
       "startStroke": 13,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "助ける",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "助ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "援ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "救ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "扶ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "佐ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "佑ける",
+          "reading": "たすける"
+        },
+        {
+          "word": "輔ける",
+          "reading": "たすける"
+        }
+      ]
+    },
+    {
+      "slug": "補助",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "補助",
+          "reading": "ほじょ"
+        },
+        {
+          "word": "輔助",
+          "reading": "ほじょ"
+        }
+      ]
+    },
+    {
+      "slug": "補佐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補佐",
+          "reading": "ほさ"
+        },
+        {
+          "word": "輔佐",
+          "reading": "ほさ"
+        }
+      ]
+    },
+    {
+      "slug": "助く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "助く",
+          "reading": "たすく"
+        },
+        {
+          "word": "輔く",
+          "reading": "たすく"
+        },
+        {
+          "word": "扶く",
+          "reading": "たすく"
+        }
+      ]
+    },
+    {
+      "slug": "補導",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補導",
+          "reading": "ほどう"
+        },
+        {
+          "word": "輔導",
+          "reading": "ほどう"
+        }
+      ]
+    },
+    {
+      "slug": "輔弼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輔弼",
+          "reading": "ほひつ"
+        },
+        {
+          "word": "補弼",
+          "reading": "ほひつ"
+        }
+      ]
+    },
+    {
+      "slug": "輔星",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輔星",
+          "reading": "ほせい"
+        }
+      ]
+    },
+    {
+      "slug": "補佐人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補佐人",
+          "reading": "ほさにん"
+        },
+        {
+          "word": "輔佐人",
+          "reading": "ほさにん"
+        }
+      ]
+    },
+    {
+      "slug": "輔翼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輔翼",
+          "reading": "ほよく"
+        },
+        {
+          "word": "補翼",
+          "reading": "ほよく"
+        }
+      ]
+    },
+    {
+      "slug": "輔車唇歯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輔車唇歯",
+          "reading": "ほしゃしんし"
+        }
+      ]
+    },
+    {
+      "slug": "補す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "補す",
+          "reading": "ふす"
+        },
+        {
+          "word": "輔す",
+          "reading": "ふす"
+        }
+      ]
+    },
+    {
+      "slug": "輔車相依る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輔車相依る",
+          "reading": "ほしゃあいよる"
+        },
+        {
+          "word": "輔車相倚る",
+          "reading": "ほしゃあいよる"
+        }
+      ]
+    }
   ]
 }

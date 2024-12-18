@@ -88,5 +88,70 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "賠償",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賠償",
+          "reading": "ばいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "賠償金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賠償金",
+          "reading": "ばいしょうきん"
+        }
+      ]
+    },
+    {
+      "slug": "賠償責任保険",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賠償責任保険",
+          "reading": "ばいしょうせきにんほけん"
+        }
+      ]
+    },
+    {
+      "slug": "賠償命令",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賠償命令",
+          "reading": "ばいしょうめいれい"
+        }
+      ]
+    },
+    {
+      "slug": "賠償責任",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賠償責任",
+          "reading": "ばいしょうせきにん"
+        }
+      ]
+    },
+    {
+      "slug": "賠責",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賠責",
+          "reading": "ばいせき"
+        }
+      ]
+    }
   ]
 }

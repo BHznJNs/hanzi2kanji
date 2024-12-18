@@ -111,5 +111,339 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "敵が近づかない。",
+      "furigana": "[敵|てき]が[近|ちか]づかない。",
+      "translation_zh_CN": "敌人无法靠近。"
+    },
+    {
+      "content": "敵を近づけない。",
+      "furigana": "[敵|てき]を[近|ちか]づけない。",
+      "translation_zh_CN": "让敌人远离。"
+    },
+    {
+      "content": "敵に近づかない。",
+      "furigana": "[敵|てき]に[近|ちか]づかない。",
+      "translation_zh_CN": "远离敌人。"
+    },
+    {
+      "content": "敵が近づけない。",
+      "furigana": "[敵|てき]が[近|ちか]づけない。",
+      "translation_zh_CN": "敌人无法靠近。"
+    },
+    {
+      "content": "敵に近づけない。",
+      "furigana": "[敵|てき]に[近|ちか]づけない。",
+      "translation_zh_CN": "不要靠近敌人。"
+    },
+    {
+      "content": "敵を近づけさせない。",
+      "furigana": "[敵|てき]を[近|ちか]づけさせない。",
+      "translation_zh_CN": "不要让敌人靠近。"
+    },
+    {
+      "content": "敵に対して寛大だ。",
+      "furigana": "[敵|てき]に[対|たい]して[寛大|かん|だい]だ。",
+      "translation_zh_CN": "对你的敌人要慷慨。"
+    },
+    {
+      "content": "彼女には敵はいない。",
+      "furigana": "[彼女|かの|じょ]には[敵|てき]はいない。",
+      "translation_zh_CN": "她没有敌人。"
+    },
+    {
+      "content": "彼らは敵に打ち勝った。",
+      "furigana": "[彼|かれ]らは[敵|てき]に[打|う]ち[勝|か]った。",
+      "translation_zh_CN": "他们击败了敌人。"
+    },
+    {
+      "content": "彼らは敵と戦った。",
+      "furigana": "[彼|かれ]らは[敵|てき]と[戦|たたか]った。",
+      "translation_zh_CN": "他们与敌人作战。"
+    },
+    {
+      "content": "敵が近づかない。",
+      "furigana": "[敵|てき]が[近|ちか]づかない。",
+      "translation_zh_CN": "敌人不靠近。"
+    },
+    {
+      "content": "敵を近づけない。",
+      "furigana": "[敵|てき]を[近|ちか]づけない。",
+      "translation_zh_CN": "不让敌人靠近。"
+    },
+    {
+      "content": "敵が近づけない。",
+      "furigana": "[敵|てき]が[近|ちか]づけない。",
+      "translation_zh_CN": "敌人无法靠近。"
+    },
+    {
+      "content": "敵に近づかない。",
+      "furigana": "[敵|てき]に[近|ちか]づかない。",
+      "translation_zh_CN": "不靠近敌人"
+    },
+    {
+      "content": "敵に近づけない。",
+      "furigana": "[敵|てき]に[近|ちか]づけない。",
+      "translation_zh_CN": "无法靠近敌人"
+    },
+    {
+      "content": "敵は町に近づく。",
+      "furigana": "[敵|てき]は[町|まち]に[近|ちか]づく。",
+      "translation_zh_CN": "敌人靠近城镇。"
+    },
+    {
+      "content": "素敵なコートね。",
+      "furigana": "[素敵|す|てき]なコートね。",
+      "translation_zh_CN": "那是一件不錯的大衣。"
+    },
+    {
+      "content": "素敵な部屋ですね。",
+      "furigana": "[素敵|す|てき]な[部屋|へ|や]ですね。",
+      "translation_zh_CN": "这个房间超赞的，对不对？"
+    },
+    {
+      "content": "おまえは俺の敵だ。",
+      "furigana": "おまえは[俺|おれ]の[敵|てき]だ。",
+      "translation_zh_CN": "您是我的敵人。"
+    },
+    {
+      "content": "敵の敵は味方です。",
+      "furigana": "[敵|てき]の[敵|てき]は[味方|み|かた]です。",
+      "translation_zh_CN": "敌人的敌人是朋友。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "叶う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "叶う",
+          "reading": "かなう"
+        },
+        {
+          "word": "適う",
+          "reading": "かなう"
+        },
+        {
+          "word": "敵う",
+          "reading": "かなう"
+        }
+      ]
+    },
+    {
+      "slug": "敵意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵意",
+          "reading": "てきい"
+        }
+      ]
+    },
+    {
+      "slug": "敵対",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵対",
+          "reading": "てきたい"
+        }
+      ]
+    },
+    {
+      "slug": "敵わない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵わない",
+          "reading": "かなわない"
+        },
+        {
+          "word": "適わない",
+          "reading": "かなわない"
+        }
+      ]
+    },
+    {
+      "slug": "敵陣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵陣",
+          "reading": "てきじん"
+        }
+      ]
+    },
+    {
+      "slug": "敵地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵地",
+          "reading": "てきち"
+        }
+      ]
+    },
+    {
+      "slug": "敵機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵機",
+          "reading": "てっき"
+        },
+        {
+          "word": "敵機",
+          "reading": "てきき"
+        }
+      ]
+    },
+    {
+      "slug": "敵軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵軍",
+          "reading": "てきぐん"
+        }
+      ]
+    },
+    {
+      "slug": "仇同士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仇同士",
+          "reading": "かたきどうし"
+        },
+        {
+          "word": "仇同士",
+          "reading": "てきどうし"
+        },
+        {
+          "word": "敵同士",
+          "reading": "かたきどうし"
+        },
+        {
+          "word": "敵同士",
+          "reading": "てきどうし"
+        }
+      ]
+    },
+    {
+      "slug": "敵対者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵対者",
+          "reading": "てきたいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "敵対的買収",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵対的買収",
+          "reading": "てきたいてきばいしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "敵影",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵影",
+          "reading": "てきえい"
+        }
+      ]
+    },
+    {
+      "slug": "敵側",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵側",
+          "reading": "てきがわ"
+        }
+      ]
+    },
+    {
+      "slug": "敵役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵役",
+          "reading": "かたきやく"
+        },
+        {
+          "word": "敵役",
+          "reading": "てきやく"
+        }
+      ]
+    },
+    {
+      "slug": "敵失",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵失",
+          "reading": "てきしつ"
+        }
+      ]
+    },
+    {
+      "slug": "敵国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵国",
+          "reading": "てきこく"
+        },
+        {
+          "word": "敵国",
+          "reading": "てっこく"
+        }
+      ]
+    },
+    {
+      "slug": "敵討ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵討ち",
+          "reading": "かたきうち"
+        },
+        {
+          "word": "敵討",
+          "reading": "かたきうち"
+        },
+        {
+          "word": "仇討ち",
+          "reading": "かたきうち"
+        },
+        {
+          "word": "かたき討ち",
+          "reading": "かたきうち"
+        }
+      ]
+    },
+    {
+      "slug": "敵視",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敵視",
+          "reading": "てきし"
+        }
+      ]
+    }
   ]
 }

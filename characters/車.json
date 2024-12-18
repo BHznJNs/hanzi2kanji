@@ -51,5 +51,311 @@
       "startStroke": 0,
       "strokes": 7
     }
+  ],
+  "sentences": [
+    {
+      "content": "車はいります？",
+      "furigana": "[車|くるま]はいります？",
+      "translation_zh_CN": "您需要汽车吗？"
+    },
+    {
+      "content": "車に乗ります。",
+      "furigana": "[車|くるま]に[乗|の]ります。",
+      "translation_zh_CN": "上车吧。"
+    },
+    {
+      "content": "車が盗まれた。",
+      "furigana": "[車|くるま]が[盗|ぬす]まれた。",
+      "translation_zh_CN": "我的车被偷了。"
+    },
+    {
+      "content": "車が青い。",
+      "furigana": "[車|くるま]が[青|あお]い。",
+      "translation_zh_CN": "车是蓝色的。"
+    },
+    {
+      "content": "車が走ります。",
+      "furigana": "[車|くるま]が[走|はし]ります。",
+      "translation_zh_CN": "车子跑了。"
+    },
+    {
+      "content": "あの車です。",
+      "furigana": "あの[車|くるま]です。",
+      "translation_zh_CN": "就是那辆车。"
+    },
+    {
+      "content": "車は走り出した。",
+      "furigana": "[車|くるま]は[走|はし]り[出|だ]した。",
+      "translation_zh_CN": "汽车开始行驶。"
+    },
+    {
+      "content": "車を盗まれました。",
+      "furigana": "[車|くるま]を[盗|ぬす]まれました。",
+      "translation_zh_CN": "我的车被偷了。"
+    },
+    {
+      "content": "車で寝ています。",
+      "furigana": "[車|くるま]で[寝|ね]ています。",
+      "translation_zh_CN": "我在车里睡觉。"
+    },
+    {
+      "content": "青い車を持っている。",
+      "furigana": "[青|あお]い[車|くるま]を[持|も]っている。",
+      "translation_zh_CN": "我有一辆蓝色的车。"
+    },
+    {
+      "content": "列車は加速した。",
+      "furigana": "[列車|れっ|しゃ]は[加速|か|そく]した。",
+      "translation_zh_CN": "火車加速了。"
+    },
+    {
+      "content": "車が壊れていた。",
+      "furigana": "[車|くるま]が[壊|こわ]れていた。",
+      "translation_zh_CN": "汽车发生故障了。"
+    },
+    {
+      "content": "さあ列車がきた。",
+      "furigana": "さあ[列車|れっ|しゃ]がきた。",
+      "translation_zh_CN": "火車來了。"
+    },
+    {
+      "content": "これは君の自転車？",
+      "furigana": "これは[君|きみ]の[自転車|じ|てん|しゃ]？",
+      "translation_zh_CN": "这是你的自行车吗？"
+    },
+    {
+      "content": "あ、汽車が来た。",
+      "furigana": "あ、[汽車|き|しゃ]が[来|き]た。",
+      "translation_zh_CN": "火車來了。"
+    },
+    {
+      "content": "彼は車を買った。",
+      "furigana": "[彼|かれ]は[車|くるま]を[買|か]った。",
+      "translation_zh_CN": "他買了輛車。"
+    },
+    {
+      "content": "車をお持ちですか？",
+      "furigana": "[車|くるま]をお[持|も]ちですか？",
+      "translation_zh_CN": "你有车吗？"
+    },
+    {
+      "content": "車は運転できるの？",
+      "furigana": "[車|くるま]は[運転|うん|てん]できるの？",
+      "translation_zh_CN": "你會駕車嗎？"
+    },
+    {
+      "content": "車があればなあ。",
+      "furigana": "[車|くるま]があればなあ。",
+      "translation_zh_CN": "但願我有一輛車。"
+    },
+    {
+      "content": "この自転車、誰の？",
+      "furigana": "この[自転車|じ|てん|しゃ]、[誰|だれ]の？",
+      "translation_zh_CN": "这辆自行车是谁的？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "車庫",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "車庫",
+          "reading": "しゃこ"
+        }
+      ]
+    },
+    {
+      "slug": "車輪",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "車輪",
+          "reading": "しゃりん"
+        }
+      ]
+    },
+    {
+      "slug": "車掌",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "車掌",
+          "reading": "しゃしょう"
+        }
+      ]
+    },
+    {
+      "slug": "車線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車線",
+          "reading": "しゃせん"
+        }
+      ]
+    },
+    {
+      "slug": "車椅子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車椅子",
+          "reading": "くるまいす"
+        },
+        {
+          "word": "車いす",
+          "reading": "くるまいす"
+        }
+      ]
+    },
+    {
+      "slug": "車両",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車両",
+          "reading": "しゃりょう"
+        },
+        {
+          "word": "車輌",
+          "reading": "しゃりょう"
+        },
+        {
+          "word": "車輛",
+          "reading": "しゃりょう"
+        }
+      ]
+    },
+    {
+      "slug": "車中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車中",
+          "reading": "しゃちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "車内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車内",
+          "reading": "しゃない"
+        }
+      ]
+    },
+    {
+      "slug": "車種",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車種",
+          "reading": "しゃしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "車検",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車検",
+          "reading": "しゃけん"
+        }
+      ]
+    },
+    {
+      "slug": "車道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車道",
+          "reading": "しゃどう"
+        }
+      ]
+    },
+    {
+      "slug": "車軸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車軸",
+          "reading": "しゃじく"
+        }
+      ]
+    },
+    {
+      "slug": "車酔い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車酔い",
+          "reading": "くるまよい"
+        }
+      ]
+    },
+    {
+      "slug": "車止め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車止め",
+          "reading": "くるまどめ"
+        },
+        {
+          "word": "車止",
+          "reading": "くるまどめ"
+        }
+      ]
+    },
+    {
+      "slug": "車体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車体",
+          "reading": "しゃたい"
+        }
+      ]
+    },
+    {
+      "slug": "車座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車座",
+          "reading": "くるまざ"
+        }
+      ]
+    },
+    {
+      "slug": "車台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車台",
+          "reading": "しゃだい"
+        }
+      ]
+    },
+    {
+      "slug": "車窓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "車窓",
+          "reading": "しゃそう"
+        }
+      ]
+    }
   ]
 }

@@ -90,5 +90,341 @@
       "startStroke": 4,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "３対１で負けた。",
+      "furigana": "３[対|たい]１で[負|ま]けた。",
+      "translation_zh_CN": "我们1-3输了。"
+    },
+    {
+      "content": "スコアは１対１だ。",
+      "furigana": "スコアは１[対|たい]１だ。",
+      "translation_zh_CN": "比分是1：1。"
+    },
+    {
+      "content": "6対2で勝ったよ。",
+      "furigana": "[6対2|ろく|たい|に]で[勝|か]ったよ。",
+      "translation_zh_CN": "我们以6-2获胜。"
+    },
+    {
+      "content": "試合は2対2の引き分けだった。",
+      "furigana": "[試合|し|あい]は2[対|たい]2の[引|ひ]き[分|わ]けだった。",
+      "translation_zh_CN": "这场比赛双方2-2战平。"
+    },
+    {
+      "content": "スワローズが４対１で勝っている。",
+      "furigana": "スワローズが[４対１|よん|たい|いち]で[勝|か]っている。",
+      "translation_zh_CN": "燕子队以4-1获胜。"
+    },
+    {
+      "content": "我々は3対0で負けた。",
+      "furigana": "[我々|われわれ]は3[対|たい]0で[負|ま]けた。",
+      "translation_zh_CN": "我们0-3输了。"
+    },
+    {
+      "content": "スワローズが２対１で負けている。",
+      "furigana": "スワローズが２[対|たい]１で[負|ま]けている。",
+      "translation_zh_CN": "燕子队以2-1落败。"
+    },
+    {
+      "content": "その合併は１対１で行われた。",
+      "furigana": "その[合併|がっ|ぺい]は１[対|たい]１で[行|おこな]われた。",
+      "translation_zh_CN": "合并比例为1：1。"
+    },
+    {
+      "content": "私たちは３対２で負けた。",
+      "furigana": "[私|わたし]たちは[３対２|さん|たい|に]で[負|ま]けた。",
+      "translation_zh_CN": "我们以 3-2 落败。"
+    },
+    {
+      "content": "試合は6対6で引き分けに終わった。",
+      "furigana": "[試合|し|あい]は[6対6|ろく|たい|ろく]で[引|ひ]き[分|わ]けに[終|お]わった。",
+      "translation_zh_CN": "比赛最终以6-6战平。"
+    },
+    {
+      "content": "喫煙は絶対禁止。",
+      "furigana": "[喫煙|きつ|えん]は[絶対|ぜっ|たい][禁止|きん|し]。",
+      "translation_zh_CN": "严禁吸烟。"
+    },
+    {
+      "content": "絶対楽しいでしょ！",
+      "furigana": "[絶対|ぜっ|たい][楽|たの]しいでしょ！",
+      "translation_zh_CN": "我确定它将会很有趣"
+    },
+    {
+      "content": "私達は戦争に反対だ。",
+      "furigana": "[私|わたし][達|たち]は[戦争|せん|そう]に[反対|はん|たい]だ。",
+      "translation_zh_CN": "我们反对战争。"
+    },
+    {
+      "content": "対戦相手を甘く見るな。",
+      "furigana": "[対戦|たい|せん][相手|あい|て]を[甘|あま]く[見|み]るな。",
+      "translation_zh_CN": "不要轻视了对手。"
+    },
+    {
+      "content": "我々は3対0で負けた。",
+      "furigana": "[我々|われわれ]は[3|][対|たい][0|]で[負|ま]けた。",
+      "translation_zh_CN": "我们0比3输了。"
+    },
+    {
+      "content": "絶対投げ出したらダメ。",
+      "furigana": "[絶対|ぜっ|たい][投|な]げ[出|だ]したらダメ。",
+      "translation_zh_CN": "决不放弃。"
+    },
+    {
+      "content": "彼は反対側に近づいた。",
+      "furigana": "[彼|かれ]は[反対|はん|たい][側|がわ]に[近|ちか]づいた。",
+      "translation_zh_CN": "他到另一边去了。"
+    },
+    {
+      "content": "絶対牛乳買ってきてよ。",
+      "furigana": "[絶対|ぜっ|たい][牛乳|ぎゅう|にゅう][買|か]ってきてよ。",
+      "translation_zh_CN": "務必要買一些牛奶。"
+    },
+    {
+      "content": "絶対にあきらめないで。",
+      "furigana": "[絶対|ぜっ|たい]にあきらめないで。",
+      "translation_zh_CN": "永远不要说永远。"
+    },
+    {
+      "content": "君は戦争に賛成か反対か。",
+      "furigana": "[君|きみ]は[戦争|せん|そう]に[賛成|さん|せい]か[反対|はん|たい]か。",
+      "translation_zh_CN": "你支持还是反对战争?"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "対象",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "対象",
+          "reading": "たいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "向かう",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "向かう",
+          "reading": "むかう"
+        },
+        {
+          "word": "向う",
+          "reading": "むかう"
+        },
+        {
+          "word": "対う",
+          "reading": "むかう"
+        }
+      ]
+    },
+    {
+      "slug": "向い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "向い",
+          "reading": "むかい"
+        },
+        {
+          "word": "向かい",
+          "reading": "むかい"
+        },
+        {
+          "word": "対い",
+          "reading": "むかい"
+        }
+      ]
+    },
+    {
+      "slug": "対策",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "対策",
+          "reading": "たいさく"
+        }
+      ]
+    },
+    {
+      "slug": "対立",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対立",
+          "reading": "たいりつ"
+        }
+      ]
+    },
+    {
+      "slug": "対照",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "対照",
+          "reading": "たいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "対処",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対処",
+          "reading": "たいしょ"
+        }
+      ]
+    },
+    {
+      "slug": "対応",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対応",
+          "reading": "たいおう"
+        }
+      ]
+    },
+    {
+      "slug": "対等",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対等",
+          "reading": "たいとう"
+        }
+      ]
+    },
+    {
+      "slug": "対抗",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対抗",
+          "reading": "たいこう"
+        }
+      ]
+    },
+    {
+      "slug": "退治",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "退治",
+          "reading": "たいじ"
+        },
+        {
+          "word": "対治",
+          "reading": "たいじ"
+        }
+      ]
+    },
+    {
+      "slug": "対決",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対決",
+          "reading": "たいけつ"
+        }
+      ]
+    },
+    {
+      "slug": "対話",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対話",
+          "reading": "たいわ"
+        }
+      ]
+    },
+    {
+      "slug": "対談",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対談",
+          "reading": "たいだん"
+        }
+      ]
+    },
+    {
+      "slug": "対比",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "対比",
+          "reading": "たいひ"
+        }
+      ]
+    },
+    {
+      "slug": "対照的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "対照的",
+          "reading": "たいしょうてき"
+        }
+      ]
+    },
+    {
+      "slug": "対戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "対戦",
+          "reading": "たいせん"
+        }
+      ]
+    },
+    {
+      "slug": "対外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "対外",
+          "reading": "たいがい"
+        }
+      ]
+    }
   ]
 }

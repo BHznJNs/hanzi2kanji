@@ -74,5 +74,290 @@
       "startStroke": 14,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "連想",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "連想",
+          "reading": "れんそう"
+        },
+        {
+          "word": "聯想",
+          "reading": "れんそう"
+        }
+      ]
+    },
+    {
+      "slug": "連絡",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "連絡",
+          "reading": "れんらく"
+        },
+        {
+          "word": "聯絡",
+          "reading": "れんらく"
+        }
+      ]
+    },
+    {
+      "slug": "連邦",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連邦",
+          "reading": "れんぽう"
+        },
+        {
+          "word": "聯邦",
+          "reading": "れんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "連合",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "連合",
+          "reading": "れんごう"
+        },
+        {
+          "word": "聯合",
+          "reading": "れんごう"
+        }
+      ]
+    },
+    {
+      "slug": "連盟",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連盟",
+          "reading": "れんめい"
+        },
+        {
+          "word": "聯盟",
+          "reading": "れんめい"
+        }
+      ]
+    },
+    {
+      "slug": "連隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連隊",
+          "reading": "れんたい"
+        },
+        {
+          "word": "聯隊",
+          "reading": "れんたい"
+        }
+      ]
+    },
+    {
+      "slug": "連動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連動",
+          "reading": "れんどう"
+        },
+        {
+          "word": "聯動",
+          "reading": "れんどう"
+        }
+      ]
+    },
+    {
+      "slug": "連立",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連立",
+          "reading": "れんりつ"
+        },
+        {
+          "word": "聯立",
+          "reading": "れんりつ"
+        }
+      ]
+    },
+    {
+      "slug": "連関",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連関",
+          "reading": "れんかん"
+        },
+        {
+          "word": "聯関",
+          "reading": "れんかん"
+        }
+      ]
+    },
+    {
+      "slug": "連係",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連係",
+          "reading": "れんけい"
+        },
+        {
+          "word": "連繋",
+          "reading": "れんけい"
+        },
+        {
+          "word": "聯繋",
+          "reading": "れんけい"
+        }
+      ]
+    },
+    {
+      "slug": "連句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連句",
+          "reading": "れんく"
+        },
+        {
+          "word": "聯句",
+          "reading": "れんく"
+        }
+      ]
+    },
+    {
+      "slug": "連弾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連弾",
+          "reading": "れんだん"
+        },
+        {
+          "word": "聯弾",
+          "reading": "れんだん"
+        }
+      ]
+    },
+    {
+      "slug": "連合国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連合国",
+          "reading": "れんごうこく"
+        },
+        {
+          "word": "聯合国",
+          "reading": "れんごうこく"
+        }
+      ]
+    },
+    {
+      "slug": "連珠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連珠",
+          "reading": "れんじゅ"
+        },
+        {
+          "word": "聯珠",
+          "reading": "れんじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "聯合通信",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聯合通信",
+          "reading": "れんごうつうしん"
+        }
+      ]
+    },
+    {
+      "slug": "連亘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連亘",
+          "reading": "れんこう"
+        },
+        {
+          "word": "聯亙",
+          "reading": "れんこう"
+        }
+      ]
+    },
+    {
+      "slug": "連合王国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連合王国",
+          "reading": "れんごうおうこく"
+        }
+      ]
+    },
+    {
+      "slug": "連綿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連綿",
+          "reading": "れんめん"
+        },
+        {
+          "word": "聯綿",
+          "reading": "れんめん"
+        }
+      ]
+    },
+    {
+      "slug": "連袂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連袂",
+          "reading": "れんべい"
+        },
+        {
+          "word": "聯袂",
+          "reading": "れんべい"
+        }
+      ]
+    },
+    {
+      "slug": "聯合ニュース",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "聯合ニュース",
+          "reading": "レンゴウニュース"
+        }
+      ]
+    }
   ]
 }

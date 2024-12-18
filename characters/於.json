@@ -76,5 +76,94 @@
       "startStroke": 7,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "於て",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "於いて",
+          "reading": "おいて"
+        },
+        {
+          "word": "於て",
+          "reading": "おいて"
+        }
+      ]
+    },
+    {
+      "slug": "嗚呼",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "reading": "ああ"
+        },
+        {
+          "reading": "あー"
+        }
+      ]
+    },
+    {
+      "slug": "お転婆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お転婆",
+          "reading": "おてんば"
+        },
+        {
+          "word": "御転婆",
+          "reading": "おてんば"
+        },
+        {
+          "word": "於転婆",
+          "reading": "おてんば"
+        }
+      ]
+    },
+    {
+      "slug": "お多福",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "お多福",
+          "reading": "おたふく"
+        },
+        {
+          "word": "阿多福",
+          "reading": "おたふく"
+        },
+        {
+          "word": "於多福",
+          "reading": "おたふく"
+        }
+      ]
+    },
+    {
+      "slug": "於かれましては",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "於かれましては",
+          "reading": "おかれましては"
+        }
+      ]
+    },
+    {
+      "slug": "於ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "於ける",
+          "reading": "おける"
+        }
+      ]
+    }
   ]
 }

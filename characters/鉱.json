@@ -78,5 +78,257 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "鉱員を２年してたよ。",
+      "furigana": "[鉱員|こう|いん]を[２年|に|ねん]してたよ。",
+      "translation_zh_CN": "我当了两年矿工。"
+    },
+    {
+      "content": "炭鉱の内部に多くの労働者が閉じ込められた。",
+      "furigana": "[炭鉱|たん|こう]の[内部|ない|ぶ]に[多|おお]くの[労働|ろう|どう][者|しゃ]が[閉|と]じ[込|こ]められた。",
+      "translation_zh_CN": "許多勞動者受困在煤礦場中。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "粗金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "粗金",
+          "reading": "あらがね"
+        },
+        {
+          "word": "粗金",
+          "reading": "あらかね"
+        },
+        {
+          "word": "鉱",
+          "reading": "あらがね"
+        },
+        {
+          "word": "鉱",
+          "reading": "あらかね"
+        },
+        {
+          "word": "鑛",
+          "reading": "あらがね"
+        },
+        {
+          "word": "鑛",
+          "reading": "あらかね"
+        }
+      ]
+    },
+    {
+      "slug": "鉱物",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "鉱物",
+          "reading": "こうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "鉱山",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鉱山",
+          "reading": "こうざん"
+        }
+      ]
+    },
+    {
+      "slug": "鉱石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱石",
+          "reading": "こうせき"
+        },
+        {
+          "word": "礦石",
+          "reading": "こうせき"
+        }
+      ]
+    },
+    {
+      "slug": "鉱業",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鉱業",
+          "reading": "こうぎょう"
+        },
+        {
+          "word": "礦業",
+          "reading": "こうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "鉱物資源",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱物資源",
+          "reading": "こうぶつしげん"
+        }
+      ]
+    },
+    {
+      "slug": "鉱産物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱産物",
+          "reading": "こうさんぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "鉱床",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱床",
+          "reading": "こうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "鉱区",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱区",
+          "reading": "こうく"
+        }
+      ]
+    },
+    {
+      "slug": "鉱脈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱脈",
+          "reading": "こうみゃく"
+        }
+      ]
+    },
+    {
+      "slug": "鉱毒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱毒",
+          "reading": "こうどく"
+        }
+      ]
+    },
+    {
+      "slug": "鉱石検波器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱石検波器",
+          "reading": "こうせきけんぱき"
+        }
+      ]
+    },
+    {
+      "slug": "鉱物学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱物学",
+          "reading": "こうぶつがく"
+        }
+      ]
+    },
+    {
+      "slug": "鉱床学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱床学",
+          "reading": "こうしょうがく"
+        }
+      ]
+    },
+    {
+      "slug": "鉱業協会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱業協会",
+          "reading": "こうぎょうきょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "坑夫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "坑夫",
+          "reading": "こうふ"
+        },
+        {
+          "word": "鉱夫",
+          "reading": "こうふ"
+        }
+      ]
+    },
+    {
+      "slug": "鉱体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱体",
+          "reading": "こうたい"
+        }
+      ]
+    },
+    {
+      "slug": "鉱工業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱工業",
+          "reading": "こうこうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "鉱害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱害",
+          "reading": "こうがい"
+        }
+      ]
+    },
+    {
+      "slug": "鉱工業生産指数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉱工業生産指数",
+          "reading": "こうこうぎょうせいさんしすう"
+        }
+      ]
+    }
   ]
 }

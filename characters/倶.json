@@ -52,5 +52,152 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "共に",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "共に",
+          "reading": "ともに"
+        },
+        {
+          "word": "倶に",
+          "reading": "ともに"
+        },
+        {
+          "word": "供に",
+          "reading": "ともに"
+        }
+      ]
+    },
+    {
+      "slug": "倶楽部",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "倶楽部",
+          "reading": "クラブ"
+        }
+      ]
+    },
+    {
+      "slug": "倶舎宗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倶舎宗",
+          "reading": "くしゃしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "倶利迦羅竜王",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倶利迦羅竜王",
+          "reading": "くりからりゅうおう"
+        },
+        {
+          "word": "俱利迦羅竜王",
+          "reading": "くりからりゅうおう"
+        }
+      ]
+    },
+    {
+      "slug": "倶伎羅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倶伎羅",
+          "reading": "くきら"
+        },
+        {
+          "word": "拘枳羅",
+          "reading": "くきら"
+        },
+        {
+          "word": "拘耆羅",
+          "reading": "くきら"
+        }
+      ]
+    },
+    {
+      "slug": "倶梨伽羅紋紋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倶利迦羅紋紋",
+          "reading": "くりからもんもん"
+        },
+        {
+          "word": "倶梨伽羅紋紋",
+          "reading": "くりからもんもん"
+        },
+        {
+          "word": "倶利伽羅紋紋",
+          "reading": "くりからもんもん"
+        },
+        {
+          "word": "倶梨迦羅紋紋",
+          "reading": "くりからもんもん"
+        }
+      ]
+    },
+    {
+      "slug": "倶者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倶者",
+          "reading": "くしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "倶発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倶発",
+          "reading": "ぐはつ"
+        }
+      ]
+    },
+    {
+      "slug": "具する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "具する",
+          "reading": "ぐする"
+        },
+        {
+          "word": "倶する",
+          "reading": "ぐする"
+        }
+      ]
+    },
+    {
+      "slug": "具す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "具す",
+          "reading": "ぐす"
+        },
+        {
+          "word": "倶す",
+          "reading": "ぐす"
+        }
+      ]
+    }
   ]
 }

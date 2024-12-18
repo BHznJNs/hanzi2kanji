@@ -115,5 +115,306 @@
       "startStroke": 7,
       "strokes": 8
     }
+  ],
+  "sentences": [
+    {
+      "content": "それは確かかい。",
+      "furigana": "それは[確|たし]かかい。",
+      "translation_zh_CN": "你确定吗？"
+    },
+    {
+      "content": "ご確認ください。",
+      "furigana": "ご[確認|かく|にん]ください。",
+      "translation_zh_CN": "请确认。"
+    },
+    {
+      "content": "この方法は確実だ。",
+      "furigana": "この[方法|ほう|ほう]は[確実|かく|じつ]だ。",
+      "translation_zh_CN": "這個方法一定會成功。"
+    },
+    {
+      "content": "それは、確かですか？",
+      "furigana": "それは、[確|たし]かですか？",
+      "translation_zh_CN": "你肯定吗？"
+    },
+    {
+      "content": "正確には知りません。",
+      "furigana": "[正確|せい|かく]には[知|し]りません。",
+      "translation_zh_CN": "我可不太知道。"
+    },
+    {
+      "content": "トムは時間を確認した。",
+      "furigana": "トムは[時間|じ|かん]を[確認|かく|にん]した。",
+      "translation_zh_CN": "汤姆确认了时间。"
+    },
+    {
+      "content": "辞書で確認してごらん。",
+      "furigana": "[辞書|じ|しょ]で[確認|かく|にん]してごらん。",
+      "translation_zh_CN": "查詞典。"
+    },
+    {
+      "content": "彼の成功を確信している。",
+      "furigana": "[彼|かれ]の[成功|せい|こう]を[確信|かく|しん]している。",
+      "translation_zh_CN": "我肯定他会成功的。"
+    },
+    {
+      "content": "算数では正確さが重要だ。",
+      "furigana": "[算数|さん|すう]では[正確|せい|かく]さが[重要|じゅう|よう]だ。",
+      "translation_zh_CN": "准确性在计算中很重要。"
+    },
+    {
+      "content": "確かに彼は利口な少年だ。",
+      "furigana": "[確|たし]かに[彼|かれ]は[利口|り|こう]な[少年|しょう|ねん]だ。",
+      "translation_zh_CN": "他确实是个聪明的小孩。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "確か",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "確か",
+          "reading": "たしか"
+        },
+        {
+          "word": "確",
+          "reading": "たしか"
+        },
+        {
+          "word": "慥か",
+          "reading": "たしか"
+        }
+      ]
+    },
+    {
+      "slug": "確率",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "確率",
+          "reading": "かくりつ"
+        }
+      ]
+    },
+    {
+      "slug": "確り",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "確り",
+          "reading": "しっかり"
+        },
+        {
+          "word": "聢り",
+          "reading": "しっかり"
+        }
+      ]
+    },
+    {
+      "slug": "確かめる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "確かめる",
+          "reading": "たしかめる"
+        },
+        {
+          "word": "慥かめる",
+          "reading": "たしかめる"
+        }
+      ]
+    },
+    {
+      "slug": "確認",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "確認",
+          "reading": "かくにん"
+        }
+      ]
+    },
+    {
+      "slug": "確実",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "確実",
+          "reading": "かくじつ"
+        }
+      ]
+    },
+    {
+      "slug": "確信",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "確信",
+          "reading": "かくしん"
+        }
+      ]
+    },
+    {
+      "slug": "確保",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "確保",
+          "reading": "かくほ"
+        }
+      ]
+    },
+    {
+      "slug": "確立",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "確立",
+          "reading": "かくりつ"
+        }
+      ]
+    },
+    {
+      "slug": "確定",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "確定",
+          "reading": "かくてい"
+        }
+      ]
+    },
+    {
+      "slug": "確固",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確固",
+          "reading": "かっこ"
+        },
+        {
+          "word": "確乎",
+          "reading": "かっこ"
+        }
+      ]
+    },
+    {
+      "slug": "確約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確約",
+          "reading": "かくやく"
+        }
+      ]
+    },
+    {
+      "slug": "確証",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確証",
+          "reading": "かくしょう"
+        }
+      ]
+    },
+    {
+      "slug": "確たる証拠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確たる証拠",
+          "reading": "かくたるしょうこ"
+        }
+      ]
+    },
+    {
+      "slug": "確定申告",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確定申告",
+          "reading": "かくていしんこく"
+        }
+      ]
+    },
+    {
+      "slug": "確認書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確認書",
+          "reading": "かくにんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "確定事項",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確定事項",
+          "reading": "かくていじこう"
+        }
+      ]
+    },
+    {
+      "slug": "確と",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確と",
+          "reading": "しかと"
+        },
+        {
+          "word": "確と",
+          "reading": "しっかと"
+        },
+        {
+          "word": "聢と",
+          "reading": "しかと"
+        },
+        {
+          "word": "聢と",
+          "reading": "しっかと"
+        }
+      ]
+    },
+    {
+      "slug": "確執",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "確執",
+          "reading": "かくしつ"
+        },
+        {
+          "word": "確執",
+          "reading": "かくしゅう"
+        }
+      ]
+    }
   ]
 }

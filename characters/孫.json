@@ -71,5 +71,219 @@
       "startStroke": 4,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "孫はいないよ。",
+      "furigana": "[孫|まご]はいないよ。",
+      "translation_zh_CN": "我没有孙子。"
+    },
+    {
+      "content": "孫は医者を目指しています。",
+      "furigana": "[孫|まご]は[医者|い|しゃ]を[目指|め|ざ]しています。",
+      "translation_zh_CN": "我的孙子的目标是成为一名医生。"
+    },
+    {
+      "content": "孫は八つだよ。",
+      "furigana": "[孫|まご]は[八|やっ]つだよ。",
+      "translation_zh_CN": "我有八个孙子。"
+    },
+    {
+      "content": "彼らは孫を誉めた。",
+      "furigana": "[彼|かれ]らは[孫|まご]を[誉|ほ]めた。",
+      "translation_zh_CN": "他们称赞他们的孙子。"
+    },
+    {
+      "content": "8人孫がいます。",
+      "furigana": "[8人孫|はち|にん|まご]がいます。",
+      "translation_zh_CN": "我有 8 个孙子。"
+    },
+    {
+      "content": "孫は8人いるよ。",
+      "furigana": "[孫|まご]は[8人|はち|にん]いるよ。",
+      "translation_zh_CN": "我有八个孙子。"
+    },
+    {
+      "content": "ロムルスはヌミトルの孫でした。",
+      "furigana": "ロムルスはヌミトルの[孫|まご]でした。",
+      "translation_zh_CN": "罗慕路斯是努米托尔的孙子。"
+    },
+    {
+      "content": "孫が明日来るんですよ。",
+      "furigana": "[孫|まご]が[明日|あした][来|く]るんですよ。",
+      "translation_zh_CN": "我孙子明天就来。"
+    },
+    {
+      "content": "彼は孫達に囲まれて座っていました。",
+      "furigana": "[彼|かれ]は[孫達|まご|たち]に[囲|かこ]まれて[座|すわ]っていました。",
+      "translation_zh_CN": "他坐在孙子们的身边。"
+    },
+    {
+      "content": "あなたの孫はどこ？",
+      "furigana": "あなたの[孫|まご]はどこ？",
+      "translation_zh_CN": "你的孙子在哪里？"
+    },
+    {
+      "content": "あなたの孫はどこ？",
+      "furigana": "あなたの[孫|まご]はどこ？",
+      "translation_zh_CN": "你的孫女在哪裡？"
+    },
+    {
+      "content": "孫はまだ赤ちゃんなのよ。",
+      "furigana": "[孫|まご]はまだ[赤|あか]ちゃんなのよ。",
+      "translation_zh_CN": "我的孫子還是個嬰兒。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "孫娘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫娘",
+          "reading": "まごむすめ"
+        }
+      ]
+    },
+    {
+      "slug": "孫子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫子",
+          "reading": "まごこ"
+        }
+      ]
+    },
+    {
+      "slug": "孫の手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫の手",
+          "reading": "まごのて"
+        }
+      ]
+    },
+    {
+      "slug": "孫会社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫会社",
+          "reading": "まごがいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "孫弟子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫弟子",
+          "reading": "まごでし"
+        }
+      ]
+    },
+    {
+      "slug": "孫引き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫引き",
+          "reading": "まごびき"
+        }
+      ]
+    },
+    {
+      "slug": "孫請け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫請け",
+          "reading": "まごうけ"
+        }
+      ]
+    },
+    {
+      "slug": "孫芋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫芋",
+          "reading": "まごいも"
+        }
+      ]
+    },
+    {
+      "slug": "孫息子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫息子",
+          "reading": "まごむすこ"
+        }
+      ]
+    },
+    {
+      "slug": "孫局",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫局",
+          "reading": "まごきょく"
+        }
+      ]
+    },
+    {
+      "slug": "孫文主義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫文主義",
+          "reading": "そんぶんしゅぎ"
+        }
+      ]
+    },
+    {
+      "slug": "孫子の兵法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫子の兵法",
+          "reading": "そんしのへいほう"
+        }
+      ]
+    },
+    {
+      "slug": "孫太郎虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫太郎虫",
+          "reading": "まごたろうむし"
+        }
+      ]
+    },
+    {
+      "slug": "孫さん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫さん",
+          "reading": "まごさん"
+        }
+      ]
+    },
+    {
+      "slug": "孫悟空",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "孫悟空",
+          "reading": "そんごくう"
+        }
+      ]
+    }
   ]
 }

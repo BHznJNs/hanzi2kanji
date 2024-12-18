@@ -91,5 +91,312 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼の成功は天才よりも努力に帰する。",
+      "furigana": "[彼|かれ]の[成功|せい|こう]は[天才|てん|さい]よりも[努力|ど|りょく]に[帰|き]する。",
+      "translation_zh_CN": "他的成功是由于努力而不是天才。"
+    },
+    {
+      "content": "会社に戻らず直帰することを上司に電話で伝えた。",
+      "furigana": "[会社|かい|しゃ]に[戻|もど]らず[直帰|ちょっ|き]することを[上司|じょう|し]に[電話|でん|わ]で[伝|つた]えた。",
+      "translation_zh_CN": "我在电话里告诉老板我要直接回家，不回办公室。"
+    },
+    {
+      "content": "最近僕の義弟Ｙ砲兵少佐が、三年間の巴里駐在を終へて帰つて来た。数々の土産物を取巻いて、われわれはいろいろな土産話を聴いた。",
+      "furigana": "[最近僕|さい|きん|ぼく]の[義弟Ｙ砲兵少佐|ぎ|てい|わい|ほう|へい|しょう|さ]が、[三年間|さん|ねん|かん]の[巴里駐在|ぱ|り|ちゅう|ざい]を[終|おわり]へて[帰|き]つて[来|き]た。[数々|かずかず]の[土産物|みやげ||もの]を[取巻|とり|ま]いて、われわれはいろいろな[土産|みやげ][話|ばなし]を[聴|き]いた。",
+      "translation_zh_CN": "最近，我的姐夫炮兵Y少校在巴黎驻扎三年后回国。我们参观了众多的纪念品，聆听了各种纪念品的故事。"
+    },
+    {
+      "content": "彼女は帰宅した。",
+      "furigana": "[彼女|かの|じょ]は[帰宅|き|たく]した。",
+      "translation_zh_CN": "她回家了。"
+    },
+    {
+      "content": "私は帰らないわ。",
+      "furigana": "[私|わたし]は[帰|かえ]らないわ。",
+      "translation_zh_CN": "我不会回来的。"
+    },
+    {
+      "content": "いつ帰ってくるの？",
+      "furigana": "いつ[帰|かえ]ってくるの？",
+      "translation_zh_CN": "你甚麼時候回來？"
+    },
+    {
+      "content": "１０時に帰ります。",
+      "furigana": "[１|][０|][時|じ]に[帰|かえ]ります。",
+      "translation_zh_CN": "我十点回来。"
+    },
+    {
+      "content": "明日、父が帰る。",
+      "furigana": "[明日|あした]、[父|ちち]が[帰|かえ]る。",
+      "translation_zh_CN": "明天爸爸就回来了。"
+    },
+    {
+      "content": "家に帰らなきゃ。",
+      "furigana": "[家|いえ]に[帰|かえ]らなきゃ。",
+      "translation_zh_CN": "我该回家了。"
+    },
+    {
+      "content": "帰ってきなさい。",
+      "furigana": "[帰|かえ]ってきなさい。",
+      "translation_zh_CN": "回家吧。"
+    },
+    {
+      "content": "君は帰っていい。",
+      "furigana": "[君|きみ]は[帰|かえ]っていい。",
+      "translation_zh_CN": "你可以回家。"
+    },
+    {
+      "content": "もう帰る時間よ。",
+      "furigana": "もう[帰|かえ]る[時間|じ|かん]よ。",
+      "translation_zh_CN": "已经是时候回去了。"
+    },
+    {
+      "content": "父は明日帰ります。",
+      "furigana": "[父|ちち]は[明日|あす][帰|かえ]ります。",
+      "translation_zh_CN": "父親明天就要回來了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "帰る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "帰る",
+          "reading": "かえる"
+        },
+        {
+          "word": "還る",
+          "reading": "かえる"
+        }
+      ]
+    },
+    {
+      "slug": "帰り",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "帰り",
+          "reading": "かえり"
+        },
+        {
+          "word": "還り",
+          "reading": "かえり"
+        }
+      ]
+    },
+    {
+      "slug": "帰宅",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "帰宅",
+          "reading": "きたく"
+        }
+      ]
+    },
+    {
+      "slug": "帰す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "帰す",
+          "reading": "かえす"
+        },
+        {
+          "word": "還す",
+          "reading": "かえす"
+        }
+      ]
+    },
+    {
+      "slug": "帰属",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰属",
+          "reading": "きぞく"
+        }
+      ]
+    },
+    {
+      "slug": "帰化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰化",
+          "reading": "きか"
+        }
+      ]
+    },
+    {
+      "slug": "帰国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰国",
+          "reading": "きこく"
+        }
+      ]
+    },
+    {
+      "slug": "帰省",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰省",
+          "reading": "きせい"
+        }
+      ]
+    },
+    {
+      "slug": "帰還",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰還",
+          "reading": "きかん"
+        },
+        {
+          "word": "饋還",
+          "reading": "きかん"
+        }
+      ]
+    },
+    {
+      "slug": "帰途",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰途",
+          "reading": "きと"
+        }
+      ]
+    },
+    {
+      "slug": "帰り道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰り道",
+          "reading": "かえりみち"
+        },
+        {
+          "word": "帰り路",
+          "reading": "かえりみち"
+        }
+      ]
+    },
+    {
+      "slug": "帰路",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰路",
+          "reading": "きろ"
+        }
+      ]
+    },
+    {
+      "slug": "帰郷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰郷",
+          "reading": "ききょう"
+        }
+      ]
+    },
+    {
+      "slug": "帰港",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰港",
+          "reading": "きこう"
+        }
+      ]
+    },
+    {
+      "slug": "帰国子女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰国子女",
+          "reading": "きこくしじょ"
+        }
+      ]
+    },
+    {
+      "slug": "帰京",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "帰京",
+          "reading": "ききょう"
+        }
+      ]
+    },
+    {
+      "slug": "帰って来る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰って来る",
+          "reading": "かえってくる"
+        },
+        {
+          "word": "帰ってくる",
+          "reading": "かえってくる"
+        }
+      ]
+    },
+    {
+      "slug": "帰りがけ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰りがけ",
+          "reading": "かえりがけ"
+        },
+        {
+          "word": "帰り掛け",
+          "reading": "かえりがけ"
+        }
+      ]
+    },
+    {
+      "slug": "帰する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰する",
+          "reading": "きする"
+        }
+      ]
+    },
+    {
+      "slug": "帰巣本能",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帰巣本能",
+          "reading": "きそうほんのう"
+        }
+      ]
+    }
   ]
 }

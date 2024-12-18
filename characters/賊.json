@@ -124,5 +124,124 @@
       "strokes": 1,
       "part": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "賊が彼の家に押し入った。",
+      "furigana": "[賊|ぞく]が[彼|かれ]の[家|いえ]に[押|お]し[入|い]った。",
+      "translation_zh_CN": "小偷闯入了他的房子。"
+    },
+    {
+      "content": "昨晩私の家に賊が押し入った。",
+      "furigana": "[昨晩私|さく|ばん|わたし]の[家|いえ]に[賊|ぞく]が[押|お]し[入|い]った。",
+      "translation_zh_CN": "昨晚小偷闯入我家。"
+    },
+    {
+      "content": "賊は裏口の開いた窓から入った。",
+      "furigana": "[賊|ぞく]は[裏口|うら|ぐち]の[開|ひら]いた[窓|まど]から[入|はい]った。",
+      "translation_zh_CN": "窃贼从后门开着的窗户进入。"
+    },
+    {
+      "content": "ここでは盗賊にご用心。",
+      "furigana": "ここでは[盗賊|とう|ぞく]にご[用心|よう|じん]。",
+      "translation_zh_CN": "在這附近當心小偷。"
+    },
+    {
+      "content": "海賊版のソフトを使っちゃダメだってば。",
+      "furigana": "[海賊版|かい|ぞく|ばん]のソフトを[使|つか]っちゃダメだってば。",
+      "translation_zh_CN": "你真的不该用盗版软件。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "賊軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊軍",
+          "reading": "ぞくぐん"
+        }
+      ]
+    },
+    {
+      "slug": "賊臣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊臣",
+          "reading": "ぞくしん"
+        }
+      ]
+    },
+    {
+      "slug": "賊心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊心",
+          "reading": "ぞくしん"
+        }
+      ]
+    },
+    {
+      "slug": "賊子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊子",
+          "reading": "ぞくし"
+        }
+      ]
+    },
+    {
+      "slug": "賊害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊害",
+          "reading": "ぞくがい"
+        }
+      ]
+    },
+    {
+      "slug": "賊虐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊虐",
+          "reading": "ぞくぎゃく"
+        }
+      ]
+    },
+    {
+      "slug": "賊将",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊将",
+          "reading": "ぞくしょう"
+        }
+      ]
+    },
+    {
+      "slug": "賊名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊名",
+          "reading": "ぞくめい"
+        }
+      ]
+    },
+    {
+      "slug": "賊徒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賊徒",
+          "reading": "ぞくと"
+        }
+      ]
+    }
   ]
 }

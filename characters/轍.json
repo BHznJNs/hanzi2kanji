@@ -85,5 +85,52 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "轍鮒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轍鮒",
+          "reading": "てっぷ"
+        }
+      ]
+    },
+    {
+      "slug": "轍鮒の急",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轍鮒の急",
+          "reading": "てっぷのきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "轍叉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轍叉",
+          "reading": "てっさ"
+        },
+        {
+          "word": "鉄叉",
+          "reading": "てっさ"
+        }
+      ]
+    },
+    {
+      "slug": "轍を踏む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轍を踏む",
+          "reading": "てつをふむ"
+        }
+      ]
+    }
   ]
 }

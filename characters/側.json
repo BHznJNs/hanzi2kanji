@@ -91,5 +91,323 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "入口の側で立った。",
+      "furigana": "[入口|いり|くち]の[側|がわ]で[立|た]った。",
+      "translation_zh_CN": "我站在入口处。"
+    },
+    {
+      "content": "通路側をお願いします。",
+      "furigana": "[通路側|つう|ろ|がわ]をお[願|ねが]いします。",
+      "translation_zh_CN": "请坐在过道一侧。"
+    },
+    {
+      "content": "通りを渡って向こう側です。",
+      "furigana": "[通|とお]りを[渡|わた]って[向|む]こう[側|がわ]です。",
+      "translation_zh_CN": "它在街对面的另一边。"
+    },
+    {
+      "content": "もっと私の側に来なさい。",
+      "furigana": "もっと[私|わたし]の[側|がわ]に[来|き]なさい。",
+      "translation_zh_CN": "靠近我一点。"
+    },
+    {
+      "content": "学校の直ぐ側に住んでいます。",
+      "furigana": "[学校|がっ|こう]の[直|す]ぐ[側|そば]に[住|す]んでいます。",
+      "translation_zh_CN": "我住在学校旁边。"
+    },
+    {
+      "content": "彼らはたき火の側に座りました。",
+      "furigana": "[彼|かれ]らはたき[火|び]の[側|そば]に[座|すわ]りました。",
+      "translation_zh_CN": "他们坐在火边。"
+    },
+    {
+      "content": "向こう側にモスクがあるよ。",
+      "furigana": "[向|む]こう[側|がわ]にモスクがあるよ。",
+      "translation_zh_CN": "另一边有一座清真寺。"
+    },
+    {
+      "content": "レコードが終わりました。反対側にひっくり返しなさい。",
+      "furigana": "レコードが[終|お]わりました。[反対側|はん|たい|がわ]にひっくり[返|かえ]しなさい。",
+      "translation_zh_CN": "记录完毕。将其翻转到另一侧。"
+    },
+    {
+      "content": "通路側の席をお願いします。",
+      "furigana": "[通路側|つう|ろ|がわ]の[席|せき]をお[願|ねが]いします。",
+      "translation_zh_CN": "请给我一个靠过道的座位。"
+    },
+    {
+      "content": "私は彼女の側に座った。",
+      "furigana": "[私|わたし]は[彼女|かの|じょ]の[側|そば]に[座|すわ]った。",
+      "translation_zh_CN": "我坐在她旁边。"
+    },
+    {
+      "content": "降り口は左側です。",
+      "furigana": "[降|お]り[口|ぐち]は[左側|ひだり|がわ]です。",
+      "translation_zh_CN": "左边的车门将会打开。"
+    },
+    {
+      "content": "入口の側で立った。",
+      "furigana": "[入口|いり|くち]の[側|がわ]で[立|た]った。",
+      "translation_zh_CN": "他站在入口的边上。"
+    },
+    {
+      "content": "右側通行をしなさい。",
+      "furigana": "[右側|みぎ|がわ][通行|つう|こう]をしなさい。",
+      "translation_zh_CN": "靠右侧通行。"
+    },
+    {
+      "content": "あれはあれの側です。",
+      "furigana": "あれはあれの[側|がわ]です。",
+      "translation_zh_CN": "他在她的旁邊。"
+    },
+    {
+      "content": "通路側をお願いします。",
+      "furigana": "[通路|つう|ろ][側|がわ]をお[願|ねが]いします。",
+      "translation_zh_CN": "麻煩給我走道邊的位置。"
+    },
+    {
+      "content": "月の裏側は見えません。",
+      "furigana": "[月|つき]の[裏側|うら|がわ]は[見|み]えません。",
+      "translation_zh_CN": "我們看不到月亮的另一邊。"
+    },
+    {
+      "content": "ここでは右側通行です。",
+      "furigana": "ここでは[右側|みぎ|がわ][通行|つう|こう]です。",
+      "translation_zh_CN": "靠右侧通行。"
+    },
+    {
+      "content": "彼は彼女の側にいます。",
+      "furigana": "[彼|かれ]は[彼女|かの|じょ]の[側|そば]にいます。",
+      "translation_zh_CN": "他在她的旁邊。"
+    },
+    {
+      "content": "彼は反対側に近づいた。",
+      "furigana": "[彼|かれ]は[反対|はん|たい][側|がわ]に[近|ちか]づいた。",
+      "translation_zh_CN": "他到另一边去了。"
+    },
+    {
+      "content": "窓側の席をお願いします。",
+      "furigana": "[窓側|まど|がわ]の[席|せき]をお[願|ねが]いします。",
+      "translation_zh_CN": "請給我靠窗口的位子。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "傍ら",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "傍ら",
+          "reading": "かたわら"
+        },
+        {
+          "word": "側ら",
+          "reading": "かたわら"
+        },
+        {
+          "word": "傍",
+          "reading": "かたわら"
+        },
+        {
+          "word": "旁",
+          "reading": "かたわら"
+        },
+        {
+          "word": "側",
+          "reading": "かたわら"
+        },
+        {
+          "word": "脇",
+          "reading": "かたわら"
+        }
+      ]
+    },
+    {
+      "slug": "側面",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "側面",
+          "reading": "そくめん"
+        }
+      ]
+    },
+    {
+      "slug": "側近",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側近",
+          "reading": "そっきん"
+        }
+      ]
+    },
+    {
+      "slug": "仄か",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仄か",
+          "reading": "ほのか"
+        },
+        {
+          "word": "側か",
+          "reading": "ほのか"
+        }
+      ]
+    },
+    {
+      "slug": "側転",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側転",
+          "reading": "そくてん"
+        }
+      ]
+    },
+    {
+      "slug": "側杖",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側杖",
+          "reading": "そばづえ"
+        },
+        {
+          "word": "傍杖",
+          "reading": "そばづえ"
+        },
+        {
+          "word": "そば杖",
+          "reading": "そばづえ"
+        }
+      ]
+    },
+    {
+      "slug": "欹てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欹てる",
+          "reading": "そばだてる"
+        },
+        {
+          "word": "攲てる",
+          "reading": "そばだてる"
+        },
+        {
+          "word": "側てる",
+          "reading": "そばだてる"
+        }
+      ]
+    },
+    {
+      "slug": "側室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側室",
+          "reading": "そくしつ"
+        }
+      ]
+    },
+    {
+      "slug": "側壁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側壁",
+          "reading": "そくへき"
+        }
+      ]
+    },
+    {
+      "slug": "側溝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側溝",
+          "reading": "そっこう"
+        }
+      ]
+    },
+    {
+      "slug": "側頭葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側頭葉",
+          "reading": "そくとうよう"
+        }
+      ]
+    },
+    {
+      "slug": "側頭頭頂接合部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側頭頭頂接合部",
+          "reading": "そくとうとうちょうせつごうぶ"
+        }
+      ]
+    },
+    {
+      "slug": "側面音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側面音",
+          "reading": "そくめんおん"
+        }
+      ]
+    },
+    {
+      "slug": "側線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側線",
+          "reading": "そくせん"
+        }
+      ]
+    },
+    {
+      "slug": "側頭骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側頭骨",
+          "reading": "そくとうこつ"
+        }
+      ]
+    },
+    {
+      "slug": "側生動物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側生動物",
+          "reading": "そくせいどうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "側の者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "側の者",
+          "reading": "がわのもの"
+        }
+      ]
+    }
   ]
 }

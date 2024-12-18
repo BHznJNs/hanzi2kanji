@@ -130,5 +130,297 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "霧が深い。",
+      "furigana": "[霧|きり]が[深|ふか]い。",
+      "translation_zh_CN": "雾很深。"
+    },
+    {
+      "content": "霧しか見えなかった。",
+      "furigana": "[霧|きり]しか[見|み]えなかった。",
+      "translation_zh_CN": "我只能看到雾。"
+    },
+    {
+      "content": "霧が立ち込めた。",
+      "furigana": "[霧|きり]が[立|た]ち[込|こ]めた。",
+      "translation_zh_CN": "一片雾气滚滚而来。"
+    },
+    {
+      "content": "霧がはれた。",
+      "furigana": "[霧|きり]がはれた。",
+      "translation_zh_CN": "雾气消散了。"
+    },
+    {
+      "content": "霧が晴れ始めた。",
+      "furigana": "[霧|きり]が[晴|は]れ[始|はじ]めた。",
+      "translation_zh_CN": "雾气开始消散。"
+    },
+    {
+      "content": "霧が出ていますか？",
+      "furigana": "[霧|きり]が[出|で]ていますか？",
+      "translation_zh_CN": "有雾吗？"
+    },
+    {
+      "content": "寒くて霧がかかっていた。",
+      "furigana": "[寒|さむ]くて[霧|きり]がかかっていた。",
+      "translation_zh_CN": "天气寒冷，多雾。"
+    },
+    {
+      "content": "霧は出ていますか？",
+      "furigana": "[霧|きり]は[出|で]ていますか？",
+      "translation_zh_CN": "有雾吗？"
+    },
+    {
+      "content": "霧がだんだん濃くなっている。",
+      "furigana": "[霧|きり]がだんだん[濃|こ]くなっている。",
+      "translation_zh_CN": "雾越来越浓了。"
+    },
+    {
+      "content": "今日は霧がかかっています。",
+      "furigana": "[今日|きょう]は[霧|きり]がかかっています。",
+      "translation_zh_CN": "今天有雾。"
+    },
+    {
+      "content": "私達は霧の中で迷った。",
+      "furigana": "[私|わたし][達|たち]は[霧|きり]の[中|なか]で[迷|まよ]った。",
+      "translation_zh_CN": "我们在雾中迷了路。"
+    },
+    {
+      "content": "外は霧がかかっている。",
+      "furigana": "[外|そと]は[霧|きり]がかかっている。",
+      "translation_zh_CN": "外面起霧了。"
+    },
+    {
+      "content": "霧の中から突然船が現れた。",
+      "furigana": "[霧|きり]の[中|なか]から[突然|とつ|ぜん][船|ふね]が[現|あらわ]れた。",
+      "translation_zh_CN": "一艘船突然从雾中出现。"
+    },
+    {
+      "content": "霧の他には何も見えなかった。",
+      "furigana": "[霧|きり]の[他|ほか]には[何|なに]も[見|み]えなかった。",
+      "translation_zh_CN": "除了雾我看不见任何东西。"
+    },
+    {
+      "content": "霧のほか、何もみえなかった。",
+      "furigana": "[霧|きり]のほか、[何|なに]もみえなかった。",
+      "translation_zh_CN": "除了雾我什么都看不见。"
+    },
+    {
+      "content": "ただ霧だけしか見えなかった。",
+      "furigana": "ただ[霧|きり]だけしか[見|み]えなかった。",
+      "translation_zh_CN": "除了雾我什么都看不见。"
+    },
+    {
+      "content": "私たちは霧の中で迷子になった。",
+      "furigana": "[私|わたし]たちは[霧|きり]の[中|なか]で[迷子|まい|ご]になった。",
+      "translation_zh_CN": "我们在雾中迷了路。"
+    },
+    {
+      "content": "１０時頃になって霧が消え始めた。",
+      "furigana": "[１０|じゅう][時|じ][頃|ごろ]になって[霧|きり]が[消|き]え[始|はじ]めた。",
+      "translation_zh_CN": "霧在十時左右開始散了。"
+    },
+    {
+      "content": "深い霧のせいで道路が見えにくかった。",
+      "furigana": "[深|ふか]い[霧|きり]のせいで[道路|どう|ろ]が[見|み]えにくかった。",
+      "translation_zh_CN": "因为大雾所以看不清道路。"
+    },
+    {
+      "content": "私たちは霧の中で道に迷ってしまった。",
+      "furigana": "[私|わたし]たちは[霧|きり]の[中|なか]で[道|みち]に[迷|まよ]ってしまった。",
+      "translation_zh_CN": "我们在雾中迷了路。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "霧雨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧雨",
+          "reading": "きりさめ"
+        }
+      ]
+    },
+    {
+      "slug": "霧吹き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧吹き",
+          "reading": "きりふき"
+        }
+      ]
+    },
+    {
+      "slug": "霧箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧箱",
+          "reading": "きりばこ"
+        }
+      ]
+    },
+    {
+      "slug": "霧雪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧雪",
+          "reading": "むせつ"
+        }
+      ]
+    },
+    {
+      "slug": "霧氷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧氷",
+          "reading": "むひょう"
+        }
+      ]
+    },
+    {
+      "slug": "霧虹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧虹",
+          "reading": "きりにじ"
+        },
+        {
+          "word": "霧虹",
+          "reading": "むこう"
+        }
+      ]
+    },
+    {
+      "slug": "霧深い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧深い",
+          "reading": "きりぶかい"
+        },
+        {
+          "word": "霧深い",
+          "reading": "きりふかい"
+        }
+      ]
+    },
+    {
+      "slug": "霧笛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧笛",
+          "reading": "むてき"
+        }
+      ]
+    },
+    {
+      "slug": "霧消",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧消",
+          "reading": "むしょう"
+        }
+      ]
+    },
+    {
+      "slug": "霧状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧状",
+          "reading": "きりじょう"
+        }
+      ]
+    },
+    {
+      "slug": "霧中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧中",
+          "reading": "むちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "霧中信号",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧中信号",
+          "reading": "むちゅうしんごう"
+        }
+      ]
+    },
+    {
+      "slug": "霧雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧雲",
+          "reading": "きりぐも"
+        }
+      ]
+    },
+    {
+      "slug": "霧散",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧散",
+          "reading": "むさん"
+        }
+      ]
+    },
+    {
+      "slug": "霧化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧化",
+          "reading": "むか"
+        }
+      ]
+    },
+    {
+      "slug": "霧社事件",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧社事件",
+          "reading": "むしゃじけん"
+        }
+      ]
+    },
+    {
+      "slug": "霧に覆われる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧に覆われる",
+          "reading": "きりにおおわれる"
+        }
+      ]
+    },
+    {
+      "slug": "霧に包まれる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霧に包まれる",
+          "reading": "きりにつつまれる"
+        }
+      ]
+    }
   ]
 }

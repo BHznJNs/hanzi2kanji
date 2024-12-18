@@ -65,5 +65,293 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "練習は熟達の道。",
+      "furigana": "[練習|れん|しゅう]は[熟達|じゅく|たつ]の[道|みち]。",
+      "translation_zh_CN": "熟能生巧。"
+    },
+    {
+      "content": "習うより慣れろ。",
+      "furigana": "[習|なら]うより[慣|な]れろ。",
+      "translation_zh_CN": "熟能生巧。"
+    },
+    {
+      "content": "英語を習いたいな。",
+      "furigana": "[英語|えい|ご]を[習|なら]いたいな。",
+      "translation_zh_CN": "我想学英语。"
+    },
+    {
+      "content": "彼は泳ぎ方を習った。",
+      "furigana": "[彼|かれ]は[泳|およ]ぎ[方|かた]を[習|なら]った。",
+      "translation_zh_CN": "他学过游泳。"
+    },
+    {
+      "content": "君は何を習ってるの。",
+      "furigana": "[君|きみ]は[何|なに]を[習|なら]ってるの。",
+      "translation_zh_CN": "你学什么？"
+    },
+    {
+      "content": "トムを見習いなさい。",
+      "furigana": "トムを[見習|み|なら]いなさい。",
+      "translation_zh_CN": "好好向汤姆学学。"
+    },
+    {
+      "content": "彼らは同じ習慣をもつ。",
+      "furigana": "[彼|かれ]らは[同|おな]じ[習慣|しゅう|かん]をもつ。",
+      "translation_zh_CN": "他們有相同的嗜好。"
+    },
+    {
+      "content": "彼は毎日家で練習した。",
+      "furigana": "[彼|かれ]は[毎日|まい|にち][家|か]で[練習|れん|しゅう]した。",
+      "translation_zh_CN": "他每天在家練習。"
+    },
+    {
+      "content": "彼は英語を習い始めた。",
+      "furigana": "[彼|かれ]は[英語|えい|ご]を[習|なら]い[始|はじ]めた。",
+      "translation_zh_CN": "他开始学英语了。"
+    },
+    {
+      "content": "姉さんを見習いなさい。",
+      "furigana": "[姉|ねえ]さんを[見習|み|なら]いなさい。",
+      "translation_zh_CN": "学学你姐姐。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "習う",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "習う",
+          "reading": "ならう"
+        }
+      ]
+    },
+    {
+      "slug": "習慣",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "習慣",
+          "reading": "しゅうかん"
+        }
+      ]
+    },
+    {
+      "slug": "習得",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習得",
+          "reading": "しゅうとく"
+        },
+        {
+          "word": "修得",
+          "reading": "しゅうとく"
+        }
+      ]
+    },
+    {
+      "slug": "習性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習性",
+          "reading": "しゅうせい"
+        }
+      ]
+    },
+    {
+      "slug": "習い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習い",
+          "reading": "ならい"
+        }
+      ]
+    },
+    {
+      "slug": "習熟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習熟",
+          "reading": "しゅうじゅく"
+        },
+        {
+          "word": "修熟",
+          "reading": "しゅうじゅく"
+        }
+      ]
+    },
+    {
+      "slug": "習字",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "習字",
+          "reading": "しゅうじ"
+        }
+      ]
+    },
+    {
+      "slug": "習わす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習わす",
+          "reading": "ならわす"
+        },
+        {
+          "word": "慣わす",
+          "reading": "ならわす"
+        }
+      ]
+    },
+    {
+      "slug": "習わし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習わし",
+          "reading": "ならわし"
+        },
+        {
+          "word": "慣わし",
+          "reading": "ならわし"
+        }
+      ]
+    },
+    {
+      "slug": "習俗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習俗",
+          "reading": "しゅうぞく"
+        }
+      ]
+    },
+    {
+      "slug": "習い事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習い事",
+          "reading": "ならいごと"
+        },
+        {
+          "word": "習いごと",
+          "reading": "ならいごと"
+        }
+      ]
+    },
+    {
+      "slug": "習慣づける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習慣づける",
+          "reading": "しゅうかんづける"
+        },
+        {
+          "word": "習慣付ける",
+          "reading": "しゅうかんづける"
+        }
+      ]
+    },
+    {
+      "slug": "習い性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習い性",
+          "reading": "ならいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "習得観念",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習得観念",
+          "reading": "しゅうとくかんねん"
+        }
+      ]
+    },
+    {
+      "slug": "習慣性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習慣性",
+          "reading": "しゅうかんせい"
+        }
+      ]
+    },
+    {
+      "slug": "習慣化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習慣化",
+          "reading": "しゅうかんか"
+        }
+      ]
+    },
+    {
+      "slug": "習習",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習習",
+          "reading": "しゅうしゅう"
+        },
+        {
+          "word": "習々",
+          "reading": "しゅうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "習慣性流産",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習慣性流産",
+          "reading": "しゅうかんせいりゅうざん"
+        }
+      ]
+    },
+    {
+      "slug": "習作",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習作",
+          "reading": "しゅうさく"
+        }
+      ]
+    },
+    {
+      "slug": "習合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習合",
+          "reading": "しゅうごう"
+        }
+      ]
+    }
   ]
 }

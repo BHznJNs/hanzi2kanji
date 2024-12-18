@@ -60,5 +60,49 @@
       "startStroke": 19,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "くつわ虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "クツワムシ"
+        },
+        {
+          "word": "轡虫",
+          "reading": "くつわむし"
+        }
+      ]
+    },
+    {
+      "slug": "轡屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轡屋",
+          "reading": "くつわや"
+        },
+        {
+          "word": "忘八屋",
+          "reading": "くつわや"
+        }
+      ]
+    },
+    {
+      "slug": "くつわを並べて",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "轡を並べて",
+          "reading": "くつわをならべて"
+        },
+        {
+          "word": "くつわを並べて",
+          "reading": "くつわをならべて"
+        }
+      ]
+    }
   ]
 }

@@ -89,5 +89,330 @@
       "startStroke": 5,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "風邪が抜けない。",
+      "furigana": "[風邪|かぜ]が[抜|ぬ]けない。",
+      "translation_zh_CN": "我的感冒怎麼也不好。"
+    },
+    {
+      "content": "歯が１本抜けた。",
+      "furigana": "[歯|は]が[１|いっ][本|ぽん][抜|ぬ]けた。",
+      "translation_zh_CN": "我掉了颗牙。"
+    },
+    {
+      "content": "気が抜けちゃったよ。",
+      "furigana": "[気|き]が[抜|ぬ]けちゃったよ。",
+      "translation_zh_CN": "我累死了。"
+    },
+    {
+      "content": "彼は約束を守り抜いた。",
+      "furigana": "[彼|かれ]は[約束|やく|そく]を[守|まも]り[抜|ぬ]いた。",
+      "translation_zh_CN": "他信守了承诺."
+    },
+    {
+      "content": "虫歯を抜いてもらった。",
+      "furigana": "[虫歯|むし|ば]を[抜|ぬ]いてもらった。",
+      "translation_zh_CN": "我把蛀牙拔掉了。"
+    },
+    {
+      "content": "彼女は庭の雑草を抜いた。",
+      "furigana": "[彼女|かの|じょ]は[庭|にわ]の[雑草|ざっ|そう]を[抜|ぬ]いた。",
+      "translation_zh_CN": "她给花园除了草。"
+    },
+    {
+      "content": "一週間メシ抜きだったよ。",
+      "furigana": "[一|いっ][週間|しゅう|かん]メシ[抜|ぬ]きだったよ。",
+      "translation_zh_CN": "我一星期沒帶食物去。"
+    },
+    {
+      "content": "トムは教室を抜け出した。",
+      "furigana": "トムは[教室|きょう|しつ]を[抜|ぬ]け[出|だ]した。",
+      "translation_zh_CN": "湯姆溜出了教室。"
+    },
+    {
+      "content": "あなたの髭を抜きたいです。",
+      "furigana": "あなたの[髭|ひげ]を[抜|ぬ]きたいです。",
+      "translation_zh_CN": "我想拔你的胡须。"
+    },
+    {
+      "content": "タイヤの空気が抜けてるよ。",
+      "furigana": "タイヤの[空気|くう|き]が[抜|ぬ]けてるよ。",
+      "translation_zh_CN": "轮胎漏气了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "抜く",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "抜く",
+          "reading": "ぬく"
+        }
+      ]
+    },
+    {
+      "slug": "抜ける",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "抜ける",
+          "reading": "ぬける"
+        },
+        {
+          "word": "脱ける",
+          "reading": "ぬける"
+        }
+      ]
+    },
+    {
+      "slug": "抜け出す",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "抜け出す",
+          "reading": "ぬけだす"
+        },
+        {
+          "word": "脱け出す",
+          "reading": "ぬけだす"
+        }
+      ]
+    },
+    {
+      "slug": "抜かす",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "抜かす",
+          "reading": "ぬかす"
+        },
+        {
+          "word": "吐かす",
+          "reading": "ぬかす"
+        }
+      ]
+    },
+    {
+      "slug": "抜き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜き",
+          "reading": "ぬき"
+        }
+      ]
+    },
+    {
+      "slug": "抜群",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜群",
+          "reading": "ばつぐん"
+        },
+        {
+          "word": "抜群",
+          "reading": "ばっくん"
+        },
+        {
+          "reading": "バツグン"
+        }
+      ]
+    },
+    {
+      "slug": "抜本的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜本的",
+          "reading": "ばっぽんてき"
+        }
+      ]
+    },
+    {
+      "slug": "抜粋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜粋",
+          "reading": "ばっすい"
+        },
+        {
+          "word": "抜萃",
+          "reading": "ばっすい"
+        }
+      ]
+    },
+    {
+      "slug": "抜け穴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜け穴",
+          "reading": "ぬけあな"
+        },
+        {
+          "word": "抜穴",
+          "reading": "ぬけあな"
+        }
+      ]
+    },
+    {
+      "slug": "抜け毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜け毛",
+          "reading": "ぬけげ"
+        },
+        {
+          "word": "脱け毛",
+          "reading": "ぬけげ"
+        }
+      ]
+    },
+    {
+      "slug": "抜け道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜け道",
+          "reading": "ぬけみち"
+        },
+        {
+          "word": "抜け路",
+          "reading": "ぬけみち"
+        }
+      ]
+    },
+    {
+      "slug": "抜擢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜擢",
+          "reading": "ばってき"
+        },
+        {
+          "word": "抜てき",
+          "reading": "ばってき"
+        },
+        {
+          "word": "抜擢",
+          "reading": "ばったく"
+        }
+      ]
+    },
+    {
+      "slug": "抜き打ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜き打ち",
+          "reading": "ぬきうち"
+        },
+        {
+          "word": "抜打ち",
+          "reading": "ぬきうち"
+        }
+      ]
+    },
+    {
+      "slug": "抜き出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜き出す",
+          "reading": "ぬきだす"
+        },
+        {
+          "word": "ぬき出す",
+          "reading": "ぬきだす"
+        }
+      ]
+    },
+    {
+      "slug": "抜け落ちる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜け落ちる",
+          "reading": "ぬけおちる"
+        }
+      ]
+    },
+    {
+      "slug": "抜歯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜歯",
+          "reading": "ばっし"
+        }
+      ]
+    },
+    {
+      "slug": "抜け目がない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜け目がない",
+          "reading": "ぬけめがない"
+        }
+      ]
+    },
+    {
+      "slug": "抜かり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜かり",
+          "reading": "ぬかり"
+        }
+      ]
+    },
+    {
+      "slug": "抜け目のない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜け目のない",
+          "reading": "ぬけめのない"
+        }
+      ]
+    },
+    {
+      "slug": "抜きん出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "抜きん出る",
+          "reading": "ぬきんでる"
+        },
+        {
+          "word": "抜きんでる",
+          "reading": "ぬきんでる"
+        },
+        {
+          "word": "抽んでる",
+          "reading": "ぬきんでる"
+        },
+        {
+          "word": "擢んでる",
+          "reading": "ぬきんでる"
+        }
+      ]
+    }
   ]
 }

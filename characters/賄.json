@@ -90,5 +90,101 @@
       "startStroke": 9,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "市長は賄賂を受け取ったことを否定した。",
+      "furigana": "[市長|し|ちょう]は[賄賂|わい|ろ]を[受|う]け[取|と]ったことを[否定|ひ|てい]した。",
+      "translation_zh_CN": "市长否认收受了贿赂。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "賄う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賄う",
+          "reading": "まかなう"
+        }
+      ]
+    },
+    {
+      "slug": "賄賂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄賂",
+          "reading": "わいろ"
+        },
+        {
+          "reading": "ワイロ"
+        }
+      ]
+    },
+    {
+      "slug": "賄い付き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まかない付き",
+          "reading": "まかないつき"
+        },
+        {
+          "word": "賄い付き",
+          "reading": "まかないつき"
+        }
+      ]
+    },
+    {
+      "slug": "賄い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄い",
+          "reading": "まかない"
+        }
+      ]
+    },
+    {
+      "slug": "賄い婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄い婦",
+          "reading": "まかないふ"
+        }
+      ]
+    },
+    {
+      "slug": "賄い料理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "まかない料理",
+          "reading": "まかないりょうり"
+        },
+        {
+          "word": "賄い料理",
+          "reading": "まかないりょうり"
+        }
+      ]
+    },
+    {
+      "slug": "賄い方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賄い方",
+          "reading": "まかないかた"
+        },
+        {
+          "word": "賄方",
+          "reading": "まかないかた"
+        }
+      ]
+    }
   ]
 }

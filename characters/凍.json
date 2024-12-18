@@ -88,5 +88,125 @@
       "strokes": 3,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "かたく凍っている。",
+      "furigana": "かたく[凍|こお]っている。",
+      "translation_zh_CN": "已经冻成固体了"
+    },
+    {
+      "content": "カチカチに凍ってる。",
+      "furigana": "カチカチに[凍|こお]ってる。",
+      "translation_zh_CN": "已经冻成固体了"
+    },
+    {
+      "content": "湖は凍っていた。",
+      "furigana": "[湖|みずうみ]は[凍|こお]っていた。",
+      "translation_zh_CN": "湖水结冰了。"
+    },
+    {
+      "content": "氷は入れる？",
+      "furigana": "[氷|こおり]は[入|い]れる？",
+      "translation_zh_CN": "可以放冰吗？"
+    },
+    {
+      "content": "凍った斜面を滑り降りる時そりは加速した。",
+      "furigana": "[凍|こお]った[斜面|しゃ|めん]を[滑|すべ]り[降|お]りる[時|とき]そりは[加速|か|そく]した。",
+      "translation_zh_CN": "雪橇沿着冰冷的斜坡滑下时，速度不断加快。"
+    },
+    {
+      "content": "氷が解けちゃった。",
+      "furigana": "[氷|こおり]が[解|と]けちゃった。",
+      "translation_zh_CN": "冰已经融化了。"
+    },
+    {
+      "content": "池は硬く凍っていた。",
+      "furigana": "[池|いけ]は[硬|かた]く[凍|こお]っていた。",
+      "translation_zh_CN": "池塘结冰了。"
+    },
+    {
+      "content": "池が凍ってるよ。",
+      "furigana": "[池|いけ]が[凍|こお]ってるよ。",
+      "translation_zh_CN": "池塘结冰了。"
+    },
+    {
+      "content": "凍るように冷たい。",
+      "furigana": "[凍|こお]るように[冷|つめ]たい。",
+      "translation_zh_CN": "冰冷。"
+    },
+    {
+      "content": "お肉凍ってるよ。",
+      "furigana": "お[肉凍|にく|こお]ってるよ。",
+      "translation_zh_CN": "肉是冷冻的。"
+    },
+    {
+      "content": "湖は凍っていた。",
+      "furigana": "[湖|みずうみ]は[凍|こお]っていた。",
+      "translation_zh_CN": "湖冻冰了。"
+    },
+    {
+      "content": "凍えるようだわ。",
+      "furigana": "[凍|こご]えるようだわ。",
+      "translation_zh_CN": "天氣好冷。"
+    },
+    {
+      "content": "お肉凍ってるよ。",
+      "furigana": "お[肉|にく][凍|こお]ってるよ。",
+      "translation_zh_CN": "这肉是冷冻的。"
+    },
+    {
+      "content": "寒くて凍えそうだ。",
+      "furigana": "[寒|さむ]くて[凍|こご]えそうだ。",
+      "translation_zh_CN": "我冻死了。"
+    },
+    {
+      "content": "その犬は凍死した。",
+      "furigana": "その[犬|いぬ]は[凍死|とう|し]した。",
+      "translation_zh_CN": "狗被凍死了。"
+    },
+    {
+      "content": "かたく凍っている。",
+      "furigana": "かたく[凍|こお]っている。",
+      "translation_zh_CN": "真的很冰冷。"
+    },
+    {
+      "content": "水は摂氏０度で凍る。",
+      "furigana": "[水|みず]は[摂氏|せっ|し][０|れい][度|ど]で[凍|こお]る。",
+      "translation_zh_CN": "水在攝氏0度時結成冰。"
+    },
+    {
+      "content": "水は華氏３２度で凍る。",
+      "furigana": "[水|みず]は[華氏|か|し][３|][２|][度|ど]で[凍|こお]る。",
+      "translation_zh_CN": "水在華氏32度結成冰。"
+    },
+    {
+      "content": "水は凍ると固体になる。",
+      "furigana": "[水|みず]は[凍|こお]ると[固体|こ|たい]になる。",
+      "translation_zh_CN": "水结冰后成为固体。"
+    },
+    {
+      "content": "来週には凍るかも知れない。",
+      "furigana": "[来週|らい|しゅう]には[凍|こお]るかも[知|し]れない。",
+      "translation_zh_CN": "下周可能会结冰。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "凍る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "凍る",
+          "reading": "こおる"
+        },
+        {
+          "word": "氷る",
+          "reading": "こおる"
+        }
+      ]
+    }
   ]
 }

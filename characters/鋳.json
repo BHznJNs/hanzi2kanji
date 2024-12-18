@@ -99,5 +99,22 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鋳る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋳る",
+          "reading": "いる"
+        },
+        {
+          "word": "鑄る",
+          "reading": "いる"
+        }
+      ]
+    }
   ]
 }

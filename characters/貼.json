@@ -73,5 +73,395 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "部屋に貼るためよ",
+      "furigana": "[部屋|へや]に[貼|は]るためよ",
+      "translation_zh_CN": "我要把它放在我的房间里。"
+    },
+    {
+      "content": "封筒に切手を貼りなさい。",
+      "furigana": "[封筒|ふう|とう]に[切手|きっ|て]を[貼|は]りなさい。",
+      "translation_zh_CN": "在信封上贴上邮票。"
+    },
+    {
+      "content": "地図は壁に貼ってある。",
+      "furigana": "[地図|ち|ず]は[壁|かべ]に[貼|は]ってある。",
+      "translation_zh_CN": "地图贴在墙上。"
+    },
+    {
+      "content": "封筒に切手を貼らなきゃ。",
+      "furigana": "[封筒|ふう|とう]に[切手|きっ|て]を[貼|は]らなきゃ。",
+      "translation_zh_CN": "我得在信封上贴邮票。"
+    },
+    {
+      "content": "まあ、いいか、貼ったままで",
+      "furigana": "まあ、いいか、[貼|は]ったままで",
+      "translation_zh_CN": "嗯，好吧，留下它。"
+    },
+    {
+      "content": "今その絵は壁に貼ってある。",
+      "furigana": "[今|いま]その[絵|え]は[壁|かべ]に[貼|は]ってある。",
+      "translation_zh_CN": "这幅画现在挂在墙上。"
+    },
+    {
+      "content": "彼は手紙に切手を貼った。",
+      "furigana": "[彼|かれ]は[手紙|て|がみ]に[切手|きっ|て]を[貼|は]った。",
+      "translation_zh_CN": "他在信上贴了邮票。"
+    },
+    {
+      "content": "封筒には切手を貼りましたか？",
+      "furigana": "[封筒|ふう|とう]には[切手|きっ|て]を[貼|は]りましたか？",
+      "translation_zh_CN": "你在信封上贴了邮票吗？"
+    },
+    {
+      "content": "その写真は至る所に貼ってある。",
+      "furigana": "その[写真|しゃ|しん]は[至|いた]る[所|ところ]に[貼|は]ってある。",
+      "translation_zh_CN": "这张照片到处张贴。"
+    },
+    {
+      "content": "彼は手にバンドエイドを貼った。",
+      "furigana": "[彼|かれ]は[手|て]にバンドエイドを[貼|は]った。",
+      "translation_zh_CN": "他在手上贴了创可贴。"
+    },
+    {
+      "content": "地図は壁に貼ってある。",
+      "furigana": "[地図|ち|ず]は[壁|かべ]に[貼|は]ってある。",
+      "translation_zh_CN": "地图挂在墙上。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "張る",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "張る",
+          "reading": "はる"
+        },
+        {
+          "word": "貼る",
+          "reading": "はる"
+        }
+      ]
+    },
+    {
+      "slug": "張り紙",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "張り紙",
+          "reading": "はりがみ"
+        },
+        {
+          "word": "貼り紙",
+          "reading": "はりがみ"
+        },
+        {
+          "word": "はり紙",
+          "reading": "はりがみ"
+        },
+        {
+          "word": "張紙",
+          "reading": "はりがみ"
+        },
+        {
+          "word": "貼紙",
+          "reading": "はりがみ"
+        }
+      ]
+    },
+    {
+      "slug": "張り出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り出す",
+          "reading": "はりだす"
+        },
+        {
+          "word": "貼り出す",
+          "reading": "はりだす"
+        }
+      ]
+    },
+    {
+      "slug": "張り付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り付ける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "貼付ける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "貼りつける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "張り付ける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "張りつける",
+          "reading": "はりつける"
+        },
+        {
+          "word": "張付ける",
+          "reading": "はりつける"
+        }
+      ]
+    },
+    {
+      "slug": "貼り合わせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り合わせる",
+          "reading": "はりあわせる"
+        },
+        {
+          "word": "張り合わせる",
+          "reading": "はりあわせる"
+        }
+      ]
+    },
+    {
+      "slug": "貼付",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼付",
+          "reading": "ちょうふ"
+        },
+        {
+          "word": "貼付",
+          "reading": "てんぷ"
+        }
+      ]
+    },
+    {
+      "slug": "張り替える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り替える",
+          "reading": "はりかえる"
+        },
+        {
+          "word": "貼り替える",
+          "reading": "はりかえる"
+        },
+        {
+          "word": "貼りかえる",
+          "reading": "はりかえる"
+        },
+        {
+          "word": "張替える",
+          "reading": "はりかえる"
+        },
+        {
+          "word": "張りかえる",
+          "reading": "はりかえる"
+        },
+        {
+          "word": "貼替える",
+          "reading": "はりかえる"
+        }
+      ]
+    },
+    {
+      "slug": "貼り込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り込み",
+          "reading": "はりこみ"
+        }
+      ]
+    },
+    {
+      "slug": "貼り出し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り出し",
+          "reading": "はりだし"
+        }
+      ]
+    },
+    {
+      "slug": "貼付剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼付剤",
+          "reading": "ちょうふざい"
+        }
+      ]
+    },
+    {
+      "slug": "張り替え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り替え",
+          "reading": "はりかえ"
+        },
+        {
+          "word": "張替え",
+          "reading": "はりかえ"
+        },
+        {
+          "word": "張替",
+          "reading": "はりかえ"
+        },
+        {
+          "word": "貼り替え",
+          "reading": "はりかえ"
+        },
+        {
+          "word": "貼替え",
+          "reading": "はりかえ"
+        },
+        {
+          "word": "貼替",
+          "reading": "はりかえ"
+        }
+      ]
+    },
+    {
+      "slug": "はり札",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "はり札",
+          "reading": "はりふだ"
+        },
+        {
+          "word": "貼り札",
+          "reading": "はりふだ"
+        },
+        {
+          "word": "張り札",
+          "reading": "はりふだ"
+        },
+        {
+          "word": "張札",
+          "reading": "はりふだ"
+        }
+      ]
+    },
+    {
+      "slug": "貼付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り付け",
+          "reading": "はりつけ"
+        },
+        {
+          "word": "張り付け",
+          "reading": "はりつけ"
+        },
+        {
+          "word": "貼付け",
+          "reading": "はりつけ"
+        },
+        {
+          "word": "はり付け",
+          "reading": "はりつけ"
+        },
+        {
+          "word": "張付け",
+          "reading": "はりつけ"
+        }
+      ]
+    },
+    {
+      "slug": "張り付く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張り付く",
+          "reading": "はりつく"
+        },
+        {
+          "word": "貼り付く",
+          "reading": "はりつく"
+        }
+      ]
+    },
+    {
+      "slug": "貼り箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り箱",
+          "reading": "はりばこ"
+        },
+        {
+          "word": "貼箱",
+          "reading": "はりばこ"
+        }
+      ]
+    },
+    {
+      "slug": "貼り絵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り絵",
+          "reading": "はりえ"
+        }
+      ]
+    },
+    {
+      "slug": "貼り薬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り薬",
+          "reading": "はりぐすり"
+        },
+        {
+          "word": "はり薬",
+          "reading": "はりぐすり"
+        }
+      ]
+    },
+    {
+      "slug": "貼り込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼り込む",
+          "reading": "はりこむ"
+        },
+        {
+          "word": "貼りこむ",
+          "reading": "はりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "貼合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貼合",
+          "reading": "てんごう"
+        }
+      ]
+    }
   ]
 }

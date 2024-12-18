@@ -78,5 +78,311 @@
       "startStroke": 6,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "切符は三日間有効だ。",
+      "furigana": "[切符|きっ|ぷ]は[三日|みっか][間|かん][有効|ゆう|こう]だ。",
+      "translation_zh_CN": "這張票的有效期是三天。"
+    },
+    {
+      "content": "切符は３日間有効です。",
+      "furigana": "[切符|きっ|ぷ]は[３日間|みっ|か|かん][有効|ゆう|こう]です。",
+      "translation_zh_CN": "這張票的有效期是三天。"
+    },
+    {
+      "content": "薬効の程は定かでない。",
+      "furigana": "[薬効|やっ|こう]の[程|ほど]は[定|さだ]かでない。",
+      "translation_zh_CN": "药物的作用还不确定。"
+    },
+    {
+      "content": "風邪に効く薬はありますか。",
+      "furigana": "[風邪|かぜ]に[効|き]く[薬|くすり]はありますか。",
+      "translation_zh_CN": "你有任何治感冒的東西嗎?"
+    },
+    {
+      "content": "この切符は３日間有効です。",
+      "furigana": "この[切符|きっ|ぷ]は[３日間|みっ|か|かん][有効|ゆう|こう]です。",
+      "translation_zh_CN": "這張票的有效期是三天。"
+    },
+    {
+      "content": "その切符は３日間有効である。",
+      "furigana": "その[切符|きっ|ぷ]は[３|みっ][日間|か|かん][有効|ゆう|こう]である。",
+      "translation_zh_CN": "這張票的有效期是三天。"
+    },
+    {
+      "content": "この切符は三日間有効なんだ。",
+      "furigana": "この[切符|きっ|ぷ]は[三日間|みっ|か|かん][有効|ゆう|こう]なんだ。",
+      "translation_zh_CN": "這張票的有效期是三天。"
+    },
+    {
+      "content": "この薬はあなたに効くでしょう。",
+      "furigana": "この[薬|くすり]はあなたに[効|き]くでしょう。",
+      "translation_zh_CN": "这药对你有好处。"
+    },
+    {
+      "content": "このパスポートは５年間有効です。",
+      "furigana": "このパスポートは[５|ご][年間|ねん|かん][有効|ゆう|こう]です。",
+      "translation_zh_CN": "這本護照的有用期限為五年。"
+    },
+    {
+      "content": "この部屋はエアコンが効いている。",
+      "furigana": "この[部屋|へ|や]はエアコンが[効|き]いている。",
+      "translation_zh_CN": "這個房間有空調。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "甲斐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "甲斐",
+          "reading": "かい"
+        },
+        {
+          "word": "詮",
+          "reading": "かい"
+        },
+        {
+          "word": "効",
+          "reading": "かい"
+        }
+      ]
+    },
+    {
+      "slug": "効果",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "効果",
+          "reading": "こうか"
+        }
+      ]
+    },
+    {
+      "slug": "効く",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "効く",
+          "reading": "きく"
+        },
+        {
+          "word": "利く",
+          "reading": "きく"
+        }
+      ]
+    },
+    {
+      "slug": "効力",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "効力",
+          "reading": "こうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "効率",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "効率",
+          "reading": "こうりつ"
+        }
+      ]
+    },
+    {
+      "slug": "効き目",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "効き目",
+          "reading": "ききめ"
+        },
+        {
+          "word": "利き目",
+          "reading": "ききめ"
+        },
+        {
+          "word": "きき眼",
+          "reading": "ききめ"
+        },
+        {
+          "word": "効目",
+          "reading": "ききめ"
+        },
+        {
+          "word": "利目",
+          "reading": "ききめ"
+        }
+      ]
+    },
+    {
+      "slug": "効果的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効果的",
+          "reading": "こうかてき"
+        }
+      ]
+    },
+    {
+      "slug": "効率的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効率的",
+          "reading": "こうりつてき"
+        }
+      ]
+    },
+    {
+      "slug": "利かせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利かせる",
+          "reading": "きかせる"
+        },
+        {
+          "word": "効かせる",
+          "reading": "きかせる"
+        }
+      ]
+    },
+    {
+      "slug": "効能",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効能",
+          "reading": "こうのう"
+        },
+        {
+          "word": "功能",
+          "reading": "こうのう"
+        },
+        {
+          "word": "功能",
+          "reading": "くのう"
+        }
+      ]
+    },
+    {
+      "slug": "利かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利かす",
+          "reading": "きかす"
+        },
+        {
+          "word": "効かす",
+          "reading": "きかす"
+        }
+      ]
+    },
+    {
+      "slug": "効率性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効率性",
+          "reading": "こうりつせい"
+        }
+      ]
+    },
+    {
+      "slug": "効用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効用",
+          "reading": "こうよう"
+        }
+      ]
+    },
+    {
+      "slug": "利き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "利き",
+          "reading": "きき"
+        },
+        {
+          "word": "効き",
+          "reading": "きき"
+        }
+      ]
+    },
+    {
+      "slug": "功を奏する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "功を奏する",
+          "reading": "こうをそうする"
+        },
+        {
+          "word": "効を奏する",
+          "reading": "こうをそうする"
+        }
+      ]
+    },
+    {
+      "slug": "効果音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効果音",
+          "reading": "こうかおん"
+        }
+      ]
+    },
+    {
+      "slug": "効用最大化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効用最大化",
+          "reading": "こうようさいだいか"
+        }
+      ]
+    },
+    {
+      "slug": "効果抜群",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効果抜群",
+          "reading": "こうかばつぐん"
+        }
+      ]
+    },
+    {
+      "slug": "効率向上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "効率向上",
+          "reading": "こうりつこうじょう"
+        }
+      ]
+    }
   ]
 }

@@ -98,5 +98,255 @@
       "startStroke": 10,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "両親は赤ん坊を審良と名づけた。",
+      "furigana": "[両親|りょう|しん]は[赤|あか]ん[坊|ぼう]を[審良|あきら]と[名|な]づけた。",
+      "translation_zh_CN": "父母给孩子取名“阿基拉”。"
+    },
+    {
+      "content": "審判の判定は覆らない。",
+      "furigana": "[審判|しん|ぱん]の[判定|はん|てい]は[覆|くつがえ]らない。",
+      "translation_zh_CN": "法官判決定讞。"
+    },
+    {
+      "content": "両親は赤ん坊を審良と名づけた。",
+      "furigana": "[両親|りょう|しん]は[赤|あか]ん[坊|ぼう]を[審良|あきら]と[名|な]づけた。",
+      "translation_zh_CN": "父母把他們的嬰兒取名為晃。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "審判",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "審判",
+          "reading": "しんぱん"
+        },
+        {
+          "word": "審判",
+          "reading": "しんばん"
+        }
+      ]
+    },
+    {
+      "slug": "審議",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "審議",
+          "reading": "しんぎ"
+        }
+      ]
+    },
+    {
+      "slug": "審査",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "審査",
+          "reading": "しんさ"
+        }
+      ]
+    },
+    {
+      "slug": "審理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審理",
+          "reading": "しんり"
+        }
+      ]
+    },
+    {
+      "slug": "審判員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審判員",
+          "reading": "しんぱんいん"
+        },
+        {
+          "word": "審判員",
+          "reading": "しんばんいん"
+        }
+      ]
+    },
+    {
+      "slug": "審美眼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審美眼",
+          "reading": "しんびがん"
+        }
+      ]
+    },
+    {
+      "slug": "審査員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審査員",
+          "reading": "しんさいん"
+        }
+      ]
+    },
+    {
+      "slug": "審美",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審美",
+          "reading": "しんび"
+        }
+      ]
+    },
+    {
+      "slug": "詳らか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詳らか",
+          "reading": "つまびらか"
+        },
+        {
+          "word": "詳らか",
+          "reading": "つばひらか"
+        },
+        {
+          "word": "審らか",
+          "reading": "つまびらか"
+        },
+        {
+          "word": "審らか",
+          "reading": "つばひらか"
+        }
+      ]
+    },
+    {
+      "slug": "審判者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審判者",
+          "reading": "しんぱんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "審問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審問",
+          "reading": "しんもん"
+        }
+      ]
+    },
+    {
+      "slug": "審判離婚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審判離婚",
+          "reading": "しんぱんりこん"
+        }
+      ]
+    },
+    {
+      "slug": "審問官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審問官",
+          "reading": "しんもんかん"
+        }
+      ]
+    },
+    {
+      "slug": "審尋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審尋",
+          "reading": "しんじん"
+        },
+        {
+          "word": "審訊",
+          "reading": "しんじん"
+        }
+      ]
+    },
+    {
+      "slug": "審査官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審査官",
+          "reading": "しんさかん"
+        }
+      ]
+    },
+    {
+      "slug": "審判委員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審判委員",
+          "reading": "しんぱんいいん"
+        }
+      ]
+    },
+    {
+      "slug": "審査権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審査権",
+          "reading": "しんさけん"
+        }
+      ]
+    },
+    {
+      "slug": "審判の日",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審判の日",
+          "reading": "しんぱんのひ"
+        }
+      ]
+    },
+    {
+      "slug": "審判官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審判官",
+          "reading": "しんぱんかん"
+        }
+      ]
+    },
+    {
+      "slug": "審判役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "審判役",
+          "reading": "しんぱんやく"
+        }
+      ]
+    }
   ]
 }

@@ -111,5 +111,290 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は返答に窮した。",
+      "furigana": "[私|わたし]は[返答|へん|とう]に[窮|きゅう]した。",
+      "translation_zh_CN": "我一时找不到答案。"
+    },
+    {
+      "content": "トムは言葉に窮した。",
+      "furigana": "トムは[言葉|こと|ば]に[窮|きゅう]した。",
+      "translation_zh_CN": "汤姆哑口无言。"
+    },
+    {
+      "content": "私は言葉に窮した。",
+      "furigana": "[私|わたし]は[言葉|こと|ば]に[窮|きゅう]した。",
+      "translation_zh_CN": "我无言以对。"
+    },
+    {
+      "content": "彼は金に窮していた。",
+      "furigana": "[彼|かれ]は[金|きん]に[窮|きゅう]していた。",
+      "translation_zh_CN": "他缺钱。"
+    },
+    {
+      "content": "彼は言葉に窮した。",
+      "furigana": "[彼|かれ]は[言葉|こと|ば]に[窮|きゅう]した。",
+      "translation_zh_CN": "他无言以对。"
+    },
+    {
+      "content": "結婚してくれと言われたとき、私は言葉に窮した。",
+      "furigana": "[結婚|けっ|こん]してくれと[言|い]われたとき、[私|わたし]は[言葉|こと|ば]に[窮|きゅう]した。",
+      "translation_zh_CN": "当他向我求婚时，我哑口无言。"
+    },
+    {
+      "content": "彼は言葉に窮した。",
+      "furigana": "[彼|かれ]は[言葉|こと|ば]に[窮|きゅう]した。",
+      "translation_zh_CN": "他不知道該怎麼說。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "究極",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "究極",
+          "reading": "きゅうきょく"
+        },
+        {
+          "word": "窮極",
+          "reading": "きゅうきょく"
+        }
+      ]
+    },
+    {
+      "slug": "窮屈",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "窮屈",
+          "reading": "きゅうくつ"
+        }
+      ]
+    },
+    {
+      "slug": "窮乏",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "窮乏",
+          "reading": "きゅうぼう"
+        }
+      ]
+    },
+    {
+      "slug": "窮地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮地",
+          "reading": "きゅうち"
+        }
+      ]
+    },
+    {
+      "slug": "極まる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "極まる",
+          "reading": "きわまる"
+        },
+        {
+          "word": "窮まる",
+          "reading": "きわまる"
+        }
+      ]
+    },
+    {
+      "slug": "極まりない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "極まりない",
+          "reading": "きわまりない"
+        },
+        {
+          "word": "窮まりない",
+          "reading": "きわまりない"
+        },
+        {
+          "word": "極まり無い",
+          "reading": "きわまりない"
+        },
+        {
+          "word": "窮まり無い",
+          "reading": "きわまりない"
+        }
+      ]
+    },
+    {
+      "slug": "窮鼠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮鼠",
+          "reading": "きゅうそ"
+        }
+      ]
+    },
+    {
+      "slug": "窮状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮状",
+          "reading": "きゅうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "極める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "極める",
+          "reading": "きわめる"
+        },
+        {
+          "word": "窮める",
+          "reading": "きわめる"
+        }
+      ]
+    },
+    {
+      "slug": "窮余",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮余",
+          "reading": "きゅうよ"
+        }
+      ]
+    },
+    {
+      "slug": "極み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "極み",
+          "reading": "きわみ"
+        },
+        {
+          "word": "窮み",
+          "reading": "きわみ"
+        }
+      ]
+    },
+    {
+      "slug": "窮鼠猫を噛む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮鼠猫を噛む",
+          "reading": "きゅうそねこをかむ"
+        },
+        {
+          "word": "窮鼠猫をかむ",
+          "reading": "きゅうそねこをかむ"
+        }
+      ]
+    },
+    {
+      "slug": "窮鳥懐に入れば猟師も殺さず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮鳥懐に入れば猟師も殺さず",
+          "reading": "きゅうちょうふところにいればりょうしもころさず"
+        }
+      ]
+    },
+    {
+      "slug": "窮すれば通ず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮すれば通ず",
+          "reading": "きゅうすればつうず"
+        }
+      ]
+    },
+    {
+      "slug": "窮み無き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮みなき",
+          "reading": "きわみなき"
+        },
+        {
+          "word": "窮み無き",
+          "reading": "きわみなき"
+        }
+      ]
+    },
+    {
+      "slug": "窮境",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮境",
+          "reading": "きゅうきょう"
+        }
+      ]
+    },
+    {
+      "slug": "窮する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮する",
+          "reading": "きゅうする"
+        }
+      ]
+    },
+    {
+      "slug": "極まり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "極まり",
+          "reading": "きわまり"
+        },
+        {
+          "word": "窮まり",
+          "reading": "きわまり"
+        }
+      ]
+    },
+    {
+      "slug": "窮屈袋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮屈袋",
+          "reading": "きゅうくつぶくろ"
+        }
+      ]
+    },
+    {
+      "slug": "窮死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窮死",
+          "reading": "きゅうし"
+        }
+      ]
+    }
   ]
 }

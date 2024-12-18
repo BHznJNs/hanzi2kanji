@@ -105,5 +105,337 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "憂いの反面には喜びがあるものだ。",
+      "furigana": "[憂|うれ]いの[反面|はん|めん]には[喜|よろこ]びがあるものだ。",
+      "translation_zh_CN": "悲伤的另一面，也有欢乐。"
+    },
+    {
+      "content": "彼女は憂鬱だった。",
+      "furigana": "[彼女|かの|じょ]は[憂鬱|ゆう|うつ]だった。",
+      "translation_zh_CN": "她感到闷闷不乐的。"
+    },
+    {
+      "content": "今日は、憂鬱だな。",
+      "furigana": "[今日|きょう]は、[憂鬱|ゆう|うつ]だな。",
+      "translation_zh_CN": "我今天的心情不好。"
+    },
+    {
+      "content": "今日は憂鬱な気分だ。",
+      "furigana": "[今日|きょう]は[憂鬱|ゆう|うつ]な[気分|き|ぶん]だ。",
+      "translation_zh_CN": "我今天心情不太好。"
+    },
+    {
+      "content": "備えあれば憂いなし。",
+      "furigana": "[備|そな]えあれば[憂|うれ]いなし。",
+      "translation_zh_CN": "凡事豫則立。"
+    },
+    {
+      "content": "月曜日はいつも憂鬱だ。",
+      "furigana": "[月曜日|げつ|よう|び]はいつも[憂鬱|ゆう|うつ]だ。",
+      "translation_zh_CN": "我每個星期一都覺得很憂鬱。"
+    },
+    {
+      "content": "１日中憂鬱な気分だった。",
+      "furigana": "[１|いち][日|にち][中|じゅう][憂鬱|ゆう|うつ]な[気分|き|ぶん]だった。",
+      "translation_zh_CN": "我一整天都觉得很消沉。"
+    },
+    {
+      "content": "ブライアンは憂鬱そうに見える。",
+      "furigana": "ブライアンは[憂鬱|ゆう|うつ]そうに[見|み]える。",
+      "translation_zh_CN": "Brian看上去很沮丧。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "憂鬱",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "憂鬱",
+          "reading": "ゆううつ"
+        },
+        {
+          "word": "幽鬱",
+          "reading": "ゆううつ"
+        },
+        {
+          "word": "悒鬱",
+          "reading": "ゆううつ"
+        }
+      ]
+    },
+    {
+      "slug": "浮き世",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浮世",
+          "reading": "うきよ"
+        },
+        {
+          "word": "浮き世",
+          "reading": "うきよ"
+        },
+        {
+          "word": "憂き世",
+          "reading": "うきよ"
+        },
+        {
+          "word": "うき世",
+          "reading": "うきよ"
+        },
+        {
+          "word": "憂世",
+          "reading": "うきよ"
+        },
+        {
+          "word": "浮世",
+          "reading": "ふせい"
+        }
+      ]
+    },
+    {
+      "slug": "憂き目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂き目",
+          "reading": "うきめ"
+        },
+        {
+          "word": "憂目",
+          "reading": "うきめ"
+        },
+        {
+          "word": "うき目",
+          "reading": "うきめ"
+        }
+      ]
+    },
+    {
+      "slug": "憂欝症",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂鬱症",
+          "reading": "ゆううつしょう"
+        },
+        {
+          "word": "憂欝症",
+          "reading": "ゆううつしょう"
+        }
+      ]
+    },
+    {
+      "slug": "浮き名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "浮き名",
+          "reading": "うきな"
+        },
+        {
+          "word": "浮名",
+          "reading": "うきな"
+        },
+        {
+          "word": "憂き名",
+          "reading": "うきな"
+        }
+      ]
+    },
+    {
+      "slug": "憂国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂国",
+          "reading": "ゆうこく"
+        }
+      ]
+    },
+    {
+      "slug": "憂慮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂慮",
+          "reading": "ゆうりょ"
+        }
+      ]
+    },
+    {
+      "slug": "憂える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂える",
+          "reading": "うれえる"
+        },
+        {
+          "word": "愁える",
+          "reading": "うれえる"
+        }
+      ]
+    },
+    {
+      "slug": "憂さ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂さ",
+          "reading": "うさ"
+        }
+      ]
+    },
+    {
+      "slug": "憂い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂い",
+          "reading": "うい"
+        }
+      ]
+    },
+    {
+      "slug": "憂い事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂い事",
+          "reading": "うれいごと"
+        },
+        {
+          "word": "憂事",
+          "reading": "うれいごと"
+        }
+      ]
+    },
+    {
+      "slug": "憂鬱質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂鬱質",
+          "reading": "ゆううつしつ"
+        }
+      ]
+    },
+    {
+      "slug": "憂き身",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂き身",
+          "reading": "うきみ"
+        },
+        {
+          "word": "うき身",
+          "reading": "うきみ"
+        },
+        {
+          "word": "憂身",
+          "reading": "うきみ"
+        }
+      ]
+    },
+    {
+      "slug": "憂さを晴らしに",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂さを晴らしに",
+          "reading": "うさをはらしに"
+        },
+        {
+          "word": "うさを晴らしに",
+          "reading": "うさをはらしに"
+        },
+        {
+          "word": "憂さをはらしに",
+          "reading": "うさをはらしに"
+        }
+      ]
+    },
+    {
+      "slug": "憂わしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂わしい",
+          "reading": "うれわしい"
+        }
+      ]
+    },
+    {
+      "slug": "憂さ晴らし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂さ晴らし",
+          "reading": "うさばらし"
+        },
+        {
+          "word": "ウサ晴らし",
+          "reading": "うさばらし"
+        },
+        {
+          "word": "うさ晴らし",
+          "reading": "うさばらし"
+        },
+        {
+          "word": "憂さばらし",
+          "reading": "うさばらし"
+        }
+      ]
+    },
+    {
+      "slug": "憂え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂え",
+          "reading": "うれえ"
+        },
+        {
+          "word": "愁え",
+          "reading": "うれえ"
+        },
+        {
+          "word": "患え",
+          "reading": "うれえ"
+        }
+      ]
+    },
+    {
+      "slug": "憂哭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂哭",
+          "reading": "うきね"
+        }
+      ]
+    },
+    {
+      "slug": "憂い顔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "憂い顔",
+          "reading": "うれいがお"
+        },
+        {
+          "word": "愁い顔",
+          "reading": "うれいがお"
+        }
+      ]
+    }
   ]
 }

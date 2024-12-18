@@ -61,5 +61,66 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鴛鴦茶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴛鴦茶",
+          "reading": "えんおうちゃ"
+        },
+        {
+          "reading": "ユンヨンチャー"
+        }
+      ]
+    },
+    {
+      "slug": "おしどり夫婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "おしどり夫婦",
+          "reading": "おしどりふうふ"
+        },
+        {
+          "word": "鴛鴦夫婦",
+          "reading": "おしどりふうふ"
+        }
+      ]
+    },
+    {
+      "slug": "鴛鴦の契り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴛鴦の契り",
+          "reading": "えんおうのちぎり"
+        }
+      ]
+    },
+    {
+      "slug": "鴛鴦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴛鴦",
+          "reading": "おしどり"
+        },
+        {
+          "word": "鴛鴦",
+          "reading": "えんおう"
+        },
+        {
+          "word": "鴛鴦",
+          "reading": "おし"
+        },
+        {
+          "reading": "オシドリ"
+        }
+      ]
+    }
   ]
 }

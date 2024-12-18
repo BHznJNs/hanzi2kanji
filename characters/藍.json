@@ -68,5 +68,222 @@
       "startStroke": 13,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "髪に藍染めがついてとれないよ！",
+      "furigana": "[髪|かみ]に[藍染|あい|ぞ]めがついてとれないよ！",
+      "translation_zh_CN": "我不能让靛蓝染料粘在我的头发上！"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "襤褸",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "襤褸",
+          "reading": "ぼろ"
+        },
+        {
+          "reading": "ボロ"
+        }
+      ]
+    },
+    {
+      "slug": "藍綬褒章",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍綬褒章",
+          "reading": "らんじゅほうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "藍方石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍方石",
+          "reading": "らんぽうせき"
+        }
+      ]
+    },
+    {
+      "slug": "藍晶石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍晶石",
+          "reading": "らんしょうせき"
+        }
+      ]
+    },
+    {
+      "slug": "藍閃石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍閃石",
+          "reading": "らんせんせき"
+        }
+      ]
+    },
+    {
+      "slug": "藍銅鉱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍銅鉱",
+          "reading": "らんどうこう"
+        }
+      ]
+    },
+    {
+      "slug": "藍染め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍染め",
+          "reading": "あいぞめ"
+        },
+        {
+          "word": "藍染",
+          "reading": "あいぞめ"
+        }
+      ]
+    },
+    {
+      "slug": "藍藻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍藻",
+          "reading": "らんそう"
+        }
+      ]
+    },
+    {
+      "slug": "藍茸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍茸",
+          "reading": "あいたけ"
+        },
+        {
+          "reading": "アイタケ"
+        }
+      ]
+    },
+    {
+      "slug": "藍摺り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍摺り",
+          "reading": "あいずり"
+        },
+        {
+          "word": "藍摺",
+          "reading": "あいずり"
+        }
+      ]
+    },
+    {
+      "slug": "藍墨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍墨",
+          "reading": "あいずみ"
+        }
+      ]
+    },
+    {
+      "slug": "藍海松茶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍海松茶",
+          "reading": "あいみるちゃ"
+        }
+      ]
+    },
+    {
+      "slug": "藍汁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍汁",
+          "reading": "あいしる"
+        },
+        {
+          "word": "藍澱",
+          "reading": "あいしる"
+        }
+      ]
+    },
+    {
+      "slug": "藍染め付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍染め付け",
+          "reading": "あいそめつけ"
+        },
+        {
+          "word": "藍染付け",
+          "reading": "あいそめつけ"
+        }
+      ]
+    },
+    {
+      "slug": "藍玉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍玉",
+          "reading": "あいだま"
+        }
+      ]
+    },
+    {
+      "slug": "藍染芝生茸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍染芝生茸",
+          "reading": "あいぞめしばふたけ"
+        },
+        {
+          "reading": "アイゾメシバフタケ"
+        }
+      ]
+    },
+    {
+      "slug": "藍屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍屋",
+          "reading": "あいや"
+        }
+      ]
+    },
+    {
+      "slug": "藍てん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "藍靛",
+          "reading": "らんてん"
+        }
+      ]
+    }
   ]
 }

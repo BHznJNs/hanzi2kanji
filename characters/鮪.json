@@ -75,5 +75,60 @@
       "startStroke": 13,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鮪包丁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮪包丁",
+          "reading": "まぐろぼうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "鮪釣り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮪釣り",
+          "reading": "まぐろつり"
+        }
+      ]
+    },
+    {
+      "slug": "マグロ丼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "マグロ丼",
+          "reading": "まぐろどん"
+        },
+        {
+          "word": "まぐろ丼",
+          "reading": "まぐろどん"
+        },
+        {
+          "word": "鮪丼",
+          "reading": "まぐろどん"
+        }
+      ]
+    },
+    {
+      "slug": "マグロ女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "マグロ女",
+          "reading": "マグロおんな"
+        },
+        {
+          "word": "鮪女",
+          "reading": "まぐろおんな"
+        }
+      ]
+    }
   ]
 }

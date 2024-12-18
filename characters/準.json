@@ -104,5 +104,282 @@
       "strokes": 2,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "1998年のワールドカップでは、ブラジルは準優勝に終わった。",
+      "furigana": "1998[年|ねん]のワールドカップでは、ブラジルは[準優勝|じゅん|ゆう|しょう]に[終|お]わった。",
+      "translation_zh_CN": "1998年世界杯，巴西队获得亚军。"
+    },
+    {
+      "content": "準備は万端です。",
+      "furigana": "[準備|じゅん|び]は[万端|ばん|たん]です。",
+      "translation_zh_CN": "一切就绪。"
+    },
+    {
+      "content": "準備ができました。",
+      "furigana": "[準備|じゅん|び]ができました。",
+      "translation_zh_CN": "我准备好了。"
+    },
+    {
+      "content": "準備はできましたか？",
+      "furigana": "[準備|じゅん|び]はできましたか？",
+      "translation_zh_CN": "您准备好了吗？"
+    },
+    {
+      "content": "みんな準備はできた？",
+      "furigana": "みんな[準備|じゅん|び]はできた？",
+      "translation_zh_CN": "你們都準備好了嗎?"
+    },
+    {
+      "content": "明日の準備で忙しい。",
+      "furigana": "[明日|あした]の[準備|じゅん|び]で[忙|いそが]しい。",
+      "translation_zh_CN": "我正忙著為明天作準備。"
+    },
+    {
+      "content": "２人とも準備できてる？",
+      "furigana": "[２|][人|にん]とも[準備|じゅん|び]できてる？",
+      "translation_zh_CN": "你们两个人都准备好了吗？"
+    },
+    {
+      "content": "万事準備ができました。",
+      "furigana": "[万事|ばん|じ][準備|じゅん|び]ができました。",
+      "translation_zh_CN": "一切就绪。"
+    },
+    {
+      "content": "準備万端整っています。",
+      "furigana": "[準備|じゅん|び][万端|ばん|たん][整|ととの]っています。",
+      "translation_zh_CN": "都整理好了。"
+    },
+    {
+      "content": "準備できたら電話して。",
+      "furigana": "[準備|じゅん|び]できたら[電話|でん|わ]して。",
+      "translation_zh_CN": "你准备好了的话打电话给我。"
+    },
+    {
+      "content": "食べ物の準備はできてる？",
+      "furigana": "[食|た]べ[物|もの]の[準備|じゅん|び]はできてる？",
+      "translation_zh_CN": "吃的东西准备好了吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "準備",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "準備",
+          "reading": "じゅんび"
+        }
+      ]
+    },
+    {
+      "slug": "準決勝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準決勝",
+          "reading": "じゅんけっしょう"
+        }
+      ]
+    },
+    {
+      "slug": "準ずる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "準ずる",
+          "reading": "じゅんずる"
+        },
+        {
+          "word": "准ずる",
+          "reading": "じゅんずる"
+        }
+      ]
+    },
+    {
+      "slug": "準じる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "準じる",
+          "reading": "じゅんじる"
+        },
+        {
+          "word": "准じる",
+          "reading": "じゅんじる"
+        }
+      ]
+    },
+    {
+      "slug": "準急",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "準急",
+          "reading": "じゅんきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "準備万端",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準備万端",
+          "reading": "じゅんびばんたん"
+        }
+      ]
+    },
+    {
+      "slug": "准教授",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准教授",
+          "reading": "じゅんきょうじゅ"
+        },
+        {
+          "word": "準教授",
+          "reading": "じゅんきょうじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "準備銀行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準備銀行",
+          "reading": "じゅんびぎんこう"
+        }
+      ]
+    },
+    {
+      "slug": "準備運動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準備運動",
+          "reading": "じゅんびうんどう"
+        }
+      ]
+    },
+    {
+      "slug": "準備期間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準備期間",
+          "reading": "じゅんびきかん"
+        }
+      ]
+    },
+    {
+      "slug": "準拠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準拠",
+          "reading": "じゅんきょ"
+        },
+        {
+          "word": "准拠",
+          "reading": "じゅんきょ"
+        }
+      ]
+    },
+    {
+      "slug": "準用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準用",
+          "reading": "じゅんよう"
+        }
+      ]
+    },
+    {
+      "slug": "準備金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準備金",
+          "reading": "じゅんびきん"
+        }
+      ]
+    },
+    {
+      "slug": "準惑星",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準惑星",
+          "reading": "じゅんわくせい"
+        }
+      ]
+    },
+    {
+      "slug": "準州",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準州",
+          "reading": "じゅんしゅう"
+        },
+        {
+          "word": "准州",
+          "reading": "じゅんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "準絶滅危惧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準絶滅危惧",
+          "reading": "じゅんぜつめつきぐ"
+        }
+      ]
+    },
+    {
+      "slug": "準結晶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準結晶",
+          "reading": "じゅんけっしょう"
+        }
+      ]
+    },
+    {
+      "slug": "準同型",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準同型",
+          "reading": "じゅんどうけい"
+        }
+      ]
+    },
+    {
+      "slug": "準優勝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準優勝",
+          "reading": "じゅんゆうしょう"
+        }
+      ]
+    }
   ]
 }

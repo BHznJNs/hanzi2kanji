@@ -110,5 +110,304 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼女はよく働く。",
+      "furigana": "[彼女|かの|じょ]はよく[働|はたら]く。",
+      "translation_zh_CN": "他努力工作。"
+    },
+    {
+      "content": "働きすぎですよ。",
+      "furigana": "[働|はたら]きすぎですよ。",
+      "translation_zh_CN": "你工作太努力了。"
+    },
+    {
+      "content": "一生懸命働いた。",
+      "furigana": "[一生懸命|いっ|しょう|けん|めい][働|はたら]いた。",
+      "translation_zh_CN": "他努力工作。"
+    },
+    {
+      "content": "トムはよく働く。",
+      "furigana": "トムはよく[働|はたら]く。",
+      "translation_zh_CN": "湯姆是個好工人。"
+    },
+    {
+      "content": "どこで働いてるの？",
+      "furigana": "どこで[働|はたら]いてるの？",
+      "translation_zh_CN": "请问你在哪里工作？"
+    },
+    {
+      "content": "今働いています。",
+      "furigana": "[今|いま][働|はたら]いています。",
+      "translation_zh_CN": "我正在工作。"
+    },
+    {
+      "content": "トムは働けない。",
+      "furigana": "トムは[働|はたら]けない。",
+      "translation_zh_CN": "汤姆不能工作了。"
+    },
+    {
+      "content": "働き続けなさい。",
+      "furigana": "[働|はたら]き[続|つづ]けなさい。",
+      "translation_zh_CN": "繼續工作！"
+    },
+    {
+      "content": "昨夜、働いてたの？",
+      "furigana": "[昨夜|ゆう|べ]、[働|はたら]いてたの？",
+      "translation_zh_CN": "你昨晚在工作吗？"
+    },
+    {
+      "content": "彼女は働き続けた。",
+      "furigana": "[彼女|かの|じょ]は[働|はたら]き[続|つづ]けた。",
+      "translation_zh_CN": "她继续工作。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "働く",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "働く",
+          "reading": "はたらく"
+        }
+      ]
+    },
+    {
+      "slug": "働き",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "働き",
+          "reading": "はたらき"
+        }
+      ]
+    },
+    {
+      "slug": "働かせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働かせる",
+          "reading": "はたらかせる"
+        }
+      ]
+    },
+    {
+      "slug": "働き掛ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働きかける",
+          "reading": "はたらきかける"
+        },
+        {
+          "word": "働き掛ける",
+          "reading": "はたらきかける"
+        }
+      ]
+    },
+    {
+      "slug": "働き盛り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き盛り",
+          "reading": "はたらきざかり"
+        },
+        {
+          "word": "働きざかり",
+          "reading": "はたらきざかり"
+        }
+      ]
+    },
+    {
+      "slug": "働かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働かす",
+          "reading": "はたらかす"
+        }
+      ]
+    },
+    {
+      "slug": "働き者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き者",
+          "reading": "はたらきもの"
+        }
+      ]
+    },
+    {
+      "slug": "働き口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き口",
+          "reading": "はたらきぐち"
+        }
+      ]
+    },
+    {
+      "slug": "働き手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き手",
+          "reading": "はたらきて"
+        }
+      ]
+    },
+    {
+      "slug": "働き過ぎる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働きすぎる",
+          "reading": "はたらきすぎる"
+        },
+        {
+          "word": "働き過ぎる",
+          "reading": "はたらきすぎる"
+        }
+      ]
+    },
+    {
+      "slug": "働き過ぎ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働きすぎ",
+          "reading": "はたらきすぎ"
+        },
+        {
+          "word": "働き過ぎ",
+          "reading": "はたらきすぎ"
+        }
+      ]
+    },
+    {
+      "slug": "働き出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き出す",
+          "reading": "はたらきだす"
+        },
+        {
+          "word": "働きだす",
+          "reading": "はたらきだす"
+        }
+      ]
+    },
+    {
+      "slug": "働き振り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き振り",
+          "reading": "はたらきぶり"
+        }
+      ]
+    },
+    {
+      "slug": "働かざる者食うべからず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働かざる者食うべからず",
+          "reading": "はたらかざるものくうべからず"
+        },
+        {
+          "word": "働かざるもの食うべからず",
+          "reading": "はたらかざるものくうべからず"
+        }
+      ]
+    },
+    {
+      "slug": "働き蜂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き蜂",
+          "reading": "はたらきばち"
+        },
+        {
+          "word": "働きバチ",
+          "reading": "はたらきバチ"
+        }
+      ]
+    },
+    {
+      "slug": "働き中毒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き中毒",
+          "reading": "はたらきちゅうどく"
+        }
+      ]
+    },
+    {
+      "slug": "働きがい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働きがい",
+          "reading": "はたらきがい"
+        },
+        {
+          "word": "働き甲斐",
+          "reading": "はたらきがい"
+        }
+      ]
+    },
+    {
+      "slug": "働き方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き方",
+          "reading": "はたらきかた"
+        }
+      ]
+    },
+    {
+      "slug": "働き人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働き人",
+          "reading": "はたらきびと"
+        }
+      ]
+    },
+    {
+      "slug": "働き蟻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "働きアリ",
+          "reading": "はたらきあり"
+        },
+        {
+          "word": "働き蟻",
+          "reading": "はたらきあり"
+        },
+        {
+          "word": "働きあり",
+          "reading": "はたらきあり"
+        }
+      ]
+    }
   ]
 }

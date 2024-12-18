@@ -69,5 +69,376 @@
       "startStroke": 5,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "売っちゃおう。",
+      "furigana": "[売|う]っちゃおう。",
+      "translation_zh_CN": "我们把它卖掉吧。"
+    },
+    {
+      "content": "もう売っちゃったよ。",
+      "furigana": "もう[売|う]っちゃったよ。",
+      "translation_zh_CN": "我已经卖掉了。"
+    },
+    {
+      "content": "イチゴは売ってますか？",
+      "furigana": "イチゴは[売|う]ってますか？",
+      "translation_zh_CN": "你们卖草莓吗？"
+    },
+    {
+      "content": "けんか売ってんの？",
+      "furigana": "けんか[売|う]ってんの？",
+      "translation_zh_CN": "你是在卖打架吗？"
+    },
+    {
+      "content": "その家は売られてしまった。",
+      "furigana": "その[家|いえ]は[売|う]られてしまった。",
+      "translation_zh_CN": "房子已经卖了。"
+    },
+    {
+      "content": "壊れる前に売ってしまわなきゃ。",
+      "furigana": "[壊|こわ]れる[前|まえ]に[売|う]ってしまわなきゃ。",
+      "translation_zh_CN": "我必须在它坏掉之前把它卖掉。"
+    },
+    {
+      "content": "何を売ってるの？",
+      "furigana": "[何|なに]を[売|う]ってるの？",
+      "translation_zh_CN": "你卖什么？"
+    },
+    {
+      "content": "電池は売っていますか。",
+      "furigana": "[電池|でん|ち]は[売|う]っていますか。",
+      "translation_zh_CN": "你们卖电池吗？"
+    },
+    {
+      "content": "彼女は食べ物を売る。",
+      "furigana": "[彼女|かの|じょ]は[食|た]べ[物|もの]を[売|う]る。",
+      "translation_zh_CN": "她卖食物。"
+    },
+    {
+      "content": "卵はスーパーで売られている。",
+      "furigana": "[卵|たまご]はスーパーで[売|う]られている。",
+      "translation_zh_CN": "鸡蛋在超市有卖。"
+    },
+    {
+      "content": "傘が良く売れる。",
+      "furigana": "[傘|かさ]が[良|よ]く[売|う]れる。",
+      "translation_zh_CN": "雨伞卖得好。"
+    },
+    {
+      "content": "彼は果物を売る。",
+      "furigana": "[彼|かれ]は[果物|くだ|もの]を[売|う]る。",
+      "translation_zh_CN": "他卖水果。"
+    },
+    {
+      "content": "君は商売熱心だね。",
+      "furigana": "[君|きみ]は[商売|しょう|ばい][熱心|ねっ|しん]だね。",
+      "translation_zh_CN": "你工作努力。"
+    },
+    {
+      "content": "これ、売り物ですか？",
+      "furigana": "これ、[売|う]り[物|もの]ですか？",
+      "translation_zh_CN": "这是要卖的东西吗？"
+    },
+    {
+      "content": "それは売り物ですか？",
+      "furigana": "それは[売|う]り[物|もの]ですか？",
+      "translation_zh_CN": "这个卖不卖？"
+    },
+    {
+      "content": "みんな売り切れです。",
+      "furigana": "みんな[売|う]り[切|き]れです。",
+      "translation_zh_CN": "賣完了！"
+    },
+    {
+      "content": "彼は家を売ったそうだ。",
+      "furigana": "[彼|かれ]は[家|いえ]を[売|う]ったそうだ。",
+      "translation_zh_CN": "我聽說他賣掉了房子。"
+    },
+    {
+      "content": "切符売り場はどこですか？",
+      "furigana": "[切符|きっ|ぷ][売|う]り[場|ば]はどこですか？",
+      "translation_zh_CN": "售票窗口在哪裡？"
+    },
+    {
+      "content": "彼は新しい商売を始めた。",
+      "furigana": "[彼|かれ]は[新|あたら]しい[商売|しょう|ばい]を[始|はじ]めた。",
+      "translation_zh_CN": "他开始了新的生意。"
+    },
+    {
+      "content": "切符売り場はどこですか。",
+      "furigana": "[切符|きっ|ぷ][売|う]り[場|ば]はどこですか。",
+      "translation_zh_CN": "售票窗口在哪裡？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "売る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "売る",
+          "reading": "うる"
+        }
+      ]
+    },
+    {
+      "slug": "売買",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "売買",
+          "reading": "ばいばい"
+        }
+      ]
+    },
+    {
+      "slug": "売り場",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "売り場",
+          "reading": "うりば"
+        },
+        {
+          "word": "売場",
+          "reading": "うりば"
+        }
+      ]
+    },
+    {
+      "slug": "売れる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "売れる",
+          "reading": "うれる"
+        }
+      ]
+    },
+    {
+      "slug": "売り上げ",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "売り上げ",
+          "reading": "うりあげ"
+        },
+        {
+          "word": "売上",
+          "reading": "うりあげ"
+        }
+      ]
+    },
+    {
+      "slug": "売れ行き",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "売れ行き",
+          "reading": "うれゆき"
+        }
+      ]
+    },
+    {
+      "slug": "売店",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "売店",
+          "reading": "ばいてん"
+        }
+      ]
+    },
+    {
+      "slug": "売り切れる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "売り切れる",
+          "reading": "うりきれる"
+        },
+        {
+          "word": "売切れる",
+          "reading": "うりきれる"
+        }
+      ]
+    },
+    {
+      "slug": "売り切れ",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "売り切れ",
+          "reading": "うりきれ"
+        },
+        {
+          "word": "売切れ",
+          "reading": "うりきれ"
+        },
+        {
+          "word": "売切",
+          "reading": "うりきれ"
+        }
+      ]
+    },
+    {
+      "slug": "売り出す",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "売り出す",
+          "reading": "うりだす"
+        },
+        {
+          "word": "売出す",
+          "reading": "うりだす"
+        }
+      ]
+    },
+    {
+      "slug": "売り出し",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "売り出し",
+          "reading": "うりだし"
+        },
+        {
+          "word": "売出し",
+          "reading": "うりだし"
+        },
+        {
+          "word": "売出",
+          "reading": "うりだし"
+        }
+      ]
+    },
+    {
+      "slug": "売り物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売り物",
+          "reading": "うりもの"
+        },
+        {
+          "word": "売物",
+          "reading": "うりもの"
+        }
+      ]
+    },
+    {
+      "slug": "売却",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売却",
+          "reading": "ばいきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "売り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売り",
+          "reading": "うり"
+        }
+      ]
+    },
+    {
+      "slug": "売り手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売り手",
+          "reading": "うりて"
+        },
+        {
+          "word": "売手",
+          "reading": "うりて"
+        }
+      ]
+    },
+    {
+      "slug": "売り込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売り込む",
+          "reading": "うりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "売り子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売り子",
+          "reading": "うりこ"
+        }
+      ]
+    },
+    {
+      "slug": "売り払う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売り払う",
+          "reading": "うりはらう"
+        }
+      ]
+    },
+    {
+      "slug": "売り渡す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売り渡す",
+          "reading": "うりわたす"
+        },
+        {
+          "word": "売渡す",
+          "reading": "うりわたす"
+        }
+      ]
+    },
+    {
+      "slug": "売名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "売名",
+          "reading": "ばいめい"
+        }
+      ]
+    }
   ]
 }

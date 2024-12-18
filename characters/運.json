@@ -88,5 +88,335 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "運が悪かった？",
+      "furigana": "[運|うん]が[悪|わる]かった？",
+      "translation_zh_CN": "厄运？"
+    },
+    {
+      "content": "運がいいね。",
+      "furigana": "[運|うん]がいいね。",
+      "translation_zh_CN": "祝你好运。"
+    },
+    {
+      "content": "運も実力の内。",
+      "furigana": "[運|うん]も[実力|じつ|りょく]の[内|うち]。",
+      "translation_zh_CN": "运气也是能力的一部分。"
+    },
+    {
+      "content": "自分の運を試してみよう。",
+      "furigana": "[自分|じ|ぶん]の[運|うん]を[試|ため]してみよう。",
+      "translation_zh_CN": "试试你的运气。"
+    },
+    {
+      "content": "運悪く仕事が見つからなかった。",
+      "furigana": "[運悪|うん|わる]く[仕事|し|ごと]が[見|み]つからなかった。",
+      "translation_zh_CN": "不幸的是我找不到工作。"
+    },
+    {
+      "content": "運も人生のうち。",
+      "furigana": "[運|うん]も[人生|じん|せい]のうち。",
+      "translation_zh_CN": "运气也是生活的一部分。"
+    },
+    {
+      "content": "彼は運が良かった。",
+      "furigana": "[彼|かれ]は[運|うん]が[良|よ]かった。",
+      "translation_zh_CN": "他很幸运。"
+    },
+    {
+      "content": "今日は運がついている。",
+      "furigana": "[今日|きょう]は[運|うん]がついている。",
+      "translation_zh_CN": "我今天很幸运。"
+    },
+    {
+      "content": "私は運が良かった。",
+      "furigana": "[私|わたし]は[運|うん]が[良|よ]かった。",
+      "translation_zh_CN": "我很幸运。"
+    },
+    {
+      "content": "彼女は運がいい。",
+      "furigana": "[彼女|かの|じょ]は[運|うん]がいい。",
+      "translation_zh_CN": "她很幸运"
+    },
+    {
+      "content": "幸運を祈ります。",
+      "furigana": "[幸運|こう|うん]を[祈|いの]ります。",
+      "translation_zh_CN": "祝你好運。"
+    },
+    {
+      "content": "安全運転してね。",
+      "furigana": "[安全|あん|ぜん][運転|うん|てん]してね。",
+      "translation_zh_CN": "安全地駕駛。"
+    },
+    {
+      "content": "車は運転できるの？",
+      "furigana": "[車|くるま]は[運転|うん|てん]できるの？",
+      "translation_zh_CN": "你會駕車嗎？"
+    },
+    {
+      "content": "大金を運んでるの？",
+      "furigana": "[大金|たい|きん]を[運|はこ]んでるの？",
+      "translation_zh_CN": "你身上有很多钱吗？"
+    },
+    {
+      "content": "運転したいです。",
+      "furigana": "[運転|うん|てん]したいです。",
+      "translation_zh_CN": "我想開車。"
+    },
+    {
+      "content": "彼は運転が上手だ。",
+      "furigana": "[彼|かれ]は[運転|うん|てん]が[上手|じょう|ず]だ。",
+      "translation_zh_CN": "他擅長駕駛。"
+    },
+    {
+      "content": "彼は運転が下手だ。",
+      "furigana": "[彼|かれ]は[運転|うん|てん]が[下手|へた]だ。",
+      "translation_zh_CN": "他是個糟糕的司機。"
+    },
+    {
+      "content": "私は運が良かった。",
+      "furigana": "[私|わたし]は[運|うん]が[良|よ]かった。",
+      "translation_zh_CN": "我运气很好。"
+    },
+    {
+      "content": "運動は健康にいい。",
+      "furigana": "[運動|うん|どう]は[健康|けん|こう]にいい。",
+      "translation_zh_CN": "做运动有利于健康。"
+    },
+    {
+      "content": "あなたは運がいい。",
+      "furigana": "あなたは[運|うん]がいい。",
+      "translation_zh_CN": "你們很幸運。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "運動",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "運動",
+          "reading": "うんどう"
+        }
+      ]
+    },
+    {
+      "slug": "運河",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "運河",
+          "reading": "うんが"
+        }
+      ]
+    },
+    {
+      "slug": "運ぶ",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "運ぶ",
+          "reading": "はこぶ"
+        }
+      ]
+    },
+    {
+      "slug": "運命",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "運命",
+          "reading": "うんめい"
+        },
+        {
+          "word": "運命",
+          "reading": "さだめ"
+        }
+      ]
+    },
+    {
+      "slug": "運賃",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "運賃",
+          "reading": "うんちん"
+        }
+      ]
+    },
+    {
+      "slug": "運転",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "運転",
+          "reading": "うんてん"
+        }
+      ]
+    },
+    {
+      "slug": "運転手",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "運転手",
+          "reading": "うんてんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "運営",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "運営",
+          "reading": "うんえい"
+        }
+      ]
+    },
+    {
+      "slug": "運搬",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "運搬",
+          "reading": "うんぱん"
+        }
+      ]
+    },
+    {
+      "slug": "運輸",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "運輸",
+          "reading": "うんゆ"
+        }
+      ]
+    },
+    {
+      "slug": "運動場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運動場",
+          "reading": "うんどうじょう"
+        },
+        {
+          "word": "運動場",
+          "reading": "うんどうば"
+        }
+      ]
+    },
+    {
+      "slug": "運動会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運動会",
+          "reading": "うんどうかい"
+        }
+      ]
+    },
+    {
+      "slug": "運転士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運転士",
+          "reading": "うんてんし"
+        }
+      ]
+    },
+    {
+      "slug": "運転免許",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運転免許",
+          "reading": "うんてんめんきょ"
+        }
+      ]
+    },
+    {
+      "slug": "運行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運行",
+          "reading": "うんこう"
+        }
+      ]
+    },
+    {
+      "slug": "運航",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運航",
+          "reading": "うんこう"
+        }
+      ]
+    },
+    {
+      "slug": "運良く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運良く",
+          "reading": "うんよく"
+        },
+        {
+          "word": "運よく",
+          "reading": "うんよく"
+        }
+      ]
+    },
+    {
+      "slug": "運動不足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運動不足",
+          "reading": "うんどうぶそく"
+        }
+      ]
+    },
+    {
+      "slug": "運び出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "運び出す",
+          "reading": "はこびだす"
+        },
+        {
+          "word": "運びだす",
+          "reading": "はこびだす"
+        }
+      ]
+    }
   ]
 }

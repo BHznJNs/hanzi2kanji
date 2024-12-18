@@ -48,7 +48,7 @@
         "achever",
         "finir",
         "excusable",
-        "s\u0027en sortir sans"
+        "s'en sortir sans"
       ]
     },
     {
@@ -107,6 +107,270 @@
       "radical": "二",
       "startStroke": 8,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "これで気が済んだ？",
+      "furigana": "これで[気|き]が[済|す]んだ？",
+      "translation_zh_CN": "你现在高兴吗？"
+    },
+    {
+      "content": "朝食はお済みですか？",
+      "furigana": "[朝食|ちょう|しょく]はお[済|す]みですか？",
+      "translation_zh_CN": "吃完早饭了吗？"
+    },
+    {
+      "content": "夕食はお済みですか。",
+      "furigana": "[夕食|ゆう|しょく]はお[済|す]みですか。",
+      "translation_zh_CN": "你吃晚飯了嗎？"
+    },
+    {
+      "content": "もう仕事は済ませたよ。",
+      "furigana": "もう[仕事|し|ごと]は[済|す]ませたよ。",
+      "translation_zh_CN": "我已经完成了我的工作。"
+    },
+    {
+      "content": "彼は経済学の権威です。",
+      "furigana": "[彼|かれ]は[経済|けい|ざい][学|がく]の[権威|けん|い]です。",
+      "translation_zh_CN": "他是權威的經濟學家。"
+    },
+    {
+      "content": "昼食が済んだとこだよ。",
+      "furigana": "[昼食|ちゅう|しょく]が[済|す]んだとこだよ。",
+      "translation_zh_CN": "我剛吃完了午飯。"
+    },
+    {
+      "content": "もう宿題は済んでるよ。",
+      "furigana": "もう[宿題|しゅく|だい]は[済|す]んでるよ。",
+      "translation_zh_CN": "我已經完成了我的作業。"
+    },
+    {
+      "content": "済んだら戻してください。",
+      "furigana": "[済|す]んだら[戻|もど]してください。",
+      "translation_zh_CN": "你用完了把它放回去。"
+    },
+    {
+      "content": "経済学を専攻しています。",
+      "furigana": "[経済|けい|ざい][学|がく]を[専攻|せん|こう]しています。",
+      "translation_zh_CN": "我專攻經濟學。"
+    },
+    {
+      "content": "済んだことはしかたがない。",
+      "furigana": "[済|す]んだことはしかたがない。",
+      "translation_zh_CN": "覆水難收。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "済み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済み",
+          "reading": "ずみ"
+        },
+        {
+          "word": "済み",
+          "reading": "すみ"
+        },
+        {
+          "word": "済",
+          "reading": "ずみ"
+        },
+        {
+          "word": "済",
+          "reading": "すみ"
+        }
+      ]
+    },
+    {
+      "slug": "済む",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "済む",
+          "reading": "すむ"
+        }
+      ]
+    },
+    {
+      "slug": "済みません",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "済みません",
+          "reading": "すみません"
+        }
+      ]
+    },
+    {
+      "slug": "済ませる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "済ませる",
+          "reading": "すませる"
+        }
+      ]
+    },
+    {
+      "slug": "済まない",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "済まない",
+          "reading": "すまない"
+        }
+      ]
+    },
+    {
+      "slug": "済ます",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "済ます",
+          "reading": "すます"
+        }
+      ]
+    },
+    {
+      "slug": "済州",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済州",
+          "reading": "チェジュ"
+        },
+        {
+          "word": "済州",
+          "reading": "さいしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "済州大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済州大学",
+          "reading": "さいしゅうだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "済度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済度",
+          "reading": "さいど"
+        }
+      ]
+    },
+    {
+      "slug": "済民",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済民",
+          "reading": "さいみん"
+        }
+      ]
+    },
+    {
+      "slug": "済印",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済印",
+          "reading": "すみいん"
+        },
+        {
+          "word": "済み印",
+          "reading": "すみいん"
+        }
+      ]
+    },
+    {
+      "slug": "済世",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済世",
+          "reading": "さいせい"
+        },
+        {
+          "word": "済世",
+          "reading": "せいせい"
+        }
+      ]
+    },
+    {
+      "slug": "済し崩し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なし崩し",
+          "reading": "なしくずし"
+        },
+        {
+          "word": "済し崩し",
+          "reading": "なしくずし"
+        }
+      ]
+    },
+    {
+      "slug": "済南",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済南",
+          "reading": "さいなん"
+        }
+      ]
+    },
+    {
+      "slug": "済まなそう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済まなそう",
+          "reading": "すまなそう"
+        }
+      ]
+    },
+    {
+      "slug": "済まぬ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済まぬ",
+          "reading": "すまぬ"
+        }
+      ]
+    },
+    {
+      "slug": "済物浦条約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "済物浦条約",
+          "reading": "さいもっぽじょうやく"
+        }
+      ]
     }
   ]
 }

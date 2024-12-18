@@ -98,5 +98,247 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "僕は忙しい。",
+      "furigana": "[僕|ぼく]は[忙|いそが]しい。",
+      "translation_zh_CN": "我很忙。"
+    },
+    {
+      "content": "僕は踊れません。",
+      "furigana": "[僕|ぼく]は[踊|おど]れません。",
+      "translation_zh_CN": "我不会跳舞。"
+    },
+    {
+      "content": "僕はやっていない。",
+      "furigana": "[僕|ぼく]はやっていない。",
+      "translation_zh_CN": "我还没做过呢"
+    },
+    {
+      "content": "僕は諦めます。",
+      "furigana": "[僕|ぼく]は[諦|あきら]めます。",
+      "translation_zh_CN": "我放弃。"
+    },
+    {
+      "content": "僕だよ！",
+      "furigana": "[僕|ぼく]だよ！",
+      "translation_zh_CN": "这就是我！"
+    },
+    {
+      "content": "僕は寝たい。",
+      "furigana": "[僕|ぼく]は[寝|ね]たい。",
+      "translation_zh_CN": "我想睡觉了。"
+    },
+    {
+      "content": "僕は注意深い。",
+      "furigana": "[僕|ぼく]は[注意深|ちゅう|い|ぶか]い。",
+      "translation_zh_CN": "我很小心。"
+    },
+    {
+      "content": "僕がやります。",
+      "furigana": "[僕|ぼく]がやります。",
+      "translation_zh_CN": "我会做的。"
+    },
+    {
+      "content": "僕を来させられないよ。",
+      "furigana": "[僕|ぼく]を[来|こ]させられないよ。",
+      "translation_zh_CN": "你不能让我来。"
+    },
+    {
+      "content": "僕は弱虫さ。",
+      "furigana": "[僕|ぼく]は[弱虫|よわ|むし]さ。",
+      "translation_zh_CN": "我是个懦夫。"
+    },
+    {
+      "content": "僕は夜型なんだ。",
+      "furigana": "[僕|ぼく]は[夜|よる][型|がた]なんだ。",
+      "translation_zh_CN": "我是個夜貓子。"
+    },
+    {
+      "content": "僕は中に入ろう。",
+      "furigana": "[僕|ぼく]は[中|なか]に[入|はい]ろう。",
+      "translation_zh_CN": "我會進去。"
+    },
+    {
+      "content": "僕は左利きです。",
+      "furigana": "[僕|ぼく]は[左利|ひだり|き]きです。",
+      "translation_zh_CN": "我是左撇子。"
+    },
+    {
+      "content": "僕は君を信じる。",
+      "furigana": "[僕|ぼく]は[君|きみ]を[信|しん]じる。",
+      "translation_zh_CN": "我相信你。"
+    },
+    {
+      "content": "僕は歌い続けた。",
+      "furigana": "[僕|ぼく]は[歌|うた]い[続|つづ]けた。",
+      "translation_zh_CN": "我繼續唱歌。"
+    },
+    {
+      "content": "僕は家にいるよ。",
+      "furigana": "[僕|ぼく]は[家|いえ]にいるよ。",
+      "translation_zh_CN": "我會待在家裡。"
+    },
+    {
+      "content": "僕はいい気分だ。",
+      "furigana": "[僕|ぼく]はいい[気分|き|ぶん]だ。",
+      "translation_zh_CN": "我感觉很好。"
+    },
+    {
+      "content": "僕の時計はどこだ？",
+      "furigana": "[僕|ぼく]の[時計|と|けい]はどこだ？",
+      "translation_zh_CN": "我的手錶在哪裡？"
+    },
+    {
+      "content": "僕が払っとこう。",
+      "furigana": "[僕|ぼく]が[払|はら]っとこう。",
+      "translation_zh_CN": "我來付錢。"
+    },
+    {
+      "content": "僕はどこにいるの？",
+      "furigana": "[僕|ぼく]はどこにいるの？",
+      "translation_zh_CN": "我在哪裡？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "僕達",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕たち",
+          "reading": "ぼくたち"
+        },
+        {
+          "word": "僕達",
+          "reading": "ぼくたち"
+        }
+      ]
+    },
+    {
+      "slug": "僕ら",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕ら",
+          "reading": "ぼくら"
+        },
+        {
+          "word": "僕等",
+          "reading": "ぼくら"
+        }
+      ]
+    },
+    {
+      "slug": "僕的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕的",
+          "reading": "ぼくてき"
+        }
+      ]
+    },
+    {
+      "slug": "僕婢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕婢",
+          "reading": "ぼくひ"
+        }
+      ]
+    },
+    {
+      "slug": "僕女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕女",
+          "reading": "ぼくおんな"
+        },
+        {
+          "word": "ボク女",
+          "reading": "ぼくおんな"
+        }
+      ]
+    },
+    {
+      "slug": "僕仲間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕仲間",
+          "reading": "ぼくなかま"
+        }
+      ]
+    },
+    {
+      "slug": "僕んち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕んち",
+          "reading": "ぼくんち"
+        },
+        {
+          "word": "僕ん家",
+          "reading": "ぼくんち"
+        },
+        {
+          "reading": "ボクンチ"
+        }
+      ]
+    },
+    {
+      "slug": "僕ん所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕んとこ",
+          "reading": "ぼくんとこ"
+        },
+        {
+          "word": "僕ん所",
+          "reading": "ぼくんとこ"
+        }
+      ]
+    },
+    {
+      "slug": "僕ちん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僕ちん",
+          "reading": "ぼくちん"
+        },
+        {
+          "reading": "ボクチン"
+        }
+      ]
+    },
+    {
+      "slug": "ボクっ娘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ボクっ娘",
+          "reading": "ぼくっこ"
+        },
+        {
+          "word": "ボクっ子",
+          "reading": "ぼくっこ"
+        },
+        {
+          "word": "僕っ娘",
+          "reading": "ぼくっこ"
+        },
+        {
+          "word": "僕っ子",
+          "reading": "ぼくっこ"
+        }
+      ]
+    }
   ]
 }

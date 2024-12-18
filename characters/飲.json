@@ -67,5 +67,312 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼女はビールを常飲し始めた。",
+      "furigana": "[彼女|かの|じょ]はビールを[常飲|じょう|いん]し[始|はじ]めた。",
+      "translation_zh_CN": "她开始定期喝啤酒。"
+    },
+    {
+      "content": "何を飲みますか。",
+      "furigana": "[何|なに]を[飲|の]みますか。",
+      "translation_zh_CN": "你想喝點甚麼？"
+    },
+    {
+      "content": "何か飲みますか。",
+      "furigana": "[何|なに]か[飲|の]みますか。",
+      "translation_zh_CN": "你想要什么喝的吗？"
+    },
+    {
+      "content": "飲んだら乗るな。",
+      "furigana": "[飲|の]んだら[乗|の]るな。",
+      "translation_zh_CN": "酒后别开车 。"
+    },
+    {
+      "content": "お飲み物はいかが？",
+      "furigana": "お[飲|の]み[物|もの]はいかが？",
+      "translation_zh_CN": "你想要什么喝的吗？"
+    },
+    {
+      "content": "コーヒーを飲むの？",
+      "furigana": "コーヒーを[飲|の]むの？",
+      "translation_zh_CN": "你喝咖啡吗？"
+    },
+    {
+      "content": "牛乳は飲めない。",
+      "furigana": "[牛乳|ぎゅう|にゅう]は[飲|の]めない。",
+      "translation_zh_CN": "我不可以喝牛奶。"
+    },
+    {
+      "content": "この水は飲めるの？",
+      "furigana": "この[水|みず]は[飲|の]めるの？",
+      "translation_zh_CN": "這水能喝嗎？"
+    },
+    {
+      "content": "薬はもう飲んだの？",
+      "furigana": "[薬|くすり]はもう[飲|の]んだの？",
+      "translation_zh_CN": "您已经吃过药了吗？"
+    },
+    {
+      "content": "何か飲み物をくれ。",
+      "furigana": "[何|なに]か[飲|の]み[物|もの]をくれ。",
+      "translation_zh_CN": "给我点喝的。"
+    },
+    {
+      "content": "お酒は飲みますか。",
+      "furigana": "お[酒|さけ]は[飲|の]みますか。",
+      "translation_zh_CN": "你喝酒吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "飲む",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "飲む",
+          "reading": "のむ"
+        },
+        {
+          "word": "呑む",
+          "reading": "のむ"
+        }
+      ]
+    },
+    {
+      "slug": "飲み物",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "飲み物",
+          "reading": "のみもの"
+        },
+        {
+          "word": "飲物",
+          "reading": "のみもの"
+        }
+      ]
+    },
+    {
+      "slug": "飲み込む",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "飲み込む",
+          "reading": "のみこむ"
+        },
+        {
+          "word": "呑み込む",
+          "reading": "のみこむ"
+        }
+      ]
+    },
+    {
+      "slug": "飲料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲料",
+          "reading": "いんりょう"
+        }
+      ]
+    },
+    {
+      "slug": "飲料水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲料水",
+          "reading": "いんりょうすい"
+        }
+      ]
+    },
+    {
+      "slug": "飲酒運転",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲酒運転",
+          "reading": "いんしゅうんてん"
+        }
+      ]
+    },
+    {
+      "slug": "飲酒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲酒",
+          "reading": "いんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "飲食",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲食",
+          "reading": "いんしょく"
+        },
+        {
+          "word": "飲食",
+          "reading": "おんじき"
+        }
+      ]
+    },
+    {
+      "slug": "飲み会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲み会",
+          "reading": "のみかい"
+        }
+      ]
+    },
+    {
+      "slug": "飲ませる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲ませる",
+          "reading": "のませる"
+        }
+      ]
+    },
+    {
+      "slug": "飲み干す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲み干す",
+          "reading": "のみほす"
+        },
+        {
+          "word": "飲み乾す",
+          "reading": "のみほす"
+        }
+      ]
+    },
+    {
+      "slug": "飲ます",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲ます",
+          "reading": "のます"
+        }
+      ]
+    },
+    {
+      "slug": "飲み屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲み屋",
+          "reading": "のみや"
+        },
+        {
+          "word": "呑み屋",
+          "reading": "のみや"
+        }
+      ]
+    },
+    {
+      "slug": "飲み食い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲み食い",
+          "reading": "のみくい"
+        }
+      ]
+    },
+    {
+      "slug": "飲用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲用",
+          "reading": "いんよう"
+        }
+      ]
+    },
+    {
+      "slug": "飲み過ぎ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲み過ぎ",
+          "reading": "のみすぎ"
+        },
+        {
+          "word": "飲みすぎ",
+          "reading": "のみすぎ"
+        },
+        {
+          "word": "飲過ぎ",
+          "reading": "のみすぎ"
+        }
+      ]
+    },
+    {
+      "slug": "飲める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲める",
+          "reading": "のめる"
+        }
+      ]
+    },
+    {
+      "slug": "飲ん兵衛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲ん兵衛",
+          "reading": "のんべえ"
+        },
+        {
+          "word": "飲んべえ",
+          "reading": "のんべえ"
+        },
+        {
+          "word": "呑ん兵衛",
+          "reading": "のんべえ"
+        },
+        {
+          "word": "飲兵衛",
+          "reading": "のんべえ"
+        },
+        {
+          "word": "呑兵衛",
+          "reading": "のんべえ"
+        }
+      ]
+    },
+    {
+      "slug": "飲みやすい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飲みやすい",
+          "reading": "のみやすい"
+        },
+        {
+          "word": "飲み易い",
+          "reading": "のみやすい"
+        }
+      ]
+    }
   ]
 }

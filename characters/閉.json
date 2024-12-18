@@ -79,5 +79,344 @@
       "startStroke": 9,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "目を閉じなさい。",
+      "furigana": "[目|め]を[閉|と]じなさい。",
+      "translation_zh_CN": "闭上你的眼睛。"
+    },
+    {
+      "content": "本を閉じなさい。",
+      "furigana": "[本|ほん]を[閉|と]じなさい。",
+      "translation_zh_CN": "合上书。"
+    },
+    {
+      "content": "口を閉じなさい。",
+      "furigana": "[口|くち]を[閉|と]じなさい。",
+      "translation_zh_CN": "闭上你的嘴。"
+    },
+    {
+      "content": "目を閉じないで。",
+      "furigana": "[目|め]を[閉|と]じないで。",
+      "translation_zh_CN": "不要閉上眼睛。"
+    },
+    {
+      "content": "門を閉める時間だ。",
+      "furigana": "[門|もん]を[閉|し]める[時間|じ|かん]だ。",
+      "translation_zh_CN": "是关门的时候了。"
+    },
+    {
+      "content": "目を閉じてごらん。",
+      "furigana": "[目|め]を[閉|と]じてごらん。",
+      "translation_zh_CN": "闭上你的眼睛。"
+    },
+    {
+      "content": "ドアを閉めなさい。",
+      "furigana": "ドアを[閉|し]めなさい。",
+      "translation_zh_CN": "不要把门开着。"
+    },
+    {
+      "content": "彼はドアを閉めた。",
+      "furigana": "[彼|かれ]はドアを[閉|し]めた。",
+      "translation_zh_CN": "他关了门。"
+    },
+    {
+      "content": "トムは目を閉じた。",
+      "furigana": "トムは[目|め]を[閉|と]じた。",
+      "translation_zh_CN": "汤姆闭上了眼睛。"
+    },
+    {
+      "content": "窓が閉まっている。",
+      "furigana": "[窓|まど]が[閉|し]まっている。",
+      "translation_zh_CN": "窗户关着。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "閉める",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "閉める",
+          "reading": "しめる"
+        }
+      ]
+    },
+    {
+      "slug": "閉まる",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "閉まる",
+          "reading": "しまる"
+        },
+        {
+          "word": "締まる",
+          "reading": "しまる"
+        },
+        {
+          "word": "緊まる",
+          "reading": "しまる"
+        }
+      ]
+    },
+    {
+      "slug": "締め切り",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "締め切り",
+          "reading": "しめきり"
+        },
+        {
+          "word": "締切",
+          "reading": "しめきり"
+        },
+        {
+          "word": "締切り",
+          "reading": "しめきり"
+        }
+      ]
+    },
+    {
+      "slug": "閉会",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "閉会",
+          "reading": "へいかい"
+        }
+      ]
+    },
+    {
+      "slug": "締め切る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "締め切る",
+          "reading": "しめきる"
+        },
+        {
+          "word": "閉め切る",
+          "reading": "しめきる"
+        },
+        {
+          "word": "〆切る",
+          "reading": "しめきる"
+        },
+        {
+          "word": "閉切る",
+          "reading": "しめきる"
+        },
+        {
+          "word": "締切る",
+          "reading": "しめきる"
+        }
+      ]
+    },
+    {
+      "slug": "閉鎖",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "閉鎖",
+          "reading": "へいさ"
+        }
+      ]
+    },
+    {
+      "slug": "閉口",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "閉口",
+          "reading": "へいこう"
+        }
+      ]
+    },
+    {
+      "slug": "締め出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め出す",
+          "reading": "しめだす"
+        },
+        {
+          "word": "閉め出す",
+          "reading": "しめだす"
+        }
+      ]
+    },
+    {
+      "slug": "閉店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉店",
+          "reading": "へいてん"
+        }
+      ]
+    },
+    {
+      "slug": "閉ざす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉ざす",
+          "reading": "とざす"
+        },
+        {
+          "word": "鎖す",
+          "reading": "とざす"
+        }
+      ]
+    },
+    {
+      "slug": "閉じこもる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉じこもる",
+          "reading": "とじこもる"
+        },
+        {
+          "word": "閉じ籠もる",
+          "reading": "とじこもる"
+        },
+        {
+          "word": "閉じ篭もる",
+          "reading": "とじこもる"
+        }
+      ]
+    },
+    {
+      "slug": "閉じ込める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉じ込める",
+          "reading": "とじこめる"
+        },
+        {
+          "word": "閉じこめる",
+          "reading": "とじこめる"
+        },
+        {
+          "word": "閉込める",
+          "reading": "とじこめる"
+        }
+      ]
+    },
+    {
+      "slug": "閉じる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "閉じる",
+          "reading": "とじる"
+        }
+      ]
+    },
+    {
+      "slug": "閉校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉校",
+          "reading": "へいこう"
+        }
+      ]
+    },
+    {
+      "slug": "閉山",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉山",
+          "reading": "へいざん"
+        }
+      ]
+    },
+    {
+      "slug": "閉園",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉園",
+          "reading": "へいえん"
+        }
+      ]
+    },
+    {
+      "slug": "閉会式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉会式",
+          "reading": "へいかいしき"
+        }
+      ]
+    },
+    {
+      "slug": "閉会の辞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉会の辞",
+          "reading": "へいかいのじ"
+        },
+        {
+          "word": "閉会の辞",
+          "reading": "へいかいのことば"
+        },
+        {
+          "word": "閉会のことば",
+          "reading": "へいかいのことば"
+        },
+        {
+          "word": "閉会の言葉",
+          "reading": "へいかいのことば"
+        }
+      ]
+    },
+    {
+      "slug": "閉幕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉幕",
+          "reading": "へいまく"
+        }
+      ]
+    },
+    {
+      "slug": "閉塞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閉塞",
+          "reading": "へいそく"
+        }
+      ]
+    }
   ]
 }

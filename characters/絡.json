@@ -36,8 +36,8 @@
       "values": [
         "enlacer",
         "entrelacer",
-        "s\u0027enrouler autour",
-        "s\u0027empêtrer dans"
+        "s'enrouler autour",
+        "s'empêtrer dans"
       ]
     },
     {
@@ -80,6 +80,360 @@
       "radical": "口",
       "startStroke": 9,
       "strokes": 3
+    }
+  ],
+  "sentences": [
+    {
+      "content": "連絡して下さい。",
+      "furigana": "[連絡|れん|らく]して[下|くだ]さい。",
+      "translation_zh_CN": "请联系我。"
+    },
+    {
+      "content": "連絡方法教えて。",
+      "furigana": "[連絡|れん|らく][方法|ほう|ほう][教|おし]えて。",
+      "translation_zh_CN": "我怎么联系你？"
+    },
+    {
+      "content": "連絡を取り合おう。",
+      "furigana": "[連絡|れん|らく]を[取|と]り[合|あ]おう。",
+      "translation_zh_CN": "保持聯絡！"
+    },
+    {
+      "content": "彼に連絡できない。",
+      "furigana": "[彼|かれ]に[連絡|れん|らく]できない。",
+      "translation_zh_CN": "我无法与他联络上。"
+    },
+    {
+      "content": "連絡をちょうだい。",
+      "furigana": "[連絡|れん|らく]をちょうだい。",
+      "translation_zh_CN": "联系我。"
+    },
+    {
+      "content": "トムから連絡あった？",
+      "furigana": "トムから[連絡|れん|らく]あった？",
+      "translation_zh_CN": "汤姆那里有联系过你吗？"
+    },
+    {
+      "content": "連絡してくださいね。",
+      "furigana": "[連絡|れん|らく]してくださいね。",
+      "translation_zh_CN": "请保持联系。"
+    },
+    {
+      "content": "近いうちに連絡します。",
+      "furigana": "[近|ちか]いうちに[連絡|れん|らく]します。",
+      "translation_zh_CN": "我會很快跟你聯絡。"
+    },
+    {
+      "content": "どうやったら連絡取れる？",
+      "furigana": "どうやったら[連絡|れん|らく][取|と]れる？",
+      "translation_zh_CN": "我怎么联系你？"
+    },
+    {
+      "content": "私は両親と連絡を取った。",
+      "furigana": "[私|わたし]は[両親|りょう|しん]と[連絡|れん|らく]を[取|と]った。",
+      "translation_zh_CN": "我跟父母联络了一下。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "絡む",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "絡む",
+          "reading": "からむ"
+        },
+        {
+          "word": "搦む",
+          "reading": "からむ"
+        }
+      ]
+    },
+    {
+      "slug": "絡み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡み",
+          "reading": "からみ"
+        },
+        {
+          "word": "搦み",
+          "reading": "からみ"
+        }
+      ]
+    },
+    {
+      "slug": "絡まる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡まる",
+          "reading": "からまる"
+        }
+      ]
+    },
+    {
+      "slug": "絡み付く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡みつく",
+          "reading": "からみつく"
+        },
+        {
+          "word": "絡み付く",
+          "reading": "からみつく"
+        }
+      ]
+    },
+    {
+      "slug": "絡み合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡み合う",
+          "reading": "からみあう"
+        },
+        {
+          "word": "からみ合う",
+          "reading": "からみあう"
+        }
+      ]
+    },
+    {
+      "slug": "からくり時計",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "からくり時計",
+          "reading": "からくりどけい"
+        },
+        {
+          "word": "からくり時計",
+          "reading": "からくりとけい"
+        },
+        {
+          "word": "絡繰り時計",
+          "reading": "からくりどけい"
+        },
+        {
+          "word": "絡繰り時計",
+          "reading": "からくりとけい"
+        }
+      ]
+    },
+    {
+      "slug": "女郎蜘蛛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "女郎蜘蛛",
+          "reading": "じょろうぐも"
+        },
+        {
+          "word": "絡新婦",
+          "reading": "じょろうぐも"
+        },
+        {
+          "reading": "ジョロウグモ"
+        }
+      ]
+    },
+    {
+      "slug": "絡繰り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡繰り",
+          "reading": "からくり"
+        },
+        {
+          "word": "絡繰",
+          "reading": "からくり"
+        },
+        {
+          "word": "機関",
+          "reading": "からくり"
+        },
+        {
+          "reading": "カラクリ"
+        }
+      ]
+    },
+    {
+      "slug": "搦め手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搦め手",
+          "reading": "からめて"
+        },
+        {
+          "word": "搦め手",
+          "reading": "からめで"
+        },
+        {
+          "word": "からめ手",
+          "reading": "からめて"
+        },
+        {
+          "word": "からめ手",
+          "reading": "からめで"
+        },
+        {
+          "word": "搦手",
+          "reading": "からめて"
+        },
+        {
+          "word": "搦手",
+          "reading": "からめで"
+        },
+        {
+          "word": "絡め手",
+          "reading": "からめて"
+        },
+        {
+          "word": "絡め手",
+          "reading": "からめで"
+        }
+      ]
+    },
+    {
+      "slug": "絡ませる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡ませる",
+          "reading": "からませる"
+        }
+      ]
+    },
+    {
+      "slug": "絡みだす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡みだす",
+          "reading": "からみだす"
+        },
+        {
+          "word": "絡み出す",
+          "reading": "からみだす"
+        }
+      ]
+    },
+    {
+      "slug": "絡める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡める",
+          "reading": "からめる"
+        },
+        {
+          "word": "搦める",
+          "reading": "からめる"
+        }
+      ]
+    },
+    {
+      "slug": "絡げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡げる",
+          "reading": "からげる"
+        },
+        {
+          "word": "紮げる",
+          "reading": "からげる"
+        }
+      ]
+    },
+    {
+      "slug": "絡子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡子",
+          "reading": "らくす"
+        }
+      ]
+    },
+    {
+      "slug": "からくり人形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "からくり人形",
+          "reading": "からくりにんぎょう"
+        },
+        {
+          "word": "絡繰り人形",
+          "reading": "からくりにんぎょう"
+        },
+        {
+          "word": "絡繰人形",
+          "reading": "からくりにんぎょう"
+        },
+        {
+          "word": "機関人形",
+          "reading": "からくりにんぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "絡糸嬢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡糸嬢",
+          "reading": "らくしじょう"
+        }
+      ]
+    },
+    {
+      "slug": "絡まり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡まり",
+          "reading": "からまり"
+        }
+      ]
+    },
+    {
+      "slug": "絡ます",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡ます",
+          "reading": "からます"
+        }
+      ]
+    },
+    {
+      "slug": "絡み酒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡み酒",
+          "reading": "からみざけ"
+        }
+      ]
+    },
+    {
+      "slug": "絡げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絡げ",
+          "reading": "からげ"
+        }
+      ]
     }
   ]
 }

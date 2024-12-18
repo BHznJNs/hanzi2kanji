@@ -84,5 +84,367 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "きっと彼は本性を現わすよ。",
+      "furigana": "きっと[彼|かれ]は[本性|ほん|しょう]を[現|あら]わすよ。",
+      "translation_zh_CN": "我确信他会露出他的真面目。"
+    },
+    {
+      "content": "トムはね、ギャンブルに現を抜かしてるの。",
+      "furigana": "トムはね、ギャンブルに[現|うつつ]を[抜|ぬ]かしてるの。",
+      "translation_zh_CN": "汤姆，你知道，赌得更好。"
+    },
+    {
+      "content": "現段階ではその問題についてコメントできません。",
+      "furigana": "[現段階|げん|だん|かい]ではその[問題|もん|だい]についてコメントできません。",
+      "translation_zh_CN": "我现阶段无法评论此事。"
+    },
+    {
+      "content": "彼は、前の政府に劣らず圧制的な現政府に公然と反抗している。",
+      "furigana": "[彼|かれ]は、[前|まえ]の[政府|せい|ふ]に[劣|おと]らず[圧制的|あっ|せい|てき]な[現政府|げん|せい|ふ]に[公然|こう|ぜん]と[反抗|はん|こう]している。",
+      "translation_zh_CN": "他公开反抗现任政府，其压迫程度并不比前任政府少。"
+    },
+    {
+      "content": "幸雄の驚く顔を見て、ケビンは現段階では作戦成功だと思った。",
+      "furigana": "[幸雄|ゆきお]の[驚|おどろ]く[顔|かお]を[見|み]て、[ケビン|けびん]は[現段階|げんだんかい]では[作戦|さくせん][成功|せいこう]だと[思|おも]った。",
+      "translation_zh_CN": "看到由纪夫一脸惊讶的表情，凯文以为现阶段手术已经成功了。"
+    },
+    {
+      "content": "現金が必要なんだ。",
+      "furigana": "[現金|げん|きん]が[必要|ひつ|よう]なんだ。",
+      "translation_zh_CN": "我需要錢。"
+    },
+    {
+      "content": "これが現住所です。",
+      "furigana": "これが[現住所|げん|じゅう|しょ]です。",
+      "translation_zh_CN": "這是我現在的住址。"
+    },
+    {
+      "content": "彼は現在病院にいる。",
+      "furigana": "[彼|かれ]は[現在|げん|ざい][病院|びょう|いん]にいる。",
+      "translation_zh_CN": "他现在在医院。"
+    },
+    {
+      "content": "虹は自然現象である。",
+      "furigana": "[虹|にじ]は[自然|し|ぜん][現象|げん|しょう]である。",
+      "translation_zh_CN": "彩虹是一種自然現象。"
+    },
+    {
+      "content": "群衆が現場に群がった。",
+      "furigana": "[群衆|ぐん|しゅう]が[現場|げん|ば]に[群|むら]がった。",
+      "translation_zh_CN": "一群人聚集在现场。"
+    },
+    {
+      "content": "夢が実現したんですね。",
+      "furigana": "[夢|ゆめ]が[実現|じつ|げん]したんですね。",
+      "translation_zh_CN": "你的夢想成真了。"
+    },
+    {
+      "content": "彼女は姿を現さなかった。",
+      "furigana": "[彼女|かの|じょ]は[姿|すがた]を[現|あらわ]さなかった。",
+      "translation_zh_CN": "她沒有出現。"
+    },
+    {
+      "content": "警察が事故現場に着いた。",
+      "furigana": "[警察|けい|さつ]が[事故|じ|こ][現場|げん|ば]に[着|つ]いた。",
+      "translation_zh_CN": "警察到达了事故现场。"
+    },
+    {
+      "content": "では、現金で支払います。",
+      "furigana": "では、[現金|げん|きん]で[支払|し|はら]います。",
+      "translation_zh_CN": "我想付现金。"
+    },
+    {
+      "content": "会議室は現在使用中です。",
+      "furigana": "[会議|かい|ぎ][室|しつ]は[現在|げん|ざい][使用|し|よう][中|ちゅう]です。",
+      "translation_zh_CN": "会议室正在使用中。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "現つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "現つ",
+          "reading": "うつつ"
+        },
+        {
+          "word": "現",
+          "reading": "うつつ"
+        }
+      ]
+    },
+    {
+      "slug": "現在",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "現在",
+          "reading": "げんざい"
+        },
+        {
+          "word": "見在",
+          "reading": "げんざい"
+        }
+      ]
+    },
+    {
+      "slug": "現実",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "現実",
+          "reading": "げんじつ"
+        }
+      ]
+    },
+    {
+      "slug": "現金",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "現金",
+          "reading": "げんきん"
+        }
+      ]
+    },
+    {
+      "slug": "現状",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "現状",
+          "reading": "げんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "現象",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "現象",
+          "reading": "げんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "現像",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "現像",
+          "reading": "げんぞう"
+        }
+      ]
+    },
+    {
+      "slug": "現れる",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "現れる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "現われる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "表れる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "表われる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "顕れる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "顕われる",
+          "reading": "あらわれる"
+        }
+      ]
+    },
+    {
+      "slug": "現代",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "現代",
+          "reading": "げんだい"
+        }
+      ]
+    },
+    {
+      "slug": "現場",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "現場",
+          "reading": "げんば"
+        },
+        {
+          "word": "現場",
+          "reading": "げんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "現れ",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "現れ",
+          "reading": "あらわれ"
+        },
+        {
+          "word": "表れ",
+          "reading": "あらわれ"
+        },
+        {
+          "word": "現われ",
+          "reading": "あらわれ"
+        },
+        {
+          "word": "表われ",
+          "reading": "あらわれ"
+        },
+        {
+          "word": "顕れ",
+          "reading": "あらわれ"
+        }
+      ]
+    },
+    {
+      "slug": "現す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "表す",
+          "reading": "あらわす"
+        },
+        {
+          "word": "現す",
+          "reading": "あらわす"
+        },
+        {
+          "word": "表わす",
+          "reading": "あらわす"
+        },
+        {
+          "word": "現わす",
+          "reading": "あらわす"
+        },
+        {
+          "word": "顕す",
+          "reading": "あらわす"
+        }
+      ]
+    },
+    {
+      "slug": "現地",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "現地",
+          "reading": "げんち"
+        }
+      ]
+    },
+    {
+      "slug": "現行",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "現行",
+          "reading": "げんこう"
+        }
+      ]
+    },
+    {
+      "slug": "現行犯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "現行犯",
+          "reading": "げんこうはん"
+        }
+      ]
+    },
+    {
+      "slug": "現代的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "現代的",
+          "reading": "げんだいてき"
+        }
+      ]
+    },
+    {
+      "slug": "現物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "現物",
+          "reading": "げんぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "現役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "現役",
+          "reading": "げんえき"
+        }
+      ]
+    },
+    {
+      "slug": "現職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "現職",
+          "reading": "げんしょく"
+        }
+      ]
+    }
   ]
 }

@@ -81,5 +81,282 @@
       "strokes": 5,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "その地区には猟鳥が多い。",
+      "furigana": "その[地区|ち|く]には[猟鳥|かり|どり]が[多|おお]い。",
+      "translation_zh_CN": "该地区有许多猎鸟。"
+    },
+    {
+      "content": "鹿は昔猟の獲物の主たるものだった。",
+      "furigana": "[鹿|しか]は[昔猟|むかし|かり]の[獲物|え|もの]の[主|しゅ]たるものだった。",
+      "translation_zh_CN": "过去，鹿是狩猎的主要猎物。"
+    },
+    {
+      "content": "猟師は熊の足跡をたどった。",
+      "furigana": "[猟師|りょう|し]は[熊|くま]の[足跡|あし|あと]をたどった。",
+      "translation_zh_CN": "獵人跟著熊的蹤跡。"
+    },
+    {
+      "content": "猟師たちは銃でその象をねらった。",
+      "furigana": "[猟師|りょう|し]たちは[銃|じゅう]でその[象|ぞう]をねらった。",
+      "translation_zh_CN": "猎人们用枪瞄准了大象。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "狩り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狩り",
+          "reading": "かり"
+        },
+        {
+          "word": "狩",
+          "reading": "かり"
+        },
+        {
+          "word": "猟",
+          "reading": "かり"
+        }
+      ]
+    },
+    {
+      "slug": "猟犬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟犬",
+          "reading": "りょうけん"
+        },
+        {
+          "word": "猟犬",
+          "reading": "かりいぬ"
+        }
+      ]
+    },
+    {
+      "slug": "猟師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟師",
+          "reading": "りょうし"
+        }
+      ]
+    },
+    {
+      "slug": "猟銃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟銃",
+          "reading": "りょうじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "狩人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狩人",
+          "reading": "かりゅうど"
+        },
+        {
+          "word": "狩人",
+          "reading": "かりうど"
+        },
+        {
+          "word": "狩人",
+          "reading": "かりびと"
+        },
+        {
+          "word": "猟人",
+          "reading": "かりゅうど"
+        },
+        {
+          "word": "猟人",
+          "reading": "かりうど"
+        },
+        {
+          "word": "猟人",
+          "reading": "かりびと"
+        },
+        {
+          "word": "猟人",
+          "reading": "りょうじん"
+        },
+        {
+          "word": "猟人",
+          "reading": "さつひと"
+        }
+      ]
+    },
+    {
+      "slug": "狩る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狩る",
+          "reading": "かる"
+        },
+        {
+          "word": "猟る",
+          "reading": "かる"
+        }
+      ]
+    },
+    {
+      "slug": "猟鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟鳥",
+          "reading": "りょうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "猟場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟場",
+          "reading": "りょうば"
+        }
+      ]
+    },
+    {
+      "slug": "猟官制",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟官制",
+          "reading": "りょうかんせい"
+        }
+      ]
+    },
+    {
+      "slug": "海獺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "海獺",
+          "reading": "らっこ"
+        },
+        {
+          "word": "猟虎",
+          "reading": "らっこ"
+        },
+        {
+          "word": "海猟",
+          "reading": "らっこ"
+        },
+        {
+          "word": "獺虎",
+          "reading": "らっこ"
+        },
+        {
+          "reading": "ラッコ"
+        }
+      ]
+    },
+    {
+      "slug": "猟奇的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟奇的",
+          "reading": "りょうきてき"
+        }
+      ]
+    },
+    {
+      "slug": "猟具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟具",
+          "reading": "りょうぐ"
+        }
+      ]
+    },
+    {
+      "slug": "猟官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟官",
+          "reading": "りょうかん"
+        }
+      ]
+    },
+    {
+      "slug": "猟友",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟友",
+          "reading": "りょうゆう"
+        }
+      ]
+    },
+    {
+      "slug": "猟官制度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟官制度",
+          "reading": "りょうかんせいど"
+        }
+      ]
+    },
+    {
+      "slug": "猟官運動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟官運動",
+          "reading": "りょうかんうんどう"
+        }
+      ]
+    },
+    {
+      "slug": "猟友会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟友会",
+          "reading": "りょうゆうかい"
+        }
+      ]
+    },
+    {
+      "slug": "猟期",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟期",
+          "reading": "りょうき"
+        },
+        {
+          "word": "猟季",
+          "reading": "りょうき"
+        }
+      ]
+    },
+    {
+      "slug": "猟奇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猟奇",
+          "reading": "りょうき"
+        }
+      ]
+    }
   ]
 }

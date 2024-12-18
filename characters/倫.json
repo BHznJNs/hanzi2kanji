@@ -106,5 +106,128 @@
       "variant": true,
       "part": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "倫理学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理学",
+          "reading": "りんりがく"
+        }
+      ]
+    },
+    {
+      "slug": "倫理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理",
+          "reading": "りんり"
+        }
+      ]
+    },
+    {
+      "slug": "倫理的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理的",
+          "reading": "りんりてき"
+        }
+      ]
+    },
+    {
+      "slug": "倫敦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫敦",
+          "reading": "ロンドン"
+        }
+      ]
+    },
+    {
+      "slug": "倫理委員会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理委員会",
+          "reading": "りんりいいんかい"
+        }
+      ]
+    },
+    {
+      "slug": "倫理性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理性",
+          "reading": "りんりせい"
+        }
+      ]
+    },
+    {
+      "slug": "倫理的宗教",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理的宗教",
+          "reading": "りんりてきしゅうきょう"
+        }
+      ]
+    },
+    {
+      "slug": "倫理的投資",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理的投資",
+          "reading": "りんりてきとうし"
+        }
+      ]
+    },
+    {
+      "slug": "倫理神学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理神学",
+          "reading": "りんりしんがく"
+        }
+      ]
+    },
+    {
+      "slug": "倫理規定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理規定",
+          "reading": "りんりきてい"
+        }
+      ]
+    },
+    {
+      "slug": "倫理観",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫理観",
+          "reading": "りんりかん"
+        }
+      ]
+    },
+    {
+      "slug": "倫社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倫社",
+          "reading": "りんしゃ"
+        }
+      ]
+    }
   ]
 }

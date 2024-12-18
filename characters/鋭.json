@@ -106,5 +106,243 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "ナイフが鋭くない。",
+      "furigana": "ナイフが[鋭|するど]くない。",
+      "translation_zh_CN": "這刀不鋒利。"
+    },
+    {
+      "content": "犬は嗅覚が鋭いのです。",
+      "furigana": "[犬|いぬ]は[嗅覚|きゅう|かく]が[鋭|するど]いのです。",
+      "translation_zh_CN": "狗的嗅觉灵敏。"
+    },
+    {
+      "content": "犬はにおいの感覚が鋭い。",
+      "furigana": "[犬|いぬ]はにおいの[感覚|かん|かく]が[鋭|するど]い。",
+      "translation_zh_CN": "狗的嗅觉灵敏。"
+    },
+    {
+      "content": "突然、胃に鋭い痛みを感じた。",
+      "furigana": "[突然|とつ|ぜん]、[胃|い]に[鋭|するど]い[痛|いた]みを[感|かん]じた。",
+      "translation_zh_CN": "我突然肚痛得要命。"
+    },
+    {
+      "content": "彼女は観察力が鋭いので、写真家として優れている。",
+      "furigana": "[彼女|かの|じょ]は[観察|かん|さつ][力|りょく]が[鋭|するど]いので、[写真|しゃ|しん][家|か]として[優|すぐ]れている。",
+      "translation_zh_CN": "她因为敏锐的观察力，很适合当一名摄影师。"
+    },
+    {
+      "content": "混雑した通りを歩いていたとき、突然鋭い叫び声が聞こえた。",
+      "furigana": "[混雑|こん|ざつ]した[通|とお]りを[歩|ある]いていたとき、[突然|とつ|ぜん][鋭|するど]い[叫|さけ]び[声|ごえ]が[聞|き]こえた。",
+      "translation_zh_CN": "我在人來人往的街道上走著，突然聽見一下尖銳的叫聲。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鋭い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "鋭い",
+          "reading": "するどい"
+        }
+      ]
+    },
+    {
+      "slug": "鋭利",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭利",
+          "reading": "えいり"
+        }
+      ]
+    },
+    {
+      "slug": "鋭敏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭敏",
+          "reading": "えいびん"
+        }
+      ]
+    },
+    {
+      "slug": "鋭意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭意",
+          "reading": "えいい"
+        }
+      ]
+    },
+    {
+      "slug": "鋭角",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭角",
+          "reading": "えいかく"
+        }
+      ]
+    },
+    {
+      "slug": "英才",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "英才",
+          "reading": "えいさい"
+        },
+        {
+          "word": "穎才",
+          "reading": "えいさい"
+        },
+        {
+          "word": "鋭才",
+          "reading": "えいさい"
+        }
+      ]
+    },
+    {
+      "slug": "鋭錐石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭錐石",
+          "reading": "えいすいせき"
+        }
+      ]
+    },
+    {
+      "slug": "鋭角三角形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭角三角形",
+          "reading": "えいかくさんかくけい"
+        },
+        {
+          "word": "鋭角三角形",
+          "reading": "えいかくさんかっけい"
+        }
+      ]
+    },
+    {
+      "slug": "鋭尖形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭尖形",
+          "reading": "えいせんけい"
+        }
+      ]
+    },
+    {
+      "slug": "鋭鋒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭鋒",
+          "reading": "えいほう"
+        }
+      ]
+    },
+    {
+      "slug": "鋭頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭頭",
+          "reading": "えいとう"
+        }
+      ]
+    },
+    {
+      "slug": "鋭形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭形",
+          "reading": "えいけい"
+        }
+      ]
+    },
+    {
+      "slug": "鋭角的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭角的",
+          "reading": "えいかくてき"
+        }
+      ]
+    },
+    {
+      "slug": "鋭先形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭先形",
+          "reading": "えいせんけい"
+        }
+      ]
+    },
+    {
+      "slug": "鋭感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭感",
+          "reading": "えいかん"
+        }
+      ]
+    },
+    {
+      "slug": "鋭兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭兵",
+          "reading": "えいへい"
+        }
+      ]
+    },
+    {
+      "slug": "鋭気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭気",
+          "reading": "えいき"
+        }
+      ]
+    },
+    {
+      "slug": "鋭を挫く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭を挫く",
+          "reading": "えいをくじく"
+        }
+      ]
+    },
+    {
+      "slug": "鋭アクセント",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋭アクセント",
+          "reading": "えいアクセント"
+        }
+      ]
+    }
   ]
 }

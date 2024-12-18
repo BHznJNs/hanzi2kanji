@@ -90,5 +90,330 @@
       "startStroke": 10,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "２０％増量って書いているとつい手が出ない？",
+      "furigana": "２０[％増量|ぱーせんと|ぞう|りょう]って[書|か]いているとつい[手|て]が[出|で]ない？",
+      "translation_zh_CN": "当你看到20%的涨幅时，你会忍不住，对吧？"
+    },
+    {
+      "content": "この新たな投資が利益増につながるだろう。",
+      "furigana": "この[新|あら]たな[投資|とう|し]が[利益増|り|えき|ぞう]につながるだろう。",
+      "translation_zh_CN": "这项新投资将带来利润增加。"
+    },
+    {
+      "content": "今月の鉄鋼の生産は、先月より２％増になるだろう。",
+      "furigana": "[今月|こん|げつ]の[鉄鋼|てっ|こう]の[生産|せい|さん]は、[先月|せん|げつ]より２[％増|ぱーせんと|ぞう]になるだろう。",
+      "translation_zh_CN": "本月钢铁产量将比上月增加2%。"
+    },
+    {
+      "content": "指標は前月比４％増の１２０．５に上昇した。",
+      "furigana": "[指標|し|ひょう]は[前月比|ぜん|げつ|ひ]４[％増|ぱーせんと|ぞう]の１２０．５に[上昇|じょう|しょう]した。",
+      "translation_zh_CN": "该指数升至120.5，环比上涨4%。"
+    },
+    {
+      "content": "体重が増えたんだ。",
+      "furigana": "[体重|たい|じゅう]が[増|ふ]えたんだ。",
+      "translation_zh_CN": "我增加了體重。"
+    },
+    {
+      "content": "人口は着実に増えていた。",
+      "furigana": "[人口|じん|こう]は[着実|ちゃく|じつ]に[増|ふ]えていた。",
+      "translation_zh_CN": "人口穩定地增加。"
+    },
+    {
+      "content": "旅行会社の収益が急増した。",
+      "furigana": "[旅行|りょ|こう][会社|かい|しゃ]の[収益|しゅう|えき]が[急増|きゅう|ぞう]した。",
+      "translation_zh_CN": "旅行社的利润猛涨。"
+    },
+    {
+      "content": "日増しに暖かくなっている。",
+      "furigana": "[日増|ひ|ま]しに[暖|あたた]かくなっている。",
+      "translation_zh_CN": "天日渐回暖。"
+    },
+    {
+      "content": "７月の工業生産は急増した。",
+      "furigana": "[７月|しちがつ]の[工業|こう|ぎょう][生産|せい|さん]は[急増|きゅう|ぞう]した。",
+      "translation_zh_CN": "7月份工业生产大幅增长。"
+    },
+    {
+      "content": "最近、体重が増えちゃった。",
+      "furigana": "[最近|さい|きん]、[体重|たい|じゅう]が[増|ふ]えちゃった。",
+      "translation_zh_CN": "我最近胖了。"
+    },
+    {
+      "content": "人口はどんどん増加していた。",
+      "furigana": "[人口|じん|こう]はどんどん[増加|ぞう|か]していた。",
+      "translation_zh_CN": "人口穩定地增加。"
+    },
+    {
+      "content": "１１月に入ると日増しに寒くなる。",
+      "furigana": "[１１月|じゅういちがつ]に[入|はい]ると[日増|ひ|ま]しに[寒|さむ]くなる。",
+      "translation_zh_CN": "到了十一月，天就开始逐渐变凉了。"
+    },
+    {
+      "content": "日に日に暑さが増してきている。",
+      "furigana": "[日|ひ]に[日|ひ]に[暑|あつ]さが[増|ま]してきている。",
+      "translation_zh_CN": "一天天热起来了。"
+    },
+    {
+      "content": "今日は、いつにも増して忙しい。",
+      "furigana": "[今日|きょう]は、いつにも[増|ま]して[忙|いそが]しい。",
+      "translation_zh_CN": "今天比平时还忙。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "増える",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "増える",
+          "reading": "ふえる"
+        },
+        {
+          "word": "殖える",
+          "reading": "ふえる"
+        }
+      ]
+    },
+    {
+      "slug": "増加",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "増加",
+          "reading": "ぞうか"
+        }
+      ]
+    },
+    {
+      "slug": "益々",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "益々",
+          "reading": "ますます"
+        },
+        {
+          "word": "増々",
+          "reading": "ますます"
+        },
+        {
+          "word": "益益",
+          "reading": "ますます"
+        },
+        {
+          "word": "増す増す",
+          "reading": "ますます"
+        },
+        {
+          "word": "増増",
+          "reading": "ますます"
+        },
+        {
+          "word": "益",
+          "reading": "ますます"
+        }
+      ]
+    },
+    {
+      "slug": "増す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "増す",
+          "reading": "ます"
+        },
+        {
+          "word": "益す",
+          "reading": "ます"
+        }
+      ]
+    },
+    {
+      "slug": "増大",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "増大",
+          "reading": "ぞうだい"
+        }
+      ]
+    },
+    {
+      "slug": "殖やす",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "増やす",
+          "reading": "ふやす"
+        },
+        {
+          "word": "殖やす",
+          "reading": "ふやす"
+        }
+      ]
+    },
+    {
+      "slug": "増し",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "増し",
+          "reading": "まし"
+        },
+        {
+          "reading": "マシ"
+        }
+      ]
+    },
+    {
+      "slug": "増進",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "増進",
+          "reading": "ぞうしん"
+        }
+      ]
+    },
+    {
+      "slug": "増強",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "増強",
+          "reading": "ぞうきょう"
+        }
+      ]
+    },
+    {
+      "slug": "況して",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "況して",
+          "reading": "まして"
+        },
+        {
+          "word": "増して",
+          "reading": "まして"
+        }
+      ]
+    },
+    {
+      "slug": "増税",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増税",
+          "reading": "ぞうぜい"
+        }
+      ]
+    },
+    {
+      "slug": "増水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増水",
+          "reading": "ぞうすい"
+        }
+      ]
+    },
+    {
+      "slug": "増設",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増設",
+          "reading": "ぞうせつ"
+        }
+      ]
+    },
+    {
+      "slug": "増発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増発",
+          "reading": "ぞうはつ"
+        }
+      ]
+    },
+    {
+      "slug": "増額",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増額",
+          "reading": "ぞうがく"
+        }
+      ]
+    },
+    {
+      "slug": "増量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増量",
+          "reading": "ぞうりょう"
+        }
+      ]
+    },
+    {
+      "slug": "増配",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増配",
+          "reading": "ぞうはい"
+        }
+      ]
+    },
+    {
+      "slug": "増援",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増援",
+          "reading": "ぞうえん"
+        }
+      ]
+    },
+    {
+      "slug": "増築",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "増築",
+          "reading": "ぞうちく"
+        }
+      ]
+    }
   ]
 }

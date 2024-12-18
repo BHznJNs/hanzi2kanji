@@ -76,5 +76,340 @@
       "startStroke": 4,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "値は下がらないでしょう。",
+      "furigana": "[値|ね]は[下|さ]がらないでしょう。",
+      "translation_zh_CN": "价值不会下降。"
+    },
+    {
+      "content": "コレステロール値が上がってきています。",
+      "furigana": "コレステロール[値|ち]が[上|あ]がってきています。",
+      "translation_zh_CN": "我的胆固醇水平正在上升。"
+    },
+    {
+      "content": "コレステロール値が高いのです。",
+      "furigana": "コレステロール[値|ち]が[高|たか]いのです。",
+      "translation_zh_CN": "我的胆固醇水平很高。"
+    },
+    {
+      "content": "コレステロール値が高いんだよ。",
+      "furigana": "コレステロール[値|ち]が[高|たか]いんだよ。",
+      "translation_zh_CN": "我的胆固醇水平很高。"
+    },
+    {
+      "content": "この本はもっと安い値で買った。",
+      "furigana": "この[本|ほん]はもっと[安|やす]い[値|ね]で[買|か]った。",
+      "translation_zh_CN": "我以更便宜的价格买了这本书。"
+    },
+    {
+      "content": "キャベツは生産過剰で値をくずした。",
+      "furigana": "キャベツは[生産過剰|せい|さん|か|じょう]で[値|ね]をくずした。",
+      "translation_zh_CN": "由于生产过剩，卷心菜价格下跌。"
+    },
+    {
+      "content": "君が僕の人生を生きるに値させる。",
+      "furigana": "[君|きみ]が[僕|ぼく]の[人生|じん|せい]を[生|い]きるに[値|あたい]させる。",
+      "translation_zh_CN": "你让我的生活变得有价值。"
+    },
+    {
+      "content": "ほかに値をつける人はいませんか。",
+      "furigana": "ほかに[値|ね]をつける[人|ひと]はいませんか。",
+      "translation_zh_CN": "还有人出价吗？"
+    },
+    {
+      "content": "今日では、手作りの商品の値が高い。",
+      "furigana": "[今日|きょう]では、[手作|て|づく]りの[商品|しょう|ひん]の[値|ね]が[高|たか]い。",
+      "translation_zh_CN": "如今，手工制品受到高度重视。"
+    },
+    {
+      "content": "円がドルに対して値を下げる見込みだ。",
+      "furigana": "[円|えん]がドルに[対|たい]して[値|ね]を[下|さ]げる[見込|み|こ]みだ。",
+      "translation_zh_CN": "预计日元兑美元将贬值。"
+    },
+    {
+      "content": "値段が高すぎです。",
+      "furigana": "[値段|ね|だん]が[高|たか]すぎです。",
+      "translation_zh_CN": "太贵了吧！"
+    },
+    {
+      "content": "米の値段が下がった。",
+      "furigana": "[米|べい]の[値段|ね|だん]が[下|さ]がった。",
+      "translation_zh_CN": "米价下跌了。"
+    },
+    {
+      "content": "値段は聞きましたか。",
+      "furigana": "[値段|ね|だん]は[聞|き]きましたか。",
+      "translation_zh_CN": "你問了價錢嗎？"
+    },
+    {
+      "content": "値段はいくらですか。",
+      "furigana": "[値段|ね|だん]はいくらですか。",
+      "translation_zh_CN": "多少錢？"
+    },
+    {
+      "content": "覚える価値さえない。",
+      "furigana": "[覚|おぼ]える[価値|か|ち]さえない。",
+      "translation_zh_CN": "不值得去記。"
+    },
+    {
+      "content": "卵の値段があがっている。",
+      "furigana": "[卵|たまご]の[値段|ね|だん]があがっている。",
+      "translation_zh_CN": "蛋的價格正在上漲。"
+    },
+    {
+      "content": "野菜の値段は日々変わる。",
+      "furigana": "[野菜|や|さい]の[値段|ね|だん]は[日々|ひび][変|か]わる。",
+      "translation_zh_CN": "蔬菜的價格每天在變。"
+    },
+    {
+      "content": "日用品の値段が上がった。",
+      "furigana": "[日|にち][用品|よう|ひん]の[値段|ね|だん]が[上|あ]がった。",
+      "translation_zh_CN": "日常用品變得愈加貴了。"
+    },
+    {
+      "content": "尋ねるだけの価値がある。",
+      "furigana": "[尋|たず]ねるだけの[価値|か|ち]がある。",
+      "translation_zh_CN": "我觉得这值得一问。"
+    },
+    {
+      "content": "この本は読む価値がない。",
+      "furigana": "この[本|ほん]は[読|よ]む[価値|か|ち]がない。",
+      "translation_zh_CN": "這本書不值得一讀。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "値段",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "word": "直段",
+          "reading": "ねだん"
+        }
+      ]
+    },
+    {
+      "slug": "値引き",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "値引き",
+          "reading": "ねびき"
+        },
+        {
+          "word": "値引",
+          "reading": "ねびき"
+        }
+      ]
+    },
+    {
+      "slug": "値する",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "値する",
+          "reading": "あたいする"
+        },
+        {
+          "word": "価する",
+          "reading": "あたいする"
+        }
+      ]
+    },
+    {
+      "slug": "値打ち",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "値打ち",
+          "reading": "ねうち"
+        },
+        {
+          "word": "値打",
+          "reading": "ねうち"
+        }
+      ]
+    },
+    {
+      "slug": "値上げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値上げ",
+          "reading": "ねあげ"
+        },
+        {
+          "word": "値上",
+          "reading": "ねあげ"
+        }
+      ]
+    },
+    {
+      "slug": "値上がり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値上がり",
+          "reading": "ねあがり"
+        },
+        {
+          "word": "値上り",
+          "reading": "ねあがり"
+        }
+      ]
+    },
+    {
+      "slug": "値下げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値下げ",
+          "reading": "ねさげ"
+        },
+        {
+          "word": "値下",
+          "reading": "ねさげ"
+        }
+      ]
+    },
+    {
+      "slug": "値下がり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値下がり",
+          "reading": "ねさがり"
+        }
+      ]
+    },
+    {
+      "slug": "値切る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値切る",
+          "reading": "ねぎる"
+        },
+        {
+          "word": "直切る",
+          "reading": "ねぎる"
+        }
+      ]
+    },
+    {
+      "slug": "値崩れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値崩れ",
+          "reading": "ねくずれ"
+        }
+      ]
+    },
+    {
+      "slug": "値札",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値札",
+          "reading": "ねふだ"
+        }
+      ]
+    },
+    {
+      "slug": "値幅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値幅",
+          "reading": "ねはば"
+        },
+        {
+          "word": "値巾",
+          "reading": "ねはば"
+        }
+      ]
+    },
+    {
+      "slug": "値上り益",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値上り益",
+          "reading": "ねあがりえき"
+        }
+      ]
+    },
+    {
+      "slug": "値動き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値動き",
+          "reading": "ねうごき"
+        }
+      ]
+    },
+    {
+      "slug": "値頃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値ごろ",
+          "reading": "ねごろ"
+        },
+        {
+          "word": "値頃",
+          "reading": "ねごろ"
+        }
+      ]
+    },
+    {
+      "slug": "価千金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値千金",
+          "reading": "あたいせんきん"
+        },
+        {
+          "word": "価千金",
+          "reading": "あたいせんきん"
+        }
+      ]
+    },
+    {
+      "slug": "値鞘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "値鞘",
+          "reading": "ねざや"
+        },
+        {
+          "word": "値ザヤ",
+          "reading": "ねざや"
+        },
+        {
+          "word": "値ざや",
+          "reading": "ねざや"
+        }
+      ]
+    }
   ]
 }

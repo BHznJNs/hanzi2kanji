@@ -82,5 +82,264 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "鮎漁が解禁になった。",
+      "furigana": "[鮎漁|あゆ|りょう]が[解禁|かい|きん]になった。",
+      "translation_zh_CN": "香鱼捕捞禁令已经解除。"
+    },
+    {
+      "content": "鮎漁の解禁日に合わせて漁が始まることが多い。",
+      "furigana": "[鮎漁|あゆ|りょう]の[解禁日|かい|きん|び]に[合|あ]わせて[漁|りょう]が[始|はじ]まることが[多|おお]い。",
+      "translation_zh_CN": "钓鱼通常在香鱼捕捞季节开始的当天开始。"
+    },
+    {
+      "content": "トムは小さな漁村に住んでいた。",
+      "furigana": "トムは[小|ちい]さな[漁村|ぎょ|そん]に[住|す]んでいた。",
+      "translation_zh_CN": "汤姆住在一个小渔村。"
+    },
+    {
+      "content": "我々はこの湾内で漁獲する特権を与えられた。",
+      "furigana": "[我々|われわれ]はこの[湾内|わん|ない]で[漁獲|ぎょ|かく]する[特権|とっ|けん]を[与|あた]えられた。",
+      "translation_zh_CN": "我们得到了在这个海湾内捕鱼的特权。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "漁師",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "漁師",
+          "reading": "りょうし"
+        }
+      ]
+    },
+    {
+      "slug": "漁業",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "漁業",
+          "reading": "ぎょぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "漁船",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "漁船",
+          "reading": "ぎょせん"
+        }
+      ]
+    },
+    {
+      "slug": "漁獲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁獲",
+          "reading": "ぎょかく"
+        }
+      ]
+    },
+    {
+      "slug": "漁る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁る",
+          "reading": "あさる"
+        },
+        {
+          "word": "漁る",
+          "reading": "すなどる"
+        },
+        {
+          "word": "漁る",
+          "reading": "いさる"
+        }
+      ]
+    },
+    {
+      "slug": "漁村",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "漁村",
+          "reading": "ぎょそん"
+        }
+      ]
+    },
+    {
+      "slug": "漁夫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁夫",
+          "reading": "ぎょふ"
+        },
+        {
+          "word": "漁父",
+          "reading": "ぎょふ"
+        }
+      ]
+    },
+    {
+      "slug": "漁獲量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁獲量",
+          "reading": "ぎょかくりょう"
+        }
+      ]
+    },
+    {
+      "slug": "漁火",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁火",
+          "reading": "ぎょか"
+        }
+      ]
+    },
+    {
+      "slug": "漁具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁具",
+          "reading": "ぎょぐ"
+        }
+      ]
+    },
+    {
+      "slug": "漁港",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁港",
+          "reading": "ぎょこう"
+        }
+      ]
+    },
+    {
+      "slug": "漁民",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁民",
+          "reading": "ぎょみん"
+        }
+      ]
+    },
+    {
+      "slug": "漁場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁場",
+          "reading": "ぎょじょう"
+        },
+        {
+          "word": "漁場",
+          "reading": "ぎょば"
+        },
+        {
+          "word": "漁場",
+          "reading": "りょうば"
+        }
+      ]
+    },
+    {
+      "slug": "漁期",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁期",
+          "reading": "ぎょき"
+        },
+        {
+          "word": "漁期",
+          "reading": "りょうき"
+        }
+      ]
+    },
+    {
+      "slug": "漁夫の利",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁夫の利",
+          "reading": "ぎょふのり"
+        },
+        {
+          "word": "漁夫の利",
+          "reading": "ぎょほのり"
+        },
+        {
+          "word": "漁父の利",
+          "reading": "ぎょふのり"
+        },
+        {
+          "word": "漁父の利",
+          "reading": "ぎょほのり"
+        }
+      ]
+    },
+    {
+      "slug": "漁労",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁労",
+          "reading": "ぎょろう"
+        },
+        {
+          "word": "漁撈",
+          "reading": "ぎょろう"
+        }
+      ]
+    },
+    {
+      "slug": "漁網",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁網",
+          "reading": "ぎょもう"
+        },
+        {
+          "word": "魚網",
+          "reading": "ぎょもう"
+        }
+      ]
+    },
+    {
+      "slug": "漁り猫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漁り猫",
+          "reading": "すなどりねこ"
+        },
+        {
+          "reading": "スナドリネコ"
+        }
+      ]
+    }
   ]
 }

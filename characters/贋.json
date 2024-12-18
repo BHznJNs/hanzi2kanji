@@ -80,5 +80,212 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "それは贋の真珠にすぎない。",
+      "furigana": "それは[贋|にせ]の[真珠|しん|じゅ]にすぎない。",
+      "translation_zh_CN": "这只是一颗假珍珠。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "偽物",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "偽物",
+          "reading": "にせもの"
+        },
+        {
+          "word": "偽物",
+          "reading": "にせもん"
+        },
+        {
+          "word": "贋物",
+          "reading": "にせもの"
+        },
+        {
+          "word": "贋物",
+          "reading": "にせもん"
+        },
+        {
+          "word": "偽物",
+          "reading": "ぎぶつ"
+        },
+        {
+          "word": "贋物",
+          "reading": "がんぶつ"
+        },
+        {
+          "reading": "ニセモノ"
+        }
+      ]
+    },
+    {
+      "slug": "贋作",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贋作",
+          "reading": "がんさく"
+        }
+      ]
+    },
+    {
+      "slug": "贋札",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽札",
+          "reading": "にせさつ"
+        },
+        {
+          "word": "贋札",
+          "reading": "にせさつ"
+        }
+      ]
+    },
+    {
+      "slug": "贋金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贋金",
+          "reading": "にせがね"
+        },
+        {
+          "word": "偽金",
+          "reading": "にせがね"
+        }
+      ]
+    },
+    {
+      "slug": "紛い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紛い",
+          "reading": "まがい"
+        },
+        {
+          "word": "擬い",
+          "reading": "まがい"
+        },
+        {
+          "word": "贋い",
+          "reading": "まがい"
+        }
+      ]
+    },
+    {
+      "slug": "贋首",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贋首",
+          "reading": "にせくび"
+        },
+        {
+          "word": "偽首",
+          "reading": "にせくび"
+        }
+      ]
+    },
+    {
+      "slug": "贋作者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贋作者",
+          "reading": "がんさくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "偽者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽者",
+          "reading": "にせもの"
+        },
+        {
+          "word": "贋者",
+          "reading": "にせもの"
+        }
+      ]
+    },
+    {
+      "slug": "贋造",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贋造",
+          "reading": "がんぞう"
+        }
+      ]
+    },
+    {
+      "slug": "偽印",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽印",
+          "reading": "ぎいん"
+        },
+        {
+          "word": "偽印",
+          "reading": "にせいん"
+        },
+        {
+          "word": "贋印",
+          "reading": "にせいん"
+        }
+      ]
+    },
+    {
+      "slug": "贋手紙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偽手紙",
+          "reading": "にせてがみ"
+        },
+        {
+          "word": "ニセ手紙",
+          "reading": "にせてがみ"
+        },
+        {
+          "word": "贋手紙",
+          "reading": "にせてがみ"
+        }
+      ]
+    },
+    {
+      "slug": "贋造紙幣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贋造紙幣",
+          "reading": "がんぞうしへい"
+        }
+      ]
+    },
+    {
+      "slug": "贋アカシア",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贋アカシア",
+          "reading": "にせアカシア"
+        },
+        {
+          "reading": "ニセアカシア"
+        }
+      ]
+    }
   ]
 }

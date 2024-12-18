@@ -69,5 +69,157 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "鋤は鋤と呼べ。",
+      "furigana": "[鋤|すき]は[鋤|すき]と[呼|よ]べ。",
+      "translation_zh_CN": "犁称为犁。"
+    },
+    {
+      "content": "農家の人達は鋤で土を耕す。",
+      "furigana": "[農家|のう|か]の[人達|ひと|たち]は[鋤|すき]で[土|ど]を[耕|たがや]す。",
+      "translation_zh_CN": "农民用犁耕地。"
+    },
+    {
+      "content": "二つのゆりかごよりも、一つの鋤を動かしているほうがよい。",
+      "furigana": "[二|ふた]つのゆりかごよりも、[一|ひと]つの[鋤|すき]を[動|うご]かしているほうがよい。",
+      "translation_zh_CN": "一台犁运行比两个摇架运行要好。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "すき焼き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "すき焼き",
+          "reading": "すきやき"
+        },
+        {
+          "word": "すき焼",
+          "reading": "すきやき"
+        },
+        {
+          "word": "鋤焼き",
+          "reading": "すきやき"
+        },
+        {
+          "word": "鋤焼",
+          "reading": "すきやき"
+        },
+        {
+          "word": "寿喜焼",
+          "reading": "すきやき"
+        }
+      ]
+    },
+    {
+      "slug": "鋤鼻器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋤鼻器",
+          "reading": "じょびき"
+        }
+      ]
+    },
+    {
+      "slug": "鋤骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋤骨",
+          "reading": "じょこつ"
+        }
+      ]
+    },
+    {
+      "slug": "鋤く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋤く",
+          "reading": "すく"
+        }
+      ]
+    },
+    {
+      "slug": "鋤鍬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋤鍬",
+          "reading": "すきくわ"
+        },
+        {
+          "word": "鋤鍬",
+          "reading": "すきとくわ"
+        }
+      ]
+    },
+    {
+      "slug": "鋤簾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋤簾",
+          "reading": "じょれん"
+        }
+      ]
+    },
+    {
+      "slug": "鋤き返す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋤き返す",
+          "reading": "すきかえす"
+        },
+        {
+          "word": "鋤返す",
+          "reading": "すきかえす"
+        },
+        {
+          "word": "すき返す",
+          "reading": "すきかえす"
+        }
+      ]
+    },
+    {
+      "slug": "鋤足蛙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋤足蛙",
+          "reading": "すきあしがえる"
+        },
+        {
+          "reading": "スキアシガエル"
+        }
+      ]
+    },
+    {
+      "slug": "鋤き起こす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋤き起こす",
+          "reading": "すきおこす"
+        },
+        {
+          "word": "鋤き起す",
+          "reading": "すきおこす"
+        },
+        {
+          "word": "鋤起こす",
+          "reading": "すきおこす"
+        },
+        {
+          "word": "鋤起す",
+          "reading": "すきおこす"
+        }
+      ]
+    }
   ]
 }

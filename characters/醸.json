@@ -138,5 +138,150 @@
       "startStroke": 16,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "醸造",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造",
+          "reading": "じょうぞう"
+        }
+      ]
+    },
+    {
+      "slug": "醸す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸す",
+          "reading": "かもす"
+        }
+      ]
+    },
+    {
+      "slug": "醸成",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸成",
+          "reading": "じょうせい"
+        }
+      ]
+    },
+    {
+      "slug": "醸し出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸し出す",
+          "reading": "かもしだす"
+        },
+        {
+          "word": "かもし出す",
+          "reading": "かもしだす"
+        },
+        {
+          "word": "醸しだす",
+          "reading": "かもしだす"
+        }
+      ]
+    },
+    {
+      "slug": "醸母",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸母",
+          "reading": "じょうぼ"
+        }
+      ]
+    },
+    {
+      "slug": "醸造家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造家",
+          "reading": "じょうぞうか"
+        }
+      ]
+    },
+    {
+      "slug": "醸造所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造所",
+          "reading": "じょうぞうしょ"
+        },
+        {
+          "word": "醸造所",
+          "reading": "じょうぞうじょ"
+        }
+      ]
+    },
+    {
+      "slug": "醸造業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造業",
+          "reading": "じょうぞうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "醸造調味料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造調味料",
+          "reading": "じょうぞうちょうみりょう"
+        }
+      ]
+    },
+    {
+      "slug": "醸造酒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造酒",
+          "reading": "じょうぞうしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "醸造酢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造酢",
+          "reading": "じょうぞうす"
+        }
+      ]
+    },
+    {
+      "slug": "醸造学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造学",
+          "reading": "じょうぞうがく"
+        }
+      ]
+    },
+    {
+      "slug": "醸造アルコール",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醸造アルコール",
+          "reading": "じょうぞうアルコール"
+        }
+      ]
+    }
   ]
 }

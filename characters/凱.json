@@ -69,5 +69,78 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "凱旋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凱旋",
+          "reading": "がいせん"
+        }
+      ]
+    },
+    {
+      "slug": "凱歌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凱歌",
+          "reading": "がいか"
+        }
+      ]
+    },
+    {
+      "slug": "凱旋門",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凱旋門",
+          "reading": "がいせんもん"
+        }
+      ]
+    },
+    {
+      "slug": "凱旋軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凱旋軍",
+          "reading": "がいせんぐん"
+        }
+      ]
+    },
+    {
+      "slug": "凱旋公演",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凱旋公演",
+          "reading": "がいせんこうえん"
+        }
+      ]
+    },
+    {
+      "slug": "凱旋将軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凱旋将軍",
+          "reading": "がいせんしょうぐん"
+        }
+      ]
+    },
+    {
+      "slug": "凱風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "凱風",
+          "reading": "がいふう"
+        }
+      ]
+    }
   ]
 }

@@ -87,5 +87,317 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "窓は閉まってた？",
+      "furigana": "[窓|まど]は[閉|し]まってた？",
+      "translation_zh_CN": "窗户关着吗？"
+    },
+    {
+      "content": "窓を閉めておきなさい。",
+      "furigana": "[窓|まど]を[閉|し]めておきなさい。",
+      "translation_zh_CN": "保持窗户关闭。"
+    },
+    {
+      "content": "窓閉め忘れてた。",
+      "furigana": "[窓閉|まど|し]め[忘|わす]れてた。",
+      "translation_zh_CN": "我忘记关窗了。"
+    },
+    {
+      "content": "窓が閉めてあります。",
+      "furigana": "[窓|まど]が[閉|し]めてあります。",
+      "translation_zh_CN": "窗户是关着的。"
+    },
+    {
+      "content": "窓を閉めて。",
+      "furigana": "[窓|まど]を[閉|し]めて。",
+      "translation_zh_CN": "关上窗户。"
+    },
+    {
+      "content": "窓が開いた。",
+      "furigana": "[窓|まど]が[開|ひら]いた。",
+      "translation_zh_CN": "窗户打开了。"
+    },
+    {
+      "content": "窓を開けて。",
+      "furigana": "[窓|まど]を[開|あ]けて。",
+      "translation_zh_CN": "打开窗户。"
+    },
+    {
+      "content": "窓は開いてる？",
+      "furigana": "[窓|まど]は[開|あ]いてる？",
+      "translation_zh_CN": "窗户开着吗？"
+    },
+    {
+      "content": "窓を開けた。",
+      "furigana": "[窓|まど]を[開|あ]けた。",
+      "translation_zh_CN": "我打开窗户。"
+    },
+    {
+      "content": "窓を開けましょう。",
+      "furigana": "[窓|まど]を[開|あ]けましょう。",
+      "translation_zh_CN": "我们打开窗户吧。"
+    },
+    {
+      "content": "窓を開けなさい。",
+      "furigana": "[窓|まど]を[開|あ]けなさい。",
+      "translation_zh_CN": "請打開窗。"
+    },
+    {
+      "content": "窓から顔を出すな。",
+      "furigana": "[窓|まど]から[顔|かお]を[出|だ]すな。",
+      "translation_zh_CN": "不要把脸探向窗外。"
+    },
+    {
+      "content": "トムは窓を割った。",
+      "furigana": "トムは[窓|まど]を[割|わ]った。",
+      "translation_zh_CN": "湯姆打破了窗戶。"
+    },
+    {
+      "content": "窓が閉まっている。",
+      "furigana": "[窓|まど]が[閉|し]まっている。",
+      "translation_zh_CN": "窗户关着。"
+    },
+    {
+      "content": "トムが窓を壊した。",
+      "furigana": "トムが[窓|まど]を[壊|こわ]した。",
+      "translation_zh_CN": "湯姆打破了窗戶。"
+    },
+    {
+      "content": "彼女は窓を開けます。",
+      "furigana": "[彼女|かの|じょ]は[窓|まど]を[開|あ]けます。",
+      "translation_zh_CN": "她会打开窗户。"
+    },
+    {
+      "content": "窓を割ったのは誰だ。",
+      "furigana": "[窓|まど]を[割|わ]ったのは[誰|だれ]だ。",
+      "translation_zh_CN": "是誰把窗打破了？"
+    },
+    {
+      "content": "窓を開けてください。",
+      "furigana": "[窓|まど]を[開|あ]けてください。",
+      "translation_zh_CN": "麻煩你開一下窗。"
+    },
+    {
+      "content": "雨は窓ガラスを叩く。",
+      "furigana": "[雨|あめ]は[窓|まど]ガラスを[叩|たた]く。",
+      "translation_zh_CN": "雨滴敲打窗户玻璃。"
+    },
+    {
+      "content": "トムが窓を開けたよ。",
+      "furigana": "トムが[窓|まど]を[開|あ]けたよ。",
+      "translation_zh_CN": "Tom開了一個窗戶。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "窓口",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "窓口",
+          "reading": "まどぐち"
+        }
+      ]
+    },
+    {
+      "slug": "窓際",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓際",
+          "reading": "まどぎわ"
+        }
+      ]
+    },
+    {
+      "slug": "窓側",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓側",
+          "reading": "まどがわ"
+        }
+      ]
+    },
+    {
+      "slug": "窓枠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓枠",
+          "reading": "まどわく"
+        }
+      ]
+    },
+    {
+      "slug": "窓ガラス",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓ガラス",
+          "reading": "まどガラス"
+        },
+        {
+          "word": "窓硝子",
+          "reading": "まどガラス"
+        }
+      ]
+    },
+    {
+      "slug": "窓外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓外",
+          "reading": "そうがい"
+        }
+      ]
+    },
+    {
+      "slug": "窓越し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓越し",
+          "reading": "まどごし"
+        },
+        {
+          "word": "窓ごし",
+          "reading": "まどごし"
+        }
+      ]
+    },
+    {
+      "slug": "窓台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓台",
+          "reading": "まどだい"
+        }
+      ]
+    },
+    {
+      "slug": "窓辺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓辺",
+          "reading": "まどべ"
+        }
+      ]
+    },
+    {
+      "slug": "窓外投擲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓外投擲",
+          "reading": "そうがいとうてき"
+        }
+      ]
+    },
+    {
+      "slug": "窓口販売",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓口販売",
+          "reading": "まどぐちはんばい"
+        }
+      ]
+    },
+    {
+      "slug": "窓拭き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓拭き",
+          "reading": "まどふき"
+        },
+        {
+          "word": "窓ふき",
+          "reading": "まどふき"
+        }
+      ]
+    },
+    {
+      "slug": "窓付き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓付き",
+          "reading": "まどつき"
+        }
+      ]
+    },
+    {
+      "slug": "窓外放出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓外放出",
+          "reading": "そうがいほうしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "窓付き封筒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓付き封筒",
+          "reading": "まどつきふうとう"
+        }
+      ]
+    },
+    {
+      "slug": "窓側席",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓側席",
+          "reading": "まどがわせき"
+        }
+      ]
+    },
+    {
+      "slug": "窓明り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓明り",
+          "reading": "まどあかり"
+        }
+      ]
+    },
+    {
+      "slug": "窓敷居",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓敷居",
+          "reading": "まどしきい"
+        }
+      ]
+    },
+    {
+      "slug": "窓掛け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窓掛け",
+          "reading": "まどかけ"
+        },
+        {
+          "word": "窓掛",
+          "reading": "まどかけ"
+        }
+      ]
+    }
   ]
 }

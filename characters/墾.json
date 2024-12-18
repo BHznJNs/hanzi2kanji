@@ -69,5 +69,28 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "墾田",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墾田",
+          "reading": "こんでん"
+        }
+      ]
+    },
+    {
+      "slug": "墾く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "墾く",
+          "reading": "ひらく"
+        }
+      ]
+    }
   ]
 }

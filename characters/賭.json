@@ -87,5 +87,259 @@
       "startStroke": 12,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "そのことなら、だれと賭をしてもいい。",
+      "furigana": "そのことなら、だれと[賭|と]をしてもいい。",
+      "translation_zh_CN": "如果是这样的话，你可以和任何人打赌。"
+    },
+    {
+      "content": "賭け事はやめなさい。",
+      "furigana": "[賭|か]け[事|ごと]はやめなさい。",
+      "translation_zh_CN": "戒掉赌博吧。"
+    },
+    {
+      "content": "賭け事はもうやめなよ。",
+      "furigana": "[賭|か]け[事|ごと]はもうやめなよ。",
+      "translation_zh_CN": "戒掉赌博吧。"
+    },
+    {
+      "content": "私はあの馬に１０ドル賭けた。",
+      "furigana": "[私|わたし]はあの[馬|うま]に[１|][０|]ドル[賭|か]けた。",
+      "translation_zh_CN": "我在那匹馬下十美元的賭注。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "賭け",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賭け",
+          "reading": "かけ"
+        },
+        {
+          "word": "賭",
+          "reading": "かけ"
+        }
+      ]
+    },
+    {
+      "slug": "賭ける",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賭ける",
+          "reading": "かける"
+        }
+      ]
+    },
+    {
+      "slug": "賭博師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭博師",
+          "reading": "とばくし"
+        }
+      ]
+    },
+    {
+      "slug": "賭け事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭け事",
+          "reading": "かけごと"
+        },
+        {
+          "word": "賭事",
+          "reading": "かけごと"
+        }
+      ]
+    },
+    {
+      "slug": "賭け金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭け金",
+          "reading": "かけきん"
+        },
+        {
+          "word": "賭金",
+          "reading": "かけきん"
+        }
+      ]
+    },
+    {
+      "slug": "賭博",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭博",
+          "reading": "とばく"
+        }
+      ]
+    },
+    {
+      "slug": "賭け物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭け物",
+          "reading": "かけもの"
+        },
+        {
+          "word": "懸け物",
+          "reading": "かけもの"
+        },
+        {
+          "word": "懸物",
+          "reading": "かけもの"
+        }
+      ]
+    },
+    {
+      "slug": "賭け碁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭け碁",
+          "reading": "かけご"
+        }
+      ]
+    },
+    {
+      "slug": "賭場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭場",
+          "reading": "とば"
+        },
+        {
+          "word": "賭場",
+          "reading": "とじょう"
+        }
+      ]
+    },
+    {
+      "slug": "賭弓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭弓",
+          "reading": "のりゆみ"
+        },
+        {
+          "word": "賭射",
+          "reading": "のりゆみ"
+        }
+      ]
+    },
+    {
+      "slug": "賭す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭す",
+          "reading": "とす"
+        }
+      ]
+    },
+    {
+      "slug": "賭け事師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭け事師",
+          "reading": "かけごとし"
+        }
+      ]
+    },
+    {
+      "slug": "賭する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭する",
+          "reading": "とする"
+        }
+      ]
+    },
+    {
+      "slug": "賭博台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭博台",
+          "reading": "とばくだい"
+        }
+      ]
+    },
+    {
+      "slug": "賭物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭物",
+          "reading": "とぶつ"
+        },
+        {
+          "word": "賭物",
+          "reading": "のりもの"
+        }
+      ]
+    },
+    {
+      "slug": "賭け屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭け屋",
+          "reading": "かけや"
+        }
+      ]
+    },
+    {
+      "slug": "賭博場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭博場",
+          "reading": "とばくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "賭け麻雀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭け麻雀",
+          "reading": "かけマージャン"
+        },
+        {
+          "word": "賭けマージャン",
+          "reading": "かけマージャン"
+        }
+      ]
+    },
+    {
+      "slug": "賭けに出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賭けに出る",
+          "reading": "かけにでる"
+        }
+      ]
+    }
   ]
 }

@@ -61,5 +61,130 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "露西亜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "露西亜",
+          "reading": "ロシア"
+        },
+        {
+          "word": "露西亜",
+          "reading": "ロシヤ"
+        },
+        {
+          "word": "魯西亜",
+          "reading": "ロシア"
+        },
+        {
+          "word": "魯西亜",
+          "reading": "ロシヤ"
+        }
+      ]
+    },
+    {
+      "slug": "魯魚亥豕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魯魚亥豕",
+          "reading": "ろぎょがいし"
+        }
+      ]
+    },
+    {
+      "slug": "魯魚の誤り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魯魚の誤り",
+          "reading": "ろぎょのあやまり"
+        }
+      ]
+    },
+    {
+      "slug": "魯魚章草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魯魚章草",
+          "reading": "ろぎょしょうそう"
+        }
+      ]
+    },
+    {
+      "slug": "魯鈍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魯鈍",
+          "reading": "ろどん"
+        }
+      ]
+    },
+    {
+      "slug": "魯国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "露国",
+          "reading": "ろこく"
+        },
+        {
+          "word": "魯国",
+          "reading": "ろこく"
+        }
+      ]
+    },
+    {
+      "slug": "露人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "露人",
+          "reading": "ろじん"
+        },
+        {
+          "word": "魯人",
+          "reading": "ろじん"
+        }
+      ]
+    },
+    {
+      "slug": "魯肉飯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魯肉飯",
+          "reading": "ルーローハン"
+        },
+        {
+          "word": "魯肉飯",
+          "reading": "ルーローファン"
+        },
+        {
+          "word": "滷肉飯",
+          "reading": "ルーローハン"
+        },
+        {
+          "word": "滷肉飯",
+          "reading": "ルーローファン"
+        }
+      ]
+    },
+    {
+      "slug": "魯敏孫漂流記",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "魯敏孫漂流記",
+          "reading": "ロビンソンひょうりゅうき"
+        }
+      ]
+    }
   ]
 }

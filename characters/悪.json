@@ -106,5 +106,333 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "悪より救い出し給え。",
+      "furigana": "[悪|あく]より[救|すく]い[出|だ]し[給|たま]え。",
+      "translation_zh_CN": "救我脱离凶恶。"
+    },
+    {
+      "content": "悪露があった。",
+      "furigana": "[悪露|あく|ろ]があった。",
+      "translation_zh_CN": "有恶露。"
+    },
+    {
+      "content": "ワンちゃん、具合悪そう。",
+      "furigana": "ワンちゃん、[具合悪|ぐ|あい|わる]そう。",
+      "translation_zh_CN": "狗看起来病了。"
+    },
+    {
+      "content": "トムは悪ガキだ。",
+      "furigana": "トムは[悪|わる]ガキだ。",
+      "translation_zh_CN": "汤姆是个坏孩子。"
+    },
+    {
+      "content": "みんな機嫌悪そう。",
+      "furigana": "みんな[機嫌悪|き|けん|わる]そう。",
+      "translation_zh_CN": "每个人的心情似乎都不太好。"
+    },
+    {
+      "content": "彼は悪に染まってしまった。",
+      "furigana": "[彼|かれ]は[悪|あく]に[染|そ]まってしまった。",
+      "translation_zh_CN": "他已经变得邪恶了。"
+    },
+    {
+      "content": "体調が悪そうですよ。",
+      "furigana": "[体調|たい|ちょう]が[悪|わる]そうですよ。",
+      "translation_zh_CN": "你看上去身体不太舒服。"
+    },
+    {
+      "content": "トムは具合が悪そうだ。",
+      "furigana": "トムは[具合|ぐ|あい]が[悪|わる]そうだ。",
+      "translation_zh_CN": "汤姆看起来病了。"
+    },
+    {
+      "content": "彼は具合が悪そうだ。",
+      "furigana": "[彼|かれ]は[具合|ぐ|あい]が[悪|わる]そうだ。",
+      "translation_zh_CN": "他看上去身体不太好。"
+    },
+    {
+      "content": "ロバートは具合が悪そうだ。",
+      "furigana": "ロバートは[具合|ぐ|あい]が[悪|わる]そうだ。",
+      "translation_zh_CN": "罗伯特看起来不太舒服。"
+    },
+    {
+      "content": "視力は悪いです。",
+      "furigana": "[視力|し|りょく]は[悪|わる]いです。",
+      "translation_zh_CN": "我的视力不好。"
+    },
+    {
+      "content": "私が悪いんです。",
+      "furigana": "[私|わたし]が[悪|わる]いんです。",
+      "translation_zh_CN": "这是我的错。"
+    },
+    {
+      "content": "金は諸悪の根源。",
+      "furigana": "[金|かね]は[諸悪|しょ|あく]の[根源|こん|げん]。",
+      "translation_zh_CN": "金錢是一切罪惡之源。"
+    },
+    {
+      "content": "悪夢に魘された。",
+      "furigana": "[悪夢|あく|む]に[魘|うな]された。",
+      "translation_zh_CN": "我做噩梦了。"
+    },
+    {
+      "content": "悪酔いしました。",
+      "furigana": "[悪酔|わる|よ]いしました。",
+      "translation_zh_CN": "因為喝酒喝太多，所以我生病了。"
+    },
+    {
+      "content": "悪いのは私です。",
+      "furigana": "[悪|わる]いのは[私|わたし]です。",
+      "translation_zh_CN": "坏的人，是我。"
+    },
+    {
+      "content": "トムは目が悪い。",
+      "furigana": "トムは[目|め]が[悪|わる]い。",
+      "translation_zh_CN": "汤姆眼睛不好。"
+    },
+    {
+      "content": "この映画、最悪。",
+      "furigana": "この[映画|えい|が]、[最悪|さい|あく]。",
+      "translation_zh_CN": "这是我看过的最差劲的电影了。"
+    },
+    {
+      "content": "彼女は機嫌が悪い。",
+      "furigana": "[彼女|かの|じょ]は[機嫌|き|げん]が[悪|わる]い。",
+      "translation_zh_CN": "她心情不好。"
+    },
+    {
+      "content": "天気が悪くなった。",
+      "furigana": "[天気|てん|き]が[悪|わる]くなった。",
+      "translation_zh_CN": "天气变阴了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "悪魔",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "悪魔",
+          "reading": "あくま"
+        }
+      ]
+    },
+    {
+      "slug": "悪い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "悪い",
+          "reading": "わるい"
+        }
+      ]
+    },
+    {
+      "slug": "悪戯",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "悪戯",
+          "reading": "いたずら"
+        },
+        {
+          "reading": "イタズラ"
+        }
+      ]
+    },
+    {
+      "slug": "憎む",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "憎む",
+          "reading": "にくむ"
+        },
+        {
+          "word": "悪む",
+          "reading": "にくむ"
+        }
+      ]
+    },
+    {
+      "slug": "悪化",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "悪化",
+          "reading": "あっか"
+        }
+      ]
+    },
+    {
+      "slug": "悪者",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "悪者",
+          "reading": "わるもの"
+        }
+      ]
+    },
+    {
+      "slug": "憎い",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "憎い",
+          "reading": "にくい"
+        },
+        {
+          "word": "悪い",
+          "reading": "にくい"
+        }
+      ]
+    },
+    {
+      "slug": "悪夢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪夢",
+          "reading": "あくむ"
+        }
+      ]
+    },
+    {
+      "slug": "悪意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪意",
+          "reading": "あくい"
+        }
+      ]
+    },
+    {
+      "slug": "悪口",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "悪口",
+          "reading": "わるぐち"
+        },
+        {
+          "word": "悪口",
+          "reading": "わるくち"
+        }
+      ]
+    },
+    {
+      "slug": "悪霊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪霊",
+          "reading": "あくりょう"
+        },
+        {
+          "word": "悪霊",
+          "reading": "あくれい"
+        }
+      ]
+    },
+    {
+      "slug": "悪天候",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪天候",
+          "reading": "あくてんこう"
+        }
+      ]
+    },
+    {
+      "slug": "悪人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪人",
+          "reading": "あくにん"
+        }
+      ]
+    },
+    {
+      "slug": "悪臭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪臭",
+          "reading": "あくしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "悪どい",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "悪どい",
+          "reading": "あくどい"
+        },
+        {
+          "word": "灰汁どい",
+          "reading": "あくどい"
+        }
+      ]
+    },
+    {
+      "slug": "悪質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪質",
+          "reading": "あくしつ"
+        }
+      ]
+    },
+    {
+      "slug": "悪徳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪徳",
+          "reading": "あくとく"
+        }
+      ]
+    },
+    {
+      "slug": "悪さ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悪さ",
+          "reading": "わるさ"
+        }
+      ]
+    }
   ]
 }

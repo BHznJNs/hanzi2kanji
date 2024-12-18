@@ -102,5 +102,342 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "ご理解いただき誠にありがとうございます。",
+      "furigana": "ご[理解|り|かい]いただき[誠|まこと]にありがとうございます。",
+      "translation_zh_CN": "感谢您的理解。"
+    },
+    {
+      "content": "ご参加いただき感謝致します。",
+      "furigana": "ご[参加|さん|か]いただき[感謝致|かん|しゃ|いた]します。",
+      "translation_zh_CN": "感谢您的参与。"
+    },
+    {
+      "content": "この試合はいただきだ。",
+      "furigana": "この[試合|し|あい]はいただきだ。",
+      "translation_zh_CN": "这场比赛值得。"
+    },
+    {
+      "content": "明日それをいただきに上がります。",
+      "furigana": "[明日|あした]それをいただきに[上|あ]がります。",
+      "translation_zh_CN": "我明天就去拿。"
+    },
+    {
+      "content": "お越しいただきありがとうございます。",
+      "furigana": "お[越|こ]しいただきありがとうございます。",
+      "translation_zh_CN": "谢谢您的光临。"
+    },
+    {
+      "content": "あの野郎は、いただきだ。",
+      "furigana": "あの[野郎|や|ろう]は、いただきだ。",
+      "translation_zh_CN": "那个混蛋值得。"
+    },
+    {
+      "content": "社長にご出席いただき光栄に存じます。",
+      "furigana": "[社長|しゃ|ちょう]にご[出席|しゅっ|せき]いただき[光栄|こう|えい]に[存|ぞん]じます。",
+      "translation_zh_CN": "总统先生，很荣幸您能来到这里。"
+    },
+    {
+      "content": "お待ちいただきありがとうございました。",
+      "furigana": "お[待|ま]ちいただきありがとうございました。",
+      "translation_zh_CN": "感谢您的耐心等待。"
+    },
+    {
+      "content": "遠路はるばるお越しいただきありがとうございます。",
+      "furigana": "[遠路|えん|ろ]はるばるお[越|こ]しいただきありがとうございます。",
+      "translation_zh_CN": "谢谢你们千里迢迢而来。"
+    },
+    {
+      "content": "その山の頂は雪に覆われている。",
+      "furigana": "その[山|やま]の[頂|いただき]は[雪|ゆき]に[覆|おお]われている。",
+      "translation_zh_CN": "山顶被雪覆盖了。"
+    },
+    {
+      "content": "十分頂きました。",
+      "furigana": "[十分|じゅう|ぶん][頂|いただ]きました。",
+      "translation_zh_CN": "我已經受夠了。"
+    },
+    {
+      "content": "それは愚の骨頂だ。",
+      "furigana": "それは[愚|ぐ]の[骨頂|こっ|ちょう]だ。",
+      "translation_zh_CN": "那真是糊涂透顶了。"
+    },
+    {
+      "content": "お入り頂きなさい。",
+      "furigana": "お[入|はい]り[頂|いただ]きなさい。",
+      "translation_zh_CN": "让他进来。"
+    },
+    {
+      "content": "ワインを一杯頂きたい。",
+      "furigana": "ワインを[一杯|いっ|ぱい][頂|いただ]きたい。",
+      "translation_zh_CN": "請給我一杯酒。"
+    },
+    {
+      "content": "自己紹介させて頂きます。",
+      "furigana": "[自己|じ|こ][紹介|しょう|かい]させて[頂|いただ]きます。",
+      "translation_zh_CN": "請允許我自我介紹一下。"
+    },
+    {
+      "content": "何か食べ物を頂けますか。",
+      "furigana": "[何|なに]か[食|た]べ[物|もの]を[頂|いただ]けますか。",
+      "translation_zh_CN": "我能些吃的東西嗎？"
+    },
+    {
+      "content": "私は富士山の頂上に登った。",
+      "furigana": "[私|わたし]は[富士山|ふ|じ|さん]の[頂上|ちょう|じょう]に[登|のぼ]った。",
+      "translation_zh_CN": "我登上了富士山顶。"
+    },
+    {
+      "content": "タクシーを呼んで頂けますか。",
+      "furigana": "タクシーを[呼|よ]んで[頂|いただ]けますか。",
+      "translation_zh_CN": "你可以幫我叫一輛計程車嗎?"
+    },
+    {
+      "content": "コーヒーをもっと頂けますか。",
+      "furigana": "コーヒーをもっと[頂|いただ]けますか。",
+      "translation_zh_CN": "可以再給我一點咖啡嗎？"
+    },
+    {
+      "content": "着いたらすぐに手紙を頂戴ね。",
+      "furigana": "[着|つ]いたらすぐに[手紙|て|がみ]を[頂戴|ちょう|だい]ね。",
+      "translation_zh_CN": "你到了之后请马上给我写一封信。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "頂点",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "頂点",
+          "reading": "ちょうてん"
+        }
+      ]
+    },
+    {
+      "slug": "頂上",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "頂上",
+          "reading": "ちょうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "頂く",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "頂く",
+          "reading": "いただく"
+        },
+        {
+          "word": "戴く",
+          "reading": "いただく"
+        }
+      ]
+    },
+    {
+      "slug": "頂戴",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "頂戴",
+          "reading": "ちょうだい"
+        }
+      ]
+    },
+    {
+      "slug": "頂きます",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "頂きます",
+          "reading": "いただきます"
+        }
+      ]
+    },
+    {
+      "slug": "天辺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天辺",
+          "reading": "てっぺん"
+        },
+        {
+          "word": "天辺",
+          "reading": "てへん"
+        },
+        {
+          "word": "頂辺",
+          "reading": "てっぺん"
+        },
+        {
+          "word": "頂辺",
+          "reading": "てへん"
+        },
+        {
+          "word": "天辺",
+          "reading": "てっぺい"
+        }
+      ]
+    },
+    {
+      "slug": "頂ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂ける",
+          "reading": "いただける"
+        },
+        {
+          "word": "戴ける",
+          "reading": "いただける"
+        }
+      ]
+    },
+    {
+      "slug": "頂点捕食者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂点捕食者",
+          "reading": "ちょうてんほしょくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "頂端分裂組織",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂端分裂組織",
+          "reading": "ちょうたんぶんれつそしき"
+        }
+      ]
+    },
+    {
+      "slug": "頂端細胞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂端細胞",
+          "reading": "ちょうたんさいぼう"
+        }
+      ]
+    },
+    {
+      "slug": "頂礼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂礼",
+          "reading": "ちょうらい"
+        }
+      ]
+    },
+    {
+      "slug": "頂芽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂芽",
+          "reading": "ちょうが"
+        }
+      ]
+    },
+    {
+      "slug": "頂点色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂点色",
+          "reading": "ちょうてんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "頂点法線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂点法線",
+          "reading": "ちょうてんほうせん"
+        }
+      ]
+    },
+    {
+      "slug": "頂上会談",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂上会談",
+          "reading": "ちょうじょうかいだん"
+        }
+      ]
+    },
+    {
+      "slug": "頂角",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂角",
+          "reading": "ちょうかく"
+        }
+      ]
+    },
+    {
+      "slug": "頂けない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂けない",
+          "reading": "いただけない"
+        },
+        {
+          "word": "戴けない",
+          "reading": "いただけない"
+        }
+      ]
+    },
+    {
+      "slug": "頂き物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂き物",
+          "reading": "いただきもの"
+        },
+        {
+          "word": "戴き物",
+          "reading": "いただきもの"
+        }
+      ]
+    },
+    {
+      "slug": "頂戴物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頂戴物",
+          "reading": "ちょうだいもの"
+        }
+      ]
+    }
   ]
 }

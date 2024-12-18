@@ -72,5 +72,216 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "この鋼は錆びない。",
+      "furigana": "この[鋼|はがね]は[錆|さ]びない。",
+      "translation_zh_CN": "这种钢不会生锈。"
+    },
+    {
+      "content": "彼は鋼を鍛えて刀を作った。",
+      "furigana": "[彼|かれ]は[鋼|はがね]を[鍛|きた]えて[刀|かたな]を[作|つく]った。",
+      "translation_zh_CN": "他炼钢造剑。"
+    },
+    {
+      "content": "彼は鋼のような意志を持っている。",
+      "furigana": "[彼|かれ]は[鋼|はがね]のような[意志|い|し]を[持|も]っている。",
+      "translation_zh_CN": "他有钢铁般的意志。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鋼材",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼材",
+          "reading": "こうざい"
+        }
+      ]
+    },
+    {
+      "slug": "鋼鉄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼鉄",
+          "reading": "こうてつ"
+        }
+      ]
+    },
+    {
+      "slug": "鋼製",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼製",
+          "reading": "こうせい"
+        }
+      ]
+    },
+    {
+      "slug": "鋼管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼管",
+          "reading": "こうかん"
+        }
+      ]
+    },
+    {
+      "slug": "鋼板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼板",
+          "reading": "こうはん"
+        },
+        {
+          "word": "鋼板",
+          "reading": "こうばん"
+        },
+        {
+          "word": "鋼鈑",
+          "reading": "こうはん"
+        },
+        {
+          "word": "鋼鈑",
+          "reading": "こうばん"
+        }
+      ]
+    },
+    {
+      "slug": "鋼の錬金術師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼の錬金術師",
+          "reading": "はがねのれんきんじゅつし"
+        }
+      ]
+    },
+    {
+      "slug": "鋼索鉄道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼索鉄道",
+          "reading": "こうさくてつどう"
+        }
+      ]
+    },
+    {
+      "slug": "鋼片",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼片",
+          "reading": "こうへん"
+        }
+      ]
+    },
+    {
+      "slug": "鋼繊維",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼繊維",
+          "reading": "こうせんい"
+        }
+      ]
+    },
+    {
+      "slug": "鋼鉄板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼鉄板",
+          "reading": "こうてつばん"
+        }
+      ]
+    },
+    {
+      "slug": "鋼色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼色",
+          "reading": "はがねいろ"
+        }
+      ]
+    },
+    {
+      "slug": "鋼玉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼玉",
+          "reading": "こうぎょく"
+        }
+      ]
+    },
+    {
+      "slug": "鋼枠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼枠",
+          "reading": "こうわく"
+        }
+      ]
+    },
+    {
+      "slug": "鋼線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼線",
+          "reading": "こうせん"
+        }
+      ]
+    },
+    {
+      "slug": "鋼鉄製",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼鉄製",
+          "reading": "こうてつせい"
+        }
+      ]
+    },
+    {
+      "slug": "鋼球",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼球",
+          "reading": "こうきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "鋼矢板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼矢板",
+          "reading": "こうやいた"
+        }
+      ]
+    },
+    {
+      "slug": "鋼索",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鋼索",
+          "reading": "こうさく"
+        }
+      ]
+    }
   ]
 }

@@ -99,5 +99,286 @@
       "variant": true,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "クモは網を張る。",
+      "furigana": "クモは[網|あみ]を[張|は]る。",
+      "translation_zh_CN": "蜘蛛结网。"
+    },
+    {
+      "content": "彼は網を張った。",
+      "furigana": "[彼|かれ]は[網|あみ]を[張|は]った。",
+      "translation_zh_CN": "他撒下了一张网。"
+    },
+    {
+      "content": "網がスクリューに絡まった。",
+      "furigana": "[網|あみ]がスクリューに[絡|から]まった。",
+      "translation_zh_CN": "网与螺丝缠在一起。"
+    },
+    {
+      "content": "網にウナギがかかったよ。",
+      "furigana": "[網|あみ]にウナギがかかったよ。",
+      "translation_zh_CN": "网里捕获了一条鳗鱼。"
+    },
+    {
+      "content": "私は網で鯉を捕った。",
+      "furigana": "[私|わたし]は[網|あみ]で[鯉|こい]を[捕|と]った。",
+      "translation_zh_CN": "我用网捕到了一条鲤鱼。"
+    },
+    {
+      "content": "鯉は網で捕まえたんだ。",
+      "furigana": "[鯉|こい]は[網|あみ]で[捕|つか]まえたんだ。",
+      "translation_zh_CN": "我用网捕到了鲤鱼。"
+    },
+    {
+      "content": "彼は法律の網にかかった。",
+      "furigana": "[彼|かれ]は[法律|ほう|りつ]の[網|あみ]にかかった。",
+      "translation_zh_CN": "他陷入了法律的罗网之中。"
+    },
+    {
+      "content": "子供達は昆虫網を直していた。",
+      "furigana": "[子供達|こ|ども|たち]は[昆虫網|こん|ちゅう|もう]を[直|なお]していた。",
+      "translation_zh_CN": "孩子们正在修理防虫网。"
+    },
+    {
+      "content": "少年はその鳥を網で捕まえた。",
+      "furigana": "[少年|しょう|ねん]はその[鳥|とり]を[網|あみ]で[捕|つか]まえた。",
+      "translation_zh_CN": "男孩用网捉住了那只鸟。"
+    },
+    {
+      "content": "まもなく鉄道網が全国に広がった。",
+      "furigana": "まもなく[鉄道網|てつ|どう|もう]が[全国|ぜん|こく]に[広|ひろ]がった。",
+      "translation_zh_CN": "很快，铁路网遍布全国。"
+    },
+    {
+      "content": "彼は網を張った。",
+      "furigana": "[彼|かれ]は[網|あみ]を[張|は]った。",
+      "translation_zh_CN": "他修好了网。"
+    },
+    {
+      "content": "５年前に網膜剥離を起こしました。",
+      "furigana": "[５|][年|ねん][前|まえ]に[網膜剥離|もう|まく|はく|り]を[起|お]こしました。",
+      "translation_zh_CN": "我五年前做了网膜剥离。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "網羅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網羅",
+          "reading": "もうら"
+        }
+      ]
+    },
+    {
+      "slug": "網棚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網棚",
+          "reading": "あみだな"
+        }
+      ]
+    },
+    {
+      "slug": "網膜剥離",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網膜剥離",
+          "reading": "もうまくはくり"
+        },
+        {
+          "word": "網膜はく離",
+          "reading": "もうまくはくり"
+        },
+        {
+          "word": "網膜剝離",
+          "reading": "もうまくはくり"
+        }
+      ]
+    },
+    {
+      "slug": "網膜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網膜",
+          "reading": "もうまく"
+        }
+      ]
+    },
+    {
+      "slug": "網戸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網戸",
+          "reading": "あみど"
+        }
+      ]
+    },
+    {
+      "slug": "網目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網目",
+          "reading": "あみめ"
+        }
+      ]
+    },
+    {
+      "slug": "網を打つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網を打つ",
+          "reading": "あみをうつ"
+        }
+      ]
+    },
+    {
+      "slug": "網杓子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網杓子",
+          "reading": "あみじゃくし"
+        },
+        {
+          "word": "網じゃくし",
+          "reading": "あみじゃくし"
+        }
+      ]
+    },
+    {
+      "slug": "網膜芽細胞腫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網膜芽細胞腫",
+          "reading": "もうまくがさいぼうしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "網翅目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網翅目",
+          "reading": "もうしもく"
+        }
+      ]
+    },
+    {
+      "slug": "網目錦蛇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網目錦蛇",
+          "reading": "あみめにしきへび"
+        },
+        {
+          "reading": "アミメニシキヘビ"
+        }
+      ]
+    },
+    {
+      "slug": "網目鰻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網目鰻",
+          "reading": "あみめうなぎ"
+        },
+        {
+          "reading": "アミメウナギ"
+        }
+      ]
+    },
+    {
+      "slug": "網平茸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網平茸",
+          "reading": "あみひらたけ"
+        },
+        {
+          "reading": "アミヒラタケ"
+        }
+      ]
+    },
+    {
+      "slug": "網点",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網点",
+          "reading": "あみてん"
+        }
+      ]
+    },
+    {
+      "slug": "網様体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網様体",
+          "reading": "もうようたい"
+        }
+      ]
+    },
+    {
+      "slug": "編み目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "編み目",
+          "reading": "あみめ"
+        },
+        {
+          "word": "編目",
+          "reading": "あみめ"
+        },
+        {
+          "word": "網目",
+          "reading": "あみめ"
+        },
+        {
+          "word": "網み目",
+          "reading": "あみめ"
+        }
+      ]
+    },
+    {
+      "slug": "網代垣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網代垣",
+          "reading": "あじろがき"
+        }
+      ]
+    },
+    {
+      "slug": "網干垣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "網干垣",
+          "reading": "あぼしがき"
+        },
+        {
+          "word": "網干し垣",
+          "reading": "あぼしがき"
+        }
+      ]
+    }
   ]
 }

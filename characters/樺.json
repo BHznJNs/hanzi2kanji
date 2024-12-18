@@ -61,5 +61,219 @@
       "startStroke": 13,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "樺太",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺太",
+          "reading": "からふと"
+        }
+      ]
+    },
+    {
+      "slug": "樺太鷲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺太鷲",
+          "reading": "からふとわし"
+        },
+        {
+          "reading": "カラフトワシ"
+        }
+      ]
+    },
+    {
+      "slug": "樺太鱒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺太鱒",
+          "reading": "からふとます"
+        },
+        {
+          "reading": "カラフトマス"
+        }
+      ]
+    },
+    {
+      "slug": "樺太千島交換条約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺太千島交換条約",
+          "reading": "からふとちしまこうかんじょうやく"
+        },
+        {
+          "word": "樺太・千島交換条約",
+          "reading": "からふとちしまこうかんじょうやく"
+        }
+      ]
+    },
+    {
+      "slug": "樺太雷鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺太雷鳥",
+          "reading": "からふとらいちょう"
+        },
+        {
+          "reading": "カラフトライチョウ"
+        }
+      ]
+    },
+    {
+      "slug": "樺太梟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺太梟",
+          "reading": "からふとふくろう"
+        },
+        {
+          "reading": "カラフトフクロウ"
+        }
+      ]
+    },
+    {
+      "slug": "桜皮細工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜皮細工",
+          "reading": "かばざいく"
+        },
+        {
+          "word": "樺細工",
+          "reading": "かばざいく"
+        }
+      ]
+    },
+    {
+      "slug": "樺太犬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺太犬",
+          "reading": "からふとけん"
+        },
+        {
+          "word": "樺太犬",
+          "reading": "からふといぬ"
+        }
+      ]
+    },
+    {
+      "slug": "樺黄小町蜘蛛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺黄小町蜘蛛",
+          "reading": "かばきこまちぐも"
+        },
+        {
+          "reading": "カバキコマチグモ"
+        }
+      ]
+    },
+    {
+      "slug": "樺色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺色",
+          "reading": "かばいろ"
+        },
+        {
+          "word": "蒲色",
+          "reading": "かばいろ"
+        }
+      ]
+    },
+    {
+      "slug": "樺太柳葉魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺太柳葉魚",
+          "reading": "からふとししゃも"
+        },
+        {
+          "word": "樺太シシャモ",
+          "reading": "からふとシシャモ"
+        }
+      ]
+    },
+    {
+      "slug": "樺桜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺桜",
+          "reading": "かばざくら"
+        },
+        {
+          "word": "樺桜",
+          "reading": "かにわざくら"
+        },
+        {
+          "word": "蒲桜",
+          "reading": "かばざくら"
+        },
+        {
+          "word": "蒲桜",
+          "reading": "かにわざくら"
+        }
+      ]
+    },
+    {
+      "slug": "樺のあな茸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺のあな茸",
+          "reading": "かばのあなたけ"
+        },
+        {
+          "reading": "カバノアナタケ"
+        }
+      ]
+    },
+    {
+      "slug": "樺の木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "樺の木",
+          "reading": "かばのき"
+        },
+        {
+          "reading": "カバノキ"
+        }
+      ]
+    },
+    {
+      "slug": "カバノキ科",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "カバノキ科",
+          "reading": "カバノキか"
+        },
+        {
+          "word": "樺木科",
+          "reading": "かばのきか"
+        },
+        {
+          "word": "樺の木科",
+          "reading": "かばのきか"
+        }
+      ]
+    }
   ]
 }

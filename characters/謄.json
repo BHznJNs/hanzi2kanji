@@ -98,5 +98,52 @@
       "startStroke": 14,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "謄本",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謄本",
+          "reading": "とうほん"
+        }
+      ]
+    },
+    {
+      "slug": "謄写版",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謄写版",
+          "reading": "とうしゃばん"
+        }
+      ]
+    },
+    {
+      "slug": "謄写",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謄写",
+          "reading": "とうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "謄写器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謄写機",
+          "reading": "とうしゃき"
+        },
+        {
+          "word": "謄写器",
+          "reading": "とうしゃき"
+        }
+      ]
+    }
   ]
 }

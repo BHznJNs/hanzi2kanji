@@ -67,5 +67,98 @@
       "startStroke": 14,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "嬰児",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰児",
+          "reading": "えいじ"
+        }
+      ]
+    },
+    {
+      "slug": "嬰児殺し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰児殺し",
+          "reading": "えいじごろし"
+        }
+      ]
+    },
+    {
+      "slug": "嬰音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰音",
+          "reading": "えいおん"
+        }
+      ]
+    },
+    {
+      "slug": "嬰記号",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰記号",
+          "reading": "えいきごう"
+        }
+      ]
+    },
+    {
+      "slug": "嬰ハ短調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰ハ短調",
+          "reading": "えいハたんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "嬰ト短調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰ト短調",
+          "reading": "えいトたんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "嬰ヘ長調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰ヘ長調",
+          "reading": "えいヘちょうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "嬰ヘ短調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰ヘ短調",
+          "reading": "えいヘたんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "嬰ニ短調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嬰ニ短調",
+          "reading": "えいニたんちょう"
+        }
+      ]
+    }
   ]
 }

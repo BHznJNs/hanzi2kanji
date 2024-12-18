@@ -80,5 +80,275 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "明日彼を訪問します。",
+      "furigana": "[明日|あす][彼|かれ]を[訪問|ほう|もん]します。",
+      "translation_zh_CN": "明天我將拜訪他。"
+    },
+    {
+      "content": "わたしは韓国を訪れたい。",
+      "furigana": "わたしは[韓国|かん|こく]を[訪|おとず]れたい。",
+      "translation_zh_CN": "我想访问韩国。"
+    },
+    {
+      "content": "彼は三回フランスを訪れた。",
+      "furigana": "[彼|かれ]は[三|さん][回|かい]フランスを[訪|おとず]れた。",
+      "translation_zh_CN": "他訪問過法國三次。"
+    },
+    {
+      "content": "この美術館は訪問に値する。",
+      "furigana": "この[美術館|び|じゅつ|かん]は[訪問|ほう|もん]に[値|あたい]する。",
+      "translation_zh_CN": "那个博物馆值得参观。"
+    },
+    {
+      "content": "彼女はよくこの国を訪れます。",
+      "furigana": "[彼女|かの|じょ]はよくこの[国|くに]を[訪|おとず]れます。",
+      "translation_zh_CN": "她经常来这个国家。"
+    },
+    {
+      "content": "彼女の夢はパリを訪れることだ。",
+      "furigana": "[彼女|かの|じょ]の[夢|ゆめ]はパリを[訪|おとず]れることだ。",
+      "translation_zh_CN": "她的梦想是参观巴黎。"
+    },
+    {
+      "content": "なぜ、英国を訪問するのですか。",
+      "furigana": "なぜ、[英国|えい|こく]を[訪問|ほう|もん]するのですか。",
+      "translation_zh_CN": "你為何走訪英國？"
+    },
+    {
+      "content": "友達が私の家に訪ねてきました。",
+      "furigana": "[友達|とも|だち]が[私|わたし]の[家|いえ]に[訪|たず]ねてきました。",
+      "translation_zh_CN": "朋友来我家拜访了。"
+    },
+    {
+      "content": "私が訪問した時彼女は留守だった。",
+      "furigana": "[私|わたし]が[訪問|ほう|もん]した[時|とき][彼女|かの|じょ]は[留守|る|す]だった。",
+      "translation_zh_CN": "我给她打电话的时候她不在。"
+    },
+    {
+      "content": "僕はおばあちゃんの家を訪ねたんだ。",
+      "furigana": "[僕|ぼく]はおばあちゃんの[家|いえ]を[訪|たず]ねたんだ。",
+      "translation_zh_CN": "我拜訪了我祖母的房子。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "訪ねる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "訪ねる",
+          "reading": "たずねる"
+        }
+      ]
+    },
+    {
+      "slug": "訪問",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "訪問",
+          "reading": "ほうもん"
+        }
+      ]
+    },
+    {
+      "slug": "問う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "問う",
+          "reading": "とう"
+        },
+        {
+          "word": "訪う",
+          "reading": "とう"
+        }
+      ]
+    },
+    {
+      "slug": "訪れる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "訪れる",
+          "reading": "おとずれる"
+        }
+      ]
+    },
+    {
+      "slug": "訪れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪れ",
+          "reading": "おとずれ"
+        }
+      ]
+    },
+    {
+      "slug": "訪日",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪日",
+          "reading": "ほうにち"
+        }
+      ]
+    },
+    {
+      "slug": "訪問者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪問者",
+          "reading": "ほうもんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "訪問販売",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪問販売",
+          "reading": "ほうもんはんばい"
+        }
+      ]
+    },
+    {
+      "slug": "訪問客",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪問客",
+          "reading": "ほうもんきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "訪中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪中",
+          "reading": "ほうちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "訪米",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪米",
+          "reading": "ほうべい"
+        }
+      ]
+    },
+    {
+      "slug": "訪欧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪欧",
+          "reading": "ほうおう"
+        }
+      ]
+    },
+    {
+      "slug": "訪問着",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪問着",
+          "reading": "ほうもんぎ"
+        }
+      ]
+    },
+    {
+      "slug": "訪問地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪問地",
+          "reading": "ほうもんち"
+        }
+      ]
+    },
+    {
+      "slug": "訪う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪う",
+          "reading": "おとなう"
+        }
+      ]
+    },
+    {
+      "slug": "訪問支援",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪問支援",
+          "reading": "ほうもんしえん"
+        }
+      ]
+    },
+    {
+      "slug": "訪問看護",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪問看護",
+          "reading": "ほうもんかんご"
+        }
+      ]
+    },
+    {
+      "slug": "訪客",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪客",
+          "reading": "ほうきゃく"
+        },
+        {
+          "word": "訪客",
+          "reading": "ほうかく"
+        }
+      ]
+    },
+    {
+      "slug": "訪台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪台",
+          "reading": "ほうたい"
+        }
+      ]
+    },
+    {
+      "slug": "訪問介護",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訪問介護",
+          "reading": "ほうもんかいご"
+        }
+      ]
+    }
   ]
 }

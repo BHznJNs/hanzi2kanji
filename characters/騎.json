@@ -113,5 +113,204 @@
       "startStroke": 17,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "騎士が王への忠誠を誓った。",
+      "furigana": "[騎士|き|し]が[王|おう]への[忠誠|ちゅう|せい]を[誓|ちか]った。",
+      "translation_zh_CN": "騎士宣誓效忠於國王。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "騎士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎士",
+          "reading": "きし"
+        }
+      ]
+    },
+    {
+      "slug": "騎手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎手",
+          "reading": "きしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "騎兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎兵",
+          "reading": "きへい"
+        }
+      ]
+    },
+    {
+      "slug": "騎士道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎士道",
+          "reading": "きしどう"
+        }
+      ]
+    },
+    {
+      "slug": "騎馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎馬",
+          "reading": "きば"
+        }
+      ]
+    },
+    {
+      "slug": "騎乗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎乗",
+          "reading": "きじょう"
+        }
+      ]
+    },
+    {
+      "slug": "騎士修道会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎士修道会",
+          "reading": "きししゅうどうかい"
+        }
+      ]
+    },
+    {
+      "slug": "騎射",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎射",
+          "reading": "きしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "騎馬警官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎馬警官",
+          "reading": "きばけいかん"
+        }
+      ]
+    },
+    {
+      "slug": "騎士団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎士団",
+          "reading": "きしだん"
+        }
+      ]
+    },
+    {
+      "slug": "騎馬戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎馬戦",
+          "reading": "きばせん"
+        }
+      ]
+    },
+    {
+      "slug": "騎乗位",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎乗位",
+          "reading": "きじょうい"
+        }
+      ]
+    },
+    {
+      "slug": "騎射三物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎射三物",
+          "reading": "きしゃみつもの"
+        }
+      ]
+    },
+    {
+      "slug": "騎虎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎虎",
+          "reading": "きこ"
+        }
+      ]
+    },
+    {
+      "slug": "騎射宮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎射宮",
+          "reading": "きしゃきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "騎馬武者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎馬武者",
+          "reading": "きばむしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "騎銃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎銃",
+          "reading": "きじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "騎行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎行",
+          "reading": "きこう"
+        }
+      ]
+    },
+    {
+      "slug": "騎兵隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "騎兵隊",
+          "reading": "きへいたい"
+        }
+      ]
+    }
   ]
 }

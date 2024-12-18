@@ -84,5 +84,345 @@
       "startStroke": 6,
       "strokes": 8
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムは仕事が雑だ。",
+      "furigana": "トムは[仕事|し|ごと]が[雑|ざつ]だ。",
+      "translation_zh_CN": "汤姆的工作很艰难。"
+    },
+    {
+      "content": "彼は仕事が雑だ。",
+      "furigana": "[彼|かれ]は[仕事|し|ごと]が[雑|ざつ]だ。",
+      "translation_zh_CN": "他的工作很艰难。"
+    },
+    {
+      "content": "お前は物を雑に扱い過ぎる。もっと丁寧にやれよ。",
+      "furigana": "お[前|まえ]は[物|もの]を[雑|ざつ]に[扱|あつか]い[過|す]ぎる。もっと[丁寧|てい|ねい]にやれよ。",
+      "translation_zh_CN": "你处理事情太粗暴了。做得更仔细一些。"
+    },
+    {
+      "content": "お客が雑な作りのスタンドに座って靴を磨いてもらっている。",
+      "furigana": "お[客|きゃく]が[雑|ざつ]な[作|づく]りのスタンドに[座|すわ]って[靴|くつ]を[磨|みが]いてもらっている。",
+      "translation_zh_CN": "顾客坐在简陋的摊位前擦鞋。"
+    },
+    {
+      "content": "彼、一気呵成に書き上げたと言ってたけど、この提案書、少し雑だね。",
+      "furigana": "[彼|かれ]、[一気呵成|いっ|き|か|せい]に[書|か]き[上|あ]げたと[言|い]ってたけど、この[提案書|てい|あん|しょ]、[少|すこ]し[雑|ざつ]だね。",
+      "translation_zh_CN": "他说，这都是他一口气写出来的，但这个提议有点草率。"
+    },
+    {
+      "content": "脳の構造は複雑だ。",
+      "furigana": "[脳|のう]の[構造|こう|ぞう]は[複雑|ふく|ざつ]だ。",
+      "translation_zh_CN": "頭腦的結構很複雜。"
+    },
+    {
+      "content": "この雑誌を読みたいの？",
+      "furigana": "この[雑誌|ざっ|し]を[読|よ]みたいの？",
+      "translation_zh_CN": "想读这本杂志吗？"
+    },
+    {
+      "content": "文法は非常に煩雑だ。",
+      "furigana": "[文法|ぶん|ぽう]は[非常|ひ|じょう]に[煩雑|はん|ざつ]だ。",
+      "translation_zh_CN": "语法非常复杂。"
+    },
+    {
+      "content": "母は雑誌を読んでいる。",
+      "furigana": "[母|はは]は[雑誌|ざっ|し]を[読|よ]んでいる。",
+      "translation_zh_CN": "我媽媽正在讀一本雜誌。"
+    },
+    {
+      "content": "彼女は庭の雑草を抜いた。",
+      "furigana": "[彼女|かの|じょ]は[庭|にわ]の[雑草|ざっ|そう]を[抜|ぬ]いた。",
+      "translation_zh_CN": "她给花园除了草。"
+    },
+    {
+      "content": "日本の雑誌はありますか。",
+      "furigana": "[日本|に|ほん]の[雑誌|ざっ|し]はありますか。",
+      "translation_zh_CN": "你有任何日本雜誌嗎？"
+    },
+    {
+      "content": "彼に雑誌を買ってあげた。",
+      "furigana": "[彼|かれ]に[雑誌|ざっ|し]を[買|か]ってあげた。",
+      "translation_zh_CN": "我给他买了本杂志。"
+    },
+    {
+      "content": "どんな雑誌でも結構です。",
+      "furigana": "どんな[雑誌|ざっ|し]でも[結構|けっ|こう]です。",
+      "translation_zh_CN": "任何一本杂志都行。"
+    },
+    {
+      "content": "これには複雑な気持ちだ。",
+      "furigana": "これには[複雑|ふく|ざつ]な[気持|き|も]ちだ。",
+      "translation_zh_CN": "我對這件事百感交集。"
+    },
+    {
+      "content": "雑誌を持ってきてください。",
+      "furigana": "[雑誌|ざっ|し]を[持|も]ってきてください。",
+      "translation_zh_CN": "把那本雜誌拿來給我。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "雑誌",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "雑誌",
+          "reading": "ざっし"
+        }
+      ]
+    },
+    {
+      "slug": "雑音",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "雑音",
+          "reading": "ざつおん"
+        }
+      ]
+    },
+    {
+      "slug": "混ぜる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "混ぜる",
+          "reading": "まぜる"
+        },
+        {
+          "word": "交ぜる",
+          "reading": "まぜる"
+        },
+        {
+          "word": "雑ぜる",
+          "reading": "まぜる"
+        }
+      ]
+    },
+    {
+      "slug": "交ざる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "混ざる",
+          "reading": "まざる"
+        },
+        {
+          "word": "交ざる",
+          "reading": "まざる"
+        },
+        {
+          "word": "雑ざる",
+          "reading": "まざる"
+        }
+      ]
+    },
+    {
+      "slug": "交じる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "混じる",
+          "reading": "まじる"
+        },
+        {
+          "word": "交じる",
+          "reading": "まじる"
+        },
+        {
+          "word": "雑じる",
+          "reading": "まじる"
+        }
+      ]
+    },
+    {
+      "slug": "雑巾",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "雑巾",
+          "reading": "ぞうきん"
+        },
+        {
+          "word": "雑布",
+          "reading": "ぞうきん"
+        }
+      ]
+    },
+    {
+      "slug": "交える",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "交える",
+          "reading": "まじえる"
+        },
+        {
+          "word": "混える",
+          "reading": "まじえる"
+        },
+        {
+          "word": "雑える",
+          "reading": "まじえる"
+        }
+      ]
+    },
+    {
+      "slug": "雑談",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "雑談",
+          "reading": "ざつだん"
+        }
+      ]
+    },
+    {
+      "slug": "雑貨",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "雑貨",
+          "reading": "ざっか"
+        }
+      ]
+    },
+    {
+      "slug": "雑草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑草",
+          "reading": "ざっそう"
+        }
+      ]
+    },
+    {
+      "slug": "雑種",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑種",
+          "reading": "ざっしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "雑踏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑踏",
+          "reading": "ざっとう"
+        },
+        {
+          "word": "雑沓",
+          "reading": "ざっとう"
+        },
+        {
+          "word": "雑鬧",
+          "reading": "ざっとう"
+        }
+      ]
+    },
+    {
+      "slug": "雑用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑用",
+          "reading": "ざつよう"
+        },
+        {
+          "word": "雑用",
+          "reading": "ぞうよう"
+        }
+      ]
+    },
+    {
+      "slug": "雑貨店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑貨店",
+          "reading": "ざっかてん"
+        }
+      ]
+    },
+    {
+      "slug": "雑魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑魚",
+          "reading": "ざこ"
+        },
+        {
+          "word": "雑魚",
+          "reading": "じゃこ"
+        },
+        {
+          "word": "雑魚",
+          "reading": "ざっこ"
+        },
+        {
+          "reading": "ザコ"
+        }
+      ]
+    },
+    {
+      "slug": "雑然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑然",
+          "reading": "ざつぜん"
+        }
+      ]
+    },
+    {
+      "slug": "雑木林",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑木林",
+          "reading": "ぞうきばやし"
+        },
+        {
+          "word": "雑木林",
+          "reading": "ざつぼくりん"
+        }
+      ]
+    },
+    {
+      "slug": "雑煮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雑煮",
+          "reading": "ぞうに"
+        }
+      ]
+    }
   ]
 }

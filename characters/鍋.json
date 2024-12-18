@@ -66,5 +66,284 @@
       "startStroke": 14,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "鍋に油入れた？",
+      "furigana": "[鍋|なべ]に[油入|あぶら|い]れた？",
+      "translation_zh_CN": "锅里放了油吗？"
+    },
+    {
+      "content": "鍋を焦げつかせるな。",
+      "furigana": "[鍋|なべ]を[焦|こ]げつかせるな。",
+      "translation_zh_CN": "别让锅烧着了。"
+    },
+    {
+      "content": "金は鍋を煮え立たせる。",
+      "furigana": "[金|きむ]は[鍋|なべ]を[煮|に]え[立|た]たせる。",
+      "translation_zh_CN": "有钱能使锅沸腾。"
+    },
+    {
+      "content": "鍋がふきこぼれているよ。",
+      "furigana": "[鍋|なべ]がふきこぼれているよ。",
+      "translation_zh_CN": "锅已经沸腾了。"
+    },
+    {
+      "content": "鍋に蓋をして。",
+      "furigana": "[鍋|なべ]に[蓋|ぶた]をして。",
+      "translation_zh_CN": "盖上锅盖。"
+    },
+    {
+      "content": "大きい鍋で汁を作った。",
+      "furigana": "[大|おお]きい[鍋|なべ]で[汁|しる]を[作|つく]った。",
+      "translation_zh_CN": "我在一个大锅里煮汤。"
+    },
+    {
+      "content": "好きな勉強だけしていても実力はつきませんよ。",
+      "furigana": "[好|す]きな[勉強|べん|きょう]だけしていても[実力|じつ|りょく]はつきませんよ。",
+      "translation_zh_CN": "如果你只学习你喜欢的东西，你不会提高你的技能。"
+    },
+    {
+      "content": "大きい鍋でスープを作った。",
+      "furigana": "[大|おお]きい[鍋|なべ]でスープを[作|つく]った。",
+      "translation_zh_CN": "我在一个大锅里煮汤。"
+    },
+    {
+      "content": "小鍋はすぐ熱くなる。",
+      "furigana": "[小鍋|しょう|なべ]はすぐ[熱|あつ]くなる。",
+      "translation_zh_CN": "小锅很快就热起来了。"
+    },
+    {
+      "content": "平なべを火からおろしなさい。",
+      "furigana": "[平|ひら]なべを[火|ひ]からおろしなさい。",
+      "translation_zh_CN": "将锅从火上移开。"
+    },
+    {
+      "content": "大きい鍋で汁を作った。",
+      "furigana": "[大|おお]きい[鍋|なべ]で[汁|しる]を[作|つく]った。",
+      "translation_zh_CN": "用大锅煲汤。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鍋物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋物",
+          "reading": "なべもの"
+        },
+        {
+          "word": "なべ物",
+          "reading": "なべもの"
+        }
+      ]
+    },
+    {
+      "slug": "鍋料理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋料理",
+          "reading": "なべりょうり"
+        }
+      ]
+    },
+    {
+      "slug": "鍋鶴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋鶴",
+          "reading": "なべづる"
+        },
+        {
+          "reading": "ナベヅル"
+        }
+      ]
+    },
+    {
+      "slug": "鍋敷き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋敷き",
+          "reading": "なべしき"
+        }
+      ]
+    },
+    {
+      "slug": "鍋奉行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋奉行",
+          "reading": "なべぶぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "鍋尻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋尻",
+          "reading": "なべじり"
+        }
+      ]
+    },
+    {
+      "slug": "鍋釜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋釜",
+          "reading": "なべかま"
+        }
+      ]
+    },
+    {
+      "slug": "鍋焼き饂飩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋焼きうどん",
+          "reading": "なべやきうどん"
+        },
+        {
+          "word": "鍋焼き饂飩",
+          "reading": "なべやきうどん"
+        }
+      ]
+    },
+    {
+      "slug": "鍋鸛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋鸛",
+          "reading": "なべこう"
+        },
+        {
+          "reading": "ナベコウ"
+        }
+      ]
+    },
+    {
+      "slug": "鍋底",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋底",
+          "reading": "なべぞこ"
+        }
+      ]
+    },
+    {
+      "slug": "鍋つかみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋つかみ",
+          "reading": "なべつかみ"
+        },
+        {
+          "word": "鍋掴み",
+          "reading": "なべつかみ"
+        }
+      ]
+    },
+    {
+      "slug": "鍋島焼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋島焼",
+          "reading": "なべしまやき"
+        },
+        {
+          "word": "鍋島焼き",
+          "reading": "なべしまやき"
+        }
+      ]
+    },
+    {
+      "slug": "鍋焼き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋焼き",
+          "reading": "なべやき"
+        },
+        {
+          "word": "鍋焼",
+          "reading": "なべやき"
+        }
+      ]
+    },
+    {
+      "slug": "鍋蓋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋蓋",
+          "reading": "なべぶた"
+        }
+      ]
+    },
+    {
+      "slug": "鍋帽子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋帽子",
+          "reading": "なべぼうし"
+        }
+      ]
+    },
+    {
+      "slug": "鍋墨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋墨",
+          "reading": "なべずみ"
+        }
+      ]
+    },
+    {
+      "slug": "鍋底景気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋底景気",
+          "reading": "なべぞこけいき"
+        }
+      ]
+    },
+    {
+      "slug": "鍋パ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋パ",
+          "reading": "なべパ"
+        }
+      ]
+    },
+    {
+      "slug": "鍋パーティー",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍋パーティー",
+          "reading": "なべパーティー"
+        },
+        {
+          "word": "鍋パーティ",
+          "reading": "なべパーティ"
+        }
+      ]
+    }
   ]
 }

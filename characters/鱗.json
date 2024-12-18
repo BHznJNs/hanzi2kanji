@@ -92,5 +92,254 @@
       "startStroke": 17,
       "strokes": 7
     }
+  ],
+  "sentences": [
+    {
+      "content": "目から鱗が落ちた。",
+      "furigana": "[目|め]から[鱗|うろこ]が[落|お]ちた。",
+      "translation_zh_CN": "鳞片从我的眼睛里掉了下来。"
+    },
+    {
+      "content": "目からうろこの落ちる思いです。",
+      "furigana": "[目|め]からうろこの[落|お]ちる[思|おも]いです。",
+      "translation_zh_CN": "我感觉眼睛里的鳞片都掉下来了。"
+    },
+    {
+      "content": "大規模な道路工事が始まった。",
+      "furigana": "[大規模|だい|き|ぼ]な[道路工事|どう|ろ|こう|じ]が[始|はじ]まった。",
+      "translation_zh_CN": "大规模的道路建设已经开始。"
+    },
+    {
+      "content": "ケビンは目から鱗が落ちたように、熱心に聞き入っていた。",
+      "furigana": "ケビンは[目|め]から[鱗|うろこ]が[落|お]ちたように、[熱心|ねっしん]に[聞|き]き[入|い]っていた。",
+      "translation_zh_CN": "凯文专注地听着，仿佛鳞片从他的眼睛里掉了下来。"
+    },
+    {
+      "content": "暴風雨のため道路工事が中止された。",
+      "furigana": "[暴風雨|ぼう|ふう|う]のため[道路工事|どう|ろ|こう|じ]が[中止|ちゅう|し]された。",
+      "translation_zh_CN": "由于暴雨，道路建设被取消。"
+    },
+    {
+      "content": "道路混雑のせいで私は遅れました。",
+      "furigana": "[道路混雑|どう|ろ|こん|ざつ]のせいで[私|わたし]は[遅|おく]れました。",
+      "translation_zh_CN": "由于道路拥堵，我迟到了。"
+    },
+    {
+      "content": "目から鱗が落ちた。",
+      "furigana": "[目|め]から[鱗|うろこ]が[落|お]ちた。",
+      "translation_zh_CN": "我能看到光線。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鱗珪石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗珪石",
+          "reading": "りんけいせき"
+        }
+      ]
+    },
+    {
+      "slug": "鱗鉄鉱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗鉄鉱",
+          "reading": "りんてっこう"
+        }
+      ]
+    },
+    {
+      "slug": "鱗茎菜類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗茎菜類",
+          "reading": "りんけいさいるい"
+        }
+      ]
+    },
+    {
+      "slug": "鱗茎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗茎",
+          "reading": "りんけい"
+        }
+      ]
+    },
+    {
+      "slug": "鱗片葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗片葉",
+          "reading": "りんぺんよう"
+        }
+      ]
+    },
+    {
+      "slug": "鱗屑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗屑",
+          "reading": "りんせつ"
+        }
+      ]
+    },
+    {
+      "slug": "鱗状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗状",
+          "reading": "りんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "鱗葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗葉",
+          "reading": "りんよう"
+        }
+      ]
+    },
+    {
+      "slug": "鱗皮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗皮",
+          "reading": "りんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "鱗木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗木",
+          "reading": "りんぼく"
+        }
+      ]
+    },
+    {
+      "slug": "鱗粉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗粉",
+          "reading": "りんぷん"
+        }
+      ]
+    },
+    {
+      "slug": "鱗芽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗芽",
+          "reading": "りんが"
+        }
+      ]
+    },
+    {
+      "slug": "鱗片",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗片",
+          "reading": "りんぺん"
+        }
+      ]
+    },
+    {
+      "slug": "鱗茎菜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗茎菜",
+          "reading": "りんけいさい"
+        }
+      ]
+    },
+    {
+      "slug": "うろこ雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うろこ雲",
+          "reading": "うろこぐも"
+        },
+        {
+          "word": "鱗雲",
+          "reading": "うろこぐも"
+        }
+      ]
+    },
+    {
+      "slug": "鱗翅目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗翅目",
+          "reading": "りんしもく"
+        }
+      ]
+    },
+    {
+      "slug": "鱗引き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗引き",
+          "reading": "うろこひき"
+        },
+        {
+          "word": "うろこ引き",
+          "reading": "うろこひき"
+        }
+      ]
+    },
+    {
+      "slug": "鱗板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗板",
+          "reading": "こけらいた"
+        },
+        {
+          "word": "こけら板",
+          "reading": "こけらいた"
+        },
+        {
+          "word": "杮板",
+          "reading": "こけらいた"
+        },
+        {
+          "word": "柿板",
+          "reading": "こけらいた"
+        }
+      ]
+    },
+    {
+      "slug": "鱗翅類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鱗翅類",
+          "reading": "りんしるい"
+        }
+      ]
+    }
   ]
 }

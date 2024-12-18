@@ -77,5 +77,243 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "錦あやなす木々で山が染まっていた。",
+      "furigana": "[錦|にしき]あやなす[木々|きぎ]で[山|やま]が[染|そ]まっていた。",
+      "translation_zh_CN": "山上长满了锦树。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "錦絵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦絵",
+          "reading": "にしきえ"
+        }
+      ]
+    },
+    {
+      "slug": "錦木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦木",
+          "reading": "にしきぎ"
+        },
+        {
+          "reading": "ニシキギ"
+        }
+      ]
+    },
+    {
+      "slug": "錦華鳥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦華鳥",
+          "reading": "きんかちょう"
+        },
+        {
+          "word": "錦花鳥",
+          "reading": "きんかちょう"
+        },
+        {
+          "reading": "キンカチョウ"
+        }
+      ]
+    },
+    {
+      "slug": "錦秋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦秋",
+          "reading": "きんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "錦糸卵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦糸卵",
+          "reading": "きんしたまご"
+        },
+        {
+          "word": "錦糸玉子",
+          "reading": "きんしたまご"
+        },
+        {
+          "word": "金糸卵",
+          "reading": "きんしたまご"
+        }
+      ]
+    },
+    {
+      "slug": "錦旗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦旗",
+          "reading": "きんき"
+        }
+      ]
+    },
+    {
+      "slug": "錦地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦地",
+          "reading": "きんち"
+        }
+      ]
+    },
+    {
+      "slug": "錦穴子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦穴子",
+          "reading": "にしきあなご"
+        },
+        {
+          "reading": "ニシキアナゴ"
+        }
+      ]
+    },
+    {
+      "slug": "錦上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦上",
+          "reading": "きんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "錦渦貝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦渦貝",
+          "reading": "にしきうずがい"
+        },
+        {
+          "reading": "ニシキウズガイ"
+        }
+      ]
+    },
+    {
+      "slug": "錦玉子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦玉子",
+          "reading": "にしきたまご"
+        },
+        {
+          "word": "錦卵",
+          "reading": "にしきたまご"
+        },
+        {
+          "word": "二色卵",
+          "reading": "にしきたまご"
+        },
+        {
+          "word": "二色玉子",
+          "reading": "にしきたまご"
+        }
+      ]
+    },
+    {
+      "slug": "金紗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金紗",
+          "reading": "きんしゃ"
+        },
+        {
+          "word": "錦紗",
+          "reading": "きんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "金紗縮緬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金紗縮緬",
+          "reading": "きんしゃちりめん"
+        },
+        {
+          "word": "錦紗縮緬",
+          "reading": "きんしゃちりめん"
+        }
+      ]
+    },
+    {
+      "slug": "錦繍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦繍",
+          "reading": "きんしゅう"
+        },
+        {
+          "word": "錦繡",
+          "reading": "きんしゅう"
+        },
+        {
+          "word": "錦綉",
+          "reading": "きんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "錦絵新聞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦絵新聞",
+          "reading": "にしきえしんぶん"
+        }
+      ]
+    },
+    {
+      "slug": "金糸瓜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金糸瓜",
+          "reading": "きんしうり"
+        },
+        {
+          "word": "錦糸瓜",
+          "reading": "きんしうり"
+        },
+        {
+          "reading": "キンシウリ"
+        }
+      ]
+    },
+    {
+      "slug": "錦の御旗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錦の御旗",
+          "reading": "にしきのみはた"
+        }
+      ]
+    }
   ]
 }

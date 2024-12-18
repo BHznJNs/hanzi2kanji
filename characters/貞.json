@@ -80,5 +80,192 @@
       "startStroke": 7,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "貞応",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞応",
+          "reading": "じょうおう"
+        }
+      ]
+    },
+    {
+      "slug": "貞観",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞観",
+          "reading": "じょうがん"
+        }
+      ]
+    },
+    {
+      "slug": "貞操帯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞操帯",
+          "reading": "ていそうたい"
+        }
+      ]
+    },
+    {
+      "slug": "貞永",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞永",
+          "reading": "じょうえい"
+        }
+      ]
+    },
+    {
+      "slug": "貞観地震",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞観地震",
+          "reading": "じょうがんじしん"
+        }
+      ]
+    },
+    {
+      "slug": "貞操",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞操",
+          "reading": "ていそう"
+        }
+      ]
+    },
+    {
+      "slug": "貞女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞女",
+          "reading": "ていじょ"
+        }
+      ]
+    },
+    {
+      "slug": "貞操堅固",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞操堅固",
+          "reading": "ていそうけんご"
+        }
+      ]
+    },
+    {
+      "slug": "貞観殿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞観殿",
+          "reading": "じょうがんでん"
+        }
+      ]
+    },
+    {
+      "slug": "貞烈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞烈",
+          "reading": "ていれつ"
+        }
+      ]
+    },
+    {
+      "slug": "貞淑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞淑",
+          "reading": "ていしゅく"
+        }
+      ]
+    },
+    {
+      "slug": "貞婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞婦",
+          "reading": "ていふ"
+        }
+      ]
+    },
+    {
+      "slug": "貞潔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞潔",
+          "reading": "ていけつ"
+        }
+      ]
+    },
+    {
+      "slug": "貞観時代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞観時代",
+          "reading": "じょうがんじだい"
+        }
+      ]
+    },
+    {
+      "slug": "貞門",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞門",
+          "reading": "ていもん"
+        }
+      ]
+    },
+    {
+      "slug": "貞操観念",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞操観念",
+          "reading": "ていそうかんねん"
+        }
+      ]
+    },
+    {
+      "slug": "貞節",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞節",
+          "reading": "ていせつ"
+        }
+      ]
+    },
+    {
+      "slug": "貞和",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貞和",
+          "reading": "じょうわ"
+        },
+        {
+          "word": "貞和",
+          "reading": "ていわ"
+        }
+      ]
+    }
   ]
 }

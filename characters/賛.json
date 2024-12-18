@@ -107,5 +107,298 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "賛成はできません。",
+      "furigana": "[賛成|さん|せい]はできません。",
+      "translation_zh_CN": "我不同意你的看法。"
+    },
+    {
+      "content": "みんな君に賛成だ。",
+      "furigana": "みんな[君|くん]に[賛成|さん|せい]だ。",
+      "translation_zh_CN": "大家都同意你。"
+    },
+    {
+      "content": "トムに100%賛成です。",
+      "furigana": "トムに[100|ひゃく][%賛成|パーセント|さん|せい]です。",
+      "translation_zh_CN": "我百分之百同意Tom。"
+    },
+    {
+      "content": "全面的に賛成です。",
+      "furigana": "[全面|ぜん|めん][的|てき]に[賛成|さん|せい]です。",
+      "translation_zh_CN": "我完全同意。"
+    },
+    {
+      "content": "彼の意見に賛成です。",
+      "furigana": "[彼|かれ]の[意見|い|けん]に[賛成|さん|せい]です。",
+      "translation_zh_CN": "我同意他的觀點。"
+    },
+    {
+      "content": "私はあなたに賛成だ。",
+      "furigana": "[私|わたし]はあなたに[賛成|さん|せい]だ。",
+      "translation_zh_CN": "我同意你。"
+    },
+    {
+      "content": "彼は私の意見に賛成だ。",
+      "furigana": "[彼|かれ]は[私|わたし]の[意見|い|けん]に[賛成|さん|せい]だ。",
+      "translation_zh_CN": "他同意我的意見。"
+    },
+    {
+      "content": "私はその意見に賛成だ。",
+      "furigana": "[私|わたし]はその[意見|い|けん]に[賛成|さん|せい]だ。",
+      "translation_zh_CN": "我同意那個意見。"
+    },
+    {
+      "content": "君の計画に賛成するよ。",
+      "furigana": "[君|きみ]の[計画|けい|かく]に[賛成|さん|せい]するよ。",
+      "translation_zh_CN": "我贊成你的計劃。"
+    },
+    {
+      "content": "彼には賛成できません。",
+      "furigana": "[彼|かれ]には[賛成|さん|せい]できません。",
+      "translation_zh_CN": "我不同意他。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "賛成",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賛成",
+          "reading": "さんせい"
+        }
+      ]
+    },
+    {
+      "slug": "賛美",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賛美",
+          "reading": "さんび"
+        },
+        {
+          "word": "讃美",
+          "reading": "さんび"
+        }
+      ]
+    },
+    {
+      "slug": "賛辞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛辞",
+          "reading": "さんじ"
+        },
+        {
+          "word": "讃辞",
+          "reading": "さんじ"
+        }
+      ]
+    },
+    {
+      "slug": "賛否",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛否",
+          "reading": "さんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "賛同",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛同",
+          "reading": "さんどう"
+        }
+      ]
+    },
+    {
+      "slug": "賛美歌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛美歌",
+          "reading": "さんびか"
+        },
+        {
+          "word": "讚美歌",
+          "reading": "さんびか"
+        },
+        {
+          "word": "讃美歌",
+          "reading": "さんびか"
+        }
+      ]
+    },
+    {
+      "slug": "称える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "称える",
+          "reading": "たたえる"
+        },
+        {
+          "word": "讃える",
+          "reading": "たたえる"
+        },
+        {
+          "word": "讚える",
+          "reading": "たたえる"
+        },
+        {
+          "word": "賛える",
+          "reading": "たたえる"
+        }
+      ]
+    },
+    {
+      "slug": "賛嘆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛嘆",
+          "reading": "さんたん"
+        },
+        {
+          "word": "讃嘆",
+          "reading": "さんたん"
+        },
+        {
+          "word": "讃歎",
+          "reading": "さんたん"
+        }
+      ]
+    },
+    {
+      "slug": "賛成多数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛成多数",
+          "reading": "さんせいたすう"
+        }
+      ]
+    },
+    {
+      "slug": "賛否両論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛否両論",
+          "reading": "さんぴりょうろん"
+        }
+      ]
+    },
+    {
+      "slug": "賛歌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛歌",
+          "reading": "さんか"
+        },
+        {
+          "word": "讃歌",
+          "reading": "さんか"
+        },
+        {
+          "word": "讚歌",
+          "reading": "さんか"
+        }
+      ]
+    },
+    {
+      "slug": "賛意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛意",
+          "reading": "さんい"
+        }
+      ]
+    },
+    {
+      "slug": "賛助",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛助",
+          "reading": "さんじょ"
+        }
+      ]
+    },
+    {
+      "slug": "賛成か反対か",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛成か反対か",
+          "reading": "さんせいかはんたいか"
+        }
+      ]
+    },
+    {
+      "slug": "賛同者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛同者",
+          "reading": "さんどうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "賛成意見",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛成意見",
+          "reading": "さんせいいけん"
+        }
+      ]
+    },
+    {
+      "slug": "賛成派",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛成派",
+          "reading": "さんせいは"
+        }
+      ]
+    },
+    {
+      "slug": "賛成票",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛成票",
+          "reading": "さんせいひょう"
+        }
+      ]
+    },
+    {
+      "slug": "賛成論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賛成論",
+          "reading": "さんせいろん"
+        }
+      ]
+    }
   ]
 }

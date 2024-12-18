@@ -72,5 +72,93 @@
       "startStroke": 9,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "楊子魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楊子魚",
+          "reading": "ようじうお"
+        },
+        {
+          "reading": "ヨウジウオ"
+        }
+      ]
+    },
+    {
+      "slug": "楊弓店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楊弓店",
+          "reading": "ようきゅうてん"
+        }
+      ]
+    },
+    {
+      "slug": "楊梅瘡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楊梅瘡",
+          "reading": "ようばいそう"
+        }
+      ]
+    },
+    {
+      "slug": "楊弓場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楊弓場",
+          "reading": "ようきゅうば"
+        }
+      ]
+    },
+    {
+      "slug": "楊弓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楊弓",
+          "reading": "ようきゅう"
+        },
+        {
+          "word": "揚弓",
+          "reading": "ようきゅう"
+        },
+        {
+          "word": "揚弓",
+          "reading": "あげゆみ"
+        }
+      ]
+    },
+    {
+      "slug": "楊枝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楊枝",
+          "reading": "ようじ"
+        },
+        {
+          "word": "楊子",
+          "reading": "ようじ"
+        }
+      ]
+    },
+    {
+      "slug": "楊心流",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楊心流",
+          "reading": "ようしんりゅう"
+        }
+      ]
+    }
   ]
 }

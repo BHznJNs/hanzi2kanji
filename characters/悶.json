@@ -41,5 +41,76 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "悶える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悶える",
+          "reading": "もだえる"
+        }
+      ]
+    },
+    {
+      "slug": "悶着",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悶着",
+          "reading": "もんちゃく"
+        },
+        {
+          "word": "悶着",
+          "reading": "もんぢゃく"
+        }
+      ]
+    },
+    {
+      "slug": "悶々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悶々",
+          "reading": "もんもん"
+        },
+        {
+          "word": "悶悶",
+          "reading": "もんもん"
+        }
+      ]
+    },
+    {
+      "slug": "悶死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悶死",
+          "reading": "もんし"
+        }
+      ]
+    },
+    {
+      "slug": "悶え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悶え",
+          "reading": "もだえ"
+        }
+      ]
+    },
+    {
+      "slug": "悶絶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "悶絶",
+          "reading": "もんぜつ"
+        }
+      ]
+    }
   ]
 }

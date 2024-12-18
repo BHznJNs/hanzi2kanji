@@ -50,5 +50,323 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "這う",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "這う",
+          "reading": "はう"
+        },
+        {
+          "word": "匍う",
+          "reading": "はう"
+        },
+        {
+          "word": "延う",
+          "reading": "はう"
+        }
+      ]
+    },
+    {
+      "slug": "入口",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "入り口",
+          "reading": "いりぐち"
+        },
+        {
+          "word": "入り口",
+          "reading": "いりくち"
+        },
+        {
+          "word": "入口",
+          "reading": "いりぐち"
+        },
+        {
+          "word": "入口",
+          "reading": "いりくち"
+        },
+        {
+          "word": "入り口",
+          "reading": "はいりぐち"
+        },
+        {
+          "word": "入り口",
+          "reading": "はいりくち"
+        },
+        {
+          "word": "入口",
+          "reading": "はいりぐち"
+        },
+        {
+          "word": "入口",
+          "reading": "はいりくち"
+        },
+        {
+          "word": "這入口",
+          "reading": "はいりぐち"
+        },
+        {
+          "word": "這入口",
+          "reading": "はいりくち"
+        }
+      ]
+    },
+    {
+      "slug": "入り込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "入り込む",
+          "reading": "はいりこむ"
+        },
+        {
+          "word": "入りこむ",
+          "reading": "はいりこむ"
+        },
+        {
+          "word": "這入り込む",
+          "reading": "はいりこむ"
+        },
+        {
+          "word": "入り込む",
+          "reading": "いりこむ"
+        },
+        {
+          "word": "入りこむ",
+          "reading": "いりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "這い這い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這い這い",
+          "reading": "はいはい"
+        },
+        {
+          "reading": "ハイハイ"
+        }
+      ]
+    },
+    {
+      "slug": "這い出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這い出す",
+          "reading": "はいだす"
+        },
+        {
+          "word": "はい出す",
+          "reading": "はいだす"
+        }
+      ]
+    },
+    {
+      "slug": "入り切る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "入りきる",
+          "reading": "はいりきる"
+        },
+        {
+          "word": "入り切る",
+          "reading": "はいりきる"
+        }
+      ]
+    },
+    {
+      "slug": "這い上がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這い上がる",
+          "reading": "はいあがる"
+        },
+        {
+          "word": "這い上る",
+          "reading": "はいあがる"
+        },
+        {
+          "word": "はい上がる",
+          "reading": "はいあがる"
+        }
+      ]
+    },
+    {
+      "slug": "這い込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這い込む",
+          "reading": "はいこむ"
+        }
+      ]
+    },
+    {
+      "slug": "這柏槇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這柏槇",
+          "reading": "はいびゃくしん"
+        },
+        {
+          "reading": "ハイビャクシン"
+        }
+      ]
+    },
+    {
+      "slug": "這いずる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這いずる",
+          "reading": "はいずる"
+        }
+      ]
+    },
+    {
+      "slug": "這い松",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這松",
+          "reading": "はいまつ"
+        },
+        {
+          "word": "這い松",
+          "reading": "はいまつ"
+        },
+        {
+          "reading": "ハイマツ"
+        }
+      ]
+    },
+    {
+      "slug": "這々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這々",
+          "reading": "ほうほう"
+        },
+        {
+          "word": "這這",
+          "reading": "ほうほう"
+        }
+      ]
+    },
+    {
+      "slug": "這般",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這般",
+          "reading": "しゃはん"
+        }
+      ]
+    },
+    {
+      "slug": "這杜松",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這杜松",
+          "reading": "はいねず"
+        },
+        {
+          "reading": "ハイネズ"
+        }
+      ]
+    },
+    {
+      "slug": "ほうほうの体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ほうほうの体",
+          "reading": "ほうほうのてい"
+        },
+        {
+          "word": "這々の体",
+          "reading": "ほうほうのてい"
+        },
+        {
+          "word": "這う這うの体",
+          "reading": "ほうほうのてい"
+        },
+        {
+          "word": "這這の体",
+          "reading": "ほうほうのてい"
+        }
+      ]
+    },
+    {
+      "slug": "這裏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這裏",
+          "reading": "しゃり"
+        }
+      ]
+    },
+    {
+      "slug": "這い蹲う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這いつくばう",
+          "reading": "はいつくばう"
+        },
+        {
+          "word": "這い蹲う",
+          "reading": "はいつくばう"
+        }
+      ]
+    },
+    {
+      "slug": "這いずり回る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這いずり回る",
+          "reading": "はいずりまわる"
+        },
+        {
+          "word": "はいずり回る",
+          "reading": "はいずりまわる"
+        }
+      ]
+    },
+    {
+      "slug": "這いよる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "這い寄る",
+          "reading": "はいよる"
+        },
+        {
+          "word": "這いよる",
+          "reading": "はいよる"
+        }
+      ]
+    }
   ]
 }

@@ -28,7 +28,7 @@
       "values": [
         "nothingness",
         "none",
-        "ain\u0027t",
+        "ain't",
         "nothing",
         "nil",
         "not"
@@ -81,6 +81,353 @@
       "startStroke": 8,
       "strokes": 4,
       "variant": true
+    }
+  ],
+  "sentences": [
+    {
+      "content": "トムは無病状です。",
+      "furigana": "トムは[無病状|む|びょう|じょう]です。",
+      "translation_zh_CN": "汤姆没有任何健康问题。"
+    },
+    {
+      "content": "彼女は無関心を装った。",
+      "furigana": "[彼女|かの|じょ]は[無関心|む|かん|しん]を[装|よそお]った。",
+      "translation_zh_CN": "她佯装漠不关心。"
+    },
+    {
+      "content": "彼らは政治には無関心だ。",
+      "furigana": "[彼|かれ]らは[政治|せい|じ]には[無関心|む|かん|しん]だ。",
+      "translation_zh_CN": "他们不关心政治。"
+    },
+    {
+      "content": "組合は無期限ストに入った。",
+      "furigana": "[組合|くみ|あい]は[無期限|む|き|げん]ストに[入|はい]った。",
+      "translation_zh_CN": "工会进行了无限期罢工。"
+    },
+    {
+      "content": "トムは政治に無関心だ。",
+      "furigana": "トムは[政治|せい|じ]に[無関心|む|かん|しん]だ。",
+      "translation_zh_CN": "汤姆对政治不感兴趣。"
+    },
+    {
+      "content": "被験者は無作為に抽出された。",
+      "furigana": "[被験者|ひ|けん|しゃ]は[無作為|む|さく|い]に[抽出|ちゅう|しゅつ]された。",
+      "translation_zh_CN": "受试者是随机选择的。"
+    },
+    {
+      "content": "彼らは政治に無関心だ。",
+      "furigana": "[彼|かれ]らは[政治|せい|じ]に[無関心|む|かん|しん]だ。",
+      "translation_zh_CN": "他们不关心政治。"
+    },
+    {
+      "content": "彼女は政治には無関心だった。",
+      "furigana": "[彼女|かの|じょ]は[政治|せい|じ]には[無関心|む|かん|しん]だった。",
+      "translation_zh_CN": "她对政治不感兴趣。"
+    },
+    {
+      "content": "警察はその件は無関心だった。",
+      "furigana": "[警察|けい|さつ]はその[件|けん]は[無関心|む|かん|しん]だった。",
+      "translation_zh_CN": "警方对此事不感兴趣。"
+    },
+    {
+      "content": "試合は無期限に延期となった。",
+      "furigana": "[試合|し|あい]は[無期限|む|き|げん]に[延期|えん|き]となった。",
+      "translation_zh_CN": "比赛无限期推迟。"
+    },
+    {
+      "content": "無料なのですか。",
+      "furigana": "[無料|む|りょう]なのですか。",
+      "translation_zh_CN": "这是免费的吗？"
+    },
+    {
+      "content": "無理しないでね。",
+      "furigana": "[無理|む|り]しないでね。",
+      "translation_zh_CN": "放輕鬆。"
+    },
+    {
+      "content": "それは無料です。",
+      "furigana": "それは[無料|む|りょう]です。",
+      "translation_zh_CN": "它是免費的。"
+    },
+    {
+      "content": "彼は無礼な人だ。",
+      "furigana": "[彼|かれ]は[無礼|ぶ|れい]な[人|ひと]だ。",
+      "translation_zh_CN": "他這個人不講禮貌。"
+    },
+    {
+      "content": "彼女は無口です。",
+      "furigana": "[彼女|かの|じょ]は[無口|む|くち]です。",
+      "translation_zh_CN": "她很安静。"
+    },
+    {
+      "content": "残念だが無理だ。",
+      "furigana": "[残念|ざん|ねん]だが[無理|む|り]だ。",
+      "translation_zh_CN": "我很抱歉, 但它是不可能的。"
+    },
+    {
+      "content": "連帯責任は無責任。",
+      "furigana": "[連帯|れん|たい][責任|せき|にん]は[無責任|む|せき|にん]。",
+      "translation_zh_CN": "全体负责就是无责。"
+    },
+    {
+      "content": "彼は無遠慮な人だ。",
+      "furigana": "[彼|かれ]は[無遠慮|ぶ|えん|りょ]な[人|ひと]だ。",
+      "translation_zh_CN": "他這個人不講禮貌。"
+    },
+    {
+      "content": "空には雲一つ無い。",
+      "furigana": "[空|そら]には[雲|くも][一|ひと]つ[無|な]い。",
+      "translation_zh_CN": "天上没有一片云。"
+    },
+    {
+      "content": "泣いても無駄です。",
+      "furigana": "[泣|な]いても[無駄|む|だ]です。",
+      "translation_zh_CN": "哭是无济于事的。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "無料",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "無料",
+          "reading": "むりょう"
+        }
+      ]
+    },
+    {
+      "slug": "無くす",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "無くす",
+          "reading": "なくす"
+        },
+        {
+          "word": "失くす",
+          "reading": "なくす"
+        }
+      ]
+    },
+    {
+      "slug": "無限",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "無限",
+          "reading": "むげん"
+        }
+      ]
+    },
+    {
+      "slug": "無理",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "無理",
+          "reading": "むり"
+        },
+        {
+          "reading": "ムリ"
+        }
+      ]
+    },
+    {
+      "slug": "無効",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "無効",
+          "reading": "むこう"
+        }
+      ]
+    },
+    {
+      "slug": "無くなる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "無くなる",
+          "reading": "なくなる"
+        }
+      ]
+    },
+    {
+      "slug": "無知",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "無知",
+          "reading": "むち"
+        },
+        {
+          "word": "無智",
+          "reading": "むち"
+        }
+      ]
+    },
+    {
+      "slug": "無口",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "無口",
+          "reading": "むくち"
+        }
+      ]
+    },
+    {
+      "slug": "無駄",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "無駄",
+          "reading": "むだ"
+        },
+        {
+          "word": "徒",
+          "reading": "むだ"
+        },
+        {
+          "reading": "ムダ"
+        }
+      ]
+    },
+    {
+      "slug": "無視",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "無視",
+          "reading": "むし"
+        }
+      ]
+    },
+    {
+      "slug": "無事",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "無事",
+          "reading": "ぶじ"
+        }
+      ]
+    },
+    {
+      "slug": "無数",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "無数",
+          "reading": "むすう"
+        }
+      ]
+    },
+    {
+      "slug": "無線",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "無線",
+          "reading": "むせん"
+        }
+      ]
+    },
+    {
+      "slug": "無地",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "無地",
+          "reading": "むじ"
+        }
+      ]
+    },
+    {
+      "slug": "無駄遣い",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "無駄遣い",
+          "reading": "むだづかい"
+        },
+        {
+          "word": "徒遣い",
+          "reading": "むだづかい"
+        },
+        {
+          "word": "無駄使い",
+          "reading": "むだづかい"
+        }
+      ]
+    },
+    {
+      "slug": "無断",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "無断",
+          "reading": "むだん"
+        }
+      ]
+    },
+    {
+      "slug": "無用",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "無用",
+          "reading": "むよう"
+        }
+      ]
+    },
+    {
+      "slug": "無論",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "無論",
+          "reading": "むろん"
+        }
+      ]
     }
   ]
 }

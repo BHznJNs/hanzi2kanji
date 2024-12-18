@@ -101,5 +101,72 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "窯元",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窯元",
+          "reading": "かまもと"
+        },
+        {
+          "word": "かま元",
+          "reading": "かまもと"
+        }
+      ]
+    },
+    {
+      "slug": "窯業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窯業",
+          "reading": "ようぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "窯印",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窯印",
+          "reading": "かまじるし"
+        }
+      ]
+    },
+    {
+      "slug": "窯場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窯場",
+          "reading": "かまば"
+        }
+      ]
+    },
+    {
+      "slug": "窯出し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窯出し",
+          "reading": "かまだし"
+        }
+      ]
+    },
+    {
+      "slug": "窯変",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "窯変",
+          "reading": "ようへん"
+        }
+      ]
+    }
   ]
 }

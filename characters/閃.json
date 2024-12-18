@@ -40,5 +40,160 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "閃く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃く",
+          "reading": "ひらめく"
+        },
+        {
+          "word": "閃く",
+          "reading": "ひろめく"
+        }
+      ]
+    },
+    {
+      "slug": "閃き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃き",
+          "reading": "ひらめき"
+        }
+      ]
+    },
+    {
+      "slug": "閃光",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃光",
+          "reading": "せんこう"
+        }
+      ]
+    },
+    {
+      "slug": "閃亜鉛鉱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃亜鉛鉱",
+          "reading": "せんあえんこう"
+        }
+      ]
+    },
+    {
+      "slug": "閃緑岩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃緑岩",
+          "reading": "せんりょくがん"
+        }
+      ]
+    },
+    {
+      "slug": "閃光発音筒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃光発音筒",
+          "reading": "せんこうはつおんとう"
+        }
+      ]
+    },
+    {
+      "slug": "閃光電球",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃光電球",
+          "reading": "せんこうでんきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "閃光信号",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃光信号",
+          "reading": "せんこうしんごう"
+        }
+      ]
+    },
+    {
+      "slug": "閃閃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃々",
+          "reading": "せんせん"
+        },
+        {
+          "word": "閃閃",
+          "reading": "せんせん"
+        }
+      ]
+    },
+    {
+      "slug": "閃電",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃電",
+          "reading": "せんでん"
+        }
+      ]
+    },
+    {
+      "slug": "閃かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃かす",
+          "reading": "ひらめかす"
+        }
+      ]
+    },
+    {
+      "slug": "閃光灯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃光灯",
+          "reading": "せんこうとう"
+        }
+      ]
+    },
+    {
+      "slug": "閃電岩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃電岩",
+          "reading": "せんでんがん"
+        }
+      ]
+    },
+    {
+      "slug": "閃ウラン鉱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閃ウラン鉱",
+          "reading": "せんウランこう"
+        },
+        {
+          "word": "センウラン鉱",
+          "reading": "センウランこう"
+        }
+      ]
+    }
   ]
 }

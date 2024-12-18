@@ -106,5 +106,307 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "動物園に行きましょう！",
+      "furigana": "[動物園|どう|ぶつ|えん]に[行|い]きましょう！",
+      "translation_zh_CN": "我们去动物园吧！"
+    },
+    {
+      "content": "動物園に行こう。",
+      "furigana": "[動物園|どう|ぶつ|えん]に[行|い]こう。",
+      "translation_zh_CN": "我们去动物园吧。"
+    },
+    {
+      "content": "昨日動物園に行った。",
+      "furigana": "[昨日|きのう][動物園|どう|ぶつ|えん]に[行|い]った。",
+      "translation_zh_CN": "我昨天去了动物园。"
+    },
+    {
+      "content": "動物園に行ったんだ。",
+      "furigana": "[動物園|どう|ぶつ|えん]に[行|い]ったんだ。",
+      "translation_zh_CN": "我去了动物园。"
+    },
+    {
+      "content": "動物園にアライグマがいる。",
+      "furigana": "[動物園|どう|ぶつ|えん]にアライグマがいる。",
+      "translation_zh_CN": "动物园里有一只浣熊。"
+    },
+    {
+      "content": "私は動物園に行った。",
+      "furigana": "[私|わたし]は[動物園|どう|ぶつ|えん]に[行|い]った。",
+      "translation_zh_CN": "我去了动物园。"
+    },
+    {
+      "content": "私は動物園へ行った。",
+      "furigana": "[私|わたし]は[動物園|どう|ぶつ|えん]へ[行|い]った。",
+      "translation_zh_CN": "我去了动物园。"
+    },
+    {
+      "content": "大きな動物が動物園から逃げた。",
+      "furigana": "[大|おお]きな[動物|どう|ぶつ]が[動物園|どう|ぶつ|えん]から[逃|に]げた。",
+      "translation_zh_CN": "一只大动物从动物园逃走了。"
+    },
+    {
+      "content": "動物園に行きたいんです。",
+      "furigana": "[動物園|どう|ぶつ|えん]に[行|い]きたいんです。",
+      "translation_zh_CN": "我想去动物园。"
+    },
+    {
+      "content": "彼らは動物園へ行った。",
+      "furigana": "[彼|かれ]らは[動物園|どう|ぶつ|えん]へ[行|い]った。",
+      "translation_zh_CN": "他们去了动物园。"
+    },
+    {
+      "content": "私は公園に行く。",
+      "furigana": "[私|わたし]は[公園|こう|えん]に[行|い]く。",
+      "translation_zh_CN": "我去公園。"
+    },
+    {
+      "content": "公園で散歩なう。",
+      "furigana": "[公園|こう|えん]で[散歩|さん|ぽ]なう。",
+      "translation_zh_CN": "我在公园里走。"
+    },
+    {
+      "content": "昨日動物園に行った。",
+      "furigana": "[昨日|きのう][動物|どう|ぶつ][園|えん]に[行|い]った。",
+      "translation_zh_CN": "我昨天去了动物园。"
+    },
+    {
+      "content": "彼は毎日公園を走る。",
+      "furigana": "[彼|かれ]は[毎日|まい|にち][公園|こう|えん]を[走|はし]る。",
+      "translation_zh_CN": "他每天都在公园中跑步。"
+    },
+    {
+      "content": "私は動物園へ行った。",
+      "furigana": "[私|わたし]は[動物|どう|ぶつ][園|えん]へ[行|い]った。",
+      "translation_zh_CN": "我去了动物园。"
+    },
+    {
+      "content": "私は動物園に行った。",
+      "furigana": "[私|わたし]は[動物|どう|ぶつ][園|えん]に[行|い]った。",
+      "translation_zh_CN": "我去了动物园。"
+    },
+    {
+      "content": "公園でHしたことある？",
+      "furigana": "[公園|こう|えん]で[H|えいち]したことある？",
+      "translation_zh_CN": "你在公园做过爱吗？"
+    },
+    {
+      "content": "そこは公園もあるよ。",
+      "furigana": "そこは[公園|こう|えん]もあるよ。",
+      "translation_zh_CN": "那里也有个公园。"
+    },
+    {
+      "content": "動物園に行ったんだ。",
+      "furigana": "[動物|どう|ぶつ][園|えん]に[行|い]ったんだ。",
+      "translation_zh_CN": "我去了动物园。"
+    },
+    {
+      "content": "公園を散歩しています。",
+      "furigana": "[公園|こう|えん]を[散歩|さん|ぽ]しています。",
+      "translation_zh_CN": "我在公园散步。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "園芸",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "園芸",
+          "reading": "えんげい"
+        }
+      ]
+    },
+    {
+      "slug": "園遊会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園遊会",
+          "reading": "えんゆうかい"
+        }
+      ]
+    },
+    {
+      "slug": "園長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園長",
+          "reading": "えんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "園内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園内",
+          "reading": "えんない"
+        },
+        {
+          "word": "苑内",
+          "reading": "えんない"
+        }
+      ]
+    },
+    {
+      "slug": "園児",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園児",
+          "reading": "えんじ"
+        }
+      ]
+    },
+    {
+      "slug": "園田学園女子大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園田学園女子大学",
+          "reading": "そのだがくえんじょしだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "園芸学会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園芸学会",
+          "reading": "えんげいがっかい"
+        }
+      ]
+    },
+    {
+      "slug": "園部中央図書館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園部中央図書館",
+          "reading": "そのべちゅうおうとしょかん"
+        }
+      ]
+    },
+    {
+      "slug": "園芸学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園芸学",
+          "reading": "えんげいがく"
+        }
+      ]
+    },
+    {
+      "slug": "園芸家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園芸家",
+          "reading": "えんげいか"
+        }
+      ]
+    },
+    {
+      "slug": "園舎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園舎",
+          "reading": "えんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "園芸店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園芸店",
+          "reading": "えんげいてん"
+        }
+      ]
+    },
+    {
+      "slug": "園庭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園庭",
+          "reading": "えんてい"
+        }
+      ]
+    },
+    {
+      "slug": "園庭開放",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園庭開放",
+          "reading": "えんていかいほう"
+        }
+      ]
+    },
+    {
+      "slug": "園芸品種",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園芸品種",
+          "reading": "えんげいひんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "園地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園地",
+          "reading": "えんち"
+        },
+        {
+          "word": "苑地",
+          "reading": "えんち"
+        }
+      ]
+    },
+    {
+      "slug": "園芸用具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園芸用具",
+          "reading": "えんげいようぐ"
+        }
+      ]
+    },
+    {
+      "slug": "園芸用こて",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "園芸用こて",
+          "reading": "えんげいようこて"
+        },
+        {
+          "word": "園芸用鏝",
+          "reading": "えんげいようこて"
+        },
+        {
+          "word": "園藝用鏝",
+          "reading": "えんげいようこて"
+        }
+      ]
+    }
   ]
 }

@@ -53,5 +53,289 @@
       "strokes": 3,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "その言葉には馴染みがないな。",
+      "furigana": "その[言葉|こと|ば]には[馴染|な|じ]みがないな。",
+      "translation_zh_CN": "我对这个单词不熟。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "慣れる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "慣れる",
+          "reading": "なれる"
+        },
+        {
+          "word": "馴れる",
+          "reading": "なれる"
+        }
+      ]
+    },
+    {
+      "slug": "慣らす",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣らす",
+          "reading": "ならす"
+        },
+        {
+          "word": "馴らす",
+          "reading": "ならす"
+        }
+      ]
+    },
+    {
+      "slug": "馴れ馴れしい",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "馴れ馴れしい",
+          "reading": "なれなれしい"
+        },
+        {
+          "word": "狎れ狎れしい",
+          "reading": "なれなれしい"
+        }
+      ]
+    },
+    {
+      "slug": "馴染む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴染む",
+          "reading": "なじむ"
+        }
+      ]
+    },
+    {
+      "slug": "慣れ親しむ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣れ親しむ",
+          "reading": "なれしたしむ"
+        },
+        {
+          "word": "なれ親しむ",
+          "reading": "なれしたしむ"
+        },
+        {
+          "word": "馴れ親しむ",
+          "reading": "なれしたしむ"
+        }
+      ]
+    },
+    {
+      "slug": "慣れっこ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣れっこ",
+          "reading": "なれっこ"
+        },
+        {
+          "word": "馴れっこ",
+          "reading": "なれっこ"
+        }
+      ]
+    },
+    {
+      "slug": "慣れ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣れ",
+          "reading": "なれ"
+        },
+        {
+          "word": "馴れ",
+          "reading": "なれ"
+        }
+      ]
+    },
+    {
+      "slug": "馴染み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴染み",
+          "reading": "なじみ"
+        },
+        {
+          "word": "馴染",
+          "reading": "なじみ"
+        }
+      ]
+    },
+    {
+      "slug": "馴染み深い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴染み深い",
+          "reading": "なじみぶかい"
+        },
+        {
+          "word": "なじみ深い",
+          "reading": "なじみぶかい"
+        }
+      ]
+    },
+    {
+      "slug": "馴鹿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴鹿",
+          "reading": "となかい"
+        },
+        {
+          "reading": "トナカイ"
+        }
+      ]
+    },
+    {
+      "slug": "順化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "順化",
+          "reading": "じゅんか"
+        },
+        {
+          "word": "馴化",
+          "reading": "じゅんか"
+        }
+      ]
+    },
+    {
+      "slug": "馴らし手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴らし手",
+          "reading": "ならして"
+        }
+      ]
+    },
+    {
+      "slug": "馴染ませる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴染ませる",
+          "reading": "なじませる"
+        }
+      ]
+    },
+    {
+      "slug": "なじみ客",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なじみ客",
+          "reading": "なじみきゃく"
+        },
+        {
+          "word": "馴染み客",
+          "reading": "なじみきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "馴れ初め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴れ初め",
+          "reading": "なれそめ"
+        }
+      ]
+    },
+    {
+      "slug": "馴れ合い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴れ合い",
+          "reading": "なれあい"
+        },
+        {
+          "word": "なれ合い",
+          "reading": "なれあい"
+        }
+      ]
+    },
+    {
+      "slug": "馴れ合い夫婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴れ合い夫婦",
+          "reading": "なれあいふうふ"
+        },
+        {
+          "word": "なれ合い夫婦",
+          "reading": "なれあいふうふ"
+        }
+      ]
+    },
+    {
+      "slug": "馴れ合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴れ合う",
+          "reading": "なれあう"
+        },
+        {
+          "word": "なれ合う",
+          "reading": "なれあう"
+        }
+      ]
+    },
+    {
+      "slug": "慣らし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣らし",
+          "reading": "ならし"
+        },
+        {
+          "word": "馴らし",
+          "reading": "ならし"
+        },
+        {
+          "reading": "ナラシ"
+        }
+      ]
+    },
+    {
+      "slug": "馴れた",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馴れた",
+          "reading": "なれた"
+        }
+      ]
+    }
   ]
 }

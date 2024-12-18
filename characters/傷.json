@@ -126,5 +126,399 @@
       "startStroke": 9,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "傷がふさがりません。",
+      "furigana": "[傷|きず]がふさがりません。",
+      "translation_zh_CN": "伤口不会闭合。"
+    },
+    {
+      "content": "傷が化膿しました。",
+      "furigana": "[傷|きず]が[化膿|か|のう]しました。",
+      "translation_zh_CN": "伤口溃烂。"
+    },
+    {
+      "content": "傷がうずいていた。",
+      "furigana": "[傷|きず]がうずいていた。",
+      "translation_zh_CN": "伤口很痛。"
+    },
+    {
+      "content": "傷を見せてください。",
+      "furigana": "[傷|きず]を[見|み]せてください。",
+      "translation_zh_CN": "请让我看看你的伤疤。"
+    },
+    {
+      "content": "トムは傷を負った。",
+      "furigana": "トムは[傷|きず]を[負|お]った。",
+      "translation_zh_CN": "汤姆受伤了。"
+    },
+    {
+      "content": "傷はまだ治っていない。",
+      "furigana": "[傷|きず]はまだ[治|なお]っていない。",
+      "translation_zh_CN": "伤口还没有愈合。"
+    },
+    {
+      "content": "傷から流れる血を止めなさい。",
+      "furigana": "[傷|きず]から[流|なが]れる[血|ち]を[止|と]めなさい。",
+      "translation_zh_CN": "阻止血液从伤口流出。"
+    },
+    {
+      "content": "彼女の傷は致命傷らしい。",
+      "furigana": "[彼女|かの|じょ]の[傷|きず]は[致命傷|ち|めい|しょう]らしい。",
+      "translation_zh_CN": "她的伤势看来是致命的。"
+    },
+    {
+      "content": "そのリンゴは傷が付いている。",
+      "furigana": "そのリンゴは[傷|きず]が[付|つ]いている。",
+      "translation_zh_CN": "苹果被碰伤了。"
+    },
+    {
+      "content": "ここにすり傷があります。",
+      "furigana": "ここにすり[傷|きず]があります。",
+      "translation_zh_CN": "这里有一个划痕。"
+    },
+    {
+      "content": "誰も傷つけないで！",
+      "furigana": "[誰|だれ]も[傷|きず]つけないで！",
+      "translation_zh_CN": "別冒犯任何人。"
+    },
+    {
+      "content": "傷付けないでくれ。",
+      "furigana": "[傷付|きず|つ]けないでくれ。",
+      "translation_zh_CN": "不要傷害我。"
+    },
+    {
+      "content": "トムは傷を受けた。",
+      "furigana": "トムは[傷|きず]を[受|う]けた。",
+      "translation_zh_CN": "Tom负伤了。"
+    },
+    {
+      "content": "牛乳が傷んでるよ。",
+      "furigana": "[牛乳|ぎゅう|にゅう]が[傷|いた]んでるよ。",
+      "translation_zh_CN": "牛奶變質了。"
+    },
+    {
+      "content": "彼は戦争で負傷した。",
+      "furigana": "[彼|かれ]は[戦争|せん|そう]で[負傷|ふ|しょう]した。",
+      "translation_zh_CN": "他是在战争中受伤的。"
+    },
+    {
+      "content": "彼は事故で負傷した。",
+      "furigana": "[彼|かれ]は[事故|じ|こ]で[負傷|ふ|しょう]した。",
+      "translation_zh_CN": "他在事故中受傷。"
+    },
+    {
+      "content": "傷口からうみが出た。",
+      "furigana": "[傷口|きず|ぐち]からうみが[出|で]た。",
+      "translation_zh_CN": "傷口流出膿液。"
+    },
+    {
+      "content": "傷あとが残りますか。",
+      "furigana": "[傷|きず]あとが[残|のこ]りますか。",
+      "translation_zh_CN": "我会留疤吗？"
+    },
+    {
+      "content": "指先を火傷しました。",
+      "furigana": "[指先|ゆび|さき]を[火傷|やけど]しました。",
+      "translation_zh_CN": "我把我的指尖給燒傷了。"
+    },
+    {
+      "content": "彼女を傷付けないで。",
+      "furigana": "[彼女|かの|じょ]を[傷付|きず|つ]けないで。",
+      "translation_zh_CN": "不要伤害她！"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "痛み",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "痛み",
+          "reading": "いたみ"
+        },
+        {
+          "word": "傷み",
+          "reading": "いたみ"
+        }
+      ]
+    },
+    {
+      "slug": "痛む",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "痛む",
+          "reading": "いたむ"
+        },
+        {
+          "word": "傷む",
+          "reading": "いたむ"
+        }
+      ]
+    },
+    {
+      "slug": "痛める",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "痛める",
+          "reading": "いためる"
+        },
+        {
+          "word": "傷める",
+          "reading": "いためる"
+        }
+      ]
+    },
+    {
+      "slug": "傷つく",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "傷つく",
+          "reading": "きずつく"
+        },
+        {
+          "word": "傷付く",
+          "reading": "きずつく"
+        },
+        {
+          "word": "疵つく",
+          "reading": "きずつく"
+        },
+        {
+          "word": "疵付く",
+          "reading": "きずつく"
+        }
+      ]
+    },
+    {
+      "slug": "傷口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷口",
+          "reading": "きずぐち"
+        },
+        {
+          "word": "疵口",
+          "reading": "きずぐち"
+        }
+      ]
+    },
+    {
+      "slug": "傷跡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷跡",
+          "reading": "きずあと"
+        },
+        {
+          "word": "傷痕",
+          "reading": "きずあと"
+        },
+        {
+          "word": "疵痕",
+          "reading": "きずあと"
+        },
+        {
+          "word": "傷痕",
+          "reading": "しょうこん"
+        }
+      ]
+    },
+    {
+      "slug": "痛手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛手",
+          "reading": "いたで"
+        },
+        {
+          "word": "傷手",
+          "reading": "いたで"
+        }
+      ]
+    },
+    {
+      "slug": "傷付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷つける",
+          "reading": "きずつける"
+        },
+        {
+          "word": "傷付ける",
+          "reading": "きずつける"
+        },
+        {
+          "word": "疵付ける",
+          "reading": "きずつける"
+        },
+        {
+          "word": "疵つける",
+          "reading": "きずつける"
+        }
+      ]
+    },
+    {
+      "slug": "痛ましい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛ましい",
+          "reading": "いたましい"
+        },
+        {
+          "word": "傷ましい",
+          "reading": "いたましい"
+        }
+      ]
+    },
+    {
+      "slug": "傷心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷心",
+          "reading": "しょうしん"
+        }
+      ]
+    },
+    {
+      "slug": "痛み入る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛み入る",
+          "reading": "いたみいる"
+        },
+        {
+          "word": "傷み入る",
+          "reading": "いたみいる"
+        }
+      ]
+    },
+    {
+      "slug": "傷物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷物",
+          "reading": "きずもの"
+        },
+        {
+          "word": "傷もの",
+          "reading": "きずもの"
+        },
+        {
+          "word": "疵物",
+          "reading": "きずもの"
+        }
+      ]
+    },
+    {
+      "slug": "傷害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷害",
+          "reading": "しょうがい"
+        }
+      ]
+    },
+    {
+      "slug": "傷者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷者",
+          "reading": "しょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "痛み分け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛み分け",
+          "reading": "いたみわけ"
+        },
+        {
+          "word": "痛みわけ",
+          "reading": "いたみわけ"
+        },
+        {
+          "word": "傷み分け",
+          "reading": "いたみわけ"
+        }
+      ]
+    },
+    {
+      "slug": "傷病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷病",
+          "reading": "しょうびょう"
+        }
+      ]
+    },
+    {
+      "slug": "傷害保険",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷害保険",
+          "reading": "しょうがいほけん"
+        }
+      ]
+    },
+    {
+      "slug": "傷兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傷兵",
+          "reading": "しょうへい"
+        }
+      ]
+    },
+    {
+      "slug": "痛々しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "痛々しい",
+          "reading": "いたいたしい"
+        },
+        {
+          "word": "痛痛しい",
+          "reading": "いたいたしい"
+        },
+        {
+          "word": "傷々しい",
+          "reading": "いたいたしい"
+        },
+        {
+          "word": "傷傷しい",
+          "reading": "いたいたしい"
+        }
+      ]
+    }
   ]
 }

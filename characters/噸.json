@@ -88,5 +88,32 @@
       "startStroke": 14,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "噸数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "噸数",
+          "reading": "とんすう"
+        }
+      ]
+    },
+    {
+      "slug": "トン税",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "トン税",
+          "reading": "トンぜい"
+        },
+        {
+          "word": "噸税",
+          "reading": "トンぜい"
+        }
+      ]
+    }
   ]
 }

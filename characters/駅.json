@@ -81,5 +81,311 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "東京駅なう。",
+      "furigana": "[東京駅|とう|きょう|えき]なう。",
+      "translation_zh_CN": "现在东京站。"
+    },
+    {
+      "content": "駅で待ち合わせよう。",
+      "furigana": "[駅|えき]で[待|ま]ち[合|あ]わせよう。",
+      "translation_zh_CN": "我们在车站见面吧。"
+    },
+    {
+      "content": "駅で偶然出会った。",
+      "furigana": "[駅|えき]で[偶然出会|ぐう|ぜん|で|あ]った。",
+      "translation_zh_CN": "我们在车站偶然相遇。"
+    },
+    {
+      "content": "駅まで歩きましょう。",
+      "furigana": "[駅|えき]まで[歩|ある]きましょう。",
+      "translation_zh_CN": "我们步行去车站吧。"
+    },
+    {
+      "content": "もう駅に着いてしまった。",
+      "furigana": "もう[駅|えき]に[着|つ]いてしまった。",
+      "translation_zh_CN": "我已经到车站了。"
+    },
+    {
+      "content": "駅に着いたよ。",
+      "furigana": "[駅|えき]に[着|つ]いたよ。",
+      "translation_zh_CN": "我到了车站。"
+    },
+    {
+      "content": "駅は右側です。",
+      "furigana": "[駅|えき]は[右側|みぎ|がわ]です。",
+      "translation_zh_CN": "车站位于右侧。"
+    },
+    {
+      "content": "駅は少し離れている。",
+      "furigana": "[駅|えき]は[少|すこ]し[離|はな]れている。",
+      "translation_zh_CN": "车站有点远。"
+    },
+    {
+      "content": "明日駅で会いましょう。",
+      "furigana": "[明日駅|あけ|び|えき]で[会|あ]いましょう。",
+      "translation_zh_CN": "我们明天在车站见面吧。"
+    },
+    {
+      "content": "姫路駅で降りなさい。",
+      "furigana": "[姫路駅|ひめ|じ|えき]で[降|お]りなさい。",
+      "translation_zh_CN": "在姬路站下车。"
+    },
+    {
+      "content": "今駅に着いたわ。",
+      "furigana": "[今|いま][駅|えき]に[着|つ]いたわ。",
+      "translation_zh_CN": "我們剛到達車站。"
+    },
+    {
+      "content": "駅はどこですか。",
+      "furigana": "[駅|えき]はどこですか。",
+      "translation_zh_CN": "火车站在哪里?"
+    },
+    {
+      "content": "上野駅についたぞ。",
+      "furigana": "[上野|うえ|の][駅|えき]についたぞ。",
+      "translation_zh_CN": "我们到Ueno站了。"
+    },
+    {
+      "content": "次の駅で降ります。",
+      "furigana": "[次|つぎ]の[駅|えき]で[降|お]ります。",
+      "translation_zh_CN": "我在下一站下车。"
+    },
+    {
+      "content": "私は駅まで歩いた。",
+      "furigana": "[私|わたし]は[駅|えき]まで[歩|ある]いた。",
+      "translation_zh_CN": "我一直走到火車站。"
+    },
+    {
+      "content": "駅はすぐ近くです。",
+      "furigana": "[駅|えき]はすぐ[近|ちか]くです。",
+      "translation_zh_CN": "車站就在這裏附近。"
+    },
+    {
+      "content": "駅はすぐそこです。",
+      "furigana": "[駅|えき]はすぐそこです。",
+      "translation_zh_CN": "車站就在這裏附近。"
+    },
+    {
+      "content": "私達は駅へ急いだ。",
+      "furigana": "[私|わたし][達|たち]は[駅|えき]へ[急|いそ]いだ。",
+      "translation_zh_CN": "我们匆忙地去火车站了。"
+    },
+    {
+      "content": "僕は駅で彼に会った。",
+      "furigana": "[僕|ぼく]は[駅|えき]で[彼|かれ]に[会|あ]った。",
+      "translation_zh_CN": "我在車站遇見他。"
+    },
+    {
+      "content": "彼は次の駅で降りた。",
+      "furigana": "[彼|かれ]は[次|つぎ]の[駅|えき]で[降|お]りた。",
+      "translation_zh_CN": "他在下一站下車了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "駅弁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅弁",
+          "reading": "えきべん"
+        }
+      ]
+    },
+    {
+      "slug": "駅前",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅前",
+          "reading": "えきまえ"
+        }
+      ]
+    },
+    {
+      "slug": "駅員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅員",
+          "reading": "えきいん"
+        }
+      ]
+    },
+    {
+      "slug": "駅長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅長",
+          "reading": "えきちょう"
+        }
+      ]
+    },
+    {
+      "slug": "駅伝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅伝",
+          "reading": "えきでん"
+        }
+      ]
+    },
+    {
+      "slug": "駅頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅頭",
+          "reading": "えきとう"
+        }
+      ]
+    },
+    {
+      "slug": "駅舎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅舎",
+          "reading": "えきしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "駅馬車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅馬車",
+          "reading": "えきばしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "駅伝競走",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅伝競走",
+          "reading": "えきでんきょうそう"
+        }
+      ]
+    },
+    {
+      "slug": "駅家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅家",
+          "reading": "えきか"
+        },
+        {
+          "word": "駅家",
+          "reading": "うまや"
+        },
+        {
+          "word": "駅家",
+          "reading": "えきや"
+        }
+      ]
+    },
+    {
+      "slug": "駅前通り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅前通り",
+          "reading": "えきまえどおり"
+        }
+      ]
+    },
+    {
+      "slug": "駅前広場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅前広場",
+          "reading": "えきまえひろば"
+        }
+      ]
+    },
+    {
+      "slug": "駅売り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅売り",
+          "reading": "えきうり"
+        }
+      ]
+    },
+    {
+      "slug": "駅前留学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅前留学",
+          "reading": "えきまえりゅうがく"
+        }
+      ]
+    },
+    {
+      "slug": "駅夫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅夫",
+          "reading": "えきふ"
+        }
+      ]
+    },
+    {
+      "slug": "駅務",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅務",
+          "reading": "えきむ"
+        }
+      ]
+    },
+    {
+      "slug": "駅弁大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅弁大学",
+          "reading": "えきべんだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "駅子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅子",
+          "reading": "えきし"
+        },
+        {
+          "word": "驛子",
+          "reading": "えきし"
+        }
+      ]
+    },
+    {
+      "slug": "駅名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駅名",
+          "reading": "えきめい"
+        }
+      ]
+    }
   ]
 }

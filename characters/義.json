@@ -125,5 +125,281 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は義務を怠った。",
+      "furigana": "[彼|かれ]は[義務|ぎ|む]を[怠|おこた]った。",
+      "translation_zh_CN": "他怠忽職守了。"
+    },
+    {
+      "content": "彼は完璧主義者だ。",
+      "furigana": "[彼|かれ]は[完璧|かん|ぺき][主義|しゅ|ぎ][者|しゃ]だ。",
+      "translation_zh_CN": "他是个绝对不会偷工减料的人。"
+    },
+    {
+      "content": "私は菜食主義者です。",
+      "furigana": "[私|わたし]は[菜食|さい|しょく][主義|しゅ|ぎ][者|しゃ]です。",
+      "translation_zh_CN": "我是吃素的。"
+    },
+    {
+      "content": "彼女は義務を果たした。",
+      "furigana": "[彼女|かの|じょ]は[義務|ぎ|む]を[果|は]たした。",
+      "translation_zh_CN": "她盡了自己的職責。"
+    },
+    {
+      "content": "それは私の主義に反する。",
+      "furigana": "それは[私|わたし]の[主義|しゅ|ぎ]に[反|はん]する。",
+      "translation_zh_CN": "那違背了我做人的原則。"
+    },
+    {
+      "content": "最後には正義は勝つものだ。",
+      "furigana": "[最後|さい|ご]には[正義|せい|ぎ]は[勝|か]つものだ。",
+      "translation_zh_CN": "正义终将胜利。"
+    },
+    {
+      "content": "法律に従うのは我々の義務だ。",
+      "furigana": "[法律|ほう|りつ]に[従|したが]うのは[我々|われわれ]の[義務|ぎ|む]だ。",
+      "translation_zh_CN": "遵守法律是我們的義務。"
+    },
+    {
+      "content": "あなたを助けるのが私の義務です。",
+      "furigana": "あなたを[助|たす]けるのが[私|わたし]の[義務|ぎ|む]です。",
+      "translation_zh_CN": "帮助你是我的责任。"
+    },
+    {
+      "content": "私たちは、民主主義を信じている。",
+      "furigana": "[私|わたし]たちは、[民主|みん|しゅ][主義|しゅ|ぎ]を[信|しん]じている。",
+      "translation_zh_CN": "我们相信民主。"
+    },
+    {
+      "content": "彼は金のために自分の主義を捨てた。",
+      "furigana": "[彼|かれ]は[金|きん]のために[自分|じ|ぶん]の[主義|しゅ|ぎ]を[捨|す]てた。",
+      "translation_zh_CN": "他为了钱抛弃自己的原则。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "義務",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "義務",
+          "reading": "ぎむ"
+        }
+      ]
+    },
+    {
+      "slug": "義理",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "義理",
+          "reading": "ぎり"
+        }
+      ]
+    },
+    {
+      "slug": "義務教育",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義務教育",
+          "reading": "ぎむきょういく"
+        }
+      ]
+    },
+    {
+      "slug": "義母",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義母",
+          "reading": "ぎぼ"
+        }
+      ]
+    },
+    {
+      "slug": "義兄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義兄",
+          "reading": "ぎけい"
+        },
+        {
+          "word": "義兄",
+          "reading": "あに"
+        }
+      ]
+    },
+    {
+      "slug": "義弟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義弟",
+          "reading": "ぎてい"
+        },
+        {
+          "word": "義弟",
+          "reading": "おとうと"
+        }
+      ]
+    },
+    {
+      "slug": "義姉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義姉",
+          "reading": "ぎし"
+        },
+        {
+          "word": "義姉",
+          "reading": "あね"
+        }
+      ]
+    },
+    {
+      "slug": "義務付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義務付ける",
+          "reading": "ぎむづける"
+        },
+        {
+          "word": "義務づける",
+          "reading": "ぎむづける"
+        }
+      ]
+    },
+    {
+      "slug": "義理の姉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義理の姉",
+          "reading": "ぎりのあね"
+        }
+      ]
+    },
+    {
+      "slug": "義理のお兄さん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義理のお兄さん",
+          "reading": "ぎりのおにいさん"
+        }
+      ]
+    },
+    {
+      "slug": "義勇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義勇",
+          "reading": "ぎゆう"
+        }
+      ]
+    },
+    {
+      "slug": "義援金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義援金",
+          "reading": "ぎえんきん"
+        },
+        {
+          "word": "義捐金",
+          "reading": "ぎえんきん"
+        }
+      ]
+    },
+    {
+      "slug": "義太夫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義太夫",
+          "reading": "ぎだゆう"
+        }
+      ]
+    },
+    {
+      "slug": "義父",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義父",
+          "reading": "ぎふ"
+        }
+      ]
+    },
+    {
+      "slug": "義務付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義務付け",
+          "reading": "ぎむづけ"
+        }
+      ]
+    },
+    {
+      "slug": "義歯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義歯",
+          "reading": "ぎし"
+        }
+      ]
+    },
+    {
+      "slug": "義捐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義捐",
+          "reading": "ぎえん"
+        },
+        {
+          "word": "義援",
+          "reading": "ぎえん"
+        }
+      ]
+    },
+    {
+      "slug": "義妹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義妹",
+          "reading": "ぎまい"
+        },
+        {
+          "word": "義妹",
+          "reading": "いもうと"
+        }
+      ]
+    },
+    {
+      "slug": "義士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "義士",
+          "reading": "ぎし"
+        }
+      ]
+    }
   ]
 }

@@ -104,5 +104,295 @@
       "startStroke": 12,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "試運転では車両はみんなうまく動いた。",
+      "furigana": "[試運転|し|うん|てん]では[車両|しゃ|りょう]はみんなうまく[動|うご]いた。",
+      "translation_zh_CN": "试驾过程中所有车辆运行良好。"
+    },
+    {
+      "content": "彼女は私の試着用にピンクのシャツを選んだ。",
+      "furigana": "[彼女|かの|じょ]は[私|わたし]の[試着用|し|ちゃく|よう]にピンクのシャツを[選|えら]んだ。",
+      "translation_zh_CN": "她选了一件粉红色的衬衫让我试穿。"
+    },
+    {
+      "content": "試着できますか。",
+      "furigana": "[試|し][着|ちゃく]できますか。",
+      "translation_zh_CN": "我能试一下吗？"
+    },
+    {
+      "content": "試験はどうだった？",
+      "furigana": "[試験|し|けん]はどうだった？",
+      "translation_zh_CN": "考得如何？"
+    },
+    {
+      "content": "試してみようよ。",
+      "furigana": "[試|ため]してみようよ。",
+      "translation_zh_CN": "我們試試看！"
+    },
+    {
+      "content": "試験頑張ってね。",
+      "furigana": "[試験|し|けん][頑張|がん|ば]ってね。",
+      "translation_zh_CN": "考试加油！"
+    },
+    {
+      "content": "試験はいつあるの？",
+      "furigana": "[試験|し|けん]はいつあるの？",
+      "translation_zh_CN": "你什麼時候考試？"
+    },
+    {
+      "content": "彼、試験に通ったの？",
+      "furigana": "[彼|かれ]、[試験|し|けん]に[通|とお]ったの？",
+      "translation_zh_CN": "他考過了嗎？"
+    },
+    {
+      "content": "試験は上手くいった？",
+      "furigana": "[試験|し|けん]は[上手|うま]くいった？",
+      "translation_zh_CN": "考试考得不错吗？"
+    },
+    {
+      "content": "その試合、見ました？",
+      "furigana": "その[試合|し|あい]、[見|み]ました？",
+      "translation_zh_CN": "你看了比賽嗎？"
+    },
+    {
+      "content": "試合はいつ始まるの？",
+      "furigana": "[試合|し|あい]はいつ[始|はじ]まるの？",
+      "translation_zh_CN": "游戏几点开始？"
+    },
+    {
+      "content": "試着室はどこですか。",
+      "furigana": "[試|し][着|ちゃく][室|しつ]はどこですか。",
+      "translation_zh_CN": "試衣間在哪裏？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "試験",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "試験",
+          "reading": "しけん"
+        }
+      ]
+    },
+    {
+      "slug": "試合",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "試合",
+          "reading": "しあい"
+        },
+        {
+          "word": "仕合",
+          "reading": "しあい"
+        }
+      ]
+    },
+    {
+      "slug": "試す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "試す",
+          "reading": "ためす"
+        },
+        {
+          "word": "験す",
+          "reading": "ためす"
+        }
+      ]
+    },
+    {
+      "slug": "試し",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "試し",
+          "reading": "ためし"
+        },
+        {
+          "word": "験し",
+          "reading": "ためし"
+        },
+        {
+          "word": "験",
+          "reading": "ためし"
+        }
+      ]
+    },
+    {
+      "slug": "試み",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "試み",
+          "reading": "こころみ"
+        }
+      ]
+    },
+    {
+      "slug": "試みる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "試みる",
+          "reading": "こころみる"
+        }
+      ]
+    },
+    {
+      "slug": "試金石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試金石",
+          "reading": "しきんせき"
+        }
+      ]
+    },
+    {
+      "slug": "試験管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試験管",
+          "reading": "しけんかん"
+        }
+      ]
+    },
+    {
+      "slug": "試練",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試練",
+          "reading": "しれん"
+        },
+        {
+          "word": "試煉",
+          "reading": "しれん"
+        },
+        {
+          "word": "試錬",
+          "reading": "しれん"
+        }
+      ]
+    },
+    {
+      "slug": "試食",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試食",
+          "reading": "ししょく"
+        }
+      ]
+    },
+    {
+      "slug": "試行錯誤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試行錯誤",
+          "reading": "しこうさくご"
+        }
+      ]
+    },
+    {
+      "slug": "試写",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試写",
+          "reading": "ししゃ"
+        }
+      ]
+    },
+    {
+      "slug": "試着",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試着",
+          "reading": "しちゃく"
+        }
+      ]
+    },
+    {
+      "slug": "試乗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試乗",
+          "reading": "しじょう"
+        }
+      ]
+    },
+    {
+      "slug": "試掘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試掘",
+          "reading": "しくつ"
+        }
+      ]
+    },
+    {
+      "slug": "試飲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試飲",
+          "reading": "しいん"
+        }
+      ]
+    },
+    {
+      "slug": "試運転",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試運転",
+          "reading": "しうんてん"
+        }
+      ]
+    },
+    {
+      "slug": "試験勉強",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試験勉強",
+          "reading": "しけんべんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "試着室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "試着室",
+          "reading": "しちゃくしつ"
+        }
+      ]
+    }
   ]
 }

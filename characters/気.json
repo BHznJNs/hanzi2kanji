@@ -73,5 +73,342 @@
       "startStroke": 4,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "気をつけます。",
+      "furigana": "[気|き]をつけます。",
+      "translation_zh_CN": "我会小心的。"
+    },
+    {
+      "content": "気をつけて！",
+      "furigana": "[気|き]をつけて！",
+      "translation_zh_CN": "当心！"
+    },
+    {
+      "content": "気にするな。",
+      "furigana": "[気|き]にするな。",
+      "translation_zh_CN": "不用担心。"
+    },
+    {
+      "content": "気にくわないの？",
+      "furigana": "[気|き]にくわないの？",
+      "translation_zh_CN": "你不喜欢吗？"
+    },
+    {
+      "content": "思い出したら気が滅入った。",
+      "furigana": "[思|おも]い[出|だ]したら[気|き]が[滅入|め|い]った。",
+      "translation_zh_CN": "当我想起这件事时，我感到沮丧。"
+    },
+    {
+      "content": "気にしていないよ。",
+      "furigana": "[気|き]にしていないよ。",
+      "translation_zh_CN": "我不在乎。"
+    },
+    {
+      "content": "気を付けてね。",
+      "furigana": "[気|き]を[付|つ]けてね。",
+      "translation_zh_CN": "请小心。"
+    },
+    {
+      "content": "気がのらないな。",
+      "furigana": "[気|き]がのらないな。",
+      "translation_zh_CN": "我不喜欢这样。"
+    },
+    {
+      "content": "気が利くなあ。",
+      "furigana": "[気|き]が[利|き]くなあ。",
+      "translation_zh_CN": "这真是太细心了。"
+    },
+    {
+      "content": "気が抜けちゃったよ。",
+      "furigana": "[気|き]が[抜|ぬ]けちゃったよ。",
+      "translation_zh_CN": "我失去了理智。"
+    },
+    {
+      "content": "明日天気になあれ！",
+      "furigana": "[明日|あした][天気|てん|き]になあれ！",
+      "translation_zh_CN": "雨，雨，快点消失吧。"
+    },
+    {
+      "content": "僕はいい気分だ。",
+      "furigana": "[僕|ぼく]はいい[気分|き|ぶん]だ。",
+      "translation_zh_CN": "我感觉很好。"
+    },
+    {
+      "content": "彼は病気らしい。",
+      "furigana": "[彼|かれ]は[病気|びょう|き]らしい。",
+      "translation_zh_CN": "他好像病了。"
+    },
+    {
+      "content": "彼は気が狂った。",
+      "furigana": "[彼|かれ]は[気|き]が[狂|くる]った。",
+      "translation_zh_CN": "他疯了。"
+    },
+    {
+      "content": "吐き気がします。",
+      "furigana": "[吐|は]き[気|け]がします。",
+      "translation_zh_CN": "我想吐。"
+    },
+    {
+      "content": "私も元気ですよ。",
+      "furigana": "[私|わたし]も[元気|げん|き]ですよ。",
+      "translation_zh_CN": "我也很好."
+    },
+    {
+      "content": "気にすんなって。",
+      "furigana": "[気|き]にすんなって。",
+      "translation_zh_CN": "不要擔心。"
+    },
+    {
+      "content": "何の病気ですか。",
+      "furigana": "[何|なん]の[病気|びょう|き]ですか。",
+      "translation_zh_CN": "我得了什麼病？"
+    },
+    {
+      "content": "やあ、ビル。元気？",
+      "furigana": "やあ、ビル。[元気|げん|き]？",
+      "translation_zh_CN": "嗨，比爾。你好嗎?"
+    },
+    {
+      "content": "いい天気ですね。",
+      "furigana": "いい[天気|てん|き]ですね。",
+      "translation_zh_CN": "美丽的一天，不是吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "気分",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "気分",
+          "reading": "きぶん"
+        }
+      ]
+    },
+    {
+      "slug": "気候",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "気候",
+          "reading": "きこう"
+        }
+      ]
+    },
+    {
+      "slug": "気圧",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "気圧",
+          "reading": "きあつ"
+        }
+      ]
+    },
+    {
+      "slug": "気体",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "気体",
+          "reading": "きたい"
+        }
+      ]
+    },
+    {
+      "slug": "気質",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "気質",
+          "reading": "きしつ"
+        },
+        {
+          "word": "気質",
+          "reading": "かたぎ"
+        },
+        {
+          "word": "形気",
+          "reading": "かたぎ"
+        },
+        {
+          "word": "容気",
+          "reading": "かたぎ"
+        }
+      ]
+    },
+    {
+      "slug": "気象",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "気象",
+          "reading": "きしょう"
+        }
+      ]
+    },
+    {
+      "slug": "気温",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "気温",
+          "reading": "きおん"
+        }
+      ]
+    },
+    {
+      "slug": "気味",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "気味",
+          "reading": "きみ"
+        },
+        {
+          "word": "気味",
+          "reading": "きび"
+        }
+      ]
+    },
+    {
+      "slug": "機嫌",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "機嫌",
+          "reading": "きげん"
+        },
+        {
+          "word": "譏嫌",
+          "reading": "きげん"
+        },
+        {
+          "word": "気嫌",
+          "reading": "きげん"
+        }
+      ]
+    },
+    {
+      "slug": "気付く",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "気づく",
+          "reading": "きづく"
+        },
+        {
+          "word": "気付く",
+          "reading": "きづく"
+        }
+      ]
+    },
+    {
+      "slug": "気に入る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "気に入る",
+          "reading": "きにいる"
+        },
+        {
+          "word": "気にいる",
+          "reading": "きにいる"
+        }
+      ]
+    },
+    {
+      "slug": "気の毒",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "気の毒",
+          "reading": "きのどく"
+        }
+      ]
+    },
+    {
+      "slug": "気配",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "気配",
+          "reading": "けはい"
+        },
+        {
+          "word": "気配",
+          "reading": "きはい"
+        }
+      ]
+    },
+    {
+      "slug": "気楽",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "気楽",
+          "reading": "きらく"
+        }
+      ]
+    },
+    {
+      "slug": "気軽",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "気軽",
+          "reading": "きがる"
+        }
+      ]
+    },
+    {
+      "slug": "気まぐれ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "気まぐれ",
+          "reading": "きまぐれ"
+        },
+        {
+          "word": "気紛れ",
+          "reading": "きまぐれ"
+        }
+      ]
+    }
   ]
 }

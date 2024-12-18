@@ -58,5 +58,314 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "どうしたんだよ電気もつけずに",
+      "furigana": "どうしたんだよ[電気|でんき]もつけずに",
+      "translation_zh_CN": "我连灯都没开，怎么了？"
+    },
+    {
+      "content": "嵐の間停電した。",
+      "furigana": "[嵐|あらし]の[間|ま][停電|てい|でん]した。",
+      "translation_zh_CN": "暴风雨中，停电了。"
+    },
+    {
+      "content": "毎晩電話するよ。",
+      "furigana": "[毎晩|まい|ばん][電話|でん|わ]するよ。",
+      "translation_zh_CN": "我每晚都給你打電話。"
+    },
+    {
+      "content": "電話にでなさい。",
+      "furigana": "[電話|でん|わ]にでなさい。",
+      "translation_zh_CN": "接电话。"
+    },
+    {
+      "content": "今夜電話します。",
+      "furigana": "[今夜|こん|や][電話|でん|わ]します。",
+      "translation_zh_CN": "我今晚给你打电话。"
+    },
+    {
+      "content": "後で電話します。",
+      "furigana": "[後|あと]で[電話|でん|わ]します。",
+      "translation_zh_CN": "我晚点打给你。"
+    },
+    {
+      "content": "後で電話するよ。",
+      "furigana": "[後|あと]で[電話|でん|わ]するよ。",
+      "translation_zh_CN": "我晚点打给你。"
+    },
+    {
+      "content": "私は電気工です。",
+      "furigana": "[私|わたし]は[電気|でん|き][工|こう]です。",
+      "translation_zh_CN": "我是一名電工。"
+    },
+    {
+      "content": "もう電話するな。",
+      "furigana": "もう[電話|でん|わ]するな。",
+      "translation_zh_CN": "別再給我打電話了。"
+    },
+    {
+      "content": "お電話ください。",
+      "furigana": "お[電話|でん|わ]ください。",
+      "translation_zh_CN": "联系我们。"
+    },
+    {
+      "content": "終電は何時ですか？",
+      "furigana": "[終電|しゅう|でん]は[何|なん][時|じ]ですか？",
+      "translation_zh_CN": "末班车是几点？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "稲妻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "稲妻",
+          "reading": "いなずま"
+        },
+        {
+          "word": "稲妻",
+          "reading": "いなづま"
+        },
+        {
+          "word": "電",
+          "reading": "いなずま"
+        },
+        {
+          "word": "電",
+          "reading": "いなづま"
+        }
+      ]
+    },
+    {
+      "slug": "電話",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "電話",
+          "reading": "でんわ"
+        }
+      ]
+    },
+    {
+      "slug": "電車",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "電車",
+          "reading": "でんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "電気",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "電気",
+          "reading": "でんき"
+        }
+      ]
+    },
+    {
+      "slug": "電報",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "電報",
+          "reading": "でんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "電子",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "電子",
+          "reading": "でんし"
+        }
+      ]
+    },
+    {
+      "slug": "電池",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "電池",
+          "reading": "でんち"
+        }
+      ]
+    },
+    {
+      "slug": "電力",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "電力",
+          "reading": "でんりょく"
+        }
+      ]
+    },
+    {
+      "slug": "電柱",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "電柱",
+          "reading": "でんちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "電球",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "電球",
+          "reading": "でんきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "電波",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "電波",
+          "reading": "でんぱ"
+        },
+        {
+          "reading": "デムパ"
+        },
+        {
+          "reading": "デンパ"
+        }
+      ]
+    },
+    {
+      "slug": "電流",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "電流",
+          "reading": "でんりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "電灯",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "電灯",
+          "reading": "でんとう"
+        },
+        {
+          "word": "電燈",
+          "reading": "でんとう"
+        }
+      ]
+    },
+    {
+      "slug": "電線",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "電線",
+          "reading": "でんせん"
+        }
+      ]
+    },
+    {
+      "slug": "電源",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "電源",
+          "reading": "でんげん"
+        }
+      ]
+    },
+    {
+      "slug": "電話機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電話機",
+          "reading": "でんわき"
+        }
+      ]
+    },
+    {
+      "slug": "電卓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電卓",
+          "reading": "でんたく"
+        }
+      ]
+    },
+    {
+      "slug": "電話帳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電話帳",
+          "reading": "でんわちょう"
+        }
+      ]
+    },
+    {
+      "slug": "電話番号",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電話番号",
+          "reading": "でんわばんごう"
+        }
+      ]
+    },
+    {
+      "slug": "電子工学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "電子工学",
+          "reading": "でんしこうがく"
+        }
+      ]
+    }
   ]
 }

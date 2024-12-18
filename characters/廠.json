@@ -93,5 +93,18 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "廠舎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廠舎",
+          "reading": "しょうしゃ"
+        }
+      ]
+    }
   ]
 }

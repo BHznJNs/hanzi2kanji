@@ -30,8 +30,8 @@
       "values": [
         "individuel",
         "privé",
-        "compteur d\u0027articles",
-        "compteur d\u0027unités militaires"
+        "compteur d'articles",
+        "compteur d'unités militaires"
       ]
     },
     {
@@ -88,6 +88,359 @@
       "startStroke": 9,
       "strokes": 1,
       "part": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "はい、２個です。",
+      "furigana": "はい、２[個|こ]です。",
+      "translation_zh_CN": "是的，有两个。"
+    },
+    {
+      "content": "ハンバーグは何個買った？",
+      "furigana": "ハンバーグは[何個買|なん|こ|か]った？",
+      "translation_zh_CN": "你买了多少个汉堡？"
+    },
+    {
+      "content": "１個は重かったよ。",
+      "furigana": "１[個|こ]は[重|おも]かったよ。",
+      "translation_zh_CN": "其中一件很重。"
+    },
+    {
+      "content": "漢字、何個覚えた？",
+      "furigana": "[漢字|かん|じ]、[何個覚|なん|こ|おぼ]えた？",
+      "translation_zh_CN": "你记住了多少个汉字？"
+    },
+    {
+      "content": "リンゴ、何個いる？",
+      "furigana": "リンゴ、[何個|なん|こ]いる？",
+      "translation_zh_CN": "有多少个苹果？"
+    },
+    {
+      "content": "ポテチ何個買ったの？",
+      "furigana": "ポテチ[何個買|なん|こ|か]ったの？",
+      "translation_zh_CN": "你买了多少片薯片？"
+    },
+    {
+      "content": "３個ずつください。",
+      "furigana": "[３個|さん|こ]ずつください。",
+      "translation_zh_CN": "请给我每人三块。"
+    },
+    {
+      "content": "ハンバーガーは何個買ったの？",
+      "furigana": "ハンバーガーは[何個買|なん|こ|か]ったの？",
+      "translation_zh_CN": "你买了多少个汉堡？"
+    },
+    {
+      "content": "角砂糖を一個入れて下さい。",
+      "furigana": "[角砂糖|かく|ざ|とう]を[一個入|いっ|こ|い]れて[下|くだ]さい。",
+      "translation_zh_CN": "请添加一颗方糖。"
+    },
+    {
+      "content": "ドーナツを３個食べたよ。",
+      "furigana": "ドーナツを[３個食|さん|こ|た]べたよ。",
+      "translation_zh_CN": "我吃了三个甜甜圈。"
+    },
+    {
+      "content": "リンゴ、何個いる？",
+      "furigana": "リンゴ、[何|なん][個|こ]いる？",
+      "translation_zh_CN": "你要多少個蘋果？"
+    },
+    {
+      "content": "彼女は個性が強い。",
+      "furigana": "[彼女|かの|じょ]は[個性|こ|せい]が[強|つよ]い。",
+      "translation_zh_CN": "她有很强的个性。"
+    },
+    {
+      "content": "荷物は何個ですか。",
+      "furigana": "[荷物|に|もつ]は[何|なん][個|こ]ですか。",
+      "translation_zh_CN": "请问您有多少件行李？"
+    },
+    {
+      "content": "リンゴは何個あるの？",
+      "furigana": "リンゴは[何|なん][個|こ]あるの？",
+      "translation_zh_CN": "几只苹果？"
+    },
+    {
+      "content": "母は卵を十個茹でた。",
+      "furigana": "[母|はは]は[卵|たまご]を[十|じゅう][個|こ][茹|ゆ]でた。",
+      "translation_zh_CN": "妈妈煮了十只蛋。"
+    },
+    {
+      "content": "ジョンは私の２個上。",
+      "furigana": "ジョンは[私|わたし]の[２|に][個|こ][上|うえ]。",
+      "translation_zh_CN": "John比我大两岁。"
+    },
+    {
+      "content": "彼は私より３個上だよ。",
+      "furigana": "[彼|かれ]は[私|わたし]より[３|さん][個|こ][上|うえ]だよ。",
+      "translation_zh_CN": "他比我大三歲。"
+    },
+    {
+      "content": "机の上にリンゴが１個ある。",
+      "furigana": "[机|つくえ]の[上|うえ]にリンゴが[１|いっ][個|こ]ある。",
+      "translation_zh_CN": "桌上有个苹果。"
+    },
+    {
+      "content": "彼女は個人的な配慮をした。",
+      "furigana": "[彼女|かの|じょ]は[個人|こ|じん][的|てき]な[配慮|はい|りょ]をした。",
+      "translation_zh_CN": "她親自過問了此事。"
+    },
+    {
+      "content": "もう一個ケーキ食べてもいい？",
+      "furigana": "もう[一|いっ][個|こ]ケーキ[食|た]べてもいい？",
+      "translation_zh_CN": "我可以再吃一塊蛋糕嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "個人",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "個人",
+          "reading": "こじん"
+        }
+      ]
+    },
+    {
+      "slug": "箇所",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "箇所",
+          "reading": "かしょ"
+        },
+        {
+          "word": "個所",
+          "reading": "かしょ"
+        },
+        {
+          "word": "カ所",
+          "reading": "かしょ"
+        },
+        {
+          "word": "ヶ所",
+          "reading": "かしょ"
+        },
+        {
+          "word": "か所",
+          "reading": "かしょ"
+        },
+        {
+          "word": "ヵ所",
+          "reading": "かしょ"
+        },
+        {
+          "word": "ケ所",
+          "reading": "かしょ"
+        }
+      ]
+    },
+    {
+      "slug": "個性",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "個性",
+          "reading": "こせい"
+        }
+      ]
+    },
+    {
+      "slug": "個々",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "個々",
+          "reading": "ここ"
+        },
+        {
+          "word": "個個",
+          "reading": "ここ"
+        },
+        {
+          "word": "箇々",
+          "reading": "ここ"
+        },
+        {
+          "word": "箇箇",
+          "reading": "ここ"
+        }
+      ]
+    },
+    {
+      "slug": "個別",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "個別",
+          "reading": "こべつ"
+        },
+        {
+          "word": "箇別",
+          "reading": "こべつ"
+        }
+      ]
+    },
+    {
+      "slug": "カ月",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "ヶ月",
+          "reading": "かげつ"
+        },
+        {
+          "word": "ヵ月",
+          "reading": "かげつ"
+        },
+        {
+          "word": "カ月",
+          "reading": "かげつ"
+        },
+        {
+          "word": "か月",
+          "reading": "かげつ"
+        },
+        {
+          "word": "ケ月",
+          "reading": "かげつ"
+        },
+        {
+          "word": "箇月",
+          "reading": "かげつ"
+        },
+        {
+          "word": "個月",
+          "reading": "かげつ"
+        }
+      ]
+    },
+    {
+      "slug": "個人的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個人的",
+          "reading": "こじんてき"
+        }
+      ]
+    },
+    {
+      "slug": "個室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個室",
+          "reading": "こしつ"
+        }
+      ]
+    },
+    {
+      "slug": "個人差",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個人差",
+          "reading": "こじんさ"
+        }
+      ]
+    },
+    {
+      "slug": "個性的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個性的",
+          "reading": "こせいてき"
+        }
+      ]
+    },
+    {
+      "slug": "個体",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "個体",
+          "reading": "こたい"
+        }
+      ]
+    },
+    {
+      "slug": "個人情報",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個人情報",
+          "reading": "こじんじょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "個人用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個人用",
+          "reading": "こじんよう"
+        }
+      ]
+    },
+    {
+      "slug": "個体発生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個体発生",
+          "reading": "こたいはっせい"
+        }
+      ]
+    },
+    {
+      "slug": "個人教授",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個人教授",
+          "reading": "こじんきょうじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "個人消費",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個人消費",
+          "reading": "こじんしょうひ"
+        }
+      ]
+    },
+    {
+      "slug": "個人個人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "個人個人",
+          "reading": "こじんこじん"
+        }
+      ]
     }
   ]
 }

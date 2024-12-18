@@ -87,5 +87,210 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "貿易",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "貿易",
+          "reading": "ぼうえき"
+        }
+      ]
+    },
+    {
+      "slug": "貿易障壁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易障壁",
+          "reading": "ぼうえきしょうへき"
+        }
+      ]
+    },
+    {
+      "slug": "貿易摩擦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易摩擦",
+          "reading": "ぼうえきまさつ"
+        }
+      ]
+    },
+    {
+      "slug": "貿易会社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易会社",
+          "reading": "ぼうえきがいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "貿易赤字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易赤字",
+          "reading": "ぼうえきあかじ"
+        }
+      ]
+    },
+    {
+      "slug": "貿易収支",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易収支",
+          "reading": "ぼうえきしゅうし"
+        }
+      ]
+    },
+    {
+      "slug": "貿易黒字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易黒字",
+          "reading": "ぼうえきくろじ"
+        }
+      ]
+    },
+    {
+      "slug": "貿易上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易上",
+          "reading": "ぼうえきじょう"
+        }
+      ]
+    },
+    {
+      "slug": "貿易業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易業",
+          "reading": "ぼうえきぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "貿易依存度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易依存度",
+          "reading": "ぼうえきいぞんど"
+        }
+      ]
+    },
+    {
+      "slug": "貿易商",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易商",
+          "reading": "ぼうえきしょう"
+        }
+      ]
+    },
+    {
+      "slug": "貿易風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易風",
+          "reading": "ぼうえきふう"
+        }
+      ]
+    },
+    {
+      "slug": "貿易戦争",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易戦争",
+          "reading": "ぼうえきせんそう"
+        }
+      ]
+    },
+    {
+      "slug": "貿易保険",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易保険",
+          "reading": "ぼうえきほけん"
+        }
+      ]
+    },
+    {
+      "slug": "貿易法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易法",
+          "reading": "ぼうえきほう"
+        }
+      ]
+    },
+    {
+      "slug": "貿易港",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易港",
+          "reading": "ぼうえきこう"
+        }
+      ]
+    },
+    {
+      "slug": "貿易自由化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易自由化",
+          "reading": "ぼうえきじゆうか"
+        }
+      ]
+    },
+    {
+      "slug": "貿易紛争",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易紛争",
+          "reading": "ぼうえきふんそう"
+        }
+      ]
+    },
+    {
+      "slug": "貿易協定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易協定",
+          "reading": "ぼうえききょうてい"
+        }
+      ]
+    },
+    {
+      "slug": "貿易都市",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貿易都市",
+          "reading": "ぼうえきとし"
+        }
+      ]
+    }
   ]
 }

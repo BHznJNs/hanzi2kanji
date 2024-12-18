@@ -67,5 +67,110 @@
       "strokes": 5,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "雇い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "雇い",
+          "reading": "やとい"
+        },
+        {
+          "word": "雇",
+          "reading": "やとい"
+        },
+        {
+          "word": "傭い",
+          "reading": "やとい"
+        },
+        {
+          "word": "傭",
+          "reading": "やとい"
+        }
+      ]
+    },
+    {
+      "slug": "雇う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "雇う",
+          "reading": "やとう"
+        },
+        {
+          "word": "傭う",
+          "reading": "やとう"
+        }
+      ]
+    },
+    {
+      "slug": "傭兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傭兵",
+          "reading": "ようへい"
+        }
+      ]
+    },
+    {
+      "slug": "用船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "用船",
+          "reading": "ようせん"
+        },
+        {
+          "word": "傭船",
+          "reading": "ようせん"
+        }
+      ]
+    },
+    {
+      "slug": "傭人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傭人",
+          "reading": "ようにん"
+        }
+      ]
+    },
+    {
+      "slug": "傭船契約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傭船契約",
+          "reading": "ようせんけいやく"
+        }
+      ]
+    },
+    {
+      "slug": "傭い兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傭い兵",
+          "reading": "やといへい"
+        }
+      ]
+    },
+    {
+      "slug": "傭聘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傭聘",
+          "reading": "ようへい"
+        }
+      ]
+    }
   ]
 }

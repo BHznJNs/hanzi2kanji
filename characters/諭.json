@@ -107,5 +107,91 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "諭す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諭す",
+          "reading": "さとす"
+        }
+      ]
+    },
+    {
+      "slug": "諭し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諭し",
+          "reading": "さとし"
+        }
+      ]
+    },
+    {
+      "slug": "諭示",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諭示",
+          "reading": "ゆし"
+        }
+      ]
+    },
+    {
+      "slug": "諭旨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諭旨",
+          "reading": "ゆし"
+        }
+      ]
+    },
+    {
+      "slug": "諭告",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諭告",
+          "reading": "ゆこく"
+        }
+      ]
+    },
+    {
+      "slug": "諭旨免職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諭旨免職",
+          "reading": "ゆしめんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "諭吉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諭吉",
+          "reading": "ゆきち"
+        },
+        {
+          "reading": "ユキチ"
+        }
+      ]
+    },
+    {
+      "slug": "諭旨解雇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諭旨解雇",
+          "reading": "ゆしかいこ"
+        }
+      ]
+    }
   ]
 }

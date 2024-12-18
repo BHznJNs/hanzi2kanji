@@ -86,5 +86,144 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "醤油",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "醤油",
+          "reading": "しょうゆ"
+        },
+        {
+          "word": "醬油",
+          "reading": "しょうゆ"
+        },
+        {
+          "word": "正油",
+          "reading": "しょうゆ"
+        }
+      ]
+    },
+    {
+      "slug": "醤油皿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醤油皿",
+          "reading": "しょうゆざら"
+        }
+      ]
+    },
+    {
+      "slug": "しょうゆ顔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "しょうゆ顔",
+          "reading": "しょうゆがお"
+        },
+        {
+          "word": "醤油顔",
+          "reading": "しょうゆがお"
+        }
+      ]
+    },
+    {
+      "slug": "醤蝦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醤蝦",
+          "reading": "あみ"
+        },
+        {
+          "word": "糠蝦",
+          "reading": "あみ"
+        },
+        {
+          "reading": "アミ"
+        }
+      ]
+    },
+    {
+      "slug": "醤油炒め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醤油炒め",
+          "reading": "しょうゆいため"
+        },
+        {
+          "word": "しょうゆ炒め",
+          "reading": "しょうゆいため"
+        }
+      ]
+    },
+    {
+      "slug": "醤油差し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醤油差し",
+          "reading": "しょうゆさし"
+        }
+      ]
+    },
+    {
+      "slug": "醤油粕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醤油粕",
+          "reading": "しょうゆかす"
+        }
+      ]
+    },
+    {
+      "slug": "醤油ダレ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醤油ダレ",
+          "reading": "しょうゆダレ"
+        },
+        {
+          "word": "醤油だれ",
+          "reading": "しょうゆだれ"
+        },
+        {
+          "word": "醤油垂れ",
+          "reading": "しょうゆだれ"
+        },
+        {
+          "word": "醤油タレ",
+          "reading": "しょうゆタレ"
+        },
+        {
+          "word": "醤油たれ",
+          "reading": "しょうゆたれ"
+        },
+        {
+          "word": "醤油垂れ",
+          "reading": "しょうゆたれ"
+        }
+      ]
+    },
+    {
+      "slug": "醤油ラーメン",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "醤油ラーメン",
+          "reading": "しょうゆラーメン"
+        }
+      ]
+    }
   ]
 }

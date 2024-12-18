@@ -57,5 +57,117 @@
       "startStroke": 4,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "お風呂沸いたわよ。",
+      "furigana": "お[風呂|ふ|ろ][沸|わ]いたわよ。",
+      "translation_zh_CN": "浴缸已經準備好了。"
+    },
+    {
+      "content": "お風呂先に入るね。",
+      "furigana": "お[風呂|ふ|ろ][先|さき]に[入|はい]るね。",
+      "translation_zh_CN": "那我先去泡澡了哟。"
+    },
+    {
+      "content": "お風呂空いてるよ。",
+      "furigana": "お[風呂|ふ|ろ][空|あ]いてるよ。",
+      "translation_zh_CN": "现在浴室空着哟。"
+    },
+    {
+      "content": "お風呂の時間です。",
+      "furigana": "お[風呂|ふ|ろ]の[時間|じ|かん]です。",
+      "translation_zh_CN": "是时候洗个澡了。"
+    },
+    {
+      "content": "私は毎晩風呂に入る。",
+      "furigana": "[私|わたし]は[毎晩|まい|ばん][風呂|ふ|ろ]に[入|はい]る。",
+      "translation_zh_CN": "我每晚洗澡。"
+    },
+    {
+      "content": "毎日お風呂に入るよ。",
+      "furigana": "[毎日|まい|にち]お[風呂|ふ|ろ]に[入|はい]るよ。",
+      "translation_zh_CN": "我每天都洗澡。"
+    },
+    {
+      "content": "彼女はお風呂にいます。",
+      "furigana": "[彼女|かの|じょ]はお[風呂|ふ|ろ]にいます。",
+      "translation_zh_CN": "她在浴室。"
+    },
+    {
+      "content": "お風呂に入ってくるよ。",
+      "furigana": "お[風呂|ふ|ろ]に[入|はい]ってくるよ。",
+      "translation_zh_CN": "我打算洗个澡。"
+    },
+    {
+      "content": "お風呂はきれいですか。",
+      "furigana": "お[風呂|ふ|ろ]はきれいですか。",
+      "translation_zh_CN": "浴室干净吗？"
+    },
+    {
+      "content": "先お風呂入っていいよ。",
+      "furigana": "[先|さき]お[風呂|ふ|ろ][入|はい]っていいよ。",
+      "translation_zh_CN": "你先去泡吧。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "呂律",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呂律",
+          "reading": "ろれつ"
+        }
+      ]
+    },
+    {
+      "slug": "蝋色漆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蝋色漆",
+          "reading": "ろいろうるし"
+        },
+        {
+          "word": "呂色漆",
+          "reading": "ろいろうるし"
+        }
+      ]
+    },
+    {
+      "slug": "ろれつが回らない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ろれつが回らない",
+          "reading": "ろれつがまわらない"
+        },
+        {
+          "word": "呂律が回らない",
+          "reading": "ろれつがまわらない"
+        }
+      ]
+    },
+    {
+      "slug": "呂旋法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呂旋法",
+          "reading": "りょせんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "呂旋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呂旋",
+          "reading": "りょせん"
+        }
+      ]
+    }
   ]
 }

@@ -61,5 +61,52 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "駁する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駁する",
+          "reading": "ばくする"
+        }
+      ]
+    },
+    {
+      "slug": "斑毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "斑毛",
+          "reading": "ぶちげ"
+        },
+        {
+          "word": "駁毛",
+          "reading": "ぶちげ"
+        }
+      ]
+    },
+    {
+      "slug": "駁論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駁論",
+          "reading": "ばくろん"
+        }
+      ]
+    },
+    {
+      "slug": "駁撃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駁撃",
+          "reading": "ばくげき"
+        }
+      ]
+    }
   ]
 }

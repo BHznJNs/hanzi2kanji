@@ -34,7 +34,7 @@
       "values": [
         "V.I.P",
         "hôte",
-        "invité d\u0027honneur"
+        "invité d'honneur"
       ]
     },
     {
@@ -93,6 +93,116 @@
       "radical": "八",
       "startStroke": 13,
       "strokes": 2
+    }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "稀人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "客",
+          "reading": "まれびと"
+        },
+        {
+          "word": "賓",
+          "reading": "まれびと"
+        },
+        {
+          "word": "客人",
+          "reading": "まれびと"
+        },
+        {
+          "word": "稀人",
+          "reading": "まれびと"
+        },
+        {
+          "reading": "マレビト"
+        }
+      ]
+    },
+    {
+      "slug": "客賓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "客賓",
+          "reading": "まろうど"
+        },
+        {
+          "word": "客賓",
+          "reading": "まろうと"
+        },
+        {
+          "word": "客人",
+          "reading": "まろうど"
+        },
+        {
+          "word": "客人",
+          "reading": "まろうと"
+        },
+        {
+          "word": "客",
+          "reading": "まろうど"
+        },
+        {
+          "word": "客",
+          "reading": "まろうと"
+        },
+        {
+          "word": "賓",
+          "reading": "まろうど"
+        },
+        {
+          "word": "賓",
+          "reading": "まろうと"
+        }
+      ]
+    },
+    {
+      "slug": "賓客",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賓客",
+          "reading": "ひんきゃく"
+        },
+        {
+          "word": "賓客",
+          "reading": "ひんかく"
+        }
+      ]
+    },
+    {
+      "slug": "賓頭盧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賓頭盧",
+          "reading": "びんずる"
+        }
+      ]
+    },
+    {
+      "slug": "賓格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賓格",
+          "reading": "ひんかく"
+        }
+      ]
+    },
+    {
+      "slug": "賓辞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賓辞",
+          "reading": "ひんじ"
+        }
+      ]
     }
   ]
 }

@@ -56,5 +56,88 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "うぐいす張り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うぐいす張り",
+          "reading": "うぐいすばり"
+        },
+        {
+          "word": "鶯張り",
+          "reading": "うぐいすばり"
+        },
+        {
+          "word": "鴬張り",
+          "reading": "うぐいすばり"
+        }
+      ]
+    },
+    {
+      "slug": "鶯色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うぐいす色",
+          "reading": "うぐいすいろ"
+        },
+        {
+          "word": "ウグイス色",
+          "reading": "うぐいすいろ"
+        },
+        {
+          "word": "鶯色",
+          "reading": "うぐいすいろ"
+        },
+        {
+          "word": "鴬色",
+          "reading": "うぐいすいろ"
+        }
+      ]
+    },
+    {
+      "slug": "鴬嬢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うぐいす嬢",
+          "reading": "うぐいすじょう"
+        },
+        {
+          "word": "鶯嬢",
+          "reading": "うぐいすじょう"
+        },
+        {
+          "word": "鴬嬢",
+          "reading": "うぐいすじょう"
+        },
+        {
+          "word": "ウグイス嬢",
+          "reading": "ウグイスじょう"
+        }
+      ]
+    },
+    {
+      "slug": "うぐいす餅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うぐいす餅",
+          "reading": "うぐいすもち"
+        },
+        {
+          "word": "鶯餅",
+          "reading": "うぐいすもち"
+        },
+        {
+          "word": "鴬餅",
+          "reading": "うぐいすもち"
+        }
+      ]
+    }
   ]
 }

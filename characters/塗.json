@@ -99,5 +99,323 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "ペンキ塗りたて注意",
+      "furigana": "ペンキ[塗|ぬ]りたて[注意|ちゅう|い]",
+      "translation_zh_CN": "注意！油漆未乾"
+    },
+    {
+      "content": "日焼け止め塗りな。",
+      "furigana": "[日焼|ひ|や]け[止|ど]め[塗|ぬ]りな。",
+      "translation_zh_CN": "涂点防晒吧。"
+    },
+    {
+      "content": "彼女は壁を白く塗った。",
+      "furigana": "[彼女|かの|じょ]は[壁|かべ]を[白|しろ]く[塗|ぬ]った。",
+      "translation_zh_CN": "她把牆壁都塗成了白色。"
+    },
+    {
+      "content": "彼は天井を青く塗った。",
+      "furigana": "[彼|かれ]は[天井|てん|じょう]を[青|あお]く[塗|ぬ]った。",
+      "translation_zh_CN": "他把天花板刷成了蓝色。"
+    },
+    {
+      "content": "ペンキを塗らなくちゃ。",
+      "furigana": "ペンキを[塗|ぬ]らなくちゃ。",
+      "translation_zh_CN": "我必須把它漆上油漆。"
+    },
+    {
+      "content": "パンにチーズを塗った。",
+      "furigana": "パンにチーズを[塗|ぬ]った。",
+      "translation_zh_CN": "我把起司涂在面包上"
+    },
+    {
+      "content": "彼は自転車を赤く塗った。",
+      "furigana": "[彼|かれ]は[自転車|じ|てん|しゃ]を[赤|あか]く[塗|ぬ]った。",
+      "translation_zh_CN": "他把他的自行车刷成红色。"
+    },
+    {
+      "content": "壁にペンキを塗るんです。",
+      "furigana": "[壁|かべ]にペンキを[塗|ぬ]るんです。",
+      "translation_zh_CN": "我们准备刷墙。"
+    },
+    {
+      "content": "彼らは窓枠を黄色く塗った。",
+      "furigana": "[彼|かれ]らは[窓|まど][枠|わく]を[黄色|き|いろ]く[塗|ぬ]った。",
+      "translation_zh_CN": "她們把窗框塗成了黄色。"
+    },
+    {
+      "content": "私はフェンスを緑に塗った。",
+      "furigana": "[私|わたし]はフェンスを[緑|みどり]に[塗|ぬ]った。",
+      "translation_zh_CN": "我把篱笆漆成了绿色。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "塗り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗り",
+          "reading": "ぬり"
+        },
+        {
+          "word": "塗",
+          "reading": "ぬり"
+        }
+      ]
+    },
+    {
+      "slug": "塗る",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "塗る",
+          "reading": "ぬる"
+        }
+      ]
+    },
+    {
+      "slug": "塗装",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗装",
+          "reading": "とそう"
+        }
+      ]
+    },
+    {
+      "slug": "塗り替える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗り替える",
+          "reading": "ぬりかえる"
+        },
+        {
+          "word": "塗り変える",
+          "reading": "ぬりかえる"
+        }
+      ]
+    },
+    {
+      "slug": "塗布",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗布",
+          "reading": "とふ"
+        }
+      ]
+    },
+    {
+      "slug": "塗り立てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗りたてる",
+          "reading": "ぬりたてる"
+        },
+        {
+          "word": "塗り立てる",
+          "reading": "ぬりたてる"
+        },
+        {
+          "word": "塗立てる",
+          "reading": "ぬりたてる"
+        }
+      ]
+    },
+    {
+      "slug": "塗り直し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗り直し",
+          "reading": "ぬりなおし"
+        }
+      ]
+    },
+    {
+      "slug": "塗りたくる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗りたくる",
+          "reading": "ぬりたくる"
+        }
+      ]
+    },
+    {
+      "slug": "塗り潰す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗りつぶす",
+          "reading": "ぬりつぶす"
+        },
+        {
+          "word": "塗り潰す",
+          "reading": "ぬりつぶす"
+        }
+      ]
+    },
+    {
+      "slug": "塗料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗料",
+          "reading": "とりょう"
+        }
+      ]
+    },
+    {
+      "slug": "塗れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗れ",
+          "reading": "まみれ"
+        },
+        {
+          "word": "塗れ",
+          "reading": "まぶれ"
+        }
+      ]
+    },
+    {
+      "slug": "塗り立て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗りたて",
+          "reading": "ぬりたて"
+        },
+        {
+          "word": "塗り立て",
+          "reading": "ぬりたて"
+        },
+        {
+          "word": "塗立て",
+          "reading": "ぬりたて"
+        }
+      ]
+    },
+    {
+      "slug": "塗れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗れる",
+          "reading": "まみれる"
+        },
+        {
+          "word": "塗れる",
+          "reading": "まぶれる"
+        }
+      ]
+    },
+    {
+      "slug": "塗り壁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗り壁",
+          "reading": "ぬりかべ"
+        },
+        {
+          "word": "塗壁",
+          "reading": "ぬりかべ"
+        }
+      ]
+    },
+    {
+      "slug": "塗り絵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗り絵",
+          "reading": "ぬりえ"
+        },
+        {
+          "word": "ぬり絵",
+          "reading": "ぬりえ"
+        },
+        {
+          "word": "塗絵",
+          "reading": "ぬりえ"
+        }
+      ]
+    },
+    {
+      "slug": "塗板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗板",
+          "reading": "とばん"
+        },
+        {
+          "word": "塗板",
+          "reading": "ぬりばん"
+        },
+        {
+          "word": "塗板",
+          "reading": "ぬりいた"
+        },
+        {
+          "word": "塗り板",
+          "reading": "ぬりばん"
+        },
+        {
+          "word": "塗り板",
+          "reading": "ぬりいた"
+        }
+      ]
+    },
+    {
+      "slug": "塗り付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗りつける",
+          "reading": "ぬりつける"
+        },
+        {
+          "word": "塗り付ける",
+          "reading": "ぬりつける"
+        }
+      ]
+    },
+    {
+      "slug": "塗り下駄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗り下駄",
+          "reading": "ぬりげた"
+        }
+      ]
+    },
+    {
+      "slug": "塗り物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塗り物",
+          "reading": "ぬりもの"
+        },
+        {
+          "word": "塗物",
+          "reading": "ぬりもの"
+        }
+      ]
+    }
   ]
 }

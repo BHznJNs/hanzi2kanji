@@ -76,5 +76,223 @@
       "strokes": 3,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "郷に入っては郷に従え。",
+      "furigana": "[郷|ごう]に[入|い]っては[郷|ごう]に[従|したが]え。",
+      "translation_zh_CN": "入乡随俗。"
+    },
+    {
+      "content": "トムは故郷へと戻って行った。",
+      "furigana": "トムは[故郷|こ|きょう]へと[戻|もど]って[行|い]った。",
+      "translation_zh_CN": "湯姆回鄉下了。"
+    },
+    {
+      "content": "トムはひとりで故郷へ帰った。",
+      "furigana": "トムはひとりで[故郷|こ|きょう]へ[帰|かえ]った。",
+      "translation_zh_CN": "汤姆一个人回家了。"
+    },
+    {
+      "content": "彼女は生まれ故郷に埋葬された。",
+      "furigana": "[彼女|かの|じょ]は[生|う]まれ[故郷|こ|きょう]に[埋葬|まい|そう]された。",
+      "translation_zh_CN": "她被安葬在她的家鄉。"
+    },
+    {
+      "content": "私は故郷の両親に手紙を書いた。",
+      "furigana": "[私|わたし]は[故郷|こ|きょう]の[両親|りょう|しん]に[手紙|て|がみ]を[書|か]いた。",
+      "translation_zh_CN": "我向乡里的父母写了信."
+    },
+    {
+      "content": "その歌を聴くと故郷を思い出す。",
+      "furigana": "その[歌|うた]を[聴|き]くと[故郷|ふるさと]を[思|おも]い[出|だ]す。",
+      "translation_zh_CN": "这首歌让我想家了。"
+    },
+    {
+      "content": "故郷を思い出さずにはいられない。",
+      "furigana": "[故郷|こ|きょう]を[思|おも]い[出|だ]さずにはいられない。",
+      "translation_zh_CN": "不由得想起了故乡。"
+    },
+    {
+      "content": "彼女は故郷が恋しくてたまらなかった。",
+      "furigana": "[彼女|かの|じょ]は[故郷|こ|きょう]が[恋|こい]しくてたまらなかった。",
+      "translation_zh_CN": "她想家了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "郷愁",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "郷愁",
+          "reading": "きょうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "郷里",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "郷里",
+          "reading": "きょうり"
+        }
+      ]
+    },
+    {
+      "slug": "郷土料理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土料理",
+          "reading": "きょうどりょうり"
+        }
+      ]
+    },
+    {
+      "slug": "郷土",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土",
+          "reading": "きょうど"
+        }
+      ]
+    },
+    {
+      "slug": "郷土色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土色",
+          "reading": "きょうどしょく"
+        }
+      ]
+    },
+    {
+      "slug": "郷に入っては郷に従え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷に入っては郷に従え",
+          "reading": "ごうにいってはごうにしたがえ"
+        }
+      ]
+    },
+    {
+      "slug": "郷土史",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土史",
+          "reading": "きょうどし"
+        }
+      ]
+    },
+    {
+      "slug": "郷土資料館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土資料館",
+          "reading": "きょうどしりょうかん"
+        }
+      ]
+    },
+    {
+      "slug": "郷土歴史館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土歴史館",
+          "reading": "きょうどれきしかん"
+        }
+      ]
+    },
+    {
+      "slug": "郷土博物館",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土博物館",
+          "reading": "きょうどはくぶつかん"
+        }
+      ]
+    },
+    {
+      "slug": "郷土小説",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土小説",
+          "reading": "きょうどしょうせつ"
+        }
+      ]
+    },
+    {
+      "slug": "郷俗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷俗",
+          "reading": "きょうぞく"
+        }
+      ]
+    },
+    {
+      "slug": "郷土愛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土愛",
+          "reading": "きょうどあい"
+        }
+      ]
+    },
+    {
+      "slug": "郷党",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷党",
+          "reading": "きょうとう"
+        }
+      ]
+    },
+    {
+      "slug": "郷土文学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土文学",
+          "reading": "きょうどぶんがく"
+        }
+      ]
+    },
+    {
+      "slug": "郷土芸能",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土芸能",
+          "reading": "きょうどげいのう"
+        }
+      ]
+    },
+    {
+      "slug": "郷土玩具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郷土玩具",
+          "reading": "きょうどがんぐ"
+        }
+      ]
+    }
   ]
 }

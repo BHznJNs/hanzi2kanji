@@ -100,5 +100,321 @@
       "startStroke": 16,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "類をもって集まる。",
+      "furigana": "[類|るい]をもって[集|あつ]まる。",
+      "translation_zh_CN": "以实物聚集在一起。"
+    },
+    {
+      "content": "エビ・カニ・ロブスターは甲殻類です。",
+      "furigana": "エビ・カニ・ロブスターは[甲殻類|こう|かく|るい]です。",
+      "translation_zh_CN": "虾、蟹和龙虾都是甲壳类动物。"
+    },
+    {
+      "content": "類は類をもって集まる。",
+      "furigana": "[類|るい]は[類|るい]をもって[集|あつ]まる。",
+      "translation_zh_CN": "类与类相聚。"
+    },
+    {
+      "content": "類は友を呼ぶ。",
+      "furigana": "[類|るい]は[友|とも]を[呼|よ]ぶ。",
+      "translation_zh_CN": "种叫朋友。"
+    },
+    {
+      "content": "魚介類が好きなんだ。",
+      "furigana": "[魚介類|ぎょ|かい|るい]が[好|す]きなんだ。",
+      "translation_zh_CN": "我喜欢海鲜。"
+    },
+    {
+      "content": "コップ類を丁寧に扱いなさい。",
+      "furigana": "コップ[類|るい]を[丁寧|てい|ねい]に[扱|あつか]いなさい。",
+      "translation_zh_CN": "小心处理杯子。"
+    },
+    {
+      "content": "蟹は甲殻類だよ。",
+      "furigana": "[蟹|かに]は[甲殻類|こう|かく|るい]だよ。",
+      "translation_zh_CN": "螃蟹是甲壳类动物。"
+    },
+    {
+      "content": "アルコール類は控えてください。",
+      "furigana": "アルコール[類|るい]は[控|ひか]えてください。",
+      "translation_zh_CN": "请不要饮酒。"
+    },
+    {
+      "content": "魚介類、大好きなのよ。",
+      "furigana": "[魚介類|ぎょ|かい|るい]、[大好|だい|す]きなのよ。",
+      "translation_zh_CN": "我喜欢海鲜。"
+    },
+    {
+      "content": "鱈場蟹は大型甲殻類である。",
+      "furigana": "[鱈場蟹|たら|ば|がに]は[大型甲殻類|おお|がた|こう|かく|るい]である。",
+      "translation_zh_CN": "鳕鱼蟹是一种大型甲壳类动物。"
+    },
+    {
+      "content": "類をもって集まる。",
+      "furigana": "[類|るい]をもって[集|あつ]まる。",
+      "translation_zh_CN": "物以类聚。"
+    },
+    {
+      "content": "鯨は哺乳類である。",
+      "furigana": "[鯨|くじら]は[哺乳類|ほ|にゅう|るい]である。",
+      "translation_zh_CN": "鲸鱼是哺乳动物。"
+    },
+    {
+      "content": "俺たちは同類だよ。",
+      "furigana": "[俺|おれ]たちは[同類|どう|るい]だよ。",
+      "translation_zh_CN": "我們很相似。"
+    },
+    {
+      "content": "私は書類に署名した。",
+      "furigana": "[私|わたし]は[書類|しょ|るい]に[署名|しょ|めい]した。",
+      "translation_zh_CN": "我簽署了文件。"
+    },
+    {
+      "content": "類は類をもって集まる。",
+      "furigana": "[類|るい]は[類|るい]をもって[集|あつ]まる。",
+      "translation_zh_CN": "物以类聚。"
+    },
+    {
+      "content": "イルカは哺乳類である。",
+      "furigana": "イルカは[哺乳類|ほ|にゅう|るい]である。",
+      "translation_zh_CN": "海豚是哺乳動物。"
+    },
+    {
+      "content": "私は酒類は飲みません。",
+      "furigana": "[私|わたし]は[酒類|しゅ|るい]は[飲|の]みません。",
+      "translation_zh_CN": "我不喝酒。"
+    },
+    {
+      "content": "魚介類、大好きなのよ。",
+      "furigana": "[魚介類|ぎょ|かい|るい]、[大好|だい|す]きなのよ。",
+      "translation_zh_CN": "我很喜欢吃海产."
+    },
+    {
+      "content": "イルカは哺乳類の一種です。",
+      "furigana": "イルカは[哺乳類|ほ|にゅう|るい]の[一種|いっ|しゅ]です。",
+      "translation_zh_CN": "海豚是一種哺乳動物。"
+    },
+    {
+      "content": "音楽は人類の共通語である。",
+      "furigana": "[音楽|おん|がく]は[人類|じん|るい]の[共通|きょう|つう][語|ご]である。",
+      "translation_zh_CN": "音樂是人類共同的語言。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "類い",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "類い",
+          "reading": "たぐい"
+        },
+        {
+          "word": "類",
+          "reading": "たぐい"
+        },
+        {
+          "word": "比い",
+          "reading": "たぐい"
+        },
+        {
+          "word": "比",
+          "reading": "たぐい"
+        }
+      ]
+    },
+    {
+      "slug": "類似",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "類似",
+          "reading": "るいじ"
+        }
+      ]
+    },
+    {
+      "slug": "類推",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "類推",
+          "reading": "るいすい"
+        }
+      ]
+    },
+    {
+      "slug": "類人猿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類人猿",
+          "reading": "るいじんえん"
+        }
+      ]
+    },
+    {
+      "slug": "類型",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類型",
+          "reading": "るいけい"
+        }
+      ]
+    },
+    {
+      "slug": "類似点",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類似点",
+          "reading": "るいじてん"
+        }
+      ]
+    },
+    {
+      "slug": "類友",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類友",
+          "reading": "るいとも"
+        }
+      ]
+    },
+    {
+      "slug": "類書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類書",
+          "reading": "るいしょ"
+        }
+      ]
+    },
+    {
+      "slug": "類する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類する",
+          "reading": "るいする"
+        }
+      ]
+    },
+    {
+      "slug": "類例",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類例",
+          "reading": "るいれい"
+        }
+      ]
+    },
+    {
+      "slug": "類聚名義抄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類聚名義抄",
+          "reading": "るいじゅうみょうぎしょう"
+        },
+        {
+          "word": "類聚名義抄",
+          "reading": "るいじゅみょうぎしょう"
+        }
+      ]
+    },
+    {
+      "slug": "類義語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類義語",
+          "reading": "るいぎご"
+        }
+      ]
+    },
+    {
+      "slug": "類洞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類洞",
+          "reading": "るいどう"
+        }
+      ]
+    },
+    {
+      "slug": "類線形動物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類線形動物",
+          "reading": "るいせんけいどうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "類韻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類韻",
+          "reading": "るいいん"
+        }
+      ]
+    },
+    {
+      "slug": "類感呪術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類感呪術",
+          "reading": "るいかんじゅじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "類語実用辞典",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類語実用辞典",
+          "reading": "るいごじつようじてん"
+        }
+      ]
+    },
+    {
+      "slug": "類似体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類似体",
+          "reading": "るいじたい"
+        }
+      ]
+    },
+    {
+      "slug": "類似品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "類似品",
+          "reading": "るいじひん"
+        }
+      ]
+    }
   ]
 }

@@ -72,5 +72,181 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "これは私の想像の範囲を超えている。",
+      "furigana": "これは[私|わたし]の[想像|そう|ぞう]の[範囲|はん|い]を[超|こ]えている。",
+      "translation_zh_CN": "這超出了我的想像範圍。"
+    },
+    {
+      "content": "専門家とは、あらゆる過ちを最も小さな範囲で抑えられる人のことである。",
+      "furigana": "[専門|せん|もん][家|か]とは、あらゆる[過|あやま]ちを[最|もっと]も[小|ちい]さな[範囲|はん|い]で[抑|おさ]えられる[人|ひと]のことである。",
+      "translation_zh_CN": "专家就是一个能够把所有的错误控制在最小范围内的人。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "範囲",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "範囲",
+          "reading": "はんい"
+        }
+      ]
+    },
+    {
+      "slug": "範疇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範疇",
+          "reading": "はんちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "範疇部門",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範疇部門",
+          "reading": "はんちゅうぶもん"
+        }
+      ]
+    },
+    {
+      "slug": "範士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範士",
+          "reading": "はんし"
+        }
+      ]
+    },
+    {
+      "slug": "範囲内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範囲内",
+          "reading": "はんいない"
+        }
+      ]
+    },
+    {
+      "slug": "範疇文法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範疇文法",
+          "reading": "はんちゅうぶんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "範例",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範例",
+          "reading": "はんれい"
+        }
+      ]
+    },
+    {
+      "slug": "範囲名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範囲名",
+          "reading": "はんいめい"
+        }
+      ]
+    },
+    {
+      "slug": "範囲外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範囲外",
+          "reading": "はんいがい"
+        }
+      ]
+    },
+    {
+      "slug": "範列",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範列",
+          "reading": "はんれつ"
+        }
+      ]
+    },
+    {
+      "slug": "範囲明示文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範囲明示文",
+          "reading": "はんいめいじぶん"
+        }
+      ]
+    },
+    {
+      "slug": "範囲検査",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範囲検査",
+          "reading": "はんいけんさ"
+        }
+      ]
+    },
+    {
+      "slug": "範列関係",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範列関係",
+          "reading": "はんれつかんけい"
+        }
+      ]
+    },
+    {
+      "slug": "範囲演算子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範囲演算子",
+          "reading": "はんいえんざんし"
+        }
+      ]
+    },
+    {
+      "slug": "範を垂れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範を垂れる",
+          "reading": "はんをたれる"
+        }
+      ]
+    },
+    {
+      "slug": "範囲を狭める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "範囲を狭める",
+          "reading": "はんいをせばめる"
+        }
+      ]
+    }
   ]
 }

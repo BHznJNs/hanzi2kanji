@@ -92,5 +92,326 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は３発撃った。",
+      "furigana": "[彼|かれ]は３[発撃|はつ|う]った。",
+      "translation_zh_CN": "他开了三枪。"
+    },
+    {
+      "content": "電車は何時発ですか。",
+      "furigana": "[電車|でん|しゃ]は[何時発|なん|じ|はつ]ですか。",
+      "translation_zh_CN": "火车什么时候离开？"
+    },
+    {
+      "content": "彼女は銃を一発うった。",
+      "furigana": "[彼女|かの|じょ]は[銃|じゅう]を[一発|いっ|ぱつ]うった。",
+      "translation_zh_CN": "她开了一枪。"
+    },
+    {
+      "content": "トムは胸を2発撃たれた。",
+      "furigana": "トムは[胸|むね]を2[発撃|はつ|う]たれた。",
+      "translation_zh_CN": "汤姆胸部中了两枪。"
+    },
+    {
+      "content": "７時発の電車に乗り遅れた。",
+      "furigana": "７[時発|じ|はつ]の[電車|でん|しゃ]に[乗|の]り[遅|おく]れた。",
+      "translation_zh_CN": "我错过了七点钟的火车。"
+    },
+    {
+      "content": "トムは銃声を数発聞いた。",
+      "furigana": "トムは[銃声|じゅう|せい]を[数発聞|すう|はつ|き]いた。",
+      "translation_zh_CN": "汤姆听到几声枪响。"
+    },
+    {
+      "content": "次に到着した列車はシカゴ発だった。",
+      "furigana": "[次|つぎ]に[到着|とう|ちゃく]した[列車|れっ|しゃ]はシカゴ[発|はつ]だった。",
+      "translation_zh_CN": "下一班到达的火车是从芝加哥出发的。"
+    },
+    {
+      "content": "彼は一発の弾丸で殺された。",
+      "furigana": "[彼|かれ]は[一発|いっ|ぱつ]の[弾丸|だん|がん]で[殺|ころ]された。",
+      "translation_zh_CN": "他被一颗子弹打死了。"
+    },
+    {
+      "content": "この汽車は９時発です。",
+      "furigana": "この[汽車|き|しゃ]は９[時発|じ|はつ]です。",
+      "translation_zh_CN": "这趟火车九点钟出发。"
+    },
+    {
+      "content": "次の電車は何時発ですか。",
+      "furigana": "[次|つぎ]の[電車|でん|しゃ]は[何時発|なん|じ|はつ]ですか。",
+      "translation_zh_CN": "下一趟火车几点出发？"
+    },
+    {
+      "content": "彼は３発撃った。",
+      "furigana": "[彼|かれ]は[３|][発|はつ][撃|う]った。",
+      "translation_zh_CN": "他开了三枪。"
+    },
+    {
+      "content": "早く出発しよう。",
+      "furigana": "[早|はや]く[出発|しゅっ|ぱつ]しよう。",
+      "translation_zh_CN": "赶快出发吧。"
+    },
+    {
+      "content": "出発する時間だ。",
+      "furigana": "[出発|しゅっ|ぱつ]する[時間|じ|かん]だ。",
+      "translation_zh_CN": "是时候离开了。"
+    },
+    {
+      "content": "今晩出発します。",
+      "furigana": "[今晩|こん|ばん][出発|しゅっ|ぱつ]します。",
+      "translation_zh_CN": "我今晚走。"
+    },
+    {
+      "content": "今夜出発します。",
+      "furigana": "[今夜|こん|や][出発|しゅっ|ぱつ]します。",
+      "translation_zh_CN": "我今晚走。"
+    },
+    {
+      "content": "出発の時間だよ。",
+      "furigana": "[出発|しゅっ|ぱつ]の[時間|じ|かん]だよ。",
+      "translation_zh_CN": "是时候离开了。"
+    },
+    {
+      "content": "何時に出発するの？",
+      "furigana": "[何時|なん|じ]に[出発|しゅっ|ぱつ]するの？",
+      "translation_zh_CN": "你什么时候走？"
+    },
+    {
+      "content": "伝染病が発生した。",
+      "furigana": "[伝染病|でん|せん|びょう]が[発生|はっ|せい]した。",
+      "translation_zh_CN": "传染病爆发了。"
+    },
+    {
+      "content": "すぐ出発しなさい。",
+      "furigana": "すぐ[出発|しゅっ|ぱつ]しなさい。",
+      "translation_zh_CN": "滾。"
+    },
+    {
+      "content": "発音悪くてごめん。",
+      "furigana": "[発音|はつ|おん][悪|わる]くてごめん。",
+      "translation_zh_CN": "不好意思我发音不太好。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "発音",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "発音",
+          "reading": "はつおん"
+        }
+      ]
+    },
+    {
+      "slug": "発見",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "発見",
+          "reading": "はっけん"
+        }
+      ]
+    },
+    {
+      "slug": "発明",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "発明",
+          "reading": "はつめい"
+        }
+      ]
+    },
+    {
+      "slug": "立つ",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "立つ",
+          "reading": "たつ"
+        }
+      ]
+    },
+    {
+      "slug": "発電",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "発電",
+          "reading": "はつでん"
+        }
+      ]
+    },
+    {
+      "slug": "発作",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "発作",
+          "reading": "ほっさ"
+        }
+      ]
+    },
+    {
+      "slug": "発展",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "発展",
+          "reading": "はってん"
+        }
+      ]
+    },
+    {
+      "slug": "発表",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "発表",
+          "reading": "はっぴょう"
+        }
+      ]
+    },
+    {
+      "slug": "発達",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "発達",
+          "reading": "はったつ"
+        }
+      ]
+    },
+    {
+      "slug": "発行",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "発行",
+          "reading": "はっこう"
+        }
+      ]
+    },
+    {
+      "slug": "発車",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "発車",
+          "reading": "はっしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "発揮",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "発揮",
+          "reading": "はっき"
+        }
+      ]
+    },
+    {
+      "slug": "発売",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "発売",
+          "reading": "はつばい"
+        }
+      ]
+    },
+    {
+      "slug": "発射",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "発射",
+          "reading": "はっしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "発想",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "発想",
+          "reading": "はっそう"
+        }
+      ]
+    },
+    {
+      "slug": "発言",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "発言",
+          "reading": "はつげん"
+        }
+      ]
+    },
+    {
+      "slug": "発生",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "発生",
+          "reading": "はっせい"
+        }
+      ]
+    },
+    {
+      "slug": "発育",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "発育",
+          "reading": "はついく"
+        }
+      ]
+    }
   ]
 }

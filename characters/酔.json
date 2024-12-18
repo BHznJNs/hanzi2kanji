@@ -105,5 +105,297 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "悪酔いしました。",
+      "furigana": "[悪酔|わる|よ]いしました。",
+      "translation_zh_CN": "因為喝酒喝太多，所以我生病了。"
+    },
+    {
+      "content": "トムは酔っていた。",
+      "furigana": "トムは[酔|よ]っていた。",
+      "translation_zh_CN": "汤姆醉了。"
+    },
+    {
+      "content": "私は酔っていない。",
+      "furigana": "[私|わたし]は[酔|よ]っていない。",
+      "translation_zh_CN": "我很清醒。"
+    },
+    {
+      "content": "酔っぱらいすぎだ。",
+      "furigana": "[酔|よ]っぱらいすぎだ。",
+      "translation_zh_CN": "你喝多了。"
+    },
+    {
+      "content": "みんな酔っていた。",
+      "furigana": "みんな[酔|よ]っていた。",
+      "translation_zh_CN": "所有人都喝醉了。"
+    },
+    {
+      "content": "トムは酔っている。",
+      "furigana": "トムは[酔|よ]っている。",
+      "translation_zh_CN": "汤姆醉了。"
+    },
+    {
+      "content": "私は少し酔っている。",
+      "furigana": "[私|わたし]は[少|すこ]し[酔|よ]っている。",
+      "translation_zh_CN": "我有點醉了。"
+    },
+    {
+      "content": "トムは酔っているのか？",
+      "furigana": "トムは[酔|よ]っているのか？",
+      "translation_zh_CN": "汤姆喝醉了吗？"
+    },
+    {
+      "content": "トムは酔っ払ってる。",
+      "furigana": "トムは[酔|よ]っ[払|ぱら]ってる。",
+      "translation_zh_CN": "汤姆醉了。"
+    },
+    {
+      "content": "彼はひどく酔っ払った。",
+      "furigana": "[彼|かれ]はひどく[酔|よ]っ[払|ぱら]った。",
+      "translation_zh_CN": "他喝得酩酊大醉。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "酔う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "酔う",
+          "reading": "よう"
+        },
+        {
+          "word": "酔う",
+          "reading": "えう"
+        }
+      ]
+    },
+    {
+      "slug": "酔っ払い",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "酔っ払い",
+          "reading": "よっぱらい"
+        },
+        {
+          "word": "酔っぱらい",
+          "reading": "よっぱらい"
+        },
+        {
+          "word": "酔払い",
+          "reading": "よっぱらい"
+        }
+      ]
+    },
+    {
+      "slug": "酔い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔い",
+          "reading": "よい"
+        },
+        {
+          "word": "酔い",
+          "reading": "えい"
+        }
+      ]
+    },
+    {
+      "slug": "酔っ払う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔っ払う",
+          "reading": "よっぱらう"
+        },
+        {
+          "word": "酔っぱらう",
+          "reading": "よっぱらう"
+        }
+      ]
+    },
+    {
+      "slug": "酔い潰れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔いつぶれる",
+          "reading": "よいつぶれる"
+        },
+        {
+          "word": "酔い潰れる",
+          "reading": "よいつぶれる"
+        }
+      ]
+    },
+    {
+      "slug": "酔いが回る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔いが回る",
+          "reading": "よいがまわる"
+        }
+      ]
+    },
+    {
+      "slug": "酔拳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔拳",
+          "reading": "すいけん"
+        }
+      ]
+    },
+    {
+      "slug": "酔い覚まし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔い覚まし",
+          "reading": "よいざまし"
+        },
+        {
+          "word": "酔い醒まし",
+          "reading": "よいざまし"
+        },
+        {
+          "word": "酔いざまし",
+          "reading": "よいざまし"
+        }
+      ]
+    },
+    {
+      "slug": "酔いどれ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔いどれ",
+          "reading": "よいどれ"
+        }
+      ]
+    },
+    {
+      "slug": "酔わす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔わす",
+          "reading": "よわす"
+        }
+      ]
+    },
+    {
+      "slug": "酔態",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔態",
+          "reading": "すいたい"
+        }
+      ]
+    },
+    {
+      "slug": "酔わせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔わせる",
+          "reading": "よわせる"
+        }
+      ]
+    },
+    {
+      "slug": "酔い心地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔い心地",
+          "reading": "よいごこち"
+        }
+      ]
+    },
+    {
+      "slug": "酔っ払い運転",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔っ払い運転",
+          "reading": "よっぱらいうんてん"
+        }
+      ]
+    },
+    {
+      "slug": "酔い止め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔い止め",
+          "reading": "よいどめ"
+        }
+      ]
+    },
+    {
+      "slug": "酔歩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔歩",
+          "reading": "すいほ"
+        }
+      ]
+    },
+    {
+      "slug": "酔余",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔余",
+          "reading": "すいよ"
+        }
+      ]
+    },
+    {
+      "slug": "酔いしれる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔いしれる",
+          "reading": "よいしれる"
+        },
+        {
+          "word": "酔い痴れる",
+          "reading": "よいしれる"
+        }
+      ]
+    },
+    {
+      "slug": "酔い覚め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酔い覚め",
+          "reading": "よいざめ"
+        },
+        {
+          "word": "酔いざめ",
+          "reading": "よいざめ"
+        },
+        {
+          "word": "酔い醒め",
+          "reading": "よいざめ"
+        }
+      ]
+    }
   ]
 }

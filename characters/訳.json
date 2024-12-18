@@ -94,5 +94,331 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "この訳合ってますか？",
+      "furigana": "この[訳合|やく|あ]ってますか？",
+      "translation_zh_CN": "这个翻译有意义吗？"
+    },
+    {
+      "content": "フランス語訳はありますか？",
+      "furigana": "フランス[語訳|ご|やく]はありますか？",
+      "translation_zh_CN": "有法语翻译吗？"
+    },
+    {
+      "content": "この訳は正しいですか？",
+      "furigana": "この[訳|やく]は[正|ただ]しいですか？",
+      "translation_zh_CN": "这个翻译正确吗？"
+    },
+    {
+      "content": "この文は訳しちゃダメ！",
+      "furigana": "この[文|ぶん]は[訳|やく]しちゃダメ！",
+      "translation_zh_CN": "这句话不要翻译！"
+    },
+    {
+      "content": "フランス語の訳はありますか？",
+      "furigana": "フランス[語|ご]の[訳|やく]はありますか？",
+      "translation_zh_CN": "有法语翻译吗？"
+    },
+    {
+      "content": "この訳、読みにくいなぁ。",
+      "furigana": "この[訳|やく]、[読|よ]みにくいなぁ。",
+      "translation_zh_CN": "这个翻译很难读。"
+    },
+    {
+      "content": "何訳の分かんないこと言ってんの。",
+      "furigana": "[何訳|なに|わけ]の[分|わ]かんないこと[言|い]ってんの。",
+      "translation_zh_CN": "你在说什么我听不懂？"
+    },
+    {
+      "content": "私は訳もなく悲しくなった。",
+      "furigana": "[私|わたし]は[訳|わけ]もなく[悲|かな]しくなった。",
+      "translation_zh_CN": "我无缘无故地感到悲伤。"
+    },
+    {
+      "content": "トムは一度も訳を聞きませんでした。",
+      "furigana": "トムは[一度|いち|ど]も[訳|わけ]を[聞|き]きませんでした。",
+      "translation_zh_CN": "汤姆从未要求任何解释。"
+    },
+    {
+      "content": "この訳はずさんだな。",
+      "furigana": "この[訳|やく]はずさんだな。",
+      "translation_zh_CN": "这个翻译很草率。"
+    },
+    {
+      "content": "私は翻訳家です。",
+      "furigana": "[私|わたし]は[翻訳|ほん|やく][家|か]です。",
+      "translation_zh_CN": "我是个翻译。"
+    },
+    {
+      "content": "翻訳してるとこ。",
+      "furigana": "[翻訳|ほん|やく]してるとこ。",
+      "translation_zh_CN": "我在翻译。"
+    },
+    {
+      "content": "遅れて申し訳ない。",
+      "furigana": "[遅|おく]れて[申|もう]し[訳|わけ]ない。",
+      "translation_zh_CN": "对不起，我迟到了。"
+    },
+    {
+      "content": "次の文を英訳せよ。",
+      "furigana": "[次|つぎ]の[文|ぶん]を[英訳|えい|やく]せよ。",
+      "translation_zh_CN": "把下列句子翻譯成英文。"
+    },
+    {
+      "content": "この文を英訳せよ。",
+      "furigana": "この[文|ぶん]を[英訳|えい|やく]せよ。",
+      "translation_zh_CN": "把这句句子翻成英语。"
+    },
+    {
+      "content": "言い訳をしても無駄だ。",
+      "furigana": "[言|い]い[訳|わけ]をしても[無駄|む|だ]だ。",
+      "translation_zh_CN": "借口是没用的。"
+    },
+    {
+      "content": "遅れて申し訳ありません。",
+      "furigana": "[遅|おく]れて[申|もう]し[訳|わけ]ありません。",
+      "translation_zh_CN": "抱歉那么晚来。"
+    },
+    {
+      "content": "彼女はそれを逐語訳した。",
+      "furigana": "[彼女|かの|じょ]はそれを[逐語|ちく|ご][訳|やく]した。",
+      "translation_zh_CN": "她逐字地翻譯它。"
+    },
+    {
+      "content": "この文の翻訳は悪い翻訳。",
+      "furigana": "この[文|ぶん]の[翻訳|ほん|やく]は[悪|わる]い[翻訳|ほん|やく]。",
+      "translation_zh_CN": "这句话的译文翻译的很不好。"
+    },
+    {
+      "content": "あら、申し訳ございません。",
+      "furigana": "あら、[申|もう]し[訳|わけ]ございません。",
+      "translation_zh_CN": "哦，我很抱歉。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "訳す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "訳す",
+          "reading": "やくす"
+        }
+      ]
+    },
+    {
+      "slug": "訳がない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳がない",
+          "reading": "わけがない"
+        },
+        {
+          "word": "わけが無い",
+          "reading": "わけがない"
+        },
+        {
+          "word": "訳が無い",
+          "reading": "わけがない"
+        }
+      ]
+    },
+    {
+      "slug": "訳文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳文",
+          "reading": "やくぶん"
+        }
+      ]
+    },
+    {
+      "slug": "訳無い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳無い",
+          "reading": "わけない"
+        },
+        {
+          "word": "訳ない",
+          "reading": "わけない"
+        }
+      ]
+    },
+    {
+      "slug": "訳無く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳なく",
+          "reading": "わけなく"
+        },
+        {
+          "word": "訳無く",
+          "reading": "わけなく"
+        }
+      ]
+    },
+    {
+      "slug": "訳ではない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳ではない",
+          "reading": "わけではない"
+        },
+        {
+          "word": "訳では無い",
+          "reading": "わけではない"
+        },
+        {
+          "word": "わけでは無い",
+          "reading": "わけではない"
+        }
+      ]
+    },
+    {
+      "slug": "訳じゃない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳じゃない",
+          "reading": "わけじゃない"
+        }
+      ]
+    },
+    {
+      "slug": "訳者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳者",
+          "reading": "やくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "訳語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳語",
+          "reading": "やくご"
+        }
+      ]
+    },
+    {
+      "slug": "訳書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳書",
+          "reading": "やくしょ"
+        }
+      ]
+    },
+    {
+      "slug": "訳詩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳詩",
+          "reading": "やくし"
+        }
+      ]
+    },
+    {
+      "slug": "訳詞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳詞",
+          "reading": "やくし"
+        }
+      ]
+    },
+    {
+      "slug": "訳にはいかない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳にはいかない",
+          "reading": "わけにはいかない"
+        },
+        {
+          "word": "わけには行かない",
+          "reading": "わけにはいかない"
+        },
+        {
+          "word": "訳には行かない",
+          "reading": "わけにはいかない"
+        }
+      ]
+    },
+    {
+      "slug": "訳にはいきません",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳にはいきません",
+          "reading": "わけにはいきません"
+        }
+      ]
+    },
+    {
+      "slug": "訳にはいけない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳にはいけない",
+          "reading": "わけにはいけない"
+        }
+      ]
+    },
+    {
+      "slug": "訳あって",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳あって",
+          "reading": "わけあって"
+        }
+      ]
+    },
+    {
+      "slug": "訳が分らない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳が分からない",
+          "reading": "わけがわからない"
+        },
+        {
+          "word": "訳がわからない",
+          "reading": "わけがわからない"
+        }
+      ]
+    },
+    {
+      "slug": "訳注",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訳注",
+          "reading": "やくちゅう"
+        },
+        {
+          "word": "訳註",
+          "reading": "やくちゅう"
+        }
+      ]
+    }
   ]
 }

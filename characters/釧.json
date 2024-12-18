@@ -48,5 +48,34 @@
       "strokes": 3,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "いつから釧路にいますか？",
+      "furigana": "いつから[釧路|くし|ろ]にいますか？",
+      "translation_zh_CN": "你在釧路多久了？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "釧路公立大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釧路公立大学",
+          "reading": "くしろこうりつだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "釧路地方気象台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釧路地方気象台",
+          "reading": "くしろちほうきしょうだい"
+        }
+      ]
+    }
   ]
 }

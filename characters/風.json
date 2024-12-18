@@ -96,5 +96,341 @@
       "startStroke": 6,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "風がおさまった。",
+      "furigana": "[風|かぜ]がおさまった。",
+      "translation_zh_CN": "风已经停了。"
+    },
+    {
+      "content": "風が吹く。",
+      "furigana": "[風|かぜ]が[吹|ふ]く。",
+      "translation_zh_CN": "风吹过。"
+    },
+    {
+      "content": "風は強い？",
+      "furigana": "[風|かぜ]は[強|つよ]い？",
+      "translation_zh_CN": "风大吗？"
+    },
+    {
+      "content": "風が吹いている。",
+      "furigana": "[風|かぜ]が[吹|ふ]いている。",
+      "translation_zh_CN": "风在吹。"
+    },
+    {
+      "content": "風が治まった。",
+      "furigana": "[風|かぜ]が[治|おさ]まった。",
+      "translation_zh_CN": "风已经停了。"
+    },
+    {
+      "content": "風が凪いだ。",
+      "furigana": "[風|かぜ]が[凪|な]いだ。",
+      "translation_zh_CN": "风很平静。"
+    },
+    {
+      "content": "風が静まった。",
+      "furigana": "[風|かぜ]が[静|しず]まった。",
+      "translation_zh_CN": "风已经平静了。"
+    },
+    {
+      "content": "風がやみました。",
+      "furigana": "[風|かぜ]がやみました。",
+      "translation_zh_CN": "风停了。"
+    },
+    {
+      "content": "風が和らいだ。",
+      "furigana": "[風|かぜ]が[和|やわ]らいだ。",
+      "translation_zh_CN": "风势已经减弱。"
+    },
+    {
+      "content": "そんな風に言わないで。",
+      "furigana": "そんな[風|ふう]に[言|い]わないで。",
+      "translation_zh_CN": "别这样说。"
+    },
+    {
+      "content": "風邪が抜けない。",
+      "furigana": "[風邪|かぜ]が[抜|ぬ]けない。",
+      "translation_zh_CN": "我的感冒怎麼也不好。"
+    },
+    {
+      "content": "風がおさまった。",
+      "furigana": "[風|かぜ]がおさまった。",
+      "translation_zh_CN": "风停了。"
+    },
+    {
+      "content": "今日は風が強い。",
+      "furigana": "[今日|きょう]は[風|かぜ]が[強|つよ]い。",
+      "translation_zh_CN": "今天风很大。"
+    },
+    {
+      "content": "なんて強い風なの！",
+      "furigana": "なんて[強|つよ]い[風|かぜ]なの！",
+      "translation_zh_CN": "多麼強的風啊！"
+    },
+    {
+      "content": "風の便りに聞いた。",
+      "furigana": "[風|かぜ]の[便|たよ]りに[聞|き]いた。",
+      "translation_zh_CN": "我听传闻说的。"
+    },
+    {
+      "content": "風邪引いたみたい。",
+      "furigana": "[風邪|かぜ][引|ひ]いたみたい。",
+      "translation_zh_CN": "我感冒了。"
+    },
+    {
+      "content": "風邪をひきました。",
+      "furigana": "[風邪|かぜ]をひきました。",
+      "translation_zh_CN": "我感冒了。"
+    },
+    {
+      "content": "風邪に気をつけて。",
+      "furigana": "[風邪|かぜ]に[気|き]をつけて。",
+      "translation_zh_CN": "別著涼了。"
+    },
+    {
+      "content": "風が出てきました。",
+      "furigana": "[風|かぜ]が[出|で]てきました。",
+      "translation_zh_CN": "風愈吹愈猛。"
+    },
+    {
+      "content": "扇風機がほしいな。",
+      "furigana": "[扇風機|せん|ぷう|き]がほしいな。",
+      "translation_zh_CN": "我要那個電風扇。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "振り",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "振り",
+          "reading": "ふり"
+        },
+        {
+          "word": "風",
+          "reading": "ふり"
+        }
+      ]
+    },
+    {
+      "slug": "風邪",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "風邪",
+          "reading": "かぜ"
+        },
+        {
+          "word": "風邪",
+          "reading": "ふうじゃ"
+        }
+      ]
+    },
+    {
+      "slug": "風呂",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "風呂",
+          "reading": "ふろ"
+        }
+      ]
+    },
+    {
+      "slug": "風船",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "風船",
+          "reading": "ふうせん"
+        }
+      ]
+    },
+    {
+      "slug": "風呂敷",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "風呂敷",
+          "reading": "ふろしき"
+        }
+      ]
+    },
+    {
+      "slug": "風俗",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "風俗",
+          "reading": "ふうぞく"
+        },
+        {
+          "reading": "フーゾク"
+        }
+      ]
+    },
+    {
+      "slug": "風景",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "風景",
+          "reading": "ふうけい"
+        }
+      ]
+    },
+    {
+      "slug": "風車",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "風車",
+          "reading": "ふうしゃ"
+        },
+        {
+          "word": "風車",
+          "reading": "かざぐるま"
+        }
+      ]
+    },
+    {
+      "slug": "風習",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "風習",
+          "reading": "ふうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "風土",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "風土",
+          "reading": "ふうど"
+        }
+      ]
+    },
+    {
+      "slug": "風速",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風速",
+          "reading": "ふうそく"
+        }
+      ]
+    },
+    {
+      "slug": "風刺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風刺",
+          "reading": "ふうし"
+        },
+        {
+          "word": "諷刺",
+          "reading": "ふうし"
+        }
+      ]
+    },
+    {
+      "slug": "風土病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風土病",
+          "reading": "ふうどびょう"
+        }
+      ]
+    },
+    {
+      "slug": "風化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風化",
+          "reading": "ふうか"
+        }
+      ]
+    },
+    {
+      "slug": "風呂屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風呂屋",
+          "reading": "ふろや"
+        }
+      ]
+    },
+    {
+      "slug": "風味",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風味",
+          "reading": "ふうみ"
+        }
+      ]
+    },
+    {
+      "slug": "風格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風格",
+          "reading": "ふうかく"
+        }
+      ]
+    },
+    {
+      "slug": "風通し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "風通し",
+          "reading": "かぜとおし"
+        },
+        {
+          "word": "風通し",
+          "reading": "かざとおし"
+        },
+        {
+          "word": "風とおし",
+          "reading": "かぜとおし"
+        },
+        {
+          "word": "風とおし",
+          "reading": "かざとおし"
+        }
+      ]
+    }
   ]
 }

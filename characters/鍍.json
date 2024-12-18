@@ -70,5 +70,39 @@
       "startStroke": 15,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鍍金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "メッキ"
+        },
+        {
+          "word": "鍍金",
+          "reading": "めっき"
+        },
+        {
+          "word": "滅金",
+          "reading": "めっき"
+        }
+      ]
+    },
+    {
+      "slug": "メッキが剥げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "メッキが剥げる",
+          "reading": "メッキがはげる"
+        },
+        {
+          "word": "鍍金が剥げる",
+          "reading": "めっきがはげる"
+        }
+      ]
+    }
   ]
 }

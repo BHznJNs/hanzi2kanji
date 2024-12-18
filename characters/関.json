@@ -91,5 +91,297 @@
       "startStroke": 11,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "私には関係ない。",
+      "furigana": "[私|わたし]には[関係|かん|けい]ない。",
+      "translation_zh_CN": "这件事和我没有关系。"
+    },
+    {
+      "content": "だれか玄関にいる。",
+      "furigana": "だれか[玄関|げん|かん]にいる。",
+      "translation_zh_CN": "有人在門口。"
+    },
+    {
+      "content": "お前には関係ない。",
+      "furigana": "お[前|まえ]には[関係|かん|けい]ない。",
+      "translation_zh_CN": "這不關你的事。"
+    },
+    {
+      "content": "政治に関心があるの？",
+      "furigana": "[政治|せい|じ]に[関心|かん|しん]があるの？",
+      "translation_zh_CN": "你对政治感兴趣吗？"
+    },
+    {
+      "content": "玄関に誰かいるよ。",
+      "furigana": "[玄関|げん|かん]に[誰|だれ]かいるよ。",
+      "translation_zh_CN": "有人在門口。"
+    },
+    {
+      "content": "あなたには関係ない。",
+      "furigana": "あなたには[関係|かん|けい]ない。",
+      "translation_zh_CN": "這不關你的事。"
+    },
+    {
+      "content": "両者の間に関係はない。",
+      "furigana": "[両者|りょう|しゃ]の[間|ま]に[関係|かん|けい]はない。",
+      "translation_zh_CN": "两者没有关联。"
+    },
+    {
+      "content": "私はそれには関係ない。",
+      "furigana": "[私|わたし]はそれには[関係|かん|けい]ない。",
+      "translation_zh_CN": "我和这件事无关。"
+    },
+    {
+      "content": "学ぶのに年は関係ない。",
+      "furigana": "[学|まな]ぶのに[年|とし]は[関係|かん|けい]ない。",
+      "translation_zh_CN": "活到老，学到老。"
+    },
+    {
+      "content": "だれか玄関に来てるよ。",
+      "furigana": "だれか[玄関|げん|かん]に[来|き]てるよ。",
+      "translation_zh_CN": "玄关有人来了耶。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "関係",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "関係",
+          "reading": "かんけい"
+        }
+      ]
+    },
+    {
+      "slug": "関税",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "関税",
+          "reading": "かんぜい"
+        }
+      ]
+    },
+    {
+      "slug": "関心",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "関心",
+          "reading": "かんしん"
+        }
+      ]
+    },
+    {
+      "slug": "関連",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "関連",
+          "reading": "かんれん"
+        },
+        {
+          "word": "関聯",
+          "reading": "かんれん"
+        }
+      ]
+    },
+    {
+      "slug": "関西",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "関西",
+          "reading": "かんさい"
+        },
+        {
+          "word": "関西",
+          "reading": "かんせい"
+        }
+      ]
+    },
+    {
+      "slug": "関する",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "関する",
+          "reading": "かんする"
+        }
+      ]
+    },
+    {
+      "slug": "係わる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "関わる",
+          "reading": "かかわる"
+        },
+        {
+          "word": "係わる",
+          "reading": "かかわる"
+        },
+        {
+          "word": "拘る",
+          "reading": "かかわる"
+        }
+      ]
+    },
+    {
+      "slug": "関東",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "関東",
+          "reading": "かんとう"
+        }
+      ]
+    },
+    {
+      "slug": "干渉",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "干渉",
+          "reading": "かんしょう"
+        },
+        {
+          "word": "関渉",
+          "reading": "かんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "関与",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "関与",
+          "reading": "かんよ"
+        },
+        {
+          "word": "干与",
+          "reading": "かんよ"
+        }
+      ]
+    },
+    {
+      "slug": "関節",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関節",
+          "reading": "かんせつ"
+        }
+      ]
+    },
+    {
+      "slug": "関心事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関心事",
+          "reading": "かんしんじ"
+        },
+        {
+          "word": "関心事",
+          "reading": "かんしんごと"
+        }
+      ]
+    },
+    {
+      "slug": "関係者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関係者",
+          "reading": "かんけいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "関門",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関門",
+          "reading": "かんもん"
+        }
+      ]
+    },
+    {
+      "slug": "関知",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関知",
+          "reading": "かんち"
+        }
+      ]
+    },
+    {
+      "slug": "拘らず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関わらず",
+          "reading": "かかわらず"
+        },
+        {
+          "word": "関らず",
+          "reading": "かかわらず"
+        },
+        {
+          "word": "拘らず",
+          "reading": "かかわらず"
+        },
+        {
+          "word": "拘わらず",
+          "reading": "かかわらず"
+        },
+        {
+          "word": "係わらず",
+          "reading": "かかわらず"
+        }
+      ]
+    },
+    {
+      "slug": "関数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "関数",
+          "reading": "かんすう"
+        },
+        {
+          "word": "函数",
+          "reading": "かんすう"
+        }
+      ]
+    }
   ]
 }

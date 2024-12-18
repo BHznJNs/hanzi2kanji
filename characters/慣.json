@@ -36,8 +36,8 @@
     {
       "lang": "fr",
       "values": [
-        "avoir l\u0027habitude",
-        "s\u0027accoutumer",
+        "avoir l'habitude",
+        "s'accoutumer",
         "coutumes",
         "expérience"
       ]
@@ -90,6 +90,318 @@
       "radical": "八",
       "startStroke": 12,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "習うより慣れろ。",
+      "furigana": "[習|なら]うより[慣|な]れろ。",
+      "translation_zh_CN": "熟能生巧。"
+    },
+    {
+      "content": "彼は旅慣れている。",
+      "furigana": "[彼|かれ]は[旅|たび][慣|な]れている。",
+      "translation_zh_CN": "他習慣了旅行。"
+    },
+    {
+      "content": "彼らは同じ習慣をもつ。",
+      "furigana": "[彼|かれ]らは[同|おな]じ[習慣|しゅう|かん]をもつ。",
+      "translation_zh_CN": "他們有相同的嗜好。"
+    },
+    {
+      "content": "習慣の力は偉大である。",
+      "furigana": "[習慣|しゅう|かん]の[力|ちから]は[偉大|い|だい]である。",
+      "translation_zh_CN": "习惯的力量是伟大的。"
+    },
+    {
+      "content": "寮生活には慣れましたか。",
+      "furigana": "[寮|りょう][生活|せい|かつ]には[慣|な]れましたか。",
+      "translation_zh_CN": "你習慣在宿舍生活了嗎？"
+    },
+    {
+      "content": "習慣は第二の天性である。",
+      "furigana": "[習慣|しゅう|かん]は[第|だい][二|に]の[天性|てん|せい]である。",
+      "translation_zh_CN": "习惯是第二天性。"
+    },
+    {
+      "content": "夜更かしには慣れてます。",
+      "furigana": "[夜|よ][更|ふ]かしには[慣|な]れてます。",
+      "translation_zh_CN": "我习惯晚睡。"
+    },
+    {
+      "content": "大丈夫、じきに慣れますよ。",
+      "furigana": "[大丈夫|だい|じょう|ぶ]、じきに[慣|な]れますよ。",
+      "translation_zh_CN": "你很快就會習慣的。"
+    },
+    {
+      "content": "早起きには慣れているんだ。",
+      "furigana": "[早起|はや|お]きには[慣|な]れているんだ。",
+      "translation_zh_CN": "我習慣早起。"
+    },
+    {
+      "content": "日本食にはすぐに慣れますよ。",
+      "furigana": "[日本|に|ほん][食|しょく]にはすぐに[慣|な]れますよ。",
+      "translation_zh_CN": "你很快就会习惯吃日本料理了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "慣れる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "慣れる",
+          "reading": "なれる"
+        },
+        {
+          "word": "馴れる",
+          "reading": "なれる"
+        }
+      ]
+    },
+    {
+      "slug": "倣う",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "倣う",
+          "reading": "ならう"
+        },
+        {
+          "word": "傚う",
+          "reading": "ならう"
+        },
+        {
+          "word": "慣らう",
+          "reading": "ならう"
+        }
+      ]
+    },
+    {
+      "slug": "慣習",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣習",
+          "reading": "かんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "慣行",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣行",
+          "reading": "かんこう"
+        }
+      ]
+    },
+    {
+      "slug": "慣らす",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣らす",
+          "reading": "ならす"
+        },
+        {
+          "word": "馴らす",
+          "reading": "ならす"
+        }
+      ]
+    },
+    {
+      "slug": "慣れ親しむ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣れ親しむ",
+          "reading": "なれしたしむ"
+        },
+        {
+          "word": "なれ親しむ",
+          "reading": "なれしたしむ"
+        },
+        {
+          "word": "馴れ親しむ",
+          "reading": "なれしたしむ"
+        }
+      ]
+    },
+    {
+      "slug": "慣れっこ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣れっこ",
+          "reading": "なれっこ"
+        },
+        {
+          "word": "馴れっこ",
+          "reading": "なれっこ"
+        }
+      ]
+    },
+    {
+      "slug": "慣例",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣例",
+          "reading": "かんれい"
+        }
+      ]
+    },
+    {
+      "slug": "慣れ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣れ",
+          "reading": "なれ"
+        },
+        {
+          "word": "馴れ",
+          "reading": "なれ"
+        }
+      ]
+    },
+    {
+      "slug": "慣用",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "慣用",
+          "reading": "かんよう"
+        }
+      ]
+    },
+    {
+      "slug": "慣用表現",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣用表現",
+          "reading": "かんようひょうげん"
+        }
+      ]
+    },
+    {
+      "slug": "慣用法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣用法",
+          "reading": "かんようほう"
+        }
+      ]
+    },
+    {
+      "slug": "慣用語句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣用語句",
+          "reading": "かんようごく"
+        }
+      ]
+    },
+    {
+      "slug": "習わす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習わす",
+          "reading": "ならわす"
+        },
+        {
+          "word": "慣わす",
+          "reading": "ならわす"
+        }
+      ]
+    },
+    {
+      "slug": "慣用句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣用句",
+          "reading": "かんようく"
+        }
+      ]
+    },
+    {
+      "slug": "慣習法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣習法",
+          "reading": "かんしゅうほう"
+        }
+      ]
+    },
+    {
+      "slug": "慣性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣性",
+          "reading": "かんせい"
+        }
+      ]
+    },
+    {
+      "slug": "習わし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "習わし",
+          "reading": "ならわし"
+        },
+        {
+          "word": "慣わし",
+          "reading": "ならわし"
+        }
+      ]
+    },
+    {
+      "slug": "慣性系",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣性系",
+          "reading": "かんせいけい"
+        }
+      ]
+    },
+    {
+      "slug": "慣用名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慣用名",
+          "reading": "かんようめい"
+        }
+      ]
     }
   ]
 }

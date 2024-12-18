@@ -73,5 +73,288 @@
       "startStroke": 2,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "趣味は切手収集です。",
+      "furigana": "[趣味|しゅ|み]は[切手|きっ|て][収集|しゅう|しゅう]です。",
+      "translation_zh_CN": "我的嗜好是集郵。"
+    },
+    {
+      "content": "夫の年収は１０万ドルだ。",
+      "furigana": "[夫|おっと]の[年収|ねん|しゅう]は[１０|じゅう][万|まん]ドルだ。",
+      "translation_zh_CN": "我丈夫一年收入10萬美元。"
+    },
+    {
+      "content": "彼の収入は私の３倍だ。",
+      "furigana": "[彼|かれ]の[収入|しゅう|にゅう]は[私|わたし]の[３|さん][倍|ばい]だ。",
+      "translation_zh_CN": "他的收入比我多三倍。"
+    },
+    {
+      "content": "彼女の年収が高いです。",
+      "furigana": "[彼女|かの|じょ]の[年収|ねん|しゅう]が[高|たか]いです。",
+      "translation_zh_CN": "她的年间收入高。"
+    },
+    {
+      "content": "領収書がほしいのですが。",
+      "furigana": "[領収|りょう|しゅう][書|しょ]がほしいのですが。",
+      "translation_zh_CN": "麻煩我要一張收據。"
+    },
+    {
+      "content": "夫の年収は10万ドルです。",
+      "furigana": "[夫|おっと]の[年収|ねん|しゅう]は[10|じゅう][万|まん]ドルです。",
+      "translation_zh_CN": "我丈夫一年收入10萬美元。"
+    },
+    {
+      "content": "旅行会社の収益が急増した。",
+      "furigana": "[旅行|りょ|こう][会社|かい|しゃ]の[収益|しゅう|えき]が[急増|きゅう|ぞう]した。",
+      "translation_zh_CN": "旅行社的利润猛涨。"
+    },
+    {
+      "content": "このホールは５０００人収容できる。",
+      "furigana": "このホールは[５０００|ごせん][人|にん][収容|しゅう|よう]できる。",
+      "translation_zh_CN": "这个大厅可以容纳5000个人。"
+    },
+    {
+      "content": "どんな人でも買収できるものだ。",
+      "furigana": "どんな[人|ひと]でも[買収|ばい|しゅう]できるものだ。",
+      "translation_zh_CN": "每个人都有个价。"
+    },
+    {
+      "content": "このホールには５０００人収容できる。",
+      "furigana": "このホールには[５０００|ごせん][人|にん][収容|しゅう|よう]できる。",
+      "translation_zh_CN": "这个大厅可以容纳5000个人。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "収入",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "収入",
+          "reading": "しゅうにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "収穫",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "収穫",
+          "reading": "しゅうかく"
+        }
+      ]
+    },
+    {
+      "slug": "収益",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "収益",
+          "reading": "しゅうえき"
+        }
+      ]
+    },
+    {
+      "slug": "収める",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "収める",
+          "reading": "おさめる"
+        },
+        {
+          "word": "納める",
+          "reading": "おさめる"
+        }
+      ]
+    },
+    {
+      "slug": "収集",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "収集",
+          "reading": "しゅうしゅう"
+        },
+        {
+          "word": "蒐集",
+          "reading": "しゅうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "収容",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "収容",
+          "reading": "しゅうよう"
+        }
+      ]
+    },
+    {
+      "slug": "収支",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "収支",
+          "reading": "しゅうし"
+        }
+      ]
+    },
+    {
+      "slug": "収まる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "収まる",
+          "reading": "おさまる"
+        },
+        {
+          "word": "納まる",
+          "reading": "おさまる"
+        }
+      ]
+    },
+    {
+      "slug": "収賄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収賄",
+          "reading": "しゅうわい"
+        }
+      ]
+    },
+    {
+      "slug": "収量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収量",
+          "reading": "しゅうりょう"
+        }
+      ]
+    },
+    {
+      "slug": "収納",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収納",
+          "reading": "しゅうのう"
+        }
+      ]
+    },
+    {
+      "slug": "収拾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収拾",
+          "reading": "しゅうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "収録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収録",
+          "reading": "しゅうろく"
+        }
+      ]
+    },
+    {
+      "slug": "収縮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収縮",
+          "reading": "しゅうしゅく"
+        }
+      ]
+    },
+    {
+      "slug": "収束",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収束",
+          "reading": "しゅうそく"
+        }
+      ]
+    },
+    {
+      "slug": "収穫期",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収穫期",
+          "reading": "しゅうかくき"
+        }
+      ]
+    },
+    {
+      "slug": "収容能力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収容能力",
+          "reading": "しゅうようのうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "収穫高",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収穫高",
+          "reading": "しゅうかくだか"
+        }
+      ]
+    },
+    {
+      "slug": "収入源",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収入源",
+          "reading": "しゅうにゅうげん"
+        }
+      ]
+    },
+    {
+      "slug": "収益性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収益性",
+          "reading": "しゅうえきせい"
+        }
+      ]
+    }
   ]
 }

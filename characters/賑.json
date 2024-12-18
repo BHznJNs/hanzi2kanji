@@ -72,5 +72,106 @@
       "startStroke": 7,
       "strokes": 7
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "賑やか",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "賑やか",
+          "reading": "にぎやか"
+        }
+      ]
+    },
+    {
+      "slug": "賑わう",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "賑わう",
+          "reading": "にぎわう"
+        }
+      ]
+    },
+    {
+      "slug": "賑わい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賑わい",
+          "reading": "にぎわい"
+        }
+      ]
+    },
+    {
+      "slug": "賑わす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賑わす",
+          "reading": "にぎわす"
+        }
+      ]
+    },
+    {
+      "slug": "賑やかさ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賑やかさ",
+          "reading": "にぎやかさ"
+        }
+      ]
+    },
+    {
+      "slug": "賑々しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賑々しい",
+          "reading": "にぎにぎしい"
+        },
+        {
+          "word": "賑賑しい",
+          "reading": "にぎにぎしい"
+        }
+      ]
+    },
+    {
+      "slug": "賑やかし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賑やかし",
+          "reading": "にぎやかし"
+        }
+      ]
+    },
+    {
+      "slug": "賑やかす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賑やかす",
+          "reading": "にぎやかす"
+        }
+      ]
+    },
+    {
+      "slug": "賑あう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賑あう",
+          "reading": "にぎあう"
+        }
+      ]
+    }
   ]
 }

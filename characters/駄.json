@@ -87,5 +87,298 @@
       "startStroke": 13,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "諦めちゃ駄目だ。",
+      "furigana": "[諦|あきら]めちゃ[駄目|だ|め]だ。",
+      "translation_zh_CN": "不要放棄!"
+    },
+    {
+      "content": "これは駄洒落です。",
+      "furigana": "これは[駄洒落|だ|じゃ|れ]です。",
+      "translation_zh_CN": "这是个文字游戏。"
+    },
+    {
+      "content": "泣いても無駄です。",
+      "furigana": "[泣|な]いても[無駄|む|だ]です。",
+      "translation_zh_CN": "哭是无济于事的。"
+    },
+    {
+      "content": "外出は駄目ですよ。",
+      "furigana": "[外出|がい|しゅつ]は[駄目|だ|め]ですよ。",
+      "translation_zh_CN": "你不可以出去。"
+    },
+    {
+      "content": "無駄骨を折るだけだ。",
+      "furigana": "[無駄骨|む|だ|ぼね]を[折|お]るだけだ。",
+      "translation_zh_CN": "这好比大海捞针。"
+    },
+    {
+      "content": "彼と議論しても無駄だ。",
+      "furigana": "[彼|かれ]と[議論|ぎ|ろん]しても[無駄|む|だ]だ。",
+      "translation_zh_CN": "跟他吵没用。"
+    },
+    {
+      "content": "言い訳をしても無駄だ。",
+      "furigana": "[言|い]い[訳|わけ]をしても[無駄|む|だ]だ。",
+      "translation_zh_CN": "借口是没用的。"
+    },
+    {
+      "content": "それは時間の無駄です。",
+      "furigana": "それは[時間|じ|かん]の[無駄|む|だ]です。",
+      "translation_zh_CN": "这是浪费时间。"
+    },
+    {
+      "content": "今更後悔しても無駄だ。",
+      "furigana": "[今更|いま|さら][後悔|こう|かい]しても[無駄|む|だ]だ。",
+      "translation_zh_CN": "現在後悔也沒用了。"
+    },
+    {
+      "content": "時間を無駄にするなよ。",
+      "furigana": "[時間|じ|かん]を[無駄|む|だ]にするなよ。",
+      "translation_zh_CN": "不要浪費時間。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "駄目",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "駄目",
+          "reading": "だめ"
+        },
+        {
+          "reading": "ダメ"
+        }
+      ]
+    },
+    {
+      "slug": "駄作",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "駄作",
+          "reading": "ださく"
+        }
+      ]
+    },
+    {
+      "slug": "駄文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄文",
+          "reading": "だぶん"
+        }
+      ]
+    },
+    {
+      "slug": "駄菓子屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄菓子屋",
+          "reading": "だがしや"
+        }
+      ]
+    },
+    {
+      "slug": "駄菓子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄菓子",
+          "reading": "だがし"
+        }
+      ]
+    },
+    {
+      "slug": "駄目になる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄目になる",
+          "reading": "だめになる"
+        }
+      ]
+    },
+    {
+      "slug": "駄駄を捏ねる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄々をこねる",
+          "reading": "だだをこねる"
+        },
+        {
+          "word": "駄々を捏ねる",
+          "reading": "だだをこねる"
+        }
+      ]
+    },
+    {
+      "slug": "駄弁る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄弁る",
+          "reading": "だべる"
+        },
+        {
+          "reading": "ダベる"
+        }
+      ]
+    },
+    {
+      "slug": "駄目を押す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄目を押す",
+          "reading": "だめをおす"
+        }
+      ]
+    },
+    {
+      "slug": "駄津",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄津",
+          "reading": "だつ"
+        },
+        {
+          "reading": "ダツ"
+        }
+      ]
+    },
+    {
+      "slug": "駄獣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄獣",
+          "reading": "だじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "ダメ出し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ダメ出し",
+          "reading": "ダメだし"
+        },
+        {
+          "word": "駄目出し",
+          "reading": "だめだし"
+        }
+      ]
+    },
+    {
+      "slug": "駄荷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄荷",
+          "reading": "だに"
+        }
+      ]
+    },
+    {
+      "slug": "駄物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄物",
+          "reading": "だもの"
+        }
+      ]
+    },
+    {
+      "slug": "駄々っ子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄々っ子",
+          "reading": "だだっこ"
+        },
+        {
+          "word": "駄駄っ子",
+          "reading": "だだっこ"
+        },
+        {
+          "word": "だだっ子",
+          "reading": "だだっこ"
+        },
+        {
+          "word": "駄々っ児",
+          "reading": "だだっこ"
+        },
+        {
+          "word": "駄駄っ児",
+          "reading": "だだっこ"
+        }
+      ]
+    },
+    {
+      "slug": "駄句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄句",
+          "reading": "だく"
+        }
+      ]
+    },
+    {
+      "slug": "駄犬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄犬",
+          "reading": "だけん"
+        }
+      ]
+    },
+    {
+      "slug": "だだ漏れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "だだ漏れ",
+          "reading": "だだもれ"
+        },
+        {
+          "word": "ダダ漏れ",
+          "reading": "だだもれ"
+        },
+        {
+          "word": "駄々漏れ",
+          "reading": "だだもれ"
+        }
+      ]
+    },
+    {
+      "slug": "駄弁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駄弁",
+          "reading": "だべん"
+        },
+        {
+          "word": "駄辯",
+          "reading": "だべん"
+        }
+      ]
+    }
   ]
 }

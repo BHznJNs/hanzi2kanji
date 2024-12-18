@@ -50,5 +50,233 @@
       "startStroke": 6,
       "strokes": 8
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "赤い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "赤い",
+          "reading": "あかい"
+        },
+        {
+          "word": "紅い",
+          "reading": "あかい"
+        },
+        {
+          "word": "朱い",
+          "reading": "あかい"
+        }
+      ]
+    },
+    {
+      "slug": "緋秧鶏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋秧鶏",
+          "reading": "ひくいな"
+        },
+        {
+          "word": "緋水鶏",
+          "reading": "ひくいな"
+        },
+        {
+          "reading": "ヒクイナ"
+        }
+      ]
+    },
+    {
+      "slug": "緋鳥鴨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋鳥鴨",
+          "reading": "ひどりがも"
+        },
+        {
+          "reading": "ヒドリガモ"
+        }
+      ]
+    },
+    {
+      "slug": "緋連雀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋連雀",
+          "reading": "ひれんじゃく"
+        },
+        {
+          "reading": "ヒレンジャク"
+        }
+      ]
+    },
+    {
+      "slug": "緋梅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋梅",
+          "reading": "ひばい"
+        }
+      ]
+    },
+    {
+      "slug": "緋の袴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋の袴",
+          "reading": "ひのはかま"
+        }
+      ]
+    },
+    {
+      "slug": "緋縮緬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋縮緬",
+          "reading": "ひぢりめん"
+        }
+      ]
+    },
+    {
+      "slug": "緋衣草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋衣草",
+          "reading": "ひごろもそう"
+        },
+        {
+          "reading": "ヒゴロモソウ"
+        }
+      ]
+    },
+    {
+      "slug": "緋色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋色",
+          "reading": "ひいろ"
+        }
+      ]
+    },
+    {
+      "slug": "緋縅し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋縅",
+          "reading": "ひおどし"
+        },
+        {
+          "word": "緋威",
+          "reading": "ひおどし"
+        },
+        {
+          "word": "火威",
+          "reading": "ひおどし"
+        }
+      ]
+    },
+    {
+      "slug": "緋袴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋袴",
+          "reading": "ひばかま"
+        },
+        {
+          "word": "緋袴",
+          "reading": "ひこ"
+        }
+      ]
+    },
+    {
+      "slug": "緋目高",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋目高",
+          "reading": "ひめだか"
+        },
+        {
+          "reading": "ヒメダカ"
+        }
+      ]
+    },
+    {
+      "slug": "日野菜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日野菜",
+          "reading": "ひのな"
+        },
+        {
+          "word": "ひの菜",
+          "reading": "ひのな"
+        },
+        {
+          "word": "緋の菜",
+          "reading": "ひのな"
+        },
+        {
+          "reading": "ヒノナ"
+        }
+      ]
+    },
+    {
+      "slug": "緋木瓜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋木瓜",
+          "reading": "ひぼけ"
+        }
+      ]
+    },
+    {
+      "slug": "緋鯉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋鯉",
+          "reading": "ひごい"
+        }
+      ]
+    },
+    {
+      "slug": "緋寒桜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋寒桜",
+          "reading": "ひかんざくら"
+        },
+        {
+          "reading": "ヒカンザクラ"
+        }
+      ]
+    },
+    {
+      "slug": "緋の衣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緋の衣",
+          "reading": "ひのころも"
+        }
+      ]
+    }
   ]
 }

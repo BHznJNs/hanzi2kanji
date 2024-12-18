@@ -90,5 +90,297 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "往復旅行？片道だけです。",
+      "furigana": "[往復|おう|ふく][旅行|りょ|こう]？[片道|かた|みち]だけです。",
+      "translation_zh_CN": "往返吗？是单程。"
+    },
+    {
+      "content": "往復切符を買いました。",
+      "furigana": "[往復|おう|ふく][切符|きっ|ぷ]を[買|か]いました。",
+      "translation_zh_CN": "我买了往返的票。"
+    },
+    {
+      "content": "往復びんたを食らった。",
+      "furigana": "[往復|おう|ふく]びんたを[食|く]らった。",
+      "translation_zh_CN": "我两个脸颊都被打了。"
+    },
+    {
+      "content": "彼は回復の見込みが無い。",
+      "furigana": "[彼|かれ]は[回復|かい|ふく]の[見込|み|こ]みが[無|な]い。",
+      "translation_zh_CN": "对于他的康复没有任何希望。"
+    },
+    {
+      "content": "往復切符を買いましたか。",
+      "furigana": "[往復|おう|ふく][切符|きっ|ぷ]を[買|か]いましたか。",
+      "translation_zh_CN": "你买了往返的票吗？"
+    },
+    {
+      "content": "往復ですか、片道ですか。",
+      "furigana": "[往復|おう|ふく]ですか、[片道|かた|みち]ですか。",
+      "translation_zh_CN": "往返还是单程？"
+    },
+    {
+      "content": "トムは報復を望んでいる。",
+      "furigana": "トムは[報復|ほう|ふく]を[望|のぞ]んでいる。",
+      "translation_zh_CN": "汤姆想要复仇。"
+    },
+    {
+      "content": "彼は回復する見込みがない。",
+      "furigana": "[彼|かれ]は[回復|かい|ふく]する[見込|み|こ]みがない。",
+      "translation_zh_CN": "对于他的康复没有任何希望。"
+    },
+    {
+      "content": "彼が回復する見込みは全くない。",
+      "furigana": "[彼|かれ]が[回復|かい|ふく]する[見込|み|こ]みは[全|まった]くない。",
+      "translation_zh_CN": "他沒有希望痊癒了。"
+    },
+    {
+      "content": "復活祭、おめでとうございます。",
+      "furigana": "[復活|ふっ|かつ][祭|さい]、おめでとうございます。",
+      "translation_zh_CN": "复活节快乐。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "帰る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "帰る",
+          "reading": "かえる"
+        },
+        {
+          "word": "還る",
+          "reading": "かえる"
+        }
+      ]
+    },
+    {
+      "slug": "復習",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "復習",
+          "reading": "ふくしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "復活",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "復活",
+          "reading": "ふっかつ"
+        }
+      ]
+    },
+    {
+      "slug": "復興",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "復興",
+          "reading": "ふっこう"
+        }
+      ]
+    },
+    {
+      "slug": "復旧",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "復旧",
+          "reading": "ふっきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "復活祭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復活祭",
+          "reading": "ふっかつさい"
+        }
+      ]
+    },
+    {
+      "slug": "複数",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "複数",
+          "reading": "ふくすう"
+        }
+      ]
+    },
+    {
+      "slug": "復帰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復帰",
+          "reading": "ふっき"
+        }
+      ]
+    },
+    {
+      "slug": "複製",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "複製",
+          "reading": "ふくせい"
+        }
+      ]
+    },
+    {
+      "slug": "復元",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復元",
+          "reading": "ふくげん"
+        },
+        {
+          "word": "復原",
+          "reading": "ふくげん"
+        }
+      ]
+    },
+    {
+      "slug": "復讐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復讐",
+          "reading": "ふくしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "復学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復学",
+          "reading": "ふくがく"
+        }
+      ]
+    },
+    {
+      "slug": "復職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復職",
+          "reading": "ふくしょく"
+        }
+      ]
+    },
+    {
+      "slug": "又々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "又々",
+          "reading": "またまた"
+        },
+        {
+          "word": "又又",
+          "reading": "またまた"
+        },
+        {
+          "word": "復々",
+          "reading": "またまた"
+        },
+        {
+          "word": "復復",
+          "reading": "またまた"
+        },
+        {
+          "word": "亦々",
+          "reading": "またまた"
+        },
+        {
+          "word": "亦亦",
+          "reading": "またまた"
+        }
+      ]
+    },
+    {
+      "slug": "復唱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復唱",
+          "reading": "ふくしょう"
+        },
+        {
+          "word": "復誦",
+          "reading": "ふくしょう"
+        }
+      ]
+    },
+    {
+      "slug": "復讐心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復讐心",
+          "reading": "ふくしゅうしん"
+        },
+        {
+          "word": "復しゅう心",
+          "reading": "ふくしゅうしん"
+        }
+      ]
+    },
+    {
+      "slug": "復す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復す",
+          "reading": "ふくす"
+        }
+      ]
+    },
+    {
+      "slug": "復調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復調",
+          "reading": "ふくちょう"
+        }
+      ]
+    },
+    {
+      "slug": "復員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "復員",
+          "reading": "ふくいん"
+        }
+      ]
+    }
   ]
 }

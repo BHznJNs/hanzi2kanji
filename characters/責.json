@@ -79,5 +79,291 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "連帯責任は無責任。",
+      "furigana": "[連帯|れん|たい][責任|せき|にん]は[無責任|む|せき|にん]。",
+      "translation_zh_CN": "全体负责就是无责。"
+    },
+    {
+      "content": "彼は責任感が強い。",
+      "furigana": "[彼|かれ]は[責任|せき|にん][感|かん]が[強|つよ]い。",
+      "translation_zh_CN": "他有強烈的責任感。"
+    },
+    {
+      "content": "太郎は責任感が強い。",
+      "furigana": "[太郎|た|ろう]は[責任|せき|にん][感|かん]が[強|つよ]い。",
+      "translation_zh_CN": "太郎有很强的责任感。"
+    },
+    {
+      "content": "すべて私の責任です。",
+      "furigana": "すべて[私|わたし]の[責任|せき|にん]です。",
+      "translation_zh_CN": "都是我的错。"
+    },
+    {
+      "content": "彼がその全責任を負った。",
+      "furigana": "[彼|かれ]がその[全責任|ぜん|せき|にん]を[負|お]った。",
+      "translation_zh_CN": "他負了全部責任。"
+    },
+    {
+      "content": "その責任は彼には負担だ。",
+      "furigana": "その[責任|せき|にん]は[彼|かれ]には[負担|ふ|たん]だ。",
+      "translation_zh_CN": "那个责任对他是个负担。"
+    },
+    {
+      "content": "彼女は私の間違いを責めた。",
+      "furigana": "[彼女|かの|じょ]は[私|わたし]の[間違|ま|ちが]いを[責|せ]めた。",
+      "translation_zh_CN": "她指責我犯了錯。"
+    },
+    {
+      "content": "自分を責めることはないよ。",
+      "furigana": "[自分|じ|ぶん]を[責|せ]めることはないよ。",
+      "translation_zh_CN": "你不要自甘堕落。"
+    },
+    {
+      "content": "失敗の責任は私が取ります。",
+      "furigana": "[失敗|しっ|ぱい]の[責任|せき|にん]は[私|わたし]が[取|と]ります。",
+      "translation_zh_CN": "我来承担失败的责任。"
+    },
+    {
+      "content": "その責任は彼にとって重荷だ。",
+      "furigana": "その[責任|せき|にん]は[彼|かれ]にとって[重荷|おも|に]だ。",
+      "translation_zh_CN": "那个责任对他是个负担。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "責任",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "責任",
+          "reading": "せきにん"
+        }
+      ]
+    },
+    {
+      "slug": "責める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "責める",
+          "reading": "せめる"
+        }
+      ]
+    },
+    {
+      "slug": "責務",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "責務",
+          "reading": "せきむ"
+        }
+      ]
+    },
+    {
+      "slug": "責任者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任者",
+          "reading": "せきにんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "責任感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任感",
+          "reading": "せきにんかん"
+        }
+      ]
+    },
+    {
+      "slug": "責任逃れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任逃れ",
+          "reading": "せきにんのがれ"
+        },
+        {
+          "word": "責任のがれ",
+          "reading": "せきにんのがれ"
+        }
+      ]
+    },
+    {
+      "slug": "責め立てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責め立てる",
+          "reading": "せめたてる"
+        },
+        {
+          "word": "責めたてる",
+          "reading": "せめたてる"
+        },
+        {
+          "word": "責立てる",
+          "reading": "せめたてる"
+        }
+      ]
+    },
+    {
+      "slug": "責任を持つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任を持つ",
+          "reading": "せきにんをもつ"
+        },
+        {
+          "word": "責任をもつ",
+          "reading": "せきにんをもつ"
+        }
+      ]
+    },
+    {
+      "slug": "責め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責め",
+          "reading": "せめ"
+        }
+      ]
+    },
+    {
+      "slug": "責任転嫁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任転嫁",
+          "reading": "せきにんてんか"
+        }
+      ]
+    },
+    {
+      "slug": "責任を取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任を取る",
+          "reading": "せきにんをとる"
+        },
+        {
+          "word": "責任をとる",
+          "reading": "せきにんをとる"
+        }
+      ]
+    },
+    {
+      "slug": "責めを負う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責めを負う",
+          "reading": "せめをおう"
+        },
+        {
+          "word": "責を負う",
+          "reading": "せめをおう"
+        }
+      ]
+    },
+    {
+      "slug": "責任を逃れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任を逃れる",
+          "reading": "せきにんをのがれる"
+        }
+      ]
+    },
+    {
+      "slug": "責任を問われる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任を問われる",
+          "reading": "せきにんをとわれる"
+        }
+      ]
+    },
+    {
+      "slug": "責任を担う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任を担う",
+          "reading": "せきにんをになう"
+        }
+      ]
+    },
+    {
+      "slug": "責任能力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任能力",
+          "reading": "せきにんのうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "責付く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責付く",
+          "reading": "せっつく"
+        },
+        {
+          "word": "責っ付く",
+          "reading": "せっつく"
+        }
+      ]
+    },
+    {
+      "slug": "責め苛む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責め苛む",
+          "reading": "せめさいなむ"
+        },
+        {
+          "word": "責めさいなむ",
+          "reading": "せめさいなむ"
+        },
+        {
+          "word": "攻め苛む",
+          "reading": "せめさいなむ"
+        }
+      ]
+    },
+    {
+      "slug": "責任を持って",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "責任を持って",
+          "reading": "せきにんをもって"
+        }
+      ]
+    }
   ]
 }

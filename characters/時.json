@@ -73,5 +73,333 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "もう５時？",
+      "furigana": "もう[５時|ご|じ]？",
+      "translation_zh_CN": "已经五点了吗？"
+    },
+    {
+      "content": "門限何時？",
+      "furigana": "[門限何時|もん|げん|なん|じ]？",
+      "translation_zh_CN": "宵禁时间是几点？"
+    },
+    {
+      "content": "９時だってさ。",
+      "furigana": "[９時|く|じ]だってさ。",
+      "translation_zh_CN": "现在是 9 点。"
+    },
+    {
+      "content": "午後八時です。",
+      "furigana": "[午後八時|ご|ご|はち|じ]です。",
+      "translation_zh_CN": "现在是晚上 8 点。"
+    },
+    {
+      "content": "時をつかまえろ！",
+      "furigana": "[時|どき]をつかまえろ！",
+      "translation_zh_CN": "抓紧时间！"
+    },
+    {
+      "content": "時の過ぎゆくままに。",
+      "furigana": "[時|どき]の[過|す]ぎゆくままに。",
+      "translation_zh_CN": "随着时间的流逝。"
+    },
+    {
+      "content": "２時でいい？",
+      "furigana": "[２時|に|じ]でいい？",
+      "translation_zh_CN": "2点可以吗？"
+    },
+    {
+      "content": "午後二時です。",
+      "furigana": "[午後二時|ご|ご|に|じ]です。",
+      "translation_zh_CN": "现在是下午两点。"
+    },
+    {
+      "content": "７時にね。",
+      "furigana": "[７時|しち|じ]にね。",
+      "translation_zh_CN": "7点钟。"
+    },
+    {
+      "content": "７時に起きました。",
+      "furigana": "[７時|ひち|じ]に[起|お]きました。",
+      "translation_zh_CN": "我七点钟就醒了。"
+    },
+    {
+      "content": "彼は時々変です。",
+      "furigana": "[彼|かれ]は[時々|ときどき][変|へん]です。",
+      "translation_zh_CN": "他有时候很奇怪。"
+    },
+    {
+      "content": "僕の時計はどこだ？",
+      "furigana": "[僕|ぼく]の[時計|と|けい]はどこだ？",
+      "translation_zh_CN": "我的手錶在哪裡？"
+    },
+    {
+      "content": "寝る時間ですよ。",
+      "furigana": "[寝|ね]る[時間|じ|かん]ですよ。",
+      "translation_zh_CN": "睡觉时间到了。"
+    },
+    {
+      "content": "出発する時間だ。",
+      "furigana": "[出発|しゅっ|ぱつ]する[時間|じ|かん]だ。",
+      "translation_zh_CN": "是时候离开了。"
+    },
+    {
+      "content": "出かける時間よ。",
+      "furigana": "[出|で]かける[時間|じ|かん]よ。",
+      "translation_zh_CN": "該走了。"
+    },
+    {
+      "content": "十時ごろですか。",
+      "furigana": "[十|じゅう][時|じ]ごろですか。",
+      "translation_zh_CN": "大約十點鐘嗎？"
+    },
+    {
+      "content": "時計を盗まれた。",
+      "furigana": "[時計|と|けい]を[盗|ぬす]まれた。",
+      "translation_zh_CN": "我的手表被偷了。"
+    },
+    {
+      "content": "時計が止まった。",
+      "furigana": "[時計|と|けい]が[止|と]まった。",
+      "translation_zh_CN": "時鐘已經停止了。"
+    },
+    {
+      "content": "六時までに戻る。",
+      "furigana": "[六|ろく][時|じ]までに[戻|もど]る。",
+      "translation_zh_CN": "我将6点回来。"
+    },
+    {
+      "content": "私は時間がない。",
+      "furigana": "[私|わたし]は[時間|じ|かん]がない。",
+      "translation_zh_CN": "我没时间。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "時間",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "時間",
+          "reading": "じかん"
+        }
+      ]
+    },
+    {
+      "slug": "時計",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "時計",
+          "reading": "とけい"
+        },
+        {
+          "word": "土圭",
+          "reading": "とけい"
+        }
+      ]
+    },
+    {
+      "slug": "時々",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "時々",
+          "reading": "ときどき"
+        },
+        {
+          "word": "時時",
+          "reading": "ときどき"
+        }
+      ]
+    },
+    {
+      "slug": "時間割",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "時間割",
+          "reading": "じかんわり"
+        },
+        {
+          "word": "時間割り",
+          "reading": "じかんわり"
+        }
+      ]
+    },
+    {
+      "slug": "時代",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "時代",
+          "reading": "じだい"
+        }
+      ]
+    },
+    {
+      "slug": "時刻表",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "時刻表",
+          "reading": "じこくひょう"
+        }
+      ]
+    },
+    {
+      "slug": "時期",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "時期",
+          "reading": "じき"
+        }
+      ]
+    },
+    {
+      "slug": "時刻",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "時刻",
+          "reading": "じこく"
+        },
+        {
+          "word": "時剋",
+          "reading": "じこく"
+        }
+      ]
+    },
+    {
+      "slug": "時速",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "時速",
+          "reading": "じそく"
+        }
+      ]
+    },
+    {
+      "slug": "時折",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "時折",
+          "reading": "ときおり"
+        },
+        {
+          "word": "時おり",
+          "reading": "ときおり"
+        },
+        {
+          "word": "時折り",
+          "reading": "ときおり"
+        },
+        {
+          "word": "時折",
+          "reading": "ときより"
+        },
+        {
+          "word": "時折り",
+          "reading": "ときより"
+        }
+      ]
+    },
+    {
+      "slug": "時差",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "時差",
+          "reading": "じさ"
+        }
+      ]
+    },
+    {
+      "slug": "時流",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時流",
+          "reading": "じりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "時代劇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時代劇",
+          "reading": "じだいげき"
+        }
+      ]
+    },
+    {
+      "slug": "時半",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時半",
+          "reading": "じはん"
+        }
+      ]
+    },
+    {
+      "slug": "時として",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時として",
+          "reading": "ときとして"
+        }
+      ]
+    },
+    {
+      "slug": "時点",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時点",
+          "reading": "じてん"
+        }
+      ]
+    },
+    {
+      "slug": "時給",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "時給",
+          "reading": "じきゅう"
+        }
+      ]
+    }
   ]
 }

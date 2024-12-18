@@ -62,5 +62,32 @@
       "startStroke": 6,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "伶俐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怜悧",
+          "reading": "れいり"
+        },
+        {
+          "word": "伶俐",
+          "reading": "れいり"
+        }
+      ]
+    },
+    {
+      "slug": "怜悧狡猾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "怜悧狡猾",
+          "reading": "れいりこうかつ"
+        }
+      ]
+    }
   ]
 }

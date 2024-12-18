@@ -98,5 +98,316 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "傘さす？",
+      "furigana": "[傘|かさ]さす？",
+      "translation_zh_CN": "你会带伞吗？"
+    },
+    {
+      "content": "傘をさしました。",
+      "furigana": "[傘|かさ]をさしました。",
+      "translation_zh_CN": "我撑着伞。"
+    },
+    {
+      "content": "傘は畳んで。",
+      "furigana": "[傘|かさ]は[畳|たた]んで。",
+      "translation_zh_CN": "折叠你的雨伞。"
+    },
+    {
+      "content": "傘を閉じました。",
+      "furigana": "[傘|かさ]を[閉|と]じました。",
+      "translation_zh_CN": "我收起了伞。"
+    },
+    {
+      "content": "傘を買った。",
+      "furigana": "[傘|かさ]を[買|か]った。",
+      "translation_zh_CN": "我买了一把雨伞。"
+    },
+    {
+      "content": "傘忘れないでね。",
+      "furigana": "[傘忘|かさ|わす]れないでね。",
+      "translation_zh_CN": "别忘了带伞。"
+    },
+    {
+      "content": "傘を窄めなさい。",
+      "furigana": "[傘|かさ]を[窄|すぼ]めなさい。",
+      "translation_zh_CN": "收好你的伞。"
+    },
+    {
+      "content": "傘を無くしてしまった。",
+      "furigana": "[傘|かさ]を[無|な]くしてしまった。",
+      "translation_zh_CN": "我丢了伞。"
+    },
+    {
+      "content": "傘を閉じなさい。",
+      "furigana": "[傘|かさ]を[閉|と]じなさい。",
+      "translation_zh_CN": "收好你的伞。"
+    },
+    {
+      "content": "傘を置き忘れた。",
+      "furigana": "[傘|かさ]を[置|お]き[忘|わす]れた。",
+      "translation_zh_CN": "我把伞落在后面了。"
+    },
+    {
+      "content": "傘が良く売れる。",
+      "furigana": "[傘|かさ]が[良|よ]く[売|う]れる。",
+      "translation_zh_CN": "雨伞卖得好。"
+    },
+    {
+      "content": "傘忘れないでね。",
+      "furigana": "[傘|かさ][忘|わす]れないでね。",
+      "translation_zh_CN": "别忘了带伞。"
+    },
+    {
+      "content": "この傘誰のですか？",
+      "furigana": "この[傘|かさ][誰|だれ]のですか？",
+      "translation_zh_CN": "这把伞是谁的？"
+    },
+    {
+      "content": "これ誰の傘ですか？",
+      "furigana": "これ[誰|だれ]の[傘|かさ]ですか？",
+      "translation_zh_CN": "这把伞是谁的？"
+    },
+    {
+      "content": "この傘、あなたの？",
+      "furigana": "この[傘|かさ]、あなたの？",
+      "translation_zh_CN": "这把雨伞是你的吗？"
+    },
+    {
+      "content": "この傘にします。",
+      "furigana": "この[傘|かさ]にします。",
+      "translation_zh_CN": "我將拿這把傘。"
+    },
+    {
+      "content": "電車に傘を忘れた。",
+      "furigana": "[電車|でん|しゃ]に[傘|かさ]を[忘|わす]れた。",
+      "translation_zh_CN": "我把雨伞留在电车上了。"
+    },
+    {
+      "content": "私は傘をなくした。",
+      "furigana": "[私|わたし]は[傘|かさ]をなくした。",
+      "translation_zh_CN": "我丢了我的伞。"
+    },
+    {
+      "content": "この傘いくらですか？",
+      "furigana": "この[傘|かさ]いくらですか？",
+      "translation_zh_CN": "這把傘多少錢?"
+    },
+    {
+      "content": "これってあなたの傘？",
+      "furigana": "これってあなたの[傘|かさ]？",
+      "translation_zh_CN": "这把雨伞是你的吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "唐傘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "から傘",
+          "reading": "からかさ"
+        },
+        {
+          "word": "唐傘",
+          "reading": "からかさ"
+        },
+        {
+          "word": "傘",
+          "reading": "からかさ"
+        }
+      ]
+    },
+    {
+      "slug": "傘下",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘下",
+          "reading": "さんか"
+        }
+      ]
+    },
+    {
+      "slug": "笠貝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "笠貝",
+          "reading": "かさがい"
+        },
+        {
+          "word": "傘貝",
+          "reading": "かさがい"
+        },
+        {
+          "reading": "カサガイ"
+        }
+      ]
+    },
+    {
+      "slug": "傘鉾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘鉾",
+          "reading": "かさぼこ"
+        },
+        {
+          "word": "笠鉾",
+          "reading": "かさぼこ"
+        }
+      ]
+    },
+    {
+      "slug": "傘寿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘寿",
+          "reading": "さんじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "傘ふり場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘ふり場",
+          "reading": "かさふりば"
+        },
+        {
+          "word": "傘振り場",
+          "reading": "かさふりば"
+        }
+      ]
+    },
+    {
+      "slug": "傘屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘屋",
+          "reading": "かさや"
+        }
+      ]
+    },
+    {
+      "slug": "傘形碍子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘形碍子",
+          "reading": "かさがたがいし"
+        }
+      ]
+    },
+    {
+      "slug": "傘持ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘持ち",
+          "reading": "かさもち"
+        },
+        {
+          "word": "傘持",
+          "reading": "かさもち"
+        }
+      ]
+    },
+    {
+      "slug": "傘歯車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘歯車",
+          "reading": "かさはぐるま"
+        }
+      ]
+    },
+    {
+      "slug": "傘伐林",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘伐林",
+          "reading": "さんばつりん"
+        }
+      ]
+    },
+    {
+      "slug": "傘立て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘立て",
+          "reading": "かさたて"
+        }
+      ]
+    },
+    {
+      "slug": "傘紙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘紙",
+          "reading": "かさがみ"
+        }
+      ]
+    },
+    {
+      "slug": "傘張り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘張り",
+          "reading": "かさはり"
+        },
+        {
+          "word": "傘貼り",
+          "reading": "かさはり"
+        },
+        {
+          "word": "傘はり",
+          "reading": "かさはり"
+        }
+      ]
+    },
+    {
+      "slug": "傘地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘地",
+          "reading": "かさじ"
+        }
+      ]
+    },
+    {
+      "slug": "傘袋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傘袋",
+          "reading": "かさぶくろ"
+        },
+        {
+          "word": "かさ袋",
+          "reading": "かさぶくろ"
+        },
+        {
+          "word": "カサ袋",
+          "reading": "かさぶくろ"
+        },
+        {
+          "word": "笠袋",
+          "reading": "かさぶくろ"
+        }
+      ]
+    }
   ]
 }

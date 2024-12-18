@@ -72,5 +72,319 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "今帰って飯食った。",
+      "furigana": "[今帰|いま|かえ]って[飯食|めし|く]った。",
+      "translation_zh_CN": "我刚到家吃饭。"
+    },
+    {
+      "content": "彼はやる気満々です。",
+      "furigana": "[彼|かれ]はやる[気|き][満々|まんまん]です。",
+      "translation_zh_CN": "他很有动力。"
+    },
+    {
+      "content": "万万承知の上です。",
+      "furigana": "[万万承知|まん|まん|しょう|ち]の[上|うえ]です。",
+      "translation_zh_CN": "我完全清楚这一点。"
+    },
+    {
+      "content": "トムは自信満々だったよ。",
+      "furigana": "トムは[自信満々|じしんまんまん]だったよ。",
+      "translation_zh_CN": "汤姆信心十足。"
+    },
+    {
+      "content": "もう、食べる気満々。",
+      "furigana": "もう、[食|た]べる[気|き][満々|まんまん]。",
+      "translation_zh_CN": "我已经准备好吃饭了。"
+    },
+    {
+      "content": "トムはプロフィール写真のまんまだね。",
+      "furigana": "トムはプロフィール[写真|しゃ|しん]のまんまだね。",
+      "translation_zh_CN": "汤姆就像他的个人资料照片一样。"
+    },
+    {
+      "content": "飯の後、俺は寝床についた。",
+      "furigana": "[飯|めし]の[後|あと]、[俺|おれ]は[寝床|ね|どこ]についた。",
+      "translation_zh_CN": "吃完晚饭，我就去睡觉了。"
+    },
+    {
+      "content": "じゃあ、今日の晩飯はハンバーグだからな",
+      "furigana": "じゃあ、[今日|きょう]の[晩|ばん][飯|めし]は[ハンバーグ|はんばーぐ]だからな",
+      "translation_zh_CN": "嗯，今晚的晚餐是汉堡。"
+    },
+    {
+      "content": "進子は闘志満々です。",
+      "furigana": "[進子|すすむ|こ]は[闘志|とう|し][満々|まんまん]です。",
+      "translation_zh_CN": "真子充满了斗志。"
+    },
+    {
+      "content": "彼は勝てると自信満々だ。",
+      "furigana": "[彼|かれ]は[勝|か]てると[自信満々|じしんまんまん]だ。",
+      "translation_zh_CN": "他有信心自己能够获胜。"
+    },
+    {
+      "content": "晩飯をおごるよ。",
+      "furigana": "[晩|ばん][飯|めし]をおごるよ。",
+      "translation_zh_CN": "晚饭我请客。"
+    },
+    {
+      "content": "朝ご飯は何がいい？",
+      "furigana": "[朝|あさ]ご[飯|はん]は[何|なに]がいい？",
+      "translation_zh_CN": "你早餐想要吃什麼？"
+    },
+    {
+      "content": "夕飯の時間ですよ。",
+      "furigana": "[夕飯|ゆう|はん]の[時間|じ|かん]ですよ。",
+      "translation_zh_CN": "吃晚飯的時間到了。"
+    },
+    {
+      "content": "そんなの朝飯前よ。",
+      "furigana": "そんなの[朝飯前|あさ|めし|まえ]よ。",
+      "translation_zh_CN": "小菜一碟。"
+    },
+    {
+      "content": "お昼ご飯できたよ。",
+      "furigana": "お[昼|ひる]ご[飯|はん]できたよ。",
+      "translation_zh_CN": "午餐好了。"
+    },
+    {
+      "content": "晩ご飯を一緒にどう？",
+      "furigana": "[晩|ばん]ご[飯|はん]を[一緒|いっ|しょ]にどう？",
+      "translation_zh_CN": "你不來跟我們一起吃晚飯嗎？"
+    },
+    {
+      "content": "もう晩ご飯食べたの？",
+      "furigana": "もう[晩|ばん]ご[飯|はん][食|た]べたの？",
+      "translation_zh_CN": "你吃過晚飯了嗎？"
+    },
+    {
+      "content": "晩ご飯は何にするの？",
+      "furigana": "[晩|ばん]ご[飯|はん]は[何|なに]にするの？",
+      "translation_zh_CN": "我们晚饭吃什么？"
+    },
+    {
+      "content": "夕御飯ができました。",
+      "furigana": "[夕御飯|ゆう|ご|はん]ができました。",
+      "translation_zh_CN": "晚飯好了。"
+    },
+    {
+      "content": "そんなの朝飯前だよ。",
+      "furigana": "そんなの[朝飯前|あさ|めし|まえ]だよ。",
+      "translation_zh_CN": "那是一个派。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "飯落ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯落ち",
+          "reading": "めしおち"
+        }
+      ]
+    },
+    {
+      "slug": "飯店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯店",
+          "reading": "はんてん"
+        }
+      ]
+    },
+    {
+      "slug": "飯事をする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯事をする",
+          "reading": "ままごとをする"
+        }
+      ]
+    },
+    {
+      "slug": "飯蛸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯蛸",
+          "reading": "いいだこ"
+        },
+        {
+          "reading": "イイダコ"
+        }
+      ]
+    },
+    {
+      "slug": "飯盒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯盒",
+          "reading": "はんごう"
+        },
+        {
+          "word": "飯ごう",
+          "reading": "はんごう"
+        }
+      ]
+    },
+    {
+      "slug": "波布",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "波布",
+          "reading": "はぶ"
+        },
+        {
+          "word": "飯匙倩",
+          "reading": "はぶ"
+        },
+        {
+          "reading": "ハブ"
+        }
+      ]
+    },
+    {
+      "slug": "飯盛女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯盛女",
+          "reading": "めしもりおんな"
+        },
+        {
+          "word": "飯盛り女",
+          "reading": "めしもりおんな"
+        }
+      ]
+    },
+    {
+      "slug": "飯島虫喰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯島虫喰",
+          "reading": "いいじまむしくい"
+        },
+        {
+          "reading": "イイジマムシクイ"
+        }
+      ]
+    },
+    {
+      "slug": "飯田産業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯田産業",
+          "reading": "いいださんぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "飯が食えない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯が食えない",
+          "reading": "めしがくえない"
+        }
+      ]
+    },
+    {
+      "slug": "飯の食い上げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯の食い上げ",
+          "reading": "めしのくいあげ"
+        }
+      ]
+    },
+    {
+      "slug": "飯借",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯借",
+          "reading": "ままかり"
+        },
+        {
+          "reading": "ママカリ"
+        }
+      ]
+    },
+    {
+      "slug": "飯櫃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯櫃",
+          "reading": "めしびつ"
+        },
+        {
+          "word": "飯櫃",
+          "reading": "いいびつ"
+        }
+      ]
+    },
+    {
+      "slug": "飯切",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯切",
+          "reading": "はんぎり"
+        },
+        {
+          "word": "半切",
+          "reading": "はんぎり"
+        }
+      ]
+    },
+    {
+      "slug": "飯屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯屋",
+          "reading": "めしや"
+        },
+        {
+          "word": "めし屋",
+          "reading": "めしや"
+        },
+        {
+          "word": "メシ屋",
+          "reading": "メシや"
+        }
+      ]
+    },
+    {
+      "slug": "飯売女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯売女",
+          "reading": "めしうりおんな"
+        }
+      ]
+    },
+    {
+      "slug": "飯匙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飯匙",
+          "reading": "いいがい"
+        }
+      ]
+    }
   ]
 }

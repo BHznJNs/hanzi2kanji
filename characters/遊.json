@@ -83,5 +83,291 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は庭で遊びます。",
+      "furigana": "[私|わたし]は[庭|にわ]で[遊|あそ]びます。",
+      "translation_zh_CN": "我在花园里玩。"
+    },
+    {
+      "content": "さあ、一緒に遊ぼう。",
+      "furigana": "さあ、[一緒|いっ|しょ]に[遊|あそ]ぼう。",
+      "translation_zh_CN": "来一起玩吧！"
+    },
+    {
+      "content": "ゲームして遊ぼうよ。",
+      "furigana": "ゲームして[遊|あそ]ぼうよ。",
+      "translation_zh_CN": "让我们玩一款游戏吧。"
+    },
+    {
+      "content": "明日遊びに来て下さい。",
+      "furigana": "[明日|あした][遊|あそ]びに[来|き]て[下|くだ]さい。",
+      "translation_zh_CN": "明天来看看我。"
+    },
+    {
+      "content": "明日遊びに行くからね。",
+      "furigana": "[明日|あした][遊|あそ]びに[行|い]くからね。",
+      "translation_zh_CN": "我明天會來看你。"
+    },
+    {
+      "content": "妹は人形で遊んでいる。",
+      "furigana": "[妹|いもうと]は[人形|にん|ぎょう]で[遊|あそ]んでいる。",
+      "translation_zh_CN": "我妹妹正在玩洋娃娃。"
+    },
+    {
+      "content": "明日遊びにいらっしゃい。",
+      "furigana": "[明日|あした][遊|あそ]びにいらっしゃい。",
+      "translation_zh_CN": "明天来看看我。"
+    },
+    {
+      "content": "道路で遊んではいけません。",
+      "furigana": "[道路|どう|ろ]で[遊|あそ]んではいけません。",
+      "translation_zh_CN": "別在馬路上玩。"
+    },
+    {
+      "content": "子供達は外に遊びに行った。",
+      "furigana": "[子供|こ|ども][達|たち]は[外|そと]に[遊|あそ]びに[行|い]った。",
+      "translation_zh_CN": "孩子們出去玩了。"
+    },
+    {
+      "content": "今晩リサと遊びに行くんだ。",
+      "furigana": "[今晩|こん|ばん]リサと[遊|あそ]びに[行|い]くんだ。",
+      "translation_zh_CN": "我今晚要和麗莎出去。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "遊び",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "遊び",
+          "reading": "あそび"
+        }
+      ]
+    },
+    {
+      "slug": "遊園地",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "遊園地",
+          "reading": "ゆうえんち"
+        }
+      ]
+    },
+    {
+      "slug": "遊ぶ",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "遊ぶ",
+          "reading": "あそぶ"
+        },
+        {
+          "word": "遊ぶ",
+          "reading": "あすぶ"
+        }
+      ]
+    },
+    {
+      "slug": "遊び場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊び場",
+          "reading": "あそびば"
+        }
+      ]
+    },
+    {
+      "slug": "遊ばす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊ばす",
+          "reading": "あそばす"
+        }
+      ]
+    },
+    {
+      "slug": "遊び相手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊び相手",
+          "reading": "あそびあいて"
+        }
+      ]
+    },
+    {
+      "slug": "遊学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊学",
+          "reading": "ゆうがく"
+        }
+      ]
+    },
+    {
+      "slug": "遊泳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊泳",
+          "reading": "ゆうえい"
+        },
+        {
+          "word": "游泳",
+          "reading": "ゆうえい"
+        }
+      ]
+    },
+    {
+      "slug": "遊覧船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊覧船",
+          "reading": "ゆうらんせん"
+        }
+      ]
+    },
+    {
+      "slug": "遊牧",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "遊牧",
+          "reading": "ゆうぼく"
+        }
+      ]
+    },
+    {
+      "slug": "遊歩道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊歩道",
+          "reading": "ゆうほどう"
+        }
+      ]
+    },
+    {
+      "slug": "荒む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "荒む",
+          "reading": "すさむ"
+        },
+        {
+          "word": "進む",
+          "reading": "すさむ"
+        },
+        {
+          "word": "遊む",
+          "reading": "すさむ"
+        }
+      ]
+    },
+    {
+      "slug": "遊び友達",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊び友達",
+          "reading": "あそびともだち"
+        }
+      ]
+    },
+    {
+      "slug": "遊び半分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊び半分",
+          "reading": "あそびはんぶん"
+        }
+      ]
+    },
+    {
+      "slug": "遊具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊具",
+          "reading": "ゆうぐ"
+        }
+      ]
+    },
+    {
+      "slug": "遊び回る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊びまわる",
+          "reading": "あそびまわる"
+        },
+        {
+          "word": "遊び回る",
+          "reading": "あそびまわる"
+        },
+        {
+          "word": "遊び廻る",
+          "reading": "あそびまわる"
+        }
+      ]
+    },
+    {
+      "slug": "遊弋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊弋",
+          "reading": "ゆうよく"
+        }
+      ]
+    },
+    {
+      "slug": "遊撃手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊撃手",
+          "reading": "ゆうげきしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "遊覧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊覧",
+          "reading": "ゆうらん"
+        }
+      ]
+    },
+    {
+      "slug": "遊歩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遊歩",
+          "reading": "ゆうほ"
+        }
+      ]
+    }
   ]
 }

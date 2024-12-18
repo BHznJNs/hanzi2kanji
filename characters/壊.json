@@ -94,5 +94,297 @@
       "startStroke": 10,
       "strokes": 6
     }
+  ],
+  "sentences": [
+    {
+      "content": "車が壊れていた。",
+      "furigana": "[車|くるま]が[壊|こわ]れていた。",
+      "translation_zh_CN": "汽车发生故障了。"
+    },
+    {
+      "content": "自転車が壊れた。",
+      "furigana": "[自転車|じ|てん|しゃ]が[壊|こわ]れた。",
+      "translation_zh_CN": "我的自行車壞了。"
+    },
+    {
+      "content": "シャワーが壊れた。",
+      "furigana": "シャワーが[壊|こわ]れた。",
+      "translation_zh_CN": "淋浴坏了。"
+    },
+    {
+      "content": "トムが窓を壊した。",
+      "furigana": "トムが[窓|まど]を[壊|こわ]した。",
+      "translation_zh_CN": "湯姆打破了窗戶。"
+    },
+    {
+      "content": "卵の殻は壊れやすい。",
+      "furigana": "[卵|たまご]の[殻|から]は[壊|こわ]れやすい。",
+      "translation_zh_CN": "蛋壳容易破碎。"
+    },
+    {
+      "content": "暖房が壊れています。",
+      "furigana": "[暖房|だん|ぼう]が[壊|こわ]れています。",
+      "translation_zh_CN": "暖气坏了。"
+    },
+    {
+      "content": "あ〜！！パソコンが壊れた！",
+      "furigana": "あ〜！！パソコンが[壊|こわ]れた！",
+      "translation_zh_CN": "啊！我的电脑坏了！"
+    },
+    {
+      "content": "ラジオは壊れている。",
+      "furigana": "ラジオは[壊|こわ]れている。",
+      "translation_zh_CN": "这收音机坏了。"
+    },
+    {
+      "content": "ガラスは壊れやすい。",
+      "furigana": "ガラスは[壊|こわ]れやすい。",
+      "translation_zh_CN": "玻璃易碎。"
+    },
+    {
+      "content": "王は敵軍を壊滅させた。",
+      "furigana": "[王|おう]は[敵|てき][軍|ぐん]を[壊滅|かい|めつ]させた。",
+      "translation_zh_CN": "國王摧毀了他的敵人。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "壊れる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "壊れる",
+          "reading": "こわれる"
+        },
+        {
+          "word": "毀れる",
+          "reading": "こわれる"
+        }
+      ]
+    },
+    {
+      "slug": "壊す",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "壊す",
+          "reading": "こわす"
+        },
+        {
+          "word": "毀す",
+          "reading": "こわす"
+        }
+      ]
+    },
+    {
+      "slug": "壊滅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊滅",
+          "reading": "かいめつ"
+        },
+        {
+          "word": "潰滅",
+          "reading": "かいめつ"
+        }
+      ]
+    },
+    {
+      "slug": "壊れ物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊れ物",
+          "reading": "こわれもの"
+        },
+        {
+          "word": "壊れもの",
+          "reading": "こわれもの"
+        }
+      ]
+    },
+    {
+      "slug": "壊滅的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊滅的",
+          "reading": "かいめつてき"
+        },
+        {
+          "word": "潰滅的",
+          "reading": "かいめつてき"
+        }
+      ]
+    },
+    {
+      "slug": "壊死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊死",
+          "reading": "えし"
+        }
+      ]
+    },
+    {
+      "slug": "壊疽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊疽",
+          "reading": "えそ"
+        }
+      ]
+    },
+    {
+      "slug": "壊血病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊血病",
+          "reading": "かいけつびょう"
+        }
+      ]
+    },
+    {
+      "slug": "壊乱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊乱",
+          "reading": "かいらん"
+        },
+        {
+          "word": "潰乱",
+          "reading": "かいらん"
+        }
+      ]
+    },
+    {
+      "slug": "毀つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "毀つ",
+          "reading": "こぼつ"
+        },
+        {
+          "word": "毀つ",
+          "reading": "こほつ"
+        },
+        {
+          "word": "壊つ",
+          "reading": "こぼつ"
+        },
+        {
+          "word": "壊つ",
+          "reading": "こほつ"
+        }
+      ]
+    },
+    {
+      "slug": "壊劫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊劫",
+          "reading": "えこう"
+        }
+      ]
+    },
+    {
+      "slug": "壊国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊国",
+          "reading": "かいこく"
+        }
+      ]
+    },
+    {
+      "slug": "壊変",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊変",
+          "reading": "かいへん"
+        }
+      ]
+    },
+    {
+      "slug": "壊変毎秒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊変毎秒",
+          "reading": "かいへんまいびょう"
+        }
+      ]
+    },
+    {
+      "slug": "潰走",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潰走",
+          "reading": "かいそう"
+        },
+        {
+          "word": "壊走",
+          "reading": "かいそう"
+        }
+      ]
+    },
+    {
+      "slug": "壊れ易い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊れ易い",
+          "reading": "こわれやすい"
+        }
+      ]
+    },
+    {
+      "slug": "壊崩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊崩",
+          "reading": "かいほう"
+        },
+        {
+          "word": "潰崩",
+          "reading": "かいほう"
+        }
+      ]
+    },
+    {
+      "slug": "壊死性筋膜炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊死性筋膜炎",
+          "reading": "えしせいきんまくえん"
+        }
+      ]
+    },
+    {
+      "slug": "壊変毎分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "壊変毎分",
+          "reading": "かいへんまいふん"
+        }
+      ]
+    }
   ]
 }

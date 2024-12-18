@@ -85,5 +85,291 @@
       "startStroke": 8,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は看護婦です。",
+      "furigana": "[私|わたし]は[看護婦|かん|ご|ふ]です。",
+      "translation_zh_CN": "我是一名护士。"
+    },
+    {
+      "content": "彼女は看護婦です。",
+      "furigana": "[彼女|かの|じょ]は[看護婦|かん|ご|ふ]です。",
+      "translation_zh_CN": "她是一名护士"
+    },
+    {
+      "content": "その少女は看護婦です。",
+      "furigana": "その[少女|しょう|じょ]は[看護婦|かん|ご|ふ]です。",
+      "translation_zh_CN": "这个女孩是一名护士。"
+    },
+    {
+      "content": "彼は家政婦を雇っている。",
+      "furigana": "[彼|かれ]は[家政婦|か|せい|ふ]を[雇|やと]っている。",
+      "translation_zh_CN": "他雇用了一名管家。"
+    },
+    {
+      "content": "お母さんのお母さんは看護婦です。",
+      "furigana": "お[母|かあ]さんのお[母|かあ]さんは[看護婦|かん|ご|ふ]です。",
+      "translation_zh_CN": "我母亲的母亲是一名护士。"
+    },
+    {
+      "content": "私は看護婦になりたい。",
+      "furigana": "[私|わたし]は[看護婦|かん|ご|ふ]になりたい。",
+      "translation_zh_CN": "我想成为一名护士。"
+    },
+    {
+      "content": "彼女は看護婦になった。",
+      "furigana": "[彼女|かの|じょ]は[看護婦|かん|ご|ふ]になった。",
+      "translation_zh_CN": "她成为一名护士。"
+    },
+    {
+      "content": "看護婦は白衣を着ている。",
+      "furigana": "[看護婦|かん|ご|ふ]は[白衣|はく|い]を[着|き]ている。",
+      "translation_zh_CN": "护士穿着白大褂。"
+    },
+    {
+      "content": "ナンシーは有能な看護婦です。",
+      "furigana": "ナンシーは[有能|ゆう|のう]な[看護婦|かん|ご|ふ]です。",
+      "translation_zh_CN": "南希是一位才华横溢的护士。"
+    },
+    {
+      "content": "看護婦さんは白衣を着ている。",
+      "furigana": "[看護婦|かん|ご|ふ]さんは[白衣|はく|い]を[着|き]ている。",
+      "translation_zh_CN": "护士穿着白大褂。"
+    },
+    {
+      "content": "私達は夫婦です。",
+      "furigana": "[私|わたし][達|たち]は[夫婦|ふう|ふ]です。",
+      "translation_zh_CN": "我們是夫婦。"
+    },
+    {
+      "content": "私は看護婦です。",
+      "furigana": "[私|わたし]は[看護|かん|ご][婦|ふ]です。",
+      "translation_zh_CN": "我是护士。"
+    },
+    {
+      "content": "私たちは夫婦だ。",
+      "furigana": "[私|わたし]たちは[夫婦|ふう|ふ]だ。",
+      "translation_zh_CN": "我們是夫婦。"
+    },
+    {
+      "content": "彼女は看護婦です。",
+      "furigana": "[彼女|かの|じょ]は[看護|かん|ご][婦|ふ]です。",
+      "translation_zh_CN": "她是护士。"
+    },
+    {
+      "content": "あの老婦人は誰ですか？",
+      "furigana": "あの[老|ろう][婦人|ふ|じん]は[誰|だれ]ですか？",
+      "translation_zh_CN": "這老婦是誰？"
+    },
+    {
+      "content": "私は看護婦になりたい。",
+      "furigana": "[私|わたし]は[看護|かん|ご][婦|ふ]になりたい。",
+      "translation_zh_CN": "我想当护士"
+    },
+    {
+      "content": "婦長と話したいのですが。",
+      "furigana": "[婦長|ふ|ちょう]と[話|はな]したいのですが。",
+      "translation_zh_CN": "我能跟護士長說話嗎?"
+    },
+    {
+      "content": "ご夫婦でお越しください。",
+      "furigana": "ご[夫婦|ふう|ふ]でお[越|こ]しください。",
+      "translation_zh_CN": "请和夫人一起来吧！"
+    },
+    {
+      "content": "彼は家政婦を雇っている。",
+      "furigana": "[彼|かれ]は[家政|か|せい][婦|ふ]を[雇|やと]っている。",
+      "translation_zh_CN": "他雇佣了位女佣人。"
+    },
+    {
+      "content": "看護婦がやり方を説明します。",
+      "furigana": "[看護|かん|ご][婦|ふ]がやり[方|かた]を[説明|せつ|めい]します。",
+      "translation_zh_CN": "护士会告诉你怎么做。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "婦人",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "婦人",
+          "reading": "ふじん"
+        }
+      ]
+    },
+    {
+      "slug": "婦人科",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人科",
+          "reading": "ふじんか"
+        }
+      ]
+    },
+    {
+      "slug": "婦長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦長",
+          "reading": "ふちょう"
+        }
+      ]
+    },
+    {
+      "slug": "婦人参政権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人参政権",
+          "reading": "ふじんさんせいけん"
+        }
+      ]
+    },
+    {
+      "slug": "婦徳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦徳",
+          "reading": "ふとく"
+        }
+      ]
+    },
+    {
+      "slug": "婦人警官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人警官",
+          "reading": "ふじんけいかん"
+        }
+      ]
+    },
+    {
+      "slug": "婦女暴行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦女暴行",
+          "reading": "ふじょぼうこう"
+        }
+      ]
+    },
+    {
+      "slug": "婦女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦女",
+          "reading": "ふじょ"
+        }
+      ]
+    },
+    {
+      "slug": "婦選",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦選",
+          "reading": "ふせん"
+        }
+      ]
+    },
+    {
+      "slug": "婦警",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦警",
+          "reading": "ふけい"
+        }
+      ]
+    },
+    {
+      "slug": "婦女子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦女子",
+          "reading": "ふじょし"
+        }
+      ]
+    },
+    {
+      "slug": "婦人科学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人科学",
+          "reading": "ふじんかがく"
+        }
+      ]
+    },
+    {
+      "slug": "婦人警察官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人警察官",
+          "reading": "ふじんけいさつかん"
+        }
+      ]
+    },
+    {
+      "slug": "婦人会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人会",
+          "reading": "ふじんかい"
+        }
+      ]
+    },
+    {
+      "slug": "婦人運動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人運動",
+          "reading": "ふじんうんどう"
+        }
+      ]
+    },
+    {
+      "slug": "婦人靴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人靴",
+          "reading": "ふじんぐつ"
+        }
+      ]
+    },
+    {
+      "slug": "婦人選挙権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人選挙権",
+          "reading": "ふじんせんきょけん"
+        }
+      ]
+    },
+    {
+      "slug": "婦人服",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "婦人服",
+          "reading": "ふじんふく"
+        }
+      ]
+    }
   ]
 }

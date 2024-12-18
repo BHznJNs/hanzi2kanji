@@ -71,5 +71,381 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "黒だったよ。",
+      "furigana": "[黒|くろ]だったよ。",
+      "translation_zh_CN": "它是黑色的。"
+    },
+    {
+      "content": "黒が似合うね。",
+      "furigana": "[黒|くろ]が[似合|に|あ]うね。",
+      "translation_zh_CN": "黑色很适合你。"
+    },
+    {
+      "content": "黒が似合ってるよ。",
+      "furigana": "[黒|くろ]が[似合|に|あ]ってるよ。",
+      "translation_zh_CN": "黑色很适合你。"
+    },
+    {
+      "content": "白先黒死。",
+      "furigana": "[白先黒死|しろ|さき|くろ|し]。",
+      "translation_zh_CN": "白人优先，黑人死亡。"
+    },
+    {
+      "content": "黒の靴がほしい。",
+      "furigana": "[黒|くろ]の[靴|くつ]がほしい。",
+      "translation_zh_CN": "我想要黑鞋。"
+    },
+    {
+      "content": "髪は黒！！ピアス禁止！！",
+      "furigana": "[髪|かみ]は[黒|くろ]！！ピアス[禁止|きん|し]！！",
+      "translation_zh_CN": "她的头发是黑色的！ ！不允许穿孔！ ！"
+    },
+    {
+      "content": "トムは黒ネコを飼っている。",
+      "furigana": "トムは[黒|くろ]ネコを[飼|か]っている。",
+      "translation_zh_CN": "汤姆有一只黑猫。"
+    },
+    {
+      "content": "黒がよくお似合いですね。",
+      "furigana": "[黒|くろ]がよくお[似合|に|あ]いですね。",
+      "translation_zh_CN": "黑色很适合你。"
+    },
+    {
+      "content": "黒の靴が必要だ。",
+      "furigana": "[黒|くろ]の[靴|くつ]が[必要|ひつ|よう]だ。",
+      "translation_zh_CN": "我需要黑鞋。"
+    },
+    {
+      "content": "黒は光を吸収します。",
+      "furigana": "[黒|くろ]は[光|ひかり]を[吸収|きゅう|しゅう]します。",
+      "translation_zh_CN": "黑色吸收光。"
+    },
+    {
+      "content": "どの犬が黒いのか？",
+      "furigana": "どの[犬|いぬ]が[黒|くろ]いのか？",
+      "translation_zh_CN": "哪只狗是黑色的？"
+    },
+    {
+      "content": "黒くないのですか。",
+      "furigana": "[黒|くろ]くないのですか。",
+      "translation_zh_CN": "它不是黑色的嗎？"
+    },
+    {
+      "content": "黒い服の女をみた。",
+      "furigana": "[黒|くろ]い[服|ふく]の[女|おんな]をみた。",
+      "translation_zh_CN": "我看见一个穿黑衣服的女人。"
+    },
+    {
+      "content": "黒いのが私のです。",
+      "furigana": "[黒|くろ]いのが[私|わたし]のです。",
+      "translation_zh_CN": "黑色的那个是我的。"
+    },
+    {
+      "content": "みんな、黒板に注目！",
+      "furigana": "みんな、[黒板|こく|ばん]に[注目|ちゅう|もく]！",
+      "translation_zh_CN": "請大家看看黑板。"
+    },
+    {
+      "content": "黒い猫は好きですか。",
+      "furigana": "[黒|くろ]い[猫|ねこ]は[好|す]きですか。",
+      "translation_zh_CN": "你喜歡黑色的貓嗎？"
+    },
+    {
+      "content": "その写真は白黒です。",
+      "furigana": "その[写真|しゃ|しん]は[白黒|しろ|くろ]です。",
+      "translation_zh_CN": "那幅画是黑白的。"
+    },
+    {
+      "content": "石炭は必ずしも黒くない。",
+      "furigana": "[石炭|せき|たん]は[必|かなら]ずしも[黒|くろ]くない。",
+      "translation_zh_CN": "煤并不一定都是黑的。"
+    },
+    {
+      "content": "それは黒くありませんか。",
+      "furigana": "それは[黒|くろ]くありませんか。",
+      "translation_zh_CN": "它不是黑色的嗎？"
+    },
+    {
+      "content": "黒い服の女性を見ました。",
+      "furigana": "[黒|くろ]い[服|ふく]の[女性|じょ|せい]を[見|み]ました。",
+      "translation_zh_CN": "我看见一个穿黑衣服的女人。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "黒板",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "黒板",
+          "reading": "こくばん"
+        }
+      ]
+    },
+    {
+      "slug": "黒い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "黒い",
+          "reading": "くろい"
+        }
+      ]
+    },
+    {
+      "slug": "黒字",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "黒字",
+          "reading": "くろじ"
+        }
+      ]
+    },
+    {
+      "slug": "玄人",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "玄人",
+          "reading": "くろうと"
+        },
+        {
+          "word": "玄人",
+          "reading": "くろと"
+        },
+        {
+          "word": "黒人",
+          "reading": "くろうと"
+        },
+        {
+          "word": "黒人",
+          "reading": "くろと"
+        }
+      ]
+    },
+    {
+      "slug": "黒幕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒幕",
+          "reading": "くろまく"
+        }
+      ]
+    },
+    {
+      "slug": "黒猫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒猫",
+          "reading": "くろねこ"
+        },
+        {
+          "word": "黒ネコ",
+          "reading": "くろねこ"
+        },
+        {
+          "reading": "クロネコ"
+        }
+      ]
+    },
+    {
+      "slug": "黒人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒人",
+          "reading": "こくじん"
+        }
+      ]
+    },
+    {
+      "slug": "黒っぽい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒っぽい",
+          "reading": "くろっぽい"
+        }
+      ]
+    },
+    {
+      "slug": "黒色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒色",
+          "reading": "くろいろ"
+        },
+        {
+          "word": "黒色",
+          "reading": "こくしょく"
+        }
+      ]
+    },
+    {
+      "slug": "黒点",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒点",
+          "reading": "こくてん"
+        }
+      ]
+    },
+    {
+      "slug": "黒ずむ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒ずむ",
+          "reading": "くろずむ"
+        }
+      ]
+    },
+    {
+      "slug": "黒塗り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒塗り",
+          "reading": "くろぬり"
+        },
+        {
+          "word": "黒塗",
+          "reading": "くろぬり"
+        }
+      ]
+    },
+    {
+      "slug": "黒光り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒光り",
+          "reading": "くろびかり"
+        },
+        {
+          "word": "黒びかり",
+          "reading": "くろびかり"
+        }
+      ]
+    },
+    {
+      "slug": "黒白",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒白",
+          "reading": "くろしろ"
+        },
+        {
+          "word": "黒白",
+          "reading": "こくはく"
+        },
+        {
+          "word": "黒白",
+          "reading": "こくびゃく"
+        }
+      ]
+    },
+    {
+      "slug": "黒雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒雲",
+          "reading": "くろくも"
+        },
+        {
+          "word": "黒くも",
+          "reading": "くろくも"
+        },
+        {
+          "word": "黒雲",
+          "reading": "くろぐも"
+        },
+        {
+          "word": "黒雲",
+          "reading": "こくうん"
+        }
+      ]
+    },
+    {
+      "slug": "黒ずくめ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒ずくめ",
+          "reading": "くろずくめ"
+        },
+        {
+          "word": "黒尽くめ",
+          "reading": "くろずくめ"
+        },
+        {
+          "word": "黒づくめ",
+          "reading": "くろづくめ"
+        },
+        {
+          "word": "黒尽くめ",
+          "reading": "くろづくめ"
+        }
+      ]
+    },
+    {
+      "slug": "黒鯛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒鯛",
+          "reading": "くろだい"
+        },
+        {
+          "word": "黒だい",
+          "reading": "くろだい"
+        },
+        {
+          "reading": "クロダイ"
+        }
+      ]
+    },
+    {
+      "slug": "黒焦げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒焦げ",
+          "reading": "くろこげ"
+        },
+        {
+          "word": "黒こげ",
+          "reading": "くろこげ"
+        }
+      ]
+    },
+    {
+      "slug": "黒服",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒服",
+          "reading": "くろふく"
+        }
+      ]
+    }
   ]
 }

@@ -102,5 +102,379 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "陽があかあかと沈む。",
+      "furigana": "[陽|ひ]があかあかと[沈|しず]む。",
+      "translation_zh_CN": "太阳灿烂地落下。"
+    },
+    {
+      "content": "雲が晴れて陽が差し始めた。",
+      "furigana": "[雲|くも]が[晴|は]れて[陽|ひ]が[差|さ]し[始|はじ]めた。",
+      "translation_zh_CN": "云层散去，阳光开始照耀。"
+    },
+    {
+      "content": "陽は出ていたけれど、寒かった。",
+      "furigana": "[陽|ひ]は[出|で]ていたけれど、[寒|さむ]かった。",
+      "translation_zh_CN": "太阳出来了，但天气很冷。"
+    },
+    {
+      "content": "陽は知らぬ間に地平線下に沈んだ。",
+      "furigana": "[陽|ひ]は[知|し]らぬ[間|ま]に[地平線下|ち|へい|せん|か]に[沈|しず]んだ。",
+      "translation_zh_CN": "在我意识到之前，太阳已经沉入地平线以下了。"
+    },
+    {
+      "content": "陽が昇らないうちに出発しよう。",
+      "furigana": "[陽|ひ]が[昇|のぼ]らないうちに[出発|しゅっ|ぱつ]しよう。",
+      "translation_zh_CN": "我们在太阳升起之前出发吧。"
+    },
+    {
+      "content": "ここは陽の当たらない世界です。",
+      "furigana": "ここは[陽|ひ]の[当|あ]たらない[世界|せ|かい]です。",
+      "translation_zh_CN": "这是一个没有阳光的世界。"
+    },
+    {
+      "content": "ここは陽だまりだと思うね。",
+      "furigana": "ここは[陽|ひ]だまりだと[思|おも]うね。",
+      "translation_zh_CN": "我觉得这里阳光明媚。"
+    },
+    {
+      "content": "瞳孔は陽が差すところでは収縮します。",
+      "furigana": "[瞳孔|どう|こう]は[陽|ひ]が[差|さ]すところでは[収縮|しゅう|しゅく]します。",
+      "translation_zh_CN": "当暴露在阳光下时，瞳孔会收缩。"
+    },
+    {
+      "content": "パラソルは顔に陽が当たらないように夏に用いる。",
+      "furigana": "パラソルは[顔|かお]に[陽|ひ]が[当|あ]たらないように[夏|なつ]に[用|もち]いる。",
+      "translation_zh_CN": "夏天使用遮阳伞来防止阳光直射脸部。"
+    },
+    {
+      "content": "陽菜は先生を不当に非難して、先生が病気になった。",
+      "furigana": "[陽菜|ひ|さい]は[先生|せん|せい]を[不当|ふ|とう]に[非難|ひ|なん]して、[先生|せん|せい]が[病気|びょう|き]になった。",
+      "translation_zh_CN": "希娜冤枉了老师，老师因此生病了。"
+    },
+    {
+      "content": "太陽が出てきた。",
+      "furigana": "[太陽|たい|よう]が[出|で]てきた。",
+      "translation_zh_CN": "太阳露出来了。"
+    },
+    {
+      "content": "太陽が昇ってきた。",
+      "furigana": "[太陽|たい|よう]が[昇|のぼ]ってきた。",
+      "translation_zh_CN": "太阳升起来了。"
+    },
+    {
+      "content": "太陽が沈んでいく。",
+      "furigana": "[太陽|たい|よう]が[沈|しず]んでいく。",
+      "translation_zh_CN": "太阳下山了。"
+    },
+    {
+      "content": "きみは僕の太陽だ。",
+      "furigana": "きみは[僕|ぼく]の[太陽|たい|よう]だ。",
+      "translation_zh_CN": "你是我的阳光。"
+    },
+    {
+      "content": "太陽が大好きです。",
+      "furigana": "[太陽|たい|よう]が[大好|だい|す]きです。",
+      "translation_zh_CN": "我很喜歡太陽。"
+    },
+    {
+      "content": "太陽が顔を出した。",
+      "furigana": "[太陽|たい|よう]が[顔|かお]を[出|だ]した。",
+      "translation_zh_CN": "太阳露出来了。"
+    },
+    {
+      "content": "太陽は西に沈みます。",
+      "furigana": "[太陽|たい|よう]は[西|にし]に[沈|しず]みます。",
+      "translation_zh_CN": "太阳在西边落下"
+    },
+    {
+      "content": "海から太陽が昇った。",
+      "furigana": "[海|うみ]から[太陽|たい|よう]が[昇|のぼ]った。",
+      "translation_zh_CN": "太陽從海上升起了。"
+    },
+    {
+      "content": "太陽は冬には早く沈む。",
+      "furigana": "[太陽|たい|よう]は[冬|ふゆ]には[早|はや]く[沈|しず]む。",
+      "translation_zh_CN": "在冬天，太阳下山比往常更早。"
+    },
+    {
+      "content": "太陽が沈もうとしている。",
+      "furigana": "[太陽|たい|よう]が[沈|しず]もうとしている。",
+      "translation_zh_CN": "太陽都要下山了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "日焼け",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "日焼け",
+          "reading": "ひやけ"
+        },
+        {
+          "word": "日やけ",
+          "reading": "ひやけ"
+        },
+        {
+          "word": "日焼",
+          "reading": "ひやけ"
+        },
+        {
+          "word": "陽焼け",
+          "reading": "ひやけ"
+        }
+      ]
+    },
+    {
+      "slug": "陽気",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "陽気",
+          "reading": "ようき"
+        }
+      ]
+    },
+    {
+      "slug": "日差し",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "日差し",
+          "reading": "ひざし"
+        },
+        {
+          "word": "陽射し",
+          "reading": "ひざし"
+        },
+        {
+          "word": "日射し",
+          "reading": "ひざし"
+        },
+        {
+          "word": "陽差し",
+          "reading": "ひざし"
+        },
+        {
+          "word": "日ざし",
+          "reading": "ひざし"
+        },
+        {
+          "word": "陽ざし",
+          "reading": "ひざし"
+        },
+        {
+          "word": "日差",
+          "reading": "ひざし"
+        },
+        {
+          "word": "陽射",
+          "reading": "ひざし"
+        }
+      ]
+    },
+    {
+      "slug": "日当たり",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "日当たり",
+          "reading": "ひあたり"
+        },
+        {
+          "word": "日当り",
+          "reading": "ひあたり"
+        },
+        {
+          "word": "陽当り",
+          "reading": "ひあたり"
+        },
+        {
+          "word": "陽当たり",
+          "reading": "ひあたり"
+        }
+      ]
+    },
+    {
+      "slug": "陽光",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽光",
+          "reading": "ようこう"
+        }
+      ]
+    },
+    {
+      "slug": "陽性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽性",
+          "reading": "ようせい"
+        }
+      ]
+    },
+    {
+      "slug": "陽報",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽報",
+          "reading": "ようほう"
+        }
+      ]
+    },
+    {
+      "slug": "陽子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽子",
+          "reading": "ようし"
+        }
+      ]
+    },
+    {
+      "slug": "陽電子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽電子",
+          "reading": "ようでんし"
+        }
+      ]
+    },
+    {
+      "slug": "陽炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽炎",
+          "reading": "かげろう"
+        },
+        {
+          "word": "陽炎",
+          "reading": "ようえん"
+        }
+      ]
+    },
+    {
+      "slug": "日が差す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日が差す",
+          "reading": "ひがさす"
+        },
+        {
+          "word": "日が射す",
+          "reading": "ひがさす"
+        },
+        {
+          "word": "陽が差す",
+          "reading": "ひがさす"
+        },
+        {
+          "word": "陽が射す",
+          "reading": "ひがさす"
+        }
+      ]
+    },
+    {
+      "slug": "陽動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽動",
+          "reading": "ようどう"
+        }
+      ]
+    },
+    {
+      "slug": "陽明学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽明学",
+          "reading": "ようめいがく"
+        }
+      ]
+    },
+    {
+      "slug": "陽否陰述",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽否陰述",
+          "reading": "ようひいんじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "日の目を見る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "日の目を見る",
+          "reading": "ひのめをみる"
+        },
+        {
+          "word": "陽の目を見る",
+          "reading": "ひのめをみる"
+        }
+      ]
+    },
+    {
+      "slug": "陽の皮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽の皮",
+          "reading": "ようのかわ"
+        }
+      ]
+    },
+    {
+      "slug": "日溜り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "陽だまり",
+          "reading": "ひだまり"
+        },
+        {
+          "word": "日だまり",
+          "reading": "ひだまり"
+        },
+        {
+          "word": "日溜まり",
+          "reading": "ひだまり"
+        },
+        {
+          "word": "日溜り",
+          "reading": "ひだまり"
+        },
+        {
+          "word": "陽溜まり",
+          "reading": "ひだまり"
+        },
+        {
+          "word": "陽溜り",
+          "reading": "ひだまり"
+        }
+      ]
+    }
   ]
 }

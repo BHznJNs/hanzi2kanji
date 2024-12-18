@@ -77,5 +77,78 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "偵察",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偵察",
+          "reading": "ていさつ"
+        }
+      ]
+    },
+    {
+      "slug": "偵察衛星",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偵察衛星",
+          "reading": "ていさつえいせい"
+        }
+      ]
+    },
+    {
+      "slug": "偵察機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偵察機",
+          "reading": "ていさつき"
+        }
+      ]
+    },
+    {
+      "slug": "偵察飛行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偵察飛行",
+          "reading": "ていさつひこう"
+        }
+      ]
+    },
+    {
+      "slug": "偵知",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偵知",
+          "reading": "ていち"
+        }
+      ]
+    },
+    {
+      "slug": "偵察要員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偵察要員",
+          "reading": "ていさつよういん"
+        }
+      ]
+    },
+    {
+      "slug": "偵察隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "偵察隊",
+          "reading": "ていさつたい"
+        }
+      ]
+    }
   ]
 }

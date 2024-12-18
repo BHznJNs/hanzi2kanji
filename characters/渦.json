@@ -75,5 +75,254 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "渦巻き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦巻き",
+          "reading": "うずまき"
+        },
+        {
+          "word": "渦巻",
+          "reading": "うずまき"
+        }
+      ]
+    },
+    {
+      "slug": "渦巻く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦巻く",
+          "reading": "うずまく"
+        }
+      ]
+    },
+    {
+      "slug": "渦中",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦中",
+          "reading": "かちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "渦巻銀河",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦巻銀河",
+          "reading": "うずまきぎんが"
+        },
+        {
+          "word": "渦巻き銀河",
+          "reading": "うずまきぎんが"
+        }
+      ]
+    },
+    {
+      "slug": "渦鞭毛藻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦鞭毛藻",
+          "reading": "うずべんもうそう"
+        }
+      ]
+    },
+    {
+      "slug": "うず形式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うず形式",
+          "reading": "うずけいしき"
+        },
+        {
+          "word": "渦形式",
+          "reading": "うずけいしき"
+        }
+      ]
+    },
+    {
+      "slug": "渦流",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦流",
+          "reading": "かりゅう"
+        },
+        {
+          "word": "か流",
+          "reading": "かりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "渦巻き模様",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦巻き模様",
+          "reading": "うずまきもよう"
+        },
+        {
+          "word": "うずまき模様",
+          "reading": "うずまきもよう"
+        },
+        {
+          "word": "渦巻模様",
+          "reading": "うずまきもよう"
+        }
+      ]
+    },
+    {
+      "slug": "渦状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦状",
+          "reading": "かじょう"
+        }
+      ]
+    },
+    {
+      "slug": "渦巻き状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦巻き状",
+          "reading": "うずまきじょう"
+        },
+        {
+          "word": "渦巻状",
+          "reading": "うずまきじょう"
+        }
+      ]
+    },
+    {
+      "slug": "うずまき管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うずまき管",
+          "reading": "うずまきかん"
+        },
+        {
+          "word": "渦巻き管",
+          "reading": "うずまきかん"
+        },
+        {
+          "word": "渦巻管",
+          "reading": "うずまきかん"
+        }
+      ]
+    },
+    {
+      "slug": "渦動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦動",
+          "reading": "かどう"
+        }
+      ]
+    },
+    {
+      "slug": "か流形素子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "か流形素子",
+          "reading": "かりゅうけいそし"
+        },
+        {
+          "word": "渦流形素子",
+          "reading": "かりゅうけいそし"
+        }
+      ]
+    },
+    {
+      "slug": "渦潮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦潮",
+          "reading": "うずしお"
+        }
+      ]
+    },
+    {
+      "slug": "うずまき線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦巻き線",
+          "reading": "うずまきせん"
+        },
+        {
+          "word": "渦巻線",
+          "reading": "うずまきせん"
+        },
+        {
+          "word": "うずまき線",
+          "reading": "うずまきせん"
+        }
+      ]
+    },
+    {
+      "slug": "渦糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦糸",
+          "reading": "うずいと"
+        }
+      ]
+    },
+    {
+      "slug": "渦状銀河",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦状銀河",
+          "reading": "かじょうぎんが"
+        },
+        {
+          "word": "渦状銀河",
+          "reading": "うずじょうぎんが"
+        }
+      ]
+    },
+    {
+      "slug": "渦状文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦状文",
+          "reading": "かじょうもん"
+        }
+      ]
+    },
+    {
+      "slug": "渦巻き形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "渦巻き形",
+          "reading": "うずまきがた"
+        },
+        {
+          "word": "渦巻形",
+          "reading": "うずまきがた"
+        }
+      ]
+    }
   ]
 }

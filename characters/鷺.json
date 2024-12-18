@@ -84,5 +84,57 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鷺笛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷺笛",
+          "reading": "さぎふえ"
+        },
+        {
+          "reading": "サギフエ"
+        }
+      ]
+    },
+    {
+      "slug": "鷺苔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷺苔",
+          "reading": "さぎごけ"
+        },
+        {
+          "reading": "サギゴケ"
+        }
+      ]
+    },
+    {
+      "slug": "鷺草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷺草",
+          "reading": "さぎそう"
+        },
+        {
+          "reading": "サギソウ"
+        }
+      ]
+    },
+    {
+      "slug": "鷺相撲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鷺相撲",
+          "reading": "さぎずもう"
+        }
+      ]
+    }
   ]
 }

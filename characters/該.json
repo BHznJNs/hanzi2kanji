@@ -80,5 +80,108 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "該当",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "該当",
+          "reading": "がいとう"
+        },
+        {
+          "word": "該当",
+          "reading": "かくとう"
+        }
+      ]
+    },
+    {
+      "slug": "該案",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "該案",
+          "reading": "がいあん"
+        }
+      ]
+    },
+    {
+      "slug": "該博",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "該博",
+          "reading": "がいはく"
+        }
+      ]
+    },
+    {
+      "slug": "該氏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "該氏",
+          "reading": "がいし"
+        }
+      ]
+    },
+    {
+      "slug": "該当者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "該当者",
+          "reading": "がいとうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "該問題",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "該問題",
+          "reading": "がいもんだい"
+        }
+      ]
+    },
+    {
+      "slug": "該博な知識",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "該博な知識",
+          "reading": "がいはくなちしき"
+        }
+      ]
+    },
+    {
+      "slug": "該当事項",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "該当事項",
+          "reading": "がいとうじこう"
+        }
+      ]
+    },
+    {
+      "slug": "該当なし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "該当なし",
+          "reading": "がいとうなし"
+        },
+        {
+          "word": "該当無し",
+          "reading": "がいとうなし"
+        }
+      ]
+    }
   ]
 }

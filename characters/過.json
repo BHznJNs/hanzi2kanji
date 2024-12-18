@@ -88,5 +88,307 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "時の過ぎゆくままに。",
+      "furigana": "[時|どき]の[過|す]ぎゆくままに。",
+      "translation_zh_CN": "随着时间的流逝。"
+    },
+    {
+      "content": "かつてのアイドルも４０過ぎるとただのおばさんか。",
+      "furigana": "かつてのアイドルも４０[過|す]ぎるとただのおばさんか。",
+      "translation_zh_CN": "偶像过了40岁，就成了老太太了。"
+    },
+    {
+      "content": "過保護でその子供はだめになった。",
+      "furigana": "[過保護|か|ほ|ご]でその[子供|こ|ども]はだめになった。",
+      "translation_zh_CN": "孩子被过度保护毁了。"
+    },
+    {
+      "content": "ユダヤ人の過越の祭りが近づき、イエスはエルサレムに上がられた。",
+      "furigana": "ユダヤ[人|じん]の[過越|か|えつ]の[祭|まつ]りが[近|ちか]づき、イエスはエルサレムに[上|あ]がられた。",
+      "translation_zh_CN": "犹太逾越节临近时，耶稣上耶路撒冷去。"
+    },
+    {
+      "content": "言い過ぎですよ。",
+      "furigana": "[言|い]い[過|す]ぎですよ。",
+      "translation_zh_CN": "你太过分了。"
+    },
+    {
+      "content": "もう１０時過ぎだ。",
+      "furigana": "もう[１０|じゅう][時|じ][過|す]ぎだ。",
+      "translation_zh_CN": "已經過了十點鐘了。"
+    },
+    {
+      "content": "彼は自信過剰だ。",
+      "furigana": "[彼|かれ]は[自信|じ|しん][過剰|か|じょう]だ。",
+      "translation_zh_CN": "他这么自高自大！"
+    },
+    {
+      "content": "それは高過ぎる。",
+      "furigana": "それは[高|たか][過|す]ぎる。",
+      "translation_zh_CN": "太贵了！"
+    },
+    {
+      "content": "寝過ごしちゃった。",
+      "furigana": "[寝過|ね|す]ごしちゃった。",
+      "translation_zh_CN": "我睡过头了。"
+    },
+    {
+      "content": "もう５時過ぎです。",
+      "furigana": "もう[５|ご][時|じ][過|す]ぎです。",
+      "translation_zh_CN": "已經過了五點鐘。"
+    },
+    {
+      "content": "彼は４０過ぎですよ。",
+      "furigana": "[彼|かれ]は[４|よん][０|じゅう][過|す]ぎですよ。",
+      "translation_zh_CN": "他已经超过四十岁了。"
+    },
+    {
+      "content": "あなたは考え過ぎだ！",
+      "furigana": "あなたは[考|かんが]え[過|す]ぎだ！",
+      "translation_zh_CN": "你想太多了。"
+    },
+    {
+      "content": "あまり食べ過ぎるな。",
+      "furigana": "あまり[食|た]べ[過|す]ぎるな。",
+      "translation_zh_CN": "别吃太多。"
+    },
+    {
+      "content": "楽しく過ごせましたか？",
+      "furigana": "[楽|たの]しく[過|す]ごせましたか？",
+      "translation_zh_CN": "你度过愉快的时光了吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "過去",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "過去",
+          "reading": "かこ"
+        }
+      ]
+    },
+    {
+      "slug": "過失",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "過失",
+          "reading": "かしつ"
+        }
+      ]
+    },
+    {
+      "slug": "過ぎる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "過ぎる",
+          "reading": "すぎる"
+        }
+      ]
+    },
+    {
+      "slug": "過ごす",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "過ごす",
+          "reading": "すごす"
+        },
+        {
+          "word": "過す",
+          "reading": "すごす"
+        }
+      ]
+    },
+    {
+      "slug": "過程",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "過程",
+          "reading": "かてい"
+        }
+      ]
+    },
+    {
+      "slug": "過半数",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "過半数",
+          "reading": "かはんすう"
+        }
+      ]
+    },
+    {
+      "slug": "過剰",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "過剰",
+          "reading": "かじょう"
+        }
+      ]
+    },
+    {
+      "slug": "過ぎ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "過ぎ",
+          "reading": "すぎ"
+        }
+      ]
+    },
+    {
+      "slug": "過ち",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "過ち",
+          "reading": "あやまち"
+        },
+        {
+          "word": "誤ち",
+          "reading": "あやまち"
+        }
+      ]
+    },
+    {
+      "slug": "過労",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "過労",
+          "reading": "かろう"
+        }
+      ]
+    },
+    {
+      "slug": "過密",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "過密",
+          "reading": "かみつ"
+        }
+      ]
+    },
+    {
+      "slug": "過度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過度",
+          "reading": "かど"
+        }
+      ]
+    },
+    {
+      "slug": "過激",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過激",
+          "reading": "かげき"
+        }
+      ]
+    },
+    {
+      "slug": "過酷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過酷",
+          "reading": "かこく"
+        },
+        {
+          "word": "苛酷",
+          "reading": "かこく"
+        }
+      ]
+    },
+    {
+      "slug": "過熱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過熱",
+          "reading": "かねつ"
+        }
+      ]
+    },
+    {
+      "slug": "過大",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過大",
+          "reading": "かだい"
+        }
+      ]
+    },
+    {
+      "slug": "過敏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過敏",
+          "reading": "かびん"
+        }
+      ]
+    },
+    {
+      "slug": "過渡期",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "過渡期",
+          "reading": "かとき"
+        }
+      ]
+    },
+    {
+      "slug": "誤って",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "誤って",
+          "reading": "あやまって"
+        },
+        {
+          "word": "過って",
+          "reading": "あやまって"
+        }
+      ]
+    }
   ]
 }

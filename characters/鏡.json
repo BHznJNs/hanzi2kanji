@@ -115,5 +115,312 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "鏡が割れちゃった。",
+      "furigana": "[鏡|かがみ]が[割|わ]れちゃった。",
+      "translation_zh_CN": "镜子碎了。"
+    },
+    {
+      "content": "鏡が壊れた。",
+      "furigana": "[鏡|かがみ]が[壊|こわ]れた。",
+      "translation_zh_CN": "镜子碎了。"
+    },
+    {
+      "content": "鏡が割れてしまった。",
+      "furigana": "[鏡|かがみ]が[割|わ]れてしまった。",
+      "translation_zh_CN": "镜子碎了。"
+    },
+    {
+      "content": "鏡を割らないでください。",
+      "furigana": "[鏡|かがみ]を[割|わ]らないでください。",
+      "translation_zh_CN": "请不要打破镜子。"
+    },
+    {
+      "content": "鏡はどこですか。",
+      "furigana": "[鏡|かがみ]はどこですか。",
+      "translation_zh_CN": "镜子在哪里？"
+    },
+    {
+      "content": "ちっさい鏡が買いたいの。",
+      "furigana": "ちっさい[鏡|かがみ]が[買|か]いたいの。",
+      "translation_zh_CN": "我想买一面小镜子。"
+    },
+    {
+      "content": "鏡は光を反射する。",
+      "furigana": "[鏡|かがみ]は[光|ひかり]を[反射|はん|しゃ]する。",
+      "translation_zh_CN": "镜子反射光。"
+    },
+    {
+      "content": "少女は立って鏡をのぞきこんだ。",
+      "furigana": "[少女|しょう|じょ]は[立|た]って[鏡|かがみ]をのぞきこんだ。",
+      "translation_zh_CN": "女孩站起来，看着镜子。"
+    },
+    {
+      "content": "鏡には似ていないのですか？",
+      "furigana": "[鏡|かがみ]には[似|に]ていないのですか？",
+      "translation_zh_CN": "是不是很像镜子呢？"
+    },
+    {
+      "content": "彼女は鏡の前に立った。",
+      "furigana": "[彼女|かの|じょ]は[鏡|かがみ]の[前|まえ]に[立|た]った。",
+      "translation_zh_CN": "她站在镜子前。"
+    },
+    {
+      "content": "彼は眼鏡を外した。",
+      "furigana": "[彼|かれ]は[眼鏡|め|がね]を[外|はず]した。",
+      "translation_zh_CN": "他摘下了眼鏡。"
+    },
+    {
+      "content": "この眼鏡はイケてる。",
+      "furigana": "この[眼鏡|め|がね]はイケてる。",
+      "translation_zh_CN": "這眼鏡真酷。"
+    },
+    {
+      "content": "彼女は鏡の前に立った。",
+      "furigana": "[彼女|かの|じょ]は[鏡|かがみ]の[前|まえ]に[立|た]った。",
+      "translation_zh_CN": "她站在镜子前。"
+    },
+    {
+      "content": "彼は眼鏡をかけている。",
+      "furigana": "[彼|かれ]は[眼鏡|め|がね]をかけている。",
+      "translation_zh_CN": "他戴眼镜。"
+    },
+    {
+      "content": "彼は眼鏡をかけていた。",
+      "furigana": "[彼|かれ]は[眼鏡|め|がね]をかけていた。",
+      "translation_zh_CN": "他戴眼镜。"
+    },
+    {
+      "content": "その眼鏡はいくらだったの？",
+      "furigana": "その[眼鏡|め|がね]はいくらだったの？",
+      "translation_zh_CN": "這副眼鏡多少錢？"
+    },
+    {
+      "content": "これが探している眼鏡かい？",
+      "furigana": "これが[探|さが]している[眼鏡|め|がね]かい？",
+      "translation_zh_CN": "这是你在找的眼镜吗？"
+    },
+    {
+      "content": "トムは眼鏡をかけている。",
+      "furigana": "トムは[眼鏡|め|がね]をかけている。",
+      "translation_zh_CN": "汤姆戴眼镜。"
+    },
+    {
+      "content": "彼女は鏡で自分の姿を見た。",
+      "furigana": "[彼女|かの|じょ]は[鏡|かがみ]で[自分|じ|ぶん]の[姿|すがた]を[見|み]た。",
+      "translation_zh_CN": "她看到鏡子裡的自己。"
+    },
+    {
+      "content": "ちょっと鏡をみてごらんよ。",
+      "furigana": "ちょっと[鏡|かがみ]をみてごらんよ。",
+      "translation_zh_CN": "照镜子。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鏡面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡面",
+          "reading": "きょうめん"
+        }
+      ]
+    },
+    {
+      "slug": "鏡台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡台",
+          "reading": "きょうだい"
+        }
+      ]
+    },
+    {
+      "slug": "鏡映",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡映",
+          "reading": "きょうえい"
+        }
+      ]
+    },
+    {
+      "slug": "鏡餅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡餅",
+          "reading": "かがみもち"
+        },
+        {
+          "word": "鏡もち",
+          "reading": "かがみもち"
+        },
+        {
+          "word": "鏡餠",
+          "reading": "かがみもち"
+        }
+      ]
+    },
+    {
+      "slug": "鏡文字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡文字",
+          "reading": "かがみもじ"
+        }
+      ]
+    },
+    {
+      "slug": "鏡像",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡像",
+          "reading": "きょうぞう"
+        }
+      ]
+    },
+    {
+      "slug": "鏡面反射",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡面反射",
+          "reading": "きょうめんはんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "鏡開き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡開き",
+          "reading": "かがみびらき"
+        }
+      ]
+    },
+    {
+      "slug": "鏡獅子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡獅子",
+          "reading": "かがみじし"
+        }
+      ]
+    },
+    {
+      "slug": "鏡板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡板",
+          "reading": "かがみいた"
+        }
+      ]
+    },
+    {
+      "slug": "鏡割り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡割り",
+          "reading": "かがみわり"
+        },
+        {
+          "word": "鏡割",
+          "reading": "かがみわり"
+        }
+      ]
+    },
+    {
+      "slug": "鏡匣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡匣",
+          "reading": "きょうこう"
+        }
+      ]
+    },
+    {
+      "slug": "鏡映文字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡映文字",
+          "reading": "きょうえいもじ"
+        }
+      ]
+    },
+    {
+      "slug": "鏡磨ぎ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡磨ぎ",
+          "reading": "かがみとぎ"
+        }
+      ]
+    },
+    {
+      "slug": "鏡立て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡立て",
+          "reading": "かがみたて"
+        },
+        {
+          "word": "鏡たて",
+          "reading": "かがみたて"
+        }
+      ]
+    },
+    {
+      "slug": "鏡の間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡の間",
+          "reading": "かがみのま"
+        },
+        {
+          "word": "鏡ノ間",
+          "reading": "かがみのま"
+        }
+      ]
+    },
+    {
+      "slug": "鏡筒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡筒",
+          "reading": "きょうとう"
+        }
+      ]
+    },
+    {
+      "slug": "鏡貝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏡貝",
+          "reading": "かがみがい"
+        },
+        {
+          "reading": "カガミガイ"
+        }
+      ]
+    }
   ]
 }

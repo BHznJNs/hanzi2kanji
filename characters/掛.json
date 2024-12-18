@@ -107,5 +107,369 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "お掛けください。",
+      "furigana": "お[掛|か]けください。",
+      "translation_zh_CN": "請坐。"
+    },
+    {
+      "content": "明日は出掛けるの？",
+      "furigana": "[明日|あした]は[出掛|で|か]けるの？",
+      "translation_zh_CN": "你明天出去吗？"
+    },
+    {
+      "content": "壁により掛かるな。",
+      "furigana": "[壁|かべ]により[掛|か]かるな。",
+      "translation_zh_CN": "別倚著牆。"
+    },
+    {
+      "content": "４掛ける２は８だ。",
+      "furigana": "[４|][掛|か]ける[２|]は[８|]だ。",
+      "translation_zh_CN": "四乘以二等於八。"
+    },
+    {
+      "content": "横にお掛けなさい。",
+      "furigana": "[横|よこ]にお[掛|か]けなさい。",
+      "translation_zh_CN": "坐我旁边。"
+    },
+    {
+      "content": "門にかぎを掛けなさい。",
+      "furigana": "[門|もん]にかぎを[掛|か]けなさい。",
+      "translation_zh_CN": "鎖大門。"
+    },
+    {
+      "content": "彼は塀に梯子を掛けた。",
+      "furigana": "[彼|かれ]は[塀|へい]に[梯子|はし|ご]を[掛|か]けた。",
+      "translation_zh_CN": "他把梯子倚著柵欄放。"
+    },
+    {
+      "content": "彼はベッドに腰掛けた。",
+      "furigana": "[彼|かれ]はベッドに[腰掛|こし|か]けた。",
+      "translation_zh_CN": "他坐在床上了。"
+    },
+    {
+      "content": "壁に時計が掛かっている。",
+      "furigana": "[壁|かべ]に[時計|と|けい]が[掛|か]かっている。",
+      "translation_zh_CN": "牆壁上掛著一個時鐘。"
+    },
+    {
+      "content": "壁には絵が掛かっている。",
+      "furigana": "[壁|かべ]には[絵|え]が[掛|か]かっている。",
+      "translation_zh_CN": "牆上有一幅畫。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "掛け",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "掛け",
+          "reading": "かけ"
+        },
+        {
+          "word": "懸け",
+          "reading": "かけ"
+        },
+        {
+          "word": "掛",
+          "reading": "かけ"
+        },
+        {
+          "word": "懸",
+          "reading": "かけ"
+        }
+      ]
+    },
+    {
+      "slug": "掛ける",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "掛ける",
+          "reading": "かける"
+        },
+        {
+          "word": "懸ける",
+          "reading": "かける"
+        }
+      ]
+    },
+    {
+      "slug": "掛かる",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "掛かる",
+          "reading": "かかる"
+        },
+        {
+          "word": "掛る",
+          "reading": "かかる"
+        },
+        {
+          "word": "懸かる",
+          "reading": "かかる"
+        },
+        {
+          "word": "懸る",
+          "reading": "かかる"
+        }
+      ]
+    },
+    {
+      "slug": "掛け算",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "掛け算",
+          "reading": "かけざん"
+        },
+        {
+          "word": "掛算",
+          "reading": "かけざん"
+        },
+        {
+          "word": "かけ算",
+          "reading": "かけざん"
+        }
+      ]
+    },
+    {
+      "slug": "係員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "係員",
+          "reading": "かかりいん"
+        }
+      ]
+    },
+    {
+      "slug": "駆け引き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け引き",
+          "reading": "かけひき"
+        },
+        {
+          "word": "懸け引き",
+          "reading": "かけひき"
+        }
+      ]
+    },
+    {
+      "slug": "係長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "係長",
+          "reading": "かかりちょう"
+        },
+        {
+          "word": "掛長",
+          "reading": "かかりちょう"
+        }
+      ]
+    },
+    {
+      "slug": "掛け金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け金",
+          "reading": "かけきん"
+        },
+        {
+          "word": "掛金",
+          "reading": "かけきん"
+        }
+      ]
+    },
+    {
+      "slug": "掛け離れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かけ離れる",
+          "reading": "かけはなれる"
+        },
+        {
+          "word": "掛け離れる",
+          "reading": "かけはなれる"
+        },
+        {
+          "word": "懸け離れる",
+          "reading": "かけはなれる"
+        }
+      ]
+    },
+    {
+      "slug": "掛け合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け合う",
+          "reading": "かけあう"
+        },
+        {
+          "word": "懸け合う",
+          "reading": "かけあう"
+        }
+      ]
+    },
+    {
+      "slug": "掛け持ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け持ち",
+          "reading": "かけもち"
+        },
+        {
+          "word": "掛持ち",
+          "reading": "かけもち"
+        },
+        {
+          "word": "かけ持ち",
+          "reading": "かけもち"
+        }
+      ]
+    },
+    {
+      "slug": "掛け捨て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け捨て",
+          "reading": "かけすて"
+        },
+        {
+          "word": "掛け捨て",
+          "reading": "かけずて"
+        },
+        {
+          "word": "掛捨て",
+          "reading": "かけすて"
+        },
+        {
+          "word": "掛捨て",
+          "reading": "かけずて"
+        }
+      ]
+    },
+    {
+      "slug": "掛け直す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け直す",
+          "reading": "かけなおす"
+        },
+        {
+          "word": "かけ直す",
+          "reading": "かけなおす"
+        },
+        {
+          "word": "掛けなおす",
+          "reading": "かけなおす"
+        }
+      ]
+    },
+    {
+      "slug": "掛かりつけ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛かりつけ",
+          "reading": "かかりつけ"
+        },
+        {
+          "word": "掛かり付け",
+          "reading": "かかりつけ"
+        },
+        {
+          "word": "掛り付け",
+          "reading": "かかりつけ"
+        },
+        {
+          "word": "掛りつけ",
+          "reading": "かかりつけ"
+        }
+      ]
+    },
+    {
+      "slug": "掛け釘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け釘",
+          "reading": "かけくぎ"
+        }
+      ]
+    },
+    {
+      "slug": "掛かり合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛かり合う",
+          "reading": "かかりあう"
+        },
+        {
+          "word": "係り合う",
+          "reading": "かかりあう"
+        },
+        {
+          "word": "かかり合う",
+          "reading": "かかりあう"
+        }
+      ]
+    },
+    {
+      "slug": "掛かり切り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛かりきり",
+          "reading": "かかりきり"
+        },
+        {
+          "word": "掛かり切り",
+          "reading": "かかりきり"
+        },
+        {
+          "word": "掛り切り",
+          "reading": "かかりきり"
+        }
+      ]
+    },
+    {
+      "slug": "掛け売り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け売り",
+          "reading": "かけうり"
+        },
+        {
+          "word": "掛売り",
+          "reading": "かけうり"
+        }
+      ]
+    }
   ]
 }

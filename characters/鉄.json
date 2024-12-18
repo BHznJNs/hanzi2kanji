@@ -76,5 +76,342 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "鉄は硬い。",
+      "furigana": "[鉄|てつ]は[硬|かた]い。",
+      "translation_zh_CN": "铁很硬。"
+    },
+    {
+      "content": "磁石は鉄を引きつける。",
+      "furigana": "[磁石|じ|しゃく]は[鉄|てつ]を[引|ひ]きつける。",
+      "translation_zh_CN": "磁铁吸引铁。"
+    },
+    {
+      "content": "金は鉄より重い。",
+      "furigana": "[金|きん]は[鉄|てつ]より[重|おも]い。",
+      "translation_zh_CN": "金比铁重。"
+    },
+    {
+      "content": "鉄は役に立つ金属だ。",
+      "furigana": "[鉄|てつ]は[役|やく]に[立|た]つ[金属|きん|ぞく]だ。",
+      "translation_zh_CN": "铁是一种有用的金属。"
+    },
+    {
+      "content": "鉄は有用な金属です。",
+      "furigana": "[鉄|てつ]は[有用|ゆう|よう]な[金属|きん|ぞく]です。",
+      "translation_zh_CN": "铁是一种有用的金属。"
+    },
+    {
+      "content": "鉄は熱をよく伝える。",
+      "furigana": "[鉄|てつ]は[熱|ねつ]をよく[伝|つた]える。",
+      "translation_zh_CN": "铁导热性良好。"
+    },
+    {
+      "content": "木は浮くが鉄は沈む。",
+      "furigana": "[木|き]は[浮|う]くが[鉄|てつ]は[沈|しず]む。",
+      "translation_zh_CN": "木会浮起来，但铁会沉下去。"
+    },
+    {
+      "content": "鉄は金よりも硬い。",
+      "furigana": "[鉄|てつ]は[金|きん]よりも[硬|かた]い。",
+      "translation_zh_CN": "铁比金更硬。"
+    },
+    {
+      "content": "鉄は有用な金属元素である。",
+      "furigana": "[鉄|てつ]は[有用|ゆう|よう]な[金属元素|きん|ぞく|げん|そ]である。",
+      "translation_zh_CN": "铁是一种有用的金属元素。"
+    },
+    {
+      "content": "鉄インゴットの予備は持ってる？",
+      "furigana": "[鉄|てつ]インゴットの[予備|よ|び]は[持|も]ってる？",
+      "translation_zh_CN": "你有多余的铁锭吗？"
+    },
+    {
+      "content": "地下鉄に乗ろう。",
+      "furigana": "[地下鉄|ち|か|てつ]に[乗|の]ろう。",
+      "translation_zh_CN": "我們坐地鐵去吧。"
+    },
+    {
+      "content": "金は鉄より重い。",
+      "furigana": "[金|きん]は[鉄|てつ]より[重|おも]い。",
+      "translation_zh_CN": "黄金比铁重。"
+    },
+    {
+      "content": "鉄は熱いうちに打て。",
+      "furigana": "[鉄|てつ]は[熱|あつ]いうちに[打|う]て。",
+      "translation_zh_CN": "趁熱打鐵。"
+    },
+    {
+      "content": "金は鉄よりも貴重だ。",
+      "furigana": "[金|きん]は[鉄|てつ]よりも[貴重|き|ちょう]だ。",
+      "translation_zh_CN": "金子比铁珍贵。"
+    },
+    {
+      "content": "鉄は役に立つ金属だ。",
+      "furigana": "[鉄|てつ]は[役|やく]に[立|た]つ[金属|きん|ぞく]だ。",
+      "translation_zh_CN": "铁是个有用的金属。"
+    },
+    {
+      "content": "鉄の原子番号は26です。",
+      "furigana": "[鉄|てつ]の[原子|げん|し][番号|ばん|ごう]は[26|にじゅうろく]です。",
+      "translation_zh_CN": "鐵的原子序數是二十六。"
+    },
+    {
+      "content": "カザンに地下鉄がある。",
+      "furigana": "カザンに[地下鉄|ち|か|てつ]がある。",
+      "translation_zh_CN": "喀山有地鐵。"
+    },
+    {
+      "content": "地下鉄の路線図をください。",
+      "furigana": "[地下鉄|ち|か|てつ]の[路線|ろ|せん][図|ず]をください。",
+      "translation_zh_CN": "給我一張地下鐵的路線圖好嗎？"
+    },
+    {
+      "content": "鉄は有用な金属元素である。",
+      "furigana": "[鉄|てつ]は[有用|ゆう|よう]な[金属|きん|ぞく][元素|げん|そ]である。",
+      "translation_zh_CN": "铁是个有用的金属。"
+    },
+    {
+      "content": "地下鉄の地図をもらえますか？",
+      "furigana": "[地下鉄|ち|か|てつ]の[地図|ち|ず]をもらえますか？",
+      "translation_zh_CN": "給我一張地下鐵的路線圖好嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "黒金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黒金",
+          "reading": "くろがね"
+        },
+        {
+          "word": "鉄",
+          "reading": "くろがね"
+        }
+      ]
+    },
+    {
+      "slug": "鉄道",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "鉄道",
+          "reading": "てつどう"
+        }
+      ]
+    },
+    {
+      "slug": "鉄棒",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鉄棒",
+          "reading": "てつぼう"
+        }
+      ]
+    },
+    {
+      "slug": "鉄砲",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "鉄砲",
+          "reading": "てっぽう"
+        },
+        {
+          "word": "鉄炮",
+          "reading": "てっぽう"
+        }
+      ]
+    },
+    {
+      "slug": "鉄橋",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "鉄橋",
+          "reading": "てっきょう"
+        }
+      ]
+    },
+    {
+      "slug": "鉄鋼",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鉄鋼",
+          "reading": "てっこう"
+        }
+      ]
+    },
+    {
+      "slug": "金槌",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "金槌",
+          "reading": "かなづち"
+        },
+        {
+          "word": "金づち",
+          "reading": "かなづち"
+        },
+        {
+          "word": "鉄鎚",
+          "reading": "かなづち"
+        },
+        {
+          "reading": "カナヅチ"
+        }
+      ]
+    },
+    {
+      "slug": "鉄片",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "鉄片",
+          "reading": "てっぺん"
+        }
+      ]
+    },
+    {
+      "slug": "錻力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錻力",
+          "reading": "ブリキ"
+        },
+        {
+          "word": "鉄葉",
+          "reading": "ブリキ"
+        },
+        {
+          "word": "錻",
+          "reading": "ブリキ"
+        }
+      ]
+    },
+    {
+      "slug": "鉄分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄分",
+          "reading": "てつぶん"
+        }
+      ]
+    },
+    {
+      "slug": "鉄道網",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄道網",
+          "reading": "てつどうもう"
+        }
+      ]
+    },
+    {
+      "slug": "鉄鉱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄鉱",
+          "reading": "てっこう"
+        }
+      ]
+    },
+    {
+      "slug": "金棒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "金棒",
+          "reading": "かなぼう"
+        },
+        {
+          "word": "鉄棒",
+          "reading": "かなぼう"
+        }
+      ]
+    },
+    {
+      "slug": "鉄道事故",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄道事故",
+          "reading": "てつどうじこ"
+        }
+      ]
+    },
+    {
+      "slug": "鉄砲弾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄砲玉",
+          "reading": "てっぽうだま"
+        },
+        {
+          "word": "鉄砲弾",
+          "reading": "てっぽうだま"
+        }
+      ]
+    },
+    {
+      "slug": "鉄製",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄製",
+          "reading": "てっせい"
+        },
+        {
+          "word": "鉄製",
+          "reading": "てつせい"
+        }
+      ]
+    },
+    {
+      "slug": "鉄道線路",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄道線路",
+          "reading": "てつどうせんろ"
+        }
+      ]
+    },
+    {
+      "slug": "鉄砲水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉄砲水",
+          "reading": "てっぽうみず"
+        }
+      ]
+    }
   ]
 }

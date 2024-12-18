@@ -70,5 +70,309 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "鉛は金属である。",
+      "furigana": "[鉛|なまり]は[金属|きん|ぞく]である。",
+      "translation_zh_CN": "铅是一种金属。"
+    },
+    {
+      "content": "鉛は簡単に曲がる。",
+      "furigana": "[鉛|なまり]は[簡単|かん|たん]に[曲|ま]がる。",
+      "translation_zh_CN": "引线容易弯曲。"
+    },
+    {
+      "content": "これは鉛のように重い。",
+      "furigana": "これは[鉛|なまり]のように[重|おも]い。",
+      "translation_zh_CN": "它和铅一样重。"
+    },
+    {
+      "content": "腰の痛みから足が鉛のように重く引きずるように歩いていました。",
+      "furigana": "[腰|こし]の[痛|いた]みから[足|あし]が[鉛|なまり]のように[重|おも]く[引|ひ]きずるように[歩|ある]いていました。",
+      "translation_zh_CN": "由于腰部疼痛，走路时双腿沉重、拖沓。"
+    },
+    {
+      "content": "起きようとしたけれど、体は鉛のように重かった。",
+      "furigana": "[起|お]きようとしたけれど、[体|からだ]は[鉛|なまり]のように[重|おも]かった。",
+      "translation_zh_CN": "我想站起来，但身体却像灌了铅一样沉重。"
+    },
+    {
+      "content": "鉛と金とでは、どちらが重いんですか。",
+      "furigana": "[鉛|なまり]と[金|きん]とでは、どちらが[重|おも]いんですか。",
+      "translation_zh_CN": "铅和金哪个更重？"
+    },
+    {
+      "content": "水道水には塩素、鉛などの有害物質が含まれている可能性がある。",
+      "furigana": "[水道水|すい|どう|すい]には[塩素|えん|そ]、[鉛|なまり]などの[有害物質|ゆう|がい|ぶっ|しつ]が[含|ふく]まれている[可能性|か|のう|せい]がある。",
+      "translation_zh_CN": "自来水可能含有氯和铅等有害物质。"
+    },
+    {
+      "content": "鉛筆をなくした。",
+      "furigana": "[鉛筆|えん|ぴつ]をなくした。",
+      "translation_zh_CN": "我的鉛筆掉了。"
+    },
+    {
+      "content": "これは鉛筆です。",
+      "furigana": "これは[鉛筆|えん|ぴつ]です。",
+      "translation_zh_CN": "這是一支鉛筆。"
+    },
+    {
+      "content": "あれは鉛筆です。",
+      "furigana": "あれは[鉛筆|えん|ぴつ]です。",
+      "translation_zh_CN": "那是一支铅笔。"
+    },
+    {
+      "content": "この鉛筆の長さは？",
+      "furigana": "この[鉛筆|えん|ぴつ]の[長|なが]さは？",
+      "translation_zh_CN": "這支鉛筆有多長？"
+    },
+    {
+      "content": "誰か鉛筆持ってる？",
+      "furigana": "[誰|だれ]か[鉛筆|えん|ぴつ][持|も]ってる？",
+      "translation_zh_CN": "有谁有铅笔吗？"
+    },
+    {
+      "content": "鉛筆はありますか？",
+      "furigana": "[鉛筆|えん|ぴつ]はありますか？",
+      "translation_zh_CN": "你有铅笔吗？"
+    },
+    {
+      "content": "残念、鉛筆がない。",
+      "furigana": "[残念|ざん|ねん]、[鉛筆|えん|ぴつ]がない。",
+      "translation_zh_CN": "對不起我沒有鉛筆去寫。"
+    },
+    {
+      "content": "鉛筆で書きなさい。",
+      "furigana": "[鉛筆|えん|ぴつ]で[書|か]きなさい。",
+      "translation_zh_CN": "用鉛筆寫。"
+    },
+    {
+      "content": "鉛筆貸してくんない？",
+      "furigana": "[鉛筆|えん|ぴつ][貸|か]してくんない？",
+      "translation_zh_CN": "能借我支铅笔吗？"
+    },
+    {
+      "content": "鉛筆何本持ってるの？",
+      "furigana": "[鉛筆|えん|ぴつ][何|なん][本|ぼん][持|も]ってるの？",
+      "translation_zh_CN": "你有多少支铅笔？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鉛筆",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "鉛筆",
+          "reading": "えんぴつ"
+        }
+      ]
+    },
+    {
+      "slug": "鉛筆書き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛筆書き",
+          "reading": "えんぴつがき"
+        }
+      ]
+    },
+    {
+      "slug": "鉛中毒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛中毒",
+          "reading": "なまりちゅうどく"
+        },
+        {
+          "word": "鉛中毒",
+          "reading": "えんちゅうどく"
+        }
+      ]
+    },
+    {
+      "slug": "鉛白",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛白",
+          "reading": "えんぱく"
+        }
+      ]
+    },
+    {
+      "slug": "鉛丹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛丹",
+          "reading": "えんたん"
+        }
+      ]
+    },
+    {
+      "slug": "鉛直",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛直",
+          "reading": "えんちょく"
+        }
+      ]
+    },
+    {
+      "slug": "鉛筆柏槙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛筆柏槙",
+          "reading": "えんぴつびゃくしん"
+        },
+        {
+          "word": "鉛筆柏槇",
+          "reading": "えんぴつびゃくしん"
+        },
+        {
+          "reading": "エンピツビャクシン"
+        }
+      ]
+    },
+    {
+      "slug": "鉛蓄電池",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛蓄電池",
+          "reading": "なまりちくでんち"
+        }
+      ]
+    },
+    {
+      "slug": "鉛筆削り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛筆削り",
+          "reading": "えんぴつけずり"
+        },
+        {
+          "word": "えんぴつ削り",
+          "reading": "えんぴつけずり"
+        },
+        {
+          "word": "エンピツ削り",
+          "reading": "エンピツけずり"
+        }
+      ]
+    },
+    {
+      "slug": "鉛室法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛室法",
+          "reading": "えんしつほう"
+        }
+      ]
+    },
+    {
+      "slug": "鉛害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛害",
+          "reading": "えんがい"
+        }
+      ]
+    },
+    {
+      "slug": "鉛版",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛版",
+          "reading": "えんばん"
+        }
+      ]
+    },
+    {
+      "slug": "鉛直圏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛直圏",
+          "reading": "えんちょくけん"
+        }
+      ]
+    },
+    {
+      "slug": "鉛直面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛直面",
+          "reading": "えんちょくめん"
+        }
+      ]
+    },
+    {
+      "slug": "鉛弾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛弾",
+          "reading": "なまりだま"
+        },
+        {
+          "word": "鉛弾",
+          "reading": "えんだん"
+        }
+      ]
+    },
+    {
+      "slug": "鉛直線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛直線",
+          "reading": "えんちょくせん"
+        }
+      ]
+    },
+    {
+      "slug": "鉛板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛板",
+          "reading": "えんばん"
+        }
+      ]
+    },
+    {
+      "slug": "鉛公害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛公害",
+          "reading": "なまりこうがい"
+        }
+      ]
+    },
+    {
+      "slug": "鉛槧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鉛槧",
+          "reading": "えんざん"
+        }
+      ]
+    }
   ]
 }

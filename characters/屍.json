@@ -56,5 +56,188 @@
       "startStroke": 7,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "死体",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "死体",
+          "reading": "したい"
+        },
+        {
+          "word": "屍体",
+          "reading": "したい"
+        }
+      ]
+    },
+    {
+      "slug": "死肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死肉",
+          "reading": "しにく"
+        },
+        {
+          "word": "屍肉",
+          "reading": "しにく"
+        }
+      ]
+    },
+    {
+      "slug": "死骸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死骸",
+          "reading": "しがい"
+        },
+        {
+          "word": "屍骸",
+          "reading": "しがい"
+        }
+      ]
+    },
+    {
+      "slug": "死斑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死斑",
+          "reading": "しはん"
+        },
+        {
+          "word": "屍斑",
+          "reading": "しはん"
+        }
+      ]
+    },
+    {
+      "slug": "屍姦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "屍姦",
+          "reading": "しかん"
+        },
+        {
+          "word": "死姦",
+          "reading": "しかん"
+        }
+      ]
+    },
+    {
+      "slug": "屍体愛好",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "屍体愛好",
+          "reading": "したいあいこう"
+        }
+      ]
+    },
+    {
+      "slug": "死毒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死毒",
+          "reading": "しどく"
+        },
+        {
+          "word": "屍毒",
+          "reading": "しどく"
+        }
+      ]
+    },
+    {
+      "slug": "死臭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "死臭",
+          "reading": "ししゅう"
+        },
+        {
+          "word": "屍臭",
+          "reading": "ししゅう"
+        }
+      ]
+    },
+    {
+      "slug": "屍蝋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "屍蝋",
+          "reading": "しろう"
+        },
+        {
+          "word": "死蝋",
+          "reading": "しろう"
+        },
+        {
+          "word": "屍蠟",
+          "reading": "しろう"
+        },
+        {
+          "word": "死蠟",
+          "reading": "しろう"
+        }
+      ]
+    },
+    {
+      "slug": "尸諌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尸諌",
+          "reading": "しかん"
+        },
+        {
+          "word": "屍諌",
+          "reading": "しかん"
+        }
+      ]
+    },
+    {
+      "slug": "屍山血河",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "屍山血河",
+          "reading": "しざんけつが"
+        }
+      ]
+    },
+    {
+      "slug": "屍陀林王",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "屍陀林王",
+          "reading": "しだりんおう"
+        }
+      ]
+    },
+    {
+      "slug": "屍を晒す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "屍をさらす",
+          "reading": "しかばねをさらす"
+        },
+        {
+          "word": "屍を晒す",
+          "reading": "しかばねをさらす"
+        }
+      ]
+    }
   ]
 }

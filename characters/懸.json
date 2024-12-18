@@ -116,5 +116,353 @@
       "startStroke": 16,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "一生懸命働いた。",
+      "furigana": "[一生懸命|いっ|しょう|けん|めい][働|はたら]いた。",
+      "translation_zh_CN": "他努力工作。"
+    },
+    {
+      "content": "一生懸命走った。",
+      "furigana": "[一生懸命|いっ|しょう|けん|めい][走|はし]った。",
+      "translation_zh_CN": "我拼命地跑。"
+    },
+    {
+      "content": "彼は一生懸命走った。",
+      "furigana": "[彼|かれ]は[一生懸命|いっ|しょう|けん|めい][走|はし]った。",
+      "translation_zh_CN": "他跑得能有多快就有多快。"
+    },
+    {
+      "content": "彼女は一生懸命働いた。",
+      "furigana": "[彼女|かの|じょ]は[一生懸命|いっ|しょう|けん|めい][働|はたら]いた。",
+      "translation_zh_CN": "她努力地工作。"
+    },
+    {
+      "content": "彼は一生懸命勉強した。",
+      "furigana": "[彼|かれ]は[一生懸命|いっ|しょう|けん|めい][勉強|べん|きょう]した。",
+      "translation_zh_CN": "他学习非常努力。"
+    },
+    {
+      "content": "彼は一生懸命がんばる。",
+      "furigana": "[彼|かれ]は[一生懸命|いっ|しょう|けん|めい]がんばる。",
+      "translation_zh_CN": "他努力地嘗試。"
+    },
+    {
+      "content": "彼は一生懸命働きました。",
+      "furigana": "[彼|かれ]は[一生懸命|いっ|しょう|けん|めい][働|はたら]きました。",
+      "translation_zh_CN": "他工作很努力。"
+    },
+    {
+      "content": "昨日は一日中懸命に働いた。",
+      "furigana": "[昨日|きのう]は[一|いち][日|にち][中|じゅう][懸命|けん|めい]に[働|はたら]いた。",
+      "translation_zh_CN": "昨天，我一整天都在工作。"
+    },
+    {
+      "content": "君は一生懸命働くべきだよ。",
+      "furigana": "[君|きみ]は[一生懸命|いっ|しょう|けん|めい][働|はたら]くべきだよ。",
+      "translation_zh_CN": "你应该努力工作。"
+    },
+    {
+      "content": "私は家族を養うために懸命に働いた。",
+      "furigana": "[私|わたし]は[家族|か|ぞく]を[養|やしな]うために[懸命|けん|めい]に[働|はたら]いた。",
+      "translation_zh_CN": "我努力工作养家糊口。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "掛け",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "掛け",
+          "reading": "かけ"
+        },
+        {
+          "word": "懸け",
+          "reading": "かけ"
+        },
+        {
+          "word": "掛",
+          "reading": "かけ"
+        },
+        {
+          "word": "懸",
+          "reading": "かけ"
+        }
+      ]
+    },
+    {
+      "slug": "掛ける",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "掛ける",
+          "reading": "かける"
+        },
+        {
+          "word": "懸ける",
+          "reading": "かける"
+        }
+      ]
+    },
+    {
+      "slug": "掛かる",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "掛かる",
+          "reading": "かかる"
+        },
+        {
+          "word": "掛る",
+          "reading": "かかる"
+        },
+        {
+          "word": "懸かる",
+          "reading": "かかる"
+        },
+        {
+          "word": "懸る",
+          "reading": "かかる"
+        }
+      ]
+    },
+    {
+      "slug": "懸垂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸垂",
+          "reading": "けんすい"
+        }
+      ]
+    },
+    {
+      "slug": "懸命",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸命",
+          "reading": "けんめい"
+        }
+      ]
+    },
+    {
+      "slug": "懸念",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸念",
+          "reading": "けねん"
+        }
+      ]
+    },
+    {
+      "slug": "駆け引き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "駆け引き",
+          "reading": "かけひき"
+        },
+        {
+          "word": "懸け引き",
+          "reading": "かけひき"
+        }
+      ]
+    },
+    {
+      "slug": "掛け離れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かけ離れる",
+          "reading": "かけはなれる"
+        },
+        {
+          "word": "掛け離れる",
+          "reading": "かけはなれる"
+        },
+        {
+          "word": "懸け離れる",
+          "reading": "かけはなれる"
+        }
+      ]
+    },
+    {
+      "slug": "掛け合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け合う",
+          "reading": "かけあう"
+        },
+        {
+          "word": "懸け合う",
+          "reading": "かけあう"
+        }
+      ]
+    },
+    {
+      "slug": "懸賞",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "懸賞",
+          "reading": "けんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "懸案",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸案",
+          "reading": "けんあん"
+        }
+      ]
+    },
+    {
+      "slug": "掛け合い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛け合い",
+          "reading": "かけあい"
+        },
+        {
+          "word": "懸け合い",
+          "reading": "かけあい"
+        }
+      ]
+    },
+    {
+      "slug": "掛かり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛かり",
+          "reading": "かかり"
+        },
+        {
+          "word": "掛り",
+          "reading": "かかり"
+        },
+        {
+          "word": "懸かり",
+          "reading": "かかり"
+        },
+        {
+          "word": "懸り",
+          "reading": "かかり"
+        },
+        {
+          "reading": "カカリ"
+        }
+      ]
+    },
+    {
+      "slug": "掛け詞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "掛詞",
+          "reading": "かけことば"
+        },
+        {
+          "word": "掛け言葉",
+          "reading": "かけことば"
+        },
+        {
+          "word": "懸詞",
+          "reading": "かけことば"
+        },
+        {
+          "word": "掛け詞",
+          "reading": "かけことば"
+        },
+        {
+          "word": "懸け詞",
+          "reading": "かけことば"
+        }
+      ]
+    },
+    {
+      "slug": "懸巣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸巣",
+          "reading": "かけす"
+        },
+        {
+          "word": "懸け巣",
+          "reading": "かけす"
+        },
+        {
+          "reading": "カケス"
+        }
+      ]
+    },
+    {
+      "slug": "懸け隔たる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸け隔たる",
+          "reading": "かけへだたる"
+        },
+        {
+          "word": "懸隔たる",
+          "reading": "かけへだたる"
+        }
+      ]
+    },
+    {
+      "slug": "懸け隔てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸け隔てる",
+          "reading": "かけへだてる"
+        },
+        {
+          "word": "懸隔てる",
+          "reading": "かけへだてる"
+        }
+      ]
+    },
+    {
+      "slug": "懸吊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸吊",
+          "reading": "けんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "懸の先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懸の先",
+          "reading": "けんのせん"
+        }
+      ]
+    }
   ]
 }

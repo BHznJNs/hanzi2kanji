@@ -95,5 +95,257 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は冒険好きだ。",
+      "furigana": "[彼|かれ]は[冒険|ぼう|けん][好|ず]きだ。",
+      "translation_zh_CN": "他喜欢冒险。"
+    },
+    {
+      "content": "火は常に危険だ。",
+      "furigana": "[火|ひ]は[常|つね]に[危険|き|けん]だ。",
+      "translation_zh_CN": "火是非常危險的。"
+    },
+    {
+      "content": "もの凄く危険だ。",
+      "furigana": "もの[凄|すご]く[危険|き|けん]だ。",
+      "translation_zh_CN": "这很危险。"
+    },
+    {
+      "content": "彼は冒険が好きです。",
+      "furigana": "[彼|かれ]は[冒険|ぼう|けん]が[好|す]きです。",
+      "translation_zh_CN": "他喜欢冒险。"
+    },
+    {
+      "content": "夜に泳ぐのは危険です。",
+      "furigana": "[夜|よる]に[泳|およ]ぐのは[危険|き|けん]です。",
+      "translation_zh_CN": "夜里游泳很危险。"
+    },
+    {
+      "content": "ここで泳ぐのは危険だ。",
+      "furigana": "ここで[泳|およ]ぐのは[危険|き|けん]だ。",
+      "translation_zh_CN": "這裏游泳很危險的。"
+    },
+    {
+      "content": "それでは君が危険になる。",
+      "furigana": "それでは[君|きみ]が[危険|き|けん]になる。",
+      "translation_zh_CN": "那將會使你處於危險。"
+    },
+    {
+      "content": "この川は泳ぐには危険だ。",
+      "furigana": "この[川|かわ]は[泳|およ]ぐには[危険|き|けん]だ。",
+      "translation_zh_CN": "在这条河里游泳很危险。"
+    },
+    {
+      "content": "この川で泳ぐのは危険だ。",
+      "furigana": "この[川|かわ]で[泳|およ]ぐのは[危険|き|けん]だ。",
+      "translation_zh_CN": "在这条河里游泳很危险。"
+    },
+    {
+      "content": "この湖で泳ぐのは危険だ。",
+      "furigana": "この[湖|みずうみ]で[泳|およ]ぐのは[危険|き|けん]だ。",
+      "translation_zh_CN": "在这湖里游泳很危险。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "嵯峨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "嵯峨",
+          "reading": "さが"
+        },
+        {
+          "word": "険",
+          "reading": "さが"
+        }
+      ]
+    },
+    {
+      "slug": "険しい",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "険しい",
+          "reading": "けわしい"
+        },
+        {
+          "word": "嶮しい",
+          "reading": "けわしい"
+        }
+      ]
+    },
+    {
+      "slug": "険悪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険悪",
+          "reading": "けんあく"
+        }
+      ]
+    },
+    {
+      "slug": "険しい山",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険しい山",
+          "reading": "けわしいやま"
+        }
+      ]
+    },
+    {
+      "slug": "険難",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険難",
+          "reading": "けんなん"
+        },
+        {
+          "word": "嶮難",
+          "reading": "けんなん"
+        }
+      ]
+    },
+    {
+      "slug": "険しい声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険しい声",
+          "reading": "けわしいこえ"
+        }
+      ]
+    },
+    {
+      "slug": "険しい顔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険しい顔",
+          "reading": "けわしいかお"
+        }
+      ]
+    },
+    {
+      "slug": "険しい顔つき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険しい顔つき",
+          "reading": "けわしいかおつき"
+        }
+      ]
+    },
+    {
+      "slug": "剣呑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剣呑",
+          "reading": "けんのん"
+        },
+        {
+          "word": "険難",
+          "reading": "けんのん"
+        },
+        {
+          "word": "険呑",
+          "reading": "けんのん"
+        }
+      ]
+    },
+    {
+      "slug": "険しい目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険しい目",
+          "reading": "けわしいめ"
+        }
+      ]
+    },
+    {
+      "slug": "険峻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険峻",
+          "reading": "けんしゅん"
+        },
+        {
+          "word": "嶮峻",
+          "reading": "けんしゅん"
+        },
+        {
+          "word": "剣峻",
+          "reading": "けんしゅん"
+        }
+      ]
+    },
+    {
+      "slug": "険阻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険阻",
+          "reading": "けんそ"
+        },
+        {
+          "word": "嶮岨",
+          "reading": "けんそ"
+        }
+      ]
+    },
+    {
+      "slug": "険しい言葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険しい言葉",
+          "reading": "けわしいことば"
+        }
+      ]
+    },
+    {
+      "slug": "険相",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険相",
+          "reading": "けんそう"
+        }
+      ]
+    },
+    {
+      "slug": "険しい表情",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険しい表情",
+          "reading": "けわしいひょうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "険路",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "険路",
+          "reading": "けんろ"
+        },
+        {
+          "word": "嶮路",
+          "reading": "けんろ"
+        }
+      ]
+    }
   ]
 }

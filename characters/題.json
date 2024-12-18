@@ -106,5 +106,235 @@
       "startStroke": 16,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "合わせて６００題はきつい。",
+      "furigana": "[合|あ]わせて６００[題|だい]はきつい。",
+      "translation_zh_CN": "一共600道题，难度很大。"
+    },
+    {
+      "content": "なぜその題を選んだのか。",
+      "furigana": "なぜその[題|だい]を[選|えら]んだのか。",
+      "translation_zh_CN": "你为什么选择这个主题？"
+    },
+    {
+      "content": "この劇の題は「オセロ」です。",
+      "furigana": "この[劇|げき]の[題|だい]は「オセロ」です。",
+      "translation_zh_CN": "这部剧的名字是《奥赛罗》。"
+    },
+    {
+      "content": "「友情」という題で作文を書きなさい。",
+      "furigana": "「[友情|ゆう|じょう]」という[題|だい]で[作文|さく|ぶん]を[書|か]きなさい。",
+      "translation_zh_CN": "请以“友谊”为主题写一篇作文。"
+    },
+    {
+      "content": "先生は私達に宿題として１０題の問題を割り当てた。",
+      "furigana": "[先生|せん|せい]は[私達|わたし|たち]に[宿題|しゅく|だい]として１０[題|だい]の[問題|もん|だい]を[割|わ]り[当|あ]てた。",
+      "translation_zh_CN": "老师给我们布置了10个问题作为作业。"
+    },
+    {
+      "content": "「秘めた恋」という題の作文で、メアリーは賞をもらった。",
+      "furigana": "「[秘|ひ]めた[恋|こい]」という[題|だい]の[作文|さく|ぶん]で、メアリーは[賞|しょう]をもらった。",
+      "translation_zh_CN": "玛丽因其题为“秘密的爱”的论文而获奖。"
+    },
+    {
+      "content": "それは別問題だ。",
+      "furigana": "それは[別|べつ][問題|もん|だい]だ。",
+      "translation_zh_CN": "那是另一回事。"
+    },
+    {
+      "content": "何も問題はない。",
+      "furigana": "[何|なに]も[問題|もん|だい]はない。",
+      "translation_zh_CN": "什么问题都没有！"
+    },
+    {
+      "content": "宿題は終わったの？",
+      "furigana": "[宿題|しゅく|だい]は[終|お]わったの？",
+      "translation_zh_CN": "你做完作業了嗎？"
+    },
+    {
+      "content": "月曜日で問題ない？",
+      "furigana": "[月曜日|げつ|よう|び]で[問題|もん|だい]ない？",
+      "translation_zh_CN": "周一可以吗？"
+    },
+    {
+      "content": "深刻な問題だな。",
+      "furigana": "[深刻|しん|こく]な[問題|もん|だい]だな。",
+      "translation_zh_CN": "这个问题很严重。"
+    },
+    {
+      "content": "宿題してんだよ。",
+      "furigana": "[宿題|しゅく|だい]してんだよ。",
+      "translation_zh_CN": "我正在做我的作业。"
+    },
+    {
+      "content": "そこに問題がある。",
+      "furigana": "そこに[問題|もん|だい]がある。",
+      "translation_zh_CN": "那就是問題所在。"
+    },
+    {
+      "content": "宿題をやりなさい。",
+      "furigana": "[宿題|しゅく|だい]をやりなさい。",
+      "translation_zh_CN": "做你的作业。"
+    },
+    {
+      "content": "それは問題外だよ。",
+      "furigana": "それは[問題|もん|だい][外|がい]だよ。",
+      "translation_zh_CN": "绝对不可能。"
+    },
+    {
+      "content": "全く問題ありません！",
+      "furigana": "[全|まった]く[問題|もん|だい]ありません！",
+      "translation_zh_CN": "什么问题都没有！"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "題名",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "題名",
+          "reading": "だいめい"
+        }
+      ]
+    },
+    {
+      "slug": "題材",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題材",
+          "reading": "だいざい"
+        }
+      ]
+    },
+    {
+      "slug": "題目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題目",
+          "reading": "だいもく"
+        }
+      ]
+    },
+    {
+      "slug": "題する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題する",
+          "reading": "だいする"
+        }
+      ]
+    },
+    {
+      "slug": "題字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題字",
+          "reading": "だいじ"
+        }
+      ]
+    },
+    {
+      "slug": "題辞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題辞",
+          "reading": "だいじ"
+        }
+      ]
+    },
+    {
+      "slug": "題号",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題号",
+          "reading": "だいごう"
+        }
+      ]
+    },
+    {
+      "slug": "題意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題意",
+          "reading": "だいい"
+        }
+      ]
+    },
+    {
+      "slug": "題画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題画",
+          "reading": "だいが"
+        }
+      ]
+    },
+    {
+      "slug": "題簽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題簽",
+          "reading": "だいせん"
+        }
+      ]
+    },
+    {
+      "slug": "題言",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題言",
+          "reading": "だいげん"
+        }
+      ]
+    },
+    {
+      "slug": "題詠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題詠",
+          "reading": "だいえい"
+        }
+      ]
+    },
+    {
+      "slug": "題名なし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題名なし",
+          "reading": "だいめいなし"
+        },
+        {
+          "word": "題名無し",
+          "reading": "だいめいなし"
+        }
+      ]
+    },
+    {
+      "slug": "題を付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "題を付ける",
+          "reading": "だいをつける"
+        }
+      ]
+    }
   ]
 }

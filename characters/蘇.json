@@ -94,5 +94,234 @@
       "startStroke": 15,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "阿蘇山は活火山だ。",
+      "furigana": "[阿蘇山|あ|そ|さん]は[活火山|かっ|か|ざん]だ。",
+      "translation_zh_CN": "阿蘇山是一座活火山。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "甦る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "蘇る",
+          "reading": "よみがえる"
+        },
+        {
+          "word": "甦る",
+          "reading": "よみがえる"
+        },
+        {
+          "word": "蘇える",
+          "reading": "よみがえる"
+        },
+        {
+          "word": "甦える",
+          "reading": "よみがえる"
+        }
+      ]
+    },
+    {
+      "slug": "蘇維埃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇維埃",
+          "reading": "ソビエト"
+        },
+        {
+          "word": "蘇維埃",
+          "reading": "ソヴィエト"
+        }
+      ]
+    },
+    {
+      "slug": "甦生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇生",
+          "reading": "そせい"
+        },
+        {
+          "word": "甦生",
+          "reading": "そせい"
+        }
+      ]
+    },
+    {
+      "slug": "ソ連",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ソ連",
+          "reading": "ソれん"
+        },
+        {
+          "word": "蘇連",
+          "reading": "ソれん"
+        }
+      ]
+    },
+    {
+      "slug": "スコットランド",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇格蘭",
+          "reading": "スコットランド"
+        }
+      ]
+    },
+    {
+      "slug": "蘇鉄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇鉄",
+          "reading": "そてつ"
+        },
+        {
+          "reading": "ソテツ"
+        }
+      ]
+    },
+    {
+      "slug": "蘇州大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇州大学",
+          "reading": "そしゅうだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "蘇丹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇丹",
+          "reading": "スーダン"
+        }
+      ]
+    },
+    {
+      "slug": "蘇芳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇芳",
+          "reading": "すおう"
+        },
+        {
+          "word": "蘇枋",
+          "reading": "すおう"
+        },
+        {
+          "word": "蘇方",
+          "reading": "すおう"
+        },
+        {
+          "reading": "スオウ"
+        }
+      ]
+    },
+    {
+      "slug": "蘇張の弁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇張の弁",
+          "reading": "そちょうのべん"
+        }
+      ]
+    },
+    {
+      "slug": "蘇比",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇比",
+          "reading": "そひ"
+        },
+        {
+          "word": "蘇比",
+          "reading": "そい"
+        },
+        {
+          "word": "纁",
+          "reading": "そひ"
+        },
+        {
+          "word": "纁",
+          "reading": "そい"
+        }
+      ]
+    },
+    {
+      "slug": "蘇悉地経",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇悉地経",
+          "reading": "そしつじきょう"
+        }
+      ]
+    },
+    {
+      "slug": "酥油",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "酥油",
+          "reading": "そゆ"
+        },
+        {
+          "word": "蘇油",
+          "reading": "そゆ"
+        }
+      ]
+    },
+    {
+      "slug": "蘇張",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇張",
+          "reading": "そちょう"
+        }
+      ]
+    },
+    {
+      "slug": "蘇り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇り",
+          "reading": "よみがえり"
+        }
+      ]
+    },
+    {
+      "slug": "蘇民将来",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘇民将来",
+          "reading": "そみんしょうらい"
+        },
+        {
+          "word": "蘇民將來",
+          "reading": "そみんしょうらい"
+        }
+      ]
+    }
   ]
 }

@@ -56,5 +56,42 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "決別",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "決別",
+          "reading": "けつべつ"
+        },
+        {
+          "word": "訣別",
+          "reading": "けつべつ"
+        }
+      ]
+    },
+    {
+      "slug": "訣辞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訣辞",
+          "reading": "けつじ"
+        }
+      ]
+    },
+    {
+      "slug": "訣絶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訣絶",
+          "reading": "けつぜつ"
+        }
+      ]
+    }
   ]
 }

@@ -89,5 +89,263 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は泳ぎに行こうと勧めた。",
+      "furigana": "[彼|かれ]は[泳|およ]ぎに[行|い]こうと[勧|すす]めた。",
+      "translation_zh_CN": "他提议大家一起去游泳。"
+    },
+    {
+      "content": "医者からは禁煙を勧められた。",
+      "furigana": "[医者|い|しゃ]からは[禁煙|きん|えん]を[勧|すす]められた。",
+      "translation_zh_CN": "醫生勸我戒煙。"
+    },
+    {
+      "content": "私は彼女に朝の列車に乗るように勧めた。",
+      "furigana": "[私|わたし]は[彼女|かの|じょ]に[朝|あさ]の[列車|れっ|しゃ]に[乗|の]るように[勧|すす]めた。",
+      "translation_zh_CN": "我建議她去乘早車。"
+    },
+    {
+      "content": "その映画をみるように勧めたのはあなたよ。",
+      "furigana": "その[映画|えい|が]をみるように[勧|すす]めたのはあなたよ。",
+      "translation_zh_CN": "是你提议去看这个电影的。"
+    },
+    {
+      "content": "あの映画を勧めてくれたの、お前だったじゃん。",
+      "furigana": "あの[映画|えい|が]を[勧|すす]めてくれたの、お[前|まえ]だったじゃん。",
+      "translation_zh_CN": "是你提议去看这个电影的。"
+    },
+    {
+      "content": "先生は僕にシェイクスピアを読むよう勧めてくれた。",
+      "furigana": "[先生|せん|せい]は[僕|ぼく]にシェイクスピアを[読|よ]むよう[勧|すす]めてくれた。",
+      "translation_zh_CN": "老師建議我讀莎士比亞。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "勧める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "勧める",
+          "reading": "すすめる"
+        },
+        {
+          "word": "薦める",
+          "reading": "すすめる"
+        },
+        {
+          "word": "奨める",
+          "reading": "すすめる"
+        }
+      ]
+    },
+    {
+      "slug": "勧誘",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勧誘",
+          "reading": "かんゆう"
+        }
+      ]
+    },
+    {
+      "slug": "勧め",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勧め",
+          "reading": "すすめ"
+        },
+        {
+          "word": "薦め",
+          "reading": "すすめ"
+        },
+        {
+          "word": "奨め",
+          "reading": "すすめ"
+        }
+      ]
+    },
+    {
+      "slug": "勧告",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "勧告",
+          "reading": "かんこく"
+        }
+      ]
+    },
+    {
+      "slug": "勧善懲悪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧善懲悪",
+          "reading": "かんぜんちょうあく"
+        }
+      ]
+    },
+    {
+      "slug": "勧工場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧工場",
+          "reading": "かんこうば"
+        }
+      ]
+    },
+    {
+      "slug": "勧進帳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧進帳",
+          "reading": "かんじんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "勧進",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧進",
+          "reading": "かんじん"
+        }
+      ]
+    },
+    {
+      "slug": "勧奨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧奨",
+          "reading": "かんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "勧業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧業",
+          "reading": "かんぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "勧学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧学",
+          "reading": "かんがく"
+        }
+      ]
+    },
+    {
+      "slug": "勧善懲悪小説",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧善懲悪小説",
+          "reading": "かんぜんちょうあくしょうせつ"
+        }
+      ]
+    },
+    {
+      "slug": "勧工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧工",
+          "reading": "かんこう"
+        }
+      ]
+    },
+    {
+      "slug": "勧告状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧告状",
+          "reading": "かんこくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "勧告案",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧告案",
+          "reading": "かんこくあん"
+        }
+      ]
+    },
+    {
+      "slug": "勧懲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧懲",
+          "reading": "かんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "勧奨退職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧奨退職",
+          "reading": "かんしょうたいしょく"
+        }
+      ]
+    },
+    {
+      "slug": "勧告者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧告者",
+          "reading": "かんこくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "勧業博覧会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧業博覧会",
+          "reading": "かんぎょうはくらんかい"
+        }
+      ]
+    },
+    {
+      "slug": "勧善",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "勧善",
+          "reading": "かんぜん"
+        }
+      ]
+    }
   ]
 }

@@ -66,5 +66,85 @@
       "startStroke": 13,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鍬形虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍬形虫",
+          "reading": "くわがたむし"
+        },
+        {
+          "reading": "クワガタムシ"
+        }
+      ]
+    },
+    {
+      "slug": "鍬入れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍬入れ",
+          "reading": "くわいれ"
+        },
+        {
+          "word": "くわ入れ",
+          "reading": "くわいれ"
+        }
+      ]
+    },
+    {
+      "slug": "鍬形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍬形",
+          "reading": "くわがた"
+        },
+        {
+          "reading": "クワガタ"
+        }
+      ]
+    },
+    {
+      "slug": "くわ入れ式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "くわ入れ式",
+          "reading": "くわいれしき"
+        },
+        {
+          "word": "鍬入れ式",
+          "reading": "くわいれしき"
+        }
+      ]
+    },
+    {
+      "slug": "鍬形草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍬形草",
+          "reading": "くわがたそう"
+        },
+        {
+          "reading": "クワガタソウ"
+        }
+      ]
+    },
+    {
+      "slug": "鍬初め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍬初め",
+          "reading": "くわはじめ"
+        }
+      ]
+    }
   ]
 }

@@ -81,5 +81,220 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "頬の腫れは、どれくらい続いていますか？",
+      "furigana": "[頬|ほお]の[腫|は]れは、どれくらい[続|つづ]いていますか？",
+      "translation_zh_CN": "你的腮幫子腫了多久了？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "腫れる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "腫れる",
+          "reading": "はれる"
+        },
+        {
+          "word": "脹れる",
+          "reading": "はれる"
+        }
+      ]
+    },
+    {
+      "slug": "腫瘍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫瘍",
+          "reading": "しゅよう"
+        }
+      ]
+    },
+    {
+      "slug": "腫れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫れ",
+          "reading": "はれ"
+        },
+        {
+          "word": "脹れ",
+          "reading": "はれ"
+        }
+      ]
+    },
+    {
+      "slug": "腫れ上がる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫れ上がる",
+          "reading": "はれあがる"
+        },
+        {
+          "word": "腫れあがる",
+          "reading": "はれあがる"
+        },
+        {
+          "word": "腫上がる",
+          "reading": "はれあがる"
+        }
+      ]
+    },
+    {
+      "slug": "腫れ物に触るように",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫れ物に触るよう",
+          "reading": "はれものにさわるよう"
+        }
+      ]
+    },
+    {
+      "slug": "腫瘍学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫瘍学",
+          "reading": "しゅようがく"
+        }
+      ]
+    },
+    {
+      "slug": "腫瘍壊死因子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫瘍壊死因子",
+          "reading": "しゅようえしいんし"
+        }
+      ]
+    },
+    {
+      "slug": "腫瘍摘出手術",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫瘍摘出手術",
+          "reading": "しゅようてきしゅつしゅじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "腫れ物扱い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫れ物扱い",
+          "reading": "はれものあつかい"
+        }
+      ]
+    },
+    {
+      "slug": "腫脹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫脹",
+          "reading": "しゅちょう"
+        }
+      ]
+    },
+    {
+      "slug": "腫らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫らす",
+          "reading": "はらす"
+        }
+      ]
+    },
+    {
+      "slug": "腫大",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫大",
+          "reading": "しゅだい"
+        }
+      ]
+    },
+    {
+      "slug": "腫気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫気",
+          "reading": "しゅき"
+        }
+      ]
+    },
+    {
+      "slug": "腫れぼったい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫れぼったい",
+          "reading": "はれぼったい"
+        },
+        {
+          "word": "脹れぼったい",
+          "reading": "はれぼったい"
+        }
+      ]
+    },
+    {
+      "slug": "腫物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫物",
+          "reading": "しゅもつ"
+        }
+      ]
+    },
+    {
+      "slug": "腫瘤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫瘤",
+          "reading": "しゅりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "腫れ物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫れ物",
+          "reading": "はれもの"
+        },
+        {
+          "word": "腫物",
+          "reading": "はれもの"
+        }
+      ]
+    },
+    {
+      "slug": "腫瘍ウイルス",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "腫瘍ウイルス",
+          "reading": "しゅようウイルス"
+        }
+      ]
+    }
   ]
 }

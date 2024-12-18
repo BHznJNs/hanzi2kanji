@@ -70,5 +70,273 @@
       "startStroke": 15,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "バレンタインなんて糞食らえだ！",
+      "furigana": "バレンタインなんて[糞食|くそ|く]らえだ！",
+      "translation_zh_CN": "去他妈的情人节！"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "糞垂れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞ったれ",
+          "reading": "くそったれ"
+        },
+        {
+          "word": "糞っ垂れ",
+          "reading": "くそったれ"
+        },
+        {
+          "reading": "クソッタレ"
+        }
+      ]
+    },
+    {
+      "slug": "くそ食らえ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "クソ食らえ",
+          "reading": "くそくらえ"
+        },
+        {
+          "word": "糞食らえ",
+          "reading": "くそくらえ"
+        },
+        {
+          "word": "糞喰らえ",
+          "reading": "くそくらえ"
+        }
+      ]
+    },
+    {
+      "slug": "糞虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞虫",
+          "reading": "くそむし"
+        },
+        {
+          "word": "糞虫",
+          "reading": "ふんちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "糞石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞石",
+          "reading": "ふんせき"
+        }
+      ]
+    },
+    {
+      "slug": "糞力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞力",
+          "reading": "くそぢから"
+        },
+        {
+          "word": "クソ力",
+          "reading": "くそぢから"
+        },
+        {
+          "word": "くそ力",
+          "reading": "くそぢから"
+        }
+      ]
+    },
+    {
+      "slug": "糞爺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞爺",
+          "reading": "くそじじい"
+        },
+        {
+          "reading": "クソジジイ"
+        }
+      ]
+    },
+    {
+      "slug": "糞ほど",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞ほど",
+          "reading": "くそほど"
+        },
+        {
+          "word": "糞程",
+          "reading": "くそほど"
+        },
+        {
+          "reading": "クソほど"
+        }
+      ]
+    },
+    {
+      "slug": "糞袋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞袋",
+          "reading": "くそぶくろ"
+        },
+        {
+          "word": "糞嚢",
+          "reading": "くそぶくろ"
+        }
+      ]
+    },
+    {
+      "slug": "糞便",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞便",
+          "reading": "ふんべん"
+        },
+        {
+          "word": "ふん便",
+          "reading": "ふんべん"
+        }
+      ]
+    },
+    {
+      "slug": "糞婆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "クソババア"
+        },
+        {
+          "word": "糞婆",
+          "reading": "くそばばあ"
+        },
+        {
+          "word": "糞ババア",
+          "reading": "くそばばあ"
+        }
+      ]
+    },
+    {
+      "slug": "糞餓鬼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞餓鬼",
+          "reading": "くそがき"
+        },
+        {
+          "word": "糞ガキ",
+          "reading": "くそガキ"
+        },
+        {
+          "reading": "クソガキ"
+        }
+      ]
+    },
+    {
+      "slug": "くそ勉強",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "くそ勉強",
+          "reading": "くそべんきょう"
+        },
+        {
+          "word": "クソ勉強",
+          "reading": "くそべんきょう"
+        },
+        {
+          "word": "糞勉強",
+          "reading": "くそべんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "糞化石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞化石",
+          "reading": "ふんかせき"
+        }
+      ]
+    },
+    {
+      "slug": "糞真面目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "クソ真面目",
+          "reading": "クソまじめ"
+        },
+        {
+          "word": "くそ真面目",
+          "reading": "くそまじめ"
+        },
+        {
+          "word": "糞真面目",
+          "reading": "くそまじめ"
+        },
+        {
+          "word": "糞まじめ",
+          "reading": "くそまじめ"
+        },
+        {
+          "word": "糞マジメ",
+          "reading": "くそマジメ"
+        },
+        {
+          "reading": "クソマジメ"
+        }
+      ]
+    },
+    {
+      "slug": "糞味噌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞味噌",
+          "reading": "くそみそ"
+        },
+        {
+          "reading": "クソミソ"
+        }
+      ]
+    },
+    {
+      "slug": "糞塊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞塊",
+          "reading": "ふんかい"
+        }
+      ]
+    },
+    {
+      "slug": "糞土",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "糞土",
+          "reading": "ふんど"
+        }
+      ]
+    }
   ]
 }

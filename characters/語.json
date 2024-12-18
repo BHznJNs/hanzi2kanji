@@ -99,5 +99,345 @@
       "startStroke": 11,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "正しくない語は消しなさい。",
+      "furigana": "[正|ただ]しくない[語|かたり]は[消|け]しなさい。",
+      "translation_zh_CN": "删除不正确的单词。"
+    },
+    {
+      "content": "アイヌ語はしゃべれません。",
+      "furigana": "アイヌ[語|ご]はしゃべれません。",
+      "translation_zh_CN": "我不会说阿伊努语。"
+    },
+    {
+      "content": "中国語を話しません。",
+      "furigana": "[中国語|ちゅう|ごく|ご]を[話|はな]しません。",
+      "translation_zh_CN": "我不会说中文。"
+    },
+    {
+      "content": "イド語を習ってます。",
+      "furigana": "イド[語|ご]を[習|なら]ってます。",
+      "translation_zh_CN": "我正在学习伊多语。"
+    },
+    {
+      "content": "ベルベル語は分かりません。",
+      "furigana": "ベルベル[語|ご]は[分|わ]かりません。",
+      "translation_zh_CN": "我不懂柏柏尔语。"
+    },
+    {
+      "content": "チェコ語を習っている。",
+      "furigana": "チェコ[語|ご]を[習|なら]っている。",
+      "translation_zh_CN": "我正在学习捷克语。"
+    },
+    {
+      "content": "五ヶ国語話します。",
+      "furigana": "[五|ご][ヶ国|かこく][語話|ご|はな]します。",
+      "translation_zh_CN": "我会说五种语言。"
+    },
+    {
+      "content": "ベルベル語を習わなきゃ。",
+      "furigana": "ベルベル[語|ご]を[習|なら]わなきゃ。",
+      "translation_zh_CN": "我需要学习柏柏尔语。"
+    },
+    {
+      "content": "アイヌ語、話せるよ。",
+      "furigana": "アイヌ[語|ご]、[話|はな]せるよ。",
+      "translation_zh_CN": "我会说阿伊努语。"
+    },
+    {
+      "content": "クリンゴン語を話せますか？",
+      "furigana": "クリンゴン[語|ご]を[話|はな]せますか？",
+      "translation_zh_CN": "你会说克林贡语吗？"
+    },
+    {
+      "content": "英語が話せないの？",
+      "furigana": "[英語|えい|ご]が[話|はな]せないの？",
+      "translation_zh_CN": "你不會說英語嗎?"
+    },
+    {
+      "content": "英語の先生です。",
+      "furigana": "[英語|えい|ご]の[先生|せん|せい]です。",
+      "translation_zh_CN": "他是英语老师。"
+    },
+    {
+      "content": "何語が話せますか？",
+      "furigana": "[何|なに][語|ご]が[話|はな]せますか？",
+      "translation_zh_CN": "你會說什麼語言？"
+    },
+    {
+      "content": "何か国語話せるの？",
+      "furigana": "[何|なん]か[国語|こく|ご][話|はな]せるの？",
+      "translation_zh_CN": "你會說多少種語言?"
+    },
+    {
+      "content": "英語を聞いてるの？",
+      "furigana": "[英語|えい|ご]を[聞|き]いてるの？",
+      "translation_zh_CN": "你在聽英語嗎？"
+    },
+    {
+      "content": "英語、話せるよ。",
+      "furigana": "[英語|えい|ご]、[話|はな]せるよ。",
+      "translation_zh_CN": "我會講英語。"
+    },
+    {
+      "content": "彼は英語がうまい。",
+      "furigana": "[彼|かれ]は[英語|えい|ご]がうまい。",
+      "translation_zh_CN": "他英语说得很好。"
+    },
+    {
+      "content": "私は英語を教える。",
+      "furigana": "[私|わたし]は[英語|えい|ご]を[教|おし]える。",
+      "translation_zh_CN": "我教英语。"
+    },
+    {
+      "content": "私は英語が話せる。",
+      "furigana": "[私|わたし]は[英語|えい|ご]が[話|はな]せる。",
+      "translation_zh_CN": "我會講英語。"
+    },
+    {
+      "content": "英語を話しますか。",
+      "furigana": "[英語|えい|ご]を[話|はな]しますか。",
+      "translation_zh_CN": "你会说英语吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "語り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語り",
+          "reading": "かたり"
+        },
+        {
+          "word": "語",
+          "reading": "かたり"
+        }
+      ]
+    },
+    {
+      "slug": "語源",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "語源",
+          "reading": "ごげん"
+        },
+        {
+          "word": "語原",
+          "reading": "ごげん"
+        }
+      ]
+    },
+    {
+      "slug": "語彙",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "語彙",
+          "reading": "ごい"
+        },
+        {
+          "word": "語い",
+          "reading": "ごい"
+        }
+      ]
+    },
+    {
+      "slug": "語る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "語る",
+          "reading": "かたる"
+        }
+      ]
+    },
+    {
+      "slug": "語学",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "語学",
+          "reading": "ごがく"
+        }
+      ]
+    },
+    {
+      "slug": "語句",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "語句",
+          "reading": "ごく"
+        }
+      ]
+    },
+    {
+      "slug": "語らう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語らう",
+          "reading": "かたらう"
+        }
+      ]
+    },
+    {
+      "slug": "語り口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語り口",
+          "reading": "かたりくち"
+        }
+      ]
+    },
+    {
+      "slug": "語気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語気",
+          "reading": "ごき"
+        }
+      ]
+    },
+    {
+      "slug": "語り合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語り合う",
+          "reading": "かたりあう"
+        },
+        {
+          "word": "語りあう",
+          "reading": "かたりあう"
+        }
+      ]
+    },
+    {
+      "slug": "語法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語法",
+          "reading": "ごほう"
+        }
+      ]
+    },
+    {
+      "slug": "語尾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語尾",
+          "reading": "ごび"
+        }
+      ]
+    },
+    {
+      "slug": "語り継ぐ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語り継ぐ",
+          "reading": "かたりつぐ"
+        },
+        {
+          "word": "語りつぐ",
+          "reading": "かたりつぐ"
+        }
+      ]
+    },
+    {
+      "slug": "語り草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語り草",
+          "reading": "かたりぐさ"
+        },
+        {
+          "word": "語り種",
+          "reading": "かたりぐさ"
+        },
+        {
+          "word": "語りぐさ",
+          "reading": "かたりぐさ"
+        }
+      ]
+    },
+    {
+      "slug": "語族",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語族",
+          "reading": "ごぞく"
+        }
+      ]
+    },
+    {
+      "slug": "語順",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語順",
+          "reading": "ごじゅん"
+        }
+      ]
+    },
+    {
+      "slug": "語形変化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語形変化",
+          "reading": "ごけいへんか"
+        }
+      ]
+    },
+    {
+      "slug": "語りかける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語りかける",
+          "reading": "かたりかける"
+        },
+        {
+          "word": "語り掛ける",
+          "reading": "かたりかける"
+        }
+      ]
+    },
+    {
+      "slug": "語り明かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "語り明かす",
+          "reading": "かたりあかす"
+        },
+        {
+          "word": "語りあかす",
+          "reading": "かたりあかす"
+        }
+      ]
+    }
   ]
 }

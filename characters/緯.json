@@ -32,7 +32,7 @@
       "values": [
         "horizontal",
         "woof",
-        "left \u0026 right",
+        "left & right",
         "(parallels of) latitude",
         "prediction"
       ]
@@ -58,7 +58,7 @@
       "values": [
         "horizontal",
         "trama",
-        "esquerda \u0026 direita",
+        "esquerda & direita",
         "latitude"
       ]
     }
@@ -78,6 +78,105 @@
       "radical": "口",
       "startStroke": 9,
       "strokes": 3
+    }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "横糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "横糸",
+          "reading": "よこいと"
+        },
+        {
+          "word": "緯糸",
+          "reading": "よこいと"
+        },
+        {
+          "word": "緯",
+          "reading": "よこいと"
+        },
+        {
+          "word": "よこ糸",
+          "reading": "よこいと"
+        },
+        {
+          "word": "緯糸",
+          "reading": "ぬきいと"
+        },
+        {
+          "word": "緯",
+          "reading": "ぬき"
+        },
+        {
+          "word": "緯",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "slug": "緯度",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "緯度",
+          "reading": "いど"
+        }
+      ]
+    },
+    {
+      "slug": "緯線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯線",
+          "reading": "いせん"
+        }
+      ]
+    },
+    {
+      "slug": "緯距",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯距",
+          "reading": "いきょ"
+        }
+      ]
+    },
+    {
+      "slug": "緯度観測所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯度観測所",
+          "reading": "いどかんそくじょ"
+        }
+      ]
+    },
+    {
+      "slug": "緯度変化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯度変化",
+          "reading": "いどへんか"
+        }
+      ]
+    },
+    {
+      "slug": "緯書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緯書",
+          "reading": "いしょ"
+        }
+      ]
     }
   ]
 }

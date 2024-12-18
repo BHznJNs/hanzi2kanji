@@ -91,5 +91,238 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は屈託のない意思を持っている。",
+      "furigana": "[私|わたし]は[屈託|くっ|たく]のない[意思|い|し]を[持|も]っている。",
+      "translation_zh_CN": "我有一颗无忧无虑的心。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "託す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託す",
+          "reading": "たくす"
+        },
+        {
+          "word": "托す",
+          "reading": "たくす"
+        }
+      ]
+    },
+    {
+      "slug": "託児所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託児所",
+          "reading": "たくじしょ"
+        }
+      ]
+    },
+    {
+      "slug": "言付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "言付け",
+          "reading": "ことづけ"
+        },
+        {
+          "word": "託け",
+          "reading": "ことづけ"
+        }
+      ]
+    },
+    {
+      "slug": "託児施設",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託児施設",
+          "reading": "たくじしせつ"
+        }
+      ]
+    },
+    {
+      "slug": "言付ける",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "言付ける",
+          "reading": "ことづける"
+        },
+        {
+          "word": "託ける",
+          "reading": "ことづける"
+        }
+      ]
+    },
+    {
+      "slug": "託宣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託宣",
+          "reading": "たくせん"
+        }
+      ]
+    },
+    {
+      "slug": "託つける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託ける",
+          "reading": "かこつける"
+        },
+        {
+          "word": "託つける",
+          "reading": "かこつける"
+        }
+      ]
+    },
+    {
+      "slug": "托卵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "托卵",
+          "reading": "たくらん"
+        },
+        {
+          "word": "託卵",
+          "reading": "たくらん"
+        }
+      ]
+    },
+    {
+      "slug": "託つけ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託つけ",
+          "reading": "かこつけ"
+        },
+        {
+          "word": "託け",
+          "reading": "かこつけ"
+        }
+      ]
+    },
+    {
+      "slug": "託言",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託言",
+          "reading": "たくげん"
+        },
+        {
+          "word": "託言",
+          "reading": "かごと"
+        },
+        {
+          "word": "託言",
+          "reading": "かずけごと"
+        }
+      ]
+    },
+    {
+      "slug": "託児",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託児",
+          "reading": "たくじ"
+        }
+      ]
+    },
+    {
+      "slug": "託送",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託送",
+          "reading": "たくそう"
+        }
+      ]
+    },
+    {
+      "slug": "託児室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託児室",
+          "reading": "たくじしつ"
+        }
+      ]
+    },
+    {
+      "slug": "宅老所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "宅老所",
+          "reading": "たくろうしょ"
+        },
+        {
+          "word": "託老所",
+          "reading": "たくろうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "託つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託つ",
+          "reading": "かこつ"
+        },
+        {
+          "word": "喞つ",
+          "reading": "かこつ"
+        }
+      ]
+    },
+    {
+      "slug": "言付かる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "言付かる",
+          "reading": "ことづかる"
+        },
+        {
+          "word": "託かる",
+          "reading": "ことづかる"
+        },
+        {
+          "word": "託る",
+          "reading": "ことづかる"
+        }
+      ]
+    },
+    {
+      "slug": "託する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "託する",
+          "reading": "たくする"
+        },
+        {
+          "word": "托する",
+          "reading": "たくする"
+        }
+      ]
+    }
   ]
 }

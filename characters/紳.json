@@ -71,5 +71,146 @@
       "startStroke": 10,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼はいわゆる紳士である。",
+      "furigana": "[彼|かれ]はいわゆる[紳士|しん|し]である。",
+      "translation_zh_CN": "他就是我们所谓的绅士。"
+    },
+    {
+      "content": "「猫ですか？」老紳士は尋ねた。",
+      "furigana": "「[猫|ねこ]ですか？」[老|ろう][紳士|しん|し]は[尋|たず]ねた。",
+      "translation_zh_CN": "“一只猫？”老先生问。"
+    },
+    {
+      "content": "紳士ならそんなことはしません。",
+      "furigana": "[紳士|しん|し]ならそんなことはしません。",
+      "translation_zh_CN": "一个绅士是不会做这种事的。"
+    },
+    {
+      "content": "めがねをかけたあの紳士はどなたですか。",
+      "furigana": "めがねをかけたあの[紳士|しん|し]はどなたですか。",
+      "translation_zh_CN": "那位戴眼鏡的男士是誰？"
+    },
+    {
+      "content": "本当の紳士なら、友達を裏切ったりしないだろう。",
+      "furigana": "[本当|ほん|とう]の[紳士|しん|し]なら、[友達|とも|だち]を[裏切|うら|ぎ]ったりしないだろう。",
+      "translation_zh_CN": "一个真正的绅士不会出卖他的朋友。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "紳士",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "紳士",
+          "reading": "しんし"
+        }
+      ]
+    },
+    {
+      "slug": "紳士的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士的",
+          "reading": "しんしてき"
+        }
+      ]
+    },
+    {
+      "slug": "紳士服",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士服",
+          "reading": "しんしふく"
+        }
+      ]
+    },
+    {
+      "slug": "紳士靴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士靴",
+          "reading": "しんしぐつ"
+        }
+      ]
+    },
+    {
+      "slug": "紳士協定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士協定",
+          "reading": "しんしきょうてい"
+        }
+      ]
+    },
+    {
+      "slug": "紳士録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士録",
+          "reading": "しんしろく"
+        }
+      ]
+    },
+    {
+      "slug": "紳士淑女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士淑女",
+          "reading": "しんししゅくじょ"
+        }
+      ]
+    },
+    {
+      "slug": "紳士用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士用",
+          "reading": "しんしよう"
+        }
+      ]
+    },
+    {
+      "slug": "紳士用装身具商人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士用装身具商人",
+          "reading": "しんしようそうしんぐしょうにん"
+        }
+      ]
+    },
+    {
+      "slug": "紳商",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳商",
+          "reading": "しんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "紳士風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紳士風",
+          "reading": "しんしふう"
+        }
+      ]
+    }
   ]
 }

@@ -37,7 +37,7 @@
         "acquisition",
         "acheter",
         "souscrire",
-        "s\u0027abonner"
+        "s'abonner"
       ]
     },
     {
@@ -130,6 +130,256 @@
       "startStroke": 14,
       "strokes": 3,
       "variant": true
+    }
+  ],
+  "sentences": [
+    {
+      "content": "家を購入したい。",
+      "furigana": "[家|いえ]を[購入|こう|にゅう]したい。",
+      "translation_zh_CN": "我想买套房子。"
+    },
+    {
+      "content": "家を購入したいのですが。",
+      "furigana": "[家|いえ]を[購入|こう|にゅう]したいのですが。",
+      "translation_zh_CN": "我想买套房子。"
+    },
+    {
+      "content": "服を数着、購入しました。",
+      "furigana": "[服|ふく]を[数|すう][着|ちゃく]、[購入|こう|にゅう]しました。",
+      "translation_zh_CN": "我買衣服了。"
+    },
+    {
+      "content": "彼は自動車を購入することができません。",
+      "furigana": "[彼|かれ]は[自動車|じ|どう|しゃ]を[購入|こう|にゅう]することができません。",
+      "translation_zh_CN": "他不能买车。"
+    },
+    {
+      "content": "この薬は、処方箋なしでは購入できません。",
+      "furigana": "この[薬|くすり]は、[処方箋|しょ|ほう|せん]なしでは[購入|こう|にゅう]できません。",
+      "translation_zh_CN": "那个药的话没有处方是买不到的。"
+    },
+    {
+      "content": "こちらのお薬は処方箋なしではご購入いただけません。",
+      "furigana": "こちらのお[薬|くすり]は[処方箋|しょ|ほう|せん]なしではご[購入|こう|にゅう]いただけません。",
+      "translation_zh_CN": "那个药的话没有处方是买不到的。"
+    },
+    {
+      "content": "どちらを購入するかの決定が難しいことだとわかってきた。",
+      "furigana": "どちらを[購入|こう|にゅう]するかの[決定|けっ|てい]が[難|むずか]しいことだとわかってきた。",
+      "translation_zh_CN": "我们觉得很难决定买哪一个。"
+    },
+    {
+      "content": "多くの国では、大麻の購入もしくは喫煙は法律で禁じられている。",
+      "furigana": "[多|おお]くの[国|くに]では、[大麻|たい|ま]の[購入|こう|にゅう]もしくは[喫煙|きつ|えん]は[法律|ほう|りつ]で[禁|きん]じられている。",
+      "translation_zh_CN": "在很多国家，购买和吸食大麻是违法的。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "購入",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "購入",
+          "reading": "こうにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "購読",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "購読",
+          "reading": "こうどく"
+        }
+      ]
+    },
+    {
+      "slug": "購買",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "購買",
+          "reading": "こうばい"
+        }
+      ]
+    },
+    {
+      "slug": "購買力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購買力",
+          "reading": "こうばいりょく"
+        }
+      ]
+    },
+    {
+      "slug": "購買部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購買部",
+          "reading": "こうばいぶ"
+        }
+      ]
+    },
+    {
+      "slug": "購読者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購読者",
+          "reading": "こうどくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "購読料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購読料",
+          "reading": "こうどくりょう"
+        }
+      ]
+    },
+    {
+      "slug": "購買力平価説",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購買力平価説",
+          "reading": "こうばいりょくへいかせつ"
+        }
+      ]
+    },
+    {
+      "slug": "購入注文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購入注文",
+          "reading": "こうにゅうちゅうもん"
+        }
+      ]
+    },
+    {
+      "slug": "購入価格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購入価格",
+          "reading": "こうにゅうかかく"
+        }
+      ]
+    },
+    {
+      "slug": "購買力平価",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購買力平価",
+          "reading": "こうばいりょくへいか"
+        }
+      ]
+    },
+    {
+      "slug": "購入者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購入者",
+          "reading": "こうにゅうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "購入先",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購入先",
+          "reading": "こうにゅうさき"
+        }
+      ]
+    },
+    {
+      "slug": "購書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購書",
+          "reading": "こうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "贖う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "贖う",
+          "reading": "あがなう"
+        }
+      ]
+    },
+    {
+      "slug": "購求",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購求",
+          "reading": "こうきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "購入品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購入品",
+          "reading": "こうにゅうひん"
+        }
+      ]
+    },
+    {
+      "slug": "購買組合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購買組合",
+          "reading": "こうばいくみあい"
+        }
+      ]
+    },
+    {
+      "slug": "購買層",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購買層",
+          "reading": "こうばいそう"
+        }
+      ]
+    },
+    {
+      "slug": "購う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "購う",
+          "reading": "あがなう"
+        }
+      ]
     }
   ]
 }

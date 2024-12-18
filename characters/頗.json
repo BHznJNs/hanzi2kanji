@@ -58,5 +58,50 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "頗る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頗る",
+          "reading": "すこぶる"
+        },
+        {
+          "word": "頗る",
+          "reading": "そこぶる"
+        }
+      ]
+    },
+    {
+      "slug": "すこぶる付き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "すこぶる付き",
+          "reading": "すこぶるつき"
+        },
+        {
+          "word": "頗る付き",
+          "reading": "すこぶるつき"
+        }
+      ]
+    },
+    {
+      "slug": "玻璃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "玻璃",
+          "reading": "はり"
+        },
+        {
+          "word": "頗梨",
+          "reading": "はり"
+        }
+      ]
+    }
   ]
 }

@@ -83,5 +83,332 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "夢じゃなかった。",
+      "furigana": "[夢|ゆめ]じゃなかった。",
+      "translation_zh_CN": "这不是梦。"
+    },
+    {
+      "content": "夢は逆夢。",
+      "furigana": "[夢|ゆめ]は[逆夢|さか|ゆめ]。",
+      "translation_zh_CN": "这个梦是一个逆梦。"
+    },
+    {
+      "content": "よい夢を。",
+      "furigana": "よい[夢|ゆめ]を。",
+      "translation_zh_CN": "甜蜜的梦。"
+    },
+    {
+      "content": "夢をあきらめないで。",
+      "furigana": "[夢|ゆめ]をあきらめないで。",
+      "translation_zh_CN": "永不停止梦想。"
+    },
+    {
+      "content": "夢を持て。",
+      "furigana": "[夢|ゆめ]を[持|も]て。",
+      "translation_zh_CN": "做一个梦吧。"
+    },
+    {
+      "content": "夢をつかめ！",
+      "furigana": "[夢|ゆめ]をつかめ！",
+      "translation_zh_CN": "抓住你的梦想！"
+    },
+    {
+      "content": "万事は夢。",
+      "furigana": "[万事|ばん|じ]は[夢|ゆめ]。",
+      "translation_zh_CN": "一切都是梦。"
+    },
+    {
+      "content": "夢を見とけ。",
+      "furigana": "[夢|ゆめ]を[見|み]とけ。",
+      "translation_zh_CN": "梦想继续。"
+    },
+    {
+      "content": "夢は叶った。",
+      "furigana": "[夢|ゆめ]は[叶|かな]った。",
+      "translation_zh_CN": "梦想成真了。"
+    },
+    {
+      "content": "夢を抱きしめて。",
+      "furigana": "[夢|ゆめ]を[抱|だ]きしめて。",
+      "translation_zh_CN": "拥抱你的梦想。"
+    },
+    {
+      "content": "私には夢がある。",
+      "furigana": "[私|わたし]には[夢|ゆめ]がある。",
+      "translation_zh_CN": "我有一个梦想。"
+    },
+    {
+      "content": "悪夢に魘された。",
+      "furigana": "[悪夢|あく|む]に[魘|うな]された。",
+      "translation_zh_CN": "我做噩梦了。"
+    },
+    {
+      "content": "いい夢を見てね。",
+      "furigana": "いい[夢|ゆめ]を[見|み]てね。",
+      "translation_zh_CN": "祝你好梦。"
+    },
+    {
+      "content": "猫は夢を見ますか？",
+      "furigana": "[猫|ねこ]は[夢|ゆめ]を[見|み]ますか？",
+      "translation_zh_CN": "貓會做夢嗎？"
+    },
+    {
+      "content": "ただの夢だった。",
+      "furigana": "ただの[夢|ゆめ]だった。",
+      "translation_zh_CN": "只是一场梦罢了。"
+    },
+    {
+      "content": "夢は本当になった。",
+      "furigana": "[夢|ゆめ]は[本当|ほん|とう]になった。",
+      "translation_zh_CN": "我的夢想成真了。"
+    },
+    {
+      "content": "私は彼の夢を見た。",
+      "furigana": "[私|わたし]は[彼|かれ]の[夢|ゆめ]を[見|み]た。",
+      "translation_zh_CN": "我夢到了他。"
+    },
+    {
+      "content": "よく悪夢を見ます。",
+      "furigana": "よく[悪夢|あく|む]を[見|み]ます。",
+      "translation_zh_CN": "我经常做噩梦。"
+    },
+    {
+      "content": "あなたに夢中なの。",
+      "furigana": "あなたに[夢中|む|ちゅう]なの。",
+      "translation_zh_CN": "我为你着迷。"
+    },
+    {
+      "content": "夢を諦めきれない。",
+      "furigana": "[夢|ゆめ]を[諦|あきら]めきれない。",
+      "translation_zh_CN": "我不能放棄我的夢想。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "夢中",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "夢中",
+          "reading": "むちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "夢物語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢物語",
+          "reading": "ゆめものがたり"
+        }
+      ]
+    },
+    {
+      "slug": "夢想",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢想",
+          "reading": "むそう"
+        }
+      ]
+    },
+    {
+      "slug": "夢にも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢にも",
+          "reading": "ゆめにも"
+        }
+      ]
+    },
+    {
+      "slug": "夢見る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢見る",
+          "reading": "ゆめみる"
+        },
+        {
+          "word": "夢みる",
+          "reading": "ゆめみる"
+        }
+      ]
+    },
+    {
+      "slug": "夢精",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢精",
+          "reading": "むせい"
+        }
+      ]
+    },
+    {
+      "slug": "夢想家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢想家",
+          "reading": "むそうか"
+        }
+      ]
+    },
+    {
+      "slug": "夢現",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢現",
+          "reading": "ゆめうつつ"
+        },
+        {
+          "word": "夢うつつ",
+          "reading": "ゆめうつつ"
+        }
+      ]
+    },
+    {
+      "slug": "夢幻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢幻",
+          "reading": "むげん"
+        },
+        {
+          "word": "夢幻",
+          "reading": "ゆめまぼろし"
+        }
+      ]
+    },
+    {
+      "slug": "夢見",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢見",
+          "reading": "ゆめみ"
+        }
+      ]
+    },
+    {
+      "slug": "夢を見る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢を見る",
+          "reading": "ゆめをみる"
+        }
+      ]
+    },
+    {
+      "slug": "夢判断",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢判断",
+          "reading": "ゆめはんだん"
+        }
+      ]
+    },
+    {
+      "slug": "夢魔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢魔",
+          "reading": "むま"
+        }
+      ]
+    },
+    {
+      "slug": "夢見がち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢見がち",
+          "reading": "ゆめみがち"
+        },
+        {
+          "word": "夢見勝ち",
+          "reading": "ゆめみがち"
+        }
+      ]
+    },
+    {
+      "slug": "夢寐",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢寐",
+          "reading": "むび"
+        }
+      ]
+    },
+    {
+      "slug": "夢合わせ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢合わせ",
+          "reading": "ゆめあわせ"
+        }
+      ]
+    },
+    {
+      "slug": "努努",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "努努",
+          "reading": "ゆめゆめ"
+        },
+        {
+          "word": "夢夢",
+          "reading": "ゆめゆめ"
+        },
+        {
+          "word": "努々",
+          "reading": "ゆめゆめ"
+        },
+        {
+          "word": "夢々",
+          "reading": "ゆめゆめ"
+        }
+      ]
+    },
+    {
+      "slug": "夢巨頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢巨頭",
+          "reading": "ゆめごんどう"
+        },
+        {
+          "reading": "ユメゴンドウ"
+        }
+      ]
+    },
+    {
+      "slug": "夢占い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "夢占い",
+          "reading": "ゆめうらない"
+        }
+      ]
+    }
   ]
 }

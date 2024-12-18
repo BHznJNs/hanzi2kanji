@@ -68,5 +68,73 @@
       "strokes": 1,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "私がご馳走します。",
+      "furigana": "[私|わたし]がご[馳走|ち|そう]します。",
+      "translation_zh_CN": "我請你。"
+    },
+    {
+      "content": "私がご馳走するわ。",
+      "furigana": "[私|わたし]がご[馳走|ち|そう]するわ。",
+      "translation_zh_CN": "我來付賬。"
+    },
+    {
+      "content": "晩ご飯をご馳走するね。",
+      "furigana": "[晩|ばん]ご[飯|はん]をご[馳走|ち|そう]するね。",
+      "translation_zh_CN": "晚饭我请客。"
+    },
+    {
+      "content": "彼女は料理人にご馳走様でしたと言いました。",
+      "furigana": "[彼女|かの|じょ]は[料理|りょう|り][人|じん]にご[馳走様|ち|そう|さま]でしたと[言|い]いました。",
+      "translation_zh_CN": "她對廚師說: 謝謝您做的飯菜。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "馳せ参じる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馳せ参じる",
+          "reading": "はせさんじる"
+        },
+        {
+          "word": "はせ参じる",
+          "reading": "はせさんじる"
+        }
+      ]
+    },
+    {
+      "slug": "馳駆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馳駆",
+          "reading": "ちく"
+        }
+      ]
+    },
+    {
+      "slug": "馳せる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馳せる",
+          "reading": "はせる"
+        }
+      ]
+    },
+    {
+      "slug": "馳走",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "馳走",
+          "reading": "ちそう"
+        }
+      ]
+    }
   ]
 }

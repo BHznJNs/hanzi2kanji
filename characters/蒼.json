@@ -60,5 +60,276 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "君、顔面蒼白だよ。",
+      "furigana": "[君|きみ]、[顔面|がん|めん][蒼白|そう|はく]だよ。",
+      "translation_zh_CN": "你象纸一样白."
+    }
+  ],
+  "usages": [
+    {
+      "slug": "青い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "青い",
+          "reading": "あおい"
+        },
+        {
+          "word": "蒼い",
+          "reading": "あおい"
+        },
+        {
+          "word": "碧い",
+          "reading": "あおい"
+        }
+      ]
+    },
+    {
+      "slug": "青白い",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "青白い",
+          "reading": "あおじろい"
+        },
+        {
+          "word": "蒼白い",
+          "reading": "あおじろい"
+        }
+      ]
+    },
+    {
+      "slug": "青ざめる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "青ざめる",
+          "reading": "あおざめる"
+        },
+        {
+          "word": "蒼ざめる",
+          "reading": "あおざめる"
+        },
+        {
+          "word": "青褪める",
+          "reading": "あおざめる"
+        },
+        {
+          "word": "蒼褪める",
+          "reading": "あおざめる"
+        }
+      ]
+    },
+    {
+      "slug": "青々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "青々",
+          "reading": "あおあお"
+        },
+        {
+          "word": "青青",
+          "reading": "あおあお"
+        },
+        {
+          "word": "蒼々",
+          "reading": "あおあお"
+        },
+        {
+          "word": "蒼蒼",
+          "reading": "あおあお"
+        },
+        {
+          "word": "碧々",
+          "reading": "あおあお"
+        },
+        {
+          "word": "碧碧",
+          "reading": "あおあお"
+        }
+      ]
+    },
+    {
+      "slug": "滄海の一粟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "滄海の一粟",
+          "reading": "そうかいのいちぞく"
+        },
+        {
+          "word": "蒼海の一粟",
+          "reading": "そうかいのいちぞく"
+        }
+      ]
+    },
+    {
+      "slug": "蒼海",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "滄海",
+          "reading": "そうかい"
+        },
+        {
+          "word": "蒼海",
+          "reading": "そうかい"
+        }
+      ]
+    },
+    {
+      "slug": "蒼浪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼浪",
+          "reading": "そうろう"
+        },
+        {
+          "word": "滄浪",
+          "reading": "そうろう"
+        }
+      ]
+    },
+    {
+      "slug": "蒼氓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼氓",
+          "reading": "そうぼう"
+        }
+      ]
+    },
+    {
+      "slug": "蒼白",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼白",
+          "reading": "そうはく"
+        }
+      ]
+    },
+    {
+      "slug": "蒼波",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼波",
+          "reading": "そうは"
+        }
+      ]
+    },
+    {
+      "slug": "倉皇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倉皇",
+          "reading": "そうこう"
+        },
+        {
+          "word": "蒼惶",
+          "reading": "そうこう"
+        }
+      ]
+    },
+    {
+      "slug": "蒼然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼然",
+          "reading": "そうぜん"
+        }
+      ]
+    },
+    {
+      "slug": "蒼生",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼生",
+          "reading": "そうせい"
+        }
+      ]
+    },
+    {
+      "slug": "蒼惶として",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倉皇として",
+          "reading": "そうこうとして"
+        },
+        {
+          "word": "蒼惶として",
+          "reading": "そうこうとして"
+        }
+      ]
+    },
+    {
+      "slug": "蒼天",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼天",
+          "reading": "そうてん"
+        }
+      ]
+    },
+    {
+      "slug": "蒼穹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼穹",
+          "reading": "そうきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "蒼白色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼白色",
+          "reading": "そうはくしょく"
+        }
+      ]
+    },
+    {
+      "slug": "蒼梧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼梧",
+          "reading": "そうご"
+        }
+      ]
+    },
+    {
+      "slug": "蒼古",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蒼古",
+          "reading": "そうこ"
+        },
+        {
+          "word": "蒼枯",
+          "reading": "そうこ"
+        }
+      ]
+    }
   ]
 }

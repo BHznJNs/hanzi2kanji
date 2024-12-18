@@ -76,5 +76,164 @@
       "startStroke": 11,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "京都は神社や仏閣で有名だ。",
+      "furigana": "[京都|きょう|と]は[神社|じん|じゃ]や[仏閣|ぶっ|かく]で[有名|ゆう|めい]だ。",
+      "translation_zh_CN": "京都以它的祭坛和寺院而闻名。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "閣僚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣僚",
+          "reading": "かくりょう"
+        }
+      ]
+    },
+    {
+      "slug": "閣議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣議",
+          "reading": "かくぎ"
+        }
+      ]
+    },
+    {
+      "slug": "閣下",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣下",
+          "reading": "かっか"
+        }
+      ]
+    },
+    {
+      "slug": "閣内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣内",
+          "reading": "かくない"
+        }
+      ]
+    },
+    {
+      "slug": "閣外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣外",
+          "reading": "かくがい"
+        }
+      ]
+    },
+    {
+      "slug": "閣閣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣閣",
+          "reading": "かくかく"
+        }
+      ]
+    },
+    {
+      "slug": "閣僚会議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣僚会議",
+          "reading": "かくりょうかいぎ"
+        }
+      ]
+    },
+    {
+      "slug": "閣内相",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣内相",
+          "reading": "かくないしょう"
+        }
+      ]
+    },
+    {
+      "slug": "閣僚理事会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣僚理事会",
+          "reading": "かくりょうりじかい"
+        }
+      ]
+    },
+    {
+      "slug": "閣員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣員",
+          "reading": "かくいん"
+        }
+      ]
+    },
+    {
+      "slug": "閣外協力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣外協力",
+          "reading": "かくがいきょうりょく"
+        }
+      ]
+    },
+    {
+      "slug": "閣僚級",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣僚級",
+          "reading": "かくりょうきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "閣外相",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣外相",
+          "reading": "かくがいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "閣議決定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣議決定",
+          "reading": "かくぎけってい"
+        }
+      ]
+    },
+    {
+      "slug": "閣僚レベル",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "閣僚レベル",
+          "reading": "かくりょうレベル"
+        }
+      ]
+    }
   ]
 }

@@ -93,5 +93,102 @@
       "startStroke": 15,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "蚕は繭を作る。",
+      "furigana": "[蚕|かいこ]は[繭|まゆ]を[作|つく]る。",
+      "translation_zh_CN": "蚕结茧。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "絹糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹糸",
+          "reading": "きぬいと"
+        },
+        {
+          "word": "絹糸",
+          "reading": "けんし"
+        },
+        {
+          "word": "繭糸",
+          "reading": "きぬいと"
+        },
+        {
+          "word": "繭糸",
+          "reading": "けんし"
+        }
+      ]
+    },
+    {
+      "slug": "繭価",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繭価",
+          "reading": "まゆか"
+        },
+        {
+          "word": "繭価",
+          "reading": "けんか"
+        }
+      ]
+    },
+    {
+      "slug": "繭掻き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繭かき",
+          "reading": "まゆかき"
+        },
+        {
+          "word": "繭掻き",
+          "reading": "まゆかき"
+        }
+      ]
+    },
+    {
+      "slug": "繭玉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繭玉",
+          "reading": "まゆだま"
+        }
+      ]
+    },
+    {
+      "slug": "繭紬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹紬",
+          "reading": "けんちゅう"
+        },
+        {
+          "word": "繭紬",
+          "reading": "けんちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "繭をかける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繭をかける",
+          "reading": "まゆをかける"
+        },
+        {
+          "word": "繭を掛ける",
+          "reading": "まゆをかける"
+        }
+      ]
+    }
   ]
 }

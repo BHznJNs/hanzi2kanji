@@ -73,5 +73,22 @@
       "startStroke": 16,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鏑矢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鏑矢",
+          "reading": "かぶらや"
+        },
+        {
+          "word": "かぶら矢",
+          "reading": "かぶらや"
+        }
+      ]
+    }
   ]
 }

@@ -84,5 +84,236 @@
       "startStroke": 13,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "懇ろ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇ろ",
+          "reading": "ねんごろ"
+        },
+        {
+          "word": "懇ろ",
+          "reading": "ねもころ"
+        },
+        {
+          "word": "懇",
+          "reading": "ねんごろ"
+        },
+        {
+          "word": "懇",
+          "reading": "ねもころ"
+        }
+      ]
+    },
+    {
+      "slug": "懇願",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇願",
+          "reading": "こんがん"
+        }
+      ]
+    },
+    {
+      "slug": "懇意",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇意",
+          "reading": "こんい"
+        }
+      ]
+    },
+    {
+      "slug": "懇話",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇話",
+          "reading": "こんわ"
+        }
+      ]
+    },
+    {
+      "slug": "懇談",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇談",
+          "reading": "こんだん"
+        }
+      ]
+    },
+    {
+      "slug": "懇親",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇親",
+          "reading": "こんしん"
+        }
+      ]
+    },
+    {
+      "slug": "懇切",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇切",
+          "reading": "こんせつ"
+        }
+      ]
+    },
+    {
+      "slug": "懇請",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇請",
+          "reading": "こんせい"
+        }
+      ]
+    },
+    {
+      "slug": "懇話会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇話会",
+          "reading": "こんわかい"
+        }
+      ]
+    },
+    {
+      "slug": "懇談会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇談会",
+          "reading": "こんだんかい"
+        }
+      ]
+    },
+    {
+      "slug": "懇切丁寧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇切丁寧",
+          "reading": "こんせつていねい"
+        }
+      ]
+    },
+    {
+      "slug": "懇懇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇々",
+          "reading": "こんこん"
+        },
+        {
+          "word": "懇懇",
+          "reading": "こんこん"
+        },
+        {
+          "word": "悃々",
+          "reading": "こんこん"
+        },
+        {
+          "word": "悃悃",
+          "reading": "こんこん"
+        }
+      ]
+    },
+    {
+      "slug": "懇書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇書",
+          "reading": "こんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "懇情",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇情",
+          "reading": "こんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "懇到",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇到",
+          "reading": "こんとう"
+        }
+      ]
+    },
+    {
+      "slug": "懇篤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇篤",
+          "reading": "こんとく"
+        },
+        {
+          "word": "悃篤",
+          "reading": "こんとく"
+        }
+      ]
+    },
+    {
+      "slug": "懇命",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇命",
+          "reading": "こんめい"
+        }
+      ]
+    },
+    {
+      "slug": "懇親会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇親会",
+          "reading": "こんしんかい"
+        }
+      ]
+    },
+    {
+      "slug": "懇意になる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇意になる",
+          "reading": "こんいになる"
+        }
+      ]
+    },
+    {
+      "slug": "懇ろになる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "懇ろになる",
+          "reading": "ねんごろになる"
+        }
+      ]
+    }
   ]
 }

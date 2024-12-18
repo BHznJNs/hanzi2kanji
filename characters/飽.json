@@ -92,5 +92,321 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は読書に飽きた。",
+      "furigana": "[彼|かれ]は[読書|どく|しょ]に[飽|あ]きた。",
+      "translation_zh_CN": "他厌倦了读书。"
+    },
+    {
+      "content": "私は書くことに飽きた。",
+      "furigana": "[私|わたし]は[書|か]くことに[飽|あ]きた。",
+      "translation_zh_CN": "我写腻了。"
+    },
+    {
+      "content": "もうこの番組には飽きた。",
+      "furigana": "もうこの[番組|ばん|ぐみ]には[飽|あ]きた。",
+      "translation_zh_CN": "我已经受够了这个计划。"
+    },
+    {
+      "content": "彼は本を読むのに飽きた。",
+      "furigana": "[彼|かれ]は[本|ほん]を[読|よ]むのに[飽|あ]きた。",
+      "translation_zh_CN": "他厌倦了读书。"
+    },
+    {
+      "content": "ファストフードはもう飽きた。",
+      "furigana": "ファストフードはもう[飽|あ]きた。",
+      "translation_zh_CN": "我厌倦吃快餐了。"
+    },
+    {
+      "content": "刺身もこう毎日だと飽きるな。",
+      "furigana": "[刺身|さし|み]もこう[毎日|まい|にち]だと[飽|あ]きるな。",
+      "translation_zh_CN": "每天都这样地吃生鱼片真是太腻歪了。"
+    },
+    {
+      "content": "僕はテレビを見るのに飽きたよ。",
+      "furigana": "[僕|ぼく]はテレビを[見|み]るのに[飽|あ]きたよ。",
+      "translation_zh_CN": "我厌倦了看电视。"
+    },
+    {
+      "content": "よくも飽きずに毎日同じ事ができるね。",
+      "furigana": "よくも[飽|あ]きずに[毎日|まい|にち][同|おな]じ[事|じ]ができるね。",
+      "translation_zh_CN": "你每天都是做一模一樣的東西，難道不會覺得悶嗎？"
+    },
+    {
+      "content": "ファーストフードには飽き飽きしてるんだ。",
+      "furigana": "ファーストフードには[飽|あ]き[飽|あ]きしてるんだ。",
+      "translation_zh_CN": "我受够吃快餐了。"
+    },
+    {
+      "content": "僕はレストランの食事には飽き飽きしている。",
+      "furigana": "[僕|ぼく]はレストランの[食事|しょく|じ]には[飽|あ]き[飽|あ]きしている。",
+      "translation_zh_CN": "我受夠了在餐館吃飯。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "飽きる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "飽きる",
+          "reading": "あきる"
+        },
+        {
+          "word": "厭きる",
+          "reading": "あきる"
+        },
+        {
+          "word": "倦きる",
+          "reading": "あきる"
+        }
+      ]
+    },
+    {
+      "slug": "飽くまで",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "飽くまで",
+          "reading": "あくまで"
+        },
+        {
+          "word": "飽く迄",
+          "reading": "あくまで"
+        }
+      ]
+    },
+    {
+      "slug": "飽和",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "飽和",
+          "reading": "ほうわ"
+        }
+      ]
+    },
+    {
+      "slug": "飽き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽き",
+          "reading": "あき"
+        },
+        {
+          "word": "厭き",
+          "reading": "あき"
+        }
+      ]
+    },
+    {
+      "slug": "呆気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "呆気",
+          "reading": "あっけ"
+        },
+        {
+          "word": "あっ気",
+          "reading": "あっけ"
+        }
+      ]
+    },
+    {
+      "slug": "飽くまでも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽くまでも",
+          "reading": "あくまでも"
+        },
+        {
+          "word": "飽く迄も",
+          "reading": "あくまでも"
+        }
+      ]
+    },
+    {
+      "slug": "飽き飽き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽き飽き",
+          "reading": "あきあき"
+        },
+        {
+          "word": "厭き厭き",
+          "reading": "あきあき"
+        }
+      ]
+    },
+    {
+      "slug": "飽かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽かす",
+          "reading": "あかす"
+        },
+        {
+          "word": "厭かす",
+          "reading": "あかす"
+        }
+      ]
+    },
+    {
+      "slug": "飽きっぽい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽きっぽい",
+          "reading": "あきっぽい"
+        },
+        {
+          "word": "厭きっぽい",
+          "reading": "あきっぽい"
+        }
+      ]
+    },
+    {
+      "slug": "飽食",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽食",
+          "reading": "ほうしょく"
+        }
+      ]
+    },
+    {
+      "slug": "飽和脂肪酸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽和脂肪酸",
+          "reading": "ほうわしぼうさん"
+        }
+      ]
+    },
+    {
+      "slug": "飽く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽く",
+          "reading": "あく"
+        },
+        {
+          "word": "厭く",
+          "reading": "あく"
+        },
+        {
+          "word": "倦く",
+          "reading": "あく"
+        }
+      ]
+    },
+    {
+      "slug": "飽きもせず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽きもせず",
+          "reading": "あきもせず"
+        }
+      ]
+    },
+    {
+      "slug": "飽かぬ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽かぬ",
+          "reading": "あかぬ"
+        }
+      ]
+    },
+    {
+      "slug": "飽くことを知らない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽くことを知らない",
+          "reading": "あくことをしらない"
+        }
+      ]
+    },
+    {
+      "slug": "飽き易い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽きやすい",
+          "reading": "あきやすい"
+        },
+        {
+          "word": "飽き易い",
+          "reading": "あきやすい"
+        }
+      ]
+    },
+    {
+      "slug": "飽くなき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽くなき",
+          "reading": "あくなき"
+        }
+      ]
+    },
+    {
+      "slug": "飽和化合物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽和化合物",
+          "reading": "ほうわかごうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "飽かず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "飽かず",
+          "reading": "あかず"
+        },
+        {
+          "word": "厭かず",
+          "reading": "あかず"
+        }
+      ]
+    },
+    {
+      "slug": "厭き性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "厭き性",
+          "reading": "あきしょう"
+        },
+        {
+          "word": "飽き性",
+          "reading": "あきしょう"
+        }
+      ]
+    }
   ]
 }

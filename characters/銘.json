@@ -32,7 +32,7 @@
       "lang": "fr",
       "values": [
         "inscription (gravée)",
-        "signature (d\u0027un artisan)"
+        "signature (d'un artisan)"
       ]
     },
     {
@@ -70,6 +70,255 @@
       "radical": "口",
       "startStroke": 11,
       "strokes": 3
+    }
+  ],
+  "sentences": [
+    {
+      "content": "観客は深い感銘を受けた。",
+      "furigana": "[観客|かん|きゃく]は[深|ふか]い[感銘|かん|めい]を[受|う]けた。",
+      "translation_zh_CN": "观众深受感动。"
+    },
+    {
+      "content": "この教訓を肝に銘じておきなさいよ。",
+      "furigana": "この[教訓|きょう|くん]を[肝|きも]に[銘|めい]じておきなさいよ。",
+      "translation_zh_CN": "记好了这教训。"
+    },
+    {
+      "content": "彼の演説は私達にとても感銘を与えた。",
+      "furigana": "[彼|かれ]の[演説|えん|ぜつ]は[私|わたし][達|たち]にとても[感銘|かん|めい]を[与|あた]えた。",
+      "translation_zh_CN": "他的话深深触动了我们。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "名作",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "名作",
+          "reading": "めいさく"
+        }
+      ]
+    },
+    {
+      "slug": "銘々",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "銘々",
+          "reading": "めいめい"
+        },
+        {
+          "word": "銘銘",
+          "reading": "めいめい"
+        }
+      ]
+    },
+    {
+      "slug": "命名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "命名",
+          "reading": "めいめい"
+        },
+        {
+          "word": "銘名",
+          "reading": "めいめい"
+        }
+      ]
+    },
+    {
+      "slug": "銘柄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘柄",
+          "reading": "めいがら"
+        }
+      ]
+    },
+    {
+      "slug": "銘記",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘記",
+          "reading": "めいき"
+        }
+      ]
+    },
+    {
+      "slug": "名店",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名店",
+          "reading": "めいてん"
+        },
+        {
+          "word": "銘店",
+          "reading": "めいてん"
+        }
+      ]
+    },
+    {
+      "slug": "銘文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘文",
+          "reading": "めいぶん"
+        }
+      ]
+    },
+    {
+      "slug": "名木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名木",
+          "reading": "めいぼく"
+        },
+        {
+          "word": "銘木",
+          "reading": "めいぼく"
+        }
+      ]
+    },
+    {
+      "slug": "銘打つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘打つ",
+          "reading": "めいうつ"
+        }
+      ]
+    },
+    {
+      "slug": "銘板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘板",
+          "reading": "めいばん"
+        },
+        {
+          "word": "銘盤",
+          "reading": "めいばん"
+        }
+      ]
+    },
+    {
+      "slug": "銘々皿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘々皿",
+          "reading": "めいめいざら"
+        },
+        {
+          "word": "銘銘皿",
+          "reading": "めいめいざら"
+        }
+      ]
+    },
+    {
+      "slug": "銘ずる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘ずる",
+          "reading": "めいずる"
+        }
+      ]
+    },
+    {
+      "slug": "名店街",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "名店街",
+          "reading": "めいてんがい"
+        }
+      ]
+    },
+    {
+      "slug": "銘々盆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘々盆",
+          "reading": "めいめいぼん"
+        },
+        {
+          "word": "銘銘盆",
+          "reading": "めいめいぼん"
+        }
+      ]
+    },
+    {
+      "slug": "銘仙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘仙",
+          "reading": "めいせん"
+        }
+      ]
+    },
+    {
+      "slug": "銘旗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘旗",
+          "reading": "めいき"
+        }
+      ]
+    },
+    {
+      "slug": "銘銘膳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘々膳",
+          "reading": "めいめいぜん"
+        },
+        {
+          "word": "銘銘膳",
+          "reading": "めいめいぜん"
+        }
+      ]
+    },
+    {
+      "slug": "銘入り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘入り",
+          "reading": "めいいり"
+        },
+        {
+          "word": "銘入",
+          "reading": "めいいり"
+        }
+      ]
+    },
+    {
+      "slug": "銘じる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "銘じる",
+          "reading": "めいじる"
+        }
+      ]
     }
   ]
 }

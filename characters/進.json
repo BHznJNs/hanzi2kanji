@@ -75,5 +75,304 @@
       "startStroke": 8,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "進子は闘志満々です。",
+      "furigana": "[進子|すすむ|こ]は[闘志|とう|し][満々|まんまん]です。",
+      "translation_zh_CN": "真子充满了斗志。"
+    },
+    {
+      "content": "進子はとても親切です。",
+      "furigana": "[進子|すすむ|こ]はとても[親切|しん|せつ]です。",
+      "translation_zh_CN": "慎子非常善良。"
+    },
+    {
+      "content": "進子の弟は８歳です。",
+      "furigana": "[進子|すすむ|こ]の[弟|おとうと]は８[歳|さい]です。",
+      "translation_zh_CN": "Shinko 的弟弟今年 8 岁。"
+    },
+    {
+      "content": "進子はそのことで彼とやりあった。",
+      "furigana": "[進子|すすむ|こ]はそのことで[彼|かれ]とやりあった。",
+      "translation_zh_CN": "真子为此与他发生了争执。"
+    },
+    {
+      "content": "「今日は気が進まなかいら、明日やろっと」「昨日も、その前も同じこと言ってたじゃん」",
+      "furigana": "「[今日|きょう]は[気|き]が[進|すす]まなかいら、[明日|あした]やろっと」「[昨日|きのう]も、その[前|まえ]も[同|どう]じこと[言|い]ってたじゃん」",
+      "translation_zh_CN": "“如果你今天不喜欢，那就明天吧。”“你昨天和前天都说了同样的话。”"
+    },
+    {
+      "content": "彼女は昇進した。",
+      "furigana": "[彼女|かの|じょ]は[昇進|しょう|しん]した。",
+      "translation_zh_CN": "她晉升了。"
+    },
+    {
+      "content": "直進してください。",
+      "furigana": "[直進|ちょく|しん]してください。",
+      "translation_zh_CN": "直走。"
+    },
+    {
+      "content": "彼は大佐に昇進した。",
+      "furigana": "[彼|かれ]は[大佐|たい|さ]に[昇進|しょう|しん]した。",
+      "translation_zh_CN": "他晋升为大佐。"
+    },
+    {
+      "content": "彼はその部屋へ進んだ。",
+      "furigana": "[彼|かれ]はその[部屋|へ|や]へ[進|すす]んだ。",
+      "translation_zh_CN": "他走進了房間。"
+    },
+    {
+      "content": "彼はその部屋に進んだ。",
+      "furigana": "[彼|かれ]はその[部屋|へ|や]に[進|すす]んだ。",
+      "translation_zh_CN": "他走進了房間。"
+    },
+    {
+      "content": "その調査は進行中です。",
+      "furigana": "その[調査|ちょう|さ]は[進行|しん|こう][中|ちゅう]です。",
+      "translation_zh_CN": "調查正在進行中。"
+    },
+    {
+      "content": "彼らはゆっくり前進した。",
+      "furigana": "[彼|かれ]らはゆっくり[前進|ぜん|しん]した。",
+      "translation_zh_CN": "他們慢慢地向前進。"
+    },
+    {
+      "content": "前のほうに進んで下さい。",
+      "furigana": "[前|まえ]のほうに[進|すす]んで[下|くだ]さい。",
+      "translation_zh_CN": "請到前面來。"
+    },
+    {
+      "content": "インフレが進んでいます。",
+      "furigana": "インフレが[進|すす]んでいます。",
+      "translation_zh_CN": "价格高。"
+    },
+    {
+      "content": "警察は捜査を進めている。",
+      "furigana": "[警察|けい|さつ]は[捜査|そう|さ]を[進|すす]めている。",
+      "translation_zh_CN": "警方正在调查。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "進歩",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "進歩",
+          "reading": "しんぽ"
+        }
+      ]
+    },
+    {
+      "slug": "進む",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "進む",
+          "reading": "すすむ"
+        }
+      ]
+    },
+    {
+      "slug": "進化",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "進化",
+          "reading": "しんか"
+        }
+      ]
+    },
+    {
+      "slug": "進学",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "進学",
+          "reading": "しんがく"
+        }
+      ]
+    },
+    {
+      "slug": "進める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "進める",
+          "reading": "すすめる"
+        }
+      ]
+    },
+    {
+      "slug": "進行",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "進行",
+          "reading": "しんこう"
+        }
+      ]
+    },
+    {
+      "slug": "進展",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "進展",
+          "reading": "しんてん"
+        }
+      ]
+    },
+    {
+      "slug": "進路",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "進路",
+          "reading": "しんろ"
+        }
+      ]
+    },
+    {
+      "slug": "進出",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "進出",
+          "reading": "しんしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "進み",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "進み",
+          "reading": "すすみ"
+        }
+      ]
+    },
+    {
+      "slug": "進撃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進撃",
+          "reading": "しんげき"
+        }
+      ]
+    },
+    {
+      "slug": "進入",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進入",
+          "reading": "しんにゅう"
+        }
+      ]
+    },
+    {
+      "slug": "進歩的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進歩的",
+          "reading": "しんぽてき"
+        }
+      ]
+    },
+    {
+      "slug": "進化論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進化論",
+          "reading": "しんかろん"
+        }
+      ]
+    },
+    {
+      "slug": "進水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進水",
+          "reading": "しんすい"
+        }
+      ]
+    },
+    {
+      "slug": "進取",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進取",
+          "reading": "しんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "進み出る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進み出る",
+          "reading": "すすみでる"
+        }
+      ]
+    },
+    {
+      "slug": "進軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進軍",
+          "reading": "しんぐん"
+        }
+      ]
+    },
+    {
+      "slug": "進行状況",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進行状況",
+          "reading": "しんこうじょうきょう"
+        }
+      ]
+    },
+    {
+      "slug": "進行形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "進行形",
+          "reading": "しんこうけい"
+        }
+      ]
+    }
   ]
 }

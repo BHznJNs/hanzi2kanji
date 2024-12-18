@@ -92,5 +92,66 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "霊屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "霊屋",
+          "reading": "たまや"
+        },
+        {
+          "word": "魂屋",
+          "reading": "たまや"
+        },
+        {
+          "word": "廟",
+          "reading": "たまや"
+        }
+      ]
+    },
+    {
+      "slug": "廟号",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廟号",
+          "reading": "びょうごう"
+        }
+      ]
+    },
+    {
+      "slug": "廟堂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廟堂",
+          "reading": "びょうどう"
+        }
+      ]
+    },
+    {
+      "slug": "廟宇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廟宇",
+          "reading": "びょうう"
+        }
+      ]
+    },
+    {
+      "slug": "廟議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廟議",
+          "reading": "びょうぎ"
+        }
+      ]
+    }
   ]
 }

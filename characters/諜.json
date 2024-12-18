@@ -77,5 +77,94 @@
       "startStroke": 12,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "諜報",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諜報",
+          "reading": "ちょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "諜報員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諜報員",
+          "reading": "ちょうほういん"
+        }
+      ]
+    },
+    {
+      "slug": "諜者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諜者",
+          "reading": "ちょうじゃ"
+        },
+        {
+          "word": "諜者",
+          "reading": "ちょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "諜報機関",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諜報機関",
+          "reading": "ちょうほうきかん"
+        }
+      ]
+    },
+    {
+      "slug": "喋々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喋々",
+          "reading": "ちょうちょう"
+        },
+        {
+          "word": "喋喋",
+          "reading": "ちょうちょう"
+        },
+        {
+          "word": "諜々",
+          "reading": "ちょうちょう"
+        },
+        {
+          "word": "諜諜",
+          "reading": "ちょうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "諜報網",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諜報網",
+          "reading": "ちょうほうもう"
+        }
+      ]
+    },
+    {
+      "slug": "諜す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諜す",
+          "reading": "ちょうす"
+        }
+      ]
+    }
   ]
 }

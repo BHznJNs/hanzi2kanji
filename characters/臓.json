@@ -140,5 +140,109 @@
       "strokes": 1,
       "part": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "あの人心臓発作を起こすわよ。",
+      "furigana": "あの[人心臓発作|ひと|しん|ぞう|ほっ|さ]を[起|お]こすわよ。",
+      "translation_zh_CN": "那个人会心脏病发作。"
+    },
+    {
+      "content": "心臓がドキドキしてる！",
+      "furigana": "[心臓|しん|ぞう]がドキドキしてる！",
+      "translation_zh_CN": "我的心跳得那么快！"
+    },
+    {
+      "content": "心臓は胸の中にある。",
+      "furigana": "[心臓|しん|ぞう]は[胸|むね]の[中|なか]にある。",
+      "translation_zh_CN": "心臟在胸腔內。"
+    },
+    {
+      "content": "心臓が速く鼓動しているのを感じた。",
+      "furigana": "[心臓|しん|ぞう]が[速|はや]く[鼓動|こ|どう]しているのを[感|かん]じた。",
+      "translation_zh_CN": "我感觉我的心跳得很快。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "臓器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臓器",
+          "reading": "ぞうき"
+        }
+      ]
+    },
+    {
+      "slug": "臓物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臓物",
+          "reading": "ぞうもつ"
+        }
+      ]
+    },
+    {
+      "slug": "臓器移植",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臓器移植",
+          "reading": "ぞうきいしょく"
+        }
+      ]
+    },
+    {
+      "slug": "臓器売買",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臓器売買",
+          "reading": "ぞうきばいばい"
+        }
+      ]
+    },
+    {
+      "slug": "臓腑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臓腑",
+          "reading": "ぞうふ"
+        }
+      ]
+    },
+    {
+      "slug": "臓器提供",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臓器提供",
+          "reading": "ぞうきていきょう"
+        }
+      ]
+    },
+    {
+      "slug": "臓器提供者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臓器提供者",
+          "reading": "ぞうきていきょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "臓器クローニング",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臓器クローニング",
+          "reading": "ぞうきクローニング"
+        }
+      ]
+    }
   ]
 }

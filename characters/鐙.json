@@ -64,5 +64,64 @@
       "startStroke": 14,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鐙骨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "アブミ骨",
+          "reading": "あぶみこつ"
+        },
+        {
+          "word": "あぶみ骨",
+          "reading": "あぶみこつ"
+        },
+        {
+          "word": "鐙骨",
+          "reading": "あぶみこつ"
+        },
+        {
+          "word": "鐙骨",
+          "reading": "とうこつ"
+        }
+      ]
+    },
+    {
+      "slug": "鐙瓦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐙瓦",
+          "reading": "あぶみがわら"
+        }
+      ]
+    },
+    {
+      "slug": "鐙釣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐙釣",
+          "reading": "あぶみつり"
+        }
+      ]
+    },
+    {
+      "slug": "鐙革",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐙革",
+          "reading": "あぶみがわ"
+        },
+        {
+          "word": "あぶみ革",
+          "reading": "あぶみがわ"
+        }
+      ]
+    }
   ]
 }

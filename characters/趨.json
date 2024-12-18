@@ -122,5 +122,84 @@
       "startStroke": 16,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "走る",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "走る",
+          "reading": "はしる"
+        },
+        {
+          "word": "奔る",
+          "reading": "はしる"
+        },
+        {
+          "word": "疾る",
+          "reading": "はしる"
+        },
+        {
+          "word": "趨る",
+          "reading": "はしる"
+        }
+      ]
+    },
+    {
+      "slug": "赴く",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "赴く",
+          "reading": "おもむく"
+        },
+        {
+          "word": "赴く",
+          "reading": "おもぶく"
+        },
+        {
+          "word": "趣く",
+          "reading": "おもむく"
+        },
+        {
+          "word": "趣く",
+          "reading": "おもぶく"
+        },
+        {
+          "word": "趨く",
+          "reading": "おもむく"
+        },
+        {
+          "word": "趨く",
+          "reading": "おもぶく"
+        }
+      ]
+    },
+    {
+      "slug": "趨勢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "趨勢",
+          "reading": "すうせい"
+        }
+      ]
+    },
+    {
+      "slug": "趨向",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "趨向",
+          "reading": "すうこう"
+        }
+      ]
+    }
   ]
 }

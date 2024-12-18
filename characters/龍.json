@@ -58,5 +58,311 @@
       "startStroke": 5,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムは龍を殺した。",
+      "furigana": "トムは[龍|りゅう]を[殺|ころ]した。",
+      "translation_zh_CN": "汤姆杀死了龙。"
+    },
+    {
+      "content": "龍は空想の動物だ。",
+      "furigana": "[龍|りゅう]は[空想|くう|そう]の[動物|どう|ぶつ]だ。",
+      "translation_zh_CN": "龙是想象中的动物。"
+    },
+    {
+      "content": "龍は空想の動物だ。",
+      "furigana": "[龍|りゅう]は[空想|くう|そう]の[動物|どう|ぶつ]だ。",
+      "translation_zh_CN": "龍是人幻想出來的動物。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "竜巻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜巻",
+          "reading": "たつまき"
+        },
+        {
+          "word": "龍巻",
+          "reading": "たつまき"
+        }
+      ]
+    },
+    {
+      "slug": "竜王",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜王",
+          "reading": "りゅうおう"
+        },
+        {
+          "word": "龍王",
+          "reading": "りゅうおう"
+        }
+      ]
+    },
+    {
+      "slug": "竜宮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜宮",
+          "reading": "りゅうぐう"
+        },
+        {
+          "word": "龍宮",
+          "reading": "りゅうぐう"
+        }
+      ]
+    },
+    {
+      "slug": "龍谷大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "龍谷大学",
+          "reading": "りゅうこくだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "竜騎兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜騎兵",
+          "reading": "りゅうきへい"
+        },
+        {
+          "word": "龍騎兵",
+          "reading": "りゅうきへい"
+        }
+      ]
+    },
+    {
+      "slug": "竜舌蘭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜舌蘭",
+          "reading": "りゅうぜつらん"
+        },
+        {
+          "word": "龍舌蘭",
+          "reading": "りゅうぜつらん"
+        },
+        {
+          "reading": "リュウゼツラン"
+        }
+      ]
+    },
+    {
+      "slug": "竜笛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜笛",
+          "reading": "りゅうてき"
+        },
+        {
+          "word": "竜笛",
+          "reading": "りょうてき"
+        },
+        {
+          "word": "龍笛",
+          "reading": "りゅうてき"
+        },
+        {
+          "word": "龍笛",
+          "reading": "りょうてき"
+        }
+      ]
+    },
+    {
+      "slug": "竜の落し子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "タツノオトシゴ"
+        },
+        {
+          "word": "竜の落とし子",
+          "reading": "たつのおとしご"
+        },
+        {
+          "word": "龍の落とし子",
+          "reading": "たつのおとしご"
+        }
+      ]
+    },
+    {
+      "slug": "龍舞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "龍舞",
+          "reading": "りゅうまい"
+        }
+      ]
+    },
+    {
+      "slug": "竜駕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜駕",
+          "reading": "りょうが"
+        },
+        {
+          "word": "竜駕",
+          "reading": "りゅうが"
+        },
+        {
+          "word": "龍甕",
+          "reading": "りょうが"
+        },
+        {
+          "word": "龍甕",
+          "reading": "りゅうが"
+        }
+      ]
+    },
+    {
+      "slug": "竜眼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜眼",
+          "reading": "りゅうがん"
+        },
+        {
+          "word": "龍眼",
+          "reading": "りゅうがん"
+        },
+        {
+          "reading": "リュウガン"
+        }
+      ]
+    },
+    {
+      "slug": "竜涎香",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜涎香",
+          "reading": "りゅうぜんこう"
+        },
+        {
+          "word": "竜涎香",
+          "reading": "りゅうえんこう"
+        },
+        {
+          "word": "龍涎香",
+          "reading": "りゅうぜんこう"
+        },
+        {
+          "word": "龍涎香",
+          "reading": "りゅうえんこう"
+        }
+      ]
+    },
+    {
+      "slug": "竜宮城",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜宮城",
+          "reading": "りゅうぐうじょう"
+        },
+        {
+          "word": "龍宮城",
+          "reading": "りゅうぐうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "竜脳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜脳",
+          "reading": "りゅうのう"
+        },
+        {
+          "word": "龍脳",
+          "reading": "りゅうのう"
+        }
+      ]
+    },
+    {
+      "slug": "竜舟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜舟",
+          "reading": "りゅうしゅう"
+        },
+        {
+          "word": "龍舟",
+          "reading": "りゅうしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "竜脈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜脈",
+          "reading": "りゅうみゃく"
+        },
+        {
+          "word": "龍脈",
+          "reading": "りゅうみゃく"
+        }
+      ]
+    },
+    {
+      "slug": "竜神",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜神",
+          "reading": "りゅうじん"
+        },
+        {
+          "word": "龍神",
+          "reading": "りゅうじん"
+        }
+      ]
+    },
+    {
+      "slug": "竜の歯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜の歯",
+          "reading": "りゅうのは"
+        }
+      ]
+    },
+    {
+      "slug": "竜穴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "竜穴",
+          "reading": "りゅうけつ"
+        },
+        {
+          "word": "龍穴",
+          "reading": "りゅうけつ"
+        }
+      ]
+    }
   ]
 }

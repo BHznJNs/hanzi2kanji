@@ -92,5 +92,238 @@
       "startStroke": 14,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "頭痛い。",
+      "furigana": "[頭痛|あたま|いた]い。",
+      "translation_zh_CN": "我头疼。"
+    },
+    {
+      "content": "頭を使え。",
+      "furigana": "[頭|あたま]を[使|つか]え。",
+      "translation_zh_CN": "用你的头脑。"
+    },
+    {
+      "content": "頭が重い。",
+      "furigana": "[頭|あたま]が[重|おも]い。",
+      "translation_zh_CN": "我的头很重。"
+    },
+    {
+      "content": "頭が痛い。",
+      "furigana": "[頭|あたま]が[痛|いた]い。",
+      "translation_zh_CN": "我的头很痛。"
+    },
+    {
+      "content": "頭大丈夫か？",
+      "furigana": "[頭大丈夫|あたま|だい|じょう|ぶ]か？",
+      "translation_zh_CN": "你的头还好吗？"
+    },
+    {
+      "content": "頭を下げろ！",
+      "furigana": "[頭|あたま]を[下|さ]げろ！",
+      "translation_zh_CN": "低下头吧！"
+    },
+    {
+      "content": "頭を冷やせ。",
+      "furigana": "[頭|あたま]を[冷|ひ]やせ。",
+      "translation_zh_CN": "冷静点。"
+    },
+    {
+      "content": "頭を冷やせ！",
+      "furigana": "[頭|あたま]を[冷|ひ]やせ！",
+      "translation_zh_CN": "冷静点！"
+    },
+    {
+      "content": "頭が回らないよ。",
+      "furigana": "[頭|あたま]が[回|まわ]らないよ。",
+      "translation_zh_CN": "我无法理解它。"
+    },
+    {
+      "content": "頭悪くてごめん。",
+      "furigana": "[頭悪|あたま|わる]くてごめん。",
+      "translation_zh_CN": "抱歉自己太笨了。"
+    },
+    {
+      "content": "彼は頭が切れる。",
+      "furigana": "[彼|かれ]は[頭|あたま]が[切|き]れる。",
+      "translation_zh_CN": "他很聪明。"
+    },
+    {
+      "content": "頭が痛いんです。",
+      "furigana": "[頭|あたま]が[痛|いた]いんです。",
+      "translation_zh_CN": "我头痛。"
+    },
+    {
+      "content": "トムは頭が固い。",
+      "furigana": "トムは[頭|あたま]が[固|かた]い。",
+      "translation_zh_CN": "汤姆脑瓜不灵。"
+    },
+    {
+      "content": "トムは頭がいい。",
+      "furigana": "トムは[頭|あたま]がいい。",
+      "translation_zh_CN": "汤姆脑子好使。"
+    },
+    {
+      "content": "トムは頭が良い。",
+      "furigana": "トムは[頭|あたま]が[良|よ]い。",
+      "translation_zh_CN": "汤姆脑子好使。"
+    },
+    {
+      "content": "頭に気をつけて。",
+      "furigana": "[頭|あたま]に[気|き]をつけて。",
+      "translation_zh_CN": "小心踫頭。"
+    },
+    {
+      "content": "頭よくなりたい。",
+      "furigana": "[頭|あたま]よくなりたい。",
+      "translation_zh_CN": "想头脑变得聪明一些。"
+    },
+    {
+      "content": "頭がいいですね。",
+      "furigana": "[頭|あたま]がいいですね。",
+      "translation_zh_CN": "你很聰明。"
+    },
+    {
+      "content": "父は少し頭が古い。",
+      "furigana": "[父|ちち]は[少|すこ]し[頭|あたま]が[古|ふる]い。",
+      "translation_zh_CN": "我爸爸有点守旧。"
+    },
+    {
+      "content": "彼女は頭を上げた。",
+      "furigana": "[彼女|かの|じょ]は[頭|あたま]を[上|あ]げた。",
+      "translation_zh_CN": "她抬起了头。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "ど頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ド頭",
+          "reading": "どたま"
+        },
+        {
+          "word": "ど頭",
+          "reading": "どたま"
+        },
+        {
+          "word": "頭",
+          "reading": "どたま"
+        },
+        {
+          "reading": "ドタマ"
+        }
+      ]
+    },
+    {
+      "slug": "頭痛",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "頭痛",
+          "reading": "ずつう"
+        }
+      ]
+    },
+    {
+      "slug": "頭脳",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "頭脳",
+          "reading": "ずのう"
+        }
+      ]
+    },
+    {
+      "slug": "頭巾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭巾",
+          "reading": "ずきん"
+        }
+      ]
+    },
+    {
+      "slug": "頭上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭上",
+          "reading": "ずじょう"
+        }
+      ]
+    },
+    {
+      "slug": "頭文字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭文字",
+          "reading": "かしらもじ"
+        }
+      ]
+    },
+    {
+      "slug": "頭髪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭髪",
+          "reading": "とうはつ"
+        }
+      ]
+    },
+    {
+      "slug": "頭部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭部",
+          "reading": "とうぶ"
+        }
+      ]
+    },
+    {
+      "slug": "頭取",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭取",
+          "reading": "とうどり"
+        }
+      ]
+    },
+    {
+      "slug": "頭打ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭打ち",
+          "reading": "あたまうち"
+        },
+        {
+          "word": "頭打ち",
+          "reading": "ずうち"
+        }
+      ]
+    },
+    {
+      "slug": "頭金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頭金",
+          "reading": "あたまきん"
+        }
+      ]
+    }
   ]
 }

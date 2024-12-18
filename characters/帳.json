@@ -69,5 +69,270 @@
       "startStroke": 3,
       "strokes": 8
     }
+  ],
+  "sentences": [
+    {
+      "content": "電話帳をみて。",
+      "furigana": "[電話帳|でん|わ|ちょう]をみて。",
+      "translation_zh_CN": "看看电话簿。"
+    },
+    {
+      "content": "新しい電話帳が届きました。",
+      "furigana": "[新|あたら]しい[電話帳|でん|わ|ちょう]が[届|とど]きました。",
+      "translation_zh_CN": "新的电话簿已到。"
+    },
+    {
+      "content": "電話帳はどこ？",
+      "furigana": "[電話帳|でん|わ|ちょう]はどこ？",
+      "translation_zh_CN": "电话簿在哪里？"
+    },
+    {
+      "content": "アドレス帳を部屋に忘れちゃった。",
+      "furigana": "アドレス[帳|ちょう]を[部屋|へ|や]に[忘|わす]れちゃった。",
+      "translation_zh_CN": "我把地址簿忘在房间里了。"
+    },
+    {
+      "content": "これは私の出納帳です。",
+      "furigana": "これは[私|わたし]の[出納帳|すい|とう|ちょう]です。",
+      "translation_zh_CN": "这是我的账本。"
+    },
+    {
+      "content": "電話帳で番号をしらべよ。",
+      "furigana": "[電話帳|でん|わ|ちょう]で[番号|ばん|ごう]をしらべよ。",
+      "translation_zh_CN": "在电话簿中查找号码。"
+    },
+    {
+      "content": "電話帳をみせてもらえますか。",
+      "furigana": "[電話帳|でん|わ|ちょう]をみせてもらえますか。",
+      "translation_zh_CN": "我可以看一下电话簿吗？"
+    },
+    {
+      "content": "電話帳で調べたらどうですか。",
+      "furigana": "[電話帳|でん|わ|ちょう]で[調|しら]べたらどうですか。",
+      "translation_zh_CN": "在电话簿里查一下怎么样？"
+    },
+    {
+      "content": "知らないよ。電話帳で調べてみたら？",
+      "furigana": "[知|し]らないよ。[電話帳|でん|わ|ちょう]で[調|しら]べてみたら？",
+      "translation_zh_CN": "我不知道。为什么不在电话簿里查一下呢？"
+    },
+    {
+      "content": "この電話帳を使ってください。",
+      "furigana": "この[電話帳|でん|わ|ちょう]を[使|つか]ってください。",
+      "translation_zh_CN": "请使用本电话簿。"
+    },
+    {
+      "content": "彼は几帳面な男だな。",
+      "furigana": "[彼|かれ]は[几帳面|き|ちょう|めん]な[男|おとこ]だな。",
+      "translation_zh_CN": "他很有条理。"
+    },
+    {
+      "content": "デイモンは私に切手帳を見せてくれた。",
+      "furigana": "デイモンは[私|わたし]に[切手|きっ|て][帳|ちょう]を[見|み]せてくれた。",
+      "translation_zh_CN": "戴蒙給我看了他的郵票冊。"
+    },
+    {
+      "content": "メモ魔の私は手帳を持っていないと不安になる。",
+      "furigana": "メモ[魔|ま]の[私|わたし]は[手帳|て|ちょう]を[持|も]っていないと[不安|ふ|あん]になる。",
+      "translation_zh_CN": "我無論是甚麼東西也要記進筆記本裏；沒有了筆記本，我就會渾身不自在。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "帳簿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳簿",
+          "reading": "ちょうぼ"
+        }
+      ]
+    },
+    {
+      "slug": "帳消し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳消し",
+          "reading": "ちょうけし"
+        }
+      ]
+    },
+    {
+      "slug": "張本人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "張本人",
+          "reading": "ちょうほんにん"
+        }
+      ]
+    },
+    {
+      "slug": "帳尻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳尻",
+          "reading": "ちょうじり"
+        }
+      ]
+    },
+    {
+      "slug": "帳面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳面",
+          "reading": "ちょうめん"
+        }
+      ]
+    },
+    {
+      "slug": "帳票",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳票",
+          "reading": "ちょうひょう"
+        }
+      ]
+    },
+    {
+      "slug": "帳付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳付け",
+          "reading": "ちょうつけ"
+        },
+        {
+          "word": "帳付け",
+          "reading": "ちょうづけ"
+        }
+      ]
+    },
+    {
+      "slug": "帳場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳場",
+          "reading": "ちょうば"
+        }
+      ]
+    },
+    {
+      "slug": "帳簿価格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳簿価格",
+          "reading": "ちょうぼかかく"
+        }
+      ]
+    },
+    {
+      "slug": "帳表",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳表",
+          "reading": "ちょうひょう"
+        }
+      ]
+    },
+    {
+      "slug": "帳台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳台",
+          "reading": "ちょうだい"
+        },
+        {
+          "word": "帳代",
+          "reading": "ちょうだい"
+        }
+      ]
+    },
+    {
+      "slug": "帳場格子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳場格子",
+          "reading": "ちょうばごうし"
+        }
+      ]
+    },
+    {
+      "slug": "帳合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳合",
+          "reading": "ちょうあい"
+        }
+      ]
+    },
+    {
+      "slug": "帳元",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳元",
+          "reading": "ちょうもと"
+        }
+      ]
+    },
+    {
+      "slug": "帳面面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳面面",
+          "reading": "ちょうめんづら"
+        },
+        {
+          "word": "帳面づら",
+          "reading": "ちょうめんづら"
+        }
+      ]
+    },
+    {
+      "slug": "帳場の者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳場の者",
+          "reading": "ちょうばのもの"
+        }
+      ]
+    },
+    {
+      "slug": "帳台構え",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳台構え",
+          "reading": "ちょうだいがまえ"
+        },
+        {
+          "word": "帳台構",
+          "reading": "ちょうだいがまえ"
+        }
+      ]
+    },
+    {
+      "slug": "帳幕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "帳幕",
+          "reading": "ちょうばく"
+        }
+      ]
+    }
   ]
 }

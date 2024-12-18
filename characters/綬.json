@@ -57,5 +57,42 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "綬章",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綬章",
+          "reading": "じゅしょう"
+        }
+      ]
+    },
+    {
+      "slug": "綬を結ぶ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綬を結ぶ",
+          "reading": "じゅをむすぶ"
+        }
+      ]
+    },
+    {
+      "slug": "綬を釈く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綬を釈く",
+          "reading": "じゅをとく"
+        },
+        {
+          "word": "綬を解く",
+          "reading": "じゅをとく"
+        }
+      ]
+    }
   ]
 }

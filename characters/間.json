@@ -66,5 +66,336 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "もう少しの間頑張れるかい？",
+      "furigana": "もう[少|すこ]しの[間頑張|あいだ|がん|ば]れるかい？",
+      "translation_zh_CN": "你能再坚持一会儿吗？"
+    },
+    {
+      "content": "私は長い間待たされた。",
+      "furigana": "[私|わたし]は[長|なが]い[間待|あいだ|ま]たされた。",
+      "translation_zh_CN": "我不得不等待很长时间。"
+    },
+    {
+      "content": "嵐の間ずっと寝ていた。",
+      "furigana": "[嵐|あらし]の[間|かん]ずっと[寝|ね]ていた。",
+      "translation_zh_CN": "整个暴风雨我都在睡觉。"
+    },
+    {
+      "content": "一瞬の間が生まれた。",
+      "furigana": "[一瞬|いっ|しゅん]の[間|ま]が[生|う]まれた。",
+      "translation_zh_CN": "短暂的停顿诞生了。"
+    },
+    {
+      "content": "彼は長い間待っていた。",
+      "furigana": "[彼|かれ]は[長|なが]い[間待|あいだ|ま]っていた。",
+      "translation_zh_CN": "他已经等了很久了。"
+    },
+    {
+      "content": "長い間笑ってない。",
+      "furigana": "[長|なが]い[間笑|あいだ|わら]ってない。",
+      "translation_zh_CN": "我已经很久没有笑过了。"
+    },
+    {
+      "content": "靴は新しい間は硬い。",
+      "furigana": "[靴|くつ]は[新|あたら]しい[間|ま]は[硬|かた]い。",
+      "translation_zh_CN": "新鞋子很硬。"
+    },
+    {
+      "content": "しかし男の子は長い間来ませんでした。",
+      "furigana": "しかし[男|おとこ]の[子|こ]は[長|なが]い[間来|ま|き]ませんでした。",
+      "translation_zh_CN": "但男孩很久都没有来。"
+    },
+    {
+      "content": "眠っている間に財布を盗まれた。",
+      "furigana": "[眠|ねむ]っている[間|あいだ]に[財布|さい|ふ]を[盗|ぬす]まれた。",
+      "translation_zh_CN": "我的钱包在我睡觉时被偷了。"
+    },
+    {
+      "content": "雪は瞬く間に消えてしまった。",
+      "furigana": "[雪|ゆき]は[瞬|またた]く[間|ま]に[消|き]えてしまった。",
+      "translation_zh_CN": "雪瞬间就消失了。"
+    },
+    {
+      "content": "嵐の間停電した。",
+      "furigana": "[嵐|あらし]の[間|ま][停電|てい|でん]した。",
+      "translation_zh_CN": "暴风雨中，停电了。"
+    },
+    {
+      "content": "人間は必ず死ぬ。",
+      "furigana": "[人間|にん|げん]は[必|かなら]ず[死|し]ぬ。",
+      "translation_zh_CN": "人必定要死的。"
+    },
+    {
+      "content": "寝る時間ですよ。",
+      "furigana": "[寝|ね]る[時間|じ|かん]ですよ。",
+      "translation_zh_CN": "睡觉时间到了。"
+    },
+    {
+      "content": "出発する時間だ。",
+      "furigana": "[出発|しゅっ|ぱつ]する[時間|じ|かん]だ。",
+      "translation_zh_CN": "是时候离开了。"
+    },
+    {
+      "content": "出かける時間よ。",
+      "furigana": "[出|で]かける[時間|じ|かん]よ。",
+      "translation_zh_CN": "該走了。"
+    },
+    {
+      "content": "私は時間がない。",
+      "furigana": "[私|わたし]は[時間|じ|かん]がない。",
+      "translation_zh_CN": "我没时间。"
+    },
+    {
+      "content": "もう時間はない。",
+      "furigana": "もう[時間|じ|かん]はない。",
+      "translation_zh_CN": "我们没时间。"
+    },
+    {
+      "content": "まだ時間がある。",
+      "furigana": "まだ[時間|じ|かん]がある。",
+      "translation_zh_CN": "我們仍然有更多的時間。"
+    },
+    {
+      "content": "そろそろ時間だ。",
+      "furigana": "そろそろ[時間|じ|かん]だ。",
+      "translation_zh_CN": "时间到了。"
+    },
+    {
+      "content": "これらは人間だ。",
+      "furigana": "これらは[人間|にん|げん]だ。",
+      "translation_zh_CN": "這些是人。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "狭間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "狭間",
+          "reading": "はざま"
+        },
+        {
+          "word": "狭間",
+          "reading": "はさま"
+        },
+        {
+          "word": "迫間",
+          "reading": "はざま"
+        },
+        {
+          "word": "迫間",
+          "reading": "はさま"
+        },
+        {
+          "word": "間",
+          "reading": "はざま"
+        },
+        {
+          "word": "間",
+          "reading": "はさま"
+        }
+      ]
+    },
+    {
+      "slug": "間に合う",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "間に合う",
+          "reading": "まにあう"
+        },
+        {
+          "word": "間にあう",
+          "reading": "まにあう"
+        }
+      ]
+    },
+    {
+      "slug": "間違える",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "間違える",
+          "reading": "まちがえる"
+        }
+      ]
+    },
+    {
+      "slug": "間違い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "間違い",
+          "reading": "まちがい"
+        }
+      ]
+    },
+    {
+      "slug": "間もなく",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "間もなく",
+          "reading": "まもなく"
+        },
+        {
+          "word": "間も無く",
+          "reading": "まもなく"
+        }
+      ]
+    },
+    {
+      "slug": "間隔",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "間隔",
+          "reading": "かんかく"
+        }
+      ]
+    },
+    {
+      "slug": "間違う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "間違う",
+          "reading": "まちがう"
+        }
+      ]
+    },
+    {
+      "slug": "間柄",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "間柄",
+          "reading": "あいだがら"
+        },
+        {
+          "word": "間がら",
+          "reading": "あいだがら"
+        }
+      ]
+    },
+    {
+      "slug": "間取り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間取り",
+          "reading": "まどり"
+        },
+        {
+          "word": "間取",
+          "reading": "まどり"
+        }
+      ]
+    },
+    {
+      "slug": "間違いない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間違いない",
+          "reading": "まちがいない"
+        },
+        {
+          "word": "間違い無い",
+          "reading": "まちがいない"
+        }
+      ]
+    },
+    {
+      "slug": "間に合わせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間に合わせる",
+          "reading": "まにあわせる"
+        },
+        {
+          "word": "間に合せる",
+          "reading": "まにあわせる"
+        }
+      ]
+    },
+    {
+      "slug": "間近",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間近",
+          "reading": "まぢか"
+        },
+        {
+          "word": "真近",
+          "reading": "まぢか"
+        }
+      ]
+    },
+    {
+      "slug": "間際",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間際",
+          "reading": "まぎわ"
+        },
+        {
+          "word": "真際",
+          "reading": "まぎわ"
+        }
+      ]
+    },
+    {
+      "slug": "間接的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間接的",
+          "reading": "かんせつてき"
+        }
+      ]
+    },
+    {
+      "slug": "間接税",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間接税",
+          "reading": "かんせつぜい"
+        }
+      ]
+    },
+    {
+      "slug": "間口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "間口",
+          "reading": "まぐち"
+        }
+      ]
+    }
   ]
 }

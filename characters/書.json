@@ -71,5 +71,364 @@
       "startStroke": 6,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "勘定書を頼むよ。",
+      "furigana": "[勘定書|かん|じょう|しょ]を[頼|たの]むよ。",
+      "translation_zh_CN": "我去要帐单。"
+    },
+    {
+      "content": "勘定書をお願いします。",
+      "furigana": "[勘定書|かん|じょう|しょ]をお[願|ねが]いします。",
+      "translation_zh_CN": "我想要账单。"
+    },
+    {
+      "content": "領収書をお願いします。",
+      "furigana": "[領収書|りょう|しゅう|しょ]をお[願|ねが]いします。",
+      "translation_zh_CN": "我想要一张收据。"
+    },
+    {
+      "content": "鑑定書を送ってください。",
+      "furigana": "[鑑定書|かん|てい|しょ]を[送|おく]ってください。",
+      "translation_zh_CN": "请把证书发给我。"
+    },
+    {
+      "content": "壁の注意書を見なさい。",
+      "furigana": "[壁|かべ]の[注意書|ちゅう|い|しょ]を[見|み]なさい。",
+      "translation_zh_CN": "看看墙上的告示。"
+    },
+    {
+      "content": "その報告書を一気に書き上げた。",
+      "furigana": "その[報告書|ほう|こく|しょ]を[一気|いっ|き]に[書|か]き[上|あ]げた。",
+      "translation_zh_CN": "我一口气写完了报告。"
+    },
+    {
+      "content": "私は招待書を受け取りました。",
+      "furigana": "[私|わたし]は[招待書|しょう|たい|しょ]を[受|う]け[取|と]りました。",
+      "translation_zh_CN": "我收到了一份邀请。"
+    },
+    {
+      "content": "領収書は必要ないです。",
+      "furigana": "[領収書|りょう|しゅう|しょ]は[必要|ひつ|よう]ないです。",
+      "translation_zh_CN": "我不需要收据。"
+    },
+    {
+      "content": "勘定書を持ってきてくれ。",
+      "furigana": "[勘定書|かん|じょう|しょ]を[持|も]ってきてくれ。",
+      "translation_zh_CN": "请把账单拿给我。"
+    },
+    {
+      "content": "必ず領収書をもらいなさい。",
+      "furigana": "[必|かなら]ず[領収書|りょう|しゅう|しょ]をもらいなさい。",
+      "translation_zh_CN": "一定要拿到收据。"
+    },
+    {
+      "content": "勘定書を頼むよ。",
+      "furigana": "[勘定|かん|じょう][書|しょ]を[頼|たの]むよ。",
+      "translation_zh_CN": "請結帳。"
+    },
+    {
+      "content": "明日図書館でね。",
+      "furigana": "[明日|あした][図書館|と|しょ|かん]でね。",
+      "translation_zh_CN": "明天图书馆见。"
+    },
+    {
+      "content": "彼は書斎にいる。",
+      "furigana": "[彼|かれ]は[書斎|しょ|さい]にいる。",
+      "translation_zh_CN": "他在图书馆里。"
+    },
+    {
+      "content": "読書が好きです。",
+      "furigana": "[読書|どく|しょ]が[好|す]きです。",
+      "translation_zh_CN": "我很喜欢看书。"
+    },
+    {
+      "content": "それは辞書だよ。",
+      "furigana": "それは[辞書|じ|しょ]だよ。",
+      "translation_zh_CN": "那是一本詞典。"
+    },
+    {
+      "content": "書くものをくれ。",
+      "furigana": "[書|か]くものをくれ。",
+      "translation_zh_CN": "給我一些我可以在上面寫字的東西。"
+    },
+    {
+      "content": "趣味は読書です。",
+      "furigana": "[趣味|しゅ|み]は[読書|どく|しょ]です。",
+      "translation_zh_CN": "我的爱好是阅读。"
+    },
+    {
+      "content": "何か書きなさい。",
+      "furigana": "[何|なに]か[書|か]きなさい。",
+      "translation_zh_CN": "寫點什麼。"
+    },
+    {
+      "content": "名前はどう書くの？",
+      "furigana": "[名前|な|まえ]はどう[書|か]くの？",
+      "translation_zh_CN": "你怎麼拼你的名字的？"
+    },
+    {
+      "content": "読書は好きですか？",
+      "furigana": "[読書|どく|しょ]は[好|す]きですか？",
+      "translation_zh_CN": "你喜欢阅读吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "書斎",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "書斎",
+          "reading": "しょさい"
+        }
+      ]
+    },
+    {
+      "slug": "書く",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "書く",
+          "reading": "かく"
+        }
+      ]
+    },
+    {
+      "slug": "書店",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "書店",
+          "reading": "しょてん"
+        }
+      ]
+    },
+    {
+      "slug": "書評",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "書評",
+          "reading": "しょひょう"
+        }
+      ]
+    },
+    {
+      "slug": "書類",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "書類",
+          "reading": "しょるい"
+        }
+      ]
+    },
+    {
+      "slug": "書物",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "書物",
+          "reading": "しょもつ"
+        }
+      ]
+    },
+    {
+      "slug": "書留",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "書留",
+          "reading": "かきとめ"
+        },
+        {
+          "word": "書き留め",
+          "reading": "かきとめ"
+        },
+        {
+          "word": "書留め",
+          "reading": "かきとめ"
+        }
+      ]
+    },
+    {
+      "slug": "書籍",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "書籍",
+          "reading": "しょせき"
+        },
+        {
+          "word": "書籍",
+          "reading": "しょじゃく"
+        }
+      ]
+    },
+    {
+      "slug": "書道",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "書道",
+          "reading": "しょどう"
+        }
+      ]
+    },
+    {
+      "slug": "書き取り",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "書き取り",
+          "reading": "かきとり"
+        },
+        {
+          "word": "書取",
+          "reading": "かきとり"
+        }
+      ]
+    },
+    {
+      "slug": "書き取る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "書き取る",
+          "reading": "かきとる"
+        },
+        {
+          "word": "書取る",
+          "reading": "かきとる"
+        }
+      ]
+    },
+    {
+      "slug": "書記",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書記",
+          "reading": "しょき"
+        }
+      ]
+    },
+    {
+      "slug": "書き込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き込む",
+          "reading": "かきこむ"
+        },
+        {
+          "word": "書きこむ",
+          "reading": "かきこむ"
+        }
+      ]
+    },
+    {
+      "slug": "書き方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き方",
+          "reading": "かきかた"
+        },
+        {
+          "word": "書きかた",
+          "reading": "かきかた"
+        }
+      ]
+    },
+    {
+      "slug": "書き上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き上げる",
+          "reading": "かきあげる"
+        },
+        {
+          "word": "描き上げる",
+          "reading": "かきあげる"
+        },
+        {
+          "word": "書きあげる",
+          "reading": "かきあげる"
+        }
+      ]
+    },
+    {
+      "slug": "書き換える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き換える",
+          "reading": "かきかえる"
+        },
+        {
+          "word": "書換える",
+          "reading": "かきかえる"
+        },
+        {
+          "word": "書き替える",
+          "reading": "かきかえる"
+        },
+        {
+          "word": "書きかえる",
+          "reading": "かきかえる"
+        }
+      ]
+    },
+    {
+      "slug": "書き込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書き込み",
+          "reading": "かきこみ"
+        },
+        {
+          "word": "書込み",
+          "reading": "かきこみ"
+        }
+      ]
+    },
+    {
+      "slug": "書面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "書面",
+          "reading": "しょめん"
+        }
+      ]
+    }
   ]
 }

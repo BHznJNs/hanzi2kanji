@@ -50,5 +50,265 @@
       "startStroke": 6,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "喧しい",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "喧しい",
+          "reading": "やかましい"
+        }
+      ]
+    },
+    {
+      "slug": "姦通",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦通",
+          "reading": "かんつう"
+        }
+      ]
+    },
+    {
+      "slug": "奸計",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奸計",
+          "reading": "かんけい"
+        },
+        {
+          "word": "姦計",
+          "reading": "かんけい"
+        }
+      ]
+    },
+    {
+      "slug": "奸策",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奸策",
+          "reading": "かんさく"
+        },
+        {
+          "word": "姦策",
+          "reading": "かんさく"
+        }
+      ]
+    },
+    {
+      "slug": "姦夫姦婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦夫姦婦",
+          "reading": "かんぷかんぷ"
+        }
+      ]
+    },
+    {
+      "slug": "奸謀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奸謀",
+          "reading": "かんぼう"
+        },
+        {
+          "word": "姦謀",
+          "reading": "かんぼう"
+        }
+      ]
+    },
+    {
+      "slug": "姦しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦しい",
+          "reading": "かしましい"
+        },
+        {
+          "word": "囂しい",
+          "reading": "かしましい"
+        },
+        {
+          "word": "囂しい",
+          "reading": "かしがましい"
+        },
+        {
+          "word": "囂しい",
+          "reading": "かまびすしい"
+        },
+        {
+          "word": "喧しい",
+          "reading": "かまびすしい"
+        }
+      ]
+    },
+    {
+      "slug": "姦悪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦悪",
+          "reading": "かんあく"
+        },
+        {
+          "word": "奸悪",
+          "reading": "かんあく"
+        }
+      ]
+    },
+    {
+      "slug": "奸智",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奸智",
+          "reading": "かんち"
+        },
+        {
+          "word": "奸知",
+          "reading": "かんち"
+        },
+        {
+          "word": "姦智",
+          "reading": "かんち"
+        }
+      ]
+    },
+    {
+      "slug": "姦人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦人",
+          "reading": "かんじん"
+        }
+      ]
+    },
+    {
+      "slug": "姦淫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦淫",
+          "reading": "かんいん"
+        }
+      ]
+    },
+    {
+      "slug": "奸盗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奸盗",
+          "reading": "かんとう"
+        },
+        {
+          "word": "姦盗",
+          "reading": "かんとう"
+        }
+      ]
+    },
+    {
+      "slug": "姦夫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦夫",
+          "reading": "かんぷ"
+        },
+        {
+          "word": "かん夫",
+          "reading": "かんぷ"
+        }
+      ]
+    },
+    {
+      "slug": "奸臣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "奸臣",
+          "reading": "かんしん"
+        },
+        {
+          "word": "姦臣",
+          "reading": "かんしん"
+        }
+      ]
+    },
+    {
+      "slug": "姦する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦する",
+          "reading": "かんする"
+        }
+      ]
+    },
+    {
+      "slug": "姦譎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦譎",
+          "reading": "かんきつ"
+        },
+        {
+          "word": "姦譎",
+          "reading": "かんけつ"
+        },
+        {
+          "word": "奸譎",
+          "reading": "かんきつ"
+        },
+        {
+          "word": "奸譎",
+          "reading": "かんけつ"
+        }
+      ]
+    },
+    {
+      "slug": "姦婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦婦",
+          "reading": "かんぷ"
+        }
+      ]
+    },
+    {
+      "slug": "姦淫罪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦淫罪",
+          "reading": "かんいんざい"
+        }
+      ]
+    },
+    {
+      "slug": "姦国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姦国",
+          "reading": "かんこく"
+        }
+      ]
+    }
   ]
 }

@@ -123,5 +123,369 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "焼もちは友情の敵だ。",
+      "furigana": "[焼|しょう]もちは[友情|ゆう|じょう]の[敵|てき]だ。",
+      "translation_zh_CN": "烧饼是友谊的敌人。"
+    },
+    {
+      "content": "彼は彼女の才能に焼もちを妬いている。",
+      "furigana": "[彼|かれ]は[彼女|かの|じょ]の[才能|さい|のう]に[焼|しょう]もちを[妬|や]いている。",
+      "translation_zh_CN": "他嫉妒她的才华。"
+    },
+    {
+      "content": "クリスはその男の子が同じ数学のクラスの人だと分かり、とても焼もちを焼きました。",
+      "furigana": "クリスはその[男|おとこ]の[子|こ]が[同|おな]じ[数学|すう|がく]のクラスの[人|ひと]だと[分|わ]かり、とても[焼|しょう]もちを[焼|や]きました。",
+      "translation_zh_CN": "当克里斯意识到这个男孩来自同一个数学班时，他非常兴奋。"
+    },
+    {
+      "content": "１０戸が全焼した。",
+      "furigana": "[１|][０|][戸|こ]が[全焼|ぜん|しょう]した。",
+      "translation_zh_CN": "十間房屋被燒毀了。"
+    },
+    {
+      "content": "老婆が焼け死んだ。",
+      "furigana": "[老婆|ろう|ば]が[焼|や]け[死|し]んだ。",
+      "translation_zh_CN": "老婆婆被烧死。"
+    },
+    {
+      "content": "日焼け止め塗りな。",
+      "furigana": "[日焼|ひ|や]け[止|ど]め[塗|ぬ]りな。",
+      "translation_zh_CN": "涂点防晒吧。"
+    },
+    {
+      "content": "高齢の女性が焼死した。",
+      "furigana": "[高齢|こう|れい]の[女性|じょ|せい]が[焼死|しょう|し]した。",
+      "translation_zh_CN": "老婆婆被烧死。"
+    },
+    {
+      "content": "目が焼けるように痛い。",
+      "furigana": "[目|め]が[焼|や]けるように[痛|いた]い。",
+      "translation_zh_CN": "眼睛火辣辣地痛。"
+    },
+    {
+      "content": "アップルパイを焼いたの。",
+      "furigana": "アップルパイを[焼|や]いたの。",
+      "translation_zh_CN": "我烤了蘋果派。"
+    },
+    {
+      "content": "２０軒もの家が焼け落ちた。",
+      "furigana": "[２|][０|][軒|けん]もの[家|いえ]が[焼|や]け[落|お]ちた。",
+      "translation_zh_CN": "至少20户人家着火了。"
+    },
+    {
+      "content": "日焼けをしたくないんだよ。",
+      "furigana": "[日焼|ひ|や]けをしたくないんだよ。",
+      "translation_zh_CN": "我不想晒黑。"
+    },
+    {
+      "content": "煮るなり焼くなり、好きにしてくれ。",
+      "furigana": "[煮|に]るなり[焼|や]くなり、[好|す]きにしてくれ。",
+      "translation_zh_CN": "你可以隨心所欲。"
+    },
+    {
+      "content": "昨夜火事が起こって、３軒が全焼した。",
+      "furigana": "[昨夜|さく|や][火事|か|じ]が[起|お]こって、[３|さん][軒|げん]が[全焼|ぜん|しょう]した。",
+      "translation_zh_CN": "昨晚發生了一場火災，三棟房屋被燒毀了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "焼き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼き",
+          "reading": "やき"
+        },
+        {
+          "word": "焼",
+          "reading": "やき"
+        }
+      ]
+    },
+    {
+      "slug": "焼く",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "焼く",
+          "reading": "やく"
+        },
+        {
+          "word": "燬く",
+          "reading": "やく"
+        },
+        {
+          "word": "焚く",
+          "reading": "やく"
+        }
+      ]
+    },
+    {
+      "slug": "焼ける",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "焼ける",
+          "reading": "やける"
+        },
+        {
+          "word": "灼ける",
+          "reading": "やける"
+        },
+        {
+          "word": "妬ける",
+          "reading": "やける"
+        },
+        {
+          "word": "嫉ける",
+          "reading": "やける"
+        }
+      ]
+    },
+    {
+      "slug": "焼肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼肉",
+          "reading": "やきにく"
+        },
+        {
+          "word": "焼き肉",
+          "reading": "やきにく"
+        }
+      ]
+    },
+    {
+      "slug": "焼酎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼酎",
+          "reading": "しょうちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "焼死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼死",
+          "reading": "しょうし"
+        }
+      ]
+    },
+    {
+      "slug": "焼きもち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼きもち",
+          "reading": "やきもち"
+        },
+        {
+          "word": "焼もち",
+          "reading": "やきもち"
+        },
+        {
+          "word": "焼き餠",
+          "reading": "やきもち"
+        },
+        {
+          "word": "焼き餅",
+          "reading": "やきもち"
+        },
+        {
+          "word": "焼餅",
+          "reading": "やきもち"
+        }
+      ]
+    },
+    {
+      "slug": "焼け落ちる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼け落ちる",
+          "reading": "やけおちる"
+        }
+      ]
+    },
+    {
+      "slug": "焼失",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼失",
+          "reading": "しょうしつ"
+        }
+      ]
+    },
+    {
+      "slug": "焼き上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼き上げる",
+          "reading": "やきあげる"
+        },
+        {
+          "word": "焼きあげる",
+          "reading": "やきあげる"
+        }
+      ]
+    },
+    {
+      "slug": "焼け野原",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼け野原",
+          "reading": "やけのはら"
+        },
+        {
+          "word": "焼野原",
+          "reading": "やけのはら"
+        }
+      ]
+    },
+    {
+      "slug": "焼き魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼き魚",
+          "reading": "やきざかな"
+        },
+        {
+          "word": "焼魚",
+          "reading": "やきざかな"
+        },
+        {
+          "word": "焼肴",
+          "reading": "やきざかな"
+        },
+        {
+          "word": "焼き肴",
+          "reading": "やきざかな"
+        }
+      ]
+    },
+    {
+      "slug": "焼け石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼け石",
+          "reading": "やけいし"
+        }
+      ]
+    },
+    {
+      "slug": "焼け出される",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼け出される",
+          "reading": "やけだされる"
+        }
+      ]
+    },
+    {
+      "slug": "焼印",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼印",
+          "reading": "やきいん"
+        },
+        {
+          "word": "焼き印",
+          "reading": "やきいん"
+        }
+      ]
+    },
+    {
+      "slug": "焼き立て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼きたて",
+          "reading": "やきたて"
+        },
+        {
+          "word": "焼き立て",
+          "reading": "やきたて"
+        }
+      ]
+    },
+    {
+      "slug": "焼け死ぬ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼け死ぬ",
+          "reading": "やけしぬ"
+        }
+      ]
+    },
+    {
+      "slug": "焼き付く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼き付く",
+          "reading": "やきつく"
+        },
+        {
+          "word": "焼きつく",
+          "reading": "やきつく"
+        },
+        {
+          "word": "焼付く",
+          "reading": "やきつく"
+        }
+      ]
+    },
+    {
+      "slug": "自棄糞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "自棄糞",
+          "reading": "やけくそ"
+        },
+        {
+          "word": "焼糞",
+          "reading": "やけくそ"
+        },
+        {
+          "reading": "ヤケクソ"
+        }
+      ]
+    },
+    {
+      "slug": "焼付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "焼付け",
+          "reading": "やきつけ"
+        },
+        {
+          "word": "焼き付け",
+          "reading": "やきつけ"
+        }
+      ]
+    }
   ]
 }

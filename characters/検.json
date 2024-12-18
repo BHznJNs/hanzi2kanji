@@ -84,5 +84,283 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "視力検査をします。",
+      "furigana": "[視力|し|りょく][検査|けん|さ]をします。",
+      "translation_zh_CN": "我要來檢查你的視力。"
+    },
+    {
+      "content": "検事は誘導尋問をした。",
+      "furigana": "[検事|けん|じ]は[誘導|ゆう|どう][尋問|じん|もん]をした。",
+      "translation_zh_CN": "检察官问了我一个引导性的问题。"
+    },
+    {
+      "content": "血液検査をしましょう。",
+      "furigana": "[血液|けつ|えき][検査|けん|さ]をしましょう。",
+      "translation_zh_CN": "我希望你做血液檢查。"
+    },
+    {
+      "content": "何を検索していますか。",
+      "furigana": "[何|なに]を[検索|けん|さく]していますか。",
+      "translation_zh_CN": "你们在找什么？"
+    },
+    {
+      "content": "転職を検討したんです。",
+      "furigana": "[転職|てん|しょく]を[検討|けん|とう]したんです。",
+      "translation_zh_CN": "我考虑更换工作。"
+    },
+    {
+      "content": "超音波検査をしましょう。",
+      "furigana": "[超|ちょう][音波|おん|ぱ][検査|けん|さ]をしましょう。",
+      "translation_zh_CN": "我想讓你接受超聲檢查。"
+    },
+    {
+      "content": "その問題を再検討しよう。",
+      "furigana": "その[問題|もん|だい]を[再検討|さい|けん|とう]しよう。",
+      "translation_zh_CN": "我會重新考慮此事。"
+    },
+    {
+      "content": "問題を再検討してみます。",
+      "furigana": "[問題|もん|だい]を[再検討|さい|けん|とう]してみます。",
+      "translation_zh_CN": "我會重新考慮此事。"
+    },
+    {
+      "content": "私たちはその件を詳細に検討した。",
+      "furigana": "[私|わたし]たちはその[件|けん]を[詳細|しょう|さい]に[検討|けん|とう]した。",
+      "translation_zh_CN": "我们详细地讨论了这个问题。"
+    },
+    {
+      "content": "最初にTatoebaを検閲する国はどこかな。",
+      "furigana": "[最初|さい|しょ]に[Tatoeba|]を[検閲|けん|えつ]する[国|くに]はどこかな。",
+      "translation_zh_CN": "我想知道哪个国家会第一个和谐Tatoeba？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "検査",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "検査",
+          "reading": "けんさ"
+        }
+      ]
+    },
+    {
+      "slug": "検討",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "検討",
+          "reading": "けんとう"
+        }
+      ]
+    },
+    {
+      "slug": "改める",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "改める",
+          "reading": "あらためる"
+        },
+        {
+          "word": "検める",
+          "reading": "あらためる"
+        },
+        {
+          "word": "革める",
+          "reading": "あらためる"
+        }
+      ]
+    },
+    {
+      "slug": "検事",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "検事",
+          "reading": "けんじ"
+        }
+      ]
+    },
+    {
+      "slug": "検閲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検閲",
+          "reading": "けんえつ"
+        }
+      ]
+    },
+    {
+      "slug": "検問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検問",
+          "reading": "けんもん"
+        }
+      ]
+    },
+    {
+      "slug": "検便",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検便",
+          "reading": "けんべん"
+        }
+      ]
+    },
+    {
+      "slug": "検索",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検索",
+          "reading": "けんさく"
+        }
+      ]
+    },
+    {
+      "slug": "検証",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検証",
+          "reading": "けんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "検定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検定",
+          "reading": "けんてい"
+        }
+      ]
+    },
+    {
+      "slug": "検察",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検察",
+          "reading": "けんさつ"
+        }
+      ]
+    },
+    {
+      "slug": "検出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検出",
+          "reading": "けんしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "検索条件",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検索条件",
+          "reading": "けんさくじょうけん"
+        }
+      ]
+    },
+    {
+      "slug": "検尿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検尿",
+          "reading": "けんにょう"
+        }
+      ]
+    },
+    {
+      "slug": "検算",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検算",
+          "reading": "けんざん"
+        },
+        {
+          "word": "験算",
+          "reading": "けんざん"
+        }
+      ]
+    },
+    {
+      "slug": "検問所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検問所",
+          "reading": "けんもんじょ"
+        },
+        {
+          "word": "検問所",
+          "reading": "けんもんしょ"
+        }
+      ]
+    },
+    {
+      "slug": "検眼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検眼",
+          "reading": "けんがん"
+        }
+      ]
+    },
+    {
+      "slug": "検察官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検察官",
+          "reading": "けんさつかん"
+        }
+      ]
+    },
+    {
+      "slug": "検疫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検疫",
+          "reading": "けんえき"
+        }
+      ]
+    },
+    {
+      "slug": "検挙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "検挙",
+          "reading": "けんきょ"
+        }
+      ]
+    }
   ]
 }

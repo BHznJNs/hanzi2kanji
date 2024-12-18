@@ -79,5 +79,324 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "絞る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "絞る",
+          "reading": "しぼる"
+        },
+        {
+          "word": "搾る",
+          "reading": "しぼる"
+        }
+      ]
+    },
+    {
+      "slug": "絞首刑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞首刑",
+          "reading": "こうしゅけい"
+        }
+      ]
+    },
+    {
+      "slug": "絞り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り",
+          "reading": "しぼり"
+        },
+        {
+          "word": "搾り",
+          "reading": "しぼり"
+        }
+      ]
+    },
+    {
+      "slug": "絞殺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞殺",
+          "reading": "こうさつ"
+        }
+      ]
+    },
+    {
+      "slug": "絞める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞める",
+          "reading": "しめる"
+        }
+      ]
+    },
+    {
+      "slug": "絞首台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞首台",
+          "reading": "こうしゅだい"
+        }
+      ]
+    },
+    {
+      "slug": "絞り出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り出す",
+          "reading": "しぼりだす"
+        },
+        {
+          "word": "搾り出す",
+          "reading": "しぼりだす"
+        }
+      ]
+    },
+    {
+      "slug": "搾り取る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "搾り取る",
+          "reading": "しぼりとる"
+        },
+        {
+          "word": "絞り取る",
+          "reading": "しぼりとる"
+        },
+        {
+          "word": "絞りとる",
+          "reading": "しぼりとる"
+        },
+        {
+          "word": "しぼり取る",
+          "reading": "しぼりとる"
+        },
+        {
+          "word": "搾りとる",
+          "reading": "しぼりとる"
+        }
+      ]
+    },
+    {
+      "slug": "絞り込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り込む",
+          "reading": "しぼりこむ"
+        },
+        {
+          "word": "搾り込む",
+          "reading": "しぼりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "絞め技",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞め技",
+          "reading": "しめわざ"
+        },
+        {
+          "word": "締め技",
+          "reading": "しめわざ"
+        },
+        {
+          "word": "絞技",
+          "reading": "しめわざ"
+        },
+        {
+          "word": "締技",
+          "reading": "しめわざ"
+        }
+      ]
+    },
+    {
+      "slug": "絞り染め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り染め",
+          "reading": "しぼりぞめ"
+        },
+        {
+          "word": "絞り染",
+          "reading": "しぼりぞめ"
+        }
+      ]
+    },
+    {
+      "slug": "絞め殺す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞め殺す",
+          "reading": "しめころす"
+        },
+        {
+          "word": "締め殺す",
+          "reading": "しめころす"
+        },
+        {
+          "word": "しめ殺す",
+          "reading": "しめころす"
+        },
+        {
+          "word": "絞殺す",
+          "reading": "しめころす"
+        }
+      ]
+    },
+    {
+      "slug": "絞り値",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り値",
+          "reading": "しぼりち"
+        }
+      ]
+    },
+    {
+      "slug": "絞り器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り器",
+          "reading": "しぼりき"
+        },
+        {
+          "word": "しぼり器",
+          "reading": "しぼりき"
+        },
+        {
+          "word": "絞り機",
+          "reading": "しぼりき"
+        },
+        {
+          "word": "搾り器",
+          "reading": "しぼりき"
+        },
+        {
+          "word": "搾り機",
+          "reading": "しぼりき"
+        }
+      ]
+    },
+    {
+      "slug": "締め上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "締め上げる",
+          "reading": "しめあげる"
+        },
+        {
+          "word": "絞め上げる",
+          "reading": "しめあげる"
+        }
+      ]
+    },
+    {
+      "slug": "絞り弁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り弁",
+          "reading": "しぼりべん"
+        },
+        {
+          "word": "絞り瓣",
+          "reading": "しぼりべん"
+        }
+      ]
+    },
+    {
+      "slug": "絞り込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り込み",
+          "reading": "しぼりこみ"
+        },
+        {
+          "word": "絞込み",
+          "reading": "しぼりこみ"
+        }
+      ]
+    },
+    {
+      "slug": "絞り汁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞り汁",
+          "reading": "しぼりじる"
+        },
+        {
+          "word": "しぼり汁",
+          "reading": "しぼりじる"
+        },
+        {
+          "word": "搾り汁",
+          "reading": "しぼりじる"
+        }
+      ]
+    },
+    {
+      "slug": "絞りかす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絞りかす",
+          "reading": "しぼりかす"
+        },
+        {
+          "word": "搾りかす",
+          "reading": "しぼりかす"
+        },
+        {
+          "word": "絞り粕",
+          "reading": "しぼりかす"
+        },
+        {
+          "word": "搾り粕",
+          "reading": "しぼりかす"
+        },
+        {
+          "word": "しぼり粕",
+          "reading": "しぼりかす"
+        },
+        {
+          "word": "絞り滓",
+          "reading": "しぼりかす"
+        },
+        {
+          "word": "搾り滓",
+          "reading": "しぼりかす"
+        },
+        {
+          "word": "しぼり滓",
+          "reading": "しぼりかす"
+        }
+      ]
+    }
   ]
 }

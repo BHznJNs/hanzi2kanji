@@ -84,5 +84,146 @@
       "startStroke": 5,
       "strokes": 7
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "揮発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発",
+          "reading": "きはつ"
+        }
+      ]
+    },
+    {
+      "slug": "振るう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "振るう",
+          "reading": "ふるう"
+        },
+        {
+          "word": "揮う",
+          "reading": "ふるう"
+        },
+        {
+          "word": "振う",
+          "reading": "ふるう"
+        }
+      ]
+    },
+    {
+      "slug": "揮発性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発性",
+          "reading": "きはつせい"
+        }
+      ]
+    },
+    {
+      "slug": "揮毫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮毫",
+          "reading": "きごう"
+        }
+      ]
+    },
+    {
+      "slug": "揮発油",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発油",
+          "reading": "きはつゆ"
+        }
+      ]
+    },
+    {
+      "slug": "揮発物質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発物質",
+          "reading": "きはつぶっしつ"
+        }
+      ]
+    },
+    {
+      "slug": "揮毫料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮毫料",
+          "reading": "きごうりょう"
+        }
+      ]
+    },
+    {
+      "slug": "揮散",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮散",
+          "reading": "きさん"
+        }
+      ]
+    },
+    {
+      "slug": "揮発度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発度",
+          "reading": "きはつど"
+        }
+      ]
+    },
+    {
+      "slug": "揮発成分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発成分",
+          "reading": "きはつせいぶん"
+        }
+      ]
+    },
+    {
+      "slug": "揮発油税",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発油税",
+          "reading": "きはつゆぜい"
+        }
+      ]
+    },
+    {
+      "slug": "揮発性メモリー",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発性メモリー",
+          "reading": "きはつせいメモリー"
+        }
+      ]
+    },
+    {
+      "slug": "揮発性記憶装置",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揮発性記憶装置",
+          "reading": "きはつせいきおくそうち"
+        }
+      ]
+    }
   ]
 }

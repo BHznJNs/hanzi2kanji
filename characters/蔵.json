@@ -135,5 +135,321 @@
       "strokes": 1,
       "part": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "下戸の建てたる蔵もなし。",
+      "furigana": "[下戸|げ|こ]の[建|た]てたる[蔵|ぞう]もなし。",
+      "translation_zh_CN": "没有建有下门的库房。"
+    },
+    {
+      "content": "冷蔵庫が開いてるよ。",
+      "furigana": "[冷蔵庫|れい|ぞう|こ]が[開|あ]いてるよ。",
+      "translation_zh_CN": "冰箱開著。"
+    },
+    {
+      "content": "冷蔵庫からオレンジ出して。",
+      "furigana": "[冷蔵庫|れい|ぞう|こ]からオレンジ[出|だ]して。",
+      "translation_zh_CN": "把橙子从冰箱里拿出来。"
+    },
+    {
+      "content": "赤い冷蔵庫を見たことがない。",
+      "furigana": "[赤|あか]い[冷蔵庫|れい|ぞう|こ]を[見|み]たことがない。",
+      "translation_zh_CN": "我从没见过红色的冰箱。"
+    },
+    {
+      "content": "うちの冷蔵庫は故障している。",
+      "furigana": "うちの[冷蔵庫|れい|ぞう|こ]は[故障|こ|しょう]している。",
+      "translation_zh_CN": "我們的冰箱壞了。"
+    },
+    {
+      "content": "うちの冷蔵庫が故障している。",
+      "furigana": "うちの[冷蔵庫|れい|ぞう|こ]が[故障|こ|しょう]している。",
+      "translation_zh_CN": "我們的冰箱壞了。"
+    },
+    {
+      "content": "冷蔵庫には牛乳以外何もない。",
+      "furigana": "[冷蔵庫|れい|ぞう|こ]には[牛乳|ぎゅう|にゅう][以外|い|がい][何|なに]もない。",
+      "translation_zh_CN": "冰箱里只有牛奶哦。"
+    },
+    {
+      "content": "冷蔵庫には何も残っていない。",
+      "furigana": "[冷蔵庫|れい|ぞう|こ]には[何|なに]も[残|のこ]っていない。",
+      "translation_zh_CN": "冰箱里什么也没有了。"
+    },
+    {
+      "content": "冷蔵庫には牛乳しかないんだ。",
+      "furigana": "[冷蔵庫|れい|ぞう|こ]には[牛乳|ぎゅう|にゅう]しかないんだ。",
+      "translation_zh_CN": "冰箱里只有牛奶哦。"
+    },
+    {
+      "content": "蔵書に書き込みをしないで下さい。",
+      "furigana": "[蔵書|ぞう|しょ]に[書|か]き[込|こ]みをしないで[下|くだ]さい。",
+      "translation_zh_CN": "请不要在图书馆的书上涂写。"
+    },
+    {
+      "content": "冷蔵庫には何も残っていたなかった。",
+      "furigana": "[冷蔵庫|れい|ぞう|こ]には[何|なに]も[残|のこ]っていたなかった。",
+      "translation_zh_CN": "冰箱里什么都没剩下。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "仕舞う",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "仕舞う",
+          "reading": "しまう"
+        },
+        {
+          "word": "終う",
+          "reading": "しまう"
+        },
+        {
+          "word": "了う",
+          "reading": "しまう"
+        },
+        {
+          "word": "蔵う",
+          "reading": "しまう"
+        }
+      ]
+    },
+    {
+      "slug": "蔵書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵書",
+          "reading": "ぞうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "蔵相",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "蔵相",
+          "reading": "ぞうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "蔵元",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵元",
+          "reading": "くらもと"
+        },
+        {
+          "word": "倉本",
+          "reading": "くらもと"
+        }
+      ]
+    },
+    {
+      "slug": "蔵書票",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵書票",
+          "reading": "ぞうしょひょう"
+        }
+      ]
+    },
+    {
+      "slug": "蔵屋敷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵屋敷",
+          "reading": "くらやしき"
+        }
+      ]
+    },
+    {
+      "slug": "蔵浚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵ざらえ",
+          "reading": "くらざらえ"
+        },
+        {
+          "word": "蔵浚え",
+          "reading": "くらざらえ"
+        }
+      ]
+    },
+    {
+      "slug": "蔵入り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵入り",
+          "reading": "くらいり"
+        }
+      ]
+    },
+    {
+      "slug": "蔵入れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵入れ",
+          "reading": "くらいれ"
+        },
+        {
+          "word": "倉入れ",
+          "reading": "くらいれ"
+        },
+        {
+          "word": "庫入れ",
+          "reading": "くらいれ"
+        }
+      ]
+    },
+    {
+      "slug": "蔵書印",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵書印",
+          "reading": "ぞうしょいん"
+        }
+      ]
+    },
+    {
+      "slug": "蔵する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵する",
+          "reading": "ぞうする"
+        }
+      ]
+    },
+    {
+      "slug": "倉出し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵出し",
+          "reading": "くらだし"
+        },
+        {
+          "word": "倉出し",
+          "reading": "くらだし"
+        },
+        {
+          "word": "庫出し",
+          "reading": "くらだし"
+        }
+      ]
+    },
+    {
+      "slug": "蔵払い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵払い",
+          "reading": "くらばらい"
+        }
+      ]
+    },
+    {
+      "slug": "蔵造り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵造り",
+          "reading": "くらづくり"
+        },
+        {
+          "word": "蔵づくり",
+          "reading": "くらづくり"
+        },
+        {
+          "word": "倉造り",
+          "reading": "くらづくり"
+        },
+        {
+          "word": "倉づくり",
+          "reading": "くらづくり"
+        }
+      ]
+    },
+    {
+      "slug": "蔵匿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵匿",
+          "reading": "ぞうとく"
+        }
+      ]
+    },
+    {
+      "slug": "蔵書家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵書家",
+          "reading": "ぞうしょか"
+        }
+      ]
+    },
+    {
+      "slug": "造卵器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "造卵器",
+          "reading": "ぞうらんき"
+        },
+        {
+          "word": "蔵卵器",
+          "reading": "ぞうらんき"
+        }
+      ]
+    },
+    {
+      "slug": "蔵人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蔵人",
+          "reading": "くろうど"
+        },
+        {
+          "word": "蔵人",
+          "reading": "くらんど"
+        },
+        {
+          "word": "蔵人",
+          "reading": "くらびと"
+        },
+        {
+          "word": "藏人",
+          "reading": "くろうど"
+        },
+        {
+          "word": "藏人",
+          "reading": "くらんど"
+        },
+        {
+          "word": "藏人",
+          "reading": "くらびと"
+        }
+      ]
+    }
   ]
 }

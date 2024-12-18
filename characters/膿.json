@@ -100,5 +100,130 @@
       "startStroke": 10,
       "strokes": 7
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "膿胸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿胸",
+          "reading": "のうきょう"
+        }
+      ]
+    },
+    {
+      "slug": "膿瘍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿瘍",
+          "reading": "のうよう"
+        }
+      ]
+    },
+    {
+      "slug": "膿疱疹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿疱疹",
+          "reading": "のうほうしん"
+        }
+      ]
+    },
+    {
+      "slug": "膿疱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿疱",
+          "reading": "のうほう"
+        }
+      ]
+    },
+    {
+      "slug": "膿む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿む",
+          "reading": "うむ"
+        }
+      ]
+    },
+    {
+      "slug": "膿尿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿尿",
+          "reading": "のうにょう"
+        }
+      ]
+    },
+    {
+      "slug": "膿痂疹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿痂疹",
+          "reading": "のうかしん"
+        }
+      ]
+    },
+    {
+      "slug": "膿汁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿汁",
+          "reading": "のうじゅう"
+        },
+        {
+          "word": "膿汁",
+          "reading": "うみしる"
+        },
+        {
+          "word": "膿汁",
+          "reading": "うみじる"
+        }
+      ]
+    },
+    {
+      "slug": "膿栓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿栓",
+          "reading": "のうせん"
+        }
+      ]
+    },
+    {
+      "slug": "膿み爛れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿み爛れる",
+          "reading": "うみただれる"
+        },
+        {
+          "word": "膿みただれる",
+          "reading": "うみただれる"
+        }
+      ]
+    },
+    {
+      "slug": "膿を出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "膿を出す",
+          "reading": "うみをだす"
+        }
+      ]
+    }
   ]
 }

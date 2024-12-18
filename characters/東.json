@@ -66,5 +66,327 @@
       "startStroke": 6,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "東海岸出身です。",
+      "furigana": "[東海岸出身|ひがし|かい|がん|しゅっ|しん]です。",
+      "translation_zh_CN": "我来自东海岸。"
+    },
+    {
+      "content": "風は東に吹いています。",
+      "furigana": "[風|かぜ]は[東|ひがし]に[吹|ふ]いています。",
+      "translation_zh_CN": "风向东吹。"
+    },
+    {
+      "content": "風は東から吹いている。",
+      "furigana": "[風|かぜ]は[東|ひがし]から[吹|ふ]いている。",
+      "translation_zh_CN": "风从东边吹来。"
+    },
+    {
+      "content": "月は東から上る。",
+      "furigana": "[月|つき]は[東|ひがし]から[上|のぼ]る。",
+      "translation_zh_CN": "月亮从东方升起。"
+    },
+    {
+      "content": "東はどの方向なの？",
+      "furigana": "[東|ひがし]はどの[方向|ほう|こう]なの？",
+      "translation_zh_CN": "哪个方向是东？"
+    },
+    {
+      "content": "日本は東は太平洋に面する。",
+      "furigana": "[日本|にっ|ぽん]は[東|ひがし]は[太平洋|たい|へい|よう]に[面|めん]する。",
+      "translation_zh_CN": "日本东临太平洋。"
+    },
+    {
+      "content": "飛行機は東に向かって飛んだ。",
+      "furigana": "[飛行機|ひ|こう|き]は[東|ひがし]に[向|む]かって[飛|と]んだ。",
+      "translation_zh_CN": "飞机向东飞去。"
+    },
+    {
+      "content": "東の空が白み始めていた。",
+      "furigana": "[東|ひがし]の[空|そら]が[白|しら]み[始|はじ]めていた。",
+      "translation_zh_CN": "东方的天空开始泛白。"
+    },
+    {
+      "content": "太陽は常に東から昇る。",
+      "furigana": "[太陽|たい|よう]は[常|つね]に[東|ひがし]から[昇|のぼ]る。",
+      "translation_zh_CN": "太阳总是从东方升起。"
+    },
+    {
+      "content": "飛行機は東へ旋回した。",
+      "furigana": "[飛行機|ひ|こう|き]は[東|ひがし]へ[旋回|せん|かい]した。",
+      "translation_zh_CN": "飞机转向东边。"
+    },
+    {
+      "content": "彼は東京にいます。",
+      "furigana": "[彼|かれ]は[東京|とう|きょう]にいます。",
+      "translation_zh_CN": "他在东京。"
+    },
+    {
+      "content": "私は東京出身です。",
+      "furigana": "[私|わたし]は[東京|とう|きょう][出身|しゅっ|しん]です。",
+      "translation_zh_CN": "我来自东京。"
+    },
+    {
+      "content": "昨日東京に着いた。",
+      "furigana": "[昨日|きのう][東京|とう|きょう]に[着|つ]いた。",
+      "translation_zh_CN": "他昨天抵達東京。"
+    },
+    {
+      "content": "東京に住んでいます。",
+      "furigana": "[東京|とう|きょう]に[住|す]んでいます。",
+      "translation_zh_CN": "我住在東京。"
+    },
+    {
+      "content": "正午に東京に着いた。",
+      "furigana": "[正午|しょう|ご]に[東京|とう|きょう]に[着|つ]いた。",
+      "translation_zh_CN": "中午，我抵达东京。"
+    },
+    {
+      "content": "風は東から吹いている。",
+      "furigana": "[風|かぜ]は[東|ひがし]から[吹|ふ]いている。",
+      "translation_zh_CN": "風從東方吹來。"
+    },
+    {
+      "content": "彼は東京に引っ越した。",
+      "furigana": "[彼|かれ]は[東京|とう|きょう]に[引|ひ]っ[越|こ]した。",
+      "translation_zh_CN": "他搬到了东京。"
+    },
+    {
+      "content": "東京は日本の首都です。",
+      "furigana": "[東京|とう|きょう]は[日本|に|ほん]の[首都|しゅ|と]です。",
+      "translation_zh_CN": "東京是日本的首都。"
+    },
+    {
+      "content": "私の部屋は東向きです。",
+      "furigana": "[私|わたし]の[部屋|へ|や]は[東|ひがし][向|む]きです。",
+      "translation_zh_CN": "我的房間面向東邊。"
+    },
+    {
+      "content": "東京タワーには行ったの？",
+      "furigana": "[東京|とう|きょう]タワーには[行|い]ったの？",
+      "translation_zh_CN": "您参观过东京塔吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "東洋",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "東洋",
+          "reading": "とうよう"
+        }
+      ]
+    },
+    {
+      "slug": "東西",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "東西",
+          "reading": "とうざい"
+        },
+        {
+          "word": "東西",
+          "reading": "ひがしにし"
+        }
+      ]
+    },
+    {
+      "slug": "東風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東風",
+          "reading": "こち"
+        },
+        {
+          "word": "東風",
+          "reading": "とうふう"
+        },
+        {
+          "word": "東風",
+          "reading": "ひがしかぜ"
+        },
+        {
+          "word": "東風",
+          "reading": "こちかぜ"
+        }
+      ]
+    },
+    {
+      "slug": "東北",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東北",
+          "reading": "とうほく"
+        },
+        {
+          "word": "東北",
+          "reading": "ひがしきた"
+        }
+      ]
+    },
+    {
+      "slug": "東京",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "word": "東京",
+          "reading": "とうけい"
+        },
+        {
+          "word": "東亰",
+          "reading": "とうきょう"
+        },
+        {
+          "word": "東亰",
+          "reading": "とうけい"
+        }
+      ]
+    },
+    {
+      "slug": "東部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東部",
+          "reading": "とうぶ"
+        }
+      ]
+    },
+    {
+      "slug": "東側",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東側",
+          "reading": "ひがしがわ"
+        }
+      ]
+    },
+    {
+      "slug": "東方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東方",
+          "reading": "とうほう"
+        },
+        {
+          "word": "東方",
+          "reading": "ひがしかた"
+        },
+        {
+          "word": "東方",
+          "reading": "ひがしがた"
+        }
+      ]
+    },
+    {
+      "slug": "東経",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東経",
+          "reading": "とうけい"
+        }
+      ]
+    },
+    {
+      "slug": "東奔西走",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東奔西走",
+          "reading": "とうほんせいそう"
+        }
+      ]
+    },
+    {
+      "slug": "東名高速道路",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東名高速道路",
+          "reading": "とうめいこうそくどうろ"
+        }
+      ]
+    },
+    {
+      "slug": "東岸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東岸",
+          "reading": "とうがん"
+        }
+      ]
+    },
+    {
+      "slug": "東京行き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東京行き",
+          "reading": "とうきょうゆき"
+        },
+        {
+          "word": "東京行き",
+          "reading": "とうきょういき"
+        }
+      ]
+    },
+    {
+      "slug": "東証",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東証",
+          "reading": "とうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "東京発",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東京発",
+          "reading": "とうきょうはつ"
+        }
+      ]
+    },
+    {
+      "slug": "東証一部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東証一部",
+          "reading": "とうしょういちぶ"
+        }
+      ]
+    },
+    {
+      "slug": "東洋人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "東洋人",
+          "reading": "とうようじん"
+        }
+      ]
+    }
   ]
 }

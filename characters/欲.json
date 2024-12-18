@@ -81,5 +81,351 @@
       "startStroke": 7,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムは独占欲が強い。",
+      "furigana": "トムは[独占欲|どく|せん|ほっ]が[強|つよ]い。",
+      "translation_zh_CN": "汤姆占有欲很强。"
+    },
+    {
+      "content": "私は財産には欲が無い。",
+      "furigana": "[私|わたし]は[財産|ざい|さん]には[欲|よく]が[無|な]い。",
+      "translation_zh_CN": "我对财产没有欲望。"
+    },
+    {
+      "content": "彼は欲の少ない人だ。",
+      "furigana": "[彼|かれ]は[欲|よく]の[少|すく]ない[人|ひと]だ。",
+      "translation_zh_CN": "他是一个欲望很少的人。"
+    },
+    {
+      "content": "欲の深さが彼を没落させた。",
+      "furigana": "[欲|よく]の[深|ふか]さが[彼|かれ]を[没落|ぼつ|らく]させた。",
+      "translation_zh_CN": "他的贪婪之深导致了他的垮台。"
+    },
+    {
+      "content": "金銭欲は万人に共通している。",
+      "furigana": "[金銭欲|きん|せん|ほっ]は[万人|まん|にん]に[共通|きょう|つう]している。",
+      "translation_zh_CN": "对金钱的渴望是每个人都共有的。"
+    },
+    {
+      "content": "彼はしきりに名声を欲していた。",
+      "furigana": "[彼|かれ]はしきりに[名声|めい|せい]を[欲|ほっ]していた。",
+      "translation_zh_CN": "他极度渴望名誉。"
+    },
+    {
+      "content": "彼は権力欲の強い人間だ。",
+      "furigana": "[彼|かれ]は[権力欲|けん|りょく|ほっ]の[強|つよ]い[人間|にん|げん]だ。",
+      "translation_zh_CN": "他是一个对权力有着强烈渴望的人。"
+    },
+    {
+      "content": "彼は自己中心的で欲が深い。",
+      "furigana": "[彼|かれ]は[自己中心的|じ|こ|ちゅう|しん|てき]で[欲|よく]が[深|ふか]い。",
+      "translation_zh_CN": "他是自私和贪婪的。"
+    },
+    {
+      "content": "さて人間とは欲深いものです。",
+      "furigana": "さて[人間|にん|げん]とは[欲深|よく|ふか]いものです。",
+      "translation_zh_CN": "嗯，人类都是贪婪的。"
+    },
+    {
+      "content": "彼が何を欲しているのか分からない。",
+      "furigana": "[彼|かれ]が[何|なに]を[欲|ほっ]しているのか[分|わ]からない。",
+      "translation_zh_CN": "我不知道他想要什么。"
+    },
+    {
+      "content": "私は本が欲しい。",
+      "furigana": "[私|わたし]は[本|ほん]が[欲|ほ]しい。",
+      "translation_zh_CN": "我想要本书。"
+    },
+    {
+      "content": "君は何が欲しいの？",
+      "furigana": "[君|きみ]は[何|なに]が[欲|ほ]しいの？",
+      "translation_zh_CN": "你想要什么？"
+    },
+    {
+      "content": "たくさん欲しい。",
+      "furigana": "たくさん[欲|ほ]しい。",
+      "translation_zh_CN": "我很想要。"
+    },
+    {
+      "content": "あの鞄が欲しい。",
+      "furigana": "あの[鞄|かばん]が[欲|ほ]しい。",
+      "translation_zh_CN": "我想要那個袋子。"
+    },
+    {
+      "content": "犬が一匹欲しい。",
+      "furigana": "[犬|いぬ]が[一匹|いっ|ぴき][欲|ほ]しい。",
+      "translation_zh_CN": "我想要一隻狗。"
+    },
+    {
+      "content": "何で馬が欲しいの？",
+      "furigana": "[何|なん]で[馬|うま]が[欲|ほ]しいの？",
+      "translation_zh_CN": "你為什麼想要一匹馬？"
+    },
+    {
+      "content": "何が欲しいと思う？",
+      "furigana": "[何|なに]が[欲|ほ]しいと[思|おも]う？",
+      "translation_zh_CN": "你認為我想要甚麼？"
+    },
+    {
+      "content": "これが欲しいやつ？",
+      "furigana": "これが[欲|ほ]しいやつ？",
+      "translation_zh_CN": "這是你要的嗎?"
+    },
+    {
+      "content": "アイスが欲しい。",
+      "furigana": "アイスが[欲|ほ]しい。",
+      "translation_zh_CN": "我想吃冰淇淋了。"
+    },
+    {
+      "content": "彼氏が欲しいな。",
+      "furigana": "[彼氏|かれ|し]が[欲|ほ]しいな。",
+      "translation_zh_CN": "我想男朋友。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "欲しい",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "欲しい",
+          "reading": "ほしい"
+        }
+      ]
+    },
+    {
+      "slug": "欲張り",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "欲張り",
+          "reading": "よくばり"
+        },
+        {
+          "word": "欲ばり",
+          "reading": "よくばり"
+        }
+      ]
+    },
+    {
+      "slug": "欲望",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "欲望",
+          "reading": "よくぼう"
+        },
+        {
+          "word": "慾望",
+          "reading": "よくぼう"
+        }
+      ]
+    },
+    {
+      "slug": "欲しがる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲しがる",
+          "reading": "ほしがる"
+        }
+      ]
+    },
+    {
+      "slug": "欲する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲する",
+          "reading": "ほっする"
+        }
+      ]
+    },
+    {
+      "slug": "欲求",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲求",
+          "reading": "よっきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "欲張る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲張る",
+          "reading": "よくばる"
+        }
+      ]
+    },
+    {
+      "slug": "欲求不満",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲求不満",
+          "reading": "よっきゅうふまん"
+        }
+      ]
+    },
+    {
+      "slug": "欲目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲目",
+          "reading": "よくめ"
+        }
+      ]
+    },
+    {
+      "slug": "欲深い",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "欲深い",
+          "reading": "よくぶかい"
+        },
+        {
+          "word": "欲深い",
+          "reading": "よくふかい"
+        }
+      ]
+    },
+    {
+      "slug": "欲をかく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲をかく",
+          "reading": "よくをかく"
+        },
+        {
+          "word": "欲を掻く",
+          "reading": "よくをかく"
+        }
+      ]
+    },
+    {
+      "slug": "欲に目が眩む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲に目がくらむ",
+          "reading": "よくにめがくらむ"
+        },
+        {
+          "word": "欲に目が眩む",
+          "reading": "よくにめがくらむ"
+        }
+      ]
+    },
+    {
+      "slug": "欲心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲心",
+          "reading": "よくしん"
+        }
+      ]
+    },
+    {
+      "slug": "欲念",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲念",
+          "reading": "よくねん"
+        }
+      ]
+    },
+    {
+      "slug": "欲得ずく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲得ずく",
+          "reading": "よくとくずく"
+        },
+        {
+          "word": "欲得尽く",
+          "reading": "よくとくずく"
+        },
+        {
+          "word": "欲得尽",
+          "reading": "よくとくずく"
+        },
+        {
+          "word": "欲得尽く",
+          "reading": "よくとくづく"
+        },
+        {
+          "word": "欲得づく",
+          "reading": "よくとくづく"
+        },
+        {
+          "word": "欲得尽",
+          "reading": "よくとくづく"
+        }
+      ]
+    },
+    {
+      "slug": "欲の固まり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲の固まり",
+          "reading": "よくのかたまり"
+        },
+        {
+          "word": "欲の塊",
+          "reading": "よくのかたまり"
+        }
+      ]
+    },
+    {
+      "slug": "欲情",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲情",
+          "reading": "よくじょう"
+        }
+      ]
+    },
+    {
+      "slug": "欲得",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲得",
+          "reading": "よくとく"
+        }
+      ]
+    },
+    {
+      "slug": "欲張り法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "欲張り法",
+          "reading": "よくばりほう"
+        }
+      ]
+    }
   ]
 }

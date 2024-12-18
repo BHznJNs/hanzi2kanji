@@ -126,5 +126,285 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムの犬は戯れに彼を噛んだ。",
+      "furigana": "トムの[犬|いぬ]は[戯|じゃ]れに[彼|かれ]を[噛|か]んだ。",
+      "translation_zh_CN": "汤姆的狗咬他玩。"
+    },
+    {
+      "content": "「ハムレット」はこれまでで最もおもしろい戯曲だと言われている。",
+      "furigana": "「ハムレット」はこれまでで[最|もっと]もおもしろい[戯曲|ぎ|きょく]だと[言|い]われている。",
+      "translation_zh_CN": "据说《哈姆雷特》是写出来的最有意思的剧本。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "戯曲",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "戯曲",
+          "reading": "ぎきょく"
+        }
+      ]
+    },
+    {
+      "slug": "冗談",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "冗談",
+          "reading": "じょうだん"
+        },
+        {
+          "word": "戯談",
+          "reading": "じょうだん"
+        },
+        {
+          "word": "串戯",
+          "reading": "じょうだん"
+        },
+        {
+          "word": "串戲",
+          "reading": "じょうだん"
+        },
+        {
+          "word": "戯談",
+          "reading": "ぎだん"
+        },
+        {
+          "word": "戯談",
+          "reading": "げだん"
+        }
+      ]
+    },
+    {
+      "slug": "戯画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯画",
+          "reading": "ぎが"
+        }
+      ]
+    },
+    {
+      "slug": "戯言",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯言",
+          "reading": "たわごと"
+        },
+        {
+          "word": "戯言",
+          "reading": "たわこと"
+        },
+        {
+          "word": "たわ言",
+          "reading": "たわごと"
+        },
+        {
+          "word": "たわ言",
+          "reading": "たわこと"
+        },
+        {
+          "word": "戲言",
+          "reading": "たわごと"
+        },
+        {
+          "word": "戲言",
+          "reading": "たわこと"
+        },
+        {
+          "word": "譫言",
+          "reading": "たわごと"
+        },
+        {
+          "word": "譫言",
+          "reading": "たわこと"
+        }
+      ]
+    },
+    {
+      "slug": "戯文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯文",
+          "reading": "ぎぶん"
+        }
+      ]
+    },
+    {
+      "slug": "戯作",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯作",
+          "reading": "げさく"
+        },
+        {
+          "word": "戯作",
+          "reading": "ぎさく"
+        }
+      ]
+    },
+    {
+      "slug": "戯作三昧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯作三昧",
+          "reading": "げさくざんまい"
+        }
+      ]
+    },
+    {
+      "slug": "戯れ言",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯れ言",
+          "reading": "ざれごと"
+        },
+        {
+          "word": "戯れ言",
+          "reading": "たわむれごと"
+        }
+      ]
+    },
+    {
+      "slug": "滑稽者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たわけ者",
+          "reading": "たわけもの"
+        },
+        {
+          "word": "戯け者",
+          "reading": "たわけもの"
+        },
+        {
+          "word": "白痴者",
+          "reading": "たわけもの"
+        },
+        {
+          "word": "戲け者",
+          "reading": "たわけもの"
+        },
+        {
+          "word": "白癡者",
+          "reading": "たわけもの"
+        }
+      ]
+    },
+    {
+      "slug": "戯作者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯作者",
+          "reading": "げさくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "おどけ者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯け者",
+          "reading": "おどけもの"
+        },
+        {
+          "word": "おどけ者",
+          "reading": "おどけもの"
+        },
+        {
+          "word": "戲け者",
+          "reading": "おどけもの"
+        }
+      ]
+    },
+    {
+      "slug": "じゃれ合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "じゃれ合う",
+          "reading": "じゃれあう"
+        },
+        {
+          "word": "戯れ合う",
+          "reading": "じゃれあう"
+        }
+      ]
+    },
+    {
+      "slug": "戯奴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯奴",
+          "reading": "わけ"
+        }
+      ]
+    },
+    {
+      "slug": "戯け芝居",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯け芝居",
+          "reading": "おどけしばい"
+        }
+      ]
+    },
+    {
+      "slug": "戯け話",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "おどけ話",
+          "reading": "おどけばなし"
+        },
+        {
+          "word": "戯け話",
+          "reading": "おどけばなし"
+        }
+      ]
+    },
+    {
+      "slug": "戯書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯書",
+          "reading": "ぎしょ"
+        }
+      ]
+    },
+    {
+      "slug": "戯れ歌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戯れ歌",
+          "reading": "ざれうた"
+        },
+        {
+          "word": "戯歌",
+          "reading": "ざれうた"
+        }
+      ]
+    }
   ]
 }

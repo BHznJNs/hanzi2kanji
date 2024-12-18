@@ -97,5 +97,257 @@
       "startStroke": 7,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "搭乗券を拝見します。",
+      "furigana": "[搭乗|とう|じょう][券|けん]を[拝見|はい|けん]します。",
+      "translation_zh_CN": "請讓我看看您的登機證好嗎?"
+    },
+    {
+      "content": "切符を拝見いたします。",
+      "furigana": "[切符|きっ|ぷ]を[拝見|はい|けん]いたします。",
+      "translation_zh_CN": "讓我看一下你的票。"
+    },
+    {
+      "content": "トイレを拝借できますか。",
+      "furigana": "トイレを[拝借|はい|しゃく]できますか。",
+      "translation_zh_CN": "我能用一下浴室吗？"
+    },
+    {
+      "content": "パスポートを拝見できますか。",
+      "furigana": "パスポートを[拝見|はい|けん]できますか。",
+      "translation_zh_CN": "请让我看一下您的护照好吗？"
+    },
+    {
+      "content": "今日、礼拝堂に行きたくない。",
+      "furigana": "[今日|きょう]、[礼拝|れい|はい][堂|どう]に[行|い]きたくない。",
+      "translation_zh_CN": "今天我不想去教堂。"
+    },
+    {
+      "content": "ちょっとお知恵を拝借願えませんか？",
+      "furigana": "ちょっとお[知恵|ち|え]を[拝借|はい|しゃく][願|ねが]えませんか？",
+      "translation_zh_CN": "你可以給我一些建議嗎？"
+    },
+    {
+      "content": "パスポートを拝見してよろしいですか。",
+      "furigana": "パスポートを[拝見|はい|けん]してよろしいですか。",
+      "translation_zh_CN": "我可以看看你的護照嗎？"
+    },
+    {
+      "content": "運転免許証を拝見してもよろしいですか？",
+      "furigana": "[運転|うん|てん][免許|めん|きょ][証|しょう]を[拝見|はい|けん]してもよろしいですか？",
+      "translation_zh_CN": "先生，我可以看看你的駕駛執照嗎？"
+    },
+    {
+      "content": "パーティーのご連絡をうれしく拝見しました。",
+      "furigana": "パーティーのご[連絡|れん|らく]をうれしく[拝見|はい|けん]しました。",
+      "translation_zh_CN": "我听到聚会的事很高兴。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "拝見",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "拝見",
+          "reading": "はいけん"
+        },
+        {
+          "word": "拜見",
+          "reading": "はいけん"
+        }
+      ]
+    },
+    {
+      "slug": "拝む",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "拝む",
+          "reading": "おがむ"
+        }
+      ]
+    },
+    {
+      "slug": "拝借",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "拝借",
+          "reading": "はいしゃく"
+        }
+      ]
+    },
+    {
+      "slug": "拝観",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝観",
+          "reading": "はいかん"
+        }
+      ]
+    },
+    {
+      "slug": "拝啓",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "拝啓",
+          "reading": "はいけい"
+        }
+      ]
+    },
+    {
+      "slug": "拝受",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝受",
+          "reading": "はいじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "拝謁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝謁",
+          "reading": "はいえつ"
+        }
+      ]
+    },
+    {
+      "slug": "拝読",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝読",
+          "reading": "はいどく"
+        }
+      ]
+    },
+    {
+      "slug": "拝金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝金",
+          "reading": "はいきん"
+        }
+      ]
+    },
+    {
+      "slug": "拝礼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝礼",
+          "reading": "はいれい"
+        }
+      ]
+    },
+    {
+      "slug": "拝殿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝殿",
+          "reading": "はいでん"
+        }
+      ]
+    },
+    {
+      "slug": "拝み倒す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝み倒す",
+          "reading": "おがみたおす"
+        }
+      ]
+    },
+    {
+      "slug": "拝復",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝復",
+          "reading": "はいふく"
+        }
+      ]
+    },
+    {
+      "slug": "拝所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝所",
+          "reading": "うがんじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "拝す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝す",
+          "reading": "はいす"
+        }
+      ]
+    },
+    {
+      "slug": "拝具",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝具",
+          "reading": "はいぐ"
+        }
+      ]
+    },
+    {
+      "slug": "拝承",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝承",
+          "reading": "はいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "拝火教",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝火教",
+          "reading": "はいかきょう"
+        }
+      ]
+    },
+    {
+      "slug": "拝み箸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "拝み箸",
+          "reading": "おがみばし"
+        }
+      ]
+    }
   ]
 }

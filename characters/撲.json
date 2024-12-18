@@ -106,5 +106,29 @@
       "startStroke": 13,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "殴る",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "殴る",
+          "reading": "なぐる"
+        },
+        {
+          "word": "擲る",
+          "reading": "なぐる"
+        },
+        {
+          "word": "撲る",
+          "reading": "なぐる"
+        }
+      ]
+    }
   ]
 }

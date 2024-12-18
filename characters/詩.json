@@ -78,5 +78,307 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "あれは大した詩だ。",
+      "furigana": "あれは[大|たい]した[詩|し]だ。",
+      "translation_zh_CN": "这是一首伟大的诗。"
+    },
+    {
+      "content": "詩人は詩を書く。",
+      "furigana": "[詩人|し|じん]は[詩|し]を[書|か]く。",
+      "translation_zh_CN": "诗人写诗。"
+    },
+    {
+      "content": "彼は詩を覚えていた。",
+      "furigana": "[彼|かれ]は[詩|し]を[覚|おぼ]えていた。",
+      "translation_zh_CN": "他背诵诗歌。"
+    },
+    {
+      "content": "この詩は昨夜書かれました。",
+      "furigana": "この[詩|し]は[昨夜書|さく|や|か]かれました。",
+      "translation_zh_CN": "这首诗是昨晚写的。"
+    },
+    {
+      "content": "この詩、いいね。",
+      "furigana": "この[詩|し]、いいね。",
+      "translation_zh_CN": "我喜欢这首诗。"
+    },
+    {
+      "content": "この詩を暗記しましょう。",
+      "furigana": "この[詩|し]を[暗記|あん|き]しましょう。",
+      "translation_zh_CN": "让我们一起来背诵这首诗吧。"
+    },
+    {
+      "content": "彼は詩を暗記した。",
+      "furigana": "[彼|かれ]は[詩|し]を[暗記|あん|き]した。",
+      "translation_zh_CN": "他背诵诗歌。"
+    },
+    {
+      "content": "私は詩がすきです。",
+      "furigana": "[私|わたし]は[詩|し]がすきです。",
+      "translation_zh_CN": "我喜欢诗歌。"
+    },
+    {
+      "content": "彼は詩を暗記していた。",
+      "furigana": "[彼|かれ]は[詩|し]を[暗記|あん|き]していた。",
+      "translation_zh_CN": "他背诵诗歌。"
+    },
+    {
+      "content": "その詩を暗記しましたか。",
+      "furigana": "その[詩|し]を[暗記|あん|き]しましたか。",
+      "translation_zh_CN": "你记住这首诗了吗？"
+    },
+    {
+      "content": "あれは大した詩だ。",
+      "furigana": "あれは[大|たい]した[詩|し]だ。",
+      "translation_zh_CN": "這是一首很棒的詩。"
+    },
+    {
+      "content": "アレンは詩人です。",
+      "furigana": "アレンは[詩人|し|じん]です。",
+      "translation_zh_CN": "Allen是个诗人。"
+    },
+    {
+      "content": "アランは詩人です。",
+      "furigana": "アランは[詩人|し|じん]です。",
+      "translation_zh_CN": "阿伦是诗人。"
+    },
+    {
+      "content": "私は短詩が好きです。",
+      "furigana": "[私|わたし]は[短詩|たん|し]が[好|す]きです。",
+      "translation_zh_CN": "我喜歡短詩。"
+    },
+    {
+      "content": "私は短い詩が好きです。",
+      "furigana": "[私|わたし]は[短|みじか]い[詩|し]が[好|す]きです。",
+      "translation_zh_CN": "我喜歡短詩。"
+    },
+    {
+      "content": "彼は生まれながらの詩人だ。",
+      "furigana": "[彼|かれ]は[生|う]まれながらの[詩人|し|じん]だ。",
+      "translation_zh_CN": "他生来就是诗人。"
+    },
+    {
+      "content": "彼女はたくさんの詩を書いた。",
+      "furigana": "[彼女|かの|じょ]はたくさんの[詩|し]を[書|か]いた。",
+      "translation_zh_CN": "她写了好多诗。"
+    },
+    {
+      "content": "彼はちょっとした詩人だと思う。",
+      "furigana": "[彼|かれ]はちょっとした[詩人|し|じん]だと[思|おも]う。",
+      "translation_zh_CN": "我觉得他有几分像个诗人。"
+    },
+    {
+      "content": "彼女は苦もなくその詩を暗記した。",
+      "furigana": "[彼女|かの|じょ]は[苦|く]もなくその[詩|し]を[暗記|あん|き]した。",
+      "translation_zh_CN": "她輕而易舉的就把詩背熟了。"
+    },
+    {
+      "content": "芭蕉はもっとも偉大な詩人だった。",
+      "furigana": "[芭蕉|ば|しょう]はもっとも[偉大|い|だい]な[詩人|し|じん]だった。",
+      "translation_zh_CN": "芭蕉是最偉大的詩人。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "詩人",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "詩人",
+          "reading": "しじん"
+        }
+      ]
+    },
+    {
+      "slug": "詩集",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩集",
+          "reading": "ししゅう"
+        }
+      ]
+    },
+    {
+      "slug": "詩情",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩情",
+          "reading": "しじょう"
+        }
+      ]
+    },
+    {
+      "slug": "詩歌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩歌",
+          "reading": "しいか"
+        },
+        {
+          "word": "詩哥",
+          "reading": "しいか"
+        },
+        {
+          "word": "詩歌",
+          "reading": "しか"
+        }
+      ]
+    },
+    {
+      "slug": "詩論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩論",
+          "reading": "しろん"
+        }
+      ]
+    },
+    {
+      "slug": "詩句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩句",
+          "reading": "しく"
+        }
+      ]
+    },
+    {
+      "slug": "詩的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩的",
+          "reading": "してき"
+        }
+      ]
+    },
+    {
+      "slug": "詩作",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩作",
+          "reading": "しさく"
+        }
+      ]
+    },
+    {
+      "slug": "詩碑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩碑",
+          "reading": "しひ"
+        }
+      ]
+    },
+    {
+      "slug": "詩文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩文",
+          "reading": "しぶん"
+        }
+      ]
+    },
+    {
+      "slug": "詩形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩形",
+          "reading": "しけい"
+        },
+        {
+          "word": "詩型",
+          "reading": "しけい"
+        }
+      ]
+    },
+    {
+      "slug": "詩経",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩経",
+          "reading": "しきょう"
+        }
+      ]
+    },
+    {
+      "slug": "詩編",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩編",
+          "reading": "しへん"
+        },
+        {
+          "word": "詩篇",
+          "reading": "しへん"
+        }
+      ]
+    },
+    {
+      "slug": "詩吟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩吟",
+          "reading": "しぎん"
+        }
+      ]
+    },
+    {
+      "slug": "詩体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩体",
+          "reading": "したい"
+        }
+      ]
+    },
+    {
+      "slug": "詩化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩化",
+          "reading": "しか"
+        }
+      ]
+    },
+    {
+      "slug": "詩余",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩余",
+          "reading": "しよ"
+        }
+      ]
+    },
+    {
+      "slug": "詩友",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "詩友",
+          "reading": "しゆう"
+        }
+      ]
+    }
   ]
 }

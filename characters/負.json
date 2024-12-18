@@ -42,7 +42,7 @@
         "négatif",
         "assumer",
         "porter sur le dos",
-        "devoir à quelqu\u0027un",
+        "devoir à quelqu'un",
         "faire un rabais"
       ]
     },
@@ -89,6 +89,287 @@
       "radical": "八",
       "startStroke": 7,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "私たちは子供たちを負ぶったのよ。",
+      "furigana": "[私|わたし]たちは[子供|こ|ども]たちを[負|お]ぶったのよ。",
+      "translation_zh_CN": "我们失去了孩子。"
+    },
+    {
+      "content": "あ、あれ？なんか・・・すっごい負のオーラを感じますよ？",
+      "furigana": "あ、あれ？なんか・・・すっごい[負|まけ]のオーラを[感|かん]じますよ？",
+      "translation_zh_CN": "哦，什么？我感觉……这里有一种非常负面的气氛，不是吗？"
+    },
+    {
+      "content": "彼は負けを認めた。",
+      "furigana": "[彼|かれ]は[負|ま]けを[認|みと]めた。",
+      "translation_zh_CN": "他接受了他的失败。"
+    },
+    {
+      "content": "彼は戦争で負傷した。",
+      "furigana": "[彼|かれ]は[戦争|せん|そう]で[負傷|ふ|しょう]した。",
+      "translation_zh_CN": "他是在战争中受伤的。"
+    },
+    {
+      "content": "彼は事故で負傷した。",
+      "furigana": "[彼|かれ]は[事故|じ|こ]で[負傷|ふ|しょう]した。",
+      "translation_zh_CN": "他在事故中受傷。"
+    },
+    {
+      "content": "彼は袋を背負っている。",
+      "furigana": "[彼|かれ]は[袋|ふくろ]を[背負|せ|お]っている。",
+      "translation_zh_CN": "他背著一個袋子。"
+    },
+    {
+      "content": "彼は肩を負傷していた。",
+      "furigana": "[彼|かれ]は[肩|かた]を[負傷|ふ|しょう]していた。",
+      "translation_zh_CN": "他伤了肩膀。"
+    },
+    {
+      "content": "我々は3対0で負けた。",
+      "furigana": "[我々|われわれ]は[3|][対|たい][0|]で[負|ま]けた。",
+      "translation_zh_CN": "我们0比3输了。"
+    },
+    {
+      "content": "緑チームが負けました。",
+      "furigana": "[緑|みどり]チームが[負|ま]けました。",
+      "translation_zh_CN": "綠隊被打敗了。"
+    },
+    {
+      "content": "彼はその事故で負傷した。",
+      "furigana": "[彼|かれ]はその[事故|じ|こ]で[負傷|ふ|しょう]した。",
+      "translation_zh_CN": "他在事故中受傷。"
+    },
+    {
+      "content": "彼がその全責任を負った。",
+      "furigana": "[彼|かれ]がその[全責任|ぜん|せき|にん]を[負|お]った。",
+      "translation_zh_CN": "他負了全部責任。"
+    },
+    {
+      "content": "私達はその試合に負けた。",
+      "furigana": "[私|わたし][達|たち]はその[試合|し|あい]に[負|ま]けた。",
+      "translation_zh_CN": "我们比赛输了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "負債",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "負債",
+          "reading": "ふさい"
+        }
+      ]
+    },
+    {
+      "slug": "負ける",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "負ける",
+          "reading": "まける"
+        },
+        {
+          "word": "敗ける",
+          "reading": "まける"
+        },
+        {
+          "word": "敗北る",
+          "reading": "まける"
+        }
+      ]
+    },
+    {
+      "slug": "負け",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "負け",
+          "reading": "まけ"
+        }
+      ]
+    },
+    {
+      "slug": "負う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "負う",
+          "reading": "おう"
+        }
+      ]
+    },
+    {
+      "slug": "負傷",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "負傷",
+          "reading": "ふしょう"
+        }
+      ]
+    },
+    {
+      "slug": "負担",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "負担",
+          "reading": "ふたん"
+        }
+      ]
+    },
+    {
+      "slug": "負かす",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "負かす",
+          "reading": "まかす"
+        }
+      ]
+    },
+    {
+      "slug": "負荷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負荷",
+          "reading": "ふか"
+        }
+      ]
+    },
+    {
+      "slug": "負んぶ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負んぶ",
+          "reading": "おんぶ"
+        },
+        {
+          "reading": "オンブ"
+        }
+      ]
+    },
+    {
+      "slug": "負け惜しみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負け惜しみ",
+          "reading": "まけおしみ"
+        }
+      ]
+    },
+    {
+      "slug": "負け犬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負け犬",
+          "reading": "まけいぬ"
+        }
+      ]
+    },
+    {
+      "slug": "負傷者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負傷者",
+          "reading": "ふしょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "おんぶに抱っこ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "おんぶに抱っこ",
+          "reading": "おんぶにだっこ"
+        },
+        {
+          "word": "負んぶに抱っこ",
+          "reading": "おんぶにだっこ"
+        }
+      ]
+    },
+    {
+      "slug": "負傷兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負傷兵",
+          "reading": "ふしょうへい"
+        }
+      ]
+    },
+    {
+      "slug": "負け越し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負け越し",
+          "reading": "まけこし"
+        }
+      ]
+    },
+    {
+      "slug": "負い目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負い目",
+          "reading": "おいめ"
+        },
+        {
+          "word": "負目",
+          "reading": "おいめ"
+        }
+      ]
+    },
+    {
+      "slug": "負託",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負託",
+          "reading": "ふたく"
+        },
+        {
+          "word": "負托",
+          "reading": "ふたく"
+        }
+      ]
+    },
+    {
+      "slug": "負けん気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "負けん気",
+          "reading": "まけんき"
+        }
+      ]
     }
   ]
 }

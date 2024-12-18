@@ -89,5 +89,207 @@
       "startStroke": 11,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "映画館にいたんだ。",
+      "furigana": "[映画館|えい|が|かん]にいたんだ。",
+      "translation_zh_CN": "我当时在电影院。"
+    },
+    {
+      "content": "映画館で働いてます。",
+      "furigana": "[映画館|えい|が|かん]で[働|はたら]いてます。",
+      "translation_zh_CN": "我在电影院工作。"
+    },
+    {
+      "content": "映画館に行こうよ。",
+      "furigana": "[映画館|えい|が|かん]に[行|い]こうよ。",
+      "translation_zh_CN": "我们去电影院吧。"
+    },
+    {
+      "content": "映画館、がらがらだったよ。",
+      "furigana": "[映画館|えい|が|かん]、がらがらだったよ。",
+      "translation_zh_CN": "电影院空无一人。"
+    },
+    {
+      "content": "私は映画館にいました。",
+      "furigana": "[私|わたし]は[映画館|えい|が|かん]にいました。",
+      "translation_zh_CN": "我当时在电影院。"
+    },
+    {
+      "content": "映画館で働いてるんですよ。",
+      "furigana": "[映画館|えい|が|かん]で[働|はたら]いてるんですよ。",
+      "translation_zh_CN": "我在电影院工作。"
+    },
+    {
+      "content": "映画館に行くことにしたよ。",
+      "furigana": "[映画館|えい|が|かん]に[行|い]くことにしたよ。",
+      "translation_zh_CN": "我决定去电影院。"
+    },
+    {
+      "content": "映画館は駅から近いの？",
+      "furigana": "[映画館|えい|が|かん]は[駅|えき]から[近|ちか]いの？",
+      "translation_zh_CN": "电影院离车站近吗？"
+    },
+    {
+      "content": "その映画館は人々でいっぱいだった。",
+      "furigana": "その[映画館|えい|が|かん]は[人々|ひとびと]でいっぱいだった。",
+      "translation_zh_CN": "电影院里挤满了人。"
+    },
+    {
+      "content": "私たち、映画館に行きたいの。",
+      "furigana": "[私|わたし]たち、[映画館|えい|が|かん]に[行|い]きたいの。",
+      "translation_zh_CN": "我们想去电影院。"
+    },
+    {
+      "content": "明日図書館でね。",
+      "furigana": "[明日|あした][図書館|と|しょ|かん]でね。",
+      "translation_zh_CN": "明天图书馆见。"
+    },
+    {
+      "content": "映画館に行こうよ。",
+      "furigana": "[映画館|えい|が|かん]に[行|い]こうよ。",
+      "translation_zh_CN": "我们去影院。"
+    },
+    {
+      "content": "映画館内は禁煙です。",
+      "furigana": "[映画館|えい|が|かん][内|ない]は[禁煙|きん|えん]です。",
+      "translation_zh_CN": "電影院內不准吸煙。"
+    },
+    {
+      "content": "映画館は駅から近いの？",
+      "furigana": "[映画館|えい|が|かん]は[駅|えき]から[近|ちか]いの？",
+      "translation_zh_CN": "电影院离电车站近吗？"
+    },
+    {
+      "content": "明日、図書館でまたね。",
+      "furigana": "[明日|あした]、[図書館|と|しょ|かん]でまたね。",
+      "translation_zh_CN": "明天图书馆见。"
+    },
+    {
+      "content": "また明日、図書館でね。",
+      "furigana": "また[明日|あした]、[図書館|と|しょ|かん]でね。",
+      "translation_zh_CN": "明天图书馆见。"
+    },
+    {
+      "content": "私は映画館にいました。",
+      "furigana": "[私|わたし]は[映画館|えい|が|かん]にいました。",
+      "translation_zh_CN": "我在劇場。"
+    },
+    {
+      "content": "図書館は市の中央にある。",
+      "furigana": "[図書館|と|しょ|かん]は[市|し]の[中央|ちゅう|おう]にある。",
+      "translation_zh_CN": "图书馆位于市中央。"
+    },
+    {
+      "content": "郵便局は図書館の隣にある。",
+      "furigana": "[郵便|ゆう|びん][局|きょく]は[図書館|と|しょ|かん]の[隣|となり]にある。",
+      "translation_zh_CN": "郵局在圖書館旁邊。"
+    },
+    {
+      "content": "美術館はどこにありますか。",
+      "furigana": "[美術館|び|じゅつ|かん]はどこにありますか。",
+      "translation_zh_CN": "博物馆在哪里？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "室積み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "室積み",
+          "reading": "むろつみ"
+        },
+        {
+          "word": "室積",
+          "reading": "むろつみ"
+        },
+        {
+          "word": "館",
+          "reading": "むろつみ"
+        }
+      ]
+    },
+    {
+      "slug": "館内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "館内",
+          "reading": "かんない"
+        }
+      ]
+    },
+    {
+      "slug": "館長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "館長",
+          "reading": "かんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "館員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "館員",
+          "reading": "かんいん"
+        }
+      ]
+    },
+    {
+      "slug": "館主",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "館主",
+          "reading": "かんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "館外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "館外",
+          "reading": "かんがい"
+        }
+      ]
+    },
+    {
+      "slug": "館娃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "館娃",
+          "reading": "かんあい"
+        }
+      ]
+    },
+    {
+      "slug": "館内図",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "館内図",
+          "reading": "かんないず"
+        }
+      ]
+    },
+    {
+      "slug": "館内放送",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "館内放送",
+          "reading": "かんないほうそう"
+        }
+      ]
+    }
   ]
 }

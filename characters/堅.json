@@ -83,5 +83,263 @@
       "startStroke": 9,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "このステーキは堅すぎる。",
+      "furigana": "このステーキは[堅|かた]すぎる。",
+      "translation_zh_CN": "这牛排太硬了。"
+    },
+    {
+      "content": "トムは口が堅い。",
+      "furigana": "トムは[口|くち]が[堅|かた]い。",
+      "translation_zh_CN": "汤姆会保密。"
+    },
+    {
+      "content": "彼女は口が堅い方だ。",
+      "furigana": "[彼女|かの|じょ]は[口|くち]が[堅|かた]い[方|ほう]だ。",
+      "translation_zh_CN": "她口风很严。"
+    },
+    {
+      "content": "堅い書き物は大嫌いだ。",
+      "furigana": "[堅|かた]い[書|か]き[物|もの]は[大嫌|だい|きら]いだ。",
+      "translation_zh_CN": "我太讨厌正规字体了！"
+    },
+    {
+      "content": "堅苦しいことはぬきにしましょう。",
+      "furigana": "[堅苦|かた|くる]しいことはぬきにしましょう。",
+      "translation_zh_CN": "我們不必拘禮了。"
+    },
+    {
+      "content": "それはまるで岩のように堅かった。",
+      "furigana": "それはまるで[岩|いわ]のように[堅|かた]かった。",
+      "translation_zh_CN": "那如石頭一般堅硬。"
+    },
+    {
+      "content": "そんなに堅苦しくなる必要はないよ。",
+      "furigana": "そんなに[堅苦|かた|くる]しくなる[必要|ひつ|よう]はないよ。",
+      "translation_zh_CN": "你没必要那么正式。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "硬い",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "硬い",
+          "reading": "かたい"
+        },
+        {
+          "word": "固い",
+          "reading": "かたい"
+        },
+        {
+          "word": "堅い",
+          "reading": "かたい"
+        },
+        {
+          "word": "緊い",
+          "reading": "かたい"
+        }
+      ]
+    },
+    {
+      "slug": "堅実",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅実",
+          "reading": "けんじつ"
+        },
+        {
+          "word": "健実",
+          "reading": "けんじつ"
+        }
+      ]
+    },
+    {
+      "slug": "堅苦しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅苦しい",
+          "reading": "かたくるしい"
+        },
+        {
+          "word": "堅苦しい",
+          "reading": "かたぐるしい"
+        }
+      ]
+    },
+    {
+      "slug": "堅固",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅固",
+          "reading": "けんご"
+        }
+      ]
+    },
+    {
+      "slug": "固める",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "固める",
+          "reading": "かためる"
+        },
+        {
+          "word": "堅める",
+          "reading": "かためる"
+        }
+      ]
+    },
+    {
+      "slug": "堅牢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅牢",
+          "reading": "けんろう"
+        }
+      ]
+    },
+    {
+      "slug": "堅物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅物",
+          "reading": "かたぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "堅さ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "硬さ",
+          "reading": "かたさ"
+        },
+        {
+          "word": "固さ",
+          "reading": "かたさ"
+        },
+        {
+          "word": "堅さ",
+          "reading": "かたさ"
+        }
+      ]
+    },
+    {
+      "slug": "堅調",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅調",
+          "reading": "けんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "堅持",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅持",
+          "reading": "けんじ"
+        }
+      ]
+    },
+    {
+      "slug": "堅気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅気",
+          "reading": "かたぎ"
+        },
+        {
+          "reading": "カタギ"
+        }
+      ]
+    },
+    {
+      "slug": "堅守",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅守",
+          "reading": "けんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "堅信",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅信",
+          "reading": "けんしん"
+        },
+        {
+          "word": "堅振",
+          "reading": "けんしん"
+        }
+      ]
+    },
+    {
+      "slug": "堅っ苦しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅っ苦しい",
+          "reading": "かたっくるしい"
+        }
+      ]
+    },
+    {
+      "slug": "堅城",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅城",
+          "reading": "けんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "堅塁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "堅塁",
+          "reading": "けんるい"
+        },
+        {
+          "word": "堅累",
+          "reading": "けんるい"
+        }
+      ]
+    },
+    {
+      "slug": "堅い女",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "身持ちの堅い女",
+          "reading": "みもちのかたいおんな"
+        }
+      ]
+    }
   ]
 }

@@ -73,5 +73,116 @@
       "startStroke": 12,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "僅かな不注意が大惨事に繋がる恐れがある。",
+      "furigana": "[僅|わず]かな[不注意|ふ|ちゅう|い]が[大|だい][惨事|さん|じ]に[繋|つな]がる[恐|おそ]れがある。",
+      "translation_zh_CN": "失之毫厘，谬之千里。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "僅か",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "僅か",
+          "reading": "わずか"
+        },
+        {
+          "word": "纔か",
+          "reading": "わずか"
+        }
+      ]
+    },
+    {
+      "slug": "僅かに",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僅かに",
+          "reading": "わずかに"
+        },
+        {
+          "word": "僅に",
+          "reading": "わずかに"
+        },
+        {
+          "word": "纔かに",
+          "reading": "わずかに"
+        },
+        {
+          "word": "纔に",
+          "reading": "わずかに"
+        }
+      ]
+    },
+    {
+      "slug": "僅かながら",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僅かながら",
+          "reading": "わずかながら"
+        }
+      ]
+    },
+    {
+      "slug": "僅差",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僅差",
+          "reading": "きんさ"
+        }
+      ]
+    },
+    {
+      "slug": "僅少",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僅少",
+          "reading": "きんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "僅々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僅々",
+          "reading": "きんきん"
+        },
+        {
+          "word": "僅僅",
+          "reading": "きんきん"
+        }
+      ]
+    },
+    {
+      "slug": "僅少差",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僅少差",
+          "reading": "きんしょうさ"
+        }
+      ]
+    },
+    {
+      "slug": "僅かしか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "僅かしか",
+          "reading": "わずかしか"
+        }
+      ]
+    }
   ]
 }

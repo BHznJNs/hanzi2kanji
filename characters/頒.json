@@ -93,5 +93,106 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "分ける",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "分ける",
+          "reading": "わける"
+        },
+        {
+          "word": "別ける",
+          "reading": "わける"
+        }
+      ]
+    },
+    {
+      "slug": "頒布",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頒布",
+          "reading": "はんぷ"
+        }
+      ]
+    },
+    {
+      "slug": "半白",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "半白",
+          "reading": "はんぱく"
+        },
+        {
+          "word": "斑白",
+          "reading": "はんぱく"
+        },
+        {
+          "word": "頒白",
+          "reading": "はんぱく"
+        }
+      ]
+    },
+    {
+      "slug": "頒行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頒行",
+          "reading": "はんこう"
+        }
+      ]
+    },
+    {
+      "slug": "頒布会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頒布会",
+          "reading": "はんぷかい"
+        }
+      ]
+    },
+    {
+      "slug": "頒価",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頒価",
+          "reading": "はんか"
+        }
+      ]
+    },
+    {
+      "slug": "頒布権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頒布権",
+          "reading": "はんぷけん"
+        }
+      ]
+    },
+    {
+      "slug": "分つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "分つ",
+          "reading": "あかつ"
+        },
+        {
+          "word": "頒つ",
+          "reading": "あかつ"
+        }
+      ]
+    }
   ]
 }

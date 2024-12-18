@@ -69,5 +69,112 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "寵物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵物",
+          "reading": "ちょうもつ"
+        }
+      ]
+    },
+    {
+      "slug": "寵姫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵姫",
+          "reading": "ちょうき"
+        }
+      ]
+    },
+    {
+      "slug": "寵臣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵臣",
+          "reading": "ちょうしん"
+        }
+      ]
+    },
+    {
+      "slug": "寵愛一身",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵愛一身",
+          "reading": "ちょうあいいっしん"
+        }
+      ]
+    },
+    {
+      "slug": "寵児",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵児",
+          "reading": "ちょうじ"
+        }
+      ]
+    },
+    {
+      "slug": "寵幸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵幸",
+          "reading": "ちょうこう"
+        }
+      ]
+    },
+    {
+      "slug": "寵愛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵愛",
+          "reading": "ちょうあい"
+        }
+      ]
+    },
+    {
+      "slug": "寵妃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵妃",
+          "reading": "ちょうひ"
+        }
+      ]
+    },
+    {
+      "slug": "寵愛昂じて尼になす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵愛昂じて尼になす",
+          "reading": "ちょうあいこうじてあまになす"
+        }
+      ]
+    },
+    {
+      "slug": "寵愛昂じて尼にする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "寵愛昂じて尼にする",
+          "reading": "ちょうあいこうじてあまにする"
+        },
+        {
+          "word": "寵愛こうじて尼にする",
+          "reading": "ちょうあいこうじてあまにする"
+        }
+      ]
+    }
   ]
 }

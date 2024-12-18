@@ -58,5 +58,339 @@
       "startStroke": 6,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "書ける紙ちょうだい。",
+      "furigana": "[書|か]ける[紙|かみ]ちょうだい。",
+      "translation_zh_CN": "给我一些纸来写。"
+    },
+    {
+      "content": "紙がほしい。",
+      "furigana": "[紙|かみ]がほしい。",
+      "translation_zh_CN": "我想要纸。"
+    },
+    {
+      "content": "なんか紙ちょうだい。",
+      "furigana": "なんか[紙|かみ]ちょうだい。",
+      "translation_zh_CN": "给我一些纸。"
+    },
+    {
+      "content": "書く紙ちょうだい。",
+      "furigana": "[書|か]く[紙|かみ]ちょうだい。",
+      "translation_zh_CN": "给我一些纸来写。"
+    },
+    {
+      "content": "紙は燃えやすい。",
+      "furigana": "[紙|かみ]は[燃|も]えやすい。",
+      "translation_zh_CN": "纸很容易燃烧。"
+    },
+    {
+      "content": "紙は速く燃えてしまう。",
+      "furigana": "[紙|かみ]は[速|はや]く[燃|も]えてしまう。",
+      "translation_zh_CN": "纸很快就会燃烧。"
+    },
+    {
+      "content": "紙か何かある？",
+      "furigana": "[紙|かみ]か[何|なに]かある？",
+      "translation_zh_CN": "你有纸什么的吗？"
+    },
+    {
+      "content": "紙は早く燃えます。",
+      "furigana": "[紙|かみ]は[早|はや]く[燃|も]えます。",
+      "translation_zh_CN": "纸很快就会燃烧。"
+    },
+    {
+      "content": "紙が必要だ。",
+      "furigana": "[紙|かみ]が[必要|ひつ|よう]だ。",
+      "translation_zh_CN": "我需要纸。"
+    },
+    {
+      "content": "書く紙がない。",
+      "furigana": "[書|か]く[紙|かみ]がない。",
+      "translation_zh_CN": "没有纸可以写。"
+    },
+    {
+      "content": "紙は燃えやすい。",
+      "furigana": "[紙|かみ]は[燃|も]えやすい。",
+      "translation_zh_CN": "紙易燃 。"
+    },
+    {
+      "content": "彼から手紙がきた？",
+      "furigana": "[彼|かれ]から[手紙|て|がみ]がきた？",
+      "translation_zh_CN": "他来信了吗？"
+    },
+    {
+      "content": "長い手紙でした。",
+      "furigana": "[長|なが]い[手紙|て|がみ]でした。",
+      "translation_zh_CN": "它是封长信。"
+    },
+    {
+      "content": "彼は手紙を書いた。",
+      "furigana": "[彼|かれ]は[手紙|て|がみ]を[書|か]いた。",
+      "translation_zh_CN": "他写了一封信。"
+    },
+    {
+      "content": "紙はすぐに燃える。",
+      "furigana": "[紙|かみ]はすぐに[燃|も]える。",
+      "translation_zh_CN": "纸容易着火。"
+    },
+    {
+      "content": "私は手紙を書いた。",
+      "furigana": "[私|わたし]は[手紙|て|がみ]を[書|か]いた。",
+      "translation_zh_CN": "我写了一封信。"
+    },
+    {
+      "content": "君あての手紙だよ。",
+      "furigana": "[君|きみ]あての[手紙|て|がみ]だよ。",
+      "translation_zh_CN": "这是你的信。"
+    },
+    {
+      "content": "手紙を書いている。",
+      "furigana": "[手紙|て|がみ]を[書|か]いている。",
+      "translation_zh_CN": "我正在寫一封信。"
+    },
+    {
+      "content": "すぐに手紙書くよ。",
+      "furigana": "すぐに[手紙|て|がみ][書|か]くよ。",
+      "translation_zh_CN": "我會盡快寫信給你。"
+    },
+    {
+      "content": "これは古い手紙だ。",
+      "furigana": "これは[古|ふる]い[手紙|て|がみ]だ。",
+      "translation_zh_CN": "这是陈年旧信。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "紙幣",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "紙幣",
+          "reading": "しへい"
+        }
+      ]
+    },
+    {
+      "slug": "紙屑",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "紙くず",
+          "reading": "かみくず"
+        },
+        {
+          "word": "紙屑",
+          "reading": "かみくず"
+        }
+      ]
+    },
+    {
+      "slug": "紙面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙面",
+          "reading": "しめん"
+        }
+      ]
+    },
+    {
+      "slug": "紙袋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙袋",
+          "reading": "かみぶくろ"
+        },
+        {
+          "word": "紙袋",
+          "reading": "かんぶくろ"
+        }
+      ]
+    },
+    {
+      "slug": "紙切れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙切れ",
+          "reading": "かみきれ"
+        },
+        {
+          "word": "紙きれ",
+          "reading": "かみきれ"
+        },
+        {
+          "word": "紙切れ",
+          "reading": "かみぎれ"
+        }
+      ]
+    },
+    {
+      "slug": "紙飛行機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙飛行機",
+          "reading": "かみひこうき"
+        },
+        {
+          "word": "紙ヒコーキ",
+          "reading": "かみひこうき"
+        }
+      ]
+    },
+    {
+      "slug": "紙一重",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙一重",
+          "reading": "かみひとえ"
+        }
+      ]
+    },
+    {
+      "slug": "紙芝居",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙芝居",
+          "reading": "かみしばい"
+        }
+      ]
+    },
+    {
+      "slug": "紙吹雪",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙吹雪",
+          "reading": "かみふぶき"
+        },
+        {
+          "word": "紙ふぶき",
+          "reading": "かみふぶき"
+        }
+      ]
+    },
+    {
+      "slug": "紙背",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙背",
+          "reading": "しはい"
+        }
+      ]
+    },
+    {
+      "slug": "紙上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙上",
+          "reading": "しじょう"
+        }
+      ]
+    },
+    {
+      "slug": "紙片",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙片",
+          "reading": "しへん"
+        }
+      ]
+    },
+    {
+      "slug": "紙巻たばこ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙巻たばこ",
+          "reading": "かみまきタバコ"
+        },
+        {
+          "word": "紙巻タバコ",
+          "reading": "かみまきタバコ"
+        },
+        {
+          "word": "紙巻きたばこ",
+          "reading": "かみまきタバコ"
+        },
+        {
+          "word": "紙巻きタバコ",
+          "reading": "かみまきタバコ"
+        }
+      ]
+    },
+    {
+      "slug": "紙切り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙切り",
+          "reading": "かみきり"
+        }
+      ]
+    },
+    {
+      "slug": "紙粘土",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙粘土",
+          "reading": "かみねんど"
+        }
+      ]
+    },
+    {
+      "slug": "四手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "四手",
+          "reading": "しで"
+        },
+        {
+          "word": "垂",
+          "reading": "しで"
+        },
+        {
+          "word": "紙垂",
+          "reading": "しで"
+        },
+        {
+          "word": "椣",
+          "reading": "しで"
+        },
+        {
+          "word": "紙垂",
+          "reading": "かみしで"
+        },
+        {
+          "word": "紙四手",
+          "reading": "かみしで"
+        }
+      ]
+    },
+    {
+      "slug": "紙の辞書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紙の辞書",
+          "reading": "かみのじしょ"
+        }
+      ]
+    }
   ]
 }

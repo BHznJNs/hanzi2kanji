@@ -156,5 +156,277 @@
       "strokes": 1,
       "part": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "第３四半期は収入減が見込まれている。",
+      "furigana": "[第|だい]３[四半期|し|はん|き]は[収入減|しゅう|にゅう|げん]が[見込|み|こ]まれている。",
+      "translation_zh_CN": "预计第三季度收入将下降。"
+    },
+    {
+      "content": "この数字は原油輸入減を反映している。",
+      "furigana": "この[数字|すう|じ]は[原油輸入減|げん|ゆ|ゆ|にゅう|げん]を[反映|はん|えい]している。",
+      "translation_zh_CN": "这一数字反映了原油进口量的下降。"
+    },
+    {
+      "content": "市長は駐車メーターからの収入減を調査すべきだと考えた。",
+      "furigana": "[市長|し|ちょう]は[駐車|ちゅう|しゃ]メーターからの[収入減|しゅう|にゅう|げん]を[調査|ちょう|さ]すべきだと[考|かんが]えた。",
+      "translation_zh_CN": "市长认为应该对停车计时器造成的收入损失进行调查。"
+    },
+    {
+      "content": "体重が3kg減った。",
+      "furigana": "[体重|たい|じゅう]が[3|さん][kg|キロ][減|へ]った。",
+      "translation_zh_CN": "我瘦了三公斤。"
+    },
+    {
+      "content": "いい加減にしろよ。",
+      "furigana": "いい[加減|か|げん]にしろよ。",
+      "translation_zh_CN": "够了。"
+    },
+    {
+      "content": "トムは30kg減量した。",
+      "furigana": "トムは[30|さんじゅっ][kg|キロ][減量|げん|りょう]した。",
+      "translation_zh_CN": "汤姆减掉30公斤分量。"
+    },
+    {
+      "content": "体重は減りましたか。",
+      "furigana": "[体重|たい|じゅう]は[減|へ]りましたか。",
+      "translation_zh_CN": "减肥成功了吗？"
+    },
+    {
+      "content": "お腹が減ってるんです。",
+      "furigana": "お[腹|なか]が[減|へ]ってるんです。",
+      "translation_zh_CN": "我饿了！"
+    },
+    {
+      "content": "彼女は体重が減ってきた。",
+      "furigana": "[彼女|かの|じょ]は[体重|たい|じゅう]が[減|へ]ってきた。",
+      "translation_zh_CN": "她的体重减轻了。"
+    },
+    {
+      "content": "最近、体重が減りました。",
+      "furigana": "[最近|さい|きん]、[体重|たい|じゅう]が[減|へ]りました。",
+      "translation_zh_CN": "最近我的体重减少了。"
+    },
+    {
+      "content": "腹が減っては戦はできぬ。",
+      "furigana": "[腹|はら]が[減|へ]っては[戦|いくさ]はできぬ。",
+      "translation_zh_CN": "饿着肚子是没法打仗的。"
+    },
+    {
+      "content": "たばこの量を減らしなさい。",
+      "furigana": "たばこの[量|りょう]を[減|へ]らしなさい。",
+      "translation_zh_CN": "你应该少抽烟。"
+    },
+    {
+      "content": "腹減ってるんなら、食べな。",
+      "furigana": "[腹|はら][減|へ]ってるんなら、[食|た]べな。",
+      "translation_zh_CN": "如果饿了，吃吧。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "減る",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "減る",
+          "reading": "へる"
+        }
+      ]
+    },
+    {
+      "slug": "減らす",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "減らす",
+          "reading": "へらす"
+        }
+      ]
+    },
+    {
+      "slug": "減少",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "減少",
+          "reading": "げんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "減量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減量",
+          "reading": "げんりょう"
+        }
+      ]
+    },
+    {
+      "slug": "減税",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減税",
+          "reading": "げんぜい"
+        }
+      ]
+    },
+    {
+      "slug": "減退",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減退",
+          "reading": "げんたい"
+        }
+      ]
+    },
+    {
+      "slug": "減免",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減免",
+          "reading": "げんめん"
+        }
+      ]
+    },
+    {
+      "slug": "減速",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減速",
+          "reading": "げんそく"
+        }
+      ]
+    },
+    {
+      "slug": "減食",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減食",
+          "reading": "げんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "減点",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "減点",
+          "reading": "げんてん"
+        }
+      ]
+    },
+    {
+      "slug": "減じる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減じる",
+          "reading": "げんじる"
+        }
+      ]
+    },
+    {
+      "slug": "減り込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "めり込む",
+          "reading": "めりこむ"
+        },
+        {
+          "word": "減り込む",
+          "reading": "めりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "減価償却",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減価償却",
+          "reading": "げんかしょうきゃく"
+        }
+      ]
+    },
+    {
+      "slug": "減収",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減収",
+          "reading": "げんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "減員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減員",
+          "reading": "げんいん"
+        }
+      ]
+    },
+    {
+      "slug": "減額",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減額",
+          "reading": "げんがく"
+        }
+      ]
+    },
+    {
+      "slug": "減給",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減給",
+          "reading": "げんきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "減益",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減益",
+          "reading": "げんえき"
+        }
+      ]
+    },
+    {
+      "slug": "減産",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "減産",
+          "reading": "げんさん"
+        }
+      ]
+    }
   ]
 }

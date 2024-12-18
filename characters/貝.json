@@ -60,5 +60,308 @@
       "startStroke": 5,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "貝は好きではない。",
+      "furigana": "[貝|かい]は[好|す]きではない。",
+      "translation_zh_CN": "我不喜欢贝类。"
+    },
+    {
+      "content": "火力とお鍋と貝の種類によるわ。",
+      "furigana": "[火力|か|りょく]とお[鍋|なべ]と[貝|かい]の[種類|しゅ|るい]によるわ。",
+      "translation_zh_CN": "这取决于火候、锅和贝类的种类。"
+    },
+    {
+      "content": "今日はホタテ貝がお買い得ですよ。",
+      "furigana": "[今日|きょう]はホタテ[貝|がい]がお[買|か]い[得|どく]ですよ。",
+      "translation_zh_CN": "今天扇贝很便宜。"
+    },
+    {
+      "content": "今日はホタテ貝がお値打ちですよ。",
+      "furigana": "[今日|きょう]はホタテ[貝|がい]がお[値打|ね|う]ちですよ。",
+      "translation_zh_CN": "如今扇贝的价值很高。"
+    },
+    {
+      "content": "私が手にしてるのは貝の化石です。",
+      "furigana": "[私|わたし]が[手|て]にしてるのは[貝|かい]の[化石|か|せき]です。",
+      "translation_zh_CN": "我手里拿着的是一块贝类化石。"
+    },
+    {
+      "content": "砂浜でいろんな貝を拾うのは実に楽しい。",
+      "furigana": "[砂浜|すな|はま]でいろんな[貝|かい]を[拾|ひろ]うのは[実|じつ]に[楽|たの]しい。",
+      "translation_zh_CN": "在海滩上捡各种贝壳真是太有趣了。"
+    },
+    {
+      "content": "あの子は海辺の貝殻売りだ。",
+      "furigana": "あの[子|こ]は[海辺|うみ|べ]の[貝殻|かい|がら][売|う]りだ。",
+      "translation_zh_CN": "她在海边卖贝壳。"
+    },
+    {
+      "content": "うみできれいな貝がらをひろった。",
+      "furigana": "うみできれいな[貝|かい]がらをひろった。",
+      "translation_zh_CN": "我在海边捡了个漂亮贝壳。"
+    },
+    {
+      "content": "彼女は海辺で貝殻を売っています。",
+      "furigana": "[彼女|かの|じょ]は[海辺|うみ|べ]で[貝殻|かい|がら]を[売|う]っています。",
+      "translation_zh_CN": "她在海边卖贝壳。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "貝殻",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "貝殻",
+          "reading": "かいがら"
+        },
+        {
+          "word": "貝がら",
+          "reading": "かいがら"
+        },
+        {
+          "word": "貝殼",
+          "reading": "かいがら"
+        }
+      ]
+    },
+    {
+      "slug": "貝塚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝塚",
+          "reading": "かいづか"
+        },
+        {
+          "word": "貝塚",
+          "reading": "かいずか"
+        }
+      ]
+    },
+    {
+      "slug": "貝毒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝毒",
+          "reading": "かいどく"
+        }
+      ]
+    },
+    {
+      "slug": "貝類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝類",
+          "reading": "かいるい"
+        }
+      ]
+    },
+    {
+      "slug": "貝割",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝割",
+          "reading": "かいわり"
+        },
+        {
+          "word": "貝割り",
+          "reading": "かいわり"
+        },
+        {
+          "word": "卵割り",
+          "reading": "かいわり"
+        },
+        {
+          "word": "卵割",
+          "reading": "かいわり"
+        },
+        {
+          "word": "穎割り",
+          "reading": "かいわり"
+        },
+        {
+          "word": "穎割",
+          "reading": "かいわり"
+        }
+      ]
+    },
+    {
+      "slug": "貝蛸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝蛸",
+          "reading": "かいだこ"
+        },
+        {
+          "reading": "カイダコ"
+        }
+      ]
+    },
+    {
+      "slug": "貝部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝部",
+          "reading": "ばいぶ"
+        }
+      ]
+    },
+    {
+      "slug": "貝紫色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝紫色",
+          "reading": "かいむらさきいろ"
+        }
+      ]
+    },
+    {
+      "slug": "貝殻虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝殻虫",
+          "reading": "かいがらむし"
+        },
+        {
+          "word": "介殻虫",
+          "reading": "かいがらむし"
+        },
+        {
+          "reading": "カイガラムシ"
+        }
+      ]
+    },
+    {
+      "slug": "貝多羅葉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝多羅葉",
+          "reading": "ばいたらよう"
+        },
+        {
+          "word": "貝多羅葉",
+          "reading": "ばいたらば"
+        }
+      ]
+    },
+    {
+      "slug": "貝塚伊吹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝塚伊吹",
+          "reading": "かいづかいぶき"
+        },
+        {
+          "reading": "カイヅカイブキ"
+        },
+        {
+          "reading": "カイズカイブキ"
+        }
+      ]
+    },
+    {
+      "slug": "貝杓子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝杓子",
+          "reading": "かいじゃくし"
+        }
+      ]
+    },
+    {
+      "slug": "貝柱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝柱",
+          "reading": "かいばしら"
+        }
+      ]
+    },
+    {
+      "slug": "貝多羅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝多羅",
+          "reading": "ばいたら"
+        }
+      ]
+    },
+    {
+      "slug": "貝偏",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝偏",
+          "reading": "かいへん"
+        }
+      ]
+    },
+    {
+      "slug": "貝割り菜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝割り菜",
+          "reading": "かいわりな"
+        },
+        {
+          "word": "貝割菜",
+          "reading": "かいわりな"
+        }
+      ]
+    },
+    {
+      "slug": "貝細工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貝細工",
+          "reading": "かいざいく"
+        },
+        {
+          "word": "貝ざいく",
+          "reading": "かいざいく"
+        }
+      ]
+    },
+    {
+      "slug": "穎割れ大根",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かいわれ大根",
+          "reading": "かいわれだいこん"
+        },
+        {
+          "word": "貝割れ大根",
+          "reading": "かいわれだいこん"
+        },
+        {
+          "word": "カイワレ大根",
+          "reading": "かいわれだいこん"
+        },
+        {
+          "word": "穎割れ大根",
+          "reading": "かいわれだいこん"
+        }
+      ]
+    }
   ]
 }

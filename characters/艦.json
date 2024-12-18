@@ -79,5 +79,214 @@
       "startStroke": 16,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "潜水艦は沈んで二度と浮上しなかった。",
+      "furigana": "[潜水艦|せん|すい|かん]は[沈|しず]んで[二度|に|ど]と[浮上|ふ|じょう]しなかった。",
+      "translation_zh_CN": "潜艇沉没了，再也没有浮出水面。"
+    },
+    {
+      "content": "潜水艦の潜望鏡が水面から突き出ていた。",
+      "furigana": "[潜水艦|せん|すい|かん]の[潜望鏡|せん|ぼう|きょう]が[水面|すい|めん]から[突|つ]き[出|で]ていた。",
+      "translation_zh_CN": "潜艇的潜望镜伸出水面。"
+    },
+    {
+      "content": "私はこれまで黄色い潜水艦を見たことがない。",
+      "furigana": "[私|わたし]はこれまで[黄色|き|いろ]い[潜水艦|せん|すい|かん]を[見|み]たことがない。",
+      "translation_zh_CN": "我以前从未见过黄色潜艇。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "艦隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦隊",
+          "reading": "かんたい"
+        }
+      ]
+    },
+    {
+      "slug": "艦載機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦載機",
+          "reading": "かんさいき"
+        }
+      ]
+    },
+    {
+      "slug": "艦艇",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦艇",
+          "reading": "かんてい"
+        }
+      ]
+    },
+    {
+      "slug": "艦船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦船",
+          "reading": "かんせん"
+        }
+      ]
+    },
+    {
+      "slug": "艦長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦長",
+          "reading": "かんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "艦砲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦砲",
+          "reading": "かんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "艦砲射撃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦砲射撃",
+          "reading": "かんぽうしゃげき"
+        }
+      ]
+    },
+    {
+      "slug": "艦尾",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦尾",
+          "reading": "かんび"
+        }
+      ]
+    },
+    {
+      "slug": "艦上機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦上機",
+          "reading": "かんじょうき"
+        }
+      ]
+    },
+    {
+      "slug": "艦攻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦攻",
+          "reading": "かんこう"
+        }
+      ]
+    },
+    {
+      "slug": "艦体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦体",
+          "reading": "かんたい"
+        }
+      ]
+    },
+    {
+      "slug": "艦載",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦載",
+          "reading": "かんさい"
+        }
+      ]
+    },
+    {
+      "slug": "艦上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦上",
+          "reading": "かんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "艦橋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦橋",
+          "reading": "かんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "艦名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦名",
+          "reading": "かんめい"
+        }
+      ]
+    },
+    {
+      "slug": "艦首",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦首",
+          "reading": "かんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "艦上攻撃機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦上攻撃機",
+          "reading": "かんじょうこうげきき"
+        }
+      ]
+    },
+    {
+      "slug": "艦型",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦型",
+          "reading": "かんけい"
+        }
+      ]
+    },
+    {
+      "slug": "艦種",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "艦種",
+          "reading": "かんしゅ"
+        }
+      ]
+    }
   ]
 }

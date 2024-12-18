@@ -91,5 +91,76 @@
       "startStroke": 17,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "鰭脚類",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰭脚類",
+          "reading": "ききゃくるい"
+        },
+        {
+          "word": "鰭脚類",
+          "reading": "ひれあしるい"
+        }
+      ]
+    },
+    {
+      "slug": "鰭足鷸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰭足鷸",
+          "reading": "ひれあししぎ"
+        },
+        {
+          "reading": "ヒレアシシギ"
+        }
+      ]
+    },
+    {
+      "slug": "鰭条",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰭条",
+          "reading": "きじょう"
+        }
+      ]
+    },
+    {
+      "slug": "ひれ酒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ひれ酒",
+          "reading": "ひれざけ"
+        },
+        {
+          "word": "鰭酒",
+          "reading": "ひれざけ"
+        },
+        {
+          "word": "ヒレ酒",
+          "reading": "ヒレざけ"
+        }
+      ]
+    },
+    {
+      "slug": "鰭長巨頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鰭長巨頭",
+          "reading": "ひれながごんどう"
+        },
+        {
+          "reading": "ヒレナガゴンドウ"
+        }
+      ]
+    }
   ]
 }

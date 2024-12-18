@@ -90,5 +90,326 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "私は携帯を捜している。",
+      "furigana": "[私|わたし]は[携帯|けい|たい]を[捜|さが]している。",
+      "translation_zh_CN": "我在找我的手機。"
+    },
+    {
+      "content": "私のペンを捜してるの。",
+      "furigana": "[私|わたし]のペンを[捜|さが]してるの。",
+      "translation_zh_CN": "我在找我的鋼筆。"
+    },
+    {
+      "content": "携帯を捜してるんだけど。",
+      "furigana": "[携帯|けい|たい]を[捜|さが]してるんだけど。",
+      "translation_zh_CN": "我在找我的手機。"
+    },
+    {
+      "content": "警察は捜査を進めている。",
+      "furigana": "[警察|けい|さつ]は[捜査|そう|さ]を[進|すす]めている。",
+      "translation_zh_CN": "警方正在调查。"
+    },
+    {
+      "content": "お前のこと捜してたんだぞ。",
+      "furigana": "お[前|まえ]のこと[捜|さが]してたんだぞ。",
+      "translation_zh_CN": "我一直在找你。"
+    },
+    {
+      "content": "うちの猫を捜してるんです。",
+      "furigana": "うちの[猫|ねこ]を[捜|さが]してるんです。",
+      "translation_zh_CN": "我在找我的猫。"
+    },
+    {
+      "content": "どこ捜してもいなかったんだ。",
+      "furigana": "どこ[捜|さが]してもいなかったんだ。",
+      "translation_zh_CN": "我在哪儿都找不到她。"
+    },
+    {
+      "content": "容疑者は捜査官にうそを言った。",
+      "furigana": "[容疑|よう|ぎ][者|しゃ]は[捜査|そう|さ][官|かん]にうそを[言|い]った。",
+      "translation_zh_CN": "那嫌疑犯對偵察官撒了個謊。"
+    },
+    {
+      "content": "彼女はあちこち彼を捜して歩いた。",
+      "furigana": "[彼女|かの|じょ]はあちこち[彼|かれ]を[捜|さが]して[歩|ある]いた。",
+      "translation_zh_CN": "她走來走去地找他。"
+    },
+    {
+      "content": "今日一日ずっと鍵を捜してるんだ。",
+      "furigana": "[今日|きょう][一|いち][日|にち]ずっと[鍵|かぎ]を[捜|さが]してるんだ。",
+      "translation_zh_CN": "我找我的鑰匙已經找了一整天了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "探す",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "探す",
+          "reading": "さがす"
+        },
+        {
+          "word": "捜す",
+          "reading": "さがす"
+        }
+      ]
+    },
+    {
+      "slug": "捜索",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "捜索",
+          "reading": "そうさく"
+        }
+      ]
+    },
+    {
+      "slug": "捜査",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "捜査",
+          "reading": "そうさ"
+        }
+      ]
+    },
+    {
+      "slug": "探し回る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "探し回る",
+          "reading": "さがしまわる"
+        },
+        {
+          "word": "探しまわる",
+          "reading": "さがしまわる"
+        },
+        {
+          "word": "捜し回る",
+          "reading": "さがしまわる"
+        },
+        {
+          "word": "探し廻る",
+          "reading": "さがしまわる"
+        },
+        {
+          "word": "捜し廻る",
+          "reading": "さがしまわる"
+        }
+      ]
+    },
+    {
+      "slug": "捜し物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "探し物",
+          "reading": "さがしもの"
+        },
+        {
+          "word": "捜し物",
+          "reading": "さがしもの"
+        }
+      ]
+    },
+    {
+      "slug": "捜し求める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "探し求める",
+          "reading": "さがしもとめる"
+        },
+        {
+          "word": "捜し求める",
+          "reading": "さがしもとめる"
+        },
+        {
+          "word": "探しもとめる",
+          "reading": "さがしもとめる"
+        },
+        {
+          "word": "捜しもとめる",
+          "reading": "さがしもとめる"
+        }
+      ]
+    },
+    {
+      "slug": "捜索隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜索隊",
+          "reading": "そうさくたい"
+        }
+      ]
+    },
+    {
+      "slug": "探し出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "探し出す",
+          "reading": "さがしだす"
+        },
+        {
+          "word": "捜し出す",
+          "reading": "さがしだす"
+        },
+        {
+          "word": "探しだす",
+          "reading": "さがしだす"
+        },
+        {
+          "word": "捜しだす",
+          "reading": "さがしだす"
+        },
+        {
+          "word": "さがし出す",
+          "reading": "さがしだす"
+        }
+      ]
+    },
+    {
+      "slug": "捜査員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査員",
+          "reading": "そうさいん"
+        }
+      ]
+    },
+    {
+      "slug": "捜査官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査官",
+          "reading": "そうさかん"
+        }
+      ]
+    },
+    {
+      "slug": "捜査線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査線",
+          "reading": "そうさせん"
+        }
+      ]
+    },
+    {
+      "slug": "捜査網",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査網",
+          "reading": "そうさもう"
+        }
+      ]
+    },
+    {
+      "slug": "捜査主任",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査主任",
+          "reading": "そうさしゅにん"
+        }
+      ]
+    },
+    {
+      "slug": "捜査陣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査陣",
+          "reading": "そうさじん"
+        }
+      ]
+    },
+    {
+      "slug": "捜査課",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査課",
+          "reading": "そうさか"
+        }
+      ]
+    },
+    {
+      "slug": "捜査令状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査令状",
+          "reading": "そうされいじょう"
+        }
+      ]
+    },
+    {
+      "slug": "捜査権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査権",
+          "reading": "そうさけん"
+        }
+      ]
+    },
+    {
+      "slug": "捜し当てる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "探し当てる",
+          "reading": "さがしあてる"
+        },
+        {
+          "word": "探しあてる",
+          "reading": "さがしあてる"
+        },
+        {
+          "word": "捜し当てる",
+          "reading": "さがしあてる"
+        }
+      ]
+    },
+    {
+      "slug": "捜査当局",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査当局",
+          "reading": "そうさとうきょく"
+        }
+      ]
+    },
+    {
+      "slug": "捜査本部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "捜査本部",
+          "reading": "そうさほんぶ"
+        }
+      ]
+    }
   ]
 }

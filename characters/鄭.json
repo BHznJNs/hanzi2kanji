@@ -78,5 +78,62 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "丁重",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "丁重",
+          "reading": "ていちょう"
+        },
+        {
+          "word": "鄭重",
+          "reading": "ていちょう"
+        }
+      ]
+    },
+    {
+      "slug": "鄭箋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鄭箋",
+          "reading": "ていせん"
+        }
+      ]
+    },
+    {
+      "slug": "鄭氏政権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鄭氏政権",
+          "reading": "ていしせいけん"
+        }
+      ]
+    },
+    {
+      "slug": "鄭声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鄭声",
+          "reading": "ていせい"
+        }
+      ]
+    },
+    {
+      "slug": "鄭州",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鄭州",
+          "reading": "ていしゅう"
+        }
+      ]
+    }
   ]
 }

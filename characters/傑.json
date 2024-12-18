@@ -81,5 +81,92 @@
       "startStroke": 9,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "サルマン・ラシュディの『悪魔の詩』は、近代文学の傑作の一つと見なされている。",
+      "furigana": "サルマン・ラシュディの『[悪魔|あく|ま]の[詩|し]』は、[近代|きん|だい][文学|ぶん|がく]の[傑作|けっ|さく]の[一|ひと]つと[見|み]なされている。",
+      "translation_zh_CN": "萨尔曼·鲁西迪的《撒旦诗篇》是现代文学的真正的杰作"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "優れる",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "優れる",
+          "reading": "すぐれる"
+        },
+        {
+          "word": "勝れる",
+          "reading": "すぐれる"
+        }
+      ]
+    },
+    {
+      "slug": "傑作",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "傑作",
+          "reading": "けっさく"
+        }
+      ]
+    },
+    {
+      "slug": "傑出",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傑出",
+          "reading": "けっしゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "傑物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傑物",
+          "reading": "けつぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "傑士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傑士",
+          "reading": "けっし"
+        }
+      ]
+    },
+    {
+      "slug": "傑人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傑人",
+          "reading": "けつじん"
+        }
+      ]
+    },
+    {
+      "slug": "傑作揃い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "傑作揃い",
+          "reading": "けっさくぞろい"
+        }
+      ]
+    }
   ]
 }

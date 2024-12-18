@@ -56,5 +56,32 @@
       "startStroke": 10,
       "strokes": 6
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "収録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "収録",
+          "reading": "しゅうろく"
+        }
+      ]
+    },
+    {
+      "slug": "集録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "集録",
+          "reading": "しゅうろく"
+        },
+        {
+          "word": "輯録",
+          "reading": "しゅうろく"
+        }
+      ]
+    }
   ]
 }

@@ -84,5 +84,74 @@
       "startStroke": 15,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "櫓臍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫓臍",
+          "reading": "ろべそ"
+        },
+        {
+          "word": "艪臍",
+          "reading": "ろべそ"
+        }
+      ]
+    },
+    {
+      "slug": "櫓投げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫓投げ",
+          "reading": "やぐらなげ"
+        }
+      ]
+    },
+    {
+      "slug": "櫓太鼓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫓太鼓",
+          "reading": "やぐらだいこ"
+        },
+        {
+          "word": "やぐら太鼓",
+          "reading": "やぐらだいこ"
+        }
+      ]
+    },
+    {
+      "slug": "櫓杭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫓杭",
+          "reading": "ろぐい"
+        },
+        {
+          "word": "艪杭",
+          "reading": "ろぐい"
+        }
+      ]
+    },
+    {
+      "slug": "櫓櫂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "櫓櫂",
+          "reading": "ろかい"
+        },
+        {
+          "word": "艪櫂",
+          "reading": "ろかい"
+        }
+      ]
+    }
   ]
 }

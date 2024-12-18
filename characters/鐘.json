@@ -92,5 +92,246 @@
       "startStroke": 13,
       "strokes": 7
     }
+  ],
+  "sentences": [
+    {
+      "content": "鐘が鳴っている。",
+      "furigana": "[鐘|かね]が[鳴|な]っている。",
+      "translation_zh_CN": "铃声响起。"
+    },
+    {
+      "content": "鐘って鳴った？",
+      "furigana": "[鐘|かね]って[鳴|な]った？",
+      "translation_zh_CN": "铃声响了吗？"
+    },
+    {
+      "content": "鐘を鳴らせ。",
+      "furigana": "[鐘|かね]を[鳴|な]らせ。",
+      "translation_zh_CN": "按响门铃。"
+    },
+    {
+      "content": "教会の鐘が鳴っている。",
+      "furigana": "[教会|きょう|かい]の[鐘|かね]が[鳴|な]っている。",
+      "translation_zh_CN": "教堂的钟声正在敲响。"
+    },
+    {
+      "content": "教会堂の鐘が鳴っている。",
+      "furigana": "[教会堂|きょう|かい|どう]の[鐘|かね]が[鳴|な]っている。",
+      "translation_zh_CN": "教堂的钟声正在敲响。"
+    },
+    {
+      "content": "鐘はもう鳴ったのか。",
+      "furigana": "[鐘|かね]はもう[鳴|な]ったのか。",
+      "translation_zh_CN": "铃声已经响了吗？"
+    },
+    {
+      "content": "教会の鐘の音が聞こえてきた。",
+      "furigana": "[教会|きょう|かい]の[鐘|かね]の[音|おと]が[聞|き]こえてきた。",
+      "translation_zh_CN": "我听到教堂的钟声。"
+    },
+    {
+      "content": "教会の鐘が一斉に鳴り出した。",
+      "furigana": "[教会|きょう|かい]の[鐘|かね]が[一斉|いっ|せい]に[鳴|な]り[出|だ]した。",
+      "translation_zh_CN": "教堂的钟声同时响起。"
+    },
+    {
+      "content": "会堂に鐘の音が響き渡った。",
+      "furigana": "[会堂|かい|どう]に[鐘|かね]の[音|おと]が[響|ひび]き[渡|わた]った。",
+      "translation_zh_CN": "钟声在犹太教堂里回荡。"
+    },
+    {
+      "content": "鐘が鳴るとすぐ我々は起き上がった。",
+      "furigana": "[鐘|かね]が[鳴|な]るとすぐ[我々|われわれ]は[起|お]き[上|あ]がった。",
+      "translation_zh_CN": "铃声一响，我们就起床了。"
+    },
+    {
+      "content": "教会の鐘が鳴っている。",
+      "furigana": "[教会|きょう|かい]の[鐘|かね]が[鳴|な]っている。",
+      "translation_zh_CN": "教堂的钟声响了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鍾乳洞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍾乳洞",
+          "reading": "しょうにゅうどう"
+        }
+      ]
+    },
+    {
+      "slug": "鍾乳石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鍾乳石",
+          "reading": "しょうにゅうせき"
+        },
+        {
+          "word": "鐘乳石",
+          "reading": "しょうにゅうせき"
+        }
+      ]
+    },
+    {
+      "slug": "鐘楼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘楼",
+          "reading": "しょうろう"
+        },
+        {
+          "word": "鐘楼",
+          "reading": "しゅろう"
+        }
+      ]
+    },
+    {
+      "slug": "撞木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "撞木",
+          "reading": "しゅもく"
+        },
+        {
+          "word": "撞木",
+          "reading": "しもく"
+        },
+        {
+          "word": "鐘木",
+          "reading": "しゅもく"
+        },
+        {
+          "word": "鐘木",
+          "reading": "しもく"
+        }
+      ]
+    },
+    {
+      "slug": "鐘鼎文",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘鼎文",
+          "reading": "しょうていぶん"
+        }
+      ]
+    },
+    {
+      "slug": "鐘撞堂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘つき堂",
+          "reading": "かねつきどう"
+        },
+        {
+          "word": "鐘撞堂",
+          "reading": "かねつきどう"
+        },
+        {
+          "word": "鐘撞き堂",
+          "reading": "かねつきどう"
+        }
+      ]
+    },
+    {
+      "slug": "鐘状火山",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘状火山",
+          "reading": "しょうじょうかざん"
+        }
+      ]
+    },
+    {
+      "slug": "鐘銘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘銘",
+          "reading": "しょうめい"
+        }
+      ]
+    },
+    {
+      "slug": "鐘塔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘塔",
+          "reading": "しょうとう"
+        }
+      ]
+    },
+    {
+      "slug": "鐘の音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘の音",
+          "reading": "かねのね"
+        }
+      ]
+    },
+    {
+      "slug": "鐘堂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘堂",
+          "reading": "しょうどう"
+        }
+      ]
+    },
+    {
+      "slug": "鐘声",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘声",
+          "reading": "しょうせい"
+        }
+      ]
+    },
+    {
+      "slug": "鐘撞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘つき",
+          "reading": "かねつき"
+        },
+        {
+          "word": "鐘撞き",
+          "reading": "かねつき"
+        }
+      ]
+    },
+    {
+      "slug": "鐘鼓",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘鼓",
+          "reading": "しょうこ"
+        }
+      ]
+    },
+    {
+      "slug": "鐘を突く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鐘を突く",
+          "reading": "かねをつく"
+        }
+      ]
+    }
   ]
 }

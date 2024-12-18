@@ -130,5 +130,321 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "昨日のオーストラリア戦見た？",
+      "furigana": "[昨日|きのう]のオーストラリア[戦見|せん|み]た？",
+      "translation_zh_CN": "你昨天看澳大利亚队的比赛了吗？"
+    },
+    {
+      "content": "オープン戦だけ絶好調だった。",
+      "furigana": "オープン[戦|せん]だけ[絶好調|ぜっ|こう|ちょう]だった。",
+      "translation_zh_CN": "他只在公开赛中状态很好。"
+    },
+    {
+      "content": "選挙戦はとうとう泥試合になってしまった。",
+      "furigana": "[選挙戦|せん|きょ|せん]はとうとう[泥試合|どろ|じ|あい]になってしまった。",
+      "translation_zh_CN": "竞选活动最终变成了一场泥泞的比赛。"
+    },
+    {
+      "content": "２チームは決勝戦で競った。",
+      "furigana": "２チームは[決勝戦|けっ|しょう|せん]で[競|きそ]った。",
+      "translation_zh_CN": "两支队伍参加了决赛。"
+    },
+    {
+      "content": "腹が減っては戦ができぬ。",
+      "furigana": "[腹|はら]が[減|へ]っては[戦|いくさ]ができぬ。",
+      "translation_zh_CN": "如果你饿了就无法战斗。"
+    },
+    {
+      "content": "ジャイアンツは明日、ドラゴンズ戦です。",
+      "furigana": "ジャイアンツは[明日|あした]、ドラゴンズ[戦|せん]です。",
+      "translation_zh_CN": "巨人队明天将对阵龙之队。"
+    },
+    {
+      "content": "朝早くに、戦車戦は始まった。",
+      "furigana": "[朝早|あさ|はや]くに、[戦車戦|せん|しゃ|せん]は[始|はじ]まった。",
+      "translation_zh_CN": "一大早，坦克大战就打响了。"
+    },
+    {
+      "content": "腹が減っては戦はできぬ。",
+      "furigana": "[腹|はら]が[減|へ]っては[戦|いくさ]はできぬ。",
+      "translation_zh_CN": "如果你饿了就无法战斗。"
+    },
+    {
+      "content": "恋といくさは道を選ばず。",
+      "furigana": "[恋|こい]といくさは[道|みち]を[選|えら]ばず。",
+      "translation_zh_CN": "爱情和冒险不会选择道路。"
+    },
+    {
+      "content": "日本では銃撃戦はほとんどありません。",
+      "furigana": "[日本|にっ|ぽん]では[銃撃戦|じゅう|げき|せん]はほとんどありません。",
+      "translation_zh_CN": "日本很少发生枪战。"
+    },
+    {
+      "content": "戦いは終わった。",
+      "furigana": "[戦|たたか]いは[終|お]わった。",
+      "translation_zh_CN": "斗争结束了。"
+    },
+    {
+      "content": "西部戦線異状なし",
+      "furigana": "[西部|せい|ぶ][戦線|せん|せん][異状|い|じょう]なし",
+      "translation_zh_CN": "西線無戰事"
+    },
+    {
+      "content": "彼は戦死しました。",
+      "furigana": "[彼|かれ]は[戦死|せん|し]しました。",
+      "translation_zh_CN": "他死於战争。"
+    },
+    {
+      "content": "戦争は２年続いた。",
+      "furigana": "[戦争|せん|そう]は[２|に][年|ねん][続|つづ]いた。",
+      "translation_zh_CN": "战争持续了两年。"
+    },
+    {
+      "content": "彼らは戦っている。",
+      "furigana": "[彼|かれ]らは[戦|たたか]っている。",
+      "translation_zh_CN": "她們在幹架。"
+    },
+    {
+      "content": "彼は戦争で負傷した。",
+      "furigana": "[彼|かれ]は[戦争|せん|そう]で[負傷|ふ|しょう]した。",
+      "translation_zh_CN": "他是在战争中受伤的。"
+    },
+    {
+      "content": "私達は戦争に反対だ。",
+      "furigana": "[私|わたし][達|たち]は[戦争|せん|そう]に[反対|はん|たい]だ。",
+      "translation_zh_CN": "我们反对战争。"
+    },
+    {
+      "content": "私たちは戦いに勝った。",
+      "furigana": "[私|わたし]たちは[戦|たたか]いに[勝|か]った。",
+      "translation_zh_CN": "我们战争胜利了。"
+    },
+    {
+      "content": "彼は人種差別と戦った。",
+      "furigana": "[彼|かれ]は[人種|じん|しゅ][差別|さ|べつ]と[戦|たたか]った。",
+      "translation_zh_CN": "他反对种族歧视。"
+    },
+    {
+      "content": "対戦相手を甘く見るな。",
+      "furigana": "[対戦|たい|せん][相手|あい|て]を[甘|あま]く[見|み]るな。",
+      "translation_zh_CN": "不要轻视了对手。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "戦争",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "戦争",
+          "reading": "せんそう"
+        }
+      ]
+    },
+    {
+      "slug": "戦闘",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "戦闘",
+          "reading": "せんとう"
+        }
+      ]
+    },
+    {
+      "slug": "戦術",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "戦術",
+          "reading": "せんじゅつ"
+        }
+      ]
+    },
+    {
+      "slug": "戦う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "戦う",
+          "reading": "たたかう"
+        },
+        {
+          "word": "闘う",
+          "reading": "たたかう"
+        },
+        {
+          "word": "斗う",
+          "reading": "たたかう"
+        }
+      ]
+    },
+    {
+      "slug": "戦い",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "戦い",
+          "reading": "たたかい"
+        },
+        {
+          "word": "闘い",
+          "reading": "たたかい"
+        },
+        {
+          "word": "斗い",
+          "reading": "たたかい"
+        }
+      ]
+    },
+    {
+      "slug": "戦力",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "戦力",
+          "reading": "せんりょく"
+        }
+      ]
+    },
+    {
+      "slug": "戦後",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦後",
+          "reading": "せんご"
+        }
+      ]
+    },
+    {
+      "slug": "戦死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦死",
+          "reading": "せんし"
+        }
+      ]
+    },
+    {
+      "slug": "戦略",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦略",
+          "reading": "せんりゃく"
+        }
+      ]
+    },
+    {
+      "slug": "戦車",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦車",
+          "reading": "せんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "戦線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦線",
+          "reading": "せんせん"
+        }
+      ]
+    },
+    {
+      "slug": "戦前",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦前",
+          "reading": "せんぜん"
+        }
+      ]
+    },
+    {
+      "slug": "戦艦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦艦",
+          "reading": "せんかん"
+        }
+      ]
+    },
+    {
+      "slug": "戦闘機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦闘機",
+          "reading": "せんとうき"
+        }
+      ]
+    },
+    {
+      "slug": "戦闘員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦闘員",
+          "reading": "せんとういん"
+        }
+      ]
+    },
+    {
+      "slug": "戦場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦場",
+          "reading": "せんじょう"
+        },
+        {
+          "word": "戦場",
+          "reading": "いくさば"
+        }
+      ]
+    },
+    {
+      "slug": "戦士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦士",
+          "reading": "せんし"
+        }
+      ]
+    },
+    {
+      "slug": "戦況",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戦況",
+          "reading": "せんきょう"
+        }
+      ]
+    }
   ]
 }

@@ -119,5 +119,288 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼らは、池田恒興が好き。",
+      "furigana": "[彼|かれ]らは、[池田恒興|いけ|だ|ひさし|きょう]が[好|す]き。",
+      "translation_zh_CN": "他们喜欢池田恒兴。"
+    },
+    {
+      "content": "それは興味深いな。",
+      "furigana": "それは[興味深|きょう|み|ぶか]いな。",
+      "translation_zh_CN": "聽起來很有趣。"
+    },
+    {
+      "content": "そんなに興奮するな。",
+      "furigana": "そんなに[興奮|こう|ふん]するな。",
+      "translation_zh_CN": "别这么激动！"
+    },
+    {
+      "content": "興奮しすぎて眠れない。",
+      "furigana": "[興奮|こう|ふん]しすぎて[眠|ねむ]れない。",
+      "translation_zh_CN": "我激动得睡不着。"
+    },
+    {
+      "content": "政治に興味がありますか？",
+      "furigana": "[政治|せい|じ]に[興味|きょう|み]がありますか？",
+      "translation_zh_CN": "你对政治感兴趣吗？"
+    },
+    {
+      "content": "政治に興味がありますか。",
+      "furigana": "[政治|せい|じ]に[興味|きょう|み]がありますか。",
+      "translation_zh_CN": "你对政治感兴趣吗？"
+    },
+    {
+      "content": "手相に興味があるんです。",
+      "furigana": "[手相|て|そう]に[興味|きょう|み]があるんです。",
+      "translation_zh_CN": "我对掌上阅读很感兴趣。"
+    },
+    {
+      "content": "私は日本史に興味がある。",
+      "furigana": "[私|わたし]は[日本史|に|ほん|し]に[興味|きょう|み]がある。",
+      "translation_zh_CN": "我對日本歷史有興趣。"
+    },
+    {
+      "content": "トムは登山に興味がある。",
+      "furigana": "トムは[登山|と|ざん]に[興味|きょう|み]がある。",
+      "translation_zh_CN": "湯姆對登山感興趣。"
+    },
+    {
+      "content": "トムは数学に興味がある。",
+      "furigana": "トムは[数学|すう|がく]に[興味|きょう|み]がある。",
+      "translation_zh_CN": "湯姆對數學感興趣。"
+    },
+    {
+      "content": "あなたの見解は興味深い。",
+      "furigana": "あなたの[見解|けん|かい]は[興味深|きょう|み|ぶか]い。",
+      "translation_zh_CN": "你的見解很有趣。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "興味",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "興味",
+          "reading": "きょうみ"
+        }
+      ]
+    },
+    {
+      "slug": "興奮",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "興奮",
+          "reading": "こうふん"
+        },
+        {
+          "word": "昂奮",
+          "reading": "こうふん"
+        },
+        {
+          "word": "亢奮",
+          "reading": "こうふん"
+        }
+      ]
+    },
+    {
+      "slug": "興行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興行",
+          "reading": "こうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "興味深い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興味深い",
+          "reading": "きょうみぶかい"
+        },
+        {
+          "word": "興味ぶかい",
+          "reading": "きょうみぶかい"
+        }
+      ]
+    },
+    {
+      "slug": "興味津々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興味津々",
+          "reading": "きょうみしんしん"
+        },
+        {
+          "word": "興味しんしん",
+          "reading": "きょうみしんしん"
+        },
+        {
+          "word": "興味津津",
+          "reading": "きょうみしんしん"
+        }
+      ]
+    },
+    {
+      "slug": "興業",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "興業",
+          "reading": "こうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "興じる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "興じる",
+          "reading": "きょうじる"
+        }
+      ]
+    },
+    {
+      "slug": "興味ない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興味ない",
+          "reading": "きょうみない"
+        },
+        {
+          "word": "興味無い",
+          "reading": "きょうみない"
+        }
+      ]
+    },
+    {
+      "slug": "興醒め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興ざめ",
+          "reading": "きょうざめ"
+        },
+        {
+          "word": "興醒め",
+          "reading": "きょうざめ"
+        },
+        {
+          "word": "興冷め",
+          "reading": "きょうざめ"
+        },
+        {
+          "word": "興覚め",
+          "reading": "きょうざめ"
+        }
+      ]
+    },
+    {
+      "slug": "興ずる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興ずる",
+          "reading": "きょうずる"
+        }
+      ]
+    },
+    {
+      "slug": "興る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興る",
+          "reading": "おこる"
+        }
+      ]
+    },
+    {
+      "slug": "興す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興す",
+          "reading": "おこす"
+        }
+      ]
+    },
+    {
+      "slug": "興亡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興亡",
+          "reading": "こうぼう"
+        }
+      ]
+    },
+    {
+      "slug": "興隆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興隆",
+          "reading": "こうりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "興起",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興起",
+          "reading": "こうき"
+        }
+      ]
+    },
+    {
+      "slug": "興信所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興信所",
+          "reading": "こうしんじょ"
+        }
+      ]
+    },
+    {
+      "slug": "興国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興国",
+          "reading": "こうこく"
+        }
+      ]
+    },
+    {
+      "slug": "興行収入",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "興行収入",
+          "reading": "こうぎょうしゅうにゅう"
+        }
+      ]
+    }
   ]
 }

@@ -68,5 +68,264 @@
       "startStroke": 2,
       "strokes": 8
     }
+  ],
+  "sentences": [
+    {
+      "content": "ヘレブラント博士はそのすぐれた大学の准教授である。",
+      "furigana": "ヘレブラント[博士|はか|せ]はそのすぐれた[大学|だい|がく]の[准教授|じゅん|きょう|じゅ]である。",
+      "translation_zh_CN": "海勒布兰德博士是那所著名大学的副教授。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "準じる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "準じる",
+          "reading": "じゅんじる"
+        },
+        {
+          "word": "准じる",
+          "reading": "じゅんじる"
+        }
+      ]
+    },
+    {
+      "slug": "準ずる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "準ずる",
+          "reading": "じゅんずる"
+        },
+        {
+          "word": "准ずる",
+          "reading": "じゅんずる"
+        }
+      ]
+    },
+    {
+      "slug": "准教授",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准教授",
+          "reading": "じゅんきょうじゅ"
+        },
+        {
+          "word": "準教授",
+          "reading": "じゅんきょうじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "准将",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准将",
+          "reading": "じゅんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "準拠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準拠",
+          "reading": "じゅんきょ"
+        },
+        {
+          "word": "准拠",
+          "reading": "じゅんきょ"
+        }
+      ]
+    },
+    {
+      "slug": "准看護婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准看護婦",
+          "reading": "じゅんかんごふ"
+        }
+      ]
+    },
+    {
+      "slug": "准胝観音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准胝観音",
+          "reading": "じゅんでいかんのん"
+        },
+        {
+          "word": "准提観音",
+          "reading": "じゅんでいかんのん"
+        }
+      ]
+    },
+    {
+      "slug": "準州",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準州",
+          "reading": "じゅんしゅう"
+        },
+        {
+          "word": "准州",
+          "reading": "じゅんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "准看護師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准看護師",
+          "reading": "じゅんかんごし"
+        }
+      ]
+    },
+    {
+      "slug": "准空尉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准空尉",
+          "reading": "じゅんくうい"
+        }
+      ]
+    },
+    {
+      "slug": "準行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準行",
+          "reading": "じゅんこう"
+        },
+        {
+          "word": "准行",
+          "reading": "じゅんこう"
+        }
+      ]
+    },
+    {
+      "slug": "准士官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准士官",
+          "reading": "じゅんしかん"
+        }
+      ]
+    },
+    {
+      "slug": "准許",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准許",
+          "reading": "じゅんきょ"
+        }
+      ]
+    },
+    {
+      "slug": "准州",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准州",
+          "reading": "じゅんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "準教員",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準教員",
+          "reading": "じゅんきょういん"
+        },
+        {
+          "word": "准教員",
+          "reading": "じゅんきょういん"
+        }
+      ]
+    },
+    {
+      "slug": "准男爵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准男爵",
+          "reading": "じゅんだんしゃく"
+        },
+        {
+          "word": "準男爵",
+          "reading": "じゅんだんしゃく"
+        }
+      ]
+    },
+    {
+      "slug": "准尉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准尉",
+          "reading": "じゅんい"
+        }
+      ]
+    },
+    {
+      "slug": "准看",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "准看",
+          "reading": "じゅんかん"
+        }
+      ]
+    },
+    {
+      "slug": "準える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "準える",
+          "reading": "なぞらえる"
+        },
+        {
+          "word": "準える",
+          "reading": "なずらえる"
+        },
+        {
+          "word": "擬える",
+          "reading": "なぞらえる"
+        },
+        {
+          "word": "擬える",
+          "reading": "なずらえる"
+        },
+        {
+          "word": "准える",
+          "reading": "なぞらえる"
+        },
+        {
+          "word": "准える",
+          "reading": "なずらえる"
+        }
+      ]
+    }
   ]
 }

@@ -83,5 +83,311 @@
       "startStroke": 12,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "髪切った？",
+      "furigana": "[髪切|かみ|き]った？",
+      "translation_zh_CN": "你剪头发了吗？"
+    },
+    {
+      "content": "髪乾かした？",
+      "furigana": "[髪乾|かみ|かわ]かした？",
+      "translation_zh_CN": "你把头发吹干了吗？"
+    },
+    {
+      "content": "髪がボッサボッサ。",
+      "furigana": "[髪|かみ]がボッサボッサ。",
+      "translation_zh_CN": "我的头发很乱。"
+    },
+    {
+      "content": "髪はねてるよ。",
+      "furigana": "[髪|かみ]はねてるよ。",
+      "translation_zh_CN": "我的头发在飞扬。"
+    },
+    {
+      "content": "髪を整えなきゃ。",
+      "furigana": "[髪|かみ]を[整|ととの]えなきゃ。",
+      "translation_zh_CN": "我得整理一下我的头发。"
+    },
+    {
+      "content": "髪が濡れちゃった。",
+      "furigana": "[髪|かみ]が[濡|ぬ]れちゃった。",
+      "translation_zh_CN": "我的头发湿了。"
+    },
+    {
+      "content": "髪を切らなきゃ。",
+      "furigana": "[髪|かみ]を[切|き]らなきゃ。",
+      "translation_zh_CN": "我得剪头发了。"
+    },
+    {
+      "content": "髪をとかした。",
+      "furigana": "[髪|かみ]をとかした。",
+      "translation_zh_CN": "我梳理了头发。"
+    },
+    {
+      "content": "髪染めたことある？",
+      "furigana": "[髪染|かみ|そ]めたことある？",
+      "translation_zh_CN": "你染过头发吗？"
+    },
+    {
+      "content": "髪が抜け始めた。",
+      "furigana": "[髪|かみ]が[抜|ぬ]け[始|はじ]めた。",
+      "translation_zh_CN": "我的头发开始脱落。"
+    },
+    {
+      "content": "髪を整えないと。",
+      "furigana": "[髪|かみ]を[整|ととの]えないと。",
+      "translation_zh_CN": "我要我的頭髮弄捲。"
+    },
+    {
+      "content": "僕は髪を切った。",
+      "furigana": "[僕|ぼく]は[髪|かみ]を[切|き]った。",
+      "translation_zh_CN": "我把我的頭髮剪了。"
+    },
+    {
+      "content": "どこで髪切ったの？",
+      "furigana": "どこで[髪|かみ][切|き]ったの？",
+      "translation_zh_CN": "你在哪裡剪頭髮？"
+    },
+    {
+      "content": "髪染めたことある？",
+      "furigana": "[髪|かみ][染|そ]めたことある？",
+      "translation_zh_CN": "你染過頭髮嗎？"
+    },
+    {
+      "content": "君の髪は長すぎる。",
+      "furigana": "[君|きみ]の[髪|かみ]は[長|なが]すぎる。",
+      "translation_zh_CN": "你的頭髮太長了。"
+    },
+    {
+      "content": "私は散髪に行った。",
+      "furigana": "[私|わたし]は[散髪|さん|ぱつ]に[行|い]った。",
+      "translation_zh_CN": "我把我的頭髮剪了。"
+    },
+    {
+      "content": "トムは髪を染めた。",
+      "furigana": "トムは[髪|かみ]を[染|そ]めた。",
+      "translation_zh_CN": "汤姆染发了。"
+    },
+    {
+      "content": "理髪店で彼に会った。",
+      "furigana": "[理髪|り|はつ][店|てん]で[彼|かれ]に[会|あ]った。",
+      "translation_zh_CN": "我在理发店碰到了他。"
+    },
+    {
+      "content": "私は床屋で散髪した。",
+      "furigana": "[私|わたし]は[床屋|とこ|や]で[散髪|さん|ぱつ]した。",
+      "translation_zh_CN": "我到理发店剪了头发。"
+    },
+    {
+      "content": "朝は髪を洗いません。",
+      "furigana": "[朝|あさ]は[髪|かみ]を[洗|あら]いません。",
+      "translation_zh_CN": "我早上不洗头。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "髪の毛",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "髪の毛",
+          "reading": "かみのけ"
+        }
+      ]
+    },
+    {
+      "slug": "髪形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪型",
+          "reading": "かみがた"
+        },
+        {
+          "word": "髪形",
+          "reading": "かみがた"
+        }
+      ]
+    },
+    {
+      "slug": "髪飾り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪飾り",
+          "reading": "かみかざり"
+        }
+      ]
+    },
+    {
+      "slug": "髪結い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪結い",
+          "reading": "かみゆい"
+        },
+        {
+          "word": "髪結",
+          "reading": "かみゆい"
+        },
+        {
+          "word": "髪結",
+          "reading": "かみい"
+        }
+      ]
+    },
+    {
+      "slug": "髪を上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪を上げる",
+          "reading": "かみをあげる"
+        },
+        {
+          "word": "髪をあげる",
+          "reading": "かみをあげる"
+        }
+      ]
+    },
+    {
+      "slug": "髪を梳かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪を梳かす",
+          "reading": "かみをとかす"
+        },
+        {
+          "word": "髪をとかす",
+          "reading": "かみをとかす"
+        }
+      ]
+    },
+    {
+      "slug": "かみのけ座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かみのけ座",
+          "reading": "かみのけざ"
+        },
+        {
+          "word": "髪の毛座",
+          "reading": "かみのけざ"
+        }
+      ]
+    },
+    {
+      "slug": "髪留め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪留め",
+          "reading": "かみどめ"
+        }
+      ]
+    },
+    {
+      "slug": "髪上げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪上げ",
+          "reading": "かみあげ"
+        }
+      ]
+    },
+    {
+      "slug": "髪冠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪冠",
+          "reading": "かみかんむり"
+        }
+      ]
+    },
+    {
+      "slug": "簪屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "かんざし屋",
+          "reading": "かんざしや"
+        },
+        {
+          "word": "簪屋",
+          "reading": "かんざしや"
+        },
+        {
+          "word": "髪挿屋",
+          "reading": "かんざしや"
+        }
+      ]
+    },
+    {
+      "slug": "天牛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "天牛",
+          "reading": "かみきりむし"
+        },
+        {
+          "word": "髪切り虫",
+          "reading": "かみきりむし"
+        },
+        {
+          "word": "髪切虫",
+          "reading": "かみきりむし"
+        }
+      ]
+    },
+    {
+      "slug": "髪床",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪床",
+          "reading": "かみどこ"
+        }
+      ]
+    },
+    {
+      "slug": "髪油",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪油",
+          "reading": "かみあぶら"
+        }
+      ]
+    },
+    {
+      "slug": "髪毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪毛",
+          "reading": "かみげ"
+        }
+      ]
+    },
+    {
+      "slug": "髪振",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髪振",
+          "reading": "かみふり"
+        }
+      ]
+    }
   ]
 }

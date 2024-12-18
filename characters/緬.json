@@ -41,5 +41,49 @@
       "startStroke": 6,
       "strokes": 9
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "緬甸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "緬甸",
+          "reading": "めんでん"
+        },
+        {
+          "word": "緬甸",
+          "reading": "ビルマ"
+        }
+      ]
+    },
+    {
+      "slug": "めん羊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "めん羊",
+          "reading": "めんよう"
+        },
+        {
+          "word": "綿羊",
+          "reading": "めんよう"
+        },
+        {
+          "word": "緬羊",
+          "reading": "めんよう"
+        }
+      ]
+    },
+    {
+      "slug": "ビルマ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ビルマ"
+        }
+      ]
+    }
   ]
 }

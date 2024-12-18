@@ -81,5 +81,327 @@
       "startStroke": 6,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "ジムは手を挙げた。",
+      "furigana": "ジムは[手|て]を[挙|あ]げた。",
+      "translation_zh_CN": "Jim举起了手。"
+    },
+    {
+      "content": "一例を挙げましょう。",
+      "furigana": "[一|いち][例|れい]を[挙|あ]げましょう。",
+      "translation_zh_CN": "让我来给你举个例子吧。"
+    },
+    {
+      "content": "彼は手を挙げなかった。",
+      "furigana": "[彼|かれ]は[手|て]を[挙|あ]げなかった。",
+      "translation_zh_CN": "他没有举起他的手。"
+    },
+    {
+      "content": "軽挙妄動を慎むべきだ。",
+      "furigana": "[軽挙妄動|けい|きょ|もう|どう]を[慎|つつし]むべきだ。",
+      "translation_zh_CN": "你应该注意你的举止。"
+    },
+    {
+      "content": "新しい政府が選挙された。",
+      "furigana": "[新|あたら]しい[政府|せい|ふ]が[選挙|せん|きょ]された。",
+      "translation_zh_CN": "他們選出了新政府。"
+    },
+    {
+      "content": "私は先月結婚式を挙げました。",
+      "furigana": "[私|わたし]は[先月|せん|げつ][結婚式|けっ|こん|しき]を[挙|あ]げました。",
+      "translation_zh_CN": "我上个月组织了一个结婚仪式。"
+    },
+    {
+      "content": "会長選挙でだれに投票しますか。",
+      "furigana": "[会長|かい|ちょう][選挙|せん|きょ]でだれに[投票|とう|ひょう]しますか。",
+      "translation_zh_CN": "你選誰當總統？"
+    },
+    {
+      "content": "大統領選挙で誰に投票しますか。",
+      "furigana": "[大統領|だい|とう|りょう][選挙|せん|きょ]で[誰|だれ]に[投票|とう|ひょう]しますか。",
+      "translation_zh_CN": "你選誰當總統？"
+    },
+    {
+      "content": "質問があれば右手を挙げて下さい。",
+      "furigana": "[質問|しつ|もん]があれば[右手|みぎ|て]を[挙|あ]げて[下|くだ]さい。",
+      "translation_zh_CN": "如果有问题，请举起你的右手。"
+    },
+    {
+      "content": "彼が選挙に勝つ見込みはありますか。",
+      "furigana": "[彼|かれ]が[選挙|せん|きょ]に[勝|か]つ[見込|み|こ]みはありますか。",
+      "translation_zh_CN": "他有机会赢得选举吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "上げる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "上げる",
+          "reading": "あげる"
+        },
+        {
+          "word": "挙げる",
+          "reading": "あげる"
+        },
+        {
+          "word": "揚げる",
+          "reading": "あげる"
+        }
+      ]
+    },
+    {
+      "slug": "上がる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "上がる",
+          "reading": "あがる"
+        },
+        {
+          "word": "揚がる",
+          "reading": "あがる"
+        },
+        {
+          "word": "挙がる",
+          "reading": "あがる"
+        },
+        {
+          "word": "上る",
+          "reading": "あがる"
+        }
+      ]
+    },
+    {
+      "slug": "揚げ句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙句",
+          "reading": "あげく"
+        },
+        {
+          "word": "挙げ句",
+          "reading": "あげく"
+        },
+        {
+          "word": "揚げ句",
+          "reading": "あげく"
+        },
+        {
+          "word": "揚句",
+          "reading": "あげく"
+        }
+      ]
+    },
+    {
+      "slug": "挙式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙式",
+          "reading": "きょしき"
+        }
+      ]
+    },
+    {
+      "slug": "挙動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙動",
+          "reading": "きょどう"
+        }
+      ]
+    },
+    {
+      "slug": "挙行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙行",
+          "reading": "きょこう"
+        }
+      ]
+    },
+    {
+      "slug": "挙手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙手",
+          "reading": "きょしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "揚げ足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揚げ足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "挙げ足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "上げ足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "揚足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "挙足",
+          "reading": "あげあし"
+        },
+        {
+          "word": "上足",
+          "reading": "あげあし"
+        }
+      ]
+    },
+    {
+      "slug": "挙って",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙って",
+          "reading": "こぞって"
+        }
+      ]
+    },
+    {
+      "slug": "あげくの果て",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙句の果て",
+          "reading": "あげくのはて"
+        },
+        {
+          "word": "挙げ句の果て",
+          "reading": "あげくのはて"
+        },
+        {
+          "word": "あげくの果て",
+          "reading": "あげくのはて"
+        },
+        {
+          "word": "揚げ句の果て",
+          "reading": "あげくのはて"
+        },
+        {
+          "word": "揚句の果て",
+          "reading": "あげくのはて"
+        }
+      ]
+    },
+    {
+      "slug": "挙党",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙党",
+          "reading": "きょとう"
+        }
+      ]
+    },
+    {
+      "slug": "挙国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙国",
+          "reading": "きょこく"
+        }
+      ]
+    },
+    {
+      "slug": "挙尾虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙尾虫",
+          "reading": "しりあげむし"
+        },
+        {
+          "reading": "シリアゲムシ"
+        }
+      ]
+    },
+    {
+      "slug": "挙例",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙例",
+          "reading": "きょれい"
+        }
+      ]
+    },
+    {
+      "slug": "挙げて",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙げて",
+          "reading": "あげて"
+        }
+      ]
+    },
+    {
+      "slug": "挙兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙兵",
+          "reading": "きょへい"
+        }
+      ]
+    },
+    {
+      "slug": "挙国一致",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙国一致",
+          "reading": "きょこくいっち"
+        }
+      ]
+    },
+    {
+      "slug": "挙動不審",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙動不審",
+          "reading": "きょどうふしん"
+        }
+      ]
+    },
+    {
+      "slug": "挙げられる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "挙げられる",
+          "reading": "あげられる"
+        }
+      ]
+    }
   ]
 }

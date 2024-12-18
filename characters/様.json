@@ -92,5 +92,299 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "ご苦労様でした。",
+      "furigana": "ご[苦労様|く|ろう|さま]でした。",
+      "translation_zh_CN": "感谢您的辛勤工作。"
+    },
+    {
+      "content": "お気の毒様。",
+      "furigana": "お[気|き]の[毒様|どく|さま]。",
+      "translation_zh_CN": "我为你感到难过。"
+    },
+    {
+      "content": "何てざまだ。",
+      "furigana": "[何|なん]てざまだ。",
+      "translation_zh_CN": "真是一团糟。"
+    },
+    {
+      "content": "お互いさまだろ。",
+      "furigana": "お[互|たが]いさまだろ。",
+      "translation_zh_CN": "他们彼此不同。"
+    },
+    {
+      "content": "旦那様はどこ？",
+      "furigana": "[旦那様|だん|な|さま]はどこ？",
+      "translation_zh_CN": "你丈夫在哪里？"
+    },
+    {
+      "content": "どちら様でしょうか。",
+      "furigana": "どちら[様|さま]でしょうか。",
+      "translation_zh_CN": "请问你哪位。"
+    },
+    {
+      "content": "どちら様ですか。",
+      "furigana": "どちら[様|さま]ですか。",
+      "translation_zh_CN": "你是哪一类？"
+    },
+    {
+      "content": "ごくろうさまでした。",
+      "furigana": "ごくろうさまでした。",
+      "translation_zh_CN": "非常感谢。"
+    },
+    {
+      "content": "ざまあみやがれ。",
+      "furigana": "ざまあみやがれ。",
+      "translation_zh_CN": "座间宫盖。"
+    },
+    {
+      "content": "どうもご親切さま。",
+      "furigana": "どうもご[親切|しん|せつ]さま。",
+      "translation_zh_CN": "谢谢你的好意。"
+    },
+    {
+      "content": "空模様が怪しい。",
+      "furigana": "[空模様|そら|も|よう]が[怪|あや]しい。",
+      "translation_zh_CN": "天空风云骤起。"
+    },
+    {
+      "content": "ご苦労様でした。",
+      "furigana": "ご[苦労|く|ろう][様|さま]でした。",
+      "translation_zh_CN": "谢谢您的帮助。"
+    },
+    {
+      "content": "お疲れ様でした。",
+      "furigana": "お[疲|つか]れ[様|さま]でした。",
+      "translation_zh_CN": "感谢你的劳碌。"
+    },
+    {
+      "content": "神様を信じている？",
+      "furigana": "[神様|かみ|さま]を[信|しん]じている？",
+      "translation_zh_CN": "你相信上帝吗？"
+    },
+    {
+      "content": "俺は世界の王様だよ！",
+      "furigana": "[俺|おれ]は[世界|せ|かい]の[王様|おう|さま]だよ！",
+      "translation_zh_CN": "我是世界之王!"
+    },
+    {
+      "content": "グレイ様からの恋文？",
+      "furigana": "グレイ[様|さま]からの[恋文|こい|ぶみ]？",
+      "translation_zh_CN": "来自格雷的情书？"
+    },
+    {
+      "content": "俺は貴様が嫌いだ。",
+      "furigana": "[俺|おれ]は[貴様|き|さま]が[嫌|きら]いだ。",
+      "translation_zh_CN": "我恨你。"
+    },
+    {
+      "content": "奥様はお元気ですか。",
+      "furigana": "[奥様|おく|さま]はお[元気|げん|き]ですか。",
+      "translation_zh_CN": "你太太怎么样？"
+    },
+    {
+      "content": "どちら様でしょうか。",
+      "furigana": "どちら[様|さま]でしょうか。",
+      "translation_zh_CN": "请问您是哪位？"
+    },
+    {
+      "content": "彼女は不満な様子だ。",
+      "furigana": "[彼女|かの|じょ]は[不満|ふ|まん]な[様子|よう|す]だ。",
+      "translation_zh_CN": "她看起来不幸福。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "様々",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "様々",
+          "reading": "さまざま"
+        },
+        {
+          "word": "様様",
+          "reading": "さまざま"
+        }
+      ]
+    },
+    {
+      "slug": "様子",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "様子",
+          "reading": "ようす"
+        },
+        {
+          "word": "容子",
+          "reading": "ようす"
+        }
+      ]
+    },
+    {
+      "slug": "様式",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "様式",
+          "reading": "ようしき"
+        }
+      ]
+    },
+    {
+      "slug": "様相",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "様相",
+          "reading": "ようそう"
+        }
+      ]
+    },
+    {
+      "slug": "容態",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "容態",
+          "reading": "ようだい"
+        },
+        {
+          "word": "容態",
+          "reading": "ようたい"
+        },
+        {
+          "word": "容体",
+          "reading": "ようだい"
+        },
+        {
+          "word": "容体",
+          "reading": "ようたい"
+        },
+        {
+          "word": "様体",
+          "reading": "ようだい"
+        },
+        {
+          "word": "様体",
+          "reading": "ようたい"
+        }
+      ]
+    },
+    {
+      "slug": "様態",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様態",
+          "reading": "ようたい"
+        }
+      ]
+    },
+    {
+      "slug": "様子見",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様子見",
+          "reading": "ようすみ"
+        }
+      ]
+    },
+    {
+      "slug": "様な",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様な",
+          "reading": "ような"
+        }
+      ]
+    },
+    {
+      "slug": "ようにする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様にする",
+          "reading": "ようにする"
+        }
+      ]
+    },
+    {
+      "slug": "様になる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様になる",
+          "reading": "ようになる"
+        }
+      ]
+    },
+    {
+      "slug": "様に",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様に",
+          "reading": "ように"
+        }
+      ]
+    },
+    {
+      "slug": "ような気がする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ような気がする",
+          "reading": "ようなきがする"
+        },
+        {
+          "word": "様な気がする",
+          "reading": "ようなきがする"
+        }
+      ]
+    },
+    {
+      "slug": "様変わり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様変わり",
+          "reading": "さまがわり"
+        }
+      ]
+    },
+    {
+      "slug": "様です",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様です",
+          "reading": "ようです"
+        }
+      ]
+    },
+    {
+      "slug": "様格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "様格",
+          "reading": "ようかく"
+        }
+      ]
+    }
   ]
 }

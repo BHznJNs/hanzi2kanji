@@ -75,5 +75,28 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "訟務",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訟務",
+          "reading": "しょうむ"
+        }
+      ]
+    },
+    {
+      "slug": "訟務部",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "訟務部",
+          "reading": "しょうむぶ"
+        }
+      ]
+    }
   ]
 }

@@ -69,5 +69,180 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "画する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画する",
+          "reading": "かくする"
+        },
+        {
+          "word": "劃する",
+          "reading": "かくする"
+        }
+      ]
+    },
+    {
+      "slug": "画策",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画策",
+          "reading": "かくさく"
+        }
+      ]
+    },
+    {
+      "slug": "画一",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画一",
+          "reading": "かくいつ"
+        },
+        {
+          "word": "劃一",
+          "reading": "かくいつ"
+        }
+      ]
+    },
+    {
+      "slug": "画期",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "画期",
+          "reading": "かっき"
+        },
+        {
+          "word": "劃期",
+          "reading": "かっき"
+        }
+      ]
+    },
+    {
+      "slug": "画期的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画期的",
+          "reading": "かっきてき"
+        },
+        {
+          "word": "劃期的",
+          "reading": "かっきてき"
+        }
+      ]
+    },
+    {
+      "slug": "画数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画数",
+          "reading": "かくすう"
+        },
+        {
+          "word": "劃数",
+          "reading": "かくすう"
+        }
+      ]
+    },
+    {
+      "slug": "画定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画定",
+          "reading": "かくてい"
+        },
+        {
+          "word": "劃定",
+          "reading": "かくてい"
+        }
+      ]
+    },
+    {
+      "slug": "画す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画す",
+          "reading": "かくす"
+        },
+        {
+          "word": "劃す",
+          "reading": "かくす"
+        }
+      ]
+    },
+    {
+      "slug": "画一化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画一化",
+          "reading": "かくいつか"
+        },
+        {
+          "word": "劃一化",
+          "reading": "かくいつか"
+        }
+      ]
+    },
+    {
+      "slug": "劃時代的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画時代的",
+          "reading": "かくじだいてき"
+        },
+        {
+          "word": "劃時代的",
+          "reading": "かくじだいてき"
+        }
+      ]
+    },
+    {
+      "slug": "劃一化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "劃一化",
+          "reading": "かくいつか"
+        }
+      ]
+    },
+    {
+      "slug": "画然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画然",
+          "reading": "かくぜん"
+        },
+        {
+          "word": "劃然",
+          "reading": "かくぜん"
+        }
+      ]
+    },
+    {
+      "slug": "画一的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "画一的",
+          "reading": "かくいつてき"
+        }
+      ]
+    }
   ]
 }

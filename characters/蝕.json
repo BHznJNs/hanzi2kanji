@@ -72,5 +72,68 @@
       "startStroke": 12,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "蝕む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蝕む",
+          "reading": "むしばむ"
+        },
+        {
+          "word": "虫食む",
+          "reading": "むしばむ"
+        }
+      ]
+    },
+    {
+      "slug": "食分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "食分",
+          "reading": "しょくぶん"
+        },
+        {
+          "word": "蝕分",
+          "reading": "しょくぶん"
+        }
+      ]
+    },
+    {
+      "slug": "食害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "食害",
+          "reading": "しょくがい"
+        },
+        {
+          "word": "蝕害",
+          "reading": "しょくがい"
+        }
+      ]
+    },
+    {
+      "slug": "蝕甚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "食尽",
+          "reading": "しょくじん"
+        },
+        {
+          "word": "食甚",
+          "reading": "しょくじん"
+        },
+        {
+          "word": "蝕甚",
+          "reading": "しょくじん"
+        }
+      ]
+    }
   ]
 }

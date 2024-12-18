@@ -40,7 +40,7 @@
       "values": [
         "emmener",
         "se mettre en rang",
-        "s\u0027unir",
+        "s'unir",
         "série",
         "parti",
         "bande",
@@ -80,6 +80,302 @@
       "radical": "⻌",
       "startStroke": 7,
       "strokes": 3
+    }
+  ],
+  "sentences": [
+    {
+      "content": "連絡して下さい。",
+      "furigana": "[連絡|れん|らく]して[下|くだ]さい。",
+      "translation_zh_CN": "请联系我。"
+    },
+    {
+      "content": "連絡方法教えて。",
+      "furigana": "[連絡|れん|らく][方法|ほう|ほう][教|おし]えて。",
+      "translation_zh_CN": "我怎么联系你？"
+    },
+    {
+      "content": "連絡を取り合おう。",
+      "furigana": "[連絡|れん|らく]を[取|と]り[合|あ]おう。",
+      "translation_zh_CN": "保持聯絡！"
+    },
+    {
+      "content": "連帯責任は無責任。",
+      "furigana": "[連帯|れん|たい][責任|せき|にん]は[無責任|む|せき|にん]。",
+      "translation_zh_CN": "全体负责就是无责。"
+    },
+    {
+      "content": "彼に連絡できない。",
+      "furigana": "[彼|かれ]に[連絡|れん|らく]できない。",
+      "translation_zh_CN": "我无法与他联络上。"
+    },
+    {
+      "content": "連絡をちょうだい。",
+      "furigana": "[連絡|れん|らく]をちょうだい。",
+      "translation_zh_CN": "联系我。"
+    },
+    {
+      "content": "トムを連れてきて。",
+      "furigana": "トムを[連|つ]れてきて。",
+      "translation_zh_CN": "找到汤姆。"
+    },
+    {
+      "content": "トムから連絡あった？",
+      "furigana": "トムから[連絡|れん|らく]あった？",
+      "translation_zh_CN": "汤姆那里有联系过你吗？"
+    },
+    {
+      "content": "連絡してくださいね。",
+      "furigana": "[連絡|れん|らく]してくださいね。",
+      "translation_zh_CN": "请保持联系。"
+    },
+    {
+      "content": "トム連れてきてもいい？",
+      "furigana": "トム[連|つ]れてきてもいい？",
+      "translation_zh_CN": "我可以带上汤姆吗？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "連想",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "連想",
+          "reading": "れんそう"
+        },
+        {
+          "word": "聯想",
+          "reading": "れんそう"
+        }
+      ]
+    },
+    {
+      "slug": "連絡",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "連絡",
+          "reading": "れんらく"
+        },
+        {
+          "word": "聯絡",
+          "reading": "れんらく"
+        }
+      ]
+    },
+    {
+      "slug": "連邦",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連邦",
+          "reading": "れんぽう"
+        },
+        {
+          "word": "聯邦",
+          "reading": "れんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "連続",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "連続",
+          "reading": "れんぞく"
+        }
+      ]
+    },
+    {
+      "slug": "連れ",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "連れ",
+          "reading": "つれ"
+        }
+      ]
+    },
+    {
+      "slug": "連合",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "連合",
+          "reading": "れんごう"
+        },
+        {
+          "word": "聯合",
+          "reading": "れんごう"
+        }
+      ]
+    },
+    {
+      "slug": "連中",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連中",
+          "reading": "れんちゅう"
+        },
+        {
+          "word": "連中",
+          "reading": "れんじゅう"
+        },
+        {
+          "word": "連中",
+          "reading": "れんぢゅう"
+        }
+      ]
+    },
+    {
+      "slug": "連休",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連休",
+          "reading": "れんきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "連帯",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連帯",
+          "reading": "れんたい"
+        }
+      ]
+    },
+    {
+      "slug": "連日",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連日",
+          "reading": "れんじつ"
+        }
+      ]
+    },
+    {
+      "slug": "連盟",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "連盟",
+          "reading": "れんめい"
+        },
+        {
+          "word": "聯盟",
+          "reading": "れんめい"
+        }
+      ]
+    },
+    {
+      "slug": "連結",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連結",
+          "reading": "れんけつ"
+        }
+      ]
+    },
+    {
+      "slug": "連隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連隊",
+          "reading": "れんたい"
+        },
+        {
+          "word": "聯隊",
+          "reading": "れんたい"
+        }
+      ]
+    },
+    {
+      "slug": "連れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連れる",
+          "reading": "つれる"
+        }
+      ]
+    },
+    {
+      "slug": "連れ去る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連れ去る",
+          "reading": "つれさる"
+        },
+        {
+          "word": "連去る",
+          "reading": "つれさる"
+        }
+      ]
+    },
+    {
+      "slug": "連行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連行",
+          "reading": "れんこう"
+        }
+      ]
+    },
+    {
+      "slug": "連敗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連敗",
+          "reading": "れんぱい"
+        }
+      ]
+    },
+    {
+      "slug": "連動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "連動",
+          "reading": "れんどう"
+        },
+        {
+          "word": "聯動",
+          "reading": "れんどう"
+        }
+      ]
     }
   ]
 }

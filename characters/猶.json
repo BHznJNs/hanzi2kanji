@@ -95,5 +95,240 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "事態は一刻の猶予も許さない。",
+      "furigana": "[事態|じ|たい]は[一刻|いっ|こく]の[猶予|ゆう|よ]も[許|ゆる]さない。",
+      "translation_zh_CN": "一刻也不浪費。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "尚更",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "尚更",
+          "reading": "なおさら"
+        },
+        {
+          "word": "なお更",
+          "reading": "なおさら"
+        },
+        {
+          "word": "尚さら",
+          "reading": "なおさら"
+        },
+        {
+          "word": "猶更",
+          "reading": "なおさら"
+        },
+        {
+          "word": "猶さら",
+          "reading": "なおさら"
+        }
+      ]
+    },
+    {
+      "slug": "猶予",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猶予",
+          "reading": "ゆうよ"
+        }
+      ]
+    },
+    {
+      "slug": "尚の事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尚のこと",
+          "reading": "なおのこと"
+        },
+        {
+          "word": "尚の事",
+          "reading": "なおのこと"
+        },
+        {
+          "word": "なおの事",
+          "reading": "なおのこと"
+        },
+        {
+          "word": "猶のこと",
+          "reading": "なおのこと"
+        },
+        {
+          "word": "猶の事",
+          "reading": "なおのこと"
+        }
+      ]
+    },
+    {
+      "slug": "猶良い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なお良い",
+          "reading": "なおいい"
+        },
+        {
+          "word": "尚良い",
+          "reading": "なおいい"
+        },
+        {
+          "word": "尚いい",
+          "reading": "なおいい"
+        },
+        {
+          "word": "なお良い",
+          "reading": "なおよい"
+        },
+        {
+          "word": "尚良い",
+          "reading": "なおよい"
+        },
+        {
+          "word": "尚よい",
+          "reading": "なおよい"
+        },
+        {
+          "word": "猶良い",
+          "reading": "なおよい"
+        }
+      ]
+    },
+    {
+      "slug": "尚も",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尚も",
+          "reading": "なおも"
+        },
+        {
+          "word": "猶も",
+          "reading": "なおも"
+        }
+      ]
+    },
+    {
+      "slug": "猶太",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猶太",
+          "reading": "ユダヤ"
+        }
+      ]
+    },
+    {
+      "slug": "なお一層",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "なお一層",
+          "reading": "なおいっそう"
+        },
+        {
+          "word": "尚一層",
+          "reading": "なおいっそう"
+        }
+      ]
+    },
+    {
+      "slug": "尚々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尚々",
+          "reading": "なおなお"
+        },
+        {
+          "word": "尚尚",
+          "reading": "なおなお"
+        },
+        {
+          "word": "猶々",
+          "reading": "なおなお"
+        },
+        {
+          "word": "猶猶",
+          "reading": "なおなお"
+        }
+      ]
+    },
+    {
+      "slug": "揺蕩う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "揺蕩う",
+          "reading": "たゆたう"
+        },
+        {
+          "word": "猶予う",
+          "reading": "たゆたう"
+        }
+      ]
+    },
+    {
+      "slug": "猶予なく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猶予なく",
+          "reading": "ゆうよなく"
+        }
+      ]
+    },
+    {
+      "slug": "猶予期間",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猶予期間",
+          "reading": "ゆうよきかん"
+        }
+      ]
+    },
+    {
+      "slug": "尚又",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "尚又",
+          "reading": "なおまた"
+        },
+        {
+          "word": "猶又",
+          "reading": "なおまた"
+        }
+      ]
+    },
+    {
+      "slug": "猶子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猶子",
+          "reading": "ゆうし"
+        }
+      ]
+    },
+    {
+      "slug": "猶あらじ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "猶あらじ",
+          "reading": "なおあらじ"
+        }
+      ]
+    }
   ]
 }

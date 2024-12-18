@@ -93,5 +93,305 @@
       "startStroke": 10,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "遠すぎるわ。",
+      "furigana": "[遠|とお]すぎるわ。",
+      "translation_zh_CN": "太远了。"
+    },
+    {
+      "content": "彼は時々とても遠々しくなる。",
+      "furigana": "[彼|かれ]は[時々|ときどき]とても[遠|とお]々しくなる。",
+      "translation_zh_CN": "他有时会变得很疏远。"
+    },
+    {
+      "content": "うちから、彼の家までは遠すぎるよ。",
+      "furigana": "うちから、[彼|かれ]の[家|いえ]までは[遠|とお]すぎるよ。",
+      "translation_zh_CN": "从我家到他家太远了。"
+    },
+    {
+      "content": "駅まで歩くには遠すぎますから、バスに乗りましょう。",
+      "furigana": "[駅|えき]まで[歩|ある]くには[遠|とお]すぎますから、バスに[乗|の]りましょう。",
+      "translation_zh_CN": "步行到车站太远了，我们还是坐公交车吧。"
+    },
+    {
+      "content": "ここからホテルまで徒歩で行くには遠すぎます。タクシーにお乗りなさい。",
+      "furigana": "ここからホテルまで[徒歩|と|ほ]で[行|い]くには[遠|とお]すぎます。タクシーにお[乗|の]りなさい。",
+      "translation_zh_CN": "从这里步行到酒店太远了。乘坐出租车。"
+    },
+    {
+      "content": "遠回しに言うな。",
+      "furigana": "[遠回|とお|まわ]しに[言|い]うな。",
+      "translation_zh_CN": "不要拐彎抹角。"
+    },
+    {
+      "content": "どのくらい遠いの？",
+      "furigana": "どのくらい[遠|とお]いの？",
+      "translation_zh_CN": "大概有多远？"
+    },
+    {
+      "content": "どうぞ遠慮なく。",
+      "furigana": "どうぞ[遠慮|えん|りょ]なく。",
+      "translation_zh_CN": "做我的客人吧。"
+    },
+    {
+      "content": "彼は無遠慮な人だ。",
+      "furigana": "[彼|かれ]は[無遠慮|ぶ|えん|りょ]な[人|ひと]だ。",
+      "translation_zh_CN": "他這個人不講禮貌。"
+    },
+    {
+      "content": "果物をご遠慮なく。",
+      "furigana": "[果物|くだ|もの]をご[遠慮|えん|りょ]なく。",
+      "translation_zh_CN": "請你隨便吃點水果。"
+    },
+    {
+      "content": "遠くに塔が見えた。",
+      "furigana": "[遠|とお]くに[塔|とう]が[見|み]えた。",
+      "translation_zh_CN": "我们远远地就看见了那座塔。"
+    },
+    {
+      "content": "南アフリカは遠い。",
+      "furigana": "[南|みなみ]アフリカは[遠|とお]い。",
+      "translation_zh_CN": "南非很远。"
+    },
+    {
+      "content": "そこって遠いですか？",
+      "furigana": "そこって[遠|とお]いですか？",
+      "translation_zh_CN": "遠嗎？"
+    },
+    {
+      "content": "学校は家から遠いの？",
+      "furigana": "[学校|がっ|こう]は[家|いえ]から[遠|とお]いの？",
+      "translation_zh_CN": "你的學校離你家很遠嗎?"
+    },
+    {
+      "content": "そう遠くはないよ。",
+      "furigana": "そう[遠|とお]くはないよ。",
+      "translation_zh_CN": "不是那么远。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "遠い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "遠い",
+          "reading": "とおい"
+        }
+      ]
+    },
+    {
+      "slug": "遠慮",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "遠慮",
+          "reading": "えんりょ"
+        }
+      ]
+    },
+    {
+      "slug": "遠く",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "遠く",
+          "reading": "とおく"
+        }
+      ]
+    },
+    {
+      "slug": "遠足",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "遠足",
+          "reading": "えんそく"
+        }
+      ]
+    },
+    {
+      "slug": "遠方",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "遠方",
+          "reading": "えんぽう"
+        },
+        {
+          "word": "遠方",
+          "reading": "おちかた"
+        }
+      ]
+    },
+    {
+      "slug": "遠ざかる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "遠ざかる",
+          "reading": "とおざかる"
+        }
+      ]
+    },
+    {
+      "slug": "遠回り",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "遠回り",
+          "reading": "とおまわり"
+        }
+      ]
+    },
+    {
+      "slug": "遠近法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠近法",
+          "reading": "えんきんほう"
+        }
+      ]
+    },
+    {
+      "slug": "遠心力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠心力",
+          "reading": "えんしんりょく"
+        }
+      ]
+    },
+    {
+      "slug": "遠征",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠征",
+          "reading": "えんせい"
+        }
+      ]
+    },
+    {
+      "slug": "遠浅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠浅",
+          "reading": "とおあさ"
+        }
+      ]
+    },
+    {
+      "slug": "遠慮なく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠慮なく",
+          "reading": "えんりょなく"
+        }
+      ]
+    },
+    {
+      "slug": "遠まわし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠まわし",
+          "reading": "とおまわし"
+        },
+        {
+          "word": "遠回し",
+          "reading": "とおまわし"
+        }
+      ]
+    },
+    {
+      "slug": "遠ざける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠ざける",
+          "reading": "とおざける"
+        }
+      ]
+    },
+    {
+      "slug": "遠からず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠からず",
+          "reading": "とおからず"
+        }
+      ]
+    },
+    {
+      "slug": "遠近",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠近",
+          "reading": "えんきん"
+        },
+        {
+          "word": "遠近",
+          "reading": "おちこち"
+        }
+      ]
+    },
+    {
+      "slug": "遠景",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠景",
+          "reading": "えんけい"
+        }
+      ]
+    },
+    {
+      "slug": "遠距離恋愛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠距離恋愛",
+          "reading": "えんきょりれんあい"
+        }
+      ]
+    },
+    {
+      "slug": "遠退く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "遠のく",
+          "reading": "とおのく"
+        },
+        {
+          "word": "遠退く",
+          "reading": "とおのく"
+        }
+      ]
+    }
   ]
 }

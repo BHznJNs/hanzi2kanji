@@ -101,5 +101,187 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "綺麗な足ですね。",
+      "furigana": "[綺麗|き|れい]な[足|あし]ですね。",
+      "translation_zh_CN": "你有着漂亮的腿。"
+    },
+    {
+      "content": "あの城は麗しいです。",
+      "furigana": "あの[城|しろ]は[麗|うるわ]しいです。",
+      "translation_zh_CN": "那个城堡很漂亮。"
+    },
+    {
+      "content": "あの女性、綺麗だなぁ。",
+      "furigana": "あの[女性|じょ|せい]、[綺麗|き|れい]だなぁ。",
+      "translation_zh_CN": "那個女孩長得很好看。"
+    },
+    {
+      "content": "今夜は月が綺麗ですね。",
+      "furigana": "[今夜|こん|や]は[月|つき]が[綺麗|き|れい]ですね。",
+      "translation_zh_CN": "我爱你。"
+    },
+    {
+      "content": "何て綺麗な花なんでしょう！",
+      "furigana": "[何|なん]て[綺麗|き|れい]な[花|はな]なんでしょう！",
+      "translation_zh_CN": "多漂亮的花啊!"
+    },
+    {
+      "content": "彼女はとても綺麗な人です。",
+      "furigana": "[彼女|かの|じょ]はとても[綺麗|き|れい]な[人|ひと]です。",
+      "translation_zh_CN": "她非常漂亮。"
+    },
+    {
+      "content": "こんな綺麗な景色、見たのはじめて！",
+      "furigana": "こんな[綺麗|き|れい]な[景色|け|しき]、[見|み]たのはじめて！",
+      "translation_zh_CN": "这是我见过最美的景色了。"
+    },
+    {
+      "content": "黒い髪の綺麗な女の子が公園にいました。",
+      "furigana": "[黒|くろ]い[髪|かみ]の[綺麗|き|れい]な[女|おんな]の[子|こ]が[公園|こう|えん]にいました。",
+      "translation_zh_CN": "公園裏有一個漂亮的黑髮女孩。"
+    },
+    {
+      "content": "彼はいつも自分の部屋を綺麗にしている。",
+      "furigana": "[彼|かれ]はいつも[自分|じ|ぶん]の[部屋|へ|や]を[綺麗|き|れい]にしている。",
+      "translation_zh_CN": "他總是把他的房間保持乾淨。"
+    },
+    {
+      "content": "アンはいつも自分の部屋を綺麗にしている。",
+      "furigana": "アンはいつも[自分|じ|ぶん]の[部屋|へ|や]を[綺麗|き|れい]にしている。",
+      "translation_zh_CN": "安總是把她的房間保持乾淨。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "麗しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗しい",
+          "reading": "うるわしい"
+        }
+      ]
+    },
+    {
+      "slug": "麗景殿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗景殿",
+          "reading": "れいけいでん"
+        }
+      ]
+    },
+    {
+      "slug": "麗質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗質",
+          "reading": "れいしつ"
+        }
+      ]
+    },
+    {
+      "slug": "麗らか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗らか",
+          "reading": "うららか"
+        }
+      ]
+    },
+    {
+      "slug": "麗句",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗句",
+          "reading": "れいく"
+        }
+      ]
+    },
+    {
+      "slug": "麗筆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗筆",
+          "reading": "れいひつ"
+        }
+      ]
+    },
+    {
+      "slug": "麗姿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗姿",
+          "reading": "れいし"
+        }
+      ]
+    },
+    {
+      "slug": "麗人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗人",
+          "reading": "れいじん"
+        }
+      ]
+    },
+    {
+      "slug": "麗容",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗容",
+          "reading": "れいよう"
+        }
+      ]
+    },
+    {
+      "slug": "麗々しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗々しい",
+          "reading": "れいれいしい"
+        },
+        {
+          "word": "麗麗しい",
+          "reading": "れいれいしい"
+        }
+      ]
+    },
+    {
+      "slug": "麗日",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗日",
+          "reading": "れいじつ"
+        }
+      ]
+    },
+    {
+      "slug": "麗澤大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "麗澤大学",
+          "reading": "れいたくだいがく"
+        },
+        {
+          "word": "麗沢大学",
+          "reading": "れいたくだいがく"
+        }
+      ]
+    }
   ]
 }

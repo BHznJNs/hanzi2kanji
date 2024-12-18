@@ -85,5 +85,337 @@
       "startStroke": 9,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "楽にしてね。",
+      "furigana": "[楽|らく]にしてね。",
+      "translation_zh_CN": "别紧张。"
+    },
+    {
+      "content": "近頃は旅行は楽だ。",
+      "furigana": "[近頃|ちか|ごろ]は[旅行|りょ|こう]は[楽|らく]だ。",
+      "translation_zh_CN": "如今，旅行很容易。"
+    },
+    {
+      "content": "深呼吸をして楽にしなさい。",
+      "furigana": "[深呼吸|しん|こ|きゅう]をして[楽|らく]にしなさい。",
+      "translation_zh_CN": "深呼吸并放松。"
+    },
+    {
+      "content": "楽にしてください。",
+      "furigana": "[楽|らく]にしてください。",
+      "translation_zh_CN": "请放轻松。"
+    },
+    {
+      "content": "どうぞ楽になって下さい。",
+      "furigana": "どうぞ[楽|らく]になって[下|くだ]さい。",
+      "translation_zh_CN": "请让自己舒服一点。"
+    },
+    {
+      "content": "老後は楽に暮らしたい。",
+      "furigana": "[老後|ろう|ご]は[楽|らく]に[暮|く]らしたい。",
+      "translation_zh_CN": "我想在退休后过上舒适的生活。"
+    },
+    {
+      "content": "皆さんどうぞお楽に。",
+      "furigana": "[皆|みな]さんどうぞお[楽|らく]に。",
+      "translation_zh_CN": "大家玩得开心。"
+    },
+    {
+      "content": "予想に反して楽に勝てましたね。",
+      "furigana": "[予想|よ|そう]に[反|はん]して[楽|らく]に[勝|か]てましたね。",
+      "translation_zh_CN": "出乎我的意料，我轻松获胜。"
+    },
+    {
+      "content": "気を楽に持とうよ。",
+      "furigana": "[気|き]を[楽|らく]に[持|も]とうよ。",
+      "translation_zh_CN": "让我们放轻松吧。"
+    },
+    {
+      "content": "楽になさってください。",
+      "furigana": "[楽|らく]になさってください。",
+      "translation_zh_CN": "请放轻松。"
+    },
+    {
+      "content": "苦あれば楽あり。",
+      "furigana": "[苦|く]あれば[楽|らく]あり。",
+      "translation_zh_CN": "一分耕耘，一分收穫。"
+    },
+    {
+      "content": "休日は楽しかった？",
+      "furigana": "[休日|きゅう|じつ]は[楽|たの]しかった？",
+      "translation_zh_CN": "假期過得開心嗎？"
+    },
+    {
+      "content": "楽しんできてね。",
+      "furigana": "[楽|たの]しんできてね。",
+      "translation_zh_CN": "玩得開心。"
+    },
+    {
+      "content": "楽しい週末をね。",
+      "furigana": "[楽|たの]しい[週末|しゅう|まつ]をね。",
+      "translation_zh_CN": "周末愉快！"
+    },
+    {
+      "content": "楽しいご旅行を。",
+      "furigana": "[楽|たの]しいご[旅行|りょ|こう]を。",
+      "translation_zh_CN": "一路順風！"
+    },
+    {
+      "content": "音楽を聴きます。",
+      "furigana": "[音楽|おん|がく]を[聴|き]きます。",
+      "translation_zh_CN": "我听音乐。"
+    },
+    {
+      "content": "音楽を聞こうよ。",
+      "furigana": "[音楽|おん|がく]を[聞|き]こうよ。",
+      "translation_zh_CN": "我們聽點音樂吧。"
+    },
+    {
+      "content": "皆は楽しかった。",
+      "furigana": "[皆|みな]は[楽|たの]しかった。",
+      "translation_zh_CN": "大家都玩得很开心。"
+    },
+    {
+      "content": "みんな楽しんだ。",
+      "furigana": "みんな[楽|たの]しんだ。",
+      "translation_zh_CN": "大家都玩得很开心。"
+    },
+    {
+      "content": "凄く楽しいです。",
+      "furigana": "[凄|すご]く[楽|たの]しいです。",
+      "translation_zh_CN": "非常有趣。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "楽しい",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "楽しい",
+          "reading": "たのしい"
+        },
+        {
+          "word": "愉しい",
+          "reading": "たのしい"
+        }
+      ]
+    },
+    {
+      "slug": "楽器",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "楽器",
+          "reading": "がっき"
+        }
+      ]
+    },
+    {
+      "slug": "楽しむ",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "楽しむ",
+          "reading": "たのしむ"
+        },
+        {
+          "word": "愉しむ",
+          "reading": "たのしむ"
+        }
+      ]
+    },
+    {
+      "slug": "楽しみ",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "楽しみ",
+          "reading": "たのしみ"
+        },
+        {
+          "word": "愉しみ",
+          "reading": "たのしみ"
+        }
+      ]
+    },
+    {
+      "slug": "楽譜",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "楽譜",
+          "reading": "がくふ"
+        }
+      ]
+    },
+    {
+      "slug": "楽観",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "楽観",
+          "reading": "らっかん"
+        }
+      ]
+    },
+    {
+      "slug": "落書き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "落書き",
+          "reading": "らくがき"
+        },
+        {
+          "word": "楽書き",
+          "reading": "らくがき"
+        },
+        {
+          "word": "落書",
+          "reading": "らくがき"
+        },
+        {
+          "word": "楽書",
+          "reading": "らくがき"
+        }
+      ]
+    },
+    {
+      "slug": "楽屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽屋",
+          "reading": "がくや"
+        }
+      ]
+    },
+    {
+      "slug": "楽園",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽園",
+          "reading": "らくえん"
+        }
+      ]
+    },
+    {
+      "slug": "楽団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽団",
+          "reading": "がくだん"
+        }
+      ]
+    },
+    {
+      "slug": "楽観的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽観的",
+          "reading": "らっかんてき"
+        }
+      ]
+    },
+    {
+      "slug": "楽天的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽天的",
+          "reading": "らくてんてき"
+        }
+      ]
+    },
+    {
+      "slug": "楽楽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽々",
+          "reading": "らくらく"
+        },
+        {
+          "word": "楽楽",
+          "reading": "らくらく"
+        },
+        {
+          "reading": "ラクラク"
+        }
+      ]
+    },
+    {
+      "slug": "楽勝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽勝",
+          "reading": "らくしょう"
+        }
+      ]
+    },
+    {
+      "slug": "楽しげ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽しげ",
+          "reading": "たのしげ"
+        },
+        {
+          "word": "愉しげ",
+          "reading": "たのしげ"
+        }
+      ]
+    },
+    {
+      "slug": "楽隊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽隊",
+          "reading": "がくたい"
+        }
+      ]
+    },
+    {
+      "slug": "楽天家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽天家",
+          "reading": "らくてんか"
+        }
+      ]
+    },
+    {
+      "slug": "楽観主義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "楽観主義",
+          "reading": "らっかんしゅぎ"
+        }
+      ]
+    }
   ]
 }

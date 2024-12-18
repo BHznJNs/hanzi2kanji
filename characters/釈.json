@@ -93,5 +93,234 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "その囚人は釈放された。",
+      "furigana": "その[囚人|しゅう|じん]は[釈放|しゃく|ほう]された。",
+      "translation_zh_CN": "囚犯重獲自由。"
+    },
+    {
+      "content": "これをどう解釈しますか。",
+      "furigana": "これをどう[解釈|かい|しゃく]しますか。",
+      "translation_zh_CN": "你們對此有什麼看法嗎？"
+    },
+    {
+      "content": "注釈を加えないでください。",
+      "furigana": "[注釈|ちゅう|しゃく]を[加|くわ]えないでください。",
+      "translation_zh_CN": "请勿加注释。"
+    },
+    {
+      "content": "日本では、人に会ったら会釈するのが礼儀である。",
+      "furigana": "[日本|にっ|ぽん]では、[人|ひと]に[会|あ]ったら[会釈|え|しゃく]するのが[礼儀|れい|ぎ]である。",
+      "translation_zh_CN": "在日本，遇到人鞠躬是有礼貌的表现。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "釈放",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈放",
+          "reading": "しゃくほう"
+        }
+      ]
+    },
+    {
+      "slug": "釈明",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈明",
+          "reading": "しゃくめい"
+        }
+      ]
+    },
+    {
+      "slug": "釈迦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈迦",
+          "reading": "しゃか"
+        }
+      ]
+    },
+    {
+      "slug": "釈然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈然",
+          "reading": "しゃくぜん"
+        },
+        {
+          "word": "釈然",
+          "reading": "せきぜん"
+        }
+      ]
+    },
+    {
+      "slug": "釈迦に説法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈迦に説法",
+          "reading": "しゃかにせっぽう"
+        }
+      ]
+    },
+    {
+      "slug": "釈迦占地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈迦占地",
+          "reading": "しゃかしめじ"
+        },
+        {
+          "reading": "シャカシメジ"
+        }
+      ]
+    },
+    {
+      "slug": "釈迦三尊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈迦三尊",
+          "reading": "しゃかさんぞん"
+        }
+      ]
+    },
+    {
+      "slug": "釈迦十",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈迦十",
+          "reading": "しゃかじゅう"
+        },
+        {
+          "word": "釈迦十",
+          "reading": "しゃかとお"
+        }
+      ]
+    },
+    {
+      "slug": "釈迦頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈迦頭",
+          "reading": "しゃかとう"
+        }
+      ]
+    },
+    {
+      "slug": "釈迦牟尼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈迦牟尼",
+          "reading": "しゃかむに"
+        }
+      ]
+    },
+    {
+      "slug": "釈尊",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈尊",
+          "reading": "しゃくそん"
+        }
+      ]
+    },
+    {
+      "slug": "釈空海",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈空海",
+          "reading": "しゃくくうかい"
+        }
+      ]
+    },
+    {
+      "slug": "釈義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈義",
+          "reading": "しゃくぎ"
+        },
+        {
+          "word": "釋義",
+          "reading": "しゃくぎ"
+        }
+      ]
+    },
+    {
+      "slug": "釈義学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈義学",
+          "reading": "しゃくぎがく"
+        }
+      ]
+    },
+    {
+      "slug": "釈迦如来",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈迦如来",
+          "reading": "しゃかにょらい"
+        }
+      ]
+    },
+    {
+      "slug": "釈台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈台",
+          "reading": "しゃくだい"
+        }
+      ]
+    },
+    {
+      "slug": "釈典",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈典",
+          "reading": "しゃくてん"
+        }
+      ]
+    },
+    {
+      "slug": "釈日本紀",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈日本紀",
+          "reading": "しゃくにほんぎ"
+        }
+      ]
+    },
+    {
+      "slug": "釈然とする",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "釈然とする",
+          "reading": "しゃくぜんとする"
+        }
+      ]
+    }
   ]
 }

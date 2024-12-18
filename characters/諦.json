@@ -70,5 +70,239 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "諦めちゃ駄目だ。",
+      "furigana": "[諦|あきら]めちゃ[駄目|だ|め]だ。",
+      "translation_zh_CN": "不要放棄!"
+    },
+    {
+      "content": "諦めちゃだめよ。",
+      "furigana": "[諦|あきら]めちゃだめよ。",
+      "translation_zh_CN": "永远不要说永远。"
+    },
+    {
+      "content": "じゃ、諦めるんだね？",
+      "furigana": "じゃ、[諦|あきら]めるんだね？",
+      "translation_zh_CN": "那你放棄了，是嗎？"
+    },
+    {
+      "content": "夢を諦めきれない。",
+      "furigana": "[夢|ゆめ]を[諦|あきら]めきれない。",
+      "translation_zh_CN": "我不能放棄我的夢想。"
+    },
+    {
+      "content": "諦めてはいけません。",
+      "furigana": "[諦|あきら]めてはいけません。",
+      "translation_zh_CN": "不要放棄!"
+    },
+    {
+      "content": "彼女は夢を諦めるしかなかった。",
+      "furigana": "[彼女|かの|じょ]は[夢|ゆめ]を[諦|あきら]めるしかなかった。",
+      "translation_zh_CN": "她不得不放弃梦想。"
+    },
+    {
+      "content": "彼女は夢を諦めざるをえなかった。",
+      "furigana": "[彼女|かの|じょ]は[夢|ゆめ]を[諦|あきら]めざるをえなかった。",
+      "translation_zh_CN": "她不得不放弃梦想。"
+    },
+    {
+      "content": "すぐに諦めて昼寝をするかも知れない。",
+      "furigana": "すぐに[諦|あきら]めて[昼寝|ひる|ね]をするかも[知|し]れない。",
+      "translation_zh_CN": "也许我会马上放弃然后去打盹。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "諦める",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "諦める",
+          "reading": "あきらめる"
+        }
+      ]
+    },
+    {
+      "slug": "諦め",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "諦め",
+          "reading": "あきらめ"
+        }
+      ]
+    },
+    {
+      "slug": "諦めつく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦めつく",
+          "reading": "あきらめつく"
+        },
+        {
+          "word": "諦め付く",
+          "reading": "あきらめつく"
+        }
+      ]
+    },
+    {
+      "slug": "諦めの境地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦めの境地",
+          "reading": "あきらめのきょうち"
+        },
+        {
+          "word": "あきらめの境地",
+          "reading": "あきらめのきょうち"
+        }
+      ]
+    },
+    {
+      "slug": "諦めの悪い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦めの悪い",
+          "reading": "あきらめのわるい"
+        },
+        {
+          "word": "あきらめの悪い",
+          "reading": "あきらめのわるい"
+        }
+      ]
+    },
+    {
+      "slug": "諦めが悪い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦めが悪い",
+          "reading": "あきらめがわるい"
+        },
+        {
+          "word": "あきらめが悪い",
+          "reading": "あきらめがわるい"
+        }
+      ]
+    },
+    {
+      "slug": "諦念",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦念",
+          "reading": "ていねん"
+        }
+      ]
+    },
+    {
+      "slug": "諦観",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦観",
+          "reading": "ていかん"
+        }
+      ]
+    },
+    {
+      "slug": "諦めがつく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦めがつく",
+          "reading": "あきらめがつく"
+        },
+        {
+          "word": "諦めが付く",
+          "reading": "あきらめがつく"
+        }
+      ]
+    },
+    {
+      "slug": "諦めモード",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦めモード",
+          "reading": "あきらめモード"
+        }
+      ]
+    },
+    {
+      "slug": "あきらめ顔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あきらめ顔",
+          "reading": "あきらめがお"
+        },
+        {
+          "word": "諦め顔",
+          "reading": "あきらめがお"
+        }
+      ]
+    },
+    {
+      "slug": "諦めがいい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦めがいい",
+          "reading": "あきらめがいい"
+        },
+        {
+          "word": "諦めが良い",
+          "reading": "あきらめがいい"
+        },
+        {
+          "word": "諦めが良い",
+          "reading": "あきらめがよい"
+        },
+        {
+          "word": "諦めがよい",
+          "reading": "あきらめがよい"
+        }
+      ]
+    },
+    {
+      "slug": "諦めのいい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "諦めの良い",
+          "reading": "あきらめのよい"
+        },
+        {
+          "word": "あきらめの良い",
+          "reading": "あきらめのよい"
+        },
+        {
+          "word": "諦めのよい",
+          "reading": "あきらめのよい"
+        },
+        {
+          "word": "諦めのいい",
+          "reading": "あきらめのいい"
+        },
+        {
+          "word": "諦めの良い",
+          "reading": "あきらめのいい"
+        },
+        {
+          "word": "あきらめの良い",
+          "reading": "あきらめのいい"
+        }
+      ]
+    }
   ]
 }

@@ -53,5 +53,91 @@
       "startStroke": 8,
       "strokes": 8
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "錐体細胞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錐体細胞",
+          "reading": "すいたいさいぼう"
+        }
+      ]
+    },
+    {
+      "slug": "錐揉み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錐揉み",
+          "reading": "きりもみ"
+        },
+        {
+          "reading": "キリモミ"
+        }
+      ]
+    },
+    {
+      "slug": "錐体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錐体",
+          "reading": "すいたい"
+        }
+      ]
+    },
+    {
+      "slug": "錐体路",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錐体路",
+          "reading": "すいたいろ"
+        }
+      ]
+    },
+    {
+      "slug": "錐台",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錐台",
+          "reading": "すいだい"
+        }
+      ]
+    },
+    {
+      "slug": "錐体筋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錐体筋",
+          "reading": "すいたいきん"
+        }
+      ]
+    },
+    {
+      "slug": "錐状体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錐状体",
+          "reading": "すいじょうたい"
+        }
+      ]
+    },
+    {
+      "slug": "錐面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錐面",
+          "reading": "すいめん"
+        }
+      ]
+    }
   ]
 }

@@ -100,5 +100,165 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼らは泥棒を木に縛り付けた。",
+      "furigana": "[彼|かれ]らは[泥棒|どろ|ぼう]を[木|き]に[縛|しば]り[付|つ]けた。",
+      "translation_zh_CN": "他们把小偷绑在树上了。"
+    },
+    {
+      "content": "彼女のフェチが緊縛と支配でしょう。",
+      "furigana": "[彼女|かの|じょ]のフェチが[緊縛|きん|ばく]と[支配|し|はい]でしょう。",
+      "translation_zh_CN": "我想她想要的是束縛與支配。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "縛る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "縛る",
+          "reading": "しばる"
+        }
+      ]
+    },
+    {
+      "slug": "縛り付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛り付ける",
+          "reading": "しばりつける"
+        },
+        {
+          "word": "縛りつける",
+          "reading": "しばりつける"
+        }
+      ]
+    },
+    {
+      "slug": "縛り上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛り上げる",
+          "reading": "しばりあげる"
+        },
+        {
+          "word": "縛りあげる",
+          "reading": "しばりあげる"
+        }
+      ]
+    },
+    {
+      "slug": "縛り首",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛り首",
+          "reading": "しばりくび"
+        }
+      ]
+    },
+    {
+      "slug": "縛め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛め",
+          "reading": "いましめ"
+        },
+        {
+          "word": "戒め",
+          "reading": "いましめ"
+        }
+      ]
+    },
+    {
+      "slug": "縛める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛める",
+          "reading": "いましめる"
+        }
+      ]
+    },
+    {
+      "slug": "縛する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛する",
+          "reading": "ばくする"
+        }
+      ]
+    },
+    {
+      "slug": "縛り込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛り込む",
+          "reading": "しばりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "縛り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛り",
+          "reading": "しばり"
+        }
+      ]
+    },
+    {
+      "slug": "縛帯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛帯",
+          "reading": "ばくたい"
+        }
+      ]
+    },
+    {
+      "slug": "縛りプレイ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛りプレイ",
+          "reading": "しばりプレイ"
+        },
+        {
+          "word": "縛りプレー",
+          "reading": "しばりプレー"
+        }
+      ]
+    },
+    {
+      "slug": "縛に就く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縛につく",
+          "reading": "ばくにつく"
+        },
+        {
+          "word": "縛に就く",
+          "reading": "ばくにつく"
+        },
+        {
+          "word": "縛に付く",
+          "reading": "ばくにつく"
+        }
+      ]
+    }
   ]
 }

@@ -73,5 +73,153 @@
       "startStroke": 3,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "広いな！",
+      "furigana": "[広|ひろ]いな！",
+      "translation_zh_CN": "真宽敞啊！"
+    },
+    {
+      "content": "広い町ね！",
+      "furigana": "[広|ひろ]い[町|まち]ね！",
+      "translation_zh_CN": "这是一个大城镇！"
+    },
+    {
+      "content": "どのくらい広い？",
+      "furigana": "どのくらい[広|ひろ]い？",
+      "translation_zh_CN": "多宽？"
+    },
+    {
+      "content": "世界は広い。",
+      "furigana": "[世界|せ|かい]は[広|ひろ]い。",
+      "translation_zh_CN": "世界很广阔。"
+    },
+    {
+      "content": "僕んち、広くないよ。",
+      "furigana": "[僕|ぼく]んち、[広|ひろ]くないよ。",
+      "translation_zh_CN": "我的不是很宽敞。"
+    },
+    {
+      "content": "その川は広い。",
+      "furigana": "その[川|かわ]は[広|ひろ]い。",
+      "translation_zh_CN": "那条河很宽。"
+    },
+    {
+      "content": "今回テスト範囲広くない？",
+      "furigana": "[今回|こん|かい]テスト[範囲広|はん|い|ひろ]くない？",
+      "translation_zh_CN": "这次的测试范围是不是很广？"
+    },
+    {
+      "content": "空は広いです。",
+      "furigana": "[空|そら]は[広|ひろ]いです。",
+      "translation_zh_CN": "天很广阔。"
+    },
+    {
+      "content": "本通りは大変広い。",
+      "furigana": "[本通|ほん|どお]りは[大変広|たい|へん|ひろ]い。",
+      "translation_zh_CN": "主要街道非常宽阔。"
+    },
+    {
+      "content": "彼は顔が広い。",
+      "furigana": "[彼|かれ]は[顔|かお]が[広|ひろ]い。",
+      "translation_zh_CN": "他有一张宽脸。"
+    },
+    {
+      "content": "トムは顔が広い。",
+      "furigana": "トムは[顔|かお]が[広|ひろ]い。",
+      "translation_zh_CN": "汤姆熟人多。"
+    },
+    {
+      "content": "広州に住んでいる。",
+      "furigana": "[広州|こう|しゅう]に[住|す]んでいる。",
+      "translation_zh_CN": "我住在广州。"
+    },
+    {
+      "content": "彼はつきあいが広い。",
+      "furigana": "[彼|かれ]はつきあいが[広|ひろ]い。",
+      "translation_zh_CN": "他认识很多人。"
+    },
+    {
+      "content": "その噂はすぐに広まった。",
+      "furigana": "その[噂|うわさ]はすぐに[広|ひろ]まった。",
+      "translation_zh_CN": "那个谣言很快传播开来。"
+    },
+    {
+      "content": "彼は家を売る広告を出した。",
+      "furigana": "[彼|かれ]は[家|いえ]を[売|う]る[広告|こう|こく]を[出|だ]した。",
+      "translation_zh_CN": "他登廣告出售他的房子。"
+    },
+    {
+      "content": "中国は日本よりずっと広い。",
+      "furigana": "[中国|ちゅう|ごく]は[日本|に|ほん]よりずっと[広|ひろ]い。",
+      "translation_zh_CN": "中国比日本大得多。"
+    },
+    {
+      "content": "ニュースはすぐに広まった。",
+      "furigana": "ニュースはすぐに[広|ひろ]まった。",
+      "translation_zh_CN": "消息快速地傳了開去。"
+    },
+    {
+      "content": "なぜ広東語を学んだのですか？",
+      "furigana": "なぜ[広東|かんとん][語|ご]を[学|まな]んだのですか？",
+      "translation_zh_CN": "你為什麼學廣東話？"
+    },
+    {
+      "content": "彼女は広い家に住んでいます。",
+      "furigana": "[彼女|かの|じょ]は[広|ひろ]い[家|いえ]に[住|す]んでいます。",
+      "translation_zh_CN": "她住在一棟大房子裡。"
+    },
+    {
+      "content": "新聞に「重版出来」と広告した。",
+      "furigana": "[新聞|しん|ぶん]に「[重版|じゅう|はん][出来|で|き]」と[広告|こう|こく]した。",
+      "translation_zh_CN": "报纸刊载了“再版工作完成”的广告。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "広い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "広い",
+          "reading": "ひろい"
+        },
+        {
+          "word": "弘い",
+          "reading": "ひろい"
+        },
+        {
+          "word": "廣い",
+          "reading": "ひろい"
+        },
+        {
+          "word": "宏い",
+          "reading": "ひろい"
+        }
+      ]
+    },
+    {
+      "slug": "広い支持",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "広い支持",
+          "reading": "ひろいしじ"
+        }
+      ]
+    },
+    {
+      "slug": "広い額",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "広い額",
+          "reading": "ひろいひたい"
+        }
+      ]
+    }
   ]
 }

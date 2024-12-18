@@ -120,5 +120,108 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "弊害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弊害",
+          "reading": "へいがい"
+        }
+      ]
+    },
+    {
+      "slug": "幣殿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣殿",
+          "reading": "へいでん"
+        }
+      ]
+    },
+    {
+      "slug": "幣束",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣束",
+          "reading": "へいそく"
+        }
+      ]
+    },
+    {
+      "slug": "幣串",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣串",
+          "reading": "へいぐし"
+        }
+      ]
+    },
+    {
+      "slug": "幣物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣物",
+          "reading": "へいもつ"
+        }
+      ]
+    },
+    {
+      "slug": "幣制",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣制",
+          "reading": "へいせい"
+        }
+      ]
+    },
+    {
+      "slug": "幣貢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣貢",
+          "reading": "へいこう"
+        }
+      ]
+    },
+    {
+      "slug": "幣辛夷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣辛夷",
+          "reading": "しでこぶし"
+        }
+      ]
+    },
+    {
+      "slug": "幣帛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣帛",
+          "reading": "へいはく"
+        }
+      ]
+    },
+    {
+      "slug": "幣を奉る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "幣を奉る",
+          "reading": "ぬさをたてまつる"
+        }
+      ]
+    }
   ]
 }

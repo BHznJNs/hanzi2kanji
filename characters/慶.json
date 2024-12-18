@@ -83,5 +83,288 @@
       "startStroke": 12,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "あなたは慶応の学生といつもデートしているのね。",
+      "furigana": "あなたは[慶応|けい|おう]の[学生|がく|せい]といつもデートしているのね。",
+      "translation_zh_CN": "你在跟一個慶應的學生約會，不是嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "喜ぶ",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "喜ぶ",
+          "reading": "よろこぶ"
+        },
+        {
+          "word": "悦ぶ",
+          "reading": "よろこぶ"
+        },
+        {
+          "word": "歓ぶ",
+          "reading": "よろこぶ"
+        },
+        {
+          "word": "慶ぶ",
+          "reading": "よろこぶ"
+        }
+      ]
+    },
+    {
+      "slug": "喜び",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "喜び",
+          "reading": "よろこび"
+        },
+        {
+          "word": "歓び",
+          "reading": "よろこび"
+        },
+        {
+          "word": "慶び",
+          "reading": "よろこび"
+        },
+        {
+          "word": "悦び",
+          "reading": "よろこび"
+        }
+      ]
+    },
+    {
+      "slug": "慶事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶事",
+          "reading": "けいじ"
+        }
+      ]
+    },
+    {
+      "slug": "慶祝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶祝",
+          "reading": "けいしゅく"
+        }
+      ]
+    },
+    {
+      "slug": "慶弔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶弔",
+          "reading": "けいちょう"
+        }
+      ]
+    },
+    {
+      "slug": "慶應義塾大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶應義塾大学",
+          "reading": "けいおうぎじゅくだいがく"
+        },
+        {
+          "word": "慶応義塾大学",
+          "reading": "けいおうぎじゅくだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "慶尚南道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶尚南道",
+          "reading": "キョンサンナムド"
+        },
+        {
+          "word": "慶尚南道",
+          "reading": "けいしょうなんどう"
+        }
+      ]
+    },
+    {
+      "slug": "慶尚北道",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶尚北道",
+          "reading": "キョンサンプクト"
+        },
+        {
+          "word": "慶尚北道",
+          "reading": "けいしょうほくどう"
+        }
+      ]
+    },
+    {
+      "slug": "桂庵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桂庵",
+          "reading": "けいあん"
+        },
+        {
+          "word": "慶庵",
+          "reading": "けいあん"
+        },
+        {
+          "word": "慶安",
+          "reading": "けいあん"
+        }
+      ]
+    },
+    {
+      "slug": "慶長",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶長",
+          "reading": "けいちょう"
+        }
+      ]
+    },
+    {
+      "slug": "慶雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶雲",
+          "reading": "けいうん"
+        },
+        {
+          "word": "景雲",
+          "reading": "けいうん"
+        },
+        {
+          "word": "卿雲",
+          "reading": "けいうん"
+        },
+        {
+          "word": "慶雲",
+          "reading": "きょううん"
+        }
+      ]
+    },
+    {
+      "slug": "慶応",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶応",
+          "reading": "けいおう"
+        }
+      ]
+    },
+    {
+      "slug": "慶応大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶応大学",
+          "reading": "けいおうだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "慶応義塾大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶応義塾大学",
+          "reading": "けいおうぎじゅくだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "慶應大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶應大学",
+          "reading": "けいおうだいがく"
+        },
+        {
+          "word": "慶応大学",
+          "reading": "けいおうだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "慶應義塾大学産業研究所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶應義塾大学産業研究所",
+          "reading": "けいおうぎじゅくだいがくさんぎょうけんきゅうじょ"
+        }
+      ]
+    },
+    {
+      "slug": "慶大",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶大",
+          "reading": "けいだい"
+        }
+      ]
+    },
+    {
+      "slug": "慶福",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶福",
+          "reading": "けいふく"
+        }
+      ]
+    },
+    {
+      "slug": "慶春",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "慶春",
+          "reading": "けいしゅん"
+        }
+      ]
+    },
+    {
+      "slug": "喜び事",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喜びごと",
+          "reading": "よろこびごと"
+        },
+        {
+          "word": "喜び事",
+          "reading": "よろこびごと"
+        },
+        {
+          "word": "慶び事",
+          "reading": "よろこびごと"
+        }
+      ]
+    }
   ]
 }

@@ -113,5 +113,295 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "薫さんはアメリカに行っています。",
+      "furigana": "[薫|かおる]さんはアメリカに[行|い]っています。",
+      "translation_zh_CN": "薰要去美国了。"
+    },
+    {
+      "content": "薫、今のところおまえが一番のリアクション、大賞だよ。",
+      "furigana": "[薫|かおる]、[今|いま]のところおまえが[一番|いち|ばん]のリアクション、[大賞|たい|しょう]だよ。",
+      "translation_zh_CN": "薰，到目前为止你的反应最好，大奖。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "香り",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "香り",
+          "reading": "かおり"
+        },
+        {
+          "word": "薫り",
+          "reading": "かおり"
+        },
+        {
+          "word": "馨り",
+          "reading": "かおり"
+        },
+        {
+          "word": "香",
+          "reading": "かおり"
+        },
+        {
+          "word": "薫",
+          "reading": "かおり"
+        }
+      ]
+    },
+    {
+      "slug": "香る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "香る",
+          "reading": "かおる"
+        },
+        {
+          "word": "薫る",
+          "reading": "かおる"
+        },
+        {
+          "word": "馨る",
+          "reading": "かおる"
+        }
+      ]
+    },
+    {
+      "slug": "燻蒸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燻蒸",
+          "reading": "くんじょう"
+        },
+        {
+          "word": "くん蒸",
+          "reading": "くんじょう"
+        },
+        {
+          "word": "薫蒸",
+          "reading": "くんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "薫製",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燻製",
+          "reading": "くんせい"
+        },
+        {
+          "word": "薫製",
+          "reading": "くんせい"
+        },
+        {
+          "word": "くん製",
+          "reading": "くんせい"
+        },
+        {
+          "word": "熏製",
+          "reading": "くんせい"
+        }
+      ]
+    },
+    {
+      "slug": "薫蒸消毒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫蒸消毒",
+          "reading": "くんじょうしょうどく"
+        }
+      ]
+    },
+    {
+      "slug": "薫き物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫物",
+          "reading": "たきもの"
+        },
+        {
+          "word": "薫き物",
+          "reading": "たきもの"
+        }
+      ]
+    },
+    {
+      "slug": "燻製肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燻製肉",
+          "reading": "くんせいにく"
+        },
+        {
+          "word": "薫製肉",
+          "reading": "くんせいにく"
+        }
+      ]
+    },
+    {
+      "slug": "薫風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫風",
+          "reading": "くんぷう"
+        }
+      ]
+    },
+    {
+      "slug": "葷辛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "葷辛",
+          "reading": "くんしん"
+        },
+        {
+          "word": "葷辛",
+          "reading": "ぐんしん"
+        },
+        {
+          "word": "薫辛",
+          "reading": "くんしん"
+        },
+        {
+          "word": "薫辛",
+          "reading": "ぐんしん"
+        }
+      ]
+    },
+    {
+      "slug": "薫化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫化",
+          "reading": "くんか"
+        }
+      ]
+    },
+    {
+      "slug": "薫染",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫染",
+          "reading": "くんせん"
+        }
+      ]
+    },
+    {
+      "slug": "薫煙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫煙",
+          "reading": "くんえん"
+        }
+      ]
+    },
+    {
+      "slug": "燻らす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燻らす",
+          "reading": "くゆらす"
+        },
+        {
+          "word": "薫らす",
+          "reading": "くゆらす"
+        }
+      ]
+    },
+    {
+      "slug": "薫陶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫陶",
+          "reading": "くんとう"
+        }
+      ]
+    },
+    {
+      "slug": "薫香",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫香",
+          "reading": "くんこう"
+        }
+      ]
+    },
+    {
+      "slug": "燻肉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "燻肉",
+          "reading": "くんにく"
+        },
+        {
+          "word": "薫肉",
+          "reading": "くんにく"
+        }
+      ]
+    },
+    {
+      "slug": "薫ずる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫ずる",
+          "reading": "くんずる"
+        }
+      ]
+    },
+    {
+      "slug": "薫育",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "薫育",
+          "reading": "くんいく"
+        }
+      ]
+    },
+    {
+      "slug": "香り立つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "香り立つ",
+          "reading": "かおりたつ"
+        },
+        {
+          "word": "香りたつ",
+          "reading": "かおりたつ"
+        },
+        {
+          "word": "薫り立つ",
+          "reading": "かおりたつ"
+        },
+        {
+          "word": "薫りたつ",
+          "reading": "かおりたつ"
+        }
+      ]
+    }
   ]
 }

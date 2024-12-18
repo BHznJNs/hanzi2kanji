@@ -104,5 +104,334 @@
       "startStroke": 14,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "親が離婚しています。",
+      "furigana": "[親|おや]が[離婚|り|こん]しています。",
+      "translation_zh_CN": "我的父母离婚了。"
+    },
+    {
+      "content": "親が払うよ。",
+      "furigana": "[親|おや]が[払|はら]うよ。",
+      "translation_zh_CN": "我父母会付钱。"
+    },
+    {
+      "content": "親は知ってるのか？",
+      "furigana": "[親|おや]は[知|し]ってるのか？",
+      "translation_zh_CN": "家长们知道吗？"
+    },
+    {
+      "content": "彼は親離れしている。",
+      "furigana": "[彼|かれ]は[親離|おや|ばな]れしている。",
+      "translation_zh_CN": "他与父母疏远。"
+    },
+    {
+      "content": "親は子を愛する。",
+      "furigana": "[親|おや]は[子|こ]を[愛|あい]する。",
+      "translation_zh_CN": "父母爱他们的孩子。"
+    },
+    {
+      "content": "親にはもう話しました。",
+      "furigana": "[親|おや]にはもう[話|はな]しました。",
+      "translation_zh_CN": "我已经告诉我父母了。"
+    },
+    {
+      "content": "彼女の親に頼りたくない。",
+      "furigana": "[彼女|かの|じょ]の[親|おや]に[頼|たよ]りたくない。",
+      "translation_zh_CN": "我不想依赖她的父母。"
+    },
+    {
+      "content": "親には見せたの？",
+      "furigana": "[親|おや]には[見|み]せたの？",
+      "translation_zh_CN": "你给你父母看过了吗？"
+    },
+    {
+      "content": "親と一緒に住んでます。",
+      "furigana": "[親|おや]と[一緒|いっ|しょ]に[住|す]んでます。",
+      "translation_zh_CN": "我和父母住在一起。"
+    },
+    {
+      "content": "親とよく意見が食い違います。",
+      "furigana": "[親|おや]とよく[意見|い|けん]が[食|く]い[違|ちが]います。",
+      "translation_zh_CN": "我和父母经常有分歧。"
+    },
+    {
+      "content": "彼女は父親似だ。",
+      "furigana": "[彼女|かの|じょ]は[父親|ちち|おや][似|に]だ。",
+      "translation_zh_CN": "她像她爸爸。"
+    },
+    {
+      "content": "トムは母親似だ。",
+      "furigana": "トムは[母親|はは|おや][似|に]だ。",
+      "translation_zh_CN": "汤姆长得像他母亲。"
+    },
+    {
+      "content": "父親にそっくりだ。",
+      "furigana": "[父親|ちち|おや]にそっくりだ。",
+      "translation_zh_CN": "他和他爸爸是一个模子刻出来的。"
+    },
+    {
+      "content": "彼は非常に親切だ。",
+      "furigana": "[彼|かれ]は[非常|ひ|じょう]に[親切|しん|せつ]だ。",
+      "translation_zh_CN": "他非常親切。"
+    },
+    {
+      "content": "親が親なら子も子。",
+      "furigana": "[親|おや]が[親|おや]なら[子|こ]も[子|こ]。",
+      "translation_zh_CN": "有其父必有其子。"
+    },
+    {
+      "content": "御両親によろしく。",
+      "furigana": "[御|ご][両親|りょう|しん]によろしく。",
+      "translation_zh_CN": "代我向你父母问好。"
+    },
+    {
+      "content": "その少年は親切だ。",
+      "furigana": "その[少年|しょう|ねん]は[親切|しん|せつ]だ。",
+      "translation_zh_CN": "他是个好孩子。"
+    },
+    {
+      "content": "父親は良い人です。",
+      "furigana": "[父親|ちち|おや]は[良|い]い[人|ひと]です。",
+      "translation_zh_CN": "父親是好的。"
+    },
+    {
+      "content": "私たちは親友です。",
+      "furigana": "[私|わたし]たちは[親友|しん|ゆう]です。",
+      "translation_zh_CN": "我們是好朋友。"
+    },
+    {
+      "content": "トムのご両親ですね？",
+      "furigana": "トムのご[両親|りょう|しん]ですね？",
+      "translation_zh_CN": "你们是汤姆的父母，对吧？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "親指",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "親指",
+          "reading": "おやゆび"
+        }
+      ]
+    },
+    {
+      "slug": "親切",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "親切",
+          "reading": "しんせつ"
+        },
+        {
+          "word": "深切",
+          "reading": "しんせつ"
+        }
+      ]
+    },
+    {
+      "slug": "親しい",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "親しい",
+          "reading": "したしい"
+        }
+      ]
+    },
+    {
+      "slug": "親友",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "親友",
+          "reading": "しんゆう"
+        }
+      ]
+    },
+    {
+      "slug": "親戚",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "親戚",
+          "reading": "しんせき"
+        },
+        {
+          "word": "親せき",
+          "reading": "しんせき"
+        }
+      ]
+    },
+    {
+      "slug": "親類",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "親類",
+          "reading": "しんるい"
+        }
+      ]
+    },
+    {
+      "slug": "親しむ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "親しむ",
+          "reading": "したしむ"
+        }
+      ]
+    },
+    {
+      "slug": "親族",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親族",
+          "reading": "しんぞく"
+        }
+      ]
+    },
+    {
+      "slug": "親近感",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親近感",
+          "reading": "しんきんかん"
+        }
+      ]
+    },
+    {
+      "slug": "親睦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親睦",
+          "reading": "しんぼく"
+        }
+      ]
+    },
+    {
+      "slug": "親子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親子",
+          "reading": "おやこ"
+        },
+        {
+          "word": "親子",
+          "reading": "しんし"
+        }
+      ]
+    },
+    {
+      "slug": "親密",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親密",
+          "reading": "しんみつ"
+        }
+      ]
+    },
+    {
+      "slug": "親しみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親しみ",
+          "reading": "したしみ"
+        }
+      ]
+    },
+    {
+      "slug": "親分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親分",
+          "reading": "おやぶん"
+        }
+      ]
+    },
+    {
+      "slug": "親孝行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親孝行",
+          "reading": "おやこうこう"
+        }
+      ]
+    },
+    {
+      "slug": "親父",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親父",
+          "reading": "おやじ"
+        },
+        {
+          "word": "親爺",
+          "reading": "おやじ"
+        },
+        {
+          "word": "親仁",
+          "reading": "おやじ"
+        },
+        {
+          "reading": "オヤジ"
+        }
+      ]
+    },
+    {
+      "slug": "親バカ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親バカ",
+          "reading": "おやばか"
+        },
+        {
+          "word": "親ばか",
+          "reading": "おやばか"
+        },
+        {
+          "word": "親馬鹿",
+          "reading": "おやばか"
+        }
+      ]
+    },
+    {
+      "slug": "親譲り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "親譲り",
+          "reading": "おやゆずり"
+        }
+      ]
+    }
   ]
 }

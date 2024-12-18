@@ -102,5 +102,257 @@
       "startStroke": 10,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "ご確認ください。",
+      "furigana": "ご[確認|かく|にん]ください。",
+      "translation_zh_CN": "请确认。"
+    },
+    {
+      "content": "彼は負けを認めた。",
+      "furigana": "[彼|かれ]は[負|ま]けを[認|みと]めた。",
+      "translation_zh_CN": "他接受了他的失败。"
+    },
+    {
+      "content": "トムは時間を確認した。",
+      "furigana": "トムは[時間|じ|かん]を[確認|かく|にん]した。",
+      "translation_zh_CN": "汤姆确认了时间。"
+    },
+    {
+      "content": "辞書で確認してごらん。",
+      "furigana": "[辞書|じ|しょ]で[確認|かく|にん]してごらん。",
+      "translation_zh_CN": "查詞典。"
+    },
+    {
+      "content": "彼は自分の罪を認めた。",
+      "furigana": "[彼|かれ]は[自分|じ|ぶん]の[罪|つみ]を[認|みと]めた。",
+      "translation_zh_CN": "他承認他有罪。"
+    },
+    {
+      "content": "自分の失敗を認めろよ。",
+      "furigana": "[自分|じ|ぶん]の[失敗|しっ|ぱい]を[認|みと]めろよ。",
+      "translation_zh_CN": "你应该承认自己的失败。"
+    },
+    {
+      "content": "彼は自分の誤りを認めた。",
+      "furigana": "[彼|かれ]は[自分|じ|ぶん]の[誤|あやま]りを[認|みと]めた。",
+      "translation_zh_CN": "他承认了自己的错误。"
+    },
+    {
+      "content": "彼が正しいことは認める。",
+      "furigana": "[彼|かれ]が[正|ただ]しいことは[認|みと]める。",
+      "translation_zh_CN": "我承认他是对的。"
+    },
+    {
+      "content": "僕が不注意なことは認める。",
+      "furigana": "[僕|ぼく]が[不注意|ふ|ちゅう|い]なことは[認|みと]める。",
+      "translation_zh_CN": "我承认我大意了。"
+    },
+    {
+      "content": "私が不注意なことは認める。",
+      "furigana": "[私|わたし]が[不注意|ふ|ちゅう|い]なことは[認|みと]める。",
+      "translation_zh_CN": "我承认我大意了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "認識",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "認識",
+          "reading": "にんしき"
+        }
+      ]
+    },
+    {
+      "slug": "認証",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認証",
+          "reading": "にんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "認可",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認可",
+          "reading": "にんか"
+        }
+      ]
+    },
+    {
+      "slug": "認定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認定",
+          "reading": "にんてい"
+        }
+      ]
+    },
+    {
+      "slug": "認める",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "認める",
+          "reading": "したためる"
+        }
+      ]
+    },
+    {
+      "slug": "認知症",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知症",
+          "reading": "にんちしょう"
+        }
+      ]
+    },
+    {
+      "slug": "認め",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認め",
+          "reading": "みとめ"
+        }
+      ]
+    },
+    {
+      "slug": "認知",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知",
+          "reading": "にんち"
+        }
+      ]
+    },
+    {
+      "slug": "認め印",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認め印",
+          "reading": "みとめいん"
+        },
+        {
+          "word": "認印",
+          "reading": "みとめいん"
+        }
+      ]
+    },
+    {
+      "slug": "認容",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認容",
+          "reading": "にんよう"
+        }
+      ]
+    },
+    {
+      "slug": "認否",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認否",
+          "reading": "にんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "認知言語学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知言語学",
+          "reading": "にんちげんごがく"
+        }
+      ]
+    },
+    {
+      "slug": "認知行動療法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知行動療法",
+          "reading": "にんちこうどうりょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "認知障害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知障害",
+          "reading": "にんちしょうがい"
+        }
+      ]
+    },
+    {
+      "slug": "認知科学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知科学",
+          "reading": "にんちかがく"
+        }
+      ]
+    },
+    {
+      "slug": "認証局",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認証局",
+          "reading": "にんしょうきょく"
+        }
+      ]
+    },
+    {
+      "slug": "認知的不協和",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知的不協和",
+          "reading": "にんちてきふきょうわ"
+        }
+      ]
+    },
+    {
+      "slug": "認知療法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知療法",
+          "reading": "にんちりょうほう"
+        }
+      ]
+    },
+    {
+      "slug": "認知心理学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "認知心理学",
+          "reading": "にんちしんりがく"
+        }
+      ]
+    }
   ]
 }

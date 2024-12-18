@@ -76,5 +76,277 @@
       "startStroke": 10,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "貰い物の穴を探すな。",
+      "furigana": "[貰|もら]い[物|もの]の[穴|あな]を[探|さが]すな。",
+      "translation_zh_CN": "獲人贈馬，休看馬口。"
+    },
+    {
+      "content": "おしぼりって貰えますか？",
+      "furigana": "おしぼりって[貰|もら]えますか？",
+      "translation_zh_CN": "你有热毛巾吗？"
+    },
+    {
+      "content": "彼はその人に本を貰った。",
+      "furigana": "[彼|かれ]はその[人|ひと]に[本|ほん]を[貰|もら]った。",
+      "translation_zh_CN": "他給了他一本書。"
+    },
+    {
+      "content": "私は友達から手紙を貰った。",
+      "furigana": "[私|わたし]は[友達|とも|だち]から[手紙|て|がみ]を[貰|もら]った。",
+      "translation_zh_CN": "我收到了朋友的一封信。"
+    },
+    {
+      "content": "自分がその賞を貰うとはまったく思ってもいなかった。",
+      "furigana": "[自分|じ|ぶん]がその[賞|しょう]を[貰|もら]うとはまったく[思|おも]ってもいなかった。",
+      "translation_zh_CN": "我从未想过我居然会得这个奖。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "貰う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "貰う",
+          "reading": "もらう"
+        }
+      ]
+    },
+    {
+      "slug": "もらい娘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい娘",
+          "reading": "もらいむすめ"
+        },
+        {
+          "word": "貰い娘",
+          "reading": "もらいむすめ"
+        }
+      ]
+    },
+    {
+      "slug": "貰い子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい子",
+          "reading": "もらいご"
+        },
+        {
+          "word": "貰い子",
+          "reading": "もらいご"
+        }
+      ]
+    },
+    {
+      "slug": "貰い手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貰い手",
+          "reading": "もらいて"
+        },
+        {
+          "word": "もらい手",
+          "reading": "もらいて"
+        }
+      ]
+    },
+    {
+      "slug": "貰える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貰える",
+          "reading": "もらえる"
+        }
+      ]
+    },
+    {
+      "slug": "もらい物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい物",
+          "reading": "もらいもの"
+        },
+        {
+          "word": "貰い物",
+          "reading": "もらいもの"
+        }
+      ]
+    },
+    {
+      "slug": "もらい息子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい息子",
+          "reading": "もらいむすこ"
+        },
+        {
+          "word": "貰い息子",
+          "reading": "もらいむすこ"
+        }
+      ]
+    },
+    {
+      "slug": "もらい湯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい湯",
+          "reading": "もらいゆ"
+        },
+        {
+          "word": "貰い湯",
+          "reading": "もらいゆ"
+        }
+      ]
+    },
+    {
+      "slug": "もらい泣き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい泣き",
+          "reading": "もらいなき"
+        },
+        {
+          "word": "貰い泣き",
+          "reading": "もらいなき"
+        },
+        {
+          "word": "貰泣き",
+          "reading": "もらいなき"
+        }
+      ]
+    },
+    {
+      "slug": "貰い事故",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい事故",
+          "reading": "もらいじこ"
+        },
+        {
+          "word": "貰い事故",
+          "reading": "もらいじこ"
+        }
+      ]
+    },
+    {
+      "slug": "貰い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貰い",
+          "reading": "もらい"
+        }
+      ]
+    },
+    {
+      "slug": "もらい火",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい火",
+          "reading": "もらいび"
+        },
+        {
+          "word": "貰い火",
+          "reading": "もらいび"
+        }
+      ]
+    },
+    {
+      "slug": "貰いっぱなし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貰いっぱなし",
+          "reading": "もらいっぱなし"
+        }
+      ]
+    },
+    {
+      "slug": "もらい笑い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい笑い",
+          "reading": "もらいわらい"
+        },
+        {
+          "word": "貰い笑い",
+          "reading": "もらいわらい"
+        }
+      ]
+    },
+    {
+      "slug": "貰いゲロ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "もらいゲロ"
+        },
+        {
+          "word": "貰いゲロ",
+          "reading": "もらいげろ"
+        }
+      ]
+    },
+    {
+      "slug": "貰い乳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もらい乳",
+          "reading": "もらいぢち"
+        },
+        {
+          "word": "もらい乳",
+          "reading": "もらいちち"
+        },
+        {
+          "word": "もらい乳",
+          "reading": "もらいぢ"
+        },
+        {
+          "word": "貰い乳",
+          "reading": "もらいぢち"
+        },
+        {
+          "word": "貰い乳",
+          "reading": "もらいちち"
+        },
+        {
+          "word": "貰い乳",
+          "reading": "もらいぢ"
+        }
+      ]
+    },
+    {
+      "slug": "貰い受ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貰い受ける",
+          "reading": "もらいうける"
+        },
+        {
+          "word": "もらい受ける",
+          "reading": "もらいうける"
+        }
+      ]
+    }
   ]
 }

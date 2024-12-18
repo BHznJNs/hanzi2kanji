@@ -85,5 +85,122 @@
       "startStroke": 17,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "転落",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "転落",
+          "reading": "てんらく"
+        },
+        {
+          "word": "顛落",
+          "reading": "てんらく"
+        }
+      ]
+    },
+    {
+      "slug": "転覆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転覆",
+          "reading": "てんぷく"
+        },
+        {
+          "word": "顛覆",
+          "reading": "てんぷく"
+        },
+        {
+          "word": "顚覆",
+          "reading": "てんぷく"
+        }
+      ]
+    },
+    {
+      "slug": "転倒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転倒",
+          "reading": "てんとう"
+        },
+        {
+          "word": "顛倒",
+          "reading": "てんとう"
+        }
+      ]
+    },
+    {
+      "slug": "転蹶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "転蹶",
+          "reading": "てんけつ"
+        },
+        {
+          "word": "顛蹶",
+          "reading": "てんけつ"
+        },
+        {
+          "word": "顚蹶",
+          "reading": "てんけつ"
+        }
+      ]
+    },
+    {
+      "slug": "顛末記",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顛末記",
+          "reading": "てんまつき"
+        }
+      ]
+    },
+    {
+      "slug": "顛末書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顛末書",
+          "reading": "てんまつしょ"
+        }
+      ]
+    },
+    {
+      "slug": "顛末",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顛末",
+          "reading": "てんまつ"
+        },
+        {
+          "word": "顚末",
+          "reading": "てんまつ"
+        }
+      ]
+    },
+    {
+      "slug": "顛倒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顛倒",
+          "reading": "てんどう"
+        },
+        {
+          "word": "転倒",
+          "reading": "てんどう"
+        }
+      ]
+    }
   ]
 }

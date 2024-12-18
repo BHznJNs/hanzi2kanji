@@ -118,5 +118,273 @@
       "startStroke": 13,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "縫う",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "縫う",
+          "reading": "ぬう"
+        }
+      ]
+    },
+    {
+      "slug": "縫い目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い目",
+          "reading": "ぬいめ"
+        },
+        {
+          "word": "縫目",
+          "reading": "ぬいめ"
+        }
+      ]
+    },
+    {
+      "slug": "縫いぐるみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫いぐるみ",
+          "reading": "ぬいぐるみ"
+        },
+        {
+          "word": "縫い包み",
+          "reading": "ぬいぐるみ"
+        },
+        {
+          "reading": "ヌイグルミ"
+        }
+      ]
+    },
+    {
+      "slug": "縫い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い",
+          "reading": "ぬい"
+        }
+      ]
+    },
+    {
+      "slug": "縫い付ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い付ける",
+          "reading": "ぬいつける"
+        },
+        {
+          "word": "縫いつける",
+          "reading": "ぬいつける"
+        }
+      ]
+    },
+    {
+      "slug": "縫物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い物",
+          "reading": "ぬいもの"
+        },
+        {
+          "word": "縫物",
+          "reading": "ぬいもの"
+        },
+        {
+          "word": "縫いもの",
+          "reading": "ぬいもの"
+        }
+      ]
+    },
+    {
+      "slug": "縫い上げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い上げる",
+          "reading": "ぬいあげる"
+        }
+      ]
+    },
+    {
+      "slug": "縫い合わせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い合わせる",
+          "reading": "ぬいあわせる"
+        }
+      ]
+    },
+    {
+      "slug": "縫合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫合",
+          "reading": "ほうごう"
+        }
+      ]
+    },
+    {
+      "slug": "縫製",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫製",
+          "reading": "ほうせい"
+        },
+        {
+          "word": "縫成",
+          "reading": "ほうせい"
+        }
+      ]
+    },
+    {
+      "slug": "縫い針",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い針",
+          "reading": "ぬいばり"
+        },
+        {
+          "word": "縫い針",
+          "reading": "ぬいはり"
+        },
+        {
+          "word": "縫針",
+          "reading": "ぬいばり"
+        },
+        {
+          "word": "縫針",
+          "reading": "ぬいはり"
+        }
+      ]
+    },
+    {
+      "slug": "縫工筋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫工筋",
+          "reading": "ほうこうきん"
+        }
+      ]
+    },
+    {
+      "slug": "縫い箔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫箔",
+          "reading": "ぬいはく"
+        },
+        {
+          "word": "繍箔",
+          "reading": "ぬいはく"
+        },
+        {
+          "word": "縫い箔",
+          "reading": "ぬいはく"
+        },
+        {
+          "word": "繡箔",
+          "reading": "ぬいはく"
+        }
+      ]
+    },
+    {
+      "slug": "縫い糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い糸",
+          "reading": "ぬいいと"
+        },
+        {
+          "word": "縫糸",
+          "reading": "ぬいいと"
+        }
+      ]
+    },
+    {
+      "slug": "縫い代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い代",
+          "reading": "ぬいしろ"
+        },
+        {
+          "word": "縫代",
+          "reading": "ぬいしろ"
+        }
+      ]
+    },
+    {
+      "slug": "縫い紋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い紋",
+          "reading": "ぬいもん"
+        }
+      ]
+    },
+    {
+      "slug": "縫い込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い込む",
+          "reading": "ぬいこむ"
+        }
+      ]
+    },
+    {
+      "slug": "縫い取り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い取り",
+          "reading": "ぬいとり"
+        },
+        {
+          "word": "縫取り",
+          "reading": "ぬいとり"
+        }
+      ]
+    },
+    {
+      "slug": "縫い込み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い込み",
+          "reading": "ぬいこみ"
+        }
+      ]
+    },
+    {
+      "slug": "縫い揚げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "縫い揚げ",
+          "reading": "ぬいあげ"
+        }
+      ]
+    }
   ]
 }

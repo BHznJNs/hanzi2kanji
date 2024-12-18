@@ -51,5 +51,300 @@
       "startStroke": 0,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "戸を閉めろ。",
+      "furigana": "[戸|と]を[閉|し]めろ。",
+      "translation_zh_CN": "关门。"
+    },
+    {
+      "content": "戸を開けて。",
+      "furigana": "[戸|と]を[開|あ]けて。",
+      "translation_zh_CN": "打开门。"
+    },
+    {
+      "content": "戸を押さえてくれ。",
+      "furigana": "[戸|と]を[押|お]さえてくれ。",
+      "translation_zh_CN": "扶住门。"
+    },
+    {
+      "content": "きちんと戸を閉めなさい。",
+      "furigana": "きちんと[戸|と]を[閉|し]めなさい。",
+      "translation_zh_CN": "正确关门。"
+    },
+    {
+      "content": "その戸を閉めて下さい。",
+      "furigana": "その[戸|と]を[閉|し]めて[下|くだ]さい。",
+      "translation_zh_CN": "请关上那扇门。"
+    },
+    {
+      "content": "戸は内側から開く。",
+      "furigana": "[戸|と]は[内側|うち|がわ]から[開|ひら]く。",
+      "translation_zh_CN": "门从里面打开。"
+    },
+    {
+      "content": "押したらその戸はあいた。",
+      "furigana": "[押|お]したらその[戸|と]はあいた。",
+      "translation_zh_CN": "我一推，门就开了。"
+    },
+    {
+      "content": "戸はひとりでに開いた。",
+      "furigana": "[戸|と]はひとりでに[開|あ]いた。",
+      "translation_zh_CN": "门自动打开了。"
+    },
+    {
+      "content": "戸にロックをかけなさい。",
+      "furigana": "[戸|と]にロックをかけなさい。",
+      "translation_zh_CN": "锁上门。"
+    },
+    {
+      "content": "戸を閉めてください。",
+      "furigana": "[戸|と]を[閉|し]めてください。",
+      "translation_zh_CN": "请关上门。"
+    },
+    {
+      "content": "１０戸が全焼した。",
+      "furigana": "[１|][０|][戸|こ]が[全焼|ぜん|しょう]した。",
+      "translation_zh_CN": "十間房屋被燒毀了。"
+    },
+    {
+      "content": "僕は江戸っ子さ。",
+      "furigana": "[僕|ぼく]は[江戸|え|ど]っ[子|こ]さ。",
+      "translation_zh_CN": "我在东京出生长大。"
+    },
+    {
+      "content": "私は戸棚を覗いた。",
+      "furigana": "[私|わたし]は[戸棚|と|だな]を[覗|のぞ]いた。",
+      "translation_zh_CN": "我瞧了瞧橱柜。"
+    },
+    {
+      "content": "戸を叩く音がした。",
+      "furigana": "[戸|と]を[叩|たた]く[音|おと]がした。",
+      "translation_zh_CN": "我聽到了敲門聲。"
+    },
+    {
+      "content": "井戸が干上がった。",
+      "furigana": "[井戸|い|ど]が[干上|ひ|あ]がった。",
+      "translation_zh_CN": "這口井乾涸了。"
+    },
+    {
+      "content": "戸棚の中は見たよ。",
+      "furigana": "[戸棚|と|だな]の[中|なか]は[見|み]たよ。",
+      "translation_zh_CN": "我瞧了瞧橱柜。"
+    },
+    {
+      "content": "彼は戸の陰に隠れた。",
+      "furigana": "[彼|かれ]は[戸|と]の[陰|かげ]に[隠|かく]れた。",
+      "translation_zh_CN": "他把自己藏在門後面。"
+    },
+    {
+      "content": "戸外で運動しなさい。",
+      "furigana": "[戸外|こ|がい]で[運動|うん|どう]しなさい。",
+      "translation_zh_CN": "户外运动。"
+    },
+    {
+      "content": "戸を閉めてください。",
+      "furigana": "[戸|と]を[閉|し]めてください。",
+      "translation_zh_CN": "请关门。"
+    },
+    {
+      "content": "妹は昨日神戸へ行った。",
+      "furigana": "[妹|いもうと]は[昨日|きのう][神戸|こう|べ]へ[行|い]った。",
+      "translation_zh_CN": "我妹妹昨天去神戶了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "戸籍",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "戸籍",
+          "reading": "こせき"
+        }
+      ]
+    },
+    {
+      "slug": "戸棚",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "戸棚",
+          "reading": "とだな"
+        }
+      ]
+    },
+    {
+      "slug": "戸締まり",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "戸締まり",
+          "reading": "とじまり"
+        },
+        {
+          "word": "戸締り",
+          "reading": "とじまり"
+        }
+      ]
+    },
+    {
+      "slug": "戸外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸外",
+          "reading": "こがい"
+        }
+      ]
+    },
+    {
+      "slug": "戸別訪問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸別訪問",
+          "reading": "こべつほうもん"
+        }
+      ]
+    },
+    {
+      "slug": "戸惑う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸惑う",
+          "reading": "とまどう"
+        },
+        {
+          "word": "途惑う",
+          "reading": "とまどう"
+        }
+      ]
+    },
+    {
+      "slug": "戸口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸口",
+          "reading": "とぐち"
+        }
+      ]
+    },
+    {
+      "slug": "戸籍抄本",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸籍抄本",
+          "reading": "こせきしょうほん"
+        }
+      ]
+    },
+    {
+      "slug": "戸数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸数",
+          "reading": "こすう"
+        }
+      ]
+    },
+    {
+      "slug": "戸惑い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸惑い",
+          "reading": "とまどい"
+        }
+      ]
+    },
+    {
+      "slug": "戸籍謄本",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸籍謄本",
+          "reading": "こせきとうほん"
+        }
+      ]
+    },
+    {
+      "slug": "戸別",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸別",
+          "reading": "こべつ"
+        }
+      ]
+    },
+    {
+      "slug": "戸板",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸板",
+          "reading": "といた"
+        }
+      ]
+    },
+    {
+      "slug": "戸閉蜘蛛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸閉蜘蛛",
+          "reading": "とたてぐも"
+        },
+        {
+          "word": "戸立蜘蛛",
+          "reading": "とたてぐも"
+        },
+        {
+          "reading": "トタテグモ"
+        }
+      ]
+    },
+    {
+      "slug": "戸田記念国際平和研究所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸田記念国際平和研究所",
+          "reading": "とだきねんこくさいへいわけんきゅうじょ"
+        }
+      ]
+    },
+    {
+      "slug": "戸田工業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸田工業",
+          "reading": "とだこうぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "戸外制作",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "戸外制作",
+          "reading": "こがいせいさく"
+        }
+      ]
+    }
   ]
 }

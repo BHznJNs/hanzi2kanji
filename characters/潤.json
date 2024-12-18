@@ -96,5 +96,212 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼女との出会いが彼の生活に精神的に潤いをもたらしている。",
+      "furigana": "[彼女|かの|じょ]との[出会|で|あ]いが[彼|かれ]の[生活|せい|かつ]に[精神|せい|しん][的|てき]に[潤|うるお]いをもたらしている。",
+      "translation_zh_CN": "与她的相遇丰富了他的精神生活。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "潤い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤い",
+          "reading": "うるおい"
+        }
+      ]
+    },
+    {
+      "slug": "潤滑油",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤滑油",
+          "reading": "じゅんかつゆ"
+        }
+      ]
+    },
+    {
+      "slug": "潤む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤む",
+          "reading": "うるむ"
+        }
+      ]
+    },
+    {
+      "slug": "潤沢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤沢",
+          "reading": "じゅんたく"
+        }
+      ]
+    },
+    {
+      "slug": "潤滑剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤滑剤",
+          "reading": "じゅんかつざい"
+        }
+      ]
+    },
+    {
+      "slug": "潤う",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "潤う",
+          "reading": "うるおう"
+        },
+        {
+          "word": "霑う",
+          "reading": "うるおう"
+        }
+      ]
+    },
+    {
+      "slug": "潤色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤色",
+          "reading": "じゅんしょく"
+        },
+        {
+          "word": "潤飾",
+          "reading": "じゅんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "潤す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤す",
+          "reading": "うるおす"
+        }
+      ]
+    },
+    {
+      "slug": "潤ける",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ふやける"
+        }
+      ]
+    },
+    {
+      "slug": "潤かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "reading": "ふやかす"
+        }
+      ]
+    },
+    {
+      "slug": "潤滑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤滑",
+          "reading": "じゅんかつ"
+        }
+      ]
+    },
+    {
+      "slug": "潤目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤目",
+          "reading": "うるめ"
+        },
+        {
+          "reading": "ウルメ"
+        }
+      ]
+    },
+    {
+      "slug": "潤びる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤びる",
+          "reading": "ほとびる"
+        }
+      ]
+    },
+    {
+      "slug": "うるめ節",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "うるめ節",
+          "reading": "うるめぶし"
+        },
+        {
+          "word": "潤目節",
+          "reading": "うるめぶし"
+        }
+      ]
+    },
+    {
+      "slug": "潤み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤み",
+          "reading": "うるみ"
+        }
+      ]
+    },
+    {
+      "slug": "潤目鰯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤目鰯",
+          "reading": "うるめいわし"
+        },
+        {
+          "reading": "ウルメイワシ"
+        }
+      ]
+    },
+    {
+      "slug": "潤筆料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤筆料",
+          "reading": "じゅんぴつりょう"
+        }
+      ]
+    },
+    {
+      "slug": "潤滑ゼリー",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潤滑ゼリー",
+          "reading": "じゅんかつゼリー"
+        }
+      ]
+    }
   ]
 }

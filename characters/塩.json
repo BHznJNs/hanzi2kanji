@@ -71,5 +71,325 @@
       "startStroke": 8,
       "strokes": 5
     }
+  ],
+  "sentences": [
+    {
+      "content": "塩は残っていない。",
+      "furigana": "[塩|しお]は[残|のこ]っていない。",
+      "translation_zh_CN": "没有盐剩下了。"
+    },
+    {
+      "content": "お塩とって。",
+      "furigana": "お[塩|しお]とって。",
+      "translation_zh_CN": "拿盐。"
+    },
+    {
+      "content": "塩ください。",
+      "furigana": "[塩|しお]ください。",
+      "translation_zh_CN": "请给我一些盐。"
+    },
+    {
+      "content": "塩が残っていますか。",
+      "furigana": "[塩|しお]が[残|のこ]っていますか。",
+      "translation_zh_CN": "还有盐吗？"
+    },
+    {
+      "content": "塩って、残ってる？",
+      "furigana": "[塩|しお]って、[残|のこ]ってる？",
+      "translation_zh_CN": "还有盐吗？"
+    },
+    {
+      "content": "塩を取って下さい。",
+      "furigana": "[塩|しお]を[取|と]って[下|くだ]さい。",
+      "translation_zh_CN": "请把盐拿走。"
+    },
+    {
+      "content": "塩をまわして下さい。",
+      "furigana": "[塩|しお]をまわして[下|くだ]さい。",
+      "translation_zh_CN": "请撒上盐。"
+    },
+    {
+      "content": "塩貸してください。",
+      "furigana": "[塩貸|しお|か]してください。",
+      "translation_zh_CN": "请借我一些盐。"
+    },
+    {
+      "content": "塩を回して下さい。",
+      "furigana": "[塩|しお]を[回|まわ]して[下|くだ]さい。",
+      "translation_zh_CN": "请转动盐。"
+    },
+    {
+      "content": "塩を入れましたか。",
+      "furigana": "[塩|しお]を[入|い]れましたか。",
+      "translation_zh_CN": "你加盐了吗？"
+    },
+    {
+      "content": "塩はありません。",
+      "furigana": "[塩|しお]はありません。",
+      "translation_zh_CN": "没有盐。"
+    },
+    {
+      "content": "塩って、残ってる？",
+      "furigana": "[塩|しお]って、[残|のこ]ってる？",
+      "translation_zh_CN": "還有鹽嗎？"
+    },
+    {
+      "content": "お塩取ってくれる？",
+      "furigana": "お[塩|しお][取|と]ってくれる？",
+      "translation_zh_CN": "請你把鹽遞給我好嗎？"
+    },
+    {
+      "content": "塩を入れましたか。",
+      "furigana": "[塩|しお]を[入|い]れましたか。",
+      "translation_zh_CN": "你加鹽了嗎？"
+    },
+    {
+      "content": "塩を取って下さい。",
+      "furigana": "[塩|しお]を[取|と]って[下|くだ]さい。",
+      "translation_zh_CN": "请把盐递给我。"
+    },
+    {
+      "content": "塩を回して下さい。",
+      "furigana": "[塩|しお]を[回|まわ]して[下|くだ]さい。",
+      "translation_zh_CN": "請把鹽遞給我，好嗎？"
+    },
+    {
+      "content": "塩は残っていない。",
+      "furigana": "[塩|しお]は[残|のこ]っていない。",
+      "translation_zh_CN": "没盐了。"
+    },
+    {
+      "content": "これは塩ではない。",
+      "furigana": "これは[塩|しお]ではない。",
+      "translation_zh_CN": "这不是盐。"
+    },
+    {
+      "content": "塩をまわして下さい。",
+      "furigana": "[塩|しお]をまわして[下|くだ]さい。",
+      "translation_zh_CN": "请帮我递下盐。"
+    },
+    {
+      "content": "塩が残っていますか。",
+      "furigana": "[塩|しお]が[残|のこ]っていますか。",
+      "translation_zh_CN": "還有鹽嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "塩辛い",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "塩辛い",
+          "reading": "しおからい"
+        },
+        {
+          "word": "鹹い",
+          "reading": "しおからい"
+        },
+        {
+          "word": "鹹い",
+          "reading": "からい"
+        }
+      ]
+    },
+    {
+      "slug": "塩漬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩漬け",
+          "reading": "しおづけ"
+        },
+        {
+          "word": "塩漬",
+          "reading": "しおづけ"
+        }
+      ]
+    },
+    {
+      "slug": "塩分",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩分",
+          "reading": "えんぶん"
+        }
+      ]
+    },
+    {
+      "slug": "塩味",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩味",
+          "reading": "しおあじ"
+        },
+        {
+          "word": "塩味",
+          "reading": "えんみ"
+        },
+        {
+          "word": "塩味",
+          "reading": "しおみ"
+        }
+      ]
+    },
+    {
+      "slug": "塩水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩水",
+          "reading": "しおみず"
+        },
+        {
+          "word": "塩水",
+          "reading": "えんすい"
+        }
+      ]
+    },
+    {
+      "slug": "塩気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩気",
+          "reading": "しおけ"
+        },
+        {
+          "word": "塩け",
+          "reading": "しおけ"
+        },
+        {
+          "word": "鹹気",
+          "reading": "しおけ"
+        }
+      ]
+    },
+    {
+      "slug": "塩っぱい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩っぱい",
+          "reading": "しょっぱい"
+        }
+      ]
+    },
+    {
+      "slug": "塩基性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩基性",
+          "reading": "えんきせい"
+        }
+      ]
+    },
+    {
+      "slug": "塩素",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩素",
+          "reading": "えんそ"
+        }
+      ]
+    },
+    {
+      "slug": "塩基",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩基",
+          "reading": "えんき"
+        }
+      ]
+    },
+    {
+      "slug": "塩辛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩辛",
+          "reading": "しおから"
+        },
+        {
+          "word": "塩から",
+          "reading": "しおから"
+        }
+      ]
+    },
+    {
+      "slug": "塩酸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩酸",
+          "reading": "えんさん"
+        }
+      ]
+    },
+    {
+      "slug": "塩害",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩害",
+          "reading": "えんがい"
+        }
+      ]
+    },
+    {
+      "slug": "塩化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩化",
+          "reading": "えんか"
+        }
+      ]
+    },
+    {
+      "slug": "塩焼き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩焼き",
+          "reading": "しおやき"
+        },
+        {
+          "word": "塩焼",
+          "reading": "しおやき"
+        }
+      ]
+    },
+    {
+      "slug": "潮風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "潮風",
+          "reading": "しおかぜ"
+        },
+        {
+          "word": "塩風",
+          "reading": "しおかぜ"
+        }
+      ]
+    },
+    {
+      "slug": "塩尻",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "塩尻",
+          "reading": "しおじり"
+        }
+      ]
+    }
   ]
 }

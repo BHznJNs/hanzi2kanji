@@ -78,5 +78,292 @@
       "startStroke": 3,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "この皿、汚ね。",
+      "furigana": "この[皿|さら]、[汚|きた]ね。",
+      "translation_zh_CN": "这个盘子脏了。"
+    },
+    {
+      "content": "僕の靴、汚っ。",
+      "furigana": "[僕|ぼく]の[靴|くつ]、[汚|きたな]っ。",
+      "translation_zh_CN": "我的鞋子脏了。"
+    },
+    {
+      "content": "トムの部屋は汚い。",
+      "furigana": "トムの[部屋|へ|や]は[汚|きたな]い。",
+      "translation_zh_CN": "汤姆的房间很脏。"
+    },
+    {
+      "content": "お皿が汚れています。",
+      "furigana": "お[皿|さら]が[汚|よご]れています。",
+      "translation_zh_CN": "那個盤子是髒的。"
+    },
+    {
+      "content": "汚い食べ方しないの。",
+      "furigana": "[汚|きたな]い[食|た]べ[方|かた]しないの。",
+      "translation_zh_CN": "别像猪一样猛吃东西。"
+    },
+    {
+      "content": "あなたの足、汚いよ。",
+      "furigana": "あなたの[足|あし]、[汚|きたな]いよ。",
+      "translation_zh_CN": "你的脚脏。"
+    },
+    {
+      "content": "私の服は油で汚れていた。",
+      "furigana": "[私|わたし]の[服|ふく]は[油|あぶら]で[汚|よご]れていた。",
+      "translation_zh_CN": "我的衣服被油弄髒了。"
+    },
+    {
+      "content": "あなたの足、汚れてるわよ。",
+      "furigana": "あなたの[足|あし]、[汚|よご]れてるわよ。",
+      "translation_zh_CN": "你的脚脏。"
+    },
+    {
+      "content": "汚い手で私の本に触らないで。",
+      "furigana": "[汚|きたな]い[手|て]で[私|わたし]の[本|ほん]に[触|さわ]らないで。",
+      "translation_zh_CN": "髒手不要碰我的書。"
+    },
+    {
+      "content": "汚れた手で目をこすってはいけません。",
+      "furigana": "[汚|よご]れた[手|て]で[目|め]をこすってはいけません。",
+      "translation_zh_CN": "手髒的時候千萬不要揉眼睛。"
+    },
+    {
+      "content": "私は汚い犬が庭に入ったのを見ました。",
+      "furigana": "[私|わたし]は[汚|きたな]い[犬|いぬ]が[庭|にわ]に[入|はい]ったのを[見|み]ました。",
+      "translation_zh_CN": "我看见一条脏狗进了花园。"
+    },
+    {
+      "content": "工場の排気ガスが大気を汚染している。",
+      "furigana": "[工場|こう|じょう]の[排気|はい|き]ガスが[大気|た|いき]を[汚染|お|せん]している。",
+      "translation_zh_CN": "工业废气污染了空气。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "汚い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "汚い",
+          "reading": "きたない"
+        },
+        {
+          "word": "穢い",
+          "reading": "きたない"
+        }
+      ]
+    },
+    {
+      "slug": "汚染",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "汚染",
+          "reading": "おせん"
+        }
+      ]
+    },
+    {
+      "slug": "汚職",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚職",
+          "reading": "おしょく"
+        }
+      ]
+    },
+    {
+      "slug": "汚名",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚名",
+          "reading": "おめい"
+        }
+      ]
+    },
+    {
+      "slug": "汚す",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "汚す",
+          "reading": "よごす"
+        },
+        {
+          "word": "汚す",
+          "reading": "けがす"
+        },
+        {
+          "word": "穢す",
+          "reading": "けがす"
+        }
+      ]
+    },
+    {
+      "slug": "汚らわしい",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "汚らわしい",
+          "reading": "けがらわしい"
+        },
+        {
+          "word": "穢らわしい",
+          "reading": "けがらわしい"
+        }
+      ]
+    },
+    {
+      "slug": "汚水",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚水",
+          "reading": "おすい"
+        }
+      ]
+    },
+    {
+      "slug": "汚点",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚点",
+          "reading": "おてん"
+        }
+      ]
+    },
+    {
+      "slug": "汚物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚物",
+          "reading": "おぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "汚れ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "汚れ",
+          "reading": "けがれ"
+        },
+        {
+          "word": "穢れ",
+          "reading": "けがれ"
+        }
+      ]
+    },
+    {
+      "slug": "汚染物質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚染物質",
+          "reading": "おせんぶっしつ"
+        }
+      ]
+    },
+    {
+      "slug": "汚らしい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚らしい",
+          "reading": "きたならしい"
+        },
+        {
+          "word": "穢らしい",
+          "reading": "きたならしい"
+        }
+      ]
+    },
+    {
+      "slug": "汚職警官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚職警官",
+          "reading": "おしょくけいかん"
+        }
+      ]
+    },
+    {
+      "slug": "汚職政治家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚職政治家",
+          "reading": "おしょくせいじか"
+        }
+      ]
+    },
+    {
+      "slug": "穢れのない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "穢れのない",
+          "reading": "けがれのない"
+        },
+        {
+          "word": "汚れのない",
+          "reading": "けがれのない"
+        },
+        {
+          "word": "汚れの無い",
+          "reading": "けがれのない"
+        },
+        {
+          "word": "穢れの無い",
+          "reading": "けがれのない"
+        }
+      ]
+    },
+    {
+      "slug": "汚れる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "汚れる",
+          "reading": "けがれる"
+        },
+        {
+          "word": "穢れる",
+          "reading": "けがれる"
+        }
+      ]
+    },
+    {
+      "slug": "汚濁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "汚濁",
+          "reading": "おだく"
+        }
+      ]
+    }
   ]
 }

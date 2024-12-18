@@ -102,5 +102,275 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は銀行預金が相当ある。",
+      "furigana": "[彼|かれ]は[銀行|ぎん|こう][預金|よ|きん]が[相当|そう|とう]ある。",
+      "translation_zh_CN": "他在银行里有大量钱财。"
+    },
+    {
+      "content": "預金口座を開設したいのですが。",
+      "furigana": "[預金|よ|きん][口座|こう|ざ]を[開設|かい|せつ]したいのですが。",
+      "translation_zh_CN": "我想开个储蓄帐户。"
+    },
+    {
+      "content": "彼はその銀行にいくらか預金がある。",
+      "furigana": "[彼|かれ]はその[銀行|ぎん|こう]にいくらか[預金|よ|きん]がある。",
+      "translation_zh_CN": "他银行里有点钱。"
+    },
+    {
+      "content": "ある物をホテルの金庫に預けたいのですが。",
+      "furigana": "ある[物|もの]をホテルの[金庫|きん|こ]に[預|あづ]けたいのですが。",
+      "translation_zh_CN": "我想在酒店的保险柜里存点东西。"
+    },
+    {
+      "content": "ホテルの金庫に預けたいものがあるのですが。",
+      "furigana": "ホテルの[金庫|きん|こ]に[預|あづ]けたいものがあるのですが。",
+      "translation_zh_CN": "我想在酒店的保险柜里存点东西。"
+    },
+    {
+      "content": "チェックインまで荷物を預かってもらえますか。",
+      "furigana": "チェックインまで[荷物|に|もつ]を[預|あず]かってもらえますか。",
+      "translation_zh_CN": "我來登記之前你可以先幫我看管行李嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "予言",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "予言",
+          "reading": "よげん"
+        }
+      ]
+    },
+    {
+      "slug": "預金",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "預金",
+          "reading": "よきん"
+        }
+      ]
+    },
+    {
+      "slug": "予防",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "予防",
+          "reading": "よぼう"
+        },
+        {
+          "word": "預防",
+          "reading": "よぼう"
+        }
+      ]
+    },
+    {
+      "slug": "預かる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "預かる",
+          "reading": "あずかる"
+        }
+      ]
+    },
+    {
+      "slug": "予備",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "予備",
+          "reading": "よび"
+        },
+        {
+          "word": "預備",
+          "reading": "よび"
+        }
+      ]
+    },
+    {
+      "slug": "預ける",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "預ける",
+          "reading": "あずける"
+        }
+      ]
+    },
+    {
+      "slug": "預言者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預言者",
+          "reading": "よげんしゃ"
+        },
+        {
+          "word": "予言者",
+          "reading": "よげんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "預け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預け",
+          "reading": "あずけ"
+        }
+      ]
+    },
+    {
+      "slug": "預託",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預託",
+          "reading": "よたく"
+        }
+      ]
+    },
+    {
+      "slug": "預貯金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預貯金",
+          "reading": "よちょきん"
+        }
+      ]
+    },
+    {
+      "slug": "預かり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預かり",
+          "reading": "あずかり"
+        },
+        {
+          "word": "預り",
+          "reading": "あずかり"
+        }
+      ]
+    },
+    {
+      "slug": "預り証",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預り証",
+          "reading": "あずかりしょう"
+        },
+        {
+          "word": "預かり証",
+          "reading": "あずかりしょう"
+        }
+      ]
+    },
+    {
+      "slug": "預かり所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預かり所",
+          "reading": "あずかりじょ"
+        },
+        {
+          "word": "預かり所",
+          "reading": "あずかりしょ"
+        }
+      ]
+    },
+    {
+      "slug": "預貸率",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預貸率",
+          "reading": "よたいりつ"
+        }
+      ]
+    },
+    {
+      "slug": "預言",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預言",
+          "reading": "よげん"
+        }
+      ]
+    },
+    {
+      "slug": "預金保険",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預金保険",
+          "reading": "よきんほけん"
+        }
+      ]
+    },
+    {
+      "slug": "預金通帳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預金通帳",
+          "reading": "よきんつうちょう"
+        }
+      ]
+    },
+    {
+      "slug": "預託証券",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預託証券",
+          "reading": "よたくしょうけん"
+        }
+      ]
+    },
+    {
+      "slug": "預金口座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預金口座",
+          "reading": "よきんこうざ"
+        }
+      ]
+    },
+    {
+      "slug": "預け物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "預け物",
+          "reading": "あずけもの"
+        }
+      ]
+    }
   ]
 }

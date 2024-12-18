@@ -56,5 +56,70 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "野雁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "野雁",
+          "reading": "のがん"
+        },
+        {
+          "word": "鴇",
+          "reading": "のがん"
+        },
+        {
+          "reading": "ノガン"
+        }
+      ]
+    },
+    {
+      "slug": "鴇羽色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴇羽色",
+          "reading": "ときはいろ"
+        }
+      ]
+    },
+    {
+      "slug": "鴇色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鴇色",
+          "reading": "ときいろ"
+        },
+        {
+          "word": "とき色",
+          "reading": "ときいろ"
+        },
+        {
+          "word": "トキ色",
+          "reading": "ときいろ"
+        }
+      ]
+    },
+    {
+      "slug": "朱鷺草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "朱鷺草",
+          "reading": "ときそう"
+        },
+        {
+          "word": "鴇草",
+          "reading": "ときそう"
+        },
+        {
+          "reading": "トキソウ"
+        }
+      ]
+    }
   ]
 }

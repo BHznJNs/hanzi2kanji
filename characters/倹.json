@@ -88,5 +88,84 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は金をためるため何年間もけちけち倹約した。",
+      "furigana": "[彼|かれ]は[金|きん]をためるため[何|なん][年間|ねん|かん]もけちけち[倹約|けん|やく]した。",
+      "translation_zh_CN": "為了存錢他省吃儉用了許多年。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "倹約",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "倹約",
+          "reading": "けんやく"
+        }
+      ]
+    },
+    {
+      "slug": "倹約家",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倹約家",
+          "reading": "けんやくか"
+        }
+      ]
+    },
+    {
+      "slug": "倹しい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倹しい",
+          "reading": "つましい"
+        },
+        {
+          "word": "約しい",
+          "reading": "つましい"
+        }
+      ]
+    },
+    {
+      "slug": "倹約令",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倹約令",
+          "reading": "けんやくれい"
+        }
+      ]
+    },
+    {
+      "slug": "倹吝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倹吝",
+          "reading": "けんりん"
+        },
+        {
+          "word": "慳吝",
+          "reading": "けんりん"
+        }
+      ]
+    },
+    {
+      "slug": "倹素",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "倹素",
+          "reading": "けんそ"
+        }
+      ]
+    }
   ]
 }

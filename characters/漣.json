@@ -52,5 +52,66 @@
       "startStroke": 10,
       "strokes": 4
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "細波",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "さざ波",
+          "reading": "さざなみ"
+        },
+        {
+          "word": "漣",
+          "reading": "さざなみ"
+        },
+        {
+          "word": "小波",
+          "reading": "さざなみ"
+        },
+        {
+          "word": "細波",
+          "reading": "さざなみ"
+        },
+        {
+          "word": "漣",
+          "reading": "ささなみ"
+        },
+        {
+          "word": "小波",
+          "reading": "ささなみ"
+        },
+        {
+          "word": "細波",
+          "reading": "ささなみ"
+        }
+      ]
+    },
+    {
+      "slug": "漣々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漣々",
+          "reading": "れんれん"
+        },
+        {
+          "word": "漣漣",
+          "reading": "れんれん"
+        }
+      ]
+    },
+    {
+      "slug": "漣音",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "漣音",
+          "reading": "れんおん"
+        }
+      ]
+    }
   ]
 }

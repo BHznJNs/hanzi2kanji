@@ -101,5 +101,280 @@
       "startStroke": 11,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は部屋を整頓した。",
+      "furigana": "[彼|かれ]は[部屋|へ|や]を[整頓|せい|とん]した。",
+      "translation_zh_CN": "他整理了他的房间。"
+    },
+    {
+      "content": "中松は自分の頓馬な質問に苦笑いしました。",
+      "furigana": "[中松|なか|まつ]は[自分|じ|ぶん]の[頓|とみ][馬|ば]な[質問|しつ|もん]に[苦笑|にが|わら]いしました。",
+      "translation_zh_CN": "中松为自己的愚蠢问题苦笑。"
+    },
+    {
+      "content": "若い人によくあることだが、彼も金銭に無頓着であった。",
+      "furigana": "[若|わか]い[人|ひと]によくあることだが、[彼|かれ]も[金銭|きん|せん]に[無頓着|む|とん|じゃく]であった。",
+      "translation_zh_CN": "年輕人對金錢總是沒甚麼興趣，他也不例外。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "只管",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "只管",
+          "reading": "ひたすら"
+        },
+        {
+          "word": "一向",
+          "reading": "ひたすら"
+        },
+        {
+          "word": "頓",
+          "reading": "ひたすら"
+        }
+      ]
+    },
+    {
+      "slug": "軈て",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "軈て",
+          "reading": "やがて"
+        },
+        {
+          "word": "頓て",
+          "reading": "やがて"
+        },
+        {
+          "word": "漸て",
+          "reading": "やがて"
+        }
+      ]
+    },
+    {
+      "slug": "頓珍漢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓珍漢",
+          "reading": "とんちんかん"
+        },
+        {
+          "reading": "トンチンカン"
+        }
+      ]
+    },
+    {
+      "slug": "頓知",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓知",
+          "reading": "とんち"
+        },
+        {
+          "word": "頓智",
+          "reading": "とんち"
+        }
+      ]
+    },
+    {
+      "slug": "頓死",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓死",
+          "reading": "とんし"
+        },
+        {
+          "word": "トン死",
+          "reading": "とんし"
+        }
+      ]
+    },
+    {
+      "slug": "頓狂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓狂",
+          "reading": "とんきょう"
+        },
+        {
+          "word": "頓興",
+          "reading": "とんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "頓用",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓用",
+          "reading": "とんよう"
+        }
+      ]
+    },
+    {
+      "slug": "頓着ない",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓着ない",
+          "reading": "とんじゃくない"
+        },
+        {
+          "word": "頓着ない",
+          "reading": "とんちゃくない"
+        },
+        {
+          "word": "頓着無い",
+          "reading": "とんじゃくない"
+        },
+        {
+          "word": "頓着無い",
+          "reading": "とんちゃくない"
+        }
+      ]
+    },
+    {
+      "slug": "直と",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "直と",
+          "reading": "ひたと"
+        },
+        {
+          "word": "頓と",
+          "reading": "ひたと"
+        }
+      ]
+    },
+    {
+      "slug": "頓才",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓才",
+          "reading": "とんさい"
+        }
+      ]
+    },
+    {
+      "slug": "頓服薬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓服薬",
+          "reading": "とんぷくやく"
+        },
+        {
+          "word": "屯服薬",
+          "reading": "とんぷくやく"
+        }
+      ]
+    },
+    {
+      "slug": "頓挫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓挫",
+          "reading": "とんざ"
+        }
+      ]
+    },
+    {
+      "slug": "頓悟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓悟",
+          "reading": "とんご"
+        }
+      ]
+    },
+    {
+      "slug": "頓的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓的",
+          "reading": "とんてき"
+        },
+        {
+          "word": "頓敵",
+          "reading": "とんてき"
+        }
+      ]
+    },
+    {
+      "slug": "頓首",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓首",
+          "reading": "とんしゅ"
+        },
+        {
+          "word": "頓首",
+          "reading": "とんじゅ"
+        }
+      ]
+    },
+    {
+      "slug": "屯食",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "屯食",
+          "reading": "とんじき"
+        },
+        {
+          "word": "屯食",
+          "reading": "とじき"
+        },
+        {
+          "word": "頓食",
+          "reading": "とんじき"
+        },
+        {
+          "word": "頓食",
+          "reading": "とじき"
+        }
+      ]
+    },
+    {
+      "slug": "頓痴気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓痴気",
+          "reading": "とんちき"
+        }
+      ]
+    },
+    {
+      "slug": "頓服",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "頓服",
+          "reading": "とんぷく"
+        }
+      ]
+    }
   ]
 }

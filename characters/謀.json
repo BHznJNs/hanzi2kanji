@@ -51,7 +51,7 @@
         "concevoir",
         "plan",
         "projet",
-        "avoir dans l\u0027idée",
+        "avoir dans l'idée",
         "duper"
       ]
     },
@@ -122,6 +122,183 @@
       "radical": "木",
       "startStroke": 12,
       "strokes": 4
+    }
+  ],
+  "sentences": [
+    {
+      "content": "無謀ってもんだよ。",
+      "furigana": "[無謀|む|ぼう]ってもんだよ。",
+      "translation_zh_CN": "这好比大海捞针。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "図る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "図る",
+          "reading": "はかる"
+        },
+        {
+          "word": "謀る",
+          "reading": "はかる"
+        }
+      ]
+    },
+    {
+      "slug": "謀議",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀議",
+          "reading": "ぼうぎ"
+        }
+      ]
+    },
+    {
+      "slug": "謀略",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀略",
+          "reading": "ぼうりゃく"
+        }
+      ]
+    },
+    {
+      "slug": "謀る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀る",
+          "reading": "たばかる"
+        }
+      ]
+    },
+    {
+      "slug": "謀計",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀計",
+          "reading": "ぼうけい"
+        }
+      ]
+    },
+    {
+      "slug": "謀大逆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀大逆",
+          "reading": "ぼうたいぎゃく"
+        }
+      ]
+    },
+    {
+      "slug": "謀将",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀将",
+          "reading": "ぼうしょう"
+        }
+      ]
+    },
+    {
+      "slug": "謀書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀書",
+          "reading": "ぼうしょ"
+        }
+      ]
+    },
+    {
+      "slug": "図らずも",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図らずも",
+          "reading": "はからずも"
+        },
+        {
+          "word": "謀らずも",
+          "reading": "はからずも"
+        }
+      ]
+    },
+    {
+      "slug": "謀殺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀殺",
+          "reading": "ぼうさつ"
+        }
+      ]
+    },
+    {
+      "slug": "謀反人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀反人",
+          "reading": "むほんにん"
+        }
+      ]
+    },
+    {
+      "slug": "謀略論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀略論",
+          "reading": "ぼうりゃくろん"
+        }
+      ]
+    },
+    {
+      "slug": "謀臣",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀臣",
+          "reading": "ぼうしん"
+        }
+      ]
+    },
+    {
+      "slug": "謀反",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀反",
+          "reading": "むほん"
+        },
+        {
+          "word": "謀叛",
+          "reading": "むほん"
+        },
+        {
+          "word": "謀叛",
+          "reading": "ぼうはん"
+        }
+      ]
+    },
+    {
+      "slug": "謀は密なるを良しとす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "謀は密なるを良しとす",
+          "reading": "はかりごとはみつなるをよしとす"
+        }
+      ]
     }
   ]
 }

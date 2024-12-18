@@ -118,5 +118,160 @@
       "startStroke": 14,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "配る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "配る",
+          "reading": "くばる"
+        },
+        {
+          "word": "賦る",
+          "reading": "くばる"
+        }
+      ]
+    },
+    {
+      "slug": "賦課",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦課",
+          "reading": "ふか"
+        }
+      ]
+    },
+    {
+      "slug": "賦形剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦形剤",
+          "reading": "ふけいざい"
+        }
+      ]
+    },
+    {
+      "slug": "賦与",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦与",
+          "reading": "ふよ"
+        }
+      ]
+    },
+    {
+      "slug": "賦役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦役",
+          "reading": "ふえき"
+        },
+        {
+          "word": "夫役",
+          "reading": "ぶえき"
+        },
+        {
+          "word": "賦役",
+          "reading": "ぶやく"
+        },
+        {
+          "word": "夫役",
+          "reading": "ぶやく"
+        }
+      ]
+    },
+    {
+      "slug": "賦性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦性",
+          "reading": "ふせい"
+        }
+      ]
+    },
+    {
+      "slug": "賦払い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦払い",
+          "reading": "ぶばらい"
+        }
+      ]
+    },
+    {
+      "slug": "賦する",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦する",
+          "reading": "ふする"
+        }
+      ]
+    },
+    {
+      "slug": "賦存",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦存",
+          "reading": "ふぞん"
+        },
+        {
+          "word": "賦存",
+          "reading": "ふそん"
+        }
+      ]
+    },
+    {
+      "slug": "賦活",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦活",
+          "reading": "ふかつ"
+        }
+      ]
+    },
+    {
+      "slug": "賦存量",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦存量",
+          "reading": "ふぞんりょう"
+        }
+      ]
+    },
+    {
+      "slug": "賦税",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦税",
+          "reading": "ふぜい"
+        }
+      ]
+    },
+    {
+      "slug": "賦詠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "賦詠",
+          "reading": "ふえい"
+        }
+      ]
+    }
   ]
 }

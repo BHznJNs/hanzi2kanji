@@ -41,7 +41,7 @@
       "values": [
         "silence",
         "se taire",
-        "laisser en l\u0027état"
+        "laisser en l'état"
       ]
     },
     {
@@ -108,6 +108,279 @@
       "strokes": 4,
       "variant": true,
       "part": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "黙っていなさい。",
+      "furigana": "[黙|だま]っていなさい。",
+      "translation_zh_CN": "別作聲！"
+    },
+    {
+      "content": "だから黙れってば！",
+      "furigana": "だから[黙|だま]れってば！",
+      "translation_zh_CN": "我说过了，闭嘴！"
+    },
+    {
+      "content": "沈黙は同意を表す。",
+      "furigana": "[沈黙|ちん|もく]は[同意|どう|い]を[表|あらわ]す。",
+      "translation_zh_CN": "沉默就意味着同意。"
+    },
+    {
+      "content": "黙れっつってんだろ！",
+      "furigana": "[黙|だま]れっつってんだろ！",
+      "translation_zh_CN": "我说过了，闭嘴！"
+    },
+    {
+      "content": "雄弁は銀、沈黙は金。",
+      "furigana": "[雄弁|ゆう|べん]は[銀|ぎん]、[沈黙|ちん|もく]は[金|きん]。",
+      "translation_zh_CN": "开口是银，沉默是金。"
+    },
+    {
+      "content": "その子は黙っていた。",
+      "furigana": "その[子|こ]は[黙|だま]っていた。",
+      "translation_zh_CN": "男孩依旧沉默不语。"
+    },
+    {
+      "content": "彼は一日中黙っていた。",
+      "furigana": "[彼|かれ]は[一|いち][日|にち][中|じゅう][黙|だま]っていた。",
+      "translation_zh_CN": "他一整天都沉默着。"
+    },
+    {
+      "content": "ちょっと黙ってくれんか。",
+      "furigana": "ちょっと[黙|だま]ってくれんか。",
+      "translation_zh_CN": "为什么不让你的嘴巴休息呢？"
+    },
+    {
+      "content": "ちょっと黙っててくれない？",
+      "furigana": "ちょっと[黙|だま]っててくれない？",
+      "translation_zh_CN": "为什么不让你的嘴巴休息呢？"
+    },
+    {
+      "content": "「黙って」と彼はささやいた。",
+      "furigana": "「[黙|だま]って」と[彼|かれ]はささやいた。",
+      "translation_zh_CN": "“闭嘴。”他嗫嚅道。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "静寂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "静寂",
+          "reading": "せいじゃく"
+        }
+      ]
+    },
+    {
+      "slug": "黙る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "黙る",
+          "reading": "だまる"
+        }
+      ]
+    },
+    {
+      "slug": "黙とう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙祷",
+          "reading": "もくとう"
+        },
+        {
+          "word": "黙とう",
+          "reading": "もくとう"
+        },
+        {
+          "word": "黙禱",
+          "reading": "もくとう"
+        }
+      ]
+    },
+    {
+      "slug": "黙秘権",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙秘権",
+          "reading": "もくひけん"
+        }
+      ]
+    },
+    {
+      "slug": "黙認",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙認",
+          "reading": "もくにん"
+        }
+      ]
+    },
+    {
+      "slug": "黙秘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙秘",
+          "reading": "もくひ"
+        }
+      ]
+    },
+    {
+      "slug": "黙り込む",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙り込む",
+          "reading": "だまりこむ"
+        },
+        {
+          "word": "黙りこむ",
+          "reading": "だまりこむ"
+        }
+      ]
+    },
+    {
+      "slug": "黙りこくる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙りこくる",
+          "reading": "だまりこくる"
+        }
+      ]
+    },
+    {
+      "slug": "黙示録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙示録",
+          "reading": "もくしろく"
+        }
+      ]
+    },
+    {
+      "slug": "黙想",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙想",
+          "reading": "もくそう"
+        }
+      ]
+    },
+    {
+      "slug": "黙示",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙示",
+          "reading": "もくし"
+        }
+      ]
+    },
+    {
+      "slug": "黙殺",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙殺",
+          "reading": "もくさつ"
+        }
+      ]
+    },
+    {
+      "slug": "黙然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙然",
+          "reading": "もくぜん"
+        },
+        {
+          "word": "黙然",
+          "reading": "もくねん"
+        }
+      ]
+    },
+    {
+      "slug": "黙座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙坐",
+          "reading": "もくざ"
+        },
+        {
+          "word": "黙座",
+          "reading": "もくざ"
+        }
+      ]
+    },
+    {
+      "slug": "黙り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙り",
+          "reading": "だんまり"
+        },
+        {
+          "reading": "ダンマリ"
+        }
+      ]
+    },
+    {
+      "slug": "黙契",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙契",
+          "reading": "もっけい"
+        }
+      ]
+    },
+    {
+      "slug": "もくもく会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もくもく会",
+          "reading": "もくもくかい"
+        },
+        {
+          "word": "黙々会",
+          "reading": "もくもくかい"
+        }
+      ]
+    },
+    {
+      "slug": "黙念",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙念",
+          "reading": "もくねん"
+        }
+      ]
+    },
+    {
+      "slug": "黙従",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "黙従",
+          "reading": "もくじゅう"
+        }
+      ]
     }
   ]
 }

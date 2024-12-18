@@ -99,5 +99,220 @@
       "startStroke": 12,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "夫が死んだら後を追うなんて、時代錯誤だ。",
+      "furigana": "[夫|おっと]が[死|し]んだら[後|のち]を[追|お]うなんて、[時代|じ|だい][錯誤|さく|ご]だ。",
+      "translation_zh_CN": "丈夫死了就要步丈夫的后尘,时代不同,现在已经不是那个时代了!"
+    },
+    {
+      "content": "これはあれよりも長いように見えるが、錯覚だ。",
+      "furigana": "これはあれよりも[長|なが]いように[見|み]えるが、[錯覚|さっ|かく]だ。",
+      "translation_zh_CN": "這個看起來比那個還長，但這不過是種錯視罷了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "擦り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "擦り",
+          "reading": "こすり"
+        },
+        {
+          "word": "錯",
+          "reading": "こすり"
+        }
+      ]
+    },
+    {
+      "slug": "錯覚",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "錯覚",
+          "reading": "さっかく"
+        }
+      ]
+    },
+    {
+      "slug": "擦る",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "擦る",
+          "reading": "こする"
+        },
+        {
+          "word": "錯る",
+          "reading": "こする"
+        }
+      ]
+    },
+    {
+      "slug": "錯乱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯乱",
+          "reading": "さくらん"
+        }
+      ]
+    },
+    {
+      "slug": "錯誤",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "錯誤",
+          "reading": "さくご"
+        }
+      ]
+    },
+    {
+      "slug": "錯乱状態",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯乱状態",
+          "reading": "さくらんじょうたい"
+        }
+      ]
+    },
+    {
+      "slug": "錯綜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯綜",
+          "reading": "さくそう"
+        }
+      ]
+    },
+    {
+      "slug": "錯体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯体",
+          "reading": "さくたい"
+        }
+      ]
+    },
+    {
+      "slug": "錯視",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯視",
+          "reading": "さくし"
+        }
+      ]
+    },
+    {
+      "slug": "錯語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯語",
+          "reading": "さくご"
+        }
+      ]
+    },
+    {
+      "slug": "錯化合物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯化合物",
+          "reading": "さくかごうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "錯雑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯雑",
+          "reading": "さくざつ"
+        }
+      ]
+    },
+    {
+      "slug": "錯字症",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯字症",
+          "reading": "さくじしょう"
+        }
+      ]
+    },
+    {
+      "slug": "錯角",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯角",
+          "reading": "さっかく"
+        }
+      ]
+    },
+    {
+      "slug": "錯簡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯簡",
+          "reading": "さっかん"
+        }
+      ]
+    },
+    {
+      "slug": "錯落",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯落",
+          "reading": "さくらく"
+        }
+      ]
+    },
+    {
+      "slug": "錯イオン",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯イオン",
+          "reading": "さくイオン"
+        }
+      ]
+    },
+    {
+      "slug": "ちょんぼ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "錯和",
+          "reading": "ちょんぼ"
+        },
+        {
+          "word": "冲和",
+          "reading": "ちょんぼ"
+        },
+        {
+          "reading": "チョンボ"
+        }
+      ]
+    }
   ]
 }

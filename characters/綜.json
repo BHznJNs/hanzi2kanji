@@ -65,5 +65,117 @@
       "startStroke": 9,
       "strokes": 5
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "総合",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "総合",
+          "reading": "そうごう"
+        },
+        {
+          "word": "綜合",
+          "reading": "そうごう"
+        }
+      ]
+    },
+    {
+      "slug": "総理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総理",
+          "reading": "そうり"
+        },
+        {
+          "word": "綜理",
+          "reading": "そうり"
+        }
+      ]
+    },
+    {
+      "slug": "総括",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総括",
+          "reading": "そうかつ"
+        },
+        {
+          "word": "綜括",
+          "reading": "そうかつ"
+        }
+      ]
+    },
+    {
+      "slug": "総覧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "総覧",
+          "reading": "そうらん"
+        },
+        {
+          "word": "綜覧",
+          "reading": "そうらん"
+        }
+      ]
+    },
+    {
+      "slug": "綜芸種智院",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綜芸種智院",
+          "reading": "しゅげいしゅちいん"
+        }
+      ]
+    },
+    {
+      "slug": "綜絖",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綜絖",
+          "reading": "そうこう"
+        }
+      ]
+    },
+    {
+      "slug": "臍繰り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "臍繰り",
+          "reading": "へそくり"
+        },
+        {
+          "word": "綜麻繰",
+          "reading": "へそくり"
+        },
+        {
+          "reading": "ヘソクリ"
+        }
+      ]
+    },
+    {
+      "slug": "綜芸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綜芸",
+          "reading": "そうげい"
+        },
+        {
+          "word": "綜芸",
+          "reading": "しゅげい"
+        }
+      ]
+    }
   ]
 }

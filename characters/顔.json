@@ -104,5 +104,331 @@
       "startStroke": 11,
       "strokes": 7
     }
+  ],
+  "sentences": [
+    {
+      "content": "幸雄の顔で ",
+      "furigana": "[幸雄|ゆきお]の[顔|かお]で ",
+      "translation_zh_CN": "有了由纪夫的脸"
+    },
+    {
+      "content": "顔を洗いなさい。",
+      "furigana": "[顔|かお]を[洗|あら]いなさい。",
+      "translation_zh_CN": "洗脸。"
+    },
+    {
+      "content": "顔赤いよ。",
+      "furigana": "[顔赤|かお|あか]いよ。",
+      "translation_zh_CN": "你的脸红了。"
+    },
+    {
+      "content": "顔がひきつります。",
+      "furigana": "[顔|かお]がひきつります。",
+      "translation_zh_CN": "我的脸抽搐。"
+    },
+    {
+      "content": "顔が青いよ。",
+      "furigana": "[顔|かお]が[青|あお]いよ。",
+      "translation_zh_CN": "你的脸是蓝色的。"
+    },
+    {
+      "content": "二度と顔を出すな。",
+      "furigana": "[二度|に|ど]と[顔|かお]を[出|だ]すな。",
+      "translation_zh_CN": "别再露脸了。"
+    },
+    {
+      "content": "顔をそってください。",
+      "furigana": "[顔|かお]をそってください。",
+      "translation_zh_CN": "请刮脸。"
+    },
+    {
+      "content": "トムの顔が赤い。",
+      "furigana": "トムの[顔|かお]が[赤|あか]い。",
+      "translation_zh_CN": "汤姆的脸变红了。"
+    },
+    {
+      "content": "顔を奇麗にふきなさい。",
+      "furigana": "[顔|かお]を[奇麗|き|れい]にふきなさい。",
+      "translation_zh_CN": "把脸擦干净。"
+    },
+    {
+      "content": "トムの顔が見えなかった。",
+      "furigana": "トムの[顔|かお]が[見|み]えなかった。",
+      "translation_zh_CN": "我看不到汤姆的脸。"
+    },
+    {
+      "content": "彼女は丸顔です。",
+      "furigana": "[彼女|かの|じょ]は[丸|まる][顔|かお]です。",
+      "translation_zh_CN": "她有张圆脸。"
+    },
+    {
+      "content": "顔を洗いなさい。",
+      "furigana": "[顔|かお]を[洗|あら]いなさい。",
+      "translation_zh_CN": "洗脸吧。"
+    },
+    {
+      "content": "トムの顔が赤い。",
+      "furigana": "トムの[顔|かお]が[赤|あか]い。",
+      "translation_zh_CN": "汤姆的脸红了。"
+    },
+    {
+      "content": "いつも笑顔でね。",
+      "furigana": "いつも[笑顔|え|がお]でね。",
+      "translation_zh_CN": "保持微笑。"
+    },
+    {
+      "content": "トムは顔が赤い。",
+      "furigana": "トムは[顔|かお]が[赤|あか]い。",
+      "translation_zh_CN": "汤姆的脸红了。"
+    },
+    {
+      "content": "トムは顔が広い。",
+      "furigana": "トムは[顔|かお]が[広|ひろ]い。",
+      "translation_zh_CN": "汤姆熟人多。"
+    },
+    {
+      "content": "二度と顔を出すな。",
+      "furigana": "[二度|に|ど]と[顔|かお]を[出|だ]すな。",
+      "translation_zh_CN": "我不想再見到你！"
+    },
+    {
+      "content": "窓から顔を出すな。",
+      "furigana": "[窓|まど]から[顔|かお]を[出|だ]すな。",
+      "translation_zh_CN": "不要把脸探向窗外。"
+    },
+    {
+      "content": "顔色が悪いですよ。",
+      "furigana": "[顔色|かお|いろ]が[悪|わる]いですよ。",
+      "translation_zh_CN": "你的脸色不好。"
+    },
+    {
+      "content": "トムは顔色が悪い。",
+      "furigana": "トムは[顔色|かお|いろ]が[悪|わる]い。",
+      "translation_zh_CN": "湯姆看起來很蒼白。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "顔付き",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "顔つき",
+          "reading": "かおつき"
+        },
+        {
+          "word": "顔付き",
+          "reading": "かおつき"
+        }
+      ]
+    },
+    {
+      "slug": "顔色",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔色",
+          "reading": "かおいろ"
+        },
+        {
+          "word": "顔いろ",
+          "reading": "かおいろ"
+        },
+        {
+          "word": "顔色",
+          "reading": "がんしょく"
+        }
+      ]
+    },
+    {
+      "slug": "顔負け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔負け",
+          "reading": "かおまけ"
+        }
+      ]
+    },
+    {
+      "slug": "顔見知り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔見知り",
+          "reading": "かおみしり"
+        }
+      ]
+    },
+    {
+      "slug": "顔面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔面",
+          "reading": "がんめん"
+        }
+      ]
+    },
+    {
+      "slug": "顔合わせ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔合わせ",
+          "reading": "かおあわせ"
+        },
+        {
+          "word": "顔合せ",
+          "reading": "かおあわせ"
+        }
+      ]
+    },
+    {
+      "slug": "顔立ち",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔立ち",
+          "reading": "かおだち"
+        }
+      ]
+    },
+    {
+      "slug": "顔文字",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔文字",
+          "reading": "かおもじ"
+        }
+      ]
+    },
+    {
+      "slug": "顔色が悪い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔色が悪い",
+          "reading": "かおいろがわるい"
+        },
+        {
+          "word": "顔色がわるい",
+          "reading": "かおいろがわるい"
+        }
+      ]
+    },
+    {
+      "slug": "顔面蒼白",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔面蒼白",
+          "reading": "がんめんそうはく"
+        }
+      ]
+    },
+    {
+      "slug": "顔を出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔を出す",
+          "reading": "かおをだす"
+        },
+        {
+          "word": "顔をだす",
+          "reading": "かおをだす"
+        }
+      ]
+    },
+    {
+      "slug": "顔をつぶす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔を潰す",
+          "reading": "かおをつぶす"
+        },
+        {
+          "word": "顔をつぶす",
+          "reading": "かおをつぶす"
+        }
+      ]
+    },
+    {
+      "slug": "顔料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔料",
+          "reading": "がんりょう"
+        }
+      ]
+    },
+    {
+      "slug": "顔ぶれ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔ぶれ",
+          "reading": "かおぶれ"
+        },
+        {
+          "word": "顔触れ",
+          "reading": "かおぶれ"
+        }
+      ]
+    },
+    {
+      "slug": "顔なじみ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔なじみ",
+          "reading": "かおなじみ"
+        },
+        {
+          "word": "顔馴染み",
+          "reading": "かおなじみ"
+        },
+        {
+          "word": "顔馴染",
+          "reading": "かおなじみ"
+        }
+      ]
+    },
+    {
+      "slug": "顔役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔役",
+          "reading": "かおやく"
+        }
+      ]
+    },
+    {
+      "slug": "顔向け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔向け",
+          "reading": "かおむけ"
+        }
+      ]
+    },
+    {
+      "slug": "顔を赤らめる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顔を赤らめる",
+          "reading": "かおをあからめる"
+        }
+      ]
+    }
   ]
 }

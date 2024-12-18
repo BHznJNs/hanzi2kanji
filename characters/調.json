@@ -49,7 +49,7 @@
         "enquête",
         "mélodie",
         "ton (majeur/mineur)",
-        "style d\u0027écriture",
+        "style d'écriture",
         "préparer",
         "exorciser"
       ]
@@ -115,6 +115,302 @@
       "radical": "口",
       "startStroke": 12,
       "strokes": 3
+    }
+  ],
+  "sentences": [
+    {
+      "content": "「です・ます」調で書いてみたんだけど、やっぱりちょっとよそよそしいかな？",
+      "furigana": "「です・ます」[調|ちょう]で[書|か]いてみたんだけど、やっぱりちょっとよそよそしいかな？",
+      "translation_zh_CN": "我尝试用“desu/masu”的语气来写，但我觉得这有点冷漠。"
+    },
+    {
+      "content": "部屋はスイートで、ベルベット調の織物をふんだんに使った部屋だったが、幸雄は夏には暑苦しい印象だと思った。",
+      "furigana": "[部屋|へや]は[スイート|すいーと]で、[ベルベット調|べるべっとちょう]の[織物|おりもの]をふんだんに[使|つか]った[部屋|へや]だったが、[幸雄|ゆきお]は[夏|なつ]には[暑苦|あつくる]しい[印象|いんしょう]だと[思|おも]った。",
+      "translation_zh_CN": "房间是套房，有很多天鹅绒布料，但幸雄觉得夏天会太热。"
+    },
+    {
+      "content": "仕事の調子はどう？",
+      "furigana": "[仕事|し|ごと]の[調子|ちょう|し]はどう？",
+      "translation_zh_CN": "你的生意进展如何？"
+    },
+    {
+      "content": "調子はどうですか。",
+      "furigana": "[調子|ちょう|し]はどうですか。",
+      "translation_zh_CN": "你好吗？"
+    },
+    {
+      "content": "その調子で続けて。",
+      "furigana": "その[調子|ちょう|し]で[続|つづ]けて。",
+      "translation_zh_CN": "坚持。"
+    },
+    {
+      "content": "今のところ順調だ。",
+      "furigana": "[今|いま]のところ[順調|じゅん|ちょう]だ。",
+      "translation_zh_CN": "迄今，一切妥当。"
+    },
+    {
+      "content": "これまでは順調だよ。",
+      "furigana": "これまでは[順調|じゅん|ちょう]だよ。",
+      "translation_zh_CN": "迄今，一切妥当。"
+    },
+    {
+      "content": "今のところ、順調だ。",
+      "furigana": "[今|いま]のところ、[順調|じゅん|ちょう]だ。",
+      "translation_zh_CN": "迄今，一切妥当。"
+    },
+    {
+      "content": "体調が悪いらしいね。",
+      "furigana": "[体調|たい|ちょう]が[悪|わる]いらしいね。",
+      "translation_zh_CN": "聽說你病了。"
+    },
+    {
+      "content": "彼は本当に調子がいい。",
+      "furigana": "[彼|かれ]は[本当|ほん|とう]に[調子|ちょう|し]がいい。",
+      "translation_zh_CN": "他狀態真的很好。"
+    },
+    {
+      "content": "調子に乗りすぎるなよ。",
+      "furigana": "[調子|ちょう|し]に[乗|の]りすぎるなよ。",
+      "translation_zh_CN": "别太得意。"
+    },
+    {
+      "content": "今のところは順調だよ。",
+      "furigana": "[今|いま]のところは[順調|じゅん|ちょう]だよ。",
+      "translation_zh_CN": "迄今，一切妥当。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "調査",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "調査",
+          "reading": "ちょうさ"
+        }
+      ]
+    },
+    {
+      "slug": "調理",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "調理",
+          "reading": "ちょうり"
+        }
+      ]
+    },
+    {
+      "slug": "調停",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "調停",
+          "reading": "ちょうてい"
+        }
+      ]
+    },
+    {
+      "slug": "調べる",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "調べる",
+          "reading": "しらべる"
+        }
+      ]
+    },
+    {
+      "slug": "調子",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "調子",
+          "reading": "ちょうし"
+        }
+      ]
+    },
+    {
+      "slug": "調整",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "調整",
+          "reading": "ちょうせい"
+        }
+      ]
+    },
+    {
+      "slug": "調節",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "調節",
+          "reading": "ちょうせつ"
+        }
+      ]
+    },
+    {
+      "slug": "整う",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "整う",
+          "reading": "ととのう"
+        },
+        {
+          "word": "調う",
+          "reading": "ととのう"
+        },
+        {
+          "word": "斉う",
+          "reading": "ととのう"
+        }
+      ]
+    },
+    {
+      "slug": "調和",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "調和",
+          "reading": "ちょうわ"
+        }
+      ]
+    },
+    {
+      "slug": "調べ",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "調べ",
+          "reading": "しらべ"
+        }
+      ]
+    },
+    {
+      "slug": "調印",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "調印",
+          "reading": "ちょういん"
+        }
+      ]
+    },
+    {
+      "slug": "整える",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "整える",
+          "reading": "ととのえる"
+        },
+        {
+          "word": "調える",
+          "reading": "ととのえる"
+        },
+        {
+          "word": "斉える",
+          "reading": "ととのえる"
+        }
+      ]
+    },
+    {
+      "slug": "調達",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "調達",
+          "reading": "ちょうたつ"
+        }
+      ]
+    },
+    {
+      "slug": "調味料",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "調味料",
+          "reading": "ちょうみりょう"
+        }
+      ]
+    },
+    {
+      "slug": "調合",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "調合",
+          "reading": "ちょうごう"
+        }
+      ]
+    },
+    {
+      "slug": "調剤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "調剤",
+          "reading": "ちょうざい"
+        }
+      ]
+    },
+    {
+      "slug": "調教師",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "調教師",
+          "reading": "ちょうきょうし"
+        }
+      ]
+    },
+    {
+      "slug": "調査官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "調査官",
+          "reading": "ちょうさかん"
+        }
+      ]
+    },
+    {
+      "slug": "調査団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "調査団",
+          "reading": "ちょうさだん"
+        }
+      ]
     }
   ]
 }

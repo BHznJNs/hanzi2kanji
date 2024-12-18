@@ -76,5 +76,140 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "もしスペンサーが文を足して訳し続けなければ、他の貢献者がきっと彼を追い抜くだろう。",
+      "furigana": "もしスペンサーが[文|ぶん]を[足|た]して[訳|やく]し[続|つづ]けなければ、[他|た]の[貢献|こう|けん][者|しゃ]がきっと[彼|かれ]を[追|お]い[抜|ぬ]くだろう。",
+      "translation_zh_CN": "如果Spenser不继续添加和翻译句子，其他参与者肯定会超过他的。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "貢献",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "貢献",
+          "reading": "こうけん"
+        }
+      ]
+    },
+    {
+      "slug": "貢ぐ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢ぐ",
+          "reading": "みつぐ"
+        }
+      ]
+    },
+    {
+      "slug": "貢進",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢進",
+          "reading": "こうしん"
+        }
+      ]
+    },
+    {
+      "slug": "貢賦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢賦",
+          "reading": "こうふ"
+        }
+      ]
+    },
+    {
+      "slug": "貢ぎ物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢ぎ物",
+          "reading": "みつぎもの"
+        },
+        {
+          "word": "貢物",
+          "reading": "みつぎもの"
+        }
+      ]
+    },
+    {
+      "slug": "貢ぎ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢ぎ",
+          "reading": "みつぎ"
+        }
+      ]
+    },
+    {
+      "slug": "貢献利益",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢献利益",
+          "reading": "こうけんりえき"
+        }
+      ]
+    },
+    {
+      "slug": "貢献者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢献者",
+          "reading": "こうけんしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "貢租",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢租",
+          "reading": "こうそ"
+        }
+      ]
+    },
+    {
+      "slug": "貢納",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢納",
+          "reading": "こうのう"
+        }
+      ]
+    },
+    {
+      "slug": "ゴンチャ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢茶",
+          "reading": "ゴンチャ"
+        }
+      ]
+    },
+    {
+      "slug": "貢献度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "貢献度",
+          "reading": "こうけんど"
+        }
+      ]
+    }
   ]
 }

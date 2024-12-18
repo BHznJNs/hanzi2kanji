@@ -68,5 +68,18 @@
       "strokes": 2,
       "variant": true
     }
-  ]
+  ],
+  "sentences": [
+    {
+      "content": "劉暁波は中国人です。",
+      "furigana": "[劉暁波|りゅう|ぎょう|は]は[中国人|ちゅう|ごく|じん]です。",
+      "translation_zh_CN": "刘晓波是中国人。"
+    },
+    {
+      "content": "劉暁波は中国人です。",
+      "furigana": "[劉|りゅう][暁|ぎょう][波|は]は[中国人|ちゅう|ごく|じん]です。",
+      "translation_zh_CN": "刘晓波是中国人。"
+    }
+  ],
+  "usages": []
 }

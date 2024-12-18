@@ -117,5 +117,314 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "熱計ってみたら？",
+      "furigana": "[熱計|ねつ|はか]ってみたら？",
+      "translation_zh_CN": "你试过温度计吗？"
+    },
+    {
+      "content": "熱あるの？",
+      "furigana": "[熱|ねつ]あるの？",
+      "translation_zh_CN": "你发烧了吗？"
+    },
+    {
+      "content": "熱が下がりません。",
+      "furigana": "[熱|ねつ]が[下|さ]がりません。",
+      "translation_zh_CN": "我的发烧不会退。"
+    },
+    {
+      "content": "熱が上がった。",
+      "furigana": "[熱|ねつ]が[上|あ]がった。",
+      "translation_zh_CN": "我的发烧高了。"
+    },
+    {
+      "content": "熱で寝込んでました。",
+      "furigana": "[熱|ねつ]で[寝込|ね|こ]んでました。",
+      "translation_zh_CN": "我发烧躺在床上。"
+    },
+    {
+      "content": "熱が下がった。",
+      "furigana": "[熱|ねつ]が[下|さ]がった。",
+      "translation_zh_CN": "我的烧已经退了。"
+    },
+    {
+      "content": "熱はおさまった。",
+      "furigana": "[熱|ねつ]はおさまった。",
+      "translation_zh_CN": "发烧已经退了。"
+    },
+    {
+      "content": "熱が引いた。",
+      "furigana": "[熱|ねつ]が[引|ひ]いた。",
+      "translation_zh_CN": "我的烧退了。"
+    },
+    {
+      "content": "熱はありません。",
+      "furigana": "[熱|ねつ]はありません。",
+      "translation_zh_CN": "我没有发烧。"
+    },
+    {
+      "content": "熱がありそう？",
+      "furigana": "[熱|ねつ]がありそう？",
+      "translation_zh_CN": "你认为你发烧了吗？"
+    },
+    {
+      "content": "微熱があります。",
+      "furigana": "[微熱|び|ねつ]があります。",
+      "translation_zh_CN": "我有點發燒。"
+    },
+    {
+      "content": "熱はありますか。",
+      "furigana": "[熱|ねつ]はありますか。",
+      "translation_zh_CN": "你發燒了嗎？"
+    },
+    {
+      "content": "熱があるんです。",
+      "furigana": "[熱|ねつ]があるんです。",
+      "translation_zh_CN": "我發燒了。"
+    },
+    {
+      "content": "熱はないですね。",
+      "furigana": "[熱|ねつ]はないですね。",
+      "translation_zh_CN": "你没发烧。"
+    },
+    {
+      "content": "情熱は苦悩を生む。",
+      "furigana": "[情熱|じょう|ねつ]は[苦悩|く|のう]を[生|う]む。",
+      "translation_zh_CN": "热情会产生痛苦。"
+    },
+    {
+      "content": "体が熱っぽいんだ。",
+      "furigana": "[体|からだ]が[熱|ねつ]っぽいんだ。",
+      "translation_zh_CN": "我覺得我有點要發燒了。"
+    },
+    {
+      "content": "私は少し熱がある。",
+      "furigana": "[私|わたし]は[少|すこ]し[熱|ねつ]がある。",
+      "translation_zh_CN": "我有点发烧。"
+    },
+    {
+      "content": "君は商売熱心だね。",
+      "furigana": "[君|きみ]は[商売|しょう|ばい][熱心|ねっ|しん]だね。",
+      "translation_zh_CN": "你工作努力。"
+    },
+    {
+      "content": "あなたは熱がない。",
+      "furigana": "あなたは[熱|ねつ]がない。",
+      "translation_zh_CN": "你没发烧。"
+    },
+    {
+      "content": "鉄は熱いうちに打て。",
+      "furigana": "[鉄|てつ]は[熱|あつ]いうちに[打|う]て。",
+      "translation_zh_CN": "趁熱打鐵。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "熱帯",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "熱帯",
+          "reading": "ねったい"
+        }
+      ]
+    },
+    {
+      "slug": "熱い",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "熱い",
+          "reading": "あつい"
+        }
+      ]
+    },
+    {
+      "slug": "熱心",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "熱心",
+          "reading": "ねっしん"
+        }
+      ]
+    },
+    {
+      "slug": "熱中",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "熱中",
+          "reading": "ねっちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "熱する",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "熱する",
+          "reading": "ねっする"
+        }
+      ]
+    },
+    {
+      "slug": "熱意",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "熱意",
+          "reading": "ねつい"
+        }
+      ]
+    },
+    {
+      "slug": "熱湯",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "熱湯",
+          "reading": "ねっとう"
+        }
+      ]
+    },
+    {
+      "slug": "熱狂",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱狂",
+          "reading": "ねっきょう"
+        }
+      ]
+    },
+    {
+      "slug": "熱源",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱源",
+          "reading": "ねつげん"
+        }
+      ]
+    },
+    {
+      "slug": "熱烈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱烈",
+          "reading": "ねつれつ"
+        }
+      ]
+    },
+    {
+      "slug": "熱気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱気",
+          "reading": "ねっき"
+        }
+      ]
+    },
+    {
+      "slug": "熱帯魚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱帯魚",
+          "reading": "ねったいぎょ"
+        }
+      ]
+    },
+    {
+      "slug": "熱々",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱々",
+          "reading": "あつあつ"
+        },
+        {
+          "word": "熱熱",
+          "reading": "あつあつ"
+        },
+        {
+          "reading": "アツアツ"
+        }
+      ]
+    },
+    {
+      "slug": "熱望",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱望",
+          "reading": "ねつぼう"
+        }
+      ]
+    },
+    {
+      "slug": "熱情",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱情",
+          "reading": "ねつじょう"
+        }
+      ]
+    },
+    {
+      "slug": "熱風",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱風",
+          "reading": "ねっぷう"
+        }
+      ]
+    },
+    {
+      "slug": "熱帯雨林",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱帯雨林",
+          "reading": "ねったいうりん"
+        }
+      ]
+    },
+    {
+      "slug": "熱気球",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "熱気球",
+          "reading": "ねつききゅう"
+        },
+        {
+          "word": "熱気球",
+          "reading": "ねっききゅう"
+        }
+      ]
+    }
   ]
 }

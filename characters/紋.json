@@ -68,5 +68,252 @@
       "startStroke": 8,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "トムは念入りにナイフから指紋を拭き取った。",
+      "furigana": "トムは[念入|ねん|い]りにナイフから[指紋|し|もん]を[拭|ふ]き[取|と]った。",
+      "translation_zh_CN": "汤姆小心翼翼地把刀子上的指纹擦掉。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "紋章",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋章",
+          "reading": "もんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "文様",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "文様",
+          "reading": "もんよう"
+        },
+        {
+          "word": "紋様",
+          "reading": "もんよう"
+        }
+      ]
+    },
+    {
+      "slug": "紋付",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋付",
+          "reading": "もんつき"
+        },
+        {
+          "word": "紋付き",
+          "reading": "もんつき"
+        }
+      ]
+    },
+    {
+      "slug": "紋切り型",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋切り型",
+          "reading": "もんきりがた"
+        },
+        {
+          "word": "紋切型",
+          "reading": "もんきりがた"
+        }
+      ]
+    },
+    {
+      "slug": "紋殻皮剥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋殻皮剥",
+          "reading": "もんがらかわはぎ"
+        },
+        {
+          "word": "紋殻皮剝",
+          "reading": "もんがらかわはぎ"
+        },
+        {
+          "reading": "モンガラカワハギ"
+        }
+      ]
+    },
+    {
+      "slug": "紋黄蝶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋黄蝶",
+          "reading": "もんきちょう"
+        },
+        {
+          "reading": "モンキチョウ"
+        }
+      ]
+    },
+    {
+      "slug": "紋白蝶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋白蝶",
+          "reading": "もんしろちょう"
+        },
+        {
+          "reading": "モンシロチョウ"
+        }
+      ]
+    },
+    {
+      "slug": "紋章学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋章学",
+          "reading": "もんしょうがく"
+        }
+      ]
+    },
+    {
+      "slug": "紋別測候所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋別測候所",
+          "reading": "もんべつそっこうじょ"
+        }
+      ]
+    },
+    {
+      "slug": "紋標",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋標",
+          "reading": "もんじるし"
+        }
+      ]
+    },
+    {
+      "slug": "紋付羽織袴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋付羽織袴",
+          "reading": "もんつきはおりはかま"
+        },
+        {
+          "word": "紋付き羽織袴",
+          "reading": "もんつきはおりはかま"
+        }
+      ]
+    },
+    {
+      "slug": "紋殻通",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋殻通",
+          "reading": "もんがらどおし"
+        },
+        {
+          "reading": "モンガラドオシ"
+        }
+      ]
+    },
+    {
+      "slug": "紋甲いか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋甲いか",
+          "reading": "もんごういか"
+        },
+        {
+          "word": "紋甲いか",
+          "reading": "もんごいか"
+        },
+        {
+          "word": "紋甲烏賊",
+          "reading": "もんごういか"
+        },
+        {
+          "word": "紋甲烏賊",
+          "reading": "もんごいか"
+        },
+        {
+          "reading": "モンゴウイカ"
+        },
+        {
+          "reading": "モンゴイカ"
+        }
+      ]
+    },
+    {
+      "slug": "紋帳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋帳",
+          "reading": "もんちょう"
+        },
+        {
+          "word": "紋帖",
+          "reading": "もんちょう"
+        }
+      ]
+    },
+    {
+      "slug": "紋所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋所",
+          "reading": "もんどころ"
+        }
+      ]
+    },
+    {
+      "slug": "紋付羽織",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋付羽織",
+          "reading": "もんつきはおり"
+        }
+      ]
+    },
+    {
+      "slug": "紋日",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋日",
+          "reading": "もんび"
+        },
+        {
+          "word": "紋日",
+          "reading": "もんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "紋服",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紋服",
+          "reading": "もんぷく"
+        }
+      ]
+    }
   ]
 }

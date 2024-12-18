@@ -93,5 +93,303 @@
       "startStroke": 8,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "場が白けた。",
+      "furigana": "[場|ば]が[白|しら]けた。",
+      "translation_zh_CN": "场面一片漆黑。"
+    },
+    {
+      "content": "駐車場はある？",
+      "furigana": "[駐車場|ちゅう|しゃ|じょう]はある？",
+      "translation_zh_CN": "有停车场吗？"
+    },
+    {
+      "content": "野球場で会いましょう。",
+      "furigana": "[野球場|や|きゅう|じょう]で[会|あ]いましょう。",
+      "translation_zh_CN": "我们在棒球场见面吧。"
+    },
+    {
+      "content": "駐車場は満車です。",
+      "furigana": "[駐車場|ちゅう|しゃ|じょう]は[満車|まん|しゃ]です。",
+      "translation_zh_CN": "停车场已满。"
+    },
+    {
+      "content": "駐車場はありますか？",
+      "furigana": "[駐車場|ちゅう|しゃ|じょう]はありますか？",
+      "translation_zh_CN": "有停车场吗？"
+    },
+    {
+      "content": "駐車場はありますか。",
+      "furigana": "[駐車場|ちゅう|しゃ|じょう]はありますか。",
+      "translation_zh_CN": "有停车场吗？"
+    },
+    {
+      "content": "駐車場はガランガランだ。",
+      "furigana": "[駐車場|ちゅう|しゃ|じょう]はガランガランだ。",
+      "translation_zh_CN": "停车场是空的。"
+    },
+    {
+      "content": "駐車場はガラガラだ。",
+      "furigana": "[駐車場|ちゅう|しゃ|じょう]はガラガラだ。",
+      "translation_zh_CN": "停车场是空的。"
+    },
+    {
+      "content": "その場にいたんでしょ？",
+      "furigana": "その[場|ば]にいたんでしょ？",
+      "translation_zh_CN": "你当时也在场，对吧？"
+    },
+    {
+      "content": "公園は憩いの場です。",
+      "furigana": "[公園|こう|えん]は[憩|いこ]いの[場|ば]です。",
+      "translation_zh_CN": "公园是放松的地方。"
+    },
+    {
+      "content": "居場所知ってるよ。",
+      "furigana": "[居場所|い|ば|しょ][知|し]ってるよ。",
+      "translation_zh_CN": "我知道她在哪里。"
+    },
+    {
+      "content": "集合場所はどこですか？",
+      "furigana": "[集合|しゅう|ごう][場所|ば|しょ]はどこですか？",
+      "translation_zh_CN": "我们在哪里集合？"
+    },
+    {
+      "content": "その駐車場は無料だ。",
+      "furigana": "その[駐車|ちゅう|しゃ][場|じょう]は[無料|む|りょう]だ。",
+      "translation_zh_CN": "停车场是免费的。"
+    },
+    {
+      "content": "入場料はいくらですか？",
+      "furigana": "[入場|にゅう|じょう][料|りょう]はいくらですか？",
+      "translation_zh_CN": "门票多少钱？"
+    },
+    {
+      "content": "入場券はいくらですか？",
+      "furigana": "[入場|にゅう|じょう][券|けん]はいくらですか？",
+      "translation_zh_CN": "门票多少钱？"
+    },
+    {
+      "content": "私は市場に行きます。",
+      "furigana": "[私|わたし]は[市場|いち|ば]に[行|い]きます。",
+      "translation_zh_CN": "我要去市场。"
+    },
+    {
+      "content": "その場所が好きです。",
+      "furigana": "その[場所|ば|しょ]が[好|す]きです。",
+      "translation_zh_CN": "我喜歡那個地方。"
+    },
+    {
+      "content": "私は劇場にいました。",
+      "furigana": "[私|わたし]は[劇場|げき|じょう]にいました。",
+      "translation_zh_CN": "我在劇場。"
+    },
+    {
+      "content": "工場で働いています。",
+      "furigana": "[工場|こう|じょう]で[働|はたら]いています。",
+      "translation_zh_CN": "我在一家工廠工作。"
+    },
+    {
+      "content": "父は工場で働いている。",
+      "furigana": "[父|ちち]は[工場|こう|じょう]で[働|はたら]いている。",
+      "translation_zh_CN": "我父亲在工厂工作。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "場所",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "場所",
+          "reading": "ばしょ"
+        }
+      ]
+    },
+    {
+      "slug": "場合",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "場合",
+          "reading": "ばあい"
+        }
+      ]
+    },
+    {
+      "slug": "場面",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "場面",
+          "reading": "ばめん"
+        }
+      ]
+    },
+    {
+      "slug": "場内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場内",
+          "reading": "じょうない"
+        }
+      ]
+    },
+    {
+      "slug": "場外",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場外",
+          "reading": "じょうがい"
+        }
+      ]
+    },
+    {
+      "slug": "場違い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場違い",
+          "reading": "ばちがい"
+        }
+      ]
+    },
+    {
+      "slug": "場末",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場末",
+          "reading": "ばすえ"
+        }
+      ]
+    },
+    {
+      "slug": "場当たり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場当たり",
+          "reading": "ばあたり"
+        },
+        {
+          "word": "場当り",
+          "reading": "ばあたり"
+        }
+      ]
+    },
+    {
+      "slug": "場数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場数",
+          "reading": "ばかず"
+        }
+      ]
+    },
+    {
+      "slug": "場合によって",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場合によって",
+          "reading": "ばあいによって"
+        }
+      ]
+    },
+    {
+      "slug": "場合による",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場合による",
+          "reading": "ばあいによる"
+        }
+      ]
+    },
+    {
+      "slug": "場の量子論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場の量子論",
+          "reading": "ばのりょうしろん"
+        }
+      ]
+    },
+    {
+      "slug": "場の古典論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場の古典論",
+          "reading": "ばのこてんろん"
+        }
+      ]
+    },
+    {
+      "slug": "場合の数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場合の数",
+          "reading": "ばあいのかず"
+        }
+      ]
+    },
+    {
+      "slug": "場の理論",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場の理論",
+          "reading": "ばのりろん"
+        }
+      ]
+    },
+    {
+      "slug": "場内放送",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場内放送",
+          "reading": "じょうないほうそう"
+        }
+      ]
+    },
+    {
+      "slug": "場味",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場味",
+          "reading": "ばあじ"
+        }
+      ]
+    },
+    {
+      "slug": "場繋ぎ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "場繋ぎ",
+          "reading": "ばつなぎ"
+        },
+        {
+          "word": "場つなぎ",
+          "reading": "ばつなぎ"
+        }
+      ]
+    }
   ]
 }

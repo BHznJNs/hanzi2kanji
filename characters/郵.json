@@ -93,5 +93,277 @@
       "strokes": 3,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "郵便局はどこですか。",
+      "furigana": "[郵便|ゆう|びん][局|きょく]はどこですか。",
+      "translation_zh_CN": "邮局在哪儿？"
+    },
+    {
+      "content": "彼女は郵便局員になった。",
+      "furigana": "[彼女|かの|じょ]は[郵便|ゆう|びん][局員|きょく|いん]になった。",
+      "translation_zh_CN": "她成为了邮递员。"
+    },
+    {
+      "content": "私はその本を郵送します。",
+      "furigana": "[私|わたし]はその[本|ほん]を[郵送|ゆう|そう]します。",
+      "translation_zh_CN": "我会把这本书邮寄出去。"
+    },
+    {
+      "content": "郵便局は図書館の隣にある。",
+      "furigana": "[郵便|ゆう|びん][局|きょく]は[図書館|と|しょ|かん]の[隣|となり]にある。",
+      "translation_zh_CN": "郵局在圖書館旁邊。"
+    },
+    {
+      "content": "帰りがけに郵便局に寄るよ。",
+      "furigana": "[帰|かえ]りがけに[郵便|ゆう|びん][局|きょく]に[寄|よ]るよ。",
+      "translation_zh_CN": "我回家時會順道去一去郵政局。"
+    },
+    {
+      "content": "駅の前に郵便局があります。",
+      "furigana": "[駅|えき]の[前|まえ]に[郵便|ゆう|びん][局|きょく]があります。",
+      "translation_zh_CN": "车站前面有个邮局。"
+    },
+    {
+      "content": "郵便局って、まだ閉まってる？",
+      "furigana": "[郵便|ゆう|びん][局|きょく]って、まだ[閉|し]まってる？",
+      "translation_zh_CN": "邮局还关着门吗？"
+    },
+    {
+      "content": "郵便局へ行ってきたところだ。",
+      "furigana": "[郵便|ゆう|びん][局|きょく]へ[行|い]ってきたところだ。",
+      "translation_zh_CN": "我剛剛去了郵局。"
+    },
+    {
+      "content": "切手はどの郵便局でも買える。",
+      "furigana": "[切手|きっ|て]はどの[郵便|ゆう|びん][局|きょく]でも[買|か]える。",
+      "translation_zh_CN": "你在任何一家邮局都能买到邮票。"
+    },
+    {
+      "content": "その本を郵便でお送りします。",
+      "furigana": "その[本|ほん]を[郵便|ゆう|びん]でお[送|おく]りします。",
+      "translation_zh_CN": "我会把这本书邮寄出去。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "郵便局",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "郵便局",
+          "reading": "ゆうびんきょく"
+        }
+      ]
+    },
+    {
+      "slug": "郵便",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "郵便",
+          "reading": "ゆうびん"
+        },
+        {
+          "word": "〒",
+          "reading": "ゆうびん"
+        }
+      ]
+    },
+    {
+      "slug": "郵送",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "郵送",
+          "reading": "ゆうそう"
+        }
+      ]
+    },
+    {
+      "slug": "郵便受け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便受け",
+          "reading": "ゆうびんうけ"
+        }
+      ]
+    },
+    {
+      "slug": "郵便為替",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便為替",
+          "reading": "ゆうびんかわせ"
+        },
+        {
+          "word": "郵便為替",
+          "reading": "ゆうびんがわせ"
+        }
+      ]
+    },
+    {
+      "slug": "郵政",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵政",
+          "reading": "ゆうせい"
+        }
+      ]
+    },
+    {
+      "slug": "郵便切手",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便切手",
+          "reading": "ゆうびんきって"
+        }
+      ]
+    },
+    {
+      "slug": "郵便振替",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便振替",
+          "reading": "ゆうびんふりかえ"
+        }
+      ]
+    },
+    {
+      "slug": "郵便番号",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便番号",
+          "reading": "ゆうびんばんごう"
+        }
+      ]
+    },
+    {
+      "slug": "郵政省",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵政省",
+          "reading": "ゆうせいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "郵便物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便物",
+          "reading": "ゆうびんぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "郵便屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便屋",
+          "reading": "ゆうびんや"
+        }
+      ]
+    },
+    {
+      "slug": "郵便配達人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便配達人",
+          "reading": "ゆうびんはいたつにん"
+        }
+      ]
+    },
+    {
+      "slug": "郵便料金",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便料金",
+          "reading": "ゆうびんりょうきん"
+        }
+      ]
+    },
+    {
+      "slug": "郵袋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵袋",
+          "reading": "ゆうたい"
+        }
+      ]
+    },
+    {
+      "slug": "郵便配達",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便配達",
+          "reading": "ゆうびんはいたつ"
+        }
+      ]
+    },
+    {
+      "slug": "郵送料",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵送料",
+          "reading": "ゆうそうりょう"
+        }
+      ]
+    },
+    {
+      "slug": "郵便箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵便箱",
+          "reading": "ゆうびんばこ"
+        }
+      ]
+    },
+    {
+      "slug": "ゆうちょ銀行",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ゆうちょ銀行",
+          "reading": "ゆうちょぎんこう"
+        },
+        {
+          "word": "郵貯銀行",
+          "reading": "ゆうちょぎんこう"
+        }
+      ]
+    },
+    {
+      "slug": "郵貯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "郵貯",
+          "reading": "ゆうちょ"
+        }
+      ]
+    }
   ]
 }

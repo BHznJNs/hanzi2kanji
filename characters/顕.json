@@ -98,5 +98,289 @@
       "startStroke": 16,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "顕微鏡と望遠鏡の違い、分かってる？",
+      "furigana": "[顕微鏡|けん|び|きょう]と[望遠鏡|ぼう|えん|きょう]の[違|ちが]い、[分|わ]かってる？",
+      "translation_zh_CN": "你知道顯微鏡和望遠鏡有甚麼分別嗎？"
+    },
+    {
+      "content": "顕微鏡を発明したのは誰だか知ってる？",
+      "furigana": "[顕微鏡|けん|び|きょう]を[発明|はつ|めい]したのは[誰|だれ]だか[知|し]ってる？",
+      "translation_zh_CN": "你知道顯微鏡是誰發明的嗎？"
+    },
+    {
+      "content": "誰が顕微鏡を発明したかご存知ですか。",
+      "furigana": "[誰|だれ]が[顕微鏡|けん|び|きょう]を[発明|はつ|めい]したかご[存知|ぞん|ち]ですか。",
+      "translation_zh_CN": "你知道顯微鏡是誰發明的嗎？"
+    },
+    {
+      "content": "顕微鏡と望遠鏡の違いがわかりますか。",
+      "furigana": "[顕微鏡|けん|び|きょう]と[望遠鏡|ぼう|えん|きょう]の[違|ちが]いがわかりますか。",
+      "translation_zh_CN": "你知道顯微鏡和望遠鏡有甚麼分別嗎？"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "顕微鏡",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "顕微鏡",
+          "reading": "けんびきょう"
+        }
+      ]
+    },
+    {
+      "slug": "現れる",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "現れる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "現われる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "表れる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "表われる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "顕れる",
+          "reading": "あらわれる"
+        },
+        {
+          "word": "顕われる",
+          "reading": "あらわれる"
+        }
+      ]
+    },
+    {
+      "slug": "明らか",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "明らか",
+          "reading": "あきらか"
+        },
+        {
+          "word": "顕らか",
+          "reading": "あきらか"
+        }
+      ]
+    },
+    {
+      "slug": "現れ",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "現れ",
+          "reading": "あらわれ"
+        },
+        {
+          "word": "表れ",
+          "reading": "あらわれ"
+        },
+        {
+          "word": "現われ",
+          "reading": "あらわれ"
+        },
+        {
+          "word": "表われ",
+          "reading": "あらわれ"
+        },
+        {
+          "word": "顕れ",
+          "reading": "あらわれ"
+        }
+      ]
+    },
+    {
+      "slug": "現す",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "表す",
+          "reading": "あらわす"
+        },
+        {
+          "word": "現す",
+          "reading": "あらわす"
+        },
+        {
+          "word": "表わす",
+          "reading": "あらわす"
+        },
+        {
+          "word": "現わす",
+          "reading": "あらわす"
+        },
+        {
+          "word": "顕す",
+          "reading": "あらわす"
+        }
+      ]
+    },
+    {
+      "slug": "顕著",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕著",
+          "reading": "けんちょ"
+        }
+      ]
+    },
+    {
+      "slug": "顕在化",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕在化",
+          "reading": "けんざいか"
+        }
+      ]
+    },
+    {
+      "slug": "顕在",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕在",
+          "reading": "けんざい"
+        }
+      ]
+    },
+    {
+      "slug": "顕彰",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕彰",
+          "reading": "けんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "けんびきょう座",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "けんびきょう座",
+          "reading": "けんびきょうざ"
+        },
+        {
+          "word": "顕微鏡座",
+          "reading": "けんびきょうざ"
+        }
+      ]
+    },
+    {
+      "slug": "顕生代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕生代",
+          "reading": "けんせいだい"
+        }
+      ]
+    },
+    {
+      "slug": "顕微受精",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕微授精",
+          "reading": "けんびじゅせい"
+        },
+        {
+          "word": "顕微受精",
+          "reading": "けんびじゅせい"
+        }
+      ]
+    },
+    {
+      "slug": "顕性感染",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕性感染",
+          "reading": "けんせいかんせん"
+        }
+      ]
+    },
+    {
+      "slug": "顕微鏡写真",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕微鏡写真",
+          "reading": "けんびきょうしゃしん"
+        }
+      ]
+    },
+    {
+      "slug": "顕教",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕教",
+          "reading": "けんぎょう"
+        },
+        {
+          "word": "顕教",
+          "reading": "けんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "顕揚",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕揚",
+          "reading": "けんよう"
+        }
+      ]
+    },
+    {
+      "slug": "顕性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕性",
+          "reading": "けんせい"
+        }
+      ]
+    },
+    {
+      "slug": "顕正会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顕正会",
+          "reading": "けんしょうかい"
+        }
+      ]
+    }
   ]
 }

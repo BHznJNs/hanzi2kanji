@@ -80,5 +80,277 @@
       "startStroke": 11,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼は至る所で歓迎された。",
+      "furigana": "[彼|かれ]は[至|いた]る[所|ところ]で[歓迎|かん|げい]された。",
+      "translation_zh_CN": "他无论到哪儿都很受欢迎。"
+    },
+    {
+      "content": "遠くに灯りを見つけ、旅人は歓喜した。",
+      "furigana": "[遠|とお]くに[灯|とも]りを[見|み]つけ、[旅人|たび|びと]は[歓喜|かん|き]した。",
+      "translation_zh_CN": "发现了远处的灯光的旅行者欢喜不已。"
+    },
+    {
+      "content": "レストランで歓迎パーティーが行われた。",
+      "furigana": "レストランで[歓迎|かん|げい]パーティーが[行|おこな]われた。",
+      "translation_zh_CN": "欢迎会在餐厅举行。"
+    },
+    {
+      "content": "日常生活に即した例文ですね。こういう例文は大歓迎です。",
+      "furigana": "[日常|にち|じょう][生活|せい|かつ]に[即|そく]した[例文|れい|ぶん]ですね。こういう[例文|れい|ぶん]は[大|だい][歓迎|かん|げい]です。",
+      "translation_zh_CN": "这是从日常生活中而来的例句啊。这样的例句真是不错。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "喜ぶ",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "喜ぶ",
+          "reading": "よろこぶ"
+        },
+        {
+          "word": "悦ぶ",
+          "reading": "よろこぶ"
+        },
+        {
+          "word": "歓ぶ",
+          "reading": "よろこぶ"
+        },
+        {
+          "word": "慶ぶ",
+          "reading": "よろこぶ"
+        }
+      ]
+    },
+    {
+      "slug": "喜び",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "喜び",
+          "reading": "よろこび"
+        },
+        {
+          "word": "歓び",
+          "reading": "よろこび"
+        },
+        {
+          "word": "慶び",
+          "reading": "よろこび"
+        },
+        {
+          "word": "悦び",
+          "reading": "よろこび"
+        }
+      ]
+    },
+    {
+      "slug": "歓迎",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "歓迎",
+          "reading": "かんげい"
+        }
+      ]
+    },
+    {
+      "slug": "歓声",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "歓声",
+          "reading": "かんせい"
+        }
+      ]
+    },
+    {
+      "slug": "喜ばす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "喜ばす",
+          "reading": "よろこばす"
+        },
+        {
+          "word": "悦ばす",
+          "reading": "よろこばす"
+        },
+        {
+          "word": "歓ばす",
+          "reading": "よろこばす"
+        }
+      ]
+    },
+    {
+      "slug": "歓呼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓呼",
+          "reading": "かんこ"
+        }
+      ]
+    },
+    {
+      "slug": "歓談",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓談",
+          "reading": "かんだん"
+        },
+        {
+          "word": "款談",
+          "reading": "かんだん"
+        }
+      ]
+    },
+    {
+      "slug": "歓迎会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓迎会",
+          "reading": "かんげいかい"
+        }
+      ]
+    },
+    {
+      "slug": "歓楽",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓楽",
+          "reading": "かんらく"
+        },
+        {
+          "word": "懽楽",
+          "reading": "かんらく"
+        }
+      ]
+    },
+    {
+      "slug": "歓楽街",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓楽街",
+          "reading": "かんらくがい"
+        }
+      ]
+    },
+    {
+      "slug": "歓喜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓喜",
+          "reading": "かんき"
+        }
+      ]
+    },
+    {
+      "slug": "歓待",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓待",
+          "reading": "かんたい"
+        },
+        {
+          "word": "款待",
+          "reading": "かんたい"
+        }
+      ]
+    },
+    {
+      "slug": "歓送",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓送",
+          "reading": "かんそう"
+        }
+      ]
+    },
+    {
+      "slug": "歓心を買う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓心を買う",
+          "reading": "かんしんをかう"
+        },
+        {
+          "word": "関心を買う",
+          "reading": "かんしんをかう"
+        }
+      ]
+    },
+    {
+      "slug": "歓心",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓心",
+          "reading": "かんしん"
+        }
+      ]
+    },
+    {
+      "slug": "歓迎宴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓迎宴",
+          "reading": "かんげいえん"
+        }
+      ]
+    },
+    {
+      "slug": "歓然",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓然",
+          "reading": "かんぜん"
+        }
+      ]
+    },
+    {
+      "slug": "歓喜天",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓喜天",
+          "reading": "かんぎてん"
+        }
+      ]
+    },
+    {
+      "slug": "歓天喜地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "歓天喜地",
+          "reading": "かんてんきち"
+        }
+      ]
+    }
   ]
 }

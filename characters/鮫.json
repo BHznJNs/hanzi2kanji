@@ -79,5 +79,88 @@
       "startStroke": 13,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "鮫は魚を食べます。",
+      "furigana": "[鮫|さめ]は[魚|さかな]を[食|た]べます。",
+      "translation_zh_CN": "鲨鱼吃鱼。"
+    },
+    {
+      "content": "鮫は魚を餌としている。",
+      "furigana": "[鮫|さめ]は[魚|さかな]を[餌|えさ]としている。",
+      "translation_zh_CN": "鲨鱼以鱼为食。"
+    },
+    {
+      "content": "鮫はその血に飢えた残忍さで悪名高い。",
+      "furigana": "[鮫|さめ]はその[血|ち]に[飢|う]えた[残忍|ざん|にん]さで[悪名高|あく|めい|たか]い。",
+      "translation_zh_CN": "鲨鱼因其嗜血凶猛而臭名昭著。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "鮫皮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮫皮",
+          "reading": "さめがわ"
+        },
+        {
+          "word": "沙皮",
+          "reading": "さめがわ"
+        }
+      ]
+    },
+    {
+      "slug": "鮫肌手長蛸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮫肌手長蛸",
+          "reading": "さめはだてながだこ"
+        },
+        {
+          "reading": "サメハダテナガダコ"
+        }
+      ]
+    },
+    {
+      "slug": "鮫鞘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮫鞘",
+          "reading": "さめざや"
+        }
+      ]
+    },
+    {
+      "slug": "鮫肌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮫肌",
+          "reading": "さめはだ"
+        },
+        {
+          "word": "鮫膚",
+          "reading": "さめはだ"
+        }
+      ]
+    },
+    {
+      "slug": "鮫肌井守",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "鮫肌井守",
+          "reading": "さめはだいもり"
+        },
+        {
+          "reading": "サメハダイモリ"
+        }
+      ]
+    }
   ]
 }

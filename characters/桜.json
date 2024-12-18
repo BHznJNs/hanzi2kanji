@@ -64,5 +64,346 @@
       "startStroke": 7,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "桜が満開です。",
+      "furigana": "[桜|さくら]が[満開|まん|かい]です。",
+      "translation_zh_CN": "樱花盛开。"
+    },
+    {
+      "content": "桜は大好きです。",
+      "furigana": "[桜|さくら]は[大好|だい|す]きです。",
+      "translation_zh_CN": "我喜欢樱花。"
+    },
+    {
+      "content": "桜が咲いてるよ。",
+      "furigana": "[桜|さくら]が[咲|さ]いてるよ。",
+      "translation_zh_CN": "樱花正在盛开。"
+    },
+    {
+      "content": "桜が大好きです。",
+      "furigana": "[桜|さくら]が[大好|だい|す]きです。",
+      "translation_zh_CN": "我喜欢樱花。"
+    },
+    {
+      "content": "桜が咲こうとしている。",
+      "furigana": "[桜|さくら]が[咲|さ]こうとしている。",
+      "translation_zh_CN": "樱花即将绽放。"
+    },
+    {
+      "content": "さくらは満開だった。",
+      "furigana": "さくらは[満開|まん|かい]だった。",
+      "translation_zh_CN": "樱花盛开了。"
+    },
+    {
+      "content": "桜は見頃を迎えていた。",
+      "furigana": "[桜|さくら]は[見頃|み|ごろ]を[迎|むか]えていた。",
+      "translation_zh_CN": "樱花正开得最盛。"
+    },
+    {
+      "content": "桜並木があるわ。",
+      "furigana": "[桜並木|さくら|なみ|き]があるわ。",
+      "translation_zh_CN": "有一排排樱花树。"
+    },
+    {
+      "content": "桜の木を切り倒しました。",
+      "furigana": "[桜|さくら]の[木|き]を[切|き]り[倒|たお]しました。",
+      "translation_zh_CN": "我砍倒了那棵樱桃树。"
+    },
+    {
+      "content": "桜が満開である。",
+      "furigana": "[桜|さくら]が[満開|まん|かい]である。",
+      "translation_zh_CN": "樱花盛开。"
+    },
+    {
+      "content": "桜の花は今が見頃です。",
+      "furigana": "[桜|さくら]の[花|はな]は[今|いま]が[見頃|み|ごろ]です。",
+      "translation_zh_CN": "正是樱花最美的时节。"
+    },
+    {
+      "content": "桜の花が真っ盛りです。",
+      "furigana": "[桜|さくら]の[花|はな]が[真|ま]っ[盛|さか]りです。",
+      "translation_zh_CN": "正是樱花最美的时节。"
+    },
+    {
+      "content": "桜の花は本当にきれいですよ。",
+      "furigana": "[桜|さくら]の[花|はな]は[本当|ほん|とう]にきれいですよ。",
+      "translation_zh_CN": "櫻花非常漂亮。"
+    },
+    {
+      "content": "桜もそろそろじゃないでしょうか。",
+      "furigana": "[桜|さくら]もそろそろじゃないでしょうか。",
+      "translation_zh_CN": "幾乎是櫻花綻放的時候了。"
+    },
+    {
+      "content": "以前は私の家の裏に、大きな桜の木がありました。",
+      "furigana": "[以前|い|ぜん]は[私|わたし]の[家|いえ]の[裏|うら]に、[大|おお]きな[桜|さくら]の[木|き]がありました。",
+      "translation_zh_CN": "我家后面曾经有棵大樱桃树。"
+    },
+    {
+      "content": "昔はうちの家の裏に、でっかい桜の木があったんだ。",
+      "furigana": "[昔|むかし]はうちの[家|いえ]の[裏|うら]に、でっかい[桜|さくら]の[木|き]があったんだ。",
+      "translation_zh_CN": "我家后面曾经有棵大樱桃树。"
+    },
+    {
+      "content": "公園の桜の木の下に、若い男が横になっているのが見えた。",
+      "furigana": "[公園|こう|えん]の[桜|さくら]の[木|き]の[下|した]に、[若|わか]い[男|おとこ]が[横|よこ]になっているのが[見|み]えた。",
+      "translation_zh_CN": "在公园里，我看到一个年轻人躺在一棵樱桃树下的长椅上。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "桜花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜花",
+          "reading": "おうか"
+        },
+        {
+          "word": "桜花",
+          "reading": "さくらばな"
+        }
+      ]
+    },
+    {
+      "slug": "桜桃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜ん坊",
+          "reading": "さくらんぼ"
+        },
+        {
+          "word": "桜ん坊",
+          "reading": "さくらんぼう"
+        },
+        {
+          "word": "桜桃",
+          "reading": "さくらんぼ"
+        },
+        {
+          "word": "桜桃",
+          "reading": "さくらんぼう"
+        },
+        {
+          "reading": "サクランボ"
+        }
+      ]
+    },
+    {
+      "slug": "桜の木",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜の木",
+          "reading": "さくらのき"
+        },
+        {
+          "word": "さくらの木",
+          "reading": "さくらのき"
+        },
+        {
+          "word": "サクラの木",
+          "reading": "サクラのき"
+        }
+      ]
+    },
+    {
+      "slug": "桜美林大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜美林大学",
+          "reading": "おうびりんだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "桜前線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜前線",
+          "reading": "さくらぜんせん"
+        }
+      ]
+    },
+    {
+      "slug": "桜餅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜餅",
+          "reading": "さくらもち"
+        },
+        {
+          "word": "桜もち",
+          "reading": "さくらもち"
+        }
+      ]
+    },
+    {
+      "slug": "梅桃",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "梅桃",
+          "reading": "ゆすらうめ"
+        },
+        {
+          "word": "梅桃",
+          "reading": "ゆすら"
+        },
+        {
+          "word": "山桜桃",
+          "reading": "ゆすらうめ"
+        },
+        {
+          "word": "山桜桃",
+          "reading": "ゆすら"
+        },
+        {
+          "word": "英桃",
+          "reading": "ゆすらうめ"
+        },
+        {
+          "word": "英桃",
+          "reading": "ゆすら"
+        },
+        {
+          "word": "桜桃",
+          "reading": "ゆすらうめ"
+        },
+        {
+          "word": "桜桃",
+          "reading": "ゆすら"
+        },
+        {
+          "reading": "ユスラウメ"
+        }
+      ]
+    },
+    {
+      "slug": "桜草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜草",
+          "reading": "さくらそう"
+        },
+        {
+          "reading": "サクラソウ"
+        }
+      ]
+    },
+    {
+      "slug": "桜皮細工",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜皮細工",
+          "reading": "かばざいく"
+        },
+        {
+          "word": "樺細工",
+          "reading": "かばざいく"
+        }
+      ]
+    },
+    {
+      "slug": "桜鱒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜鱒",
+          "reading": "さくらます"
+        },
+        {
+          "reading": "サクラマス"
+        }
+      ]
+    },
+    {
+      "slug": "桜湯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜湯",
+          "reading": "さくらゆ"
+        }
+      ]
+    },
+    {
+      "slug": "桜島大根",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜島大根",
+          "reading": "さくらじまだいこん"
+        }
+      ]
+    },
+    {
+      "slug": "桜通線",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜通線",
+          "reading": "さくらどおりせん"
+        }
+      ]
+    },
+    {
+      "slug": "桜井女子短大",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜井女子短大",
+          "reading": "さくらいじょしたんだい"
+        }
+      ]
+    },
+    {
+      "slug": "桜まじ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜まじ",
+          "reading": "さくらまじ"
+        }
+      ]
+    },
+    {
+      "slug": "桜味噌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜味噌",
+          "reading": "さくらみそ"
+        }
+      ]
+    },
+    {
+      "slug": "桜桃忌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜桃忌",
+          "reading": "おうとうき"
+        }
+      ]
+    },
+    {
+      "slug": "桜月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "桜月",
+          "reading": "さくらづき"
+        }
+      ]
+    }
   ]
 }

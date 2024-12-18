@@ -95,5 +95,277 @@
       "startStroke": 9,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "残念ながら、サッカーの試合、一敗地に塗れてしまったよ。",
+      "furigana": "[残念|ざん|ねん]ながら、サッカーの[試合|し|あい]、[一敗地|いっ|ぱい|ち]に[塗|ぬ]れてしまったよ。",
+      "translation_zh_CN": "不幸的是，我们最终输掉了足球比赛。"
+    },
+    {
+      "content": "これからの星勘定を考えると、一敗もしたくない！",
+      "furigana": "これからの[星勘定|ほし|かん|じょう]を[考|かんが]えると、[一敗|いち|はい]もしたくない！",
+      "translation_zh_CN": "当我想到我的未来时，我一次都不想失去！"
+    },
+    {
+      "content": "失敗を恐れるな。",
+      "furigana": "[失敗|しっ|ぱい]を[恐|おそ]れるな。",
+      "translation_zh_CN": "不要怕犯错。"
+    },
+    {
+      "content": "事業に失敗した。",
+      "furigana": "[事業|じ|ぎょう]に[失敗|しっ|ぱい]した。",
+      "translation_zh_CN": "他的生意失败了。"
+    },
+    {
+      "content": "トムは失敗した。",
+      "furigana": "トムは[失敗|しっ|ぱい]した。",
+      "translation_zh_CN": "汤姆失败了。"
+    },
+    {
+      "content": "彼は事業に失敗した。",
+      "furigana": "[彼|かれ]は[事業|じ|ぎょう]に[失敗|しっ|ぱい]した。",
+      "translation_zh_CN": "他的生意失败了。"
+    },
+    {
+      "content": "彼は失敗を恥じている。",
+      "furigana": "[彼|かれ]は[失敗|しっ|ぱい]を[恥|は]じている。",
+      "translation_zh_CN": "他为他的失败感到羞耻。"
+    },
+    {
+      "content": "私たちは試合に敗れた。",
+      "furigana": "[私|わたし]たちは[試合|し|あい]に[敗|やぶ]れた。",
+      "translation_zh_CN": "我们比赛输了。"
+    },
+    {
+      "content": "その実験は失敗だった。",
+      "furigana": "その[実験|じっ|けん]は[失敗|しっ|ぱい]だった。",
+      "translation_zh_CN": "實驗失敗了。"
+    },
+    {
+      "content": "彼らは試験に失敗した。",
+      "furigana": "[彼|かれ]らは[試験|し|けん]に[失敗|しっ|ぱい]した。",
+      "translation_zh_CN": "他們考試失敗了。"
+    },
+    {
+      "content": "自分の失敗を認めろよ。",
+      "furigana": "[自分|じ|ぶん]の[失敗|しっ|ぱい]を[認|みと]めろよ。",
+      "translation_zh_CN": "你应该承认自己的失败。"
+    },
+    {
+      "content": "彼は入学試験に失敗した。",
+      "furigana": "[彼|かれ]は[入学|にゅう|がく][試験|し|けん]に[失敗|しっ|ぱい]した。",
+      "translation_zh_CN": "他在入学考试中失败了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "負ける",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "負ける",
+          "reading": "まける"
+        },
+        {
+          "word": "敗ける",
+          "reading": "まける"
+        },
+        {
+          "word": "敗北る",
+          "reading": "まける"
+        }
+      ]
+    },
+    {
+      "slug": "破る",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "破る",
+          "reading": "やぶる"
+        }
+      ]
+    },
+    {
+      "slug": "敗戦",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "敗戦",
+          "reading": "はいせん"
+        }
+      ]
+    },
+    {
+      "slug": "敗北",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗北",
+          "reading": "はいぼく"
+        }
+      ]
+    },
+    {
+      "slug": "敗者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗者",
+          "reading": "はいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "敗退",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗退",
+          "reading": "はいたい"
+        }
+      ]
+    },
+    {
+      "slug": "敗訴",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗訴",
+          "reading": "はいそ"
+        }
+      ]
+    },
+    {
+      "slug": "敗因",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗因",
+          "reading": "はいいん"
+        }
+      ]
+    },
+    {
+      "slug": "敗れる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗れる",
+          "reading": "やぶれる"
+        }
+      ]
+    },
+    {
+      "slug": "敗走",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗走",
+          "reading": "はいそう"
+        }
+      ]
+    },
+    {
+      "slug": "廃屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "廃屋",
+          "reading": "はいおく"
+        },
+        {
+          "word": "敗屋",
+          "reading": "はいおく"
+        }
+      ]
+    },
+    {
+      "slug": "敗軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗軍",
+          "reading": "はいぐん"
+        }
+      ]
+    },
+    {
+      "slug": "敗残兵",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗残兵",
+          "reading": "はいざんへい"
+        }
+      ]
+    },
+    {
+      "slug": "敗戦国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗戦国",
+          "reading": "はいせんこく"
+        }
+      ]
+    },
+    {
+      "slug": "敗血症",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗血症",
+          "reading": "はいけつしょう"
+        }
+      ]
+    },
+    {
+      "slug": "敗残",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗残",
+          "reading": "はいざん"
+        }
+      ]
+    },
+    {
+      "slug": "敗者復活戦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗者復活戦",
+          "reading": "はいしゃふっかつせん"
+        }
+      ]
+    },
+    {
+      "slug": "敗報",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗報",
+          "reading": "はいほう"
+        }
+      ]
+    },
+    {
+      "slug": "敗余",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "敗余",
+          "reading": "はいよ"
+        }
+      ]
+    }
   ]
 }

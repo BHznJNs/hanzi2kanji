@@ -66,5 +66,114 @@
       "startStroke": 15,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "世論",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "世論",
+          "reading": "よろん"
+        },
+        {
+          "word": "輿論",
+          "reading": "よろん"
+        },
+        {
+          "word": "世論",
+          "reading": "せろん"
+        },
+        {
+          "word": "世論",
+          "reading": "せいろん"
+        }
+      ]
+    },
+    {
+      "slug": "世論調査",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "世論調査",
+          "reading": "よろんちょうさ"
+        },
+        {
+          "word": "輿論調査",
+          "reading": "よろんちょうさ"
+        },
+        {
+          "word": "世論調査",
+          "reading": "せろんちょうさ"
+        }
+      ]
+    },
+    {
+      "slug": "輿入れ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輿入れ",
+          "reading": "こしいれ"
+        }
+      ]
+    },
+    {
+      "slug": "輿舁き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輿舁き",
+          "reading": "こしかき"
+        }
+      ]
+    },
+    {
+      "slug": "輿地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輿地",
+          "reading": "よち"
+        }
+      ]
+    },
+    {
+      "slug": "輿望",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輿望",
+          "reading": "よぼう"
+        }
+      ]
+    },
+    {
+      "slug": "輿丁",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輿丁",
+          "reading": "よてい"
+        }
+      ]
+    },
+    {
+      "slug": "輿望を担う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "輿望を担う",
+          "reading": "よぼうをになう"
+        },
+        {
+          "word": "輿望をになう",
+          "reading": "よぼうをになう"
+        }
+      ]
+    }
   ]
 }

@@ -76,5 +76,22 @@
       "startStroke": 8,
       "strokes": 3
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "たたら星",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "たたら星",
+          "reading": "たたらぼし"
+        },
+        {
+          "word": "婁宿",
+          "reading": "たたらぼし"
+        }
+      ]
+    }
   ]
 }

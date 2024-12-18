@@ -28,7 +28,7 @@
     {
       "lang": "en",
       "values": [
-        "emperor\u0027s seal"
+        "emperor's seal"
       ]
     },
     {
@@ -122,6 +122,29 @@
       "radical": "丶",
       "startStroke": 18,
       "strokes": 1
+    }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "璽書",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "璽書",
+          "reading": "じしょ"
+        }
+      ]
+    },
+    {
+      "slug": "璽符",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "璽符",
+          "reading": "じふ"
+        }
+      ]
     }
   ]
 }

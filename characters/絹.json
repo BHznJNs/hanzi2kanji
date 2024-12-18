@@ -69,5 +69,311 @@
       "startStroke": 9,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "絹は手触りが柔らかい。",
+      "furigana": "[絹|きぬ]は[手触|て|ざわ]りが[柔|やわ]らかい。",
+      "translation_zh_CN": "丝绸触感柔软。"
+    },
+    {
+      "content": "そのドレスは絹製です。",
+      "furigana": "そのドレスは[絹製|きぬ|せい]です。",
+      "translation_zh_CN": "这件衣服是丝绸做的。"
+    },
+    {
+      "content": "絹は高価なんだよ。",
+      "furigana": "[絹|きぬ]は[高価|こう|か]なんだよ。",
+      "translation_zh_CN": "丝绸很贵。"
+    },
+    {
+      "content": "これは本物の絹ですか？",
+      "furigana": "これは[本物|ほん|もの]の[絹|きぬ]ですか？",
+      "translation_zh_CN": "这是真丝吗？"
+    },
+    {
+      "content": "そのガウンは絹からできている。",
+      "furigana": "そのガウンは[絹|きぬ]からできている。",
+      "translation_zh_CN": "这件礼服是丝绸制成的。"
+    },
+    {
+      "content": "絹は手触りが柔らかくすべすべしている。",
+      "furigana": "[絹|きぬ]は[手触|て|ざわ]りが[柔|やわ]らかくすべすべしている。",
+      "translation_zh_CN": "丝绸触感柔软光滑。"
+    },
+    {
+      "content": "この美しいドレスは絹で出来ている。",
+      "furigana": "この[美|うつく]しいドレスは[絹|きぬ]で[出来|で|き]ている。",
+      "translation_zh_CN": "这件漂亮的衣服是丝绸做的。"
+    },
+    {
+      "content": "雌豚の耳から絹の財布は作れない。",
+      "furigana": "[雌豚|めす|ぶた]の[耳|みみ]から[絹|きぬ]の[財布|さい|ふ]は[作|つく]れない。",
+      "translation_zh_CN": "你不能用母猪的耳朵制作丝绸钱包。"
+    },
+    {
+      "content": "この絹は触ってなめらかな感じだ。",
+      "furigana": "この[絹|きぬ]は[触|さわ]ってなめらかな[感|かん]じだ。",
+      "translation_zh_CN": "这种丝绸摸起来很光滑。"
+    },
+    {
+      "content": "彼女はいつも絹の服を着ている。",
+      "furigana": "[彼女|かの|じょ]はいつも[絹|きぬ]の[服|ふく]を[着|き]ている。",
+      "translation_zh_CN": "她总是穿着丝绸衣服。"
+    },
+    {
+      "content": "彼女は豪華な絹の服を着ていた。",
+      "furigana": "[彼女|かの|じょ]は[豪華|ごう|か]な[絹|きぬ]の[服|ふく]を[着|き]ていた。",
+      "translation_zh_CN": "她穿著華麗的絲綢服飾。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "絹織物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹織物",
+          "reading": "きぬおりもの"
+        }
+      ]
+    },
+    {
+      "slug": "絹糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹糸",
+          "reading": "きぬいと"
+        },
+        {
+          "word": "絹糸",
+          "reading": "けんし"
+        },
+        {
+          "word": "繭糸",
+          "reading": "きぬいと"
+        },
+        {
+          "word": "繭糸",
+          "reading": "けんし"
+        }
+      ]
+    },
+    {
+      "slug": "絹布",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹布",
+          "reading": "けんぷ"
+        }
+      ]
+    },
+    {
+      "slug": "絹雲母",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹雲母",
+          "reading": "きぬうんも"
+        }
+      ]
+    },
+    {
+      "slug": "巻雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巻雲",
+          "reading": "けんうん"
+        },
+        {
+          "word": "絹雲",
+          "reading": "けんうん"
+        },
+        {
+          "word": "巻雲",
+          "reading": "まきぐも"
+        },
+        {
+          "word": "巻き雲",
+          "reading": "まきぐも"
+        }
+      ]
+    },
+    {
+      "slug": "絹層雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹層雲",
+          "reading": "けんそううん"
+        },
+        {
+          "word": "巻層雲",
+          "reading": "けんそううん"
+        }
+      ]
+    },
+    {
+      "slug": "巻積雲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "巻積雲",
+          "reading": "けんせきうん"
+        },
+        {
+          "word": "絹積雲",
+          "reading": "けんせきうん"
+        }
+      ]
+    },
+    {
+      "slug": "絹蘭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹蘭",
+          "reading": "きぬらん"
+        },
+        {
+          "word": "衣蘭",
+          "reading": "きぬらん"
+        }
+      ]
+    },
+    {
+      "slug": "絹毛鼠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹毛鼠",
+          "reading": "きぬげねずみ"
+        },
+        {
+          "reading": "キヌゲネズミ"
+        }
+      ]
+    },
+    {
+      "slug": "絹を裂くよう",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹を裂くよう",
+          "reading": "きぬをさくよう"
+        }
+      ]
+    },
+    {
+      "slug": "絹猿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹猿",
+          "reading": "きぬざる"
+        },
+        {
+          "reading": "キヌザル"
+        }
+      ]
+    },
+    {
+      "slug": "絹柳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹柳",
+          "reading": "きぬやなぎ"
+        },
+        {
+          "reading": "キヌヤナギ"
+        }
+      ]
+    },
+    {
+      "slug": "絹張り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹張り",
+          "reading": "きぬばり"
+        },
+        {
+          "word": "絹ばり",
+          "reading": "きぬばり"
+        }
+      ]
+    },
+    {
+      "slug": "絹物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹物",
+          "reading": "きぬもの"
+        }
+      ]
+    },
+    {
+      "slug": "絹さや",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹さや",
+          "reading": "きぬさや"
+        },
+        {
+          "word": "絹莢",
+          "reading": "きぬさや"
+        }
+      ]
+    },
+    {
+      "slug": "絹皮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹皮",
+          "reading": "きぬかわ"
+        }
+      ]
+    },
+    {
+      "slug": "絹目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹目",
+          "reading": "きぬめ"
+        }
+      ]
+    },
+    {
+      "slug": "絹ごし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹ごし",
+          "reading": "きぬごし"
+        },
+        {
+          "word": "絹漉し",
+          "reading": "きぬごし"
+        }
+      ]
+    },
+    {
+      "slug": "絹地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "絹地",
+          "reading": "きぬじ"
+        }
+      ]
+    }
   ]
 }

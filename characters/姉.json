@@ -67,5 +67,326 @@
       "startStroke": 5,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "姉はいない。",
+      "furigana": "[姉|あね]はいない。",
+      "translation_zh_CN": "我没有妹妹。"
+    },
+    {
+      "content": "ねえ、ビル。",
+      "furigana": "ねえ、ビル。",
+      "translation_zh_CN": "嘿，比尔。"
+    },
+    {
+      "content": "ちょっとねえ。",
+      "furigana": "ちょっとねえ。",
+      "translation_zh_CN": "嘿，嘿。"
+    },
+    {
+      "content": "ねえねえ、知ってる？",
+      "furigana": "ねえねえ、[知|し]ってる？",
+      "translation_zh_CN": "嘿嘿嘿，你知道吗？"
+    },
+    {
+      "content": "早起きだねえ。",
+      "furigana": "[早起|はや|お]きだねえ。",
+      "translation_zh_CN": "你是一个早起的人。"
+    },
+    {
+      "content": "姉は大学生です。",
+      "furigana": "[姉|あね]は[大学生|だい|がく|せい]です。",
+      "translation_zh_CN": "我姐姐是一名大学生。"
+    },
+    {
+      "content": "彼女は姉ほど美しくない。",
+      "furigana": "[彼女|かの|じょ]は[姉|あね]ほど[美|うつく]しくない。",
+      "translation_zh_CN": "她不像她姐姐那么漂亮。"
+    },
+    {
+      "content": "姉ちゃんが結婚してから３年が経った。",
+      "furigana": "[姉|ねえ]ちゃんが[結婚|けっ|こん]してから[３年|さん|ねん]が[経|た]った。",
+      "translation_zh_CN": "姐姐结婚已经三年了。"
+    },
+    {
+      "content": "ねえ、話聞いてる？",
+      "furigana": "ねえ、[話聞|はなし|き]いてる？",
+      "translation_zh_CN": "嘿，你在听我说话吗？"
+    },
+    {
+      "content": "ねえ、仲直りしよう。",
+      "furigana": "ねえ、[仲直|なか|なお]りしよう。",
+      "translation_zh_CN": "嘿嘿，我们补一下吧。"
+    },
+    {
+      "content": "彼女は私の姉です。",
+      "furigana": "[彼女|かの|じょ]は[私|わたし]の[姉|あね]です。",
+      "translation_zh_CN": "她是我的姐姐。"
+    },
+    {
+      "content": "彼は姉が３人います。",
+      "furigana": "[彼|かれ]は[姉|あね]が[３|さん][人|にん]います。",
+      "translation_zh_CN": "他有三个姐姐。"
+    },
+    {
+      "content": "姉は英語の教員です。",
+      "furigana": "[姉|あね]は[英語|えい|ご]の[教員|きょう|いん]です。",
+      "translation_zh_CN": "我姊姊是個英語教師。"
+    },
+    {
+      "content": "彼は私の姉と結婚した。",
+      "furigana": "[彼|かれ]は[私|わたし]の[姉|あね]と[結婚|けっ|こん]した。",
+      "translation_zh_CN": "他和我妹妹结婚了。"
+    },
+    {
+      "content": "姉はとても速く泳げる。",
+      "furigana": "[姉|あね]はとても[速|はや]く[泳|およ]げる。",
+      "translation_zh_CN": "我姐姐游泳很快。"
+    },
+    {
+      "content": "姉さんを見習いなさい。",
+      "furigana": "[姉|ねえ]さんを[見習|み|なら]いなさい。",
+      "translation_zh_CN": "学学你姐姐。"
+    },
+    {
+      "content": "お姉さんによろしくね。",
+      "furigana": "お[姉|ねえ]さんによろしくね。",
+      "translation_zh_CN": "代我问候你妹妹。"
+    },
+    {
+      "content": "私の姉は君より背が低い。",
+      "furigana": "[私|わたし]の[姉|あね]は[君|きみ]より[背|せ]が[低|ひく]い。",
+      "translation_zh_CN": "我妹妹比你矮。"
+    },
+    {
+      "content": "アンには姉妹がいません。",
+      "furigana": "アンには[姉妹|し|まい]がいません。",
+      "translation_zh_CN": "安沒有姐妹。"
+    },
+    {
+      "content": "私の姉は兄より年上です。",
+      "furigana": "[私|わたし]の[姉|あね]は[兄|あに]より[年上|とし|うえ]です。",
+      "translation_zh_CN": "我姐姐比我哥哥大。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "姉妹",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "姉妹",
+          "reading": "しまい"
+        },
+        {
+          "word": "姉妹",
+          "reading": "きょうだい"
+        }
+      ]
+    },
+    {
+      "slug": "姉さん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉さん",
+          "reading": "ねえさん"
+        },
+        {
+          "word": "姉さん",
+          "reading": "あねさん"
+        },
+        {
+          "word": "姐さん",
+          "reading": "ねえさん"
+        },
+        {
+          "word": "姐さん",
+          "reading": "あねさん"
+        }
+      ]
+    },
+    {
+      "slug": "姉妹都市",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉妹都市",
+          "reading": "しまいとし"
+        }
+      ]
+    },
+    {
+      "slug": "姉妹編",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉妹編",
+          "reading": "しまいへん"
+        }
+      ]
+    },
+    {
+      "slug": "姉妹校",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉妹校",
+          "reading": "しまいこう"
+        }
+      ]
+    },
+    {
+      "slug": "姉ちゃん",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉ちゃん",
+          "reading": "ねえちゃん"
+        }
+      ]
+    },
+    {
+      "slug": "姉夫婦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉夫婦",
+          "reading": "あねふうふ"
+        }
+      ]
+    },
+    {
+      "slug": "姉じゃ人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉者人",
+          "reading": "あねじゃひと"
+        },
+        {
+          "word": "姉じゃ人",
+          "reading": "あねじゃひと"
+        }
+      ]
+    },
+    {
+      "slug": "姉妹友好都市関係",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉妹友好都市関係",
+          "reading": "しまいゆうこうとしかんけい"
+        },
+        {
+          "word": "姉妹・友好都市関係",
+          "reading": "しまいゆうこうとしかんけい"
+        }
+      ]
+    },
+    {
+      "slug": "姉者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉者",
+          "reading": "あねじゃ"
+        },
+        {
+          "word": "姉じゃ",
+          "reading": "あねじゃ"
+        }
+      ]
+    },
+    {
+      "slug": "姉妹喧嘩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉妹喧嘩",
+          "reading": "きょうだいげんか"
+        },
+        {
+          "word": "姉妹げんか",
+          "reading": "きょうだいげんか"
+        }
+      ]
+    },
+    {
+      "slug": "姉様人形",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉様人形",
+          "reading": "あねさまにんぎょう"
+        }
+      ]
+    },
+    {
+      "slug": "姉妹品",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉妹品",
+          "reading": "しまいひん"
+        }
+      ]
+    },
+    {
+      "slug": "姉妹会社",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉妹会社",
+          "reading": "しまいがいしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "姉妹丼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉妹丼",
+          "reading": "しまいどん"
+        }
+      ]
+    },
+    {
+      "slug": "姉さん被り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉さんかぶり",
+          "reading": "あねさんかぶり"
+        },
+        {
+          "word": "姉さんかぶり",
+          "reading": "ねえさんかぶり"
+        },
+        {
+          "word": "姉さん被り",
+          "reading": "あねさんかぶり"
+        },
+        {
+          "word": "姉さん被り",
+          "reading": "ねえさんかぶり"
+        }
+      ]
+    },
+    {
+      "slug": "姉上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "姉上",
+          "reading": "あねうえ"
+        }
+      ]
+    }
   ]
 }

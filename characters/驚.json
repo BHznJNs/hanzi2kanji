@@ -142,5 +142,298 @@
       "strokes": 4,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "彼女はきっと驚く。",
+      "furigana": "[彼女|かの|じょ]はきっと[驚|おどろ]く。",
+      "translation_zh_CN": "她肯定会大吃一惊的。"
+    },
+    {
+      "content": "驚くことではないね。",
+      "furigana": "[驚|おどろ]くことではないね。",
+      "translation_zh_CN": "这并不让我惊讶。"
+    },
+    {
+      "content": "彼は驚いて私を見た。",
+      "furigana": "[彼|かれ]は[驚|おどろ]いて[私|わたし]を[見|み]た。",
+      "translation_zh_CN": "他惊奇地看着我。"
+    },
+    {
+      "content": "彼の言葉に私は驚いた。",
+      "furigana": "[彼|かれ]の[言葉|こと|ば]に[私|わたし]は[驚|おどろ]いた。",
+      "translation_zh_CN": "他的話讓我吃驚。"
+    },
+    {
+      "content": "私達はその知らせに驚いた。",
+      "furigana": "[私|わたし][達|たち]はその[知|し]らせに[驚|おどろ]いた。",
+      "translation_zh_CN": "我們收到消息時都嚇了一跳。"
+    },
+    {
+      "content": "私はライオンを見て驚いた。",
+      "furigana": "[私|わたし]はライオンを[見|み]て[驚|おどろ]いた。",
+      "translation_zh_CN": "我很驚訝竟然看到了獅子。"
+    },
+    {
+      "content": "子供の成長は驚くほど早い。",
+      "furigana": "[子供|こ|ども]の[成長|せい|ちょう]は[驚|おどろ]くほど[早|はや]い。",
+      "translation_zh_CN": "孩子的成长快得令人吃惊。"
+    },
+    {
+      "content": "そんなに驚くことじゃないよね？",
+      "furigana": "そんなに[驚|おどろ]くことじゃないよね？",
+      "translation_zh_CN": "这不算是惊喜，是吧？"
+    },
+    {
+      "content": "彼女は知らせを聞いて驚いた。",
+      "furigana": "[彼女|かの|じょ]は[知|し]らせを[聞|き]いて[驚|おどろ]いた。",
+      "translation_zh_CN": "她听到那个消息后惊呆了。"
+    },
+    {
+      "content": "彼の行動にはいつも驚かされる。",
+      "furigana": "[彼|かれ]の[行動|こう|どう]にはいつも[驚|おどろ]かされる。",
+      "translation_zh_CN": "他的所作所为总是让我惊讶。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "驚異",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "驚異",
+          "reading": "きょうい"
+        }
+      ]
+    },
+    {
+      "slug": "驚く",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "japanese": [
+        {
+          "word": "驚く",
+          "reading": "おどろく"
+        },
+        {
+          "word": "愕く",
+          "reading": "おどろく"
+        },
+        {
+          "word": "駭く",
+          "reading": "おどろく"
+        }
+      ]
+    },
+    {
+      "slug": "驚かす",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "驚かす",
+          "reading": "おどろかす"
+        }
+      ]
+    },
+    {
+      "slug": "驚き",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "驚き",
+          "reading": "おどろき"
+        },
+        {
+          "reading": "オドロキ"
+        }
+      ]
+    },
+    {
+      "slug": "驚愕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚愕",
+          "reading": "きょうがく"
+        }
+      ]
+    },
+    {
+      "slug": "驚嘆",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚嘆",
+          "reading": "きょうたん"
+        },
+        {
+          "word": "驚歎",
+          "reading": "きょうたん"
+        }
+      ]
+    },
+    {
+      "slug": "驚異的",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚異的",
+          "reading": "きょういてき"
+        }
+      ]
+    },
+    {
+      "slug": "驚くほど",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚くほど",
+          "reading": "おどろくほど"
+        },
+        {
+          "word": "驚く程",
+          "reading": "おどろくほど"
+        },
+        {
+          "word": "おどろく程",
+          "reading": "おどろくほど"
+        }
+      ]
+    },
+    {
+      "slug": "驚異の部屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚異の部屋",
+          "reading": "きょういのへや"
+        }
+      ]
+    },
+    {
+      "slug": "驚いたことに",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚いたことに",
+          "reading": "おどろいたことに"
+        }
+      ]
+    },
+    {
+      "slug": "驚安",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚安",
+          "reading": "きょうやす"
+        }
+      ]
+    },
+    {
+      "slug": "驚懼",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚懼",
+          "reading": "きょうく"
+        }
+      ]
+    },
+    {
+      "slug": "驚駭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚駭",
+          "reading": "きょうがい"
+        }
+      ]
+    },
+    {
+      "slug": "驚倒",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚倒",
+          "reading": "きょうとう"
+        }
+      ]
+    },
+    {
+      "slug": "驚き入る",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚き入る",
+          "reading": "おどろきいる"
+        }
+      ]
+    },
+    {
+      "slug": "驚喜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚喜",
+          "reading": "きょうき"
+        }
+      ]
+    },
+    {
+      "slug": "驚かせる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚かせる",
+          "reading": "おどろかせる"
+        }
+      ]
+    },
+    {
+      "slug": "驚天動地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚天動地",
+          "reading": "きょうてんどうち"
+        }
+      ]
+    },
+    {
+      "slug": "驚くなかれ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚くなかれ",
+          "reading": "おどろくなかれ"
+        },
+        {
+          "word": "驚く勿れ",
+          "reading": "おどろくなかれ"
+        },
+        {
+          "word": "驚く無かれ",
+          "reading": "おどろくなかれ"
+        }
+      ]
+    },
+    {
+      "slug": "驚くべき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "驚くべき",
+          "reading": "おどろくべき"
+        }
+      ]
+    }
   ]
 }

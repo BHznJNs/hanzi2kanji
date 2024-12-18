@@ -69,5 +69,28 @@
       "startStroke": 4,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "庁舎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "庁舎",
+          "reading": "ちょうしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "庁内",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "庁内",
+          "reading": "ちょうない"
+        }
+      ]
+    }
   ]
 }

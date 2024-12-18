@@ -97,5 +97,330 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "図に乗ってた。",
+      "furigana": "[図|ず]に[乗|の]ってた。",
+      "translation_zh_CN": "这是图表上的。"
+    },
+    {
+      "content": "図で説明しましょう。",
+      "furigana": "[図|ず]で[説明|せつ|めい]しましょう。",
+      "translation_zh_CN": "我们用图来解释一下。"
+    },
+    {
+      "content": "図に乗るな。",
+      "furigana": "[図|ず]に[乗|の]るな。",
+      "translation_zh_CN": "不要得意忘形。"
+    },
+    {
+      "content": "路線図をもらえませんか。",
+      "furigana": "[路線図|ろ|せん|ず]をもらえませんか。",
+      "translation_zh_CN": "能给我一张路线图吗？"
+    },
+    {
+      "content": "バスの路線図がほしいのですが。",
+      "furigana": "バスの[路線図|ろ|せん|ず]がほしいのですが。",
+      "translation_zh_CN": "我想要一份巴士路线图。"
+    },
+    {
+      "content": "新企画は図にあたった。",
+      "furigana": "[新企画|しん|き|かく]は[図|ず]にあたった。",
+      "translation_zh_CN": "新计划恰到好处。"
+    },
+    {
+      "content": "地下鉄の路線図はありますか。",
+      "furigana": "[地下鉄|ち|か|てつ]の[路線図|ろ|せん|ず]はありますか。",
+      "translation_zh_CN": "有地铁路线图吗？"
+    },
+    {
+      "content": "地下鉄の路線図をください。",
+      "furigana": "[地下鉄|ち|か|てつ]の[路線図|ろ|せん|ず]をください。",
+      "translation_zh_CN": "请给我地铁图。"
+    },
+    {
+      "content": "彼は図を使って説明した。",
+      "furigana": "[彼|かれ]は[図|ず]を[使|つか]って[説明|せつ|めい]した。",
+      "translation_zh_CN": "他用图表进行了解释。"
+    },
+    {
+      "content": "先生は、ボードに図を描きました。",
+      "furigana": "[先生|せん|せい]は、ボードに[図|ず]を[描|か]きました。",
+      "translation_zh_CN": "老师在黑板上画了一个图表。"
+    },
+    {
+      "content": "明日図書館でね。",
+      "furigana": "[明日|あした][図書館|と|しょ|かん]でね。",
+      "translation_zh_CN": "明天图书馆见。"
+    },
+    {
+      "content": "世界地図を見てごらん。",
+      "furigana": "[世界|せ|かい][地図|ち|ず]を[見|み]てごらん。",
+      "translation_zh_CN": "来看看世界地图。"
+    },
+    {
+      "content": "心電図をとりましょう。",
+      "furigana": "[心電図|しん|でん|ず]をとりましょう。",
+      "translation_zh_CN": "我要做一个心电图。"
+    },
+    {
+      "content": "地図は壁に貼ってある。",
+      "furigana": "[地図|ち|ず]は[壁|かべ]に[貼|は]ってある。",
+      "translation_zh_CN": "地图挂在墙上。"
+    },
+    {
+      "content": "明日、図書館でまたね。",
+      "furigana": "[明日|あした]、[図書館|と|しょ|かん]でまたね。",
+      "translation_zh_CN": "明天图书馆见。"
+    },
+    {
+      "content": "また明日、図書館でね。",
+      "furigana": "また[明日|あした]、[図書館|と|しょ|かん]でね。",
+      "translation_zh_CN": "明天图书馆见。"
+    },
+    {
+      "content": "地図はトムに渡したよ。",
+      "furigana": "[地図|ち|ず]はトムに[渡|わた]したよ。",
+      "translation_zh_CN": "我把地图递给汤姆。"
+    },
+    {
+      "content": "路線図をもらえませんか。",
+      "furigana": "[路線|ろ|せん][図|ず]をもらえませんか。",
+      "translation_zh_CN": "请给我一张街道地图好吗？"
+    },
+    {
+      "content": "地図の青い線は川を表す。",
+      "furigana": "[地図|ち|ず]の[青|あお]い[線|せん]は[川|かわ]を[表|あらわ]す。",
+      "translation_zh_CN": "地图上的蓝线代表河流。"
+    },
+    {
+      "content": "図書室は４階にあります。",
+      "furigana": "[図書|と|しょ][室|しつ]は[４|][階|かい]にあります。",
+      "translation_zh_CN": "圖書館在四樓。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "図書館",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "図書館",
+          "reading": "としょかん"
+        },
+        {
+          "word": "図書館",
+          "reading": "ずしょかん"
+        }
+      ]
+    },
+    {
+      "slug": "図鑑",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "図鑑",
+          "reading": "ずかん"
+        }
+      ]
+    },
+    {
+      "slug": "図書",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "図書",
+          "reading": "としょ"
+        },
+        {
+          "word": "図書",
+          "reading": "ずしょ"
+        }
+      ]
+    },
+    {
+      "slug": "図々しい",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "図々しい",
+          "reading": "ずうずうしい"
+        },
+        {
+          "word": "図図しい",
+          "reading": "ずうずうしい"
+        }
+      ]
+    },
+    {
+      "slug": "図表",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "図表",
+          "reading": "ずひょう"
+        }
+      ]
+    },
+    {
+      "slug": "図る",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "図る",
+          "reading": "はかる"
+        },
+        {
+          "word": "謀る",
+          "reading": "はかる"
+        }
+      ]
+    },
+    {
+      "slug": "図面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図面",
+          "reading": "ずめん"
+        }
+      ]
+    },
+    {
+      "slug": "図柄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図柄",
+          "reading": "ずがら"
+        }
+      ]
+    },
+    {
+      "slug": "図式",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図式",
+          "reading": "ずしき"
+        }
+      ]
+    },
+    {
+      "slug": "図書室",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図書室",
+          "reading": "としょしつ"
+        }
+      ]
+    },
+    {
+      "slug": "図解",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図解",
+          "reading": "ずかい"
+        }
+      ]
+    },
+    {
+      "slug": "図案",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図案",
+          "reading": "ずあん"
+        }
+      ]
+    },
+    {
+      "slug": "図形",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "図形",
+          "reading": "ずけい"
+        }
+      ]
+    },
+    {
+      "slug": "図星",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図星",
+          "reading": "ずぼし"
+        }
+      ]
+    },
+    {
+      "slug": "図体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図体",
+          "reading": "ずうたい"
+        }
+      ]
+    },
+    {
+      "slug": "図版",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図版",
+          "reading": "ずはん"
+        }
+      ]
+    },
+    {
+      "slug": "図示",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図示",
+          "reading": "ずし"
+        }
+      ]
+    },
+    {
+      "slug": "図録",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図録",
+          "reading": "ずろく"
+        }
+      ]
+    },
+    {
+      "slug": "図説",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "図説",
+          "reading": "ずせつ"
+        }
+      ]
+    }
   ]
 }

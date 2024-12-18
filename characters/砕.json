@@ -92,5 +92,239 @@
       "startStroke": 7,
       "strokes": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "車の前面ガラスは砕けて粉々になった。",
+      "furigana": "[車|くるま]の[前面|ぜん|めん]ガラスは[砕|くだ]けて[粉々|こなごな]になった。",
+      "translation_zh_CN": "車頭的擋風玻璃被砸至粉碎。"
+    },
+    {
+      "content": "調べを進めるうちに、頭蓋骨が、何か重い一撃を受けて打ち砕かれているのが明らかになった。",
+      "furigana": "[調|しら]べを[進|すす]めるうちに、[頭蓋骨|ず|がい|こつ]が、[何|なに]か[重|おも]い[一撃|いち|げき]を[受|う]けて[打|う]ち[砕|くだ]かれているのが[明|あき]らかになった。",
+      "translation_zh_CN": "进一步的检查发现头骨受到剧烈的撞击而碎裂。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "砕ける",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "砕ける",
+          "reading": "くだける"
+        },
+        {
+          "word": "摧ける",
+          "reading": "くだける"
+        }
+      ]
+    },
+    {
+      "slug": "砕く",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "砕く",
+          "reading": "くだく"
+        },
+        {
+          "word": "摧く",
+          "reading": "くだく"
+        }
+      ]
+    },
+    {
+      "slug": "砕けた",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕けた",
+          "reading": "くだけた"
+        }
+      ]
+    },
+    {
+      "slug": "砕石",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕石",
+          "reading": "さいせき"
+        }
+      ]
+    },
+    {
+      "slug": "砕波",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕波",
+          "reading": "さいは"
+        }
+      ]
+    },
+    {
+      "slug": "砕屑物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕屑物",
+          "reading": "さいせつぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "砕屑岩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕屑岩",
+          "reading": "さいせつがん"
+        }
+      ]
+    },
+    {
+      "slug": "砕氷船",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕氷船",
+          "reading": "さいひょうせん"
+        }
+      ]
+    },
+    {
+      "slug": "砕氷艦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕氷艦",
+          "reading": "さいひょうかん"
+        }
+      ]
+    },
+    {
+      "slug": "砕屑丘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕屑丘",
+          "reading": "さいせつきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "砕片",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕片",
+          "reading": "さいへん"
+        }
+      ]
+    },
+    {
+      "slug": "砕屑",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕屑",
+          "reading": "さいせつ"
+        }
+      ]
+    },
+    {
+      "slug": "砕鉱機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕鉱機",
+          "reading": "さいこうき"
+        }
+      ]
+    },
+    {
+      "slug": "砕鉱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕鉱",
+          "reading": "さいこう"
+        }
+      ]
+    },
+    {
+      "slug": "砕身",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕身",
+          "reading": "さいしん"
+        },
+        {
+          "word": "摧身",
+          "reading": "さいしん"
+        }
+      ]
+    },
+    {
+      "slug": "砕け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕け",
+          "reading": "くだけ"
+        }
+      ]
+    },
+    {
+      "slug": "砕骨器",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕骨器",
+          "reading": "さいこつき"
+        }
+      ]
+    },
+    {
+      "slug": "砕岩機",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕岩機",
+          "reading": "さいがんき"
+        }
+      ]
+    },
+    {
+      "slug": "砕け波",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕け波",
+          "reading": "くだけなみ"
+        },
+        {
+          "word": "くだけ波",
+          "reading": "くだけなみ"
+        }
+      ]
+    },
+    {
+      "slug": "砕氷",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "砕氷",
+          "reading": "さいひょう"
+        }
+      ]
+    }
   ]
 }

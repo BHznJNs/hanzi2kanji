@@ -76,5 +76,306 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "絵に書いた餅は食べられない。",
+      "furigana": "[絵|え]に[書|か]いた[餅|もち]は[食|た]べられない。",
+      "translation_zh_CN": "图中的年糕不能吃。"
+    },
+    {
+      "content": "お餅とマシュマロは似ているようで似てない。",
+      "furigana": "お[餅|もち]とマシュマロは[似|に]ているようで[似|に]てない。",
+      "translation_zh_CN": "麻糬和棉花糖看起来很相似，但其实不然。"
+    },
+    {
+      "content": "いいえ、お団子はお餅ではありません。",
+      "furigana": "いいえ、お[団子|だん|ご]はお[餅|もち]ではありません。",
+      "translation_zh_CN": "不，团子不是年糕。"
+    },
+    {
+      "content": "彼は餅をすっかり食べたわけではない。",
+      "furigana": "[彼|かれ]は[餅|もち]をすっかり[食|た]べたわけではない。",
+      "translation_zh_CN": "他没有吃掉所有的年糕。"
+    },
+    {
+      "content": "日本ではお正月にお餅を食べる習慣があります。",
+      "furigana": "[日本|にっ|ぽん]ではお[正月|しょう|がつ]にお[餅|もち]を[食|た]べる[習慣|しゅう|かん]があります。",
+      "translation_zh_CN": "在日本，元旦有吃年糕的习俗。"
+    },
+    {
+      "content": "君の夢一杯のビジネスプラン、絵に描いた餅にならんことを切に望むよ。",
+      "furigana": "[君|きみ]の[夢一杯|ゆめ|いち|はい]のビジネスプラン、[絵|え]に[描|えが]いた[餅|もち]にならんことを[切|せつ]に[望|のぞ]むよ。",
+      "translation_zh_CN": "我真诚地希望您充满梦想的商业计划不会变成小菜一碟。"
+    },
+    {
+      "content": "月餅は中国菓子の一つです。",
+      "furigana": "[月餅|げっ|ぺい]は[中国|ちゅう|ごく][菓子|が|し]の[一|ひと]つです。",
+      "translation_zh_CN": "月饼是中国点心的一种。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "餡餅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餡餅",
+          "reading": "あんもち"
+        },
+        {
+          "word": "餡餅",
+          "reading": "あんも"
+        },
+        {
+          "word": "餅",
+          "reading": "あんも"
+        }
+      ]
+    },
+    {
+      "slug": "餅屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅屋",
+          "reading": "もちや"
+        }
+      ]
+    },
+    {
+      "slug": "もち米",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もち米",
+          "reading": "もちごめ"
+        },
+        {
+          "word": "餅米",
+          "reading": "もちごめ"
+        },
+        {
+          "word": "糯米",
+          "reading": "もちごめ"
+        }
+      ]
+    },
+    {
+      "slug": "筒子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "筒子",
+          "reading": "ピンズ"
+        },
+        {
+          "word": "餅子",
+          "reading": "ピンズ"
+        },
+        {
+          "word": "筒子",
+          "reading": "トンズ"
+        }
+      ]
+    },
+    {
+      "slug": "餅盤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅盤",
+          "reading": "へいばん"
+        },
+        {
+          "word": "餅盤",
+          "reading": "べいばん"
+        }
+      ]
+    },
+    {
+      "slug": "望粥",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "望粥",
+          "reading": "もちがゆ"
+        },
+        {
+          "word": "餅粥",
+          "reading": "もちがゆ"
+        }
+      ]
+    },
+    {
+      "slug": "餅網",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅網",
+          "reading": "もちあみ"
+        },
+        {
+          "word": "餠網",
+          "reading": "もちあみ"
+        }
+      ]
+    },
+    {
+      "slug": "餅肌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "もち肌",
+          "reading": "もちはだ"
+        },
+        {
+          "word": "餅肌",
+          "reading": "もちはだ"
+        },
+        {
+          "word": "餅膚",
+          "reading": "もちはだ"
+        }
+      ]
+    },
+    {
+      "slug": "餅巾着",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅巾着",
+          "reading": "もちきんちゃく"
+        }
+      ]
+    },
+    {
+      "slug": "餅いなり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅いなり",
+          "reading": "もちいなり"
+        }
+      ]
+    },
+    {
+      "slug": "餅投げ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅投げ",
+          "reading": "もちなげ"
+        }
+      ]
+    },
+    {
+      "slug": "餅代",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅代",
+          "reading": "もちだい"
+        }
+      ]
+    },
+    {
+      "slug": "餅粉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅粉",
+          "reading": "もちこ"
+        },
+        {
+          "word": "もち粉",
+          "reading": "もちこ"
+        }
+      ]
+    },
+    {
+      "slug": "餅搗き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅つき",
+          "reading": "もちつき"
+        },
+        {
+          "word": "餅搗き",
+          "reading": "もちつき"
+        }
+      ]
+    },
+    {
+      "slug": "餅花",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅花",
+          "reading": "もちばな"
+        }
+      ]
+    },
+    {
+      "slug": "餅餤",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅餤",
+          "reading": "べいだん"
+        },
+        {
+          "word": "餅餤",
+          "reading": "へいだん"
+        },
+        {
+          "word": "餅餤",
+          "reading": "へいたん"
+        },
+        {
+          "word": "餅腅",
+          "reading": "べいだん"
+        },
+        {
+          "word": "餅腅",
+          "reading": "へいだん"
+        },
+        {
+          "word": "餅腅",
+          "reading": "へいたん"
+        }
+      ]
+    },
+    {
+      "slug": "餅病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅病",
+          "reading": "もちびょう"
+        }
+      ]
+    },
+    {
+      "slug": "餅まき",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅まき",
+          "reading": "もちまき"
+        }
+      ]
+    },
+    {
+      "slug": "餅病菌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "餅病菌",
+          "reading": "もちびょうきん"
+        }
+      ]
+    }
   ]
 }

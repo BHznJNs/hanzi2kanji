@@ -64,5 +64,199 @@
       "startStroke": 8,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "視力検査をします。",
+      "furigana": "[視力|し|りょく][検査|けん|さ]をします。",
+      "translation_zh_CN": "我要來檢查你的視力。"
+    },
+    {
+      "content": "血液検査をしましょう。",
+      "furigana": "[血液|けつ|えき][検査|けん|さ]をしましょう。",
+      "translation_zh_CN": "我希望你做血液檢查。"
+    },
+    {
+      "content": "その調査は進行中です。",
+      "furigana": "その[調査|ちょう|さ]は[進行|しん|こう][中|ちゅう]です。",
+      "translation_zh_CN": "調查正在進行中。"
+    },
+    {
+      "content": "その事件は調査中です。",
+      "furigana": "その[事件|じ|けん]は[調査|ちょう|さ][中|ちゅう]です。",
+      "translation_zh_CN": "他們正在調查這件事。"
+    },
+    {
+      "content": "超音波検査をしましょう。",
+      "furigana": "[超|ちょう][音波|おん|ぱ][検査|けん|さ]をしましょう。",
+      "translation_zh_CN": "我想讓你接受超聲檢查。"
+    },
+    {
+      "content": "警察は捜査を進めている。",
+      "furigana": "[警察|けい|さつ]は[捜査|そう|さ]を[進|すす]めている。",
+      "translation_zh_CN": "警方正在调查。"
+    },
+    {
+      "content": "警察はその殺人を調査中だ。",
+      "furigana": "[警察|けい|さつ]はその[殺人|さつ|じん]を[調査|ちょう|さ][中|ちゅう]だ。",
+      "translation_zh_CN": "警方正在调查那起谋杀案。"
+    },
+    {
+      "content": "容疑者は捜査官にうそを言った。",
+      "furigana": "[容疑|よう|ぎ][者|しゃ]は[捜査|そう|さ][官|かん]にうそを[言|い]った。",
+      "translation_zh_CN": "那嫌疑犯對偵察官撒了個謊。"
+    },
+    {
+      "content": "警察はその事故の原因を調査中である。",
+      "furigana": "[警察|けい|さつ]はその[事故|じ|こ]の[原因|げん|いん]を[調査|ちょう|さ][中|ちゅう]である。",
+      "translation_zh_CN": "警察调查事故的原因。"
+    },
+    {
+      "content": "血液検査を受けていただきたいのですが。",
+      "furigana": "[血液|けつ|えき][検査|けん|さ]を[受|う]けていただきたいのですが。",
+      "translation_zh_CN": "我希望你做血液檢查。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "査定",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査定",
+          "reading": "さてい"
+        }
+      ]
+    },
+    {
+      "slug": "査察",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査察",
+          "reading": "ささつ"
+        }
+      ]
+    },
+    {
+      "slug": "査証",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査証",
+          "reading": "さしょう"
+        }
+      ]
+    },
+    {
+      "slug": "査問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査問",
+          "reading": "さもん"
+        }
+      ]
+    },
+    {
+      "slug": "査読",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査読",
+          "reading": "さどく"
+        }
+      ]
+    },
+    {
+      "slug": "査定価格",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査定価格",
+          "reading": "さていかかく"
+        }
+      ]
+    },
+    {
+      "slug": "査証申請人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査証申請人",
+          "reading": "さしょうしんせいじん"
+        }
+      ]
+    },
+    {
+      "slug": "査収",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査収",
+          "reading": "さしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "査読者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査読者",
+          "reading": "さどくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "査定者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査定者",
+          "reading": "さていしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "査問委員会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査問委員会",
+          "reading": "さもんいいんかい"
+        }
+      ]
+    },
+    {
+      "slug": "査定額",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査定額",
+          "reading": "さていがく"
+        }
+      ]
+    },
+    {
+      "slug": "査閲",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査閲",
+          "reading": "さえつ"
+        }
+      ]
+    },
+    {
+      "slug": "査察官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "査察官",
+          "reading": "ささつかん"
+        }
+      ]
+    }
   ]
 }

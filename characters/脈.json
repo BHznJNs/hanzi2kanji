@@ -78,5 +78,297 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "脈が遅いです。",
+      "furigana": "[脈|みゃく]が[遅|おそ]いです。",
+      "translation_zh_CN": "我的脉搏很慢。"
+    },
+    {
+      "content": "脈がはやいです。",
+      "furigana": "[脈|みゃく]がはやいです。",
+      "translation_zh_CN": "我的脉搏很快。"
+    },
+    {
+      "content": "君の脈は正常だ。",
+      "furigana": "[君|きみ]の[脈|みゃく]は[正常|せい|じょう]だ。",
+      "translation_zh_CN": "你的脉搏正常。"
+    },
+    {
+      "content": "じゃあ、やっぱり脈なし？",
+      "furigana": "じゃあ、やっぱり[脈|みゃく]なし？",
+      "translation_zh_CN": "那么，到底是没有脉搏了吗？"
+    },
+    {
+      "content": "不整脈があります。",
+      "furigana": "[不整脈|ふ|せい|みゃく]があります。",
+      "translation_zh_CN": "我有心律失常。"
+    },
+    {
+      "content": "患者さんは脈がありません。",
+      "furigana": "[患者|かん|じゃ]さんは[脈|みゃく]がありません。",
+      "translation_zh_CN": "病人没有脉搏。"
+    },
+    {
+      "content": "おい、脈がないぞ。",
+      "furigana": "おい、[脈|みゃく]がないぞ。",
+      "translation_zh_CN": "嘿，我没有脉搏了。"
+    },
+    {
+      "content": "医者は彼の脈をとった。",
+      "furigana": "[医者|い|しゃ]は[彼|かれ]の[脈|みゃく]をとった。",
+      "translation_zh_CN": "医生给他把脉。"
+    },
+    {
+      "content": "私は山脈を見た。",
+      "furigana": "[私|わたし]は[山脈|さん|みゃく]を[見|み]た。",
+      "translation_zh_CN": "我看到了山。"
+    },
+    {
+      "content": "あなたの脈は正常です。",
+      "furigana": "あなたの[脈|みゃく]は[正常|せい|じょう]です。",
+      "translation_zh_CN": "你的脉搏正常。"
+    },
+    {
+      "content": "脈がはやいです。",
+      "furigana": "[脈|みゃく]がはやいです。",
+      "translation_zh_CN": "我的脉搏很快。"
+    },
+    {
+      "content": "それは文脈による。",
+      "furigana": "それは[文脈|ぶん|みゃく]による。",
+      "translation_zh_CN": "这得看情况。"
+    },
+    {
+      "content": "それは文脈次第だね。",
+      "furigana": "それは[文脈|ぶん|みゃく][次第|し|だい]だね。",
+      "translation_zh_CN": "这要看情况。"
+    },
+    {
+      "content": "医者は私の脈をとった。",
+      "furigana": "[医者|い|しゃ]は[私|わたし]の[脈|みゃく]をとった。",
+      "translation_zh_CN": "医生给我把脉。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "脈拍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈拍",
+          "reading": "みゃくはく"
+        },
+        {
+          "word": "脈搏",
+          "reading": "みゃくはく"
+        }
+      ]
+    },
+    {
+      "slug": "脈打つ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈打つ",
+          "reading": "みゃくうつ"
+        },
+        {
+          "word": "脈搏つ",
+          "reading": "みゃくうつ"
+        }
+      ]
+    },
+    {
+      "slug": "脈絡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈絡",
+          "reading": "みゃくらく"
+        }
+      ]
+    },
+    {
+      "slug": "脈絡網膜炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈絡網膜炎",
+          "reading": "みゃくらくもうまくえん"
+        }
+      ]
+    },
+    {
+      "slug": "脈無し病",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈無し病",
+          "reading": "みゃくなしびょう"
+        },
+        {
+          "word": "脈なし病",
+          "reading": "みゃくなしびょう"
+        }
+      ]
+    },
+    {
+      "slug": "脈あり",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈あり",
+          "reading": "みゃくあり"
+        },
+        {
+          "word": "脈有り",
+          "reading": "みゃくあり"
+        }
+      ]
+    },
+    {
+      "slug": "脈管学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈管学",
+          "reading": "みゃっかんがく"
+        }
+      ]
+    },
+    {
+      "slug": "脈絡膜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈絡膜",
+          "reading": "みゃくらくまく"
+        }
+      ]
+    },
+    {
+      "slug": "脈管系",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈管系",
+          "reading": "みゃくかんけい"
+        }
+      ]
+    },
+    {
+      "slug": "脈管炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈管炎",
+          "reading": "みゃっかんえん"
+        }
+      ]
+    },
+    {
+      "slug": "脈理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈理",
+          "reading": "みゃくり"
+        }
+      ]
+    },
+    {
+      "slug": "脈動",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈動",
+          "reading": "みゃくどう"
+        }
+      ]
+    },
+    {
+      "slug": "脈管",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈管",
+          "reading": "みゃっかん"
+        },
+        {
+          "word": "脈管",
+          "reading": "みゃくかん"
+        }
+      ]
+    },
+    {
+      "slug": "脈絡叢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈絡叢",
+          "reading": "みゃくらくそう"
+        }
+      ]
+    },
+    {
+      "slug": "脈絡膜炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈絡膜炎",
+          "reading": "みゃくらくまくえん"
+        }
+      ]
+    },
+    {
+      "slug": "脈脈",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈々",
+          "reading": "みゃくみゃく"
+        },
+        {
+          "word": "脈脈",
+          "reading": "みゃくみゃく"
+        }
+      ]
+    },
+    {
+      "slug": "脈所",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈所",
+          "reading": "みゃくどころ"
+        }
+      ]
+    },
+    {
+      "slug": "脈なし",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈なし",
+          "reading": "みゃくなし"
+        },
+        {
+          "word": "脈無し",
+          "reading": "みゃくなし"
+        }
+      ]
+    },
+    {
+      "slug": "脈搏数",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "脈搏数",
+          "reading": "みゃくはくすう"
+        }
+      ]
+    }
   ]
 }

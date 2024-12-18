@@ -54,7 +54,7 @@
         "être utile",
         "atteindre",
         "essayer",
-        "s\u0027entraîner",
+        "s'entraîner",
         "coûter",
         "servir pour",
         "bon",
@@ -117,6 +117,393 @@
       "startStroke": 5,
       "strokes": 4,
       "variant": true
+    }
+  ],
+  "sentences": [
+    {
+      "content": "すごく為になります。",
+      "furigana": "すごく[為|ため]になります。",
+      "translation_zh_CN": "这将会非常有帮助。"
+    },
+    {
+      "content": "何で彼の為に働いているの？",
+      "furigana": "[何|なん]で[彼|かれ]の[為|ため]に[働|はたら]いているの？",
+      "translation_zh_CN": "你为什么为他工作？"
+    },
+    {
+      "content": "時間を無駄にしない為に急ごう。",
+      "furigana": "[時間|じ|かん]を[無駄|む|だ]にしない[為|ため]に[急|いそ]ごう。",
+      "translation_zh_CN": "我们快点吧，以免浪费时间。"
+    },
+    {
+      "content": "飛行機は霧の為離陸できなかった。",
+      "furigana": "[飛行機|ひ|こう|き]は[霧|きり]の[為離陸|ため|り|りく]できなかった。",
+      "translation_zh_CN": "由于大雾，飞机无法起飞。"
+    },
+    {
+      "content": "あなたの為なら、死ねます。",
+      "furigana": "あなたの[為|ため]なら、[死|し]ねます。",
+      "translation_zh_CN": "我愿意为你而死。"
+    },
+    {
+      "content": "彼らは国の為に戦った。",
+      "furigana": "[彼|かれ]らは[国|くに]の[為|ため]に[戦|たたか]った。",
+      "translation_zh_CN": "他们为自己的国家而战。"
+    },
+    {
+      "content": "あなたの為にならないわ。",
+      "furigana": "あなたの[為|ため]にならないわ。",
+      "translation_zh_CN": "这不适合你。"
+    },
+    {
+      "content": "我々は自由の為に戦う。",
+      "furigana": "[我々|われわれ]は[自由|じ|ゆう]の[為|ため]に[戦|たたか]う。",
+      "translation_zh_CN": "我们为自由而战。"
+    },
+    {
+      "content": "あなたの為なら何でもします。",
+      "furigana": "あなたの[為|ため]なら[何|なん]でもします。",
+      "translation_zh_CN": "我会为你做任何事。"
+    },
+    {
+      "content": "私は着替える為に家に帰った。",
+      "furigana": "[私|わたし]は[着替|き|が]える[為|ため]に[家|いえ]に[帰|かえ]った。",
+      "translation_zh_CN": "我回家换衣服。"
+    },
+    {
+      "content": "それはまさに侵略行為だ。",
+      "furigana": "それはまさに[侵略|しん|りゃく][行為|こう|い]だ。",
+      "translation_zh_CN": "這跟侵略無異。"
+    },
+    {
+      "content": "試合は雨の為中止になった。",
+      "furigana": "[試合|し|あい]は[雨|あめ]の[為|ため][中止|ちゅう|し]になった。",
+      "translation_zh_CN": "比賽因為下雨取消了。"
+    },
+    {
+      "content": "あなたの為なら何でもします。",
+      "furigana": "あなたの[為|ため]なら[何|なん]でもします。",
+      "translation_zh_CN": "我會為你做任何事。"
+    },
+    {
+      "content": "今日の為替相場はいくらですか。",
+      "furigana": "[今日|きょう]の[為替|かわせ][相場|そう|ば]はいくらですか。",
+      "translation_zh_CN": "今天的匯率是多少？"
+    },
+    {
+      "content": "彼は自分の違法行為を恥じていない。",
+      "furigana": "[彼|かれ]は[自分|じ|ぶん]の[違法|い|ほう][行為|こう|い]を[恥|は]じていない。",
+      "translation_zh_CN": "他对自己的违法行为毫不羞耻。"
+    },
+    {
+      "content": "為せば成る、為さねば成らぬ何事も。",
+      "furigana": "[為|な]せば[成|な]る、[為|な]さねば[成|な]らぬ[何事|なに|ごと]も。",
+      "translation_zh_CN": "有志者事竟成。"
+    },
+    {
+      "content": "汚い行為の報いは必ず自分に返ってくる。",
+      "furigana": "[汚|きたな]い[行為|こう|い]の[報|むく]いは[必|かなら]ず[自分|じ|ぶん]に[返|かえ]ってくる。",
+      "translation_zh_CN": "善有善报，恶有恶报。"
+    },
+    {
+      "content": "ボート競技に参加する為に新チームが結成された。",
+      "furigana": "ボート[競技|きょう|ぎ]に[参加|さん|か]する[為|ため]に[新|しん]チームが[結成|けっ|せい]された。",
+      "translation_zh_CN": "为了参加划船比赛，一支新的队伍组成了。"
+    },
+    {
+      "content": "彼女の行為が正しかったなんて、私は言ってないよ。",
+      "furigana": "[彼女|かの|じょ]の[行為|こう|い]が[正|ただ]しかったなんて、[私|わたし]は[言|い]ってないよ。",
+      "translation_zh_CN": "我的意思不是她做得對。"
+    },
+    {
+      "content": "毎日時間通りに起きる為に、目覚ましを頼っている。",
+      "furigana": "[毎日|まい|にち][時間|じ|かん][通|どお]りに[起|お]きる[為|ため]に、[目覚|め|ざ]ましを[頼|たよ]っている。",
+      "translation_zh_CN": "每天早上我都要靠闹钟来按时叫醒我。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "成る",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "成る",
+          "reading": "なる"
+        },
+        {
+          "word": "為る",
+          "reading": "なる"
+        }
+      ]
+    },
+    {
+      "slug": "為替",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "為替",
+          "reading": "かわせ"
+        },
+        {
+          "word": "為替",
+          "reading": "かわし"
+        }
+      ]
+    },
+    {
+      "slug": "為さる",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "為さる",
+          "reading": "なさる"
+        },
+        {
+          "word": "爲さる",
+          "reading": "なさる"
+        }
+      ]
+    },
+    {
+      "slug": "為る",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "japanese": [
+        {
+          "word": "為る",
+          "reading": "する"
+        }
+      ]
+    },
+    {
+      "slug": "為す",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "成す",
+          "reading": "なす"
+        }
+      ]
+    },
+    {
+      "slug": "仕草",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仕草",
+          "reading": "しぐさ"
+        },
+        {
+          "word": "仕種",
+          "reading": "しぐさ"
+        },
+        {
+          "word": "為種",
+          "reading": "しぐさ"
+        }
+      ]
+    },
+    {
+      "slug": "仕来たり",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "仕来り",
+          "reading": "しきたり"
+        },
+        {
+          "word": "仕来たり",
+          "reading": "しきたり"
+        },
+        {
+          "word": "為来り",
+          "reading": "しきたり"
+        },
+        {
+          "word": "為来たり",
+          "reading": "しきたり"
+        }
+      ]
+    },
+    {
+      "slug": "為替相場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "為替相場",
+          "reading": "かわせそうば"
+        }
+      ]
+    },
+    {
+      "slug": "仕送り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仕送り",
+          "reading": "しおくり"
+        },
+        {
+          "word": "為送り",
+          "reading": "しおくり"
+        }
+      ]
+    },
+    {
+      "slug": "仕業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仕業",
+          "reading": "しわざ"
+        },
+        {
+          "word": "為業",
+          "reading": "しわざ"
+        }
+      ]
+    },
+    {
+      "slug": "成し遂げる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "成し遂げる",
+          "reading": "なしとげる"
+        },
+        {
+          "word": "為し遂げる",
+          "reading": "なしとげる"
+        }
+      ]
+    },
+    {
+      "slug": "し過ぎる",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "し過ぎる",
+          "reading": "しすぎる"
+        },
+        {
+          "word": "為過ぎる",
+          "reading": "しすぎる"
+        }
+      ]
+    },
+    {
+      "slug": "為さい",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "為さい",
+          "reading": "なさい"
+        }
+      ]
+    },
+    {
+      "slug": "し始める",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "し始める",
+          "reading": "しはじめる"
+        },
+        {
+          "word": "為始める",
+          "reading": "しはじめる"
+        },
+        {
+          "word": "仕始める",
+          "reading": "しはじめる"
+        }
+      ]
+    },
+    {
+      "slug": "為悪い",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "し難い",
+          "reading": "しにくい"
+        },
+        {
+          "word": "為悪い",
+          "reading": "しにくい"
+        },
+        {
+          "word": "為難い",
+          "reading": "しにくい"
+        },
+        {
+          "word": "し難い",
+          "reading": "しがたい"
+        },
+        {
+          "word": "為難い",
+          "reading": "しがたい"
+        }
+      ]
+    },
+    {
+      "slug": "し合う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "し合う",
+          "reading": "しあう"
+        },
+        {
+          "word": "為合う",
+          "reading": "しあう"
+        }
+      ]
+    },
+    {
+      "slug": "仕出かす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "仕出かす",
+          "reading": "しでかす"
+        },
+        {
+          "word": "為出来す",
+          "reading": "しでかす"
+        }
+      ]
+    },
+    {
+      "slug": "仕出す",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "し出す",
+          "reading": "しだす"
+        },
+        {
+          "word": "仕出す",
+          "reading": "しだす"
+        },
+        {
+          "word": "為出す",
+          "reading": "しだす"
+        }
+      ]
     }
   ]
 }

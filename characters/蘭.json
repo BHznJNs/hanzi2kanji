@@ -121,5 +121,208 @@
       "strokes": 3,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "蘭には日々の手入れが必要です。",
+      "furigana": "[蘭|らん]には[日々|ひび]の[手入|て|い]れが[必要|ひつ|よう]です。",
+      "translation_zh_CN": "兰花需要日常护理。"
+    },
+    {
+      "content": "瑞西は仏蘭西・伊太利・墺太利・独逸に囲まれている。",
+      "furigana": "[瑞|みず][西|にし]は[仏蘭西|ふらんす]・[伊太利|いたりあ]・[墺|おう][太|ふとし][利|とし]・[独逸|どいつ]に[囲|かこ]まれている。",
+      "translation_zh_CN": "瑞士位于法国、意大利、奥地利和德国之间。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "蘭学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭学",
+          "reading": "らんがく"
+        }
+      ]
+    },
+    {
+      "slug": "蘭州",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭州",
+          "reading": "らんしゅう"
+        }
+      ]
+    },
+    {
+      "slug": "蘭画",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭画",
+          "reading": "らんが"
+        }
+      ]
+    },
+    {
+      "slug": "蘭栽培法",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭栽培法",
+          "reading": "らんさいばいほう"
+        }
+      ]
+    },
+    {
+      "slug": "蘭国",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭国",
+          "reading": "らんこく"
+        }
+      ]
+    },
+    {
+      "slug": "蘭方医",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭方医",
+          "reading": "らんぽうい"
+        }
+      ]
+    },
+    {
+      "slug": "蘭貢",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭貢",
+          "reading": "ヤンゴン"
+        },
+        {
+          "word": "蘭貢",
+          "reading": "ラングーン"
+        }
+      ]
+    },
+    {
+      "slug": "卵塔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "卵塔",
+          "reading": "らんとう"
+        },
+        {
+          "word": "蘭塔",
+          "reading": "らんとう"
+        }
+      ]
+    },
+    {
+      "slug": "欄印",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭印",
+          "reading": "らんいん"
+        }
+      ]
+    },
+    {
+      "slug": "蘭虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭虫",
+          "reading": "らんちゅう"
+        },
+        {
+          "word": "蘭鋳",
+          "reading": "らんちゅう"
+        },
+        {
+          "reading": "ランチュウ"
+        }
+      ]
+    },
+    {
+      "slug": "蘭月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭月",
+          "reading": "らんげつ"
+        }
+      ]
+    },
+    {
+      "slug": "蘭語",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭語",
+          "reading": "らんご"
+        }
+      ]
+    },
+    {
+      "slug": "蘭方",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭方",
+          "reading": "らんぽう"
+        }
+      ]
+    },
+    {
+      "slug": "蘭領",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭領",
+          "reading": "らんりょう"
+        }
+      ]
+    },
+    {
+      "slug": "蘭人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭人",
+          "reading": "らんじん"
+        }
+      ]
+    },
+    {
+      "slug": "蘭学者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭学者",
+          "reading": "らんがくしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "蘭領印度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "蘭領印度",
+          "reading": "らんりょうインド"
+        },
+        {
+          "word": "蘭領インド",
+          "reading": "らんりょうインド"
+        }
+      ]
+    }
   ]
 }

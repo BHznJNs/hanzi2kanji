@@ -115,5 +115,226 @@
       "strokes": 1,
       "part": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "非常に繊細な問題だ。",
+      "furigana": "[非常|ひ|じょう]に[繊細|せん|さい]な[問題|もん|だい]だ。",
+      "translation_zh_CN": "這是條很微妙的問題。"
+    },
+    {
+      "content": "もっと繊維質を取りなさい。",
+      "furigana": "もっと[繊維|せん|い][質|しつ]を[取|と]りなさい。",
+      "translation_zh_CN": "你要吃多點含膳食纖維的食物。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "繊維",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "繊維",
+          "reading": "せんい"
+        },
+        {
+          "word": "線維",
+          "reading": "せんい"
+        }
+      ]
+    },
+    {
+      "slug": "千切り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "千切り",
+          "reading": "せんぎり"
+        },
+        {
+          "word": "繊切り",
+          "reading": "せんぎり"
+        }
+      ]
+    },
+    {
+      "slug": "繊細",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊細",
+          "reading": "せんさい"
+        }
+      ]
+    },
+    {
+      "slug": "繊維質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊維質",
+          "reading": "せんいしつ"
+        }
+      ]
+    },
+    {
+      "slug": "繊毛虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊毛虫",
+          "reading": "せんもうちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "繊毛平虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊毛平虫",
+          "reading": "せんもうひらむし"
+        },
+        {
+          "reading": "センモウヒラムシ"
+        }
+      ]
+    },
+    {
+      "slug": "繊毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊毛",
+          "reading": "せんもう"
+        }
+      ]
+    },
+    {
+      "slug": "繊維評価技術協議会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊維評価技術協議会",
+          "reading": "せんいひょうかぎじゅつきょうぎかい"
+        }
+      ]
+    },
+    {
+      "slug": "繊維工業構造改善事業協会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊維工業構造改善事業協会",
+          "reading": "せんいこうぎょうこうぞうかいぜんじぎょうきょうかい"
+        }
+      ]
+    },
+    {
+      "slug": "繊維癌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊維癌",
+          "reading": "せんいがん"
+        },
+        {
+          "word": "繊維がん",
+          "reading": "せんいがん"
+        }
+      ]
+    },
+    {
+      "slug": "繊巧",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊巧",
+          "reading": "せんこう"
+        }
+      ]
+    },
+    {
+      "slug": "繊維光学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊維光学",
+          "reading": "せんいこうがく"
+        }
+      ]
+    },
+    {
+      "slug": "繊指",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊指",
+          "reading": "せんし"
+        }
+      ]
+    },
+    {
+      "slug": "繊月",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊月",
+          "reading": "せんげつ"
+        }
+      ]
+    },
+    {
+      "slug": "繊維工場",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊維工場",
+          "reading": "せんいこうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "繊度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊度",
+          "reading": "せんど"
+        }
+      ]
+    },
+    {
+      "slug": "繊条",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊条",
+          "reading": "せんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "繊弱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊弱",
+          "reading": "せんじゃく"
+        }
+      ]
+    },
+    {
+      "slug": "繊維工業",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "繊維工業",
+          "reading": "せんいこうぎょう"
+        }
+      ]
+    }
   ]
 }

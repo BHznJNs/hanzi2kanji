@@ -45,7 +45,7 @@
         "se soumettre à",
         "se conformer à",
         "suivre",
-        "s\u0027ensuivre",
+        "s'ensuivre",
         "secondaire",
         "accessoire",
         "subordonné"
@@ -106,6 +106,289 @@
       "radical": "人",
       "startStroke": 8,
       "strokes": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "両親には従うべきだ。",
+      "furigana": "[両親|りょう|しん]には[従|したが]うべきだ。",
+      "translation_zh_CN": "你该听你父母的话。"
+    },
+    {
+      "content": "従兄弟が３人います。",
+      "furigana": "[従兄弟|いとこ]が[３人|さんにん]います。",
+      "translation_zh_CN": "我有三个堂兄。"
+    },
+    {
+      "content": "君は両親に従うべきだ。",
+      "furigana": "[君|きみ]は[両親|りょう|しん]に[従|したが]うべきだ。",
+      "translation_zh_CN": "你该听你父母的话。"
+    },
+    {
+      "content": "郷に入っては郷に従え。",
+      "furigana": "[郷|ごう]に[入|い]っては[郷|ごう]に[従|したが]え。",
+      "translation_zh_CN": "入乡随俗。"
+    },
+    {
+      "content": "彼らは私の意見に従った。",
+      "furigana": "[彼|かれ]らは[私|わたし]の[意見|い|けん]に[従|したが]った。",
+      "translation_zh_CN": "他們屈服於我的看法了。"
+    },
+    {
+      "content": "法律に従うのは我々の義務だ。",
+      "furigana": "[法律|ほう|りつ]に[従|したが]うのは[我々|われわれ]の[義務|ぎ|む]だ。",
+      "translation_zh_CN": "遵守法律是我們的義務。"
+    },
+    {
+      "content": "彼女の意見に従うほうがいい。",
+      "furigana": "[彼女|かの|じょ]の[意見|い|けん]に[従|したが]うほうがいい。",
+      "translation_zh_CN": "你最好听取他的意见。"
+    },
+    {
+      "content": "自分の心に従えばいいんだよ。",
+      "furigana": "[自分|じ|ぶん]の[心|こころ]に[従|したが]えばいいんだよ。",
+      "translation_zh_CN": "順著你的感覺走吧！"
+    },
+    {
+      "content": "食事療法にきちんと従うように。",
+      "furigana": "[食事|しょく|じ][療法|りょう|ほう]にきちんと[従|したが]うように。",
+      "translation_zh_CN": "重要的是要遵循嚴格的飲食控制。"
+    },
+    {
+      "content": "看護婦の指示に従ってください。",
+      "furigana": "[看護|かん|ご][婦|ふ]の[指示|し|じ]に[従|したが]ってください。",
+      "translation_zh_CN": "請遵循護士的指導。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "従って",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "従って",
+          "reading": "したがって"
+        }
+      ]
+    },
+    {
+      "slug": "従う",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "従う",
+          "reading": "したがう"
+        },
+        {
+          "word": "随う",
+          "reading": "したがう"
+        },
+        {
+          "word": "順う",
+          "reading": "したがう"
+        },
+        {
+          "word": "遵う",
+          "reading": "したがう"
+        }
+      ]
+    },
+    {
+      "slug": "従兄弟",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "従兄弟",
+          "reading": "いとこ"
+        },
+        {
+          "word": "従兄弟",
+          "reading": "じゅうけいてい"
+        }
+      ]
+    },
+    {
+      "slug": "従姉妹",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "従姉妹",
+          "reading": "いとこ"
+        },
+        {
+          "word": "従姉妹",
+          "reading": "じゅうしまい"
+        }
+      ]
+    },
+    {
+      "slug": "従業員",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "従業員",
+          "reading": "じゅうぎょういん"
+        }
+      ]
+    },
+    {
+      "slug": "従事",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "従事",
+          "reading": "じゅうじ"
+        }
+      ]
+    },
+    {
+      "slug": "従来",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "従来",
+          "reading": "じゅうらい"
+        }
+      ]
+    },
+    {
+      "slug": "従える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従える",
+          "reading": "したがえる"
+        },
+        {
+          "word": "随える",
+          "reading": "したがえる"
+        }
+      ]
+    },
+    {
+      "slug": "従属",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従属",
+          "reading": "じゅうぞく"
+        }
+      ]
+    },
+    {
+      "slug": "従順",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従順",
+          "reading": "じゅうじゅん"
+        },
+        {
+          "word": "柔順",
+          "reading": "じゅうじゅん"
+        }
+      ]
+    },
+    {
+      "slug": "従者",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従者",
+          "reading": "じゅうしゃ"
+        },
+        {
+          "word": "従者",
+          "reading": "じゅしゃ"
+        }
+      ]
+    },
+    {
+      "slug": "従前",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従前",
+          "reading": "じゅうぜん"
+        }
+      ]
+    },
+    {
+      "slug": "従兄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従兄",
+          "reading": "じゅうけい"
+        },
+        {
+          "word": "従兄",
+          "reading": "いとこ"
+        }
+      ]
+    },
+    {
+      "slug": "従犯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従犯",
+          "reading": "じゅうはん"
+        }
+      ]
+    },
+    {
+      "slug": "従弟",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従弟",
+          "reading": "じゅうてい"
+        },
+        {
+          "word": "従弟",
+          "reading": "いとこ"
+        }
+      ]
+    },
+    {
+      "slug": "従姉",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従姉",
+          "reading": "じゅうし"
+        },
+        {
+          "word": "従姉",
+          "reading": "いとこ"
+        }
+      ]
+    },
+    {
+      "slug": "従軍",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "従軍",
+          "reading": "じゅうぐん"
+        }
+      ]
     }
   ]
 }

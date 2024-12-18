@@ -71,5 +71,214 @@
       "startStroke": 11,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "それは言葉の綾にすぎない。",
+      "furigana": "それは[言葉|こと|ば]の[綾|あや]にすぎない。",
+      "translation_zh_CN": "这只是言语的暗示。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "彩なす",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "彩なす",
+          "reading": "あやなす"
+        },
+        {
+          "word": "綾なす",
+          "reading": "あやなす"
+        },
+        {
+          "word": "操す",
+          "reading": "あやなす"
+        }
+      ]
+    },
+    {
+      "slug": "綾織り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾織り",
+          "reading": "あやおり"
+        },
+        {
+          "word": "綾織",
+          "reading": "あやおり"
+        },
+        {
+          "word": "あや織り",
+          "reading": "あやおり"
+        }
+      ]
+    },
+    {
+      "slug": "綸子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綸子",
+          "reading": "りんず"
+        },
+        {
+          "word": "綾子",
+          "reading": "りんず"
+        }
+      ]
+    },
+    {
+      "slug": "綾綺殿",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾綺殿",
+          "reading": "りょうきでん"
+        }
+      ]
+    },
+    {
+      "slug": "綾織物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾織物",
+          "reading": "あやおりもの"
+        }
+      ]
+    },
+    {
+      "slug": "綾取り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾取り",
+          "reading": "あやとり"
+        },
+        {
+          "word": "あや取り",
+          "reading": "あやとり"
+        },
+        {
+          "word": "綾取",
+          "reading": "あやとり"
+        }
+      ]
+    },
+    {
+      "slug": "綾錦",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾錦",
+          "reading": "あやにしき"
+        }
+      ]
+    },
+    {
+      "slug": "綾竹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾竹",
+          "reading": "あやだけ"
+        }
+      ]
+    },
+    {
+      "slug": "綾戻し",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾戻し",
+          "reading": "あやもどし"
+        },
+        {
+          "word": "あや戻し",
+          "reading": "あやもどし"
+        },
+        {
+          "word": "アヤ戻し",
+          "reading": "あやもどし"
+        }
+      ]
+    },
+    {
+      "slug": "綾布",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾布",
+          "reading": "あやぬの"
+        }
+      ]
+    },
+    {
+      "slug": "綾杉状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾杉状",
+          "reading": "あやすぎじょう"
+        }
+      ]
+    },
+    {
+      "slug": "綾羅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾羅",
+          "reading": "りょうら"
+        }
+      ]
+    },
+    {
+      "slug": "綾絹",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾絹",
+          "reading": "あやぎぬ"
+        }
+      ]
+    },
+    {
+      "slug": "綾藺笠",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾藺笠",
+          "reading": "あやいがさ"
+        }
+      ]
+    },
+    {
+      "slug": "綾糸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾糸",
+          "reading": "あやいと"
+        }
+      ]
+    },
+    {
+      "slug": "綾を成して",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "綾をなして",
+          "reading": "あやをなして"
+        },
+        {
+          "word": "綾を成して",
+          "reading": "あやをなして"
+        }
+      ]
+    }
   ]
 }

@@ -64,5 +64,284 @@
       "startStroke": 2,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "まずその辺です。",
+      "furigana": "まずその[辺|へん]です。",
+      "translation_zh_CN": "首先，就是这样。"
+    },
+    {
+      "content": "あの辺で育ったの。",
+      "furigana": "あの[辺|へん]で[育|そだ]ったの。",
+      "translation_zh_CN": "我在那里长大。"
+    },
+    {
+      "content": "ここら辺の人？",
+      "furigana": "ここら[辺|へん]の[人|ひと]？",
+      "translation_zh_CN": "这附近的人？"
+    },
+    {
+      "content": "ここら辺の出身？",
+      "furigana": "ここら[辺|へん]の[出身|しゅっ|しん]？",
+      "translation_zh_CN": "你是这附近的吗？"
+    },
+    {
+      "content": "その辺にホチキスない？",
+      "furigana": "その[辺|へん]にホチキスない？",
+      "translation_zh_CN": "旁边不是有订书机吗？"
+    },
+    {
+      "content": "この辺に住んでるの？",
+      "furigana": "この[辺|へん]に[住|す]んでるの？",
+      "translation_zh_CN": "你住在这附近吗？"
+    },
+    {
+      "content": "その辺に誰かいる？",
+      "furigana": "その[辺|へん]に[誰|だれ]かいる？",
+      "translation_zh_CN": "周围有人吗？"
+    },
+    {
+      "content": "この辺は寒いよ。",
+      "furigana": "この[辺|へん]は[寒|さむ]いよ。",
+      "translation_zh_CN": "这里很冷。"
+    },
+    {
+      "content": "その辺で彼女を待とう。",
+      "furigana": "その[辺|へん]で[彼女|かの|じょ]を[待|ま]とう。",
+      "translation_zh_CN": "我们去那里等她吧。"
+    },
+    {
+      "content": "まあその辺でもぶらついてきましょう。",
+      "furigana": "まあその[辺|へん]でもぶらついてきましょう。",
+      "translation_zh_CN": "嗯，我们去那里逛逛吧。"
+    },
+    {
+      "content": "渡辺が名字です。",
+      "furigana": "[渡辺|わた|なべ]が[名字|みょう|じ]です。",
+      "translation_zh_CN": "渡边是我的姓。"
+    },
+    {
+      "content": "この辺臭うんだけど。",
+      "furigana": "この[辺|へん][臭|にお]うんだけど。",
+      "translation_zh_CN": "这一带很臭。"
+    },
+    {
+      "content": "彼の家は川辺にある。",
+      "furigana": "[彼|かれ]の[家|いえ]は[川辺|かわ|べ]にある。",
+      "translation_zh_CN": "他的房子在河邊。"
+    },
+    {
+      "content": "渡辺は、私の姓です。",
+      "furigana": "[渡辺|わた|なべ]は、[私|わたし]の[姓|せい]です。",
+      "translation_zh_CN": "渡边是我的姓。"
+    },
+    {
+      "content": "彼の家はこの辺りだよ。",
+      "furigana": "[彼|かれ]の[家|いえ]はこの[辺|あた]りだよ。",
+      "translation_zh_CN": "他家在这儿某处。"
+    },
+    {
+      "content": "この辺にポストってある？",
+      "furigana": "この[辺|へん]にポストってある？",
+      "translation_zh_CN": "這裏附近有沒有郵箱？"
+    },
+    {
+      "content": "彼の家はどこかこの辺だ。",
+      "furigana": "[彼|かれ]の[家|いえ]はどこかこの[辺|へん]だ。",
+      "translation_zh_CN": "他家在这儿某处。"
+    },
+    {
+      "content": "この辺にあると思います。",
+      "furigana": "この[辺|へん]にあると[思|おも]います。",
+      "translation_zh_CN": "好像就在这附近。"
+    },
+    {
+      "content": "六角形には辺が6本ある。",
+      "furigana": "[六角形|ろっ|かっ|けい]には[辺|へん]が[6|ろっ][本|ぽん]ある。",
+      "translation_zh_CN": "六边形有六条边。"
+    },
+    {
+      "content": "この町は浜辺が二つです。",
+      "furigana": "この[町|まち]は[浜辺|はま|べ]が[二|ふた]つです。",
+      "translation_zh_CN": "這座城市有兩個海灘。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "辺り",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "辺り",
+          "reading": "あたり"
+        }
+      ]
+    },
+    {
+      "slug": "辺境",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺境",
+          "reading": "へんきょう"
+        },
+        {
+          "word": "辺疆",
+          "reading": "へんきょう"
+        }
+      ]
+    },
+    {
+      "slug": "辺鄙",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺鄙",
+          "reading": "へんぴ"
+        },
+        {
+          "word": "辺ぴ",
+          "reading": "へんぴ"
+        }
+      ]
+    },
+    {
+      "slug": "辺地",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺地",
+          "reading": "へんち"
+        }
+      ]
+    },
+    {
+      "slug": "辺塞",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺塞",
+          "reading": "へんさい"
+        }
+      ]
+    },
+    {
+      "slug": "辺り構わず",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺り構わず",
+          "reading": "あたりかまわず"
+        }
+      ]
+    },
+    {
+      "slug": "辺幅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺幅",
+          "reading": "へんぷく"
+        }
+      ]
+    },
+    {
+      "slug": "辺り一面",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "あたり一面",
+          "reading": "あたりいちめん"
+        },
+        {
+          "word": "辺り一面",
+          "reading": "あたりいちめん"
+        }
+      ]
+    },
+    {
+      "slug": "辺線種",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺線種",
+          "reading": "へんせんしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "辺材",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺材",
+          "reading": "へんざい"
+        }
+      ]
+    },
+    {
+      "slug": "辺張",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺張",
+          "reading": "ペンチャン"
+        }
+      ]
+    },
+    {
+      "slug": "辺線幅倍率",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺線幅倍率",
+          "reading": "へんせんぷくばいりつ"
+        }
+      ]
+    },
+    {
+      "slug": "辺防",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺防",
+          "reading": "へんぼう"
+        }
+      ]
+    },
+    {
+      "slug": "辺縁系",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺縁系",
+          "reading": "へんえんけい"
+        }
+      ]
+    },
+    {
+      "slug": "辺上",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺上",
+          "reading": "へんじょう"
+        }
+      ]
+    },
+    {
+      "slug": "辺土",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "辺土",
+          "reading": "へんど"
+        }
+      ]
+    }
   ]
 }

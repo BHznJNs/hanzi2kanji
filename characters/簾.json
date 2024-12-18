@@ -86,5 +86,59 @@
       "startStroke": 16,
       "strokes": 1
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "簾戸",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簾戸",
+          "reading": "すど"
+        },
+        {
+          "word": "簀戸",
+          "reading": "すど"
+        }
+      ]
+    },
+    {
+      "slug": "簾貝",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簾貝",
+          "reading": "すだれがい"
+        },
+        {
+          "reading": "スダレガイ"
+        }
+      ]
+    },
+    {
+      "slug": "すだれ頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "すだれ頭",
+          "reading": "すだれあたま"
+        },
+        {
+          "word": "簾頭",
+          "reading": "すだれあたま"
+        }
+      ]
+    },
+    {
+      "slug": "簾コリメーター",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "簾コリメーター",
+          "reading": "すだれコリメーター"
+        }
+      ]
+    }
   ]
 }

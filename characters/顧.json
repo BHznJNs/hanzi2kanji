@@ -113,5 +113,226 @@
       "startStroke": 19,
       "strokes": 2
     }
+  ],
+  "sentences": [],
+  "usages": [
+    {
+      "slug": "顧みる",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "顧みる",
+          "reading": "かえりみる"
+        },
+        {
+          "word": "顧る",
+          "reading": "かえりみる"
+        }
+      ]
+    },
+    {
+      "slug": "顧客",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客",
+          "reading": "こきゃく"
+        },
+        {
+          "word": "顧客",
+          "reading": "こかく"
+        }
+      ]
+    },
+    {
+      "slug": "顧問",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧問",
+          "reading": "こもん"
+        }
+      ]
+    },
+    {
+      "slug": "顧問弁護士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧問弁護士",
+          "reading": "こもんべんごし"
+        }
+      ]
+    },
+    {
+      "slug": "顧客満足",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客満足",
+          "reading": "こかくまんぞく"
+        },
+        {
+          "word": "顧客満足",
+          "reading": "こきゃくまんぞく"
+        }
+      ]
+    },
+    {
+      "slug": "顧客層",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客層",
+          "reading": "こかくそう"
+        }
+      ]
+    },
+    {
+      "slug": "顧問官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧問官",
+          "reading": "こもんかん"
+        }
+      ]
+    },
+    {
+      "slug": "顧客志向",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客志向",
+          "reading": "こかくしこう"
+        },
+        {
+          "word": "顧客指向",
+          "reading": "こかくしこう"
+        }
+      ]
+    },
+    {
+      "slug": "顧問契約",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧問契約",
+          "reading": "こもんけいやく"
+        }
+      ]
+    },
+    {
+      "slug": "顧客満足度",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客満足度",
+          "reading": "こきゃくまんぞくど"
+        }
+      ]
+    },
+    {
+      "slug": "顧み",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧み",
+          "reading": "かえりみ"
+        }
+      ]
+    },
+    {
+      "slug": "顧慮",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧慮",
+          "reading": "こりょ"
+        }
+      ]
+    },
+    {
+      "slug": "顧眄",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧眄",
+          "reading": "こべん"
+        }
+      ]
+    },
+    {
+      "slug": "顧問団",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧問団",
+          "reading": "こもんだん"
+        }
+      ]
+    },
+    {
+      "slug": "顧客関係管理",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客関係管理",
+          "reading": "こきゃくかんけいかんり"
+        }
+      ]
+    },
+    {
+      "slug": "顧客リスト",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客リスト",
+          "reading": "こきゃくリスト"
+        }
+      ]
+    },
+    {
+      "slug": "顧客サービス",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客サービス",
+          "reading": "こきゃくサービス"
+        }
+      ]
+    },
+    {
+      "slug": "顧みて他を言う",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧みて他を言う",
+          "reading": "かえりみてたをいう"
+        }
+      ]
+    },
+    {
+      "slug": "顧客ニーズ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客ニーズ",
+          "reading": "こきゃくニーズ"
+        }
+      ]
+    },
+    {
+      "slug": "顧客ベース",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "顧客ベース",
+          "reading": "こかくベース"
+        }
+      ]
+    }
   ]
 }

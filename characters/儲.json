@@ -80,5 +80,196 @@
       "startStroke": 14,
       "strokes": 4
     }
+  ],
+  "sentences": [
+    {
+      "content": "この仕事は儲からないよ。",
+      "furigana": "この[仕事|し|ごと]は[儲|もう]からないよ。",
+      "translation_zh_CN": "这个工作没有酬劳。"
+    },
+    {
+      "content": "たくさんお金を儲けたい。",
+      "furigana": "たくさんお[金|かね]を[儲|もう]けたい。",
+      "translation_zh_CN": "我想赚很多钱。"
+    },
+    {
+      "content": "彼は株でかなり儲けている。",
+      "furigana": "[彼|かれ]は[株|かぶ]でかなり[儲|もう]けている。",
+      "translation_zh_CN": "他炒股賺很多錢。"
+    },
+    {
+      "content": "１ペニーの節約は１ペニーの儲け。",
+      "furigana": "[１|いち]ペニーの[節約|せつ|やく]は[１|いち]ペニーの[儲|もう]け。",
+      "translation_zh_CN": "省下了一分錢，就等於賺了一分錢。"
+    },
+    {
+      "content": "トムは金儲けのことしか頭にない。",
+      "furigana": "トムは[金儲|かね|もう]けのことしか[頭|あたま]にない。",
+      "translation_zh_CN": "汤姆只想着赚钱。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "儲け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲け",
+          "reading": "もうけ"
+        },
+        {
+          "word": "儲",
+          "reading": "もうけ"
+        }
+      ]
+    },
+    {
+      "slug": "儲ける",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "儲ける",
+          "reading": "もうける"
+        }
+      ]
+    },
+    {
+      "slug": "儲かる",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "japanese": [
+        {
+          "word": "儲かる",
+          "reading": "もうかる"
+        }
+      ]
+    },
+    {
+      "slug": "貯蓄",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "貯蓄",
+          "reading": "ちょちく"
+        },
+        {
+          "word": "儲蓄",
+          "reading": "ちょちく"
+        }
+      ]
+    },
+    {
+      "slug": "儲け話",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲け話",
+          "reading": "もうけばなし"
+        },
+        {
+          "word": "もうけ話",
+          "reading": "もうけばなし"
+        }
+      ]
+    },
+    {
+      "slug": "儲け口",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲け口",
+          "reading": "もうけぐち"
+        },
+        {
+          "word": "儲口",
+          "reading": "もうけぐち"
+        },
+        {
+          "word": "もうけ口",
+          "reading": "もうけぐち"
+        }
+      ]
+    },
+    {
+      "slug": "儲け役",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲け役",
+          "reading": "もうけやく"
+        },
+        {
+          "word": "儲役",
+          "reading": "もうけやく"
+        }
+      ]
+    },
+    {
+      "slug": "儲け物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲け物",
+          "reading": "もうけもの"
+        },
+        {
+          "word": "儲物",
+          "reading": "もうけもの"
+        },
+        {
+          "word": "もうけ物",
+          "reading": "もうけもの"
+        }
+      ]
+    },
+    {
+      "slug": "儲け主義",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲け主義",
+          "reading": "もうけしゅぎ"
+        }
+      ]
+    },
+    {
+      "slug": "儲位",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲位",
+          "reading": "ちょい"
+        }
+      ]
+    },
+    {
+      "slug": "儲かりまっか",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲かりまっか",
+          "reading": "もうかりまっか"
+        }
+      ]
+    },
+    {
+      "slug": "儲け付くで",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "儲け付くで",
+          "reading": "もうけづくで"
+        },
+        {
+          "word": "儲付くで",
+          "reading": "もうけづくで"
+        }
+      ]
+    }
   ]
 }

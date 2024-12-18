@@ -49,5 +49,343 @@
       "startStroke": 8,
       "strokes": 1
     }
+  ],
+  "sentences": [
+    {
+      "content": "スーツケースに紐を縛りつけなさい。",
+      "furigana": "スーツケースに[紐|ひも]を[縛|しば]りつけなさい。",
+      "translation_zh_CN": "将绳子系在手提箱上。"
+    },
+    {
+      "content": "靴ひもがとけた。",
+      "furigana": "[靴|くつ]ひもがとけた。",
+      "translation_zh_CN": "我的鞋带松了。"
+    },
+    {
+      "content": "維持費もバカにならない。",
+      "furigana": "[維持費|い|じ|ひ]もバカにならない。",
+      "translation_zh_CN": "维护费用也很合理。"
+    },
+    {
+      "content": "靴の紐を結びなさい。",
+      "furigana": "[靴|くつ]の[紐|ひも]を[結|むす]びなさい。",
+      "translation_zh_CN": "系好鞋带。"
+    },
+    {
+      "content": "明日という日もある。",
+      "furigana": "[明日|あした]という[日|ひ]もある。",
+      "translation_zh_CN": "还有一个日子叫明天。"
+    },
+    {
+      "content": "火元はなに？",
+      "furigana": "[火元|ひ|もと]はなに？",
+      "translation_zh_CN": "火灾的根源是什么？"
+    },
+    {
+      "content": "このひもは強い。",
+      "furigana": "このひもは[強|つよ]い。",
+      "translation_zh_CN": "这根弦很强。"
+    },
+    {
+      "content": "火元は何ですか？",
+      "furigana": "[火元|ひ|もと]は[何|なん]ですか？",
+      "translation_zh_CN": "火灾的根源是什么？"
+    },
+    {
+      "content": "靴ひもがほどけた。",
+      "furigana": "[靴|くつ]ひもがほどけた。",
+      "translation_zh_CN": "我的鞋带松了。"
+    },
+    {
+      "content": "トムは靴ひもが結べない。",
+      "furigana": "トムは[靴|くつ]ひもが[結|むす]べない。",
+      "translation_zh_CN": "汤姆不会系鞋带。"
+    },
+    {
+      "content": "靴の紐を結びなさい。",
+      "furigana": "[靴|くつ]の[紐|ひも]を[結|むす]びなさい。",
+      "translation_zh_CN": "系上鞋带。"
+    },
+    {
+      "content": "靴紐が解けていますよ。",
+      "furigana": "[靴|くつ][紐|ひも]が[解|と]けていますよ。",
+      "translation_zh_CN": "您的鞋帶散了。"
+    },
+    {
+      "content": "今月は財布の紐を締めなくちゃ。",
+      "furigana": "[今月|こん|げつ]は[財布|さい|ふ]の[紐|ひも]を[締|し]めなくちゃ。",
+      "translation_zh_CN": "我这个月要减少开支。"
+    },
+    {
+      "content": "そのボートは短い紐でつながれていた。",
+      "furigana": "そのボートは[短|みじか]い[紐|ひも]でつながれていた。",
+      "translation_zh_CN": "船被用短繩繫著。"
+    },
+    {
+      "content": "彼女はその小包にしっかりと紐をかけた。",
+      "furigana": "[彼女|かの|じょ]はその[小包|こ|づつみ]にしっかりと[紐|ひも]をかけた。",
+      "translation_zh_CN": "她用繩子把包裹緊緊綁好了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "紐育",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐育",
+          "reading": "ニューヨーク"
+        },
+        {
+          "word": "紐約",
+          "reading": "ニューヨーク"
+        },
+        {
+          "word": "新約克",
+          "reading": "ニューヨーク"
+        }
+      ]
+    },
+    {
+      "slug": "紐虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐虫",
+          "reading": "ひもむし"
+        },
+        {
+          "reading": "ヒモムシ"
+        }
+      ]
+    },
+    {
+      "slug": "紐革",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐革",
+          "reading": "ひもかわ"
+        }
+      ]
+    },
+    {
+      "slug": "紐歯鯨",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐歯鯨",
+          "reading": "ひもはくじら"
+        },
+        {
+          "reading": "ヒモハクジラ"
+        }
+      ]
+    },
+    {
+      "slug": "紐革饂飩",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐革饂飩",
+          "reading": "ひもかわうどん"
+        }
+      ]
+    },
+    {
+      "slug": "紐鏡",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐鏡",
+          "reading": "ひもかがみ"
+        }
+      ]
+    },
+    {
+      "slug": "繙く",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐解く",
+          "reading": "ひもとく"
+        },
+        {
+          "word": "繙く",
+          "reading": "ひもとく"
+        }
+      ]
+    },
+    {
+      "slug": "紐の端",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐の端",
+          "reading": "ひものはし"
+        }
+      ]
+    },
+    {
+      "slug": "ひも付き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ひも付き",
+          "reading": "ひもつき"
+        },
+        {
+          "word": "紐付き",
+          "reading": "ひもつき"
+        },
+        {
+          "word": "ひも付",
+          "reading": "ひもつき"
+        },
+        {
+          "word": "紐付",
+          "reading": "ひもつき"
+        },
+        {
+          "word": "ヒモ付き",
+          "reading": "ヒモつき"
+        },
+        {
+          "word": "ヒモ付",
+          "reading": "ヒモつき"
+        }
+      ]
+    },
+    {
+      "slug": "紐付き融資",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐付き融資",
+          "reading": "ひもつきゆうし"
+        }
+      ]
+    },
+    {
+      "slug": "紐付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐付け",
+          "reading": "ひもづけ"
+        },
+        {
+          "word": "ひも付け",
+          "reading": "ひもづけ"
+        },
+        {
+          "word": "紐づけ",
+          "reading": "ひもづけ"
+        }
+      ]
+    },
+    {
+      "slug": "紐鶏頭",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐鶏頭",
+          "reading": "ひもげいとう"
+        },
+        {
+          "reading": "ヒモゲイトウ"
+        }
+      ]
+    },
+    {
+      "slug": "紐帯",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐帯",
+          "reading": "ちゅうたい"
+        },
+        {
+          "word": "紐帯",
+          "reading": "じゅうたい"
+        }
+      ]
+    },
+    {
+      "slug": "紐作り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐作り",
+          "reading": "ひもづくり"
+        },
+        {
+          "word": "紐づくり",
+          "reading": "ひもづくり"
+        }
+      ]
+    },
+    {
+      "slug": "紐形動物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐形動物",
+          "reading": "ひもがたどうぶつ"
+        }
+      ]
+    },
+    {
+      "slug": "紐タイ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐タイ",
+          "reading": "ひもタイ"
+        }
+      ]
+    },
+    {
+      "slug": "ひも状",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "ひも状",
+          "reading": "ひもじょう"
+        },
+        {
+          "word": "紐状",
+          "reading": "ひもじょう"
+        }
+      ]
+    },
+    {
+      "slug": "紐づく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐づく",
+          "reading": "ひもづく"
+        },
+        {
+          "word": "紐付く",
+          "reading": "ひもづく"
+        },
+        {
+          "word": "ひも付く",
+          "reading": "ひもづく"
+        }
+      ]
+    },
+    {
+      "slug": "紐ネクタイ",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "紐ネクタイ",
+          "reading": "ひもネクタイ"
+        }
+      ]
+    }
   ]
 }

@@ -76,5 +76,248 @@
       "strokes": 2,
       "variant": true
     }
+  ],
+  "sentences": [
+    {
+      "content": "柔よく剛を制す。",
+      "furigana": "[柔|やわ]よく[剛|ごう]を[制|せい]す。",
+      "translation_zh_CN": "以灵活性控制刚度。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "強情",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強情",
+          "reading": "ごうじょう"
+        },
+        {
+          "word": "剛情",
+          "reading": "ごうじょう"
+        }
+      ]
+    },
+    {
+      "slug": "剛健",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛健",
+          "reading": "ごうけん"
+        }
+      ]
+    },
+    {
+      "slug": "剛性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛性",
+          "reading": "ごうせい"
+        }
+      ]
+    },
+    {
+      "slug": "剛速球",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛速球",
+          "reading": "ごうそっきゅう"
+        },
+        {
+          "word": "豪速球",
+          "reading": "ごうそっきゅう"
+        }
+      ]
+    },
+    {
+      "slug": "剛毅",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛毅",
+          "reading": "ごうき"
+        },
+        {
+          "word": "豪毅",
+          "reading": "ごうき"
+        }
+      ]
+    },
+    {
+      "slug": "剛柔流",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛柔流",
+          "reading": "ごうじゅうりゅう"
+        }
+      ]
+    },
+    {
+      "slug": "剛力",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強力",
+          "reading": "ごうりき"
+        },
+        {
+          "word": "剛力",
+          "reading": "ごうりき"
+        },
+        {
+          "word": "豪力",
+          "reading": "ごうりき"
+        }
+      ]
+    },
+    {
+      "slug": "豪腕",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豪腕",
+          "reading": "ごうわん"
+        },
+        {
+          "word": "剛腕",
+          "reading": "ごうわん"
+        }
+      ]
+    },
+    {
+      "slug": "強情っ張り",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "強情っ張り",
+          "reading": "ごうじょうっぱり"
+        },
+        {
+          "word": "強情っぱり",
+          "reading": "ごうじょうっぱり"
+        },
+        {
+          "word": "強情張",
+          "reading": "ごうじょうっぱり"
+        },
+        {
+          "word": "剛情張",
+          "reading": "ごうじょうっぱり"
+        }
+      ]
+    },
+    {
+      "slug": "剛体",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛体",
+          "reading": "ごうたい"
+        }
+      ]
+    },
+    {
+      "slug": "剛愎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛愎",
+          "reading": "ごうふく"
+        }
+      ]
+    },
+    {
+      "slug": "剛柔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛柔",
+          "reading": "ごうじゅう"
+        }
+      ]
+    },
+    {
+      "slug": "剛毅果断",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛毅果断",
+          "reading": "ごうきかだん"
+        }
+      ]
+    },
+    {
+      "slug": "剛毛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛毛",
+          "reading": "ごうもう"
+        }
+      ]
+    },
+    {
+      "slug": "剛果",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛果",
+          "reading": "ごうか"
+        }
+      ]
+    },
+    {
+      "slug": "剛勇無比",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛勇無比",
+          "reading": "ごうゆうむひ"
+        }
+      ]
+    },
+    {
+      "slug": "豪猛",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豪猛",
+          "reading": "ごうもう"
+        },
+        {
+          "word": "剛猛",
+          "reading": "ごうもう"
+        }
+      ]
+    },
+    {
+      "slug": "豪気",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "豪気",
+          "reading": "ごうき"
+        },
+        {
+          "word": "剛気",
+          "reading": "ごうき"
+        }
+      ]
+    },
+    {
+      "slug": "剛体力学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "剛体力学",
+          "reading": "ごうたいりきがく"
+        }
+      ]
+    }
   ]
 }

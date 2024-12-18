@@ -121,5 +121,351 @@
       "strokes": 1,
       "part": 2
     }
+  ],
+  "sentences": [
+    {
+      "content": "蒔かぬ種は生えない。",
+      "furigana": "[蒔|ま]かぬ[種|しゅ]は[生|は]えない。",
+      "translation_zh_CN": "不撒下的种子就不会生长。"
+    },
+    {
+      "content": "命の種はまかれた。",
+      "furigana": "[命|いのち]の[種|たね]はまかれた。",
+      "translation_zh_CN": "生命的种子已经播下。"
+    },
+    {
+      "content": "花と種を取り扱っています。",
+      "furigana": "[花|はな]と[種|たね]を[取|と]り[扱|あつか]っています。",
+      "translation_zh_CN": "我们出售鲜花和种子。"
+    },
+    {
+      "content": "庭に種をまきました。",
+      "furigana": "[庭|にわ]に[種|たね]をまきました。",
+      "translation_zh_CN": "我在花园里播下了种子。"
+    },
+    {
+      "content": "ひまわりの種買ったの？",
+      "furigana": "ひまわりの[種買|たね|か]ったの？",
+      "translation_zh_CN": "你买葵花籽了吗？"
+    },
+    {
+      "content": "老化現象の一種です。",
+      "furigana": "[老化現象|ろう|か|げん|しょう]の[一種|いっ|しゅ]です。",
+      "translation_zh_CN": "这是一种衰老现象。"
+    },
+    {
+      "content": "まいた種は自ら刈り取らなければならない。",
+      "furigana": "まいた[種|しゅ]は[自|みずか]ら[刈|か]り[取|と]らなければならない。",
+      "translation_zh_CN": "你必须收获你所播种的。"
+    },
+    {
+      "content": "ある種の鳥は飛べない。",
+      "furigana": "ある[種|たね]の[鳥|とり]は[飛|と]べない。",
+      "translation_zh_CN": "有些类型的鸟不能飞。"
+    },
+    {
+      "content": "まいた種は刈らねばならない。",
+      "furigana": "まいた[種|しゅ]は[刈|か]らねばならない。",
+      "translation_zh_CN": "你必须收获你所播种的。"
+    },
+    {
+      "content": "花と種を販売しています。",
+      "furigana": "[花|はな]と[種|たね]を[販売|はん|ばい]しています。",
+      "translation_zh_CN": "我们出售鲜花和种子。"
+    },
+    {
+      "content": "話題は多様多種だった。",
+      "furigana": "[話題|わ|だい]は[多様|た|よう][多種|た|しゅ]だった。",
+      "translation_zh_CN": "我們談了各種話題。"
+    },
+    {
+      "content": "彼は人種差別と戦った。",
+      "furigana": "[彼|かれ]は[人種|じん|しゅ][差別|さ|べつ]と[戦|たたか]った。",
+      "translation_zh_CN": "他反对种族歧视。"
+    },
+    {
+      "content": "君はいつも頭痛の種だ。",
+      "furigana": "[君|きみ]はいつも[頭痛|ず|つう]の[種|しゅ]だ。",
+      "translation_zh_CN": "你一直让我担心。"
+    },
+    {
+      "content": "彼は種々の方法を試みた。",
+      "furigana": "[彼|かれ]は[種々|しゅじゅ]の[方法|ほう|ほう]を[試|こころ]みた。",
+      "translation_zh_CN": "他嘗試了許多不同的方法。"
+    },
+    {
+      "content": "予防接種を受けに行った。",
+      "furigana": "[予防|よ|ぼう][接種|せっ|しゅ]を[受|う]けに[行|い]った。",
+      "translation_zh_CN": "我去打疫苗了。"
+    },
+    {
+      "content": "イルカは哺乳類の一種です。",
+      "furigana": "イルカは[哺乳類|ほ|にゅう|るい]の[一種|いっ|しゅ]です。",
+      "translation_zh_CN": "海豚是一種哺乳動物。"
+    },
+    {
+      "content": "「椎茸」はキノコの一種だ。",
+      "furigana": "「[椎茸|しい|たけ]」はキノコの[一種|いっ|しゅ]だ。",
+      "translation_zh_CN": "香菇是一種菌類。"
+    },
+    {
+      "content": "彼女は庭に野菜の種をまいた。",
+      "furigana": "[彼女|かの|じょ]は[庭|にわ]に[野菜|や|さい]の[種|たね]をまいた。",
+      "translation_zh_CN": "她在花园里种了一些菜。"
+    },
+    {
+      "content": "この種の冗談は好きじゃない。",
+      "furigana": "この[種|しゅ]の[冗談|じょう|だん]は[好|す]きじゃない。",
+      "translation_zh_CN": "我不喜歡那樣的玩笑。"
+    },
+    {
+      "content": "私はいろんな種類の本を読んだ。",
+      "furigana": "[私|わたし]はいろんな[種類|しゅ|るい]の[本|ほん]を[読|よ]んだ。",
+      "translation_zh_CN": "我已经读过很多种类的书了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "種類",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "種類",
+          "reading": "しゅるい"
+        }
+      ]
+    },
+    {
+      "slug": "種々",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "種々",
+          "reading": "しゅじゅ"
+        },
+        {
+          "word": "種々",
+          "reading": "くさぐさ"
+        },
+        {
+          "word": "種種",
+          "reading": "しゅじゅ"
+        },
+        {
+          "word": "種種",
+          "reading": "くさぐさ"
+        }
+      ]
+    },
+    {
+      "slug": "種子",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種子",
+          "reading": "しゅし"
+        }
+      ]
+    },
+    {
+      "slug": "素性",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "素性",
+          "reading": "すじょう"
+        },
+        {
+          "word": "素姓",
+          "reading": "すじょう"
+        },
+        {
+          "word": "種姓",
+          "reading": "すじょう"
+        },
+        {
+          "word": "素生",
+          "reading": "すじょう"
+        },
+        {
+          "word": "素性",
+          "reading": "そせい"
+        },
+        {
+          "word": "素生",
+          "reading": "そせい"
+        },
+        {
+          "word": "種姓",
+          "reading": "しゅせい"
+        },
+        {
+          "word": "種姓",
+          "reading": "しゅしょう"
+        },
+        {
+          "word": "素姓",
+          "reading": "すぞう"
+        }
+      ]
+    },
+    {
+      "slug": "種目",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種目",
+          "reading": "しゅもく"
+        }
+      ]
+    },
+    {
+      "slug": "種族",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種族",
+          "reading": "しゅぞく"
+        }
+      ]
+    },
+    {
+      "slug": "種蒔き",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種まき",
+          "reading": "たねまき"
+        },
+        {
+          "word": "種蒔き",
+          "reading": "たねまき"
+        },
+        {
+          "word": "種蒔",
+          "reading": "たねまき"
+        }
+      ]
+    },
+    {
+      "slug": "種痘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種痘",
+          "reading": "しゅとう"
+        }
+      ]
+    },
+    {
+      "slug": "種別",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種別",
+          "reading": "しゅべつ"
+        }
+      ]
+    },
+    {
+      "slug": "種類豊富",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種類豊富",
+          "reading": "しゅるいほうふ"
+        }
+      ]
+    },
+    {
+      "slug": "種付け",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種付け",
+          "reading": "たねつけ"
+        },
+        {
+          "word": "種付",
+          "reading": "たねつけ"
+        }
+      ]
+    },
+    {
+      "slug": "種馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種馬",
+          "reading": "たねうま"
+        }
+      ]
+    },
+    {
+      "slug": "種苗",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種苗",
+          "reading": "しゅびょう"
+        }
+      ]
+    },
+    {
+      "slug": "種智院大学",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種智院大学",
+          "reading": "しゅちいんだいがく"
+        }
+      ]
+    },
+    {
+      "slug": "種をまく",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種をまく",
+          "reading": "たねをまく"
+        },
+        {
+          "word": "種を蒔く",
+          "reading": "たねをまく"
+        },
+        {
+          "word": "種を撒く",
+          "reading": "たねをまく"
+        },
+        {
+          "word": "種を播く",
+          "reading": "たねをまく"
+        }
+      ]
+    },
+    {
+      "slug": "種牡馬",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種牡馬",
+          "reading": "しゅぼば"
+        }
+      ]
+    },
+    {
+      "slug": "種子植物",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "種子植物",
+          "reading": "しゅししょくぶつ"
+        }
+      ]
+    }
   ]
 }

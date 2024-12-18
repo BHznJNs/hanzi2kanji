@@ -84,5 +84,151 @@
       "startStroke": 16,
       "strokes": 3
     }
+  ],
+  "sentences": [
+    {
+      "content": "骨の髄まで冷えた。",
+      "furigana": "[骨|ほね]の[髄|ずい]まで[冷|ひ]えた。",
+      "translation_zh_CN": "这让我感到彻骨的寒冷。"
+    },
+    {
+      "content": "彼は骨の髄まで腐りきっている。",
+      "furigana": "[彼|かれ]は[骨|ほね]の[髄|ずい]まで[腐|くさ]りきっている。",
+      "translation_zh_CN": "他已经烂到骨头里了。"
+    },
+    {
+      "content": "彼は骨の髄まで日本人だ。",
+      "furigana": "[彼|かれ]は[骨|ほね]の[髄|ずい]まで[日本人|にっ|ぽん|じん]だ。",
+      "translation_zh_CN": "他是彻头彻尾的日本人。"
+    },
+    {
+      "content": "彼は骨の髄まで腐りきっている。",
+      "furigana": "[彼|かれ]は[骨|ほね]の[髄|ずい]まで[腐|くさ]りきっている。",
+      "translation_zh_CN": "他壞透了。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "髄膜炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄膜炎",
+          "reading": "ずいまくえん"
+        }
+      ]
+    },
+    {
+      "slug": "髄鞘",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄鞘",
+          "reading": "ずいしょう"
+        }
+      ]
+    },
+    {
+      "slug": "髄膜",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄膜",
+          "reading": "ずいまく"
+        }
+      ]
+    },
+    {
+      "slug": "髄脳",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄脳",
+          "reading": "ずいのう"
+        }
+      ]
+    },
+    {
+      "slug": "髄膜炎菌性髄膜炎",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄膜炎菌性髄膜炎",
+          "reading": "ずいまくえんきんせいずいまくえん"
+        }
+      ]
+    },
+    {
+      "slug": "髄膜腫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄膜腫",
+          "reading": "ずいまくしゅ"
+        }
+      ]
+    },
+    {
+      "slug": "螟虫",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "螟虫",
+          "reading": "ずいむし"
+        },
+        {
+          "word": "髄虫",
+          "reading": "ずいむし"
+        },
+        {
+          "word": "螟虫",
+          "reading": "めいちゅう"
+        }
+      ]
+    },
+    {
+      "slug": "髄液",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄液",
+          "reading": "ずいえき"
+        }
+      ]
+    },
+    {
+      "slug": "髄質",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄質",
+          "reading": "ずいしつ"
+        }
+      ]
+    },
+    {
+      "slug": "髄膜炎菌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄膜炎菌",
+          "reading": "ずいまくえんきん"
+        }
+      ]
+    },
+    {
+      "slug": "髄腔",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "髄腔",
+          "reading": "ずいこう"
+        },
+        {
+          "word": "髄腔",
+          "reading": "ずいくう"
+        }
+      ]
+    }
   ]
 }
