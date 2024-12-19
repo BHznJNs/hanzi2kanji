@@ -122,7 +122,8 @@ export class InputBox extends LitElement {
 
     @media screen and (min-width: 1024px) {
       input {
-        max-width: 20rem;
+        width: 12rem;
+        max-width: 12rem;
       }
       :host([show-result]) input {
         max-width: 8rem;

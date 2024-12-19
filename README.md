@@ -2,7 +2,7 @@
     <br />
     <img src="./public/favicon.svg" alt="hanzi2kanji Logo" width="160" height="160" />
     <h1>中文汉字→日本漢字</h1>
-    <p>一个专注于将中文汉字转换到日语中对应漢字的网页应用</p>
+    <p>一个专注于将中文汉字转换到日语中对应漢字的在线应用</p>
     <br />
     <br />
 </div>
