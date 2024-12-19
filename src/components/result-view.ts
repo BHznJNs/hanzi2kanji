@@ -10,8 +10,6 @@ import { furigana2ruby, kana2ruby, rubyFactory } from '../utils/toRuby'
 import { DirectiveResult } from 'lit/async-directive.js'
 import kana2romaji from '../utils/kana2romaji'
 
-const SEARCH_NOT_FOUND = null
-
 interface CharacterData {
   value: string
   strokes: string[]
@@ -441,7 +439,7 @@ export class ResultView extends LitElement {
   @state()
   private lastSearched: string = ''
   @state()
-  private searchResult: string[] | typeof SEARCH_NOT_FOUND = []
+  private searchResult: string[] = []
   @property(showResultProperty)
   /** @ts-ignored */
   private showResult = false
@@ -455,11 +453,12 @@ export class ResultView extends LitElement {
     const { searchQuery } = event.detail
     if (searchQuery === this.lastSearched) return
 
-    const dictionaryItem = dictionary.get(searchQuery[0])
-    if (dictionaryItem === undefined) {
-      this.searchResult = SEARCH_NOT_FOUND
-    } else {
-      this.searchResult = dictionaryItem
+    this.searchResult = []
+    for (const ch of searchQuery) {
+      const dictionaryItem = dictionary.get(ch)
+      if (dictionaryItem === undefined) continue
+      this.searchResult =
+        this.searchResult.concat(dictionaryItem)
     }
     this.lastSearched = searchQuery
   }
@@ -470,7 +469,7 @@ export class ResultView extends LitElement {
       <div class="container">
         <div class="scroll-view">
           ${
-            (this.searchResult === SEARCH_NOT_FOUND) 
+            (this.searchResult.length === 0) 
              ? notFound
              : this.searchResult.map(ch => html`
               <result-item
