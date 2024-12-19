@@ -141,6 +141,12 @@ export class InputBox extends LitElement {
     this.dispatchEvent(new SearchEvent(searchQuery))
   }, 100)
 
+  constructor() {
+    super()
+    window.addEventListener('load', () =>
+      this.inputRef.value?.focus())
+  }
+
   private clear() {
     this.inputRef.value!.value = ''
     this.dispatchEvent(new CustomEvent("clear"))
