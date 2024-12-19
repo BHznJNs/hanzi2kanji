@@ -128,6 +128,20 @@ export class ResultItem extends LitElement {
       user-select: none;
       font-size: 1.025rem;
     }
+    .usages {
+      display: flex;
+      flex-wrap: wrap;
+      flex-basis: 100%;
+      align-items: baseline;
+      row-gap: .4rem;
+    }
+    .usages .usage-item {
+      display: inline-flex;
+      align-items: baseline;
+    }
+    .show-more-usage-btn {
+      flex-basis: 100%;
+    }
     .usages .usage-item:not(:first-of-type)::before {
       content: "、"
     }
@@ -139,10 +153,12 @@ export class ResultItem extends LitElement {
     .show-more-sentence-btn {
       display: flex;
       width: fit-content;
-      margin-top: .6rem;
       align-items: center;
       user-select: none;
       cursor: pointer;
+    }
+    .show-more-sentence-btn {
+      margin-top: .6rem;
     }
     .sentences .sentence-list {
       display: flex;

@@ -115,6 +115,17 @@ export class InputBox extends LitElement {
       max-width: 6rem;
       padding-top: .6rem;
       padding-bottom: .6rem;
+      transition: max-width .3s,
+                  padding .3s;
+    }
+
+    @media screen and (min-width: 1024px) {
+      input {
+        max-width: 20rem;
+      }
+      :host([show-result]) input {
+        max-width: 8rem;
+      }
     }
   `, imgDarkInvert]
 

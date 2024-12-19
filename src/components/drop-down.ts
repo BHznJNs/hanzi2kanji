@@ -98,7 +98,9 @@ export class DropDown extends LitElement {
             <li class="dropped-item">🔗 源码</li>
           </a>
           <li class="dropped-item">👏 鸣谢</li>
-          <li class="dropped-item">🎁 捐赠</li>
+          <a href="https://github.com/BHznJNs/hanzi2kanji#🙏 鸣谢" target="blank_">
+            <li class="dropped-item">🎁 捐赠</li>
+          </a>
         </ul>
       </div>
     `

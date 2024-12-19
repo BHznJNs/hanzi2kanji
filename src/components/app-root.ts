@@ -1,5 +1,5 @@
 import { LitElement, css, html } from 'lit'
-import { customElement, property, state } from 'lit/decorators.js'
+import { customElement, property } from 'lit/decorators.js'
 import { Ref, ref } from 'lit/directives/ref.js'
 import { ResultView } from './result-view'
 import { NotationToggleEvent, SearchEvent } from '../utils/events'
