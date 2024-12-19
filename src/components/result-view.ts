@@ -160,6 +160,10 @@ export class ResultItem extends LitElement {
     .show-more-sentence-btn {
       margin-top: .6rem;
     }
+    .sentences b {
+      display: block;
+      margin-bottom: .2rem;
+    }
     .sentences .sentence-list {
       display: flex;
       flex-direction: column;
@@ -366,6 +370,9 @@ export class ResultView extends LitElement {
       box-shadow: var(--shadow-md-2);
     }
     .scroll-view {
+      display: flex;
+      flex-direction: column;
+      row-gap: 4rem;
       width: 100%;
       height: 100%;
       padding: 2rem;

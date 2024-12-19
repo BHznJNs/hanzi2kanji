@@ -36,6 +36,7 @@ export class InputBox extends LitElement {
     }
 
     .logo {
+      display: flex;
       width: 3.6rem;
       height: 3.6rem;
       border-radius: 1.8rem;
