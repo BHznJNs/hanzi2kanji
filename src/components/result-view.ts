@@ -53,14 +53,25 @@ export class ResultItem extends LitElement {
     .char-info {
       display: grid;
       column-gap: 1rem;
-      grid-template-columns: auto 1fr;
+      row-gap: 1rem;
+      grid-template-rows: auto auto auto;
+      grid-template-areas: "char"
+                           "pron"
+                           "info";
     }
-    @media screen and (min-width: 800px) {
+    @media screen and (min-width: 768px) {
       .char-info {
         column-gap: 1.6rem;
+        grid-template-rows: auto 1fr;
+        grid-template-columns: auto 1fr;
+        grid-template-areas: "char pron"
+                             "char info";
       }
     }
 
+    .character-container {
+      grid-area: char;
+    }
     .character-box {
       position: relative;
       background-color: var(--character-bg-color);
@@ -90,10 +101,11 @@ export class ResultItem extends LitElement {
       background-color: var(--character-crossing-color);
     }
     .character {
+      --size: 10rem;
       position: relative;
-      width: 10rem;
+      width: var(--size);
       line-height: 1;
-      font-size: 10rem;
+      font-size: var(--size);
       font-family: var(--chinese-serif-font);
     }
     .character-actions {
@@ -101,30 +113,37 @@ export class ResultItem extends LitElement {
       gap: 1rem;
       margin-top: 1rem;
     }
-
-    @media screen and (max-width: 680px) {
+    @media screen and (max-width: 767px) {
+      .character-box {
+        margin: 0 auto;
+      }
       .character {
-        width: 7.5rem;
-        font-size: 7.5rem;
+        --size: 16rem;
       }
       .character-actions {
-        gap: 0;
-        justify-content: space-between;
-      }
-      .character-actions .action-btn {
-        padding: .25rem .4rem;
-        font-size: .825rem;
+        justify-content: center;
       }
     }
 
+    .pronunciation {
+      display: flex;
+      align-items: baseline;
+      column-gap: 1rem;
+      row-gap: .4rem;
+      flex-wrap: wrap;
+      height: fit-content;
+      grid-area: pron;
+    }
+
     .informations {
+      grid-area: info;
       display: flex;
       gap: 1rem;
       flex-wrap: wrap;
       align-items: baseline;
       height: fit-content;
     }
-    .informations b {
+    b {
       user-select: none;
       font-size: 1.025rem;
     }
@@ -142,7 +161,7 @@ export class ResultItem extends LitElement {
     .show-more-usage-btn {
       flex-basis: 100%;
     }
-    .usages .usage-item:not(:first-of-type)::before {
+    .usages .usage-item:not(:last-of-type)::after {
       content: "、"
     }
     :host(:not([show-more-usage])) .usage-item:nth-child(n+6),
@@ -256,9 +275,10 @@ export class ResultItem extends LitElement {
           </div>
         </div>
 
-        <div class="informations">
+        <div class="pronunciation">
           ${this.loadCharData.render({
             pending: () => html`<p>加载中...</p>`,
+            error: () => html`<p>发音信息加载失败，请重试。</p>`,
             complete: (data: CharacterData) => {
               const fallbackText = '無'
               const splitText = '、'
@@ -282,7 +302,21 @@ export class ResultItem extends LitElement {
               }
               pronunciationOn = unsafeHTML(pronunciationOn as string)
               pronunciationKun = unsafeHTML(pronunciationKun as string)
+              return html`
+                <div class="on" ><b>音読：</b>${pronunciationOn }</div>
+                <div class="kun"><b>訓読：</b>${pronunciationKun}</div>
+              `
+            }
+          })}
+        </div>
 
+        <div class="informations">
+          ${this.loadCharData.render({
+            pending: () => html`<p>加载中...</p>`,
+            error: () => html`<p>发音信息加载失败，请重试。</p>`,
+            complete: (data: CharacterData) => {
+              const fallbackText = '無'
+              type TempHTML = string | DirectiveResult<typeof UnsafeHTMLDirective>
               let usages: TempHTML = fallbackText
               if (data.usages) {
                 usages = unsafeHTML(data.usages.map(({slug, japanese: [{ reading }]}) => {
@@ -307,8 +341,6 @@ export class ResultItem extends LitElement {
                 }).join(''))
               }
               return html`
-                <div class="on" ><b>音読：</b>${pronunciationOn }</div>
-                <div class="kun"><b>訓読：</b>${pronunciationKun}</div>
                 <div class="usages">
                   <b>用法：</b>
                   ${usages}
@@ -332,7 +364,6 @@ export class ResultItem extends LitElement {
                   `}
                 </div>
             `},
-            error: () => html`<p>发音信息加载失败，请重试。</p>`
           })}
         </div>
       </div>

@@ -17,6 +17,11 @@ export class NotationToggle extends LitElement {
                 padding .3s .3s,
                 font-size .3s .3s !important;
   }
+  :host([injected]) button {
+    width: 100%;
+    height: 100%;
+    border: none !important;
+  }
   :host([expand]) button {
     padding: .6rem .75rem;
     font-size: .875rem;

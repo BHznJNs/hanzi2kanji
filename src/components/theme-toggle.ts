@@ -17,6 +17,11 @@ export class ThemeToggle extends LitElement {
                 padding .3s .3s,
                 font-size .3s .3s !important;
   }
+  :host([injected]) button {
+    width: 100%;
+    height: 100%;
+    border: none !important;
+  }
   :host([expand]) button {
     padding: .6rem .75rem;
     font-size: .875rem;
@@ -67,6 +72,9 @@ export class ThemeToggle extends LitElement {
   @property({type: Boolean, reflect: true})
   /** @ts-ignored */
   private expand = false
+  @property({type: Boolean, reflect: true})
+  /** @ts-ignored */
+  private injected = false
 
   @state()
   private themeName = themeController.themeNameMap.get(themeController.getTheme())

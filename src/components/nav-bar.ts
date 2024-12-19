@@ -17,6 +17,12 @@ export class NavBar extends LitElement {
     :host([show-result]) {
       transform: translateX(-1rem) translateY(1rem);
     }
+    @media screen and (max-width: 767px) {
+      theme-toggle,
+      notation-toggle {
+        display: none;
+      }
+    }
   `]
 
   @property({type: Boolean, attribute: 'show-result', reflect: true})

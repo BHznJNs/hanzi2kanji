@@ -46,6 +46,8 @@ export class DropDown extends LitElement {
       height: 18px;
     }
     .dropped {
+      display: flex;
+      flex-direction: column;
       margin: 0;
       padding: 2px;
       border: solid 2px var(--dropdown-bd-color);
@@ -76,6 +78,19 @@ export class DropDown extends LitElement {
     .dropped-item:hover {
       background-color: var(--dropdown-hovered-bg-color);
     }
+
+    theme-toggle,
+    notation-toggle {
+      width: 100%;
+      align-self: center;
+      margin-bottom: .4rem;
+    }
+    @media screen and (min-width: 768px) {
+      theme-toggle,
+      notation-toggle {
+        display: none;
+      }
+    }
   `, imgDarkInvert, normalBtnStyles]
 
   @property({type: Boolean, reflect: true})
@@ -92,11 +107,10 @@ export class DropDown extends LitElement {
       >
         <img class="dark-invert" src="/more.svg" />
       </button>
-      <div
-        class="dropped-container"
-        @mouseleave=${() => this.dropped = false}
-      >
+      <div class="dropped-container">
         <ul class="dropped">
+          <theme-toggle injected></theme-toggle>
+          <notation-toggle injected></notation-toggle>
           <a href="https://github.com/BHznJNs/hanzi2kanji" target="blank_">
             <li class="dropped-item">🔗 源码</li>
           </a>
