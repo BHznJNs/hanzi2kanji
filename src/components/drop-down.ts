@@ -86,18 +86,21 @@ export class DropDown extends LitElement {
 
   render() {
     return html`
-      <button class="normal"
+      <button
+        class="normal"
         @click=${() => this.dropped = !this.dropped}
-        @blur=${() => setTimeout(() => this.dropped = false, 100)}
       >
         <img class="dark-invert" src="/more.svg" />
       </button>
-      <div class="dropped-container">
+      <div
+        class="dropped-container"
+        @mouseleave=${() => this.dropped = false}
+      >
         <ul class="dropped">
           <a href="https://github.com/BHznJNs/hanzi2kanji" target="blank_">
             <li class="dropped-item">🔗 源码</li>
           </a>
-          <li class="dropped-item">🎁 捐赠</li>
+            <li class="dropped-item">🎁 捐赠</li>
           <a href="https://github.com/BHznJNs/hanzi2kanji?tab=readme-ov-file#-%E9%B8%A3%E8%B0%A2" target="blank_">
             <li class="dropped-item">👏 鸣谢</li>
           </a>
