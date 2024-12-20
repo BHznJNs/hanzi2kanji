@@ -9,6 +9,7 @@ import { dictionary } from '../utils/loadDictionary'
 import { furigana2ruby, kana2ruby, rubyFactory } from '../utils/toRuby'
 import { DirectiveResult } from 'lit/async-directive.js'
 import kana2romaji from '../utils/kana2romaji'
+import { Ref, ref } from 'lit/directives/ref.js'
 
 interface CharacterData {
   value: string
@@ -205,8 +206,16 @@ export class ResultItem extends LitElement {
 
   `, imgDarkInvert, linkStyles, rubyStyles, actionBtnStyles]
 
+  private _character = ''
   @property({type: String})
-  character = ''
+  get character() { return this._character }
+  set character(ch: string) {
+    const oldValue = this._character
+    this._character = ch
+    this.requestUpdate('myProp', oldValue)
+    this.showMoreUsage = false
+    this.showMoreSentence = false
+  }
   @property({type: Boolean, attribute: 'show-more-usage', reflect: true})
   /** @ts-ignored */
   private showMoreUsage = false
@@ -449,6 +458,12 @@ export class ResultView extends LitElement {
   @property({type: Boolean})
   public romajiMode = false
 
+  private scrollViewRef: Ref<HTMLDivElement> = ref()
+
+  private resultUpdateCallback() {
+    this.scrollViewRef.value?.scrollTo({ top: 0 })
+  }
+
   private searchEventHandler(event: CustomEvent) {
     const { searchQuery } = event.detail
     if (searchQuery === this.lastSearched) return
@@ -460,6 +475,9 @@ export class ResultView extends LitElement {
       this.searchResult =
         this.searchResult.concat(dictionaryItem)
     }
+    if (this.searchResult.length) {
+      this.resultUpdateCallback()
+    }
     this.lastSearched = searchQuery
   }
 
@@ -467,7 +485,7 @@ export class ResultView extends LitElement {
     const notFound = html`<h1 class="not-found">未找到对应漢字</h1>`
     return html`
       <div class="container">
-        <div class="scroll-view">
+        <div class="scroll-view" ${ref(this.scrollViewRef)}>
           ${
             (this.searchResult.length === 0) 
              ? notFound
