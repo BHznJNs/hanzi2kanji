@@ -375,25 +375,25 @@ export class ResultItem extends LitElement {
                 <div class="usages">
                   <b>用法：</b>
                   ${usages}
-                  ${data.usages && data.usages.length > 4 && html`
+                  ${(data.usages && data.usages.length > 4) ? html`
                     <div class="ellipsis">……</div>
                     <div
                       class="show-more-usage-btn"
                       @click=${() => this.showMoreUsage = true}>
                       展开更多 <img class="dark-invert" src="/down.svg" />
                     </div>
-                  `}
+                  `: fallbackText}
                 </div>
                 <div class="sentences">
                   <b>例句：</b>
                   <div class="sentence-list">${sentences}</div>
-                  ${data.sentences && data.sentences.length > 2 && html`
+                  ${(data.sentences && data.sentences.length > 2) ? html`
                     <div
                       class="show-more-sentence-btn"
                       @click=${() => this.showMoreSentence = true}>
                       展开更多 <img class="dark-invert" src="/down.svg" />
                     </div>
-                  `}
+                  `: fallbackText}
                 </div>
             `},
           })}
