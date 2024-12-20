@@ -103,9 +103,11 @@ export class ResultItem extends LitElement {
       --size: 10rem;
       position: relative;
       width: var(--size);
+      margin-top: -.6rem;
+      padding-bottom: .6rem;
       line-height: 1;
       font-size: var(--size);
-      font-family: var(--chinese-serif-font);
+      font-family: var(--japanese-serif-font);
     }
     .character-actions {
       display: flex;
@@ -118,6 +120,8 @@ export class ResultItem extends LitElement {
       }
       .character {
         --size: 16rem;
+        margin-top: -1rem;
+        padding-bottom: 1rem;
       }
       .character-actions {
         justify-content: center;
@@ -138,6 +142,12 @@ export class ResultItem extends LitElement {
       display: flex;
       align-items: baseline;
       flex-wrap: wrap;
+    }
+    .pronunciation .on span,
+    .pronunciation .on ruby,
+    .pronunciation .kun span,
+    .pronunciation .kun ruty {
+      font-family: var(--japanese-sans-font);
     }
 
     .informations {
@@ -162,14 +172,19 @@ export class ResultItem extends LitElement {
     .usages .usage-item {
       display: inline-flex;
       align-items: baseline;
+      font-family: var(--japanese-sans-font);
     }
     .show-more-usage-btn {
       flex-basis: 100%;
+    }
+    .ellipsis {
+      display: inline;
     }
     .usages .usage-item:not(:last-of-type)::after {
       content: "、"
     }
     :host(:not([show-more-usage])) .usage-item:nth-child(n+6),
+    :host([show-more-usage]) .ellipsis,
     :host([show-more-usage]) .show-more-usage-btn {
       display: none;
     }
@@ -192,6 +207,9 @@ export class ResultItem extends LitElement {
       display: flex;
       flex-direction: column;
       row-gap: .6rem;
+    }
+    .sentences .origin {
+      font-family: var(--japanese-sans-font);
     }
     :host(:not([show-more-sentence])) .sentence-list > .sentence:nth-child(n+3),
     :host([show-more-sentence]) .show-more-sentence-btn {
@@ -290,7 +308,7 @@ export class ResultItem extends LitElement {
 
         <div class="pronunciation">
           ${this.loadCharData.render({
-            pending: () => html`<p>加载中...</p>`,
+            pending: () => html`<p>加载中……</p>`,
             error: () => html`<p>发音信息加载失败，请重试。</p>`,
             complete: (data: CharacterData) => {
               const fallbackText = '無'
@@ -316,8 +334,8 @@ export class ResultItem extends LitElement {
               pronunciationOn = unsafeHTML(pronunciationOn as string)
               pronunciationKun = unsafeHTML(pronunciationKun as string)
               return html`
-                <div class="on" ><b>音読：</b>${pronunciationOn }</div>
-                <div class="kun"><b>訓読：</b>${pronunciationKun}</div>
+                <div class="on" ><b>音读：</b>${pronunciationOn }</div>
+                <div class="kun"><b>训读：</b>${pronunciationKun}</div>
               `
             }
           })}
@@ -325,7 +343,7 @@ export class ResultItem extends LitElement {
 
         <div class="informations">
           ${this.loadCharData.render({
-            pending: () => html`<p>加载中...</p>`,
+            pending: () => html`<p>加载中……</p>`,
             error: () => html`<p>发音信息加载失败，请重试。</p>`,
             complete: (data: CharacterData) => {
               const fallbackText = '無'
@@ -358,6 +376,7 @@ export class ResultItem extends LitElement {
                   <b>用法：</b>
                   ${usages}
                   ${data.usages && data.usages.length > 4 && html`
+                    <div class="ellipsis">……</div>
                     <div
                       class="show-more-usage-btn"
                       @click=${() => this.showMoreUsage = true}>

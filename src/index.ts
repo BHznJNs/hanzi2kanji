@@ -5,6 +5,8 @@ import { ThemeToggle } from './components/theme-toggle.ts'
 import { InputBox } from './components/input-box.ts'
 import { ResultView } from './components/result-view.ts'
 import { DropDown } from './components/drop-down.ts'
+import "@fontsource/noto-sans-jp"
+import "@fontsource/noto-serif-jp"
 
 declare global {
   interface HTMLElementTagNameMap {
