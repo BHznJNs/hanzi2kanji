@@ -743,6 +743,12 @@
       height: fit-content;
       grid-area: pron;
     }
+    .pronunciation .on,
+    .pronunciation .kun {
+      display: flex;
+      align-items: baseline;
+      flex-wrap: wrap;
+    }
 
     .informations {
       grid-area: info;
