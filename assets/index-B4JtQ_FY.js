@@ -600,7 +600,7 @@
         </div>
 
         <div class="pronunciation">
-          ${this.loadCharData.render({pending:()=>g`<p>加载中...</p>`,error:()=>g`<p>发音信息加载失败，请重试。</p>`,complete:r=>{const t="無",e="、",i=n=>`<span>${n}</span>`;let s=t,o=t;return r.on&&(this.hiraganaMode?s=r.on.map(i).join(e):s=r.on.map(Ot).join(e)),r.kun&&(this.hiraganaMode?o=r.on.map(i).join(e):o=r.on.map(Ot).join(e)),s=W(s),o=W(o),g`
+          ${this.loadCharData.render({pending:()=>g`<p>加载中...</p>`,error:()=>g`<p>发音信息加载失败，请重试。</p>`,complete:r=>{const t="無",e="、",i=n=>`<span>${n}</span>`;let s=t,o=t;return r.on&&(this.hiraganaMode?s=r.on.map(i).join(e):s=r.on.map(Ot).join(e)),r.kun&&(this.hiraganaMode?o=r.kun.map(i).join(e):o=r.kun.map(Ot).join(e)),s=W(s),o=W(o),g`
                 <div class="on" ><b>音読：</b>${s}</div>
                 <div class="kun"><b>訓読：</b>${o}</div>
               `}})}
