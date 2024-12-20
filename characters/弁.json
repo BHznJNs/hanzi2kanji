@@ -1,0 +1,434 @@
+{
+  "value": "弁",
+  "strokes": [
+    "M52.05,10.75c0.2,0.88-0.05,2.25-0.52,3.01c-4.91,7.99-13.16,17.99-21.34,25.72c-2.48,2.34-2.01,4.29,1.68,3.51C41.25,41,60,37,73.69,34.09",
+    "M66.21,25.98c5.35,2.87,13.17,11.4,15.17,16.24",
+    "M13.88,63.48c3.75,0.77,6.66,0.58,9.75,0.28c16.75-1.63,44.02-4.51,62.75-5.32c3.21-0.14,6.6-0.04,9.75,0.64",
+    "M40.13,45.25c1.06,1.06,1.79,2.55,1.82,4.37c0.42,23.5-2.45,37.88-19.45,49.13",
+    "M66.62,42.25c0.94,0.94,1.46,2.38,1.46,3.5c0,4.25-0.05,33.74-0.07,47c0,3.12-0.01,5.34-0.01,6.12"
+  ],
+  "kun": [
+    "かんむり",
+    "わきま.える",
+    "わ.ける",
+    "はなびら",
+    "あらそ.う"
+  ],
+  "on": [
+    "ベン",
+    "ヘン"
+  ],
+  "frequency": 619,
+  "meanings": [
+    {
+      "lang": "en",
+      "values": [
+        "valve",
+        "petal",
+        "braid",
+        "speech",
+        "dialect",
+        "discrimination",
+        "dispose of",
+        "distinguish",
+        "conical cap"
+      ]
+    },
+    {
+      "lang": "fr",
+      "values": [
+        "éloquence",
+        "valve",
+        "pétale",
+        "tresse",
+        "dialecte",
+        "discernement",
+        "résoudre",
+        "distinguer"
+      ]
+    },
+    {
+      "lang": "es",
+      "values": [
+        "discurso",
+        "dialecto",
+        "distinguir",
+        "identificar",
+        "reembolsar",
+        "pétalo"
+      ]
+    },
+    {
+      "lang": "pt",
+      "values": [
+        "válvula",
+        "petala",
+        "trança",
+        "discurso",
+        "dialeto",
+        "discriminação",
+        "livrar-se de",
+        "distinguir"
+      ]
+    }
+  ],
+  "variantsFamily": "弁瓣辧辨辮辯",
+  "radicals": [
+    {
+      "radical": "厶",
+      "startStroke": 0,
+      "strokes": 2
+    },
+    {
+      "radical": "十",
+      "startStroke": 2,
+      "strokes": 1,
+      "part": 1
+    },
+    {
+      "radical": "廾",
+      "startStroke": 2,
+      "strokes": 3
+    },
+    {
+      "radical": "丿",
+      "startStroke": 3,
+      "strokes": 1
+    },
+    {
+      "radical": "十",
+      "startStroke": 4,
+      "strokes": 1,
+      "part": 2
+    }
+  ],
+  "sentences": [
+    {
+      "content": "大阪弁が大好きです。",
+      "furigana": "[大阪弁|おお|さか|べん]が[大好|だい|す]きです。",
+      "translation_zh_CN": "我喜欢大阪方言。"
+    },
+    {
+      "content": "関西弁が話せるようにマジでなりたい。",
+      "furigana": "[関西弁|かん|さい|べん]が[話|はな]せるようにマジでなりたい。",
+      "translation_zh_CN": "我真的很想能说关西话。"
+    },
+    {
+      "content": "彼女はあまりしゃべらないが、いったん口を開くと弁が立つ。",
+      "furigana": "[彼女|かの|じょ]はあまりしゃべらないが、いったん[口|くち]を[開|ひら]くと[弁|べん]が[立|た]つ。",
+      "translation_zh_CN": "她话不多，但一开口就说话了。"
+    },
+    {
+      "content": "母は弁護士です。",
+      "furigana": "[母|はは]は[弁護士|べん|ご|し]です。",
+      "translation_zh_CN": "我妈妈是律师。"
+    },
+    {
+      "content": "雄弁は銀、沈黙は金。",
+      "furigana": "[雄弁|ゆう|べん]は[銀|ぎん]、[沈黙|ちん|もく]は[金|きん]。",
+      "translation_zh_CN": "开口是银，沉默是金。"
+    },
+    {
+      "content": "私の母は弁護士です。",
+      "furigana": "[私|わたし]の[母|はは]は[弁護士|べん|ご|し]です。",
+      "translation_zh_CN": "我妈妈是律师。"
+    },
+    {
+      "content": "弁解の余地もないよ。",
+      "furigana": "[弁解|べん|かい]の[余地|よ|ち]もないよ。",
+      "translation_zh_CN": "我没有借口。"
+    },
+    {
+      "content": "弁護士はみんな嘘つきだ。",
+      "furigana": "[弁護士|べん|ご|し]はみんな[嘘|うそ]つきだ。",
+      "translation_zh_CN": "律师都是骗子。"
+    },
+    {
+      "content": "彼は娘を弁護士に嫁がせた。",
+      "furigana": "[彼|かれ]は[娘|むすめ]を[弁護士|べん|ご|し]に[嫁|とつ]がせた。",
+      "translation_zh_CN": "他把女儿嫁给了一个律师。"
+    },
+    {
+      "content": "弁護士はみんなウソつきだ。",
+      "furigana": "[弁護士|べん|ご|し]はみんなウソつきだ。",
+      "translation_zh_CN": "律师都是骗子。"
+    },
+    {
+      "content": "行動は言葉よりも雄弁に語る。",
+      "furigana": "[行動|こう|どう]は[言葉|こと|ば]よりも[雄弁|ゆう|べん]に[語|かた]る。",
+      "translation_zh_CN": "行动胜于雄辩。"
+    },
+    {
+      "content": "行動は言葉よりも雄弁である。",
+      "furigana": "[行動|こう|どう]は[言葉|こと|ば]よりも[雄弁|ゆう|べん]である。",
+      "translation_zh_CN": "行动胜于雄辩。"
+    },
+    {
+      "content": "行いは言葉よりも雄弁である。",
+      "furigana": "[行|おこな]いは[言葉|こと|ば]よりも[雄弁|ゆう|べん]である。",
+      "translation_zh_CN": "行动胜于雄辩。"
+    }
+  ],
+  "usages": [
+    {
+      "slug": "弁当",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "japanese": [
+        {
+          "word": "弁当",
+          "reading": "べんとう"
+        },
+        {
+          "word": "辨當",
+          "reading": "べんとう"
+        },
+        {
+          "word": "弁當",
+          "reading": "べんとう"
+        },
+        {
+          "word": "辨当",
+          "reading": "べんとう"
+        }
+      ]
+    },
+    {
+      "slug": "弁解",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "弁解",
+          "reading": "べんかい"
+        },
+        {
+          "word": "辯解",
+          "reading": "べんかい"
+        }
+      ]
+    },
+    {
+      "slug": "弁護",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "弁護",
+          "reading": "べんご"
+        },
+        {
+          "word": "辯護",
+          "reading": "べんご"
+        }
+      ]
+    },
+    {
+      "slug": "弁論",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "弁論",
+          "reading": "べんろん"
+        },
+        {
+          "word": "辯論",
+          "reading": "べんろん"
+        }
+      ]
+    },
+    {
+      "slug": "弁償",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "japanese": [
+        {
+          "word": "弁償",
+          "reading": "べんしょう"
+        },
+        {
+          "word": "辨償",
+          "reading": "べんしょう"
+        }
+      ]
+    },
+    {
+      "slug": "弁護士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁護士",
+          "reading": "べんごし"
+        }
+      ]
+    },
+    {
+      "slug": "弁明",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁明",
+          "reading": "べんめい"
+        },
+        {
+          "word": "辯明",
+          "reading": "べんめい"
+        },
+        {
+          "word": "辨明",
+          "reading": "べんめい"
+        }
+      ]
+    },
+    {
+      "slug": "弁護人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁護人",
+          "reading": "べんごにん"
+        }
+      ]
+    },
+    {
+      "slug": "弁える",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁える",
+          "reading": "わきまえる"
+        },
+        {
+          "word": "辨える",
+          "reading": "わきまえる"
+        }
+      ]
+    },
+    {
+      "slug": "弁舌",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁舌",
+          "reading": "べんぜつ"
+        },
+        {
+          "word": "辯舌",
+          "reading": "べんぜつ"
+        }
+      ]
+    },
+    {
+      "slug": "弁士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁士",
+          "reading": "べんし"
+        },
+        {
+          "word": "辯士",
+          "reading": "べんし"
+        }
+      ]
+    },
+    {
+      "slug": "弁当箱",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁当箱",
+          "reading": "べんとうばこ"
+        }
+      ]
+    },
+    {
+      "slug": "弁論大会",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁論大会",
+          "reading": "べんろんたいかい"
+        }
+      ]
+    },
+    {
+      "slug": "弁護依頼人",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁護依頼人",
+          "reading": "べんごいらいにん"
+        }
+      ]
+    },
+    {
+      "slug": "弁当屋",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁当屋",
+          "reading": "べんとうや"
+        }
+      ]
+    },
+    {
+      "slug": "弁理士",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁理士",
+          "reading": "べんりし"
+        }
+      ]
+    },
+    {
+      "slug": "弁慶",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁慶",
+          "reading": "べんけい"
+        },
+        {
+          "word": "辨慶",
+          "reading": "べんけい"
+        }
+      ]
+    },
+    {
+      "slug": "弁務官",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁務官",
+          "reading": "べんむかん"
+        },
+        {
+          "word": "辨務官",
+          "reading": "べんむかん"
+        }
+      ]
+    },
+    {
+      "slug": "弁済",
+      "jlpt": [],
+      "japanese": [
+        {
+          "word": "弁済",
+          "reading": "べんさい"
+        },
+        {
+          "word": "辨済",
+          "reading": "べんさい"
+        }
+      ]
+    }
+  ]
+}
