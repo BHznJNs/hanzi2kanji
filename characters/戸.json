@@ -106,7 +106,7 @@
     {
       "content": "１０戸が全焼した。",
       "furigana": "[１|][０|][戸|こ]が[全焼|ぜん|しょう]した。",
-      "translation_zh_CN": "十間房屋被燒毀了。"
+      "translation_zh_CN": "十间房屋被烧毁了。"
     },
     {
       "content": "僕は江戸っ子さ。",
@@ -121,12 +121,12 @@
     {
       "content": "戸を叩く音がした。",
       "furigana": "[戸|と]を[叩|たた]く[音|おと]がした。",
-      "translation_zh_CN": "我聽到了敲門聲。"
+      "translation_zh_CN": "我听到了敲门声。"
     },
     {
       "content": "井戸が干上がった。",
       "furigana": "[井戸|い|ど]が[干上|ひ|あ]がった。",
-      "translation_zh_CN": "這口井乾涸了。"
+      "translation_zh_CN": "这口井干涸了。"
     },
     {
       "content": "戸棚の中は見たよ。",
@@ -136,7 +136,7 @@
     {
       "content": "彼は戸の陰に隠れた。",
       "furigana": "[彼|かれ]は[戸|と]の[陰|かげ]に[隠|かく]れた。",
-      "translation_zh_CN": "他把自己藏在門後面。"
+      "translation_zh_CN": "他把自己藏在门后面。"
     },
     {
       "content": "戸外で運動しなさい。",
@@ -151,7 +151,7 @@
     {
       "content": "妹は昨日神戸へ行った。",
       "furigana": "[妹|いもうと]は[昨日|きのう][神戸|こう|べ]へ[行|い]った。",
-      "translation_zh_CN": "我妹妹昨天去神戶了。"
+      "translation_zh_CN": "我妹妹昨天去神户了。"
     }
   ],
   "usages": [

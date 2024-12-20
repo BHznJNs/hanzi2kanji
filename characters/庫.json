@@ -87,7 +87,7 @@
     {
       "content": "金庫に金を入れる。",
       "furigana": "[金庫|きん|こ]に[金|きん]を[入|い]れる。",
-      "translation_zh_CN": "我把錢放入保險櫃裡。"
+      "translation_zh_CN": "我把钱放入保险柜里。"
     },
     {
       "content": "車は車庫にあります。",
@@ -97,12 +97,12 @@
     {
       "content": "冷蔵庫が開いてるよ。",
       "furigana": "[冷蔵庫|れい|ぞう|こ]が[開|あ]いてるよ。",
-      "translation_zh_CN": "冰箱開著。"
+      "translation_zh_CN": "冰箱开著。"
     },
     {
       "content": "私は兵庫大学の学生です。",
       "furigana": "[私|わたし]は[兵庫|ひょう|ご][大学|だい|がく]の[学生|がく|せい]です。",
-      "translation_zh_CN": "我是個兵庫大學的學生。"
+      "translation_zh_CN": "我是个兵库大学的学生。"
     },
     {
       "content": "冷蔵庫からオレンジ出して。",
@@ -117,12 +117,12 @@
     {
       "content": "うちの冷蔵庫は故障している。",
       "furigana": "うちの[冷蔵庫|れい|ぞう|こ]は[故障|こ|しょう]している。",
-      "translation_zh_CN": "我們的冰箱壞了。"
+      "translation_zh_CN": "我们的冰箱坏了。"
     },
     {
       "content": "うちの冷蔵庫が故障している。",
       "furigana": "うちの[冷蔵庫|れい|ぞう|こ]が[故障|こ|しょう]している。",
-      "translation_zh_CN": "我們的冰箱壞了。"
+      "translation_zh_CN": "我们的冰箱坏了。"
     },
     {
       "content": "冷蔵庫には牛乳以外何もない。",

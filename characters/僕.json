@@ -153,12 +153,12 @@
     {
       "content": "僕は夜型なんだ。",
       "furigana": "[僕|ぼく]は[夜|よる][型|がた]なんだ。",
-      "translation_zh_CN": "我是個夜貓子。"
+      "translation_zh_CN": "我是个夜猫子。"
     },
     {
       "content": "僕は中に入ろう。",
       "furigana": "[僕|ぼく]は[中|なか]に[入|はい]ろう。",
-      "translation_zh_CN": "我會進去。"
+      "translation_zh_CN": "我会进去。"
     },
     {
       "content": "僕は左利きです。",
@@ -173,12 +173,12 @@
     {
       "content": "僕は歌い続けた。",
       "furigana": "[僕|ぼく]は[歌|うた]い[続|つづ]けた。",
-      "translation_zh_CN": "我繼續唱歌。"
+      "translation_zh_CN": "我继续唱歌。"
     },
     {
       "content": "僕は家にいるよ。",
       "furigana": "[僕|ぼく]は[家|いえ]にいるよ。",
-      "translation_zh_CN": "我會待在家裡。"
+      "translation_zh_CN": "我会待在家里。"
     },
     {
       "content": "僕はいい気分だ。",
@@ -188,17 +188,17 @@
     {
       "content": "僕の時計はどこだ？",
       "furigana": "[僕|ぼく]の[時計|と|けい]はどこだ？",
-      "translation_zh_CN": "我的手錶在哪裡？"
+      "translation_zh_CN": "我的手表在哪里？"
     },
     {
       "content": "僕が払っとこう。",
       "furigana": "[僕|ぼく]が[払|はら]っとこう。",
-      "translation_zh_CN": "我來付錢。"
+      "translation_zh_CN": "我来付钱。"
     },
     {
       "content": "僕はどこにいるの？",
       "furigana": "[僕|ぼく]はどこにいるの？",
-      "translation_zh_CN": "我在哪裡？"
+      "translation_zh_CN": "我在哪里？"
     }
   ],
   "usages": [

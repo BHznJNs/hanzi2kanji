@@ -133,32 +133,32 @@
     {
       "content": "私は５時頃起きた。",
       "furigana": "[私|わたし]は[５|ご][時|じ][頃|ごろ][起|お]きた。",
-      "translation_zh_CN": "我在五時左右起了床。"
+      "translation_zh_CN": "我在五时左右起了床。"
     },
     {
       "content": "いつ頃着きますか。",
       "furigana": "いつ[頃|ごろ][着|つ]きますか。",
-      "translation_zh_CN": "他們何時抵達?"
+      "translation_zh_CN": "他们何时抵达?"
     },
     {
       "content": "今頃にしては暖かい。",
       "furigana": "[今頃|いま|ごろ]にしては[暖|あたた]かい。",
-      "translation_zh_CN": "對一年的這個時候來說，天氣很溫暖。"
+      "translation_zh_CN": "对一年的这个时候来说，天气很温暖。"
     },
     {
       "content": "いつも何時頃に寝るの？",
       "furigana": "いつも[何|なん][時|じ][頃|ごろ]に[寝|ね]るの？",
-      "translation_zh_CN": "你通常甚麼時候上床睡覺？"
+      "translation_zh_CN": "你通常甚么时候上床睡觉？"
     },
     {
       "content": "１０時頃には寝ました。",
       "furigana": "[１０|じゅう][時|じ][頃|ごろ]には[寝|ね]ました。",
-      "translation_zh_CN": "我在10點左右去睡覺。"
+      "translation_zh_CN": "我在10点左右去睡觉。"
     },
     {
       "content": "彼女は近頃太ってきた。",
       "furigana": "[彼女|かの|じょ]は[近頃|ちか|ごろ][太|ふと]ってきた。",
-      "translation_zh_CN": "她最近變胖了。"
+      "translation_zh_CN": "她最近变胖了。"
     },
     {
       "content": "桜の花は今が見頃です。",
@@ -168,7 +168,7 @@
     {
       "content": "六時頃車で迎えにきます。",
       "furigana": "[六|ろく][時|じ][頃|ごろ][車|しゃ]で[迎|むか]えにきます。",
-      "translation_zh_CN": "我會在六點鐘左右接你。"
+      "translation_zh_CN": "我会在六点钟左右接你。"
     },
     {
       "content": "この頃とっても忙しいのよ！",
@@ -178,7 +178,7 @@
     {
       "content": "ご帰宅はいつ頃でしょうか？",
       "furigana": "ご[帰宅|き|たく]はいつ[頃|ごろ]でしょうか？",
-      "translation_zh_CN": "她甚麼時候回家？"
+      "translation_zh_CN": "她甚么时候回家？"
     }
   ],
   "usages": [

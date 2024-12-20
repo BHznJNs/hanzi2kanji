@@ -112,17 +112,17 @@
     {
       "content": "亀には歯が無いです。",
       "furigana": "[亀|かめ]には[歯|は]が[無|な]いです。",
-      "translation_zh_CN": "烏龜沒有牙齒。"
+      "translation_zh_CN": "乌龟没有牙齿。"
     },
     {
       "content": "亀には歯がありません。",
       "furigana": "[亀|かめ]には[歯|は]がありません。",
-      "translation_zh_CN": "烏龜沒有牙齒。"
+      "translation_zh_CN": "乌龟没有牙齿。"
     },
     {
       "content": "亀の甲より年の功、だよ。",
       "furigana": "[亀|かめ]の[甲|こう]より[年|とし]の[功|こう]、だよ。",
-      "translation_zh_CN": "經驗是最好的老師。"
+      "translation_zh_CN": "经验是最好的老师。"
     }
   ],
   "usages": [

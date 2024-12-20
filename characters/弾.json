@@ -170,7 +170,7 @@
     {
       "content": "ピアノが弾けますか。",
       "furigana": "ピアノが[弾|ひ]けますか。",
-      "translation_zh_CN": "你會彈鋼琴嗎？"
+      "translation_zh_CN": "你会弹钢琴吗？"
     },
     {
       "content": "ギターが弾けますか。",
@@ -185,7 +185,7 @@
     {
       "content": "ピアノは弾けますか。",
       "furigana": "ピアノは[弾|ひ]けますか。",
-      "translation_zh_CN": "你會彈鋼琴嗎？"
+      "translation_zh_CN": "你会弹钢琴吗？"
     },
     {
       "content": "オルガンが弾けますか？",
@@ -205,7 +205,7 @@
     {
       "content": "私はギターが弾けます。",
       "furigana": "[私|わたし]はギターが[弾|ひ]けます。",
-      "translation_zh_CN": "我會彈吉他。"
+      "translation_zh_CN": "我会弹吉他。"
     },
     {
       "content": "私はバイオリンを弾く。",
@@ -215,7 +215,7 @@
     {
       "content": "ショパンは弾けますよ。",
       "furigana": "ショパンは[弾|ひ]けますよ。",
-      "translation_zh_CN": "我會彈蕭邦。"
+      "translation_zh_CN": "我会弹萧邦。"
     }
   ],
   "usages": [

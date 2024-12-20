@@ -122,12 +122,12 @@
     {
       "content": "彼は義務を怠った。",
       "furigana": "[彼|かれ]は[義務|ぎ|む]を[怠|おこた]った。",
-      "translation_zh_CN": "他怠忽職守了。"
+      "translation_zh_CN": "他怠忽职守了。"
     },
     {
       "content": "まだ事務所にいるの？",
       "furigana": "まだ[事務所|じ|む|しょ]にいるの？",
-      "translation_zh_CN": "你還在辦公室裡嗎？"
+      "translation_zh_CN": "你还在办公室里吗？"
     },
     {
       "content": "任務完了しました。",
@@ -137,7 +137,7 @@
     {
       "content": "彼は職務怠慢だった。",
       "furigana": "[彼|かれ]は[職務|しょく|む][怠慢|たい|まん]だった。",
-      "translation_zh_CN": "他怠忽職守了。"
+      "translation_zh_CN": "他怠忽职守了。"
     },
     {
       "content": "彼は任務を完了した。",
@@ -147,7 +147,7 @@
     {
       "content": "彼女は義務を果たした。",
       "furigana": "[彼女|かの|じょ]は[義務|ぎ|む]を[果|は]たした。",
-      "translation_zh_CN": "她盡了自己的職責。"
+      "translation_zh_CN": "她尽了自己的职责。"
     },
     {
       "content": "彼は任務を成し遂げた。",
@@ -162,7 +162,7 @@
     {
       "content": "君は何時に勤務につくの？",
       "furigana": "[君|きみ]は[何時|いつ]に[勤務|きん|む]につくの？",
-      "translation_zh_CN": "你幾點值班?"
+      "translation_zh_CN": "你几点值班?"
     }
   ],
   "usages": [

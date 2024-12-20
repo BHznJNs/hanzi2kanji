@@ -151,7 +151,7 @@
     {
       "content": "宿題は終わったの？",
       "furigana": "[宿題|しゅく|だい]は[終|お]わったの？",
-      "translation_zh_CN": "你做完作業了嗎？"
+      "translation_zh_CN": "你做完作业了吗？"
     },
     {
       "content": "月曜日で問題ない？",
@@ -171,7 +171,7 @@
     {
       "content": "そこに問題がある。",
       "furigana": "そこに[問題|もん|だい]がある。",
-      "translation_zh_CN": "那就是問題所在。"
+      "translation_zh_CN": "那就是问题所在。"
     },
     {
       "content": "宿題をやりなさい。",

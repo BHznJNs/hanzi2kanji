@@ -129,7 +129,7 @@
     {
       "content": "彼の家は川辺にある。",
       "furigana": "[彼|かれ]の[家|いえ]は[川辺|かわ|べ]にある。",
-      "translation_zh_CN": "他的房子在河邊。"
+      "translation_zh_CN": "他的房子在河边。"
     },
     {
       "content": "渡辺は、私の姓です。",
@@ -144,7 +144,7 @@
     {
       "content": "この辺にポストってある？",
       "furigana": "この[辺|へん]にポストってある？",
-      "translation_zh_CN": "這裏附近有沒有郵箱？"
+      "translation_zh_CN": "这里附近有没有邮箱？"
     },
     {
       "content": "彼の家はどこかこの辺だ。",
@@ -164,7 +164,7 @@
     {
       "content": "この町は浜辺が二つです。",
       "furigana": "この[町|まち]は[浜辺|はま|べ]が[二|ふた]つです。",
-      "translation_zh_CN": "這座城市有兩個海灘。"
+      "translation_zh_CN": "这座城市有两个海滩。"
     }
   ],
   "usages": [

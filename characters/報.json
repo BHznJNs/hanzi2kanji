@@ -124,12 +124,12 @@
     {
       "content": "果報は寝て待て。",
       "furigana": "[果報|か|ほう]は[寝|ね]て[待|ま]て。",
-      "translation_zh_CN": "成功屬於耐心等待的人。"
+      "translation_zh_CN": "成功属于耐心等待的人。"
     },
     {
       "content": "ご一報ください。",
       "furigana": "ご[一報|いっ|ぽう]ください。",
-      "translation_zh_CN": "讓我知道。"
+      "translation_zh_CN": "让我知道。"
     },
     {
       "content": "火災警報が鳴った。",
@@ -144,7 +144,7 @@
     {
       "content": "報告書は提出したの？",
       "furigana": "[報告|ほう|こく][書|しょ]は[提出|てい|しゅつ]したの？",
-      "translation_zh_CN": "你交報告了嗎？"
+      "translation_zh_CN": "你交报告了吗？"
     },
     {
       "content": "火災報知器が鳴った。",
@@ -159,7 +159,7 @@
     {
       "content": "彼は報告書を書いた。",
       "furigana": "[彼|かれ]は[報告|ほう|こく][書|しょ]を[書|か]いた。",
-      "translation_zh_CN": "他寫了這份報告。"
+      "translation_zh_CN": "他写了这份报告。"
     },
     {
       "content": "今日は日報を書いてよ。",
@@ -169,7 +169,7 @@
     {
       "content": "彼は報告書を作文した。",
       "furigana": "[彼|かれ]は[報告|ほう|こく][書|しょ]を[作文|さく|ぶん]した。",
-      "translation_zh_CN": "他寫了這份報告。"
+      "translation_zh_CN": "他写了这份报告。"
     }
   ],
   "usages": [

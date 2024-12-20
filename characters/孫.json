@@ -126,12 +126,12 @@
     {
       "content": "あなたの孫はどこ？",
       "furigana": "あなたの[孫|まご]はどこ？",
-      "translation_zh_CN": "你的孫女在哪裡？"
+      "translation_zh_CN": "你的孙女在哪里？"
     },
     {
       "content": "孫はまだ赤ちゃんなのよ。",
       "furigana": "[孫|まご]はまだ[赤|あか]ちゃんなのよ。",
-      "translation_zh_CN": "我的孫子還是個嬰兒。"
+      "translation_zh_CN": "我的孙子还是个婴儿。"
     }
   ],
   "usages": [

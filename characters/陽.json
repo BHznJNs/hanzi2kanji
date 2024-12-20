@@ -177,7 +177,7 @@
     {
       "content": "太陽が大好きです。",
       "furigana": "[太陽|たい|よう]が[大好|だい|す]きです。",
-      "translation_zh_CN": "我很喜歡太陽。"
+      "translation_zh_CN": "我很喜欢太阳。"
     },
     {
       "content": "太陽が顔を出した。",
@@ -192,7 +192,7 @@
     {
       "content": "海から太陽が昇った。",
       "furigana": "[海|うみ]から[太陽|たい|よう]が[昇|のぼ]った。",
-      "translation_zh_CN": "太陽從海上升起了。"
+      "translation_zh_CN": "太阳从海上升起了。"
     },
     {
       "content": "太陽は冬には早く沈む。",
@@ -202,7 +202,7 @@
     {
       "content": "太陽が沈もうとしている。",
       "furigana": "[太陽|たい|よう]が[沈|しず]もうとしている。",
-      "translation_zh_CN": "太陽都要下山了。"
+      "translation_zh_CN": "太阳都要下山了。"
     }
   ],
   "usages": [

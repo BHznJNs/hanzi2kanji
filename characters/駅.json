@@ -136,7 +136,7 @@
     {
       "content": "今駅に着いたわ。",
       "furigana": "[今|いま][駅|えき]に[着|つ]いたわ。",
-      "translation_zh_CN": "我們剛到達車站。"
+      "translation_zh_CN": "我们刚到达车站。"
     },
     {
       "content": "駅はどこですか。",
@@ -156,17 +156,17 @@
     {
       "content": "私は駅まで歩いた。",
       "furigana": "[私|わたし]は[駅|えき]まで[歩|ある]いた。",
-      "translation_zh_CN": "我一直走到火車站。"
+      "translation_zh_CN": "我一直走到火车站。"
     },
     {
       "content": "駅はすぐ近くです。",
       "furigana": "[駅|えき]はすぐ[近|ちか]くです。",
-      "translation_zh_CN": "車站就在這裏附近。"
+      "translation_zh_CN": "车站就在这里附近。"
     },
     {
       "content": "駅はすぐそこです。",
       "furigana": "[駅|えき]はすぐそこです。",
-      "translation_zh_CN": "車站就在這裏附近。"
+      "translation_zh_CN": "车站就在这里附近。"
     },
     {
       "content": "私達は駅へ急いだ。",
@@ -176,12 +176,12 @@
     {
       "content": "僕は駅で彼に会った。",
       "furigana": "[僕|ぼく]は[駅|えき]で[彼|かれ]に[会|あ]った。",
-      "translation_zh_CN": "我在車站遇見他。"
+      "translation_zh_CN": "我在车站遇见他。"
     },
     {
       "content": "彼は次の駅で降りた。",
       "furigana": "[彼|かれ]は[次|つぎ]の[駅|えき]で[降|お]りた。",
-      "translation_zh_CN": "他在下一站下車了。"
+      "translation_zh_CN": "他在下一站下车了。"
     }
   ],
   "usages": [

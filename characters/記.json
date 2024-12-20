@@ -92,12 +92,12 @@
     {
       "content": "記憶にまだ新しい。",
       "furigana": "[記憶|き|おく]にまだ[新|あたら]しい。",
-      "translation_zh_CN": "我仍然記憶猶新。"
+      "translation_zh_CN": "我仍然记忆犹新。"
     },
     {
       "content": "君すごい記憶力だね。",
       "furigana": "[君|きみ]すごい[記憶|き|おく][力|りょく]だね。",
-      "translation_zh_CN": "你記性很好。"
+      "translation_zh_CN": "你记性很好。"
     },
     {
       "content": "記事を一つ書きたい。",
@@ -107,7 +107,7 @@
     {
       "content": "トムは記憶力がいい。",
       "furigana": "トムは[記憶|き|おく][力|りょく]がいい。",
-      "translation_zh_CN": "湯姆記憶力好。"
+      "translation_zh_CN": "汤姆记忆力好。"
     },
     {
       "content": "上記をご覧ください。",
@@ -127,7 +127,7 @@
     {
       "content": "君は簿記ができますか。",
       "furigana": "[君|きみ]は[簿記|ぼ|き]ができますか。",
-      "translation_zh_CN": "你會記帳嗎?"
+      "translation_zh_CN": "你会记帐吗?"
     },
     {
       "content": "彼はタイム誌の記者です。",
@@ -137,7 +137,7 @@
     {
       "content": "＆という記号は、ａｎｄを指す。",
       "furigana": "[＆|あんど]という[記号|き|ごう]は、[ａｎｄ|]を[指|さ]す。",
-      "translation_zh_CN": "「&」這個符號是「和」的意思。"
+      "translation_zh_CN": "「&」这个符号是「和」的意思。"
     }
   ],
   "usages": [

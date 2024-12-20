@@ -155,7 +155,7 @@
     {
       "content": "何か特別なことやるの？",
       "furigana": "[何|なに]か[特別|とく|べつ]なことやるの？",
-      "translation_zh_CN": "你在做什麼特別的事嗎？"
+      "translation_zh_CN": "你在做什么特别的事吗？"
     },
     {
       "content": "それなら話は別だよ。",
@@ -165,22 +165,22 @@
     {
       "content": "一緒にとか別々にとか？",
       "furigana": "[一緒|いっ|しょ]にとか[別々|べつべつ]にとか？",
-      "translation_zh_CN": "一起算還是分開算？"
+      "translation_zh_CN": "一起算还是分开算？"
     },
     {
       "content": "トムは特別な子です。",
       "furigana": "トムは[特別|とく|べつ]な[子|こ]です。",
-      "translation_zh_CN": "湯姆是個特別的孩子。"
+      "translation_zh_CN": "汤姆是个特别的孩子。"
     },
     {
       "content": "別々でお願いします。",
       "furigana": "[別々|べつべつ]でお[願|ねが]いします。",
-      "translation_zh_CN": "請讓我們分開付錢。"
+      "translation_zh_CN": "请让我们分开付钱。"
     },
     {
       "content": "別々に包んでください。",
       "furigana": "[別々|べつべつ]に[包|つつ]んでください。",
-      "translation_zh_CN": "請你分開包裝好嗎？"
+      "translation_zh_CN": "请你分开包装好吗？"
     },
     {
       "content": "別の物を見せて下さい。",

@@ -153,17 +153,17 @@
     {
       "content": "彼は犬の絵を書いた。",
       "furigana": "[彼|かれ]は[犬|いぬ]の[絵|え]を[書|か]いた。",
-      "translation_zh_CN": "他畫了一幅狗的畫。"
+      "translation_zh_CN": "他画了一幅狗的画。"
     },
     {
       "content": "彼は犬の絵を描いた。",
       "furigana": "[彼|かれ]は[犬|いぬ]の[絵|え]を[描|えが]いた。",
-      "translation_zh_CN": "他畫了一幅狗的畫。"
+      "translation_zh_CN": "他画了一幅狗的画。"
     },
     {
       "content": "僕、絵が下手なんだ。",
       "furigana": "[僕|ぼく]、[絵|え]が[下手|へた]なんだ。",
-      "translation_zh_CN": "我不擅長畫畫。"
+      "translation_zh_CN": "我不擅长画画。"
     },
     {
       "content": "彼女は壁を絵で飾った。",
@@ -173,22 +173,22 @@
     {
       "content": "彼はバラの絵を描いた。",
       "furigana": "[彼|かれ]はバラの[絵|え]を[描|えが]いた。",
-      "translation_zh_CN": "他畫了一幅玫瑰的畫。"
+      "translation_zh_CN": "他画了一幅玫瑰的画。"
     },
     {
       "content": "絵を描くのが苦手なの。",
       "furigana": "[絵|え]を[描|か]くのが[苦手|にが|て]なの。",
-      "translation_zh_CN": "我不擅長畫畫。"
+      "translation_zh_CN": "我不擅长画画。"
     },
     {
       "content": "壁には絵が掛かっている。",
       "furigana": "[壁|かべ]には[絵|え]が[掛|か]かっている。",
-      "translation_zh_CN": "牆上有一幅畫。"
+      "translation_zh_CN": "墙上有一幅画。"
     },
     {
       "content": "私は絵をかくのが苦手だ。",
       "furigana": "[私|わたし]は[絵|え]をかくのが[苦手|にが|て]だ。",
-      "translation_zh_CN": "我不擅長畫畫。"
+      "translation_zh_CN": "我不擅长画画。"
     }
   ],
   "usages": [

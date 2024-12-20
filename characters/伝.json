@@ -149,7 +149,7 @@
     {
       "content": "手伝ってくれるの？",
       "furigana": "[手伝|て|つだ]ってくれるの？",
-      "translation_zh_CN": "您能幫我嗎？"
+      "translation_zh_CN": "您能帮我吗？"
     },
     {
       "content": "伝染病が発生した。",
@@ -159,7 +159,7 @@
     {
       "content": "手伝ってください。",
       "furigana": "[手伝|て|つだ]ってください。",
-      "translation_zh_CN": "請幫助我。"
+      "translation_zh_CN": "请帮助我。"
     },
     {
       "content": "来て手伝って下さい。",
@@ -174,12 +174,12 @@
     {
       "content": "お手伝いしましょう。",
       "furigana": "お[手伝|て|つだ]いしましょう。",
-      "translation_zh_CN": "讓我來幫你吧。"
+      "translation_zh_CN": "让我来帮你吧。"
     },
     {
       "content": "手伝ってくれますか。",
       "furigana": "[手伝|て|つだ]ってくれますか。",
-      "translation_zh_CN": "可以幫我一個忙嗎?"
+      "translation_zh_CN": "可以帮我一个忙吗?"
     },
     {
       "content": "お手伝いしましょうか？",
@@ -189,12 +189,12 @@
     {
       "content": "手伝わせてください。",
       "furigana": "[手伝|て|つだ]わせてください。",
-      "translation_zh_CN": "讓我來幫你吧。"
+      "translation_zh_CN": "让我来帮你吧。"
     },
     {
       "content": "手伝ってもらえますか？",
       "furigana": "[手伝|て|つだ]ってもらえますか？",
-      "translation_zh_CN": "您能幫我嗎？"
+      "translation_zh_CN": "您能帮我吗？"
     }
   ],
   "usages": [

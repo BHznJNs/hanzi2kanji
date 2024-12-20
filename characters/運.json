@@ -143,17 +143,17 @@
     {
       "content": "幸運を祈ります。",
       "furigana": "[幸運|こう|うん]を[祈|いの]ります。",
-      "translation_zh_CN": "祝你好運。"
+      "translation_zh_CN": "祝你好运。"
     },
     {
       "content": "安全運転してね。",
       "furigana": "[安全|あん|ぜん][運転|うん|てん]してね。",
-      "translation_zh_CN": "安全地駕駛。"
+      "translation_zh_CN": "安全地驾驶。"
     },
     {
       "content": "車は運転できるの？",
       "furigana": "[車|くるま]は[運転|うん|てん]できるの？",
-      "translation_zh_CN": "你會駕車嗎？"
+      "translation_zh_CN": "你会驾车吗？"
     },
     {
       "content": "大金を運んでるの？",
@@ -163,17 +163,17 @@
     {
       "content": "運転したいです。",
       "furigana": "[運転|うん|てん]したいです。",
-      "translation_zh_CN": "我想開車。"
+      "translation_zh_CN": "我想开车。"
     },
     {
       "content": "彼は運転が上手だ。",
       "furigana": "[彼|かれ]は[運転|うん|てん]が[上手|じょう|ず]だ。",
-      "translation_zh_CN": "他擅長駕駛。"
+      "translation_zh_CN": "他擅长驾驶。"
     },
     {
       "content": "彼は運転が下手だ。",
       "furigana": "[彼|かれ]は[運転|うん|てん]が[下手|へた]だ。",
-      "translation_zh_CN": "他是個糟糕的司機。"
+      "translation_zh_CN": "他是个糟糕的司机。"
     },
     {
       "content": "私は運が良かった。",
@@ -188,7 +188,7 @@
     {
       "content": "あなたは運がいい。",
       "furigana": "あなたは[運|うん]がいい。",
-      "translation_zh_CN": "你們很幸運。"
+      "translation_zh_CN": "你们很幸运。"
     }
   ],
   "usages": [

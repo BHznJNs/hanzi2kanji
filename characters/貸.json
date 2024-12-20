@@ -104,7 +104,7 @@
     {
       "content": "耳を貸して下さい。",
       "furigana": "[耳|みみ]を[貸|か]して[下|くだ]さい。",
-      "translation_zh_CN": "請洗耳恭聽。"
+      "translation_zh_CN": "请洗耳恭听。"
     },
     {
       "content": "鉛筆貸してくんない？",
@@ -114,12 +114,12 @@
     {
       "content": "辞書貸してくれない？",
       "furigana": "[辞書|じ|しょ][貸|か]してくれない？",
-      "translation_zh_CN": "把你的字典借給我好嗎？"
+      "translation_zh_CN": "把你的字典借给我好吗？"
     },
     {
       "content": "お金は貸せません。",
       "furigana": "お[金|かね]は[貸|か]せません。",
-      "translation_zh_CN": "我不能借你任何錢。"
+      "translation_zh_CN": "我不能借你任何钱。"
     },
     {
       "content": "CDを貸したんだよ。",
@@ -134,12 +134,12 @@
     {
       "content": "一万円貸してくれない？",
       "furigana": "[一|いち][万|まん][円|えん][貸|か]してくれない？",
-      "translation_zh_CN": "你能借給我10000日元？"
+      "translation_zh_CN": "你能借给我10000日元？"
     },
     {
       "content": "ナイフを貸して下さい。",
       "furigana": "ナイフを[貸|か]して[下|くだ]さい。",
-      "translation_zh_CN": "請借我你的刀。"
+      "translation_zh_CN": "请借我你的刀。"
     },
     {
       "content": "車を貸してもらえますか。",

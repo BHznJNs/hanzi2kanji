@@ -159,7 +159,7 @@
     {
       "content": "歯が痛くて痛くて。",
       "furigana": "[歯|は]が[痛|いた]くて[痛|いた]くて。",
-      "translation_zh_CN": "我牙痛得厲害。"
+      "translation_zh_CN": "我牙痛得厉害。"
     },
     {
       "content": "彼は歯医者に行った。",
@@ -169,22 +169,22 @@
     {
       "content": "亀には歯が無いです。",
       "furigana": "[亀|かめ]には[歯|は]が[無|な]いです。",
-      "translation_zh_CN": "烏龜沒有牙齒。"
+      "translation_zh_CN": "乌龟没有牙齿。"
     },
     {
       "content": "歯医者さんが怖くて。",
       "furigana": "[歯医者|は|い|しゃ]さんが[怖|こわ]くて。",
-      "translation_zh_CN": "我怕牙醫。"
+      "translation_zh_CN": "我怕牙医。"
     },
     {
       "content": "歯医者に行かないと。",
       "furigana": "[歯医者|は|い|しゃ]に[行|い]かないと。",
-      "translation_zh_CN": "我要去看看牙醫了。"
+      "translation_zh_CN": "我要去看看牙医了。"
     },
     {
       "content": "歯茎から出血しますか。",
       "furigana": "[歯茎|は|ぐき]から[出血|しゅっ|けつ]しますか。",
-      "translation_zh_CN": "你的牙齦流血嗎？"
+      "translation_zh_CN": "你的牙龈流血吗？"
     }
   ],
   "usages": [

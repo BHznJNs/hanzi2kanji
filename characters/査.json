@@ -69,27 +69,27 @@
     {
       "content": "視力検査をします。",
       "furigana": "[視力|し|りょく][検査|けん|さ]をします。",
-      "translation_zh_CN": "我要來檢查你的視力。"
+      "translation_zh_CN": "我要来检查你的视力。"
     },
     {
       "content": "血液検査をしましょう。",
       "furigana": "[血液|けつ|えき][検査|けん|さ]をしましょう。",
-      "translation_zh_CN": "我希望你做血液檢查。"
+      "translation_zh_CN": "我希望你做血液检查。"
     },
     {
       "content": "その調査は進行中です。",
       "furigana": "その[調査|ちょう|さ]は[進行|しん|こう][中|ちゅう]です。",
-      "translation_zh_CN": "調查正在進行中。"
+      "translation_zh_CN": "调查正在进行中。"
     },
     {
       "content": "その事件は調査中です。",
       "furigana": "その[事件|じ|けん]は[調査|ちょう|さ][中|ちゅう]です。",
-      "translation_zh_CN": "他們正在調查這件事。"
+      "translation_zh_CN": "他们正在调查这件事。"
     },
     {
       "content": "超音波検査をしましょう。",
       "furigana": "[超|ちょう][音波|おん|ぱ][検査|けん|さ]をしましょう。",
-      "translation_zh_CN": "我想讓你接受超聲檢查。"
+      "translation_zh_CN": "我想让你接受超声检查。"
     },
     {
       "content": "警察は捜査を進めている。",
@@ -104,7 +104,7 @@
     {
       "content": "容疑者は捜査官にうそを言った。",
       "furigana": "[容疑|よう|ぎ][者|しゃ]は[捜査|そう|さ][官|かん]にうそを[言|い]った。",
-      "translation_zh_CN": "那嫌疑犯對偵察官撒了個謊。"
+      "translation_zh_CN": "那嫌疑犯对侦察官撒了个谎。"
     },
     {
       "content": "警察はその事故の原因を調査中である。",
@@ -114,7 +114,7 @@
     {
       "content": "血液検査を受けていただきたいのですが。",
       "furigana": "[血液|けつ|えき][検査|けん|さ]を[受|う]けていただきたいのですが。",
-      "translation_zh_CN": "我希望你做血液檢查。"
+      "translation_zh_CN": "我希望你做血液检查。"
     }
   ],
   "usages": [

@@ -121,7 +121,7 @@
     {
       "content": "いつ帰ってくるの？",
       "furigana": "いつ[帰|かえ]ってくるの？",
-      "translation_zh_CN": "你甚麼時候回來？"
+      "translation_zh_CN": "你甚么时候回来？"
     },
     {
       "content": "１０時に帰ります。",
@@ -156,7 +156,7 @@
     {
       "content": "父は明日帰ります。",
       "furigana": "[父|ちち]は[明日|あす][帰|かえ]ります。",
-      "translation_zh_CN": "父親明天就要回來了。"
+      "translation_zh_CN": "父亲明天就要回来了。"
     }
   ],
   "usages": [

@@ -149,7 +149,7 @@
     {
       "content": "彼は知識欲旺盛だ。",
       "furigana": "[彼|かれ]は[知識欲|ち|しき|よく][旺盛|おう|せい]だ。",
-      "translation_zh_CN": "他很有求知慾。"
+      "translation_zh_CN": "他很有求知欲。"
     },
     {
       "content": "彼とは面識がある。",
@@ -159,12 +159,12 @@
     {
       "content": "私は彼に面識がない。",
       "furigana": "[私|わたし]は[彼|かれ]に[面識|めん|しき]がない。",
-      "translation_zh_CN": "我不認識他。"
+      "translation_zh_CN": "我不认识他。"
     },
     {
       "content": "彼は知識に貪欲である。",
       "furigana": "[彼|かれ]は[知識|ち|しき]に[貪欲|どん|よく]である。",
-      "translation_zh_CN": "他很有求知慾。"
+      "translation_zh_CN": "他很有求知欲。"
     },
     {
       "content": "彼は常識に欠けている。",
@@ -184,7 +184,7 @@
     {
       "content": "彼はフランス語の知識が豊富だ。",
       "furigana": "[彼|かれ]はフランス[語|ご]の[知識|ち|しき]が[豊富|ほう|ふ]だ。",
-      "translation_zh_CN": "她很懂法語。"
+      "translation_zh_CN": "她很懂法语。"
     },
     {
       "content": "政治意識を育むには時間がかかる。",

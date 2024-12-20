@@ -113,7 +113,7 @@
     {
       "content": "紙は燃えやすい。",
       "furigana": "[紙|かみ]は[燃|も]えやすい。",
-      "translation_zh_CN": "紙易燃 。"
+      "translation_zh_CN": "纸易燃 。"
     },
     {
       "content": "彼から手紙がきた？",
@@ -148,12 +148,12 @@
     {
       "content": "手紙を書いている。",
       "furigana": "[手紙|て|がみ]を[書|か]いている。",
-      "translation_zh_CN": "我正在寫一封信。"
+      "translation_zh_CN": "我正在写一封信。"
     },
     {
       "content": "すぐに手紙書くよ。",
       "furigana": "すぐに[手紙|て|がみ][書|か]くよ。",
-      "translation_zh_CN": "我會盡快寫信給你。"
+      "translation_zh_CN": "我会尽快写信给你。"
     },
     {
       "content": "これは古い手紙だ。",

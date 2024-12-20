@@ -148,7 +148,7 @@
     {
       "content": "凍えるようだわ。",
       "furigana": "[凍|こご]えるようだわ。",
-      "translation_zh_CN": "天氣好冷。"
+      "translation_zh_CN": "天气好冷。"
     },
     {
       "content": "お肉凍ってるよ。",
@@ -163,7 +163,7 @@
     {
       "content": "その犬は凍死した。",
       "furigana": "その[犬|いぬ]は[凍死|とう|し]した。",
-      "translation_zh_CN": "狗被凍死了。"
+      "translation_zh_CN": "狗被冻死了。"
     },
     {
       "content": "かたく凍っている。",
@@ -173,12 +173,12 @@
     {
       "content": "水は摂氏０度で凍る。",
       "furigana": "[水|みず]は[摂氏|せっ|し][０|れい][度|ど]で[凍|こお]る。",
-      "translation_zh_CN": "水在攝氏0度時結成冰。"
+      "translation_zh_CN": "水在摄氏0度时结成冰。"
     },
     {
       "content": "水は華氏３２度で凍る。",
       "furigana": "[水|みず]は[華氏|か|し][３|][２|][度|ど]で[凍|こお]る。",
-      "translation_zh_CN": "水在華氏32度結成冰。"
+      "translation_zh_CN": "水在华氏32度结成冰。"
     },
     {
       "content": "水は凍ると固体になる。",

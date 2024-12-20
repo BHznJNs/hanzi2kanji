@@ -161,17 +161,17 @@
     {
       "content": "あれはあれの側です。",
       "furigana": "あれはあれの[側|がわ]です。",
-      "translation_zh_CN": "他在她的旁邊。"
+      "translation_zh_CN": "他在她的旁边。"
     },
     {
       "content": "通路側をお願いします。",
       "furigana": "[通路|つう|ろ][側|がわ]をお[願|ねが]いします。",
-      "translation_zh_CN": "麻煩給我走道邊的位置。"
+      "translation_zh_CN": "麻烦给我走道边的位置。"
     },
     {
       "content": "月の裏側は見えません。",
       "furigana": "[月|つき]の[裏側|うら|がわ]は[見|み]えません。",
-      "translation_zh_CN": "我們看不到月亮的另一邊。"
+      "translation_zh_CN": "我们看不到月亮的另一边。"
     },
     {
       "content": "ここでは右側通行です。",
@@ -181,7 +181,7 @@
     {
       "content": "彼は彼女の側にいます。",
       "furigana": "[彼|かれ]は[彼女|かの|じょ]の[側|そば]にいます。",
-      "translation_zh_CN": "他在她的旁邊。"
+      "translation_zh_CN": "他在她的旁边。"
     },
     {
       "content": "彼は反対側に近づいた。",
@@ -191,7 +191,7 @@
     {
       "content": "窓側の席をお願いします。",
       "furigana": "[窓側|まど|がわ]の[席|せき]をお[願|ねが]いします。",
-      "translation_zh_CN": "請給我靠窗口的位子。"
+      "translation_zh_CN": "请给我靠窗口的位子。"
     }
   ],
   "usages": [

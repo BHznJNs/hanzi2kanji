@@ -125,7 +125,7 @@
     {
       "content": "僕の時計はどこだ？",
       "furigana": "[僕|ぼく]の[時計|と|けい]はどこだ？",
-      "translation_zh_CN": "我的手錶在哪裡？"
+      "translation_zh_CN": "我的手表在哪里？"
     },
     {
       "content": "時計を盗まれた。",
@@ -135,22 +135,22 @@
     {
       "content": "時計が止まった。",
       "furigana": "[時計|と|けい]が[止|と]まった。",
-      "translation_zh_CN": "時鐘已經停止了。"
+      "translation_zh_CN": "时钟已经停止了。"
     },
     {
       "content": "余計なお世話だ。",
       "furigana": "[余計|よ|けい]なお[世話|せ|わ]だ。",
-      "translation_zh_CN": "這不關你的事。"
+      "translation_zh_CN": "这不关你的事。"
     },
     {
       "content": "時計買ったんだ。",
       "furigana": "[時計|と|けい][買|か]ったんだ。",
-      "translation_zh_CN": "我買了一只手錶。"
+      "translation_zh_CN": "我买了一只手表。"
     },
     {
       "content": "君の時計は合ってる？",
       "furigana": "[君|きみ]の[時計|と|けい]は[合|あ]ってる？",
-      "translation_zh_CN": "你的手錶準不準？"
+      "translation_zh_CN": "你的手表准不准？"
     },
     {
       "content": "余計なお世話するな！",

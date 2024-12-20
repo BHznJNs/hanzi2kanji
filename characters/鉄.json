@@ -131,7 +131,7 @@
     {
       "content": "地下鉄に乗ろう。",
       "furigana": "[地下鉄|ち|か|てつ]に[乗|の]ろう。",
-      "translation_zh_CN": "我們坐地鐵去吧。"
+      "translation_zh_CN": "我们坐地铁去吧。"
     },
     {
       "content": "金は鉄より重い。",
@@ -141,7 +141,7 @@
     {
       "content": "鉄は熱いうちに打て。",
       "furigana": "[鉄|てつ]は[熱|あつ]いうちに[打|う]て。",
-      "translation_zh_CN": "趁熱打鐵。"
+      "translation_zh_CN": "趁热打铁。"
     },
     {
       "content": "金は鉄よりも貴重だ。",
@@ -156,17 +156,17 @@
     {
       "content": "鉄の原子番号は26です。",
       "furigana": "[鉄|てつ]の[原子|げん|し][番号|ばん|ごう]は[26|にじゅうろく]です。",
-      "translation_zh_CN": "鐵的原子序數是二十六。"
+      "translation_zh_CN": "铁的原子序数是二十六。"
     },
     {
       "content": "カザンに地下鉄がある。",
       "furigana": "カザンに[地下鉄|ち|か|てつ]がある。",
-      "translation_zh_CN": "喀山有地鐵。"
+      "translation_zh_CN": "喀山有地铁。"
     },
     {
       "content": "地下鉄の路線図をください。",
       "furigana": "[地下鉄|ち|か|てつ]の[路線|ろ|せん][図|ず]をください。",
-      "translation_zh_CN": "給我一張地下鐵的路線圖好嗎？"
+      "translation_zh_CN": "给我一张地下铁的路线图好吗？"
     },
     {
       "content": "鉄は有用な金属元素である。",
@@ -176,7 +176,7 @@
     {
       "content": "地下鉄の地図をもらえますか？",
       "furigana": "[地下鉄|ち|か|てつ]の[地図|ち|ず]をもらえますか？",
-      "translation_zh_CN": "給我一張地下鐵的路線圖好嗎？"
+      "translation_zh_CN": "给我一张地下铁的路线图好吗？"
     }
   ],
   "usages": [

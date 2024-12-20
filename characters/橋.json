@@ -168,22 +168,22 @@
     {
       "content": "昔ここに橋があった。",
       "furigana": "[昔|むかし]ここに[橋|はし]があった。",
-      "translation_zh_CN": "以前這裡有一座橋。"
+      "translation_zh_CN": "以前这里有一座桥。"
     },
     {
       "content": "あの橋は大変美しい。",
       "furigana": "あの[橋|はし]は[大変|たい|へん][美|うつく]しい。",
-      "translation_zh_CN": "那座橋很漂亮。"
+      "translation_zh_CN": "那座桥很漂亮。"
     },
     {
       "content": "彼らは川に橋をかけた。",
       "furigana": "[彼|かれ]らは[川|かわ]に[橋|はし]をかけた。",
-      "translation_zh_CN": "他們建了一座橫跨河流的橋。"
+      "translation_zh_CN": "他们建了一座横跨河流的桥。"
     },
     {
       "content": "兵隊が橋を見張っていた。",
       "furigana": "[兵隊|へい|たい]が[橋|はし]を[見張|み|は]っていた。",
-      "translation_zh_CN": "士兵們守衛著這座橋。"
+      "translation_zh_CN": "士兵们守卫著这座桥。"
     },
     {
       "content": "池には橋がかかっている。",
@@ -193,7 +193,7 @@
     {
       "content": "この橋はじょうぶそうだ。",
       "furigana": "この[橋|はし]はじょうぶそうだ。",
-      "translation_zh_CN": "這座橋看起來很安全。"
+      "translation_zh_CN": "这座桥看起来很安全。"
     },
     {
       "content": "橋まで一緒に行きましょう。",
@@ -203,7 +203,7 @@
     {
       "content": "かつてはここに橋があった。",
       "furigana": "かつてはここに[橋|はし]があった。",
-      "translation_zh_CN": "以前這裡有一座橋。"
+      "translation_zh_CN": "以前这里有一座桥。"
     }
   ],
   "usages": [

@@ -77,17 +77,17 @@
     {
       "content": "僕が払っとこう。",
       "furigana": "[僕|ぼく]が[払|はら]っとこう。",
-      "translation_zh_CN": "我來付錢。"
+      "translation_zh_CN": "我来付钱。"
     },
     {
       "content": "彼は咳払いをした。",
       "furigana": "[彼|かれ]は[咳払|せき|ばら]いをした。",
-      "translation_zh_CN": "他清了清喉嚨。"
+      "translation_zh_CN": "他清了清喉咙。"
     },
     {
       "content": "私が払いましょう。",
       "furigana": "[私|わたし]が[払|はら]いましょう。",
-      "translation_zh_CN": "我來付錢。"
+      "translation_zh_CN": "我来付钱。"
     },
     {
       "content": "いくら払いましたか？",
@@ -117,12 +117,12 @@
     {
       "content": "カードで支払えますか。",
       "furigana": "カードで[支払|し|はら]えますか。",
-      "translation_zh_CN": "我可以用信用卡付帳嗎?"
+      "translation_zh_CN": "我可以用信用卡付帐吗?"
     },
     {
       "content": "新しいＣＤに３０００円払った。",
       "furigana": "[新|あたら]しい[ＣＤ|シーディー]に[３０００円|さんぜんえん][払|はら]った。",
-      "translation_zh_CN": "我花了3000日元買了一張新的CD。"
+      "translation_zh_CN": "我花了3000日元买了一张新的CD。"
     }
   ],
   "usages": [

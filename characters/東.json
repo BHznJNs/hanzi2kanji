@@ -131,12 +131,12 @@
     {
       "content": "昨日東京に着いた。",
       "furigana": "[昨日|きのう][東京|とう|きょう]に[着|つ]いた。",
-      "translation_zh_CN": "他昨天抵達東京。"
+      "translation_zh_CN": "他昨天抵达东京。"
     },
     {
       "content": "東京に住んでいます。",
       "furigana": "[東京|とう|きょう]に[住|す]んでいます。",
-      "translation_zh_CN": "我住在東京。"
+      "translation_zh_CN": "我住在东京。"
     },
     {
       "content": "正午に東京に着いた。",
@@ -146,7 +146,7 @@
     {
       "content": "風は東から吹いている。",
       "furigana": "[風|かぜ]は[東|ひがし]から[吹|ふ]いている。",
-      "translation_zh_CN": "風從東方吹來。"
+      "translation_zh_CN": "风从东方吹来。"
     },
     {
       "content": "彼は東京に引っ越した。",
@@ -156,12 +156,12 @@
     {
       "content": "東京は日本の首都です。",
       "furigana": "[東京|とう|きょう]は[日本|に|ほん]の[首都|しゅ|と]です。",
-      "translation_zh_CN": "東京是日本的首都。"
+      "translation_zh_CN": "东京是日本的首都。"
     },
     {
       "content": "私の部屋は東向きです。",
       "furigana": "[私|わたし]の[部屋|へ|や]は[東|ひがし][向|む]きです。",
-      "translation_zh_CN": "我的房間面向東邊。"
+      "translation_zh_CN": "我的房间面向东边。"
     },
     {
       "content": "東京タワーには行ったの？",

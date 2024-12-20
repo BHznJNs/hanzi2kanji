@@ -165,12 +165,12 @@
     {
       "content": "俺たちは同類だよ。",
       "furigana": "[俺|おれ]たちは[同類|どう|るい]だよ。",
-      "translation_zh_CN": "我們很相似。"
+      "translation_zh_CN": "我们很相似。"
     },
     {
       "content": "私は書類に署名した。",
       "furigana": "[私|わたし]は[書類|しょ|るい]に[署名|しょ|めい]した。",
-      "translation_zh_CN": "我簽署了文件。"
+      "translation_zh_CN": "我签署了文件。"
     },
     {
       "content": "類は類をもって集まる。",
@@ -180,7 +180,7 @@
     {
       "content": "イルカは哺乳類である。",
       "furigana": "イルカは[哺乳類|ほ|にゅう|るい]である。",
-      "translation_zh_CN": "海豚是哺乳動物。"
+      "translation_zh_CN": "海豚是哺乳动物。"
     },
     {
       "content": "私は酒類は飲みません。",
@@ -195,12 +195,12 @@
     {
       "content": "イルカは哺乳類の一種です。",
       "furigana": "イルカは[哺乳類|ほ|にゅう|るい]の[一種|いっ|しゅ]です。",
-      "translation_zh_CN": "海豚是一種哺乳動物。"
+      "translation_zh_CN": "海豚是一种哺乳动物。"
     },
     {
       "content": "音楽は人類の共通語である。",
       "furigana": "[音楽|おん|がく]は[人類|じん|るい]の[共通|きょう|つう][語|ご]である。",
-      "translation_zh_CN": "音樂是人類共同的語言。"
+      "translation_zh_CN": "音乐是人类共同的语言。"
     }
   ],
   "usages": [

@@ -160,12 +160,12 @@
     {
       "content": "葉が散ってゆく。",
       "furigana": "[葉|は]が[散|ち]ってゆく。",
-      "translation_zh_CN": "葉子正在落下來。"
+      "translation_zh_CN": "叶子正在落下来。"
     },
     {
       "content": "彼は言葉に窮した。",
       "furigana": "[彼|かれ]は[言葉|こと|ば]に[窮|きゅう]した。",
-      "translation_zh_CN": "他不知道該怎麼說。"
+      "translation_zh_CN": "他不知道该怎么说。"
     },
     {
       "content": "私は言葉に困った。",
@@ -175,7 +175,7 @@
     {
       "content": "私は言葉を失った。",
       "furigana": "[私|わたし]は[言葉|こと|ば]を[失|うしな]った。",
-      "translation_zh_CN": "我不知道應該說什麼才好。"
+      "translation_zh_CN": "我不知道应该说什么才好。"
     },
     {
       "content": "言葉を慎みなさい。",
@@ -190,7 +190,7 @@
     {
       "content": "私は言葉に詰まった。",
       "furigana": "[私|わたし]は[言葉|こと|ば]に[詰|つ]まった。",
-      "translation_zh_CN": "我不知道應該說什麼才好。"
+      "translation_zh_CN": "我不知道应该说什么才好。"
     },
     {
       "content": "僕は君の言葉を信じる。",
@@ -205,7 +205,7 @@
     {
       "content": "彼の言葉に私は驚いた。",
       "furigana": "[彼|かれ]の[言葉|こと|ば]に[私|わたし]は[驚|おどろ]いた。",
-      "translation_zh_CN": "他的話讓我吃驚。"
+      "translation_zh_CN": "他的话让我吃惊。"
     }
   ],
   "usages": [

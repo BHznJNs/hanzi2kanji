@@ -92,7 +92,7 @@
     {
       "content": "諦めちゃ駄目だ。",
       "furigana": "[諦|あきら]めちゃ[駄目|だ|め]だ。",
-      "translation_zh_CN": "不要放棄!"
+      "translation_zh_CN": "不要放弃!"
     },
     {
       "content": "これは駄洒落です。",
@@ -132,12 +132,12 @@
     {
       "content": "今更後悔しても無駄だ。",
       "furigana": "[今更|いま|さら][後悔|こう|かい]しても[無駄|む|だ]だ。",
-      "translation_zh_CN": "現在後悔也沒用了。"
+      "translation_zh_CN": "现在后悔也没用了。"
     },
     {
       "content": "時間を無駄にするなよ。",
       "furigana": "[時間|じ|かん]を[無駄|む|だ]にするなよ。",
-      "translation_zh_CN": "不要浪費時間。"
+      "translation_zh_CN": "不要浪费时间。"
     }
   ],
   "usages": [

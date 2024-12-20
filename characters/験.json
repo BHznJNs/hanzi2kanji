@@ -118,17 +118,17 @@
     {
       "content": "試験はいつあるの？",
       "furigana": "[試験|し|けん]はいつあるの？",
-      "translation_zh_CN": "你什麼時候考試？"
+      "translation_zh_CN": "你什么时候考试？"
     },
     {
       "content": "彼、試験に通ったの？",
       "furigana": "[彼|かれ]、[試験|し|けん]に[通|とお]ったの？",
-      "translation_zh_CN": "他考過了嗎？"
+      "translation_zh_CN": "他考过了吗？"
     },
     {
       "content": "実験は成功だった。",
       "furigana": "[実験|じっ|けん]は[成功|せい|こう]だった。",
-      "translation_zh_CN": "這實驗是成功的。"
+      "translation_zh_CN": "这实验是成功的。"
     },
     {
       "content": "試験は上手くいった？",
@@ -138,22 +138,22 @@
     {
       "content": "試験勉強をしなくちゃ。",
       "furigana": "[試験|し|けん][勉強|べん|きょう]をしなくちゃ。",
-      "translation_zh_CN": "我必須讀書準備考試。"
+      "translation_zh_CN": "我必须读书准备考试。"
     },
     {
       "content": "その実験は失敗だった。",
       "furigana": "その[実験|じっ|けん]は[失敗|しっ|ぱい]だった。",
-      "translation_zh_CN": "實驗失敗了。"
+      "translation_zh_CN": "实验失败了。"
     },
     {
       "content": "彼らは試験に失敗した。",
       "furigana": "[彼|かれ]らは[試験|し|けん]に[失敗|しっ|ぱい]した。",
-      "translation_zh_CN": "他們考試失敗了。"
+      "translation_zh_CN": "他们考试失败了。"
     },
     {
       "content": "彼らは試験ダメだった。",
       "furigana": "[彼|かれ]らは[試験|し|けん]ダメだった。",
-      "translation_zh_CN": "他們考試失敗了。"
+      "translation_zh_CN": "他们考试失败了。"
     }
   ],
   "usages": [

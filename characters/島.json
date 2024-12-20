@@ -137,7 +137,7 @@
     {
       "content": "日本もイギリスも島国だ。",
       "furigana": "[日本|にっ|ぽん]もイギリスも[島国|しま|ぐに]だ。",
-      "translation_zh_CN": "日本和英國都是島國。"
+      "translation_zh_CN": "日本和英国都是岛国。"
     },
     {
       "content": "その島は日本の西方にある。",
@@ -147,22 +147,22 @@
     {
       "content": "島にはどれぐらい住んでたの？",
       "furigana": "[島|しま]にはどれぐらい[住|す]んでたの？",
-      "translation_zh_CN": "你在島上住了多久？"
+      "translation_zh_CN": "你在岛上住了多久？"
     },
     {
       "content": "日本とイギリスは島国である。",
       "furigana": "[日本|に|ほん]とイギリスは[島国|しま|ぐに]である。",
-      "translation_zh_CN": "日本和英國都是島國。"
+      "translation_zh_CN": "日本和英国都是岛国。"
     },
     {
       "content": "島を出る手だてはありません。",
       "furigana": "[島|しま]を[出|で]る[手|て]だてはありません。",
-      "translation_zh_CN": "沒有辦法離開這個島。"
+      "translation_zh_CN": "没有办法离开这个岛。"
     },
     {
       "content": "その島には一軒しか店がない。",
       "furigana": "その[島|しま]には[一軒|いっ|けん]しか[店|みせ]がない。",
-      "translation_zh_CN": "在這個島上只有一家商店。"
+      "translation_zh_CN": "在这个岛上只有一家商店。"
     }
   ],
   "usages": [

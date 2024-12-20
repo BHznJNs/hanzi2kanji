@@ -89,7 +89,7 @@
     {
       "content": "視力検査をします。",
       "furigana": "[視力|し|りょく][検査|けん|さ]をします。",
-      "translation_zh_CN": "我要來檢查你的視力。"
+      "translation_zh_CN": "我要来检查你的视力。"
     },
     {
       "content": "検事は誘導尋問をした。",
@@ -99,7 +99,7 @@
     {
       "content": "血液検査をしましょう。",
       "furigana": "[血液|けつ|えき][検査|けん|さ]をしましょう。",
-      "translation_zh_CN": "我希望你做血液檢查。"
+      "translation_zh_CN": "我希望你做血液检查。"
     },
     {
       "content": "何を検索していますか。",
@@ -114,17 +114,17 @@
     {
       "content": "超音波検査をしましょう。",
       "furigana": "[超|ちょう][音波|おん|ぱ][検査|けん|さ]をしましょう。",
-      "translation_zh_CN": "我想讓你接受超聲檢查。"
+      "translation_zh_CN": "我想让你接受超声检查。"
     },
     {
       "content": "その問題を再検討しよう。",
       "furigana": "その[問題|もん|だい]を[再検討|さい|けん|とう]しよう。",
-      "translation_zh_CN": "我會重新考慮此事。"
+      "translation_zh_CN": "我会重新考虑此事。"
     },
     {
       "content": "問題を再検討してみます。",
       "furigana": "[問題|もん|だい]を[再検討|さい|けん|とう]してみます。",
-      "translation_zh_CN": "我會重新考慮此事。"
+      "translation_zh_CN": "我会重新考虑此事。"
     },
     {
       "content": "私たちはその件を詳細に検討した。",

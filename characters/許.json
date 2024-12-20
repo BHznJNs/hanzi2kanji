@@ -112,7 +112,7 @@
     {
       "content": "失礼をお許し下さい。",
       "furigana": "[失礼|しつ|れい]をお[許|ゆる]し[下|くだ]さい。",
-      "translation_zh_CN": "請原諒我的魯莽。"
+      "translation_zh_CN": "请原谅我的鲁莽。"
     },
     {
       "content": "どうか許して下さい。",
@@ -122,22 +122,22 @@
     {
       "content": "過つは人、許すは神。",
       "furigana": "[過|あやま]つは[人|ひと]、[許|ゆる]すは[神|かみ]。",
-      "translation_zh_CN": "人皆有錯，唯聖者能恕。"
+      "translation_zh_CN": "人皆有错，唯圣者能恕。"
     },
     {
       "content": "免許証はお持ちですか。",
       "furigana": "[免許|めん|きょ][証|しょう]はお[持|も]ちですか。",
-      "translation_zh_CN": "你有駕駛執照嗎？"
+      "translation_zh_CN": "你有驾驶执照吗？"
     },
     {
       "content": "運転免許はお持ちですか？",
       "furigana": "[運転|うん|てん][免許|めん|きょ]はお[持|も]ちですか？",
-      "translation_zh_CN": "您有駕照嗎？"
+      "translation_zh_CN": "您有驾照吗？"
     },
     {
       "content": "免許証を見せてください。",
       "furigana": "[免許|めん|きょ][証|しょう]を[見|み]せてください。",
-      "translation_zh_CN": "請給我看看你的駕駛執照。"
+      "translation_zh_CN": "请给我看看你的驾驶执照。"
     },
     {
       "content": "トムのこと許してあげたの？",
@@ -147,17 +147,17 @@
     {
       "content": "事態は一刻の猶予も許さない。",
       "furigana": "[事態|じ|たい]は[一刻|いっ|こく]の[猶予|ゆう|よ]も[許|ゆる]さない。",
-      "translation_zh_CN": "一刻也不浪費。"
+      "translation_zh_CN": "一刻也不浪费。"
     },
     {
       "content": "運転免許証を持っていますか。",
       "furigana": "[運転|うん|てん][免許|めん|きょ][証|しょう]を[持|も]っていますか。",
-      "translation_zh_CN": "您有駕照嗎？"
+      "translation_zh_CN": "您有驾照吗？"
     },
     {
       "content": "運転免許証を見せてください。",
       "furigana": "[運転|うん|てん][免許|めん|きょ][証|しょう]を[見|み]せてください。",
-      "translation_zh_CN": "先生，我可以看看你的駕駛執照嗎？"
+      "translation_zh_CN": "先生，我可以看看你的驾驶执照吗？"
     }
   ],
   "usages": [

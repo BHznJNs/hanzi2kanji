@@ -110,12 +110,12 @@
     {
       "content": "鉛筆をなくした。",
       "furigana": "[鉛筆|えん|ぴつ]をなくした。",
-      "translation_zh_CN": "我的鉛筆掉了。"
+      "translation_zh_CN": "我的铅笔掉了。"
     },
     {
       "content": "これは鉛筆です。",
       "furigana": "これは[鉛筆|えん|ぴつ]です。",
-      "translation_zh_CN": "這是一支鉛筆。"
+      "translation_zh_CN": "这是一支铅笔。"
     },
     {
       "content": "あれは鉛筆です。",
@@ -125,7 +125,7 @@
     {
       "content": "この鉛筆の長さは？",
       "furigana": "この[鉛筆|えん|ぴつ]の[長|なが]さは？",
-      "translation_zh_CN": "這支鉛筆有多長？"
+      "translation_zh_CN": "这支铅笔有多长？"
     },
     {
       "content": "誰か鉛筆持ってる？",
@@ -140,12 +140,12 @@
     {
       "content": "残念、鉛筆がない。",
       "furigana": "[残念|ざん|ねん]、[鉛筆|えん|ぴつ]がない。",
-      "translation_zh_CN": "對不起我沒有鉛筆去寫。"
+      "translation_zh_CN": "对不起我没有铅笔去写。"
     },
     {
       "content": "鉛筆で書きなさい。",
       "furigana": "[鉛筆|えん|ぴつ]で[書|か]きなさい。",
-      "translation_zh_CN": "用鉛筆寫。"
+      "translation_zh_CN": "用铅笔写。"
     },
     {
       "content": "鉛筆貸してくんない？",

@@ -89,12 +89,12 @@
     {
       "content": "彼はつりの専門家だ。",
       "furigana": "[彼|かれ]はつりの[専門|せん|もん][家|か]だ。",
-      "translation_zh_CN": "他是個釣魚專家。"
+      "translation_zh_CN": "他是个钓鱼专家。"
     },
     {
       "content": "私は言語学専攻です。",
       "furigana": "[私|わたし]は[言語|げん|ご][学|がく][専攻|せん|こう]です。",
-      "translation_zh_CN": "我的主修是語言學。"
+      "translation_zh_CN": "我的主修是语言学。"
     },
     {
       "content": "彼は天文学の専門家だ。",
@@ -109,22 +109,22 @@
     {
       "content": "経済学を専攻しています。",
       "furigana": "[経済|けい|ざい][学|がく]を[専攻|せん|こう]しています。",
-      "translation_zh_CN": "我專攻經濟學。"
+      "translation_zh_CN": "我专攻经济学。"
     },
     {
       "content": "大学では何を専攻してたの？",
       "furigana": "[大学|だい|がく]では[何|なに]を[専攻|せん|こう]してたの？",
-      "translation_zh_CN": "你大學時主修什麼？"
+      "translation_zh_CN": "你大学时主修什么？"
     },
     {
       "content": "私は大学で化学を専攻した。",
       "furigana": "[私|わたし]は[大学|だい|がく]で[化学|か|がく]を[専攻|せん|こう]した。",
-      "translation_zh_CN": "我在大學主修化學。"
+      "translation_zh_CN": "我在大学主修化学。"
     },
     {
       "content": "大学時代の専攻は何でしたか？",
       "furigana": "[大学|だい|がく][時代|じ|だい]の[専攻|せん|こう]は[何|なん]でしたか？",
-      "translation_zh_CN": "你大學時主修什麼？"
+      "translation_zh_CN": "你大学时主修什么？"
     },
     {
       "content": "彼女は新しい仕事に専念した。",

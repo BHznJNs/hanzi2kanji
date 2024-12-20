@@ -104,7 +104,7 @@
     {
       "content": "自転車が壊れた。",
       "furigana": "[自転車|じ|てん|しゃ]が[壊|こわ]れた。",
-      "translation_zh_CN": "我的自行車壞了。"
+      "translation_zh_CN": "我的自行车坏了。"
     },
     {
       "content": "シャワーが壊れた。",
@@ -114,7 +114,7 @@
     {
       "content": "トムが窓を壊した。",
       "furigana": "トムが[窓|まど]を[壊|こわ]した。",
-      "translation_zh_CN": "湯姆打破了窗戶。"
+      "translation_zh_CN": "汤姆打破了窗户。"
     },
     {
       "content": "卵の殻は壊れやすい。",
@@ -144,7 +144,7 @@
     {
       "content": "王は敵軍を壊滅させた。",
       "furigana": "[王|おう]は[敵|てき][軍|ぐん]を[壊滅|かい|めつ]させた。",
-      "translation_zh_CN": "國王摧毀了他的敵人。"
+      "translation_zh_CN": "国王摧毁了他的敌人。"
     }
   ],
   "usages": [

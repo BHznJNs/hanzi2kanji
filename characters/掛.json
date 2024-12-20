@@ -112,7 +112,7 @@
     {
       "content": "お掛けください。",
       "furigana": "お[掛|か]けください。",
-      "translation_zh_CN": "請坐。"
+      "translation_zh_CN": "请坐。"
     },
     {
       "content": "明日は出掛けるの？",
@@ -122,12 +122,12 @@
     {
       "content": "壁により掛かるな。",
       "furigana": "[壁|かべ]により[掛|か]かるな。",
-      "translation_zh_CN": "別倚著牆。"
+      "translation_zh_CN": "别倚著墙。"
     },
     {
       "content": "４掛ける２は８だ。",
       "furigana": "[４|][掛|か]ける[２|]は[８|]だ。",
-      "translation_zh_CN": "四乘以二等於八。"
+      "translation_zh_CN": "四乘以二等于八。"
     },
     {
       "content": "横にお掛けなさい。",
@@ -137,12 +137,12 @@
     {
       "content": "門にかぎを掛けなさい。",
       "furigana": "[門|もん]にかぎを[掛|か]けなさい。",
-      "translation_zh_CN": "鎖大門。"
+      "translation_zh_CN": "锁大门。"
     },
     {
       "content": "彼は塀に梯子を掛けた。",
       "furigana": "[彼|かれ]は[塀|へい]に[梯子|はし|ご]を[掛|か]けた。",
-      "translation_zh_CN": "他把梯子倚著柵欄放。"
+      "translation_zh_CN": "他把梯子倚著栅栏放。"
     },
     {
       "content": "彼はベッドに腰掛けた。",
@@ -152,12 +152,12 @@
     {
       "content": "壁に時計が掛かっている。",
       "furigana": "[壁|かべ]に[時計|と|けい]が[掛|か]かっている。",
-      "translation_zh_CN": "牆壁上掛著一個時鐘。"
+      "translation_zh_CN": "墙壁上挂著一个时钟。"
     },
     {
       "content": "壁には絵が掛かっている。",
       "furigana": "[壁|かべ]には[絵|え]が[掛|か]かっている。",
-      "translation_zh_CN": "牆上有一幅畫。"
+      "translation_zh_CN": "墙上有一幅画。"
     }
   ],
   "usages": [

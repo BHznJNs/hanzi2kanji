@@ -153,7 +153,7 @@
     {
       "content": "父は毎朝散歩する。",
       "furigana": "[父|ちち]は[毎朝|まい|あさ][散歩|さん|ぽ]する。",
-      "translation_zh_CN": "我父親每天早上去散步。"
+      "translation_zh_CN": "我父亲每天早上去散步。"
     },
     {
       "content": "彼女は散歩に出た。",
@@ -173,12 +173,12 @@
     {
       "content": "私は駅まで歩いた。",
       "furigana": "[私|わたし]は[駅|えき]まで[歩|ある]いた。",
-      "translation_zh_CN": "我一直走到火車站。"
+      "translation_zh_CN": "我一直走到火车站。"
     },
     {
       "content": "ちょっと散歩しない？",
       "furigana": "ちょっと[散歩|さん|ぽ]しない？",
-      "translation_zh_CN": "想出去呼吸一下新鮮空氣嗎？"
+      "translation_zh_CN": "想出去呼吸一下新鲜空气吗？"
     }
   ],
   "usages": [

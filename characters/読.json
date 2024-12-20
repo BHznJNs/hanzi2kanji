@@ -134,17 +134,17 @@
     {
       "content": "本を読んでいる。",
       "furigana": "[本|ほん]を[読|よ]んでいる。",
-      "translation_zh_CN": "我現在正在讀一本書。"
+      "translation_zh_CN": "我现在正在读一本书。"
     },
     {
       "content": "私は本を読んだ。",
       "furigana": "[私|わたし]は[本|ほん]を[読|よ]んだ。",
-      "translation_zh_CN": "我看了一本書。"
+      "translation_zh_CN": "我看了一本书。"
     },
     {
       "content": "本を読みました。",
       "furigana": "[本|ほん]を[読|よ]みました。",
-      "translation_zh_CN": "我看了一本書。"
+      "translation_zh_CN": "我看了一本书。"
     },
     {
       "content": "読書は好きですか？",

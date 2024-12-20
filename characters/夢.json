@@ -153,7 +153,7 @@
     {
       "content": "猫は夢を見ますか？",
       "furigana": "[猫|ねこ]は[夢|ゆめ]を[見|み]ますか？",
-      "translation_zh_CN": "貓會做夢嗎？"
+      "translation_zh_CN": "猫会做梦吗？"
     },
     {
       "content": "ただの夢だった。",
@@ -163,12 +163,12 @@
     {
       "content": "夢は本当になった。",
       "furigana": "[夢|ゆめ]は[本当|ほん|とう]になった。",
-      "translation_zh_CN": "我的夢想成真了。"
+      "translation_zh_CN": "我的梦想成真了。"
     },
     {
       "content": "私は彼の夢を見た。",
       "furigana": "[私|わたし]は[彼|かれ]の[夢|ゆめ]を[見|み]た。",
-      "translation_zh_CN": "我夢到了他。"
+      "translation_zh_CN": "我梦到了他。"
     },
     {
       "content": "よく悪夢を見ます。",
@@ -183,7 +183,7 @@
     {
       "content": "夢を諦めきれない。",
       "furigana": "[夢|ゆめ]を[諦|あきら]めきれない。",
-      "translation_zh_CN": "我不能放棄我的夢想。"
+      "translation_zh_CN": "我不能放弃我的梦想。"
     }
   ],
   "usages": [

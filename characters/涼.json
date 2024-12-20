@@ -100,12 +100,12 @@
     {
       "content": "今朝は涼しいですね。",
       "furigana": "[今朝|けさ]は[涼|すず]しいですね。",
-      "translation_zh_CN": "今天上午很涼爽，不是嗎？"
+      "translation_zh_CN": "今天上午很凉爽，不是吗？"
     },
     {
       "content": "涼しい場所に保管のこと。",
       "furigana": "[涼|すず]しい[場所|ば|しょ]に[保管|ほ|かん]のこと。",
-      "translation_zh_CN": "保存在陰涼的地方。"
+      "translation_zh_CN": "保存在阴凉的地方。"
     }
   ],
   "usages": [
