@@ -308,9 +308,9 @@ export class ResultItem extends LitElement {
               }
               if (data.kun) {
                 if (this.hiraganaMode) {
-                  pronunciationKun = data.on.map(kanasFactory).join(splitText)
+                  pronunciationKun = data.kun.map(kanasFactory).join(splitText)
                 } else {
-                  pronunciationKun = data.on.map(kana2ruby).join(splitText)
+                  pronunciationKun = data.kun.map(kana2ruby).join(splitText)
                 }
               }
               pronunciationOn = unsafeHTML(pronunciationOn as string)
