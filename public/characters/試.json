@@ -129,7 +129,7 @@
     {
       "content": "試してみようよ。",
       "furigana": "[試|ため]してみようよ。",
-      "translation_zh_CN": "我們試試看！"
+      "translation_zh_CN": "我们试试看！"
     },
     {
       "content": "試験頑張ってね。",
@@ -139,12 +139,12 @@
     {
       "content": "試験はいつあるの？",
       "furigana": "[試験|し|けん]はいつあるの？",
-      "translation_zh_CN": "你什麼時候考試？"
+      "translation_zh_CN": "你什么时候考试？"
     },
     {
       "content": "彼、試験に通ったの？",
       "furigana": "[彼|かれ]、[試験|し|けん]に[通|とお]ったの？",
-      "translation_zh_CN": "他考過了嗎？"
+      "translation_zh_CN": "他考过了吗？"
     },
     {
       "content": "試験は上手くいった？",
@@ -154,7 +154,7 @@
     {
       "content": "その試合、見ました？",
       "furigana": "その[試合|し|あい]、[見|み]ました？",
-      "translation_zh_CN": "你看了比賽嗎？"
+      "translation_zh_CN": "你看了比赛吗？"
     },
     {
       "content": "試合はいつ始まるの？",
@@ -164,7 +164,7 @@
     {
       "content": "試着室はどこですか。",
       "furigana": "[試|し][着|ちゃく][室|しつ]はどこですか。",
-      "translation_zh_CN": "試衣間在哪裏？"
+      "translation_zh_CN": "试衣间在哪里？"
     }
   ],
   "usages": [

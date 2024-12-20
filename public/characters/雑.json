@@ -114,7 +114,7 @@
     {
       "content": "脳の構造は複雑だ。",
       "furigana": "[脳|のう]の[構造|こう|ぞう]は[複雑|ふく|ざつ]だ。",
-      "translation_zh_CN": "頭腦的結構很複雜。"
+      "translation_zh_CN": "头脑的结构很复杂。"
     },
     {
       "content": "この雑誌を読みたいの？",
@@ -129,7 +129,7 @@
     {
       "content": "母は雑誌を読んでいる。",
       "furigana": "[母|はは]は[雑誌|ざっ|し]を[読|よ]んでいる。",
-      "translation_zh_CN": "我媽媽正在讀一本雜誌。"
+      "translation_zh_CN": "我妈妈正在读一本杂志。"
     },
     {
       "content": "彼女は庭の雑草を抜いた。",
@@ -139,7 +139,7 @@
     {
       "content": "日本の雑誌はありますか。",
       "furigana": "[日本|に|ほん]の[雑誌|ざっ|し]はありますか。",
-      "translation_zh_CN": "你有任何日本雜誌嗎？"
+      "translation_zh_CN": "你有任何日本杂志吗？"
     },
     {
       "content": "彼に雑誌を買ってあげた。",
@@ -154,12 +154,12 @@
     {
       "content": "これには複雑な気持ちだ。",
       "furigana": "これには[複雑|ふく|ざつ]な[気持|き|も]ちだ。",
-      "translation_zh_CN": "我對這件事百感交集。"
+      "translation_zh_CN": "我对这件事百感交集。"
     },
     {
       "content": "雑誌を持ってきてください。",
       "furigana": "[雑誌|ざっ|し]を[持|も]ってきてください。",
-      "translation_zh_CN": "把那本雜誌拿來給我。"
+      "translation_zh_CN": "把那本杂志拿来给我。"
     }
   ],
   "usages": [

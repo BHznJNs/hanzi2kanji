@@ -110,7 +110,7 @@
     {
       "content": "勘定書を頼むよ。",
       "furigana": "[勘定|かん|じょう][書|しょ]を[頼|たの]むよ。",
-      "translation_zh_CN": "請結帳。"
+      "translation_zh_CN": "请结帐。"
     },
     {
       "content": "彼は信頼できる。",
@@ -145,7 +145,7 @@
     {
       "content": "君に１つ頼みがある。",
       "furigana": "[君|きみ]に[１|ひと]つ[頼|たの]みがある。",
-      "translation_zh_CN": "我想請你們幫個忙。"
+      "translation_zh_CN": "我想请你们帮个忙。"
     },
     {
       "content": "苦しいときの神頼み。",
@@ -155,7 +155,7 @@
     {
       "content": "彼への信頼を失った。",
       "furigana": "[彼|かれ]への[信頼|しん|らい]を[失|うしな]った。",
-      "translation_zh_CN": "我失去了對他的信任。"
+      "translation_zh_CN": "我失去了对他的信任。"
     }
   ],
   "usages": [

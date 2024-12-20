@@ -167,12 +167,12 @@
     {
       "content": "薬、飲み忘れるなよ。",
       "furigana": "[薬|くすり]、[飲|の]み[忘|わす]れるなよ。",
-      "translation_zh_CN": "別忘了吃藥。"
+      "translation_zh_CN": "别忘了吃药。"
     },
     {
       "content": "母は私に薬を飲ませた。",
       "furigana": "[母|はは]は[私|わたし]に[薬|くすり]を[飲|の]ませた。",
-      "translation_zh_CN": "我媽媽讓我吃點藥。"
+      "translation_zh_CN": "我妈妈让我吃点药。"
     },
     {
       "content": "薬効の程は定かでない。",
@@ -187,17 +187,17 @@
     {
       "content": "薬缶のお湯が沸いている。",
       "furigana": "[薬缶|や|かん]のお[湯|ゆ]が[沸|わ]いている。",
-      "translation_zh_CN": "茶壺沸了。"
+      "translation_zh_CN": "茶壶沸了。"
     },
     {
       "content": "風邪に効く薬はありますか。",
       "furigana": "[風邪|かぜ]に[効|き]く[薬|くすり]はありますか。",
-      "translation_zh_CN": "你有任何治感冒的東西嗎?"
+      "translation_zh_CN": "你有任何治感冒的东西吗?"
     },
     {
       "content": "何か薬を常用していますか。",
       "furigana": "[何|なに]か[薬|くすり]を[常用|じょう|よう]していますか。",
-      "translation_zh_CN": "你經常服用任何藥物嗎？"
+      "translation_zh_CN": "你经常服用任何药物吗？"
     }
   ],
   "usages": [

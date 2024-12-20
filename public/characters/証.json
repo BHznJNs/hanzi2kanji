@@ -143,12 +143,12 @@
     {
       "content": "学生証は持ってる？",
       "furigana": "[学生|がく|せい][証|しょう]は[持|も]ってる？",
-      "translation_zh_CN": "你有學生證嗎？"
+      "translation_zh_CN": "你有学生证吗？"
     },
     {
       "content": "保証は一年間です。",
       "furigana": "[保証|ほ|しょう]は[一|いち][年間|ねん|かん]です。",
-      "translation_zh_CN": "我們保證我們的產品一年。"
+      "translation_zh_CN": "我们保证我们的产品一年。"
     },
     {
       "content": "それ、証明できるの？",
@@ -168,7 +168,7 @@
     {
       "content": "免許証はお持ちですか。",
       "furigana": "[免許|めん|きょ][証|しょう]はお[持|も]ちですか。",
-      "translation_zh_CN": "你有駕駛執照嗎？"
+      "translation_zh_CN": "你有驾驶执照吗？"
     },
     {
       "content": "何も保証はできないよ。",
@@ -178,12 +178,12 @@
     {
       "content": "免許証を見せてください。",
       "furigana": "[免許|めん|きょ][証|しょう]を[見|み]せてください。",
-      "translation_zh_CN": "請給我看看你的駕駛執照。"
+      "translation_zh_CN": "请给我看看你的驾驶执照。"
     },
     {
       "content": "運転免許証を持っていますか。",
       "furigana": "[運転|うん|てん][免許|めん|きょ][証|しょう]を[持|も]っていますか。",
-      "translation_zh_CN": "您有駕照嗎？"
+      "translation_zh_CN": "您有驾照吗？"
     }
   ],
   "usages": [

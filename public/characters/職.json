@@ -191,17 +191,17 @@
     {
       "content": "ご職業は何ですか。",
       "furigana": "ご[職業|しょく|ぎょう]は[何|なん]ですか。",
-      "translation_zh_CN": "你的職業是什麼?"
+      "translation_zh_CN": "你的职业是什么?"
     },
     {
       "content": "父は６５歳で退職した。",
       "furigana": "[父|ちち]は[６５|ろくじゅうご][歳|さい]で[退職|たい|しょく]した。",
-      "translation_zh_CN": "我父親在六十五歲時退休。"
+      "translation_zh_CN": "我父亲在六十五岁时退休。"
     },
     {
       "content": "彼は職務怠慢だった。",
       "furigana": "[彼|かれ]は[職務|しょく|む][怠慢|たい|まん]だった。",
-      "translation_zh_CN": "他怠忽職守了。"
+      "translation_zh_CN": "他怠忽职守了。"
     },
     {
       "content": "彼の職業は医者です。",

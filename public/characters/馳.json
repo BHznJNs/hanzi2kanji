@@ -73,12 +73,12 @@
     {
       "content": "私がご馳走します。",
       "furigana": "[私|わたし]がご[馳走|ち|そう]します。",
-      "translation_zh_CN": "我請你。"
+      "translation_zh_CN": "我请你。"
     },
     {
       "content": "私がご馳走するわ。",
       "furigana": "[私|わたし]がご[馳走|ち|そう]するわ。",
-      "translation_zh_CN": "我來付賬。"
+      "translation_zh_CN": "我来付账。"
     },
     {
       "content": "晩ご飯をご馳走するね。",
@@ -88,7 +88,7 @@
     {
       "content": "彼女は料理人にご馳走様でしたと言いました。",
       "furigana": "[彼女|かの|じょ]は[料理|りょう|り][人|じん]にご[馳走様|ち|そう|さま]でしたと[言|い]いました。",
-      "translation_zh_CN": "她對廚師說: 謝謝您做的飯菜。"
+      "translation_zh_CN": "她对厨师说: 谢谢您做的饭菜。"
     }
   ],
   "usages": [

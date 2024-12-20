@@ -172,17 +172,17 @@
     {
       "content": "微熱があります。",
       "furigana": "[微熱|び|ねつ]があります。",
-      "translation_zh_CN": "我有點發燒。"
+      "translation_zh_CN": "我有点发烧。"
     },
     {
       "content": "熱はありますか。",
       "furigana": "[熱|ねつ]はありますか。",
-      "translation_zh_CN": "你發燒了嗎？"
+      "translation_zh_CN": "你发烧了吗？"
     },
     {
       "content": "熱があるんです。",
       "furigana": "[熱|ねつ]があるんです。",
-      "translation_zh_CN": "我發燒了。"
+      "translation_zh_CN": "我发烧了。"
     },
     {
       "content": "熱はないですね。",
@@ -197,7 +197,7 @@
     {
       "content": "体が熱っぽいんだ。",
       "furigana": "[体|からだ]が[熱|ねつ]っぽいんだ。",
-      "translation_zh_CN": "我覺得我有點要發燒了。"
+      "translation_zh_CN": "我觉得我有点要发烧了。"
     },
     {
       "content": "私は少し熱がある。",
@@ -217,7 +217,7 @@
     {
       "content": "鉄は熱いうちに打て。",
       "furigana": "[鉄|てつ]は[熱|あつ]いうちに[打|う]て。",
-      "translation_zh_CN": "趁熱打鐵。"
+      "translation_zh_CN": "趁热打铁。"
     }
   ],
   "usages": [

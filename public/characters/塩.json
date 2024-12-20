@@ -131,17 +131,17 @@
     {
       "content": "塩って、残ってる？",
       "furigana": "[塩|しお]って、[残|のこ]ってる？",
-      "translation_zh_CN": "還有鹽嗎？"
+      "translation_zh_CN": "还有盐吗？"
     },
     {
       "content": "お塩取ってくれる？",
       "furigana": "お[塩|しお][取|と]ってくれる？",
-      "translation_zh_CN": "請你把鹽遞給我好嗎？"
+      "translation_zh_CN": "请你把盐递给我好吗？"
     },
     {
       "content": "塩を入れましたか。",
       "furigana": "[塩|しお]を[入|い]れましたか。",
-      "translation_zh_CN": "你加鹽了嗎？"
+      "translation_zh_CN": "你加盐了吗？"
     },
     {
       "content": "塩を取って下さい。",
@@ -151,7 +151,7 @@
     {
       "content": "塩を回して下さい。",
       "furigana": "[塩|しお]を[回|まわ]して[下|くだ]さい。",
-      "translation_zh_CN": "請把鹽遞給我，好嗎？"
+      "translation_zh_CN": "请把盐递给我，好吗？"
     },
     {
       "content": "塩は残っていない。",
@@ -171,7 +171,7 @@
     {
       "content": "塩が残っていますか。",
       "furigana": "[塩|しお]が[残|のこ]っていますか。",
-      "translation_zh_CN": "還有鹽嗎？"
+      "translation_zh_CN": "还有盐吗？"
     }
   ],
   "usages": [

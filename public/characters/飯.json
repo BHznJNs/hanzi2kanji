@@ -132,12 +132,12 @@
     {
       "content": "朝ご飯は何がいい？",
       "furigana": "[朝|あさ]ご[飯|はん]は[何|なに]がいい？",
-      "translation_zh_CN": "你早餐想要吃什麼？"
+      "translation_zh_CN": "你早餐想要吃什么？"
     },
     {
       "content": "夕飯の時間ですよ。",
       "furigana": "[夕飯|ゆう|はん]の[時間|じ|かん]ですよ。",
-      "translation_zh_CN": "吃晚飯的時間到了。"
+      "translation_zh_CN": "吃晚饭的时间到了。"
     },
     {
       "content": "そんなの朝飯前よ。",
@@ -152,12 +152,12 @@
     {
       "content": "晩ご飯を一緒にどう？",
       "furigana": "[晩|ばん]ご[飯|はん]を[一緒|いっ|しょ]にどう？",
-      "translation_zh_CN": "你不來跟我們一起吃晚飯嗎？"
+      "translation_zh_CN": "你不来跟我们一起吃晚饭吗？"
     },
     {
       "content": "もう晩ご飯食べたの？",
       "furigana": "もう[晩|ばん]ご[飯|はん][食|た]べたの？",
-      "translation_zh_CN": "你吃過晚飯了嗎？"
+      "translation_zh_CN": "你吃过晚饭了吗？"
     },
     {
       "content": "晩ご飯は何にするの？",
@@ -167,7 +167,7 @@
     {
       "content": "夕御飯ができました。",
       "furigana": "[夕御飯|ゆう|ご|はん]ができました。",
-      "translation_zh_CN": "晚飯好了。"
+      "translation_zh_CN": "晚饭好了。"
     },
     {
       "content": "そんなの朝飯前だよ。",

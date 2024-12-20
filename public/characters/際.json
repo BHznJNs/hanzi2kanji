@@ -155,12 +155,12 @@
     {
       "content": "実際は何があったの？",
       "furigana": "[実際|じっ|さい]は[何|なに]があったの？",
-      "translation_zh_CN": "到底發生了什麽事。"
+      "translation_zh_CN": "到底发生了什么事。"
     },
     {
       "content": "実際に何が起こったの？",
       "furigana": "[実際|じっ|さい]に[何|なに]が[起|お]こったの？",
-      "translation_zh_CN": "到底發生了什麽事。"
+      "translation_zh_CN": "到底发生了什么事。"
     },
     {
       "content": "飛行機は離陸間際だ。",
@@ -170,22 +170,22 @@
     {
       "content": "国際女性の日おめでとう！",
       "furigana": "[国際|こく|さい][女性|じょ|せい]の[日|ひ]おめでとう！",
-      "translation_zh_CN": "國際婦女節快樂！"
+      "translation_zh_CN": "国际妇女节快乐！"
     },
     {
       "content": "窓際の席をお願いします。",
       "furigana": "[窓際|まど|ぎわ]の[席|せき]をお[願|ねが]いします。",
-      "translation_zh_CN": "我要一張靠窗的桌子。"
+      "translation_zh_CN": "我要一张靠窗的桌子。"
     },
     {
       "content": "窓際の席でお願いします。",
       "furigana": "[窓際|まど|ぎわ]の[席|せき]でお[願|ねが]いします。",
-      "translation_zh_CN": "請給我靠窗口的位子。"
+      "translation_zh_CN": "请给我靠窗口的位子。"
     },
     {
       "content": "しかし、実際は違いました。",
       "furigana": "しかし、[実際|じっ|さい]は[違|ちが]いました。",
-      "translation_zh_CN": "然而，現實並不一樣。"
+      "translation_zh_CN": "然而，现实并不一样。"
     },
     {
       "content": "黒海の水って、実際に黒いの？",
@@ -195,12 +195,12 @@
     {
       "content": "窓際の人って、あなたの上司？",
       "furigana": "[窓際|まど|ぎわ]の[人|ひと]って、あなたの[上司|じょう|し]？",
-      "translation_zh_CN": "站在窗口的是你們的老闆嗎？"
+      "translation_zh_CN": "站在窗口的是你们的老板吗？"
     },
     {
       "content": "国際電話をかけたいのですが。",
       "furigana": "[国際|こく|さい][電話|でん|わ]をかけたいのですが。",
-      "translation_zh_CN": "我想打個國際電話。"
+      "translation_zh_CN": "我想打个国际电话。"
     }
   ],
   "usages": [

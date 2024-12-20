@@ -149,17 +149,17 @@
     {
       "content": "みんな売り切れです。",
       "furigana": "みんな[売|う]り[切|き]れです。",
-      "translation_zh_CN": "賣完了！"
+      "translation_zh_CN": "卖完了！"
     },
     {
       "content": "彼は家を売ったそうだ。",
       "furigana": "[彼|かれ]は[家|いえ]を[売|う]ったそうだ。",
-      "translation_zh_CN": "我聽說他賣掉了房子。"
+      "translation_zh_CN": "我听说他卖掉了房子。"
     },
     {
       "content": "切符売り場はどこですか？",
       "furigana": "[切符|きっ|ぷ][売|う]り[場|ば]はどこですか？",
-      "translation_zh_CN": "售票窗口在哪裡？"
+      "translation_zh_CN": "售票窗口在哪里？"
     },
     {
       "content": "彼は新しい商売を始めた。",
@@ -169,7 +169,7 @@
     {
       "content": "切符売り場はどこですか。",
       "furigana": "[切符|きっ|ぷ][売|う]り[場|ば]はどこですか。",
-      "translation_zh_CN": "售票窗口在哪裡？"
+      "translation_zh_CN": "售票窗口在哪里？"
     }
   ],
   "usages": [

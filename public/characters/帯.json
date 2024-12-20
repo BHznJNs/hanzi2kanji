@@ -207,12 +207,12 @@
     {
       "content": "帯に短し、襷に長し。",
       "furigana": "[帯|おび]に[短|みじか]し、[襷|たすき]に[長|なが]し。",
-      "translation_zh_CN": "過多會壞事，過少不濟事。"
+      "translation_zh_CN": "过多会坏事，过少不济事。"
     },
     {
       "content": "トムの携帯が鳴った。",
       "furigana": "トムの[携帯|けい|たい]が[鳴|な]った。",
-      "translation_zh_CN": "Tom的手機響了。"
+      "translation_zh_CN": "Tom的手机响了。"
     },
     {
       "content": "明日、携帯買うんだよ。",
@@ -227,7 +227,7 @@
     {
       "content": "私は携帯を捜している。",
       "furigana": "[私|わたし]は[携帯|けい|たい]を[捜|さが]している。",
-      "translation_zh_CN": "我在找我的手機。"
+      "translation_zh_CN": "我在找我的手机。"
     },
     {
       "content": "携帯電話を持っていますか？",
@@ -237,7 +237,7 @@
     {
       "content": "トムは携帯を買ったんだ。",
       "furigana": "トムは[携帯|けい|たい]を[買|か]ったんだ。",
-      "translation_zh_CN": "湯姆買了箇手機。"
+      "translation_zh_CN": "汤姆买了个手机。"
     }
   ],
   "usages": [

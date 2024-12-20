@@ -131,7 +131,7 @@
     {
       "content": "彼女は禁煙した。",
       "furigana": "[彼女|かの|じょ]は[禁煙|きん|えん]した。",
-      "translation_zh_CN": "她停下來抽煙。"
+      "translation_zh_CN": "她停下来抽烟。"
     },
     {
       "content": "喫煙は絶対禁止。",
@@ -166,7 +166,7 @@
     {
       "content": "喫煙は健康に悪い。",
       "furigana": "[喫煙|きつ|えん]は[健康|けん|こう]に[悪|わる]い。",
-      "translation_zh_CN": "吸煙對你的健康不好。"
+      "translation_zh_CN": "吸烟对你的健康不好。"
     },
     {
       "content": "煙草を吸いますか。",
@@ -176,7 +176,7 @@
     {
       "content": "ここでは禁煙です。",
       "furigana": "ここでは[禁煙|きん|えん]です。",
-      "translation_zh_CN": "你不應在這裏吸煙。"
+      "translation_zh_CN": "你不应在这里吸烟。"
     }
   ],
   "usages": [

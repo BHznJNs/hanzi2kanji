@@ -147,17 +147,17 @@
     {
       "content": "予約したいんですが。",
       "furigana": "[予約|よ|やく]したいんですが。",
-      "translation_zh_CN": "我要預約。"
+      "translation_zh_CN": "我要预约。"
     },
     {
       "content": "約束は守るべきです。",
       "furigana": "[約束|やく|そく]は[守|まも]るべきです。",
-      "translation_zh_CN": "你應該信守諾言。"
+      "translation_zh_CN": "你应该信守诺言。"
     },
     {
       "content": "約束の時間に遅れた。",
       "furigana": "[約束|やく|そく]の[時間|じ|かん]に[遅|おく]れた。",
-      "translation_zh_CN": "我約會遲到了。"
+      "translation_zh_CN": "我约会迟到了。"
     },
     {
       "content": "彼は必ず約束を守る。",
@@ -167,22 +167,22 @@
     {
       "content": "彼は約束を守る人だ。",
       "furigana": "[彼|かれ]は[約束|やく|そく]を[守|まも]る[人|ひと]だ。",
-      "translation_zh_CN": "他說得出就做得到。"
+      "translation_zh_CN": "他说得出就做得到。"
     },
     {
       "content": "私は彼女と婚約中だ。",
       "furigana": "[私|わたし]は[彼女|かの|じょ]と[婚約|こん|やく][中|ちゅう]だ。",
-      "translation_zh_CN": "我跟她訂婚了。"
+      "translation_zh_CN": "我跟她订婚了。"
     },
     {
       "content": "座席を予約しました。",
       "furigana": "[座席|ざ|せき]を[予約|よ|やく]しました。",
-      "translation_zh_CN": "我訂了一個位子。"
+      "translation_zh_CN": "我订了一个位子。"
     },
     {
       "content": "約束は守るべきだよ。",
       "furigana": "[約束|やく|そく]は[守|まも]るべきだよ。",
-      "translation_zh_CN": "你應該信守諾言。"
+      "translation_zh_CN": "你应该信守诺言。"
     }
   ],
   "usages": [

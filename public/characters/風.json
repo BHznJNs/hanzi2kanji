@@ -151,7 +151,7 @@
     {
       "content": "風邪が抜けない。",
       "furigana": "[風邪|かぜ]が[抜|ぬ]けない。",
-      "translation_zh_CN": "我的感冒怎麼也不好。"
+      "translation_zh_CN": "我的感冒怎么也不好。"
     },
     {
       "content": "風がおさまった。",
@@ -166,7 +166,7 @@
     {
       "content": "なんて強い風なの！",
       "furigana": "なんて[強|つよ]い[風|かぜ]なの！",
-      "translation_zh_CN": "多麼強的風啊！"
+      "translation_zh_CN": "多么强的风啊！"
     },
     {
       "content": "風の便りに聞いた。",
@@ -186,17 +186,17 @@
     {
       "content": "風邪に気をつけて。",
       "furigana": "[風邪|かぜ]に[気|き]をつけて。",
-      "translation_zh_CN": "別著涼了。"
+      "translation_zh_CN": "别著凉了。"
     },
     {
       "content": "風が出てきました。",
       "furigana": "[風|かぜ]が[出|で]てきました。",
-      "translation_zh_CN": "風愈吹愈猛。"
+      "translation_zh_CN": "风愈吹愈猛。"
     },
     {
       "content": "扇風機がほしいな。",
       "furigana": "[扇風機|せん|ぷう|き]がほしいな。",
-      "translation_zh_CN": "我要那個電風扇。"
+      "translation_zh_CN": "我要那个电风扇。"
     }
   ],
   "usages": [

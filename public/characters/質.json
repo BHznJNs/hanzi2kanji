@@ -151,7 +151,7 @@
     {
       "content": "質問があります。",
       "furigana": "[質問|しつ|もん]があります。",
-      "translation_zh_CN": "我有一個問題。"
+      "translation_zh_CN": "我有一个问题。"
     },
     {
       "content": "質問はありますか？",
@@ -161,7 +161,7 @@
     {
       "content": "いい質問ですね。",
       "furigana": "いい[質問|しつ|もん]ですね。",
-      "translation_zh_CN": "那是一個很好的問題。"
+      "translation_zh_CN": "那是一个很好的问题。"
     },
     {
       "content": "量より質が重要だ。",
@@ -171,7 +171,7 @@
     {
       "content": "質問に答えなさい。",
       "furigana": "[質問|しつ|もん]に[答|こた]えなさい。",
-      "translation_zh_CN": "回答問題。"
+      "translation_zh_CN": "回答问题。"
     },
     {
       "content": "質問がありますか。",
@@ -186,12 +186,12 @@
     {
       "content": "質問があるのですが。",
       "furigana": "[質問|しつ|もん]があるのですが。",
-      "translation_zh_CN": "我有一個問題。"
+      "translation_zh_CN": "我有一个问题。"
     },
     {
       "content": "私は彼に質問をした。",
       "furigana": "[私|わたし]は[彼|かれ]に[質問|しつ|もん]をした。",
-      "translation_zh_CN": "我問了他一條問題。"
+      "translation_zh_CN": "我问了他一条问题。"
     },
     {
       "content": "彼女はひ弱な体質だ。",

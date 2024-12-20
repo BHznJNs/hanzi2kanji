@@ -161,7 +161,7 @@
     {
       "content": "地下鉄に乗ろう。",
       "furigana": "[地下鉄|ち|か|てつ]に[乗|の]ろう。",
-      "translation_zh_CN": "我們坐地鐵去吧。"
+      "translation_zh_CN": "我们坐地铁去吧。"
     },
     {
       "content": "乗ってください。",
@@ -181,12 +181,12 @@
     {
       "content": "自転車乗れますか？",
       "furigana": "[自転車|じ|てん|しゃ][乗|の]れますか？",
-      "translation_zh_CN": "你會騎車嗎？"
+      "translation_zh_CN": "你会骑车吗？"
     },
     {
       "content": "彼は乗馬が得意だ。",
       "furigana": "[彼|かれ]は[乗馬|じょう|ば]が[得意|とく|い]だ。",
-      "translation_zh_CN": "他擅長騎馬。"
+      "translation_zh_CN": "他擅长骑马。"
     },
     {
       "content": "3の3乗は27です。",
@@ -196,7 +196,7 @@
     {
       "content": "自転車には乗れるの？",
       "furigana": "[自転車|じ|てん|しゃ]には[乗|の]れるの？",
-      "translation_zh_CN": "你會騎車嗎？"
+      "translation_zh_CN": "你会骑车吗？"
     },
     {
       "content": "５の２乗は２５です。",
@@ -206,7 +206,7 @@
     {
       "content": "自転車に乗れますか？",
       "furigana": "[自転車|じ|てん|しゃ]に[乗|の]れますか？",
-      "translation_zh_CN": "你會騎車嗎？"
+      "translation_zh_CN": "你会骑车吗？"
     }
   ],
   "usages": [

@@ -129,12 +129,12 @@
     {
       "content": "涙が出てきますよ。",
       "furigana": "[涙|なみだ]が[出|で]てきますよ。",
-      "translation_zh_CN": "我在流眼淚。"
+      "translation_zh_CN": "我在流眼泪。"
     },
     {
       "content": "彼女は涙を流した。",
       "furigana": "[彼女|かの|じょ]は[涙|なみだ]を[流|なが]した。",
-      "translation_zh_CN": "她流淚了。"
+      "translation_zh_CN": "她流泪了。"
     },
     {
       "content": "トムは涙を流した。",
@@ -159,7 +159,7 @@
     {
       "content": "彼女は涙をうかべて答えた。",
       "furigana": "[彼女|かの|じょ]は[涙|なみだ]をうかべて[答|ごた]えた。",
-      "translation_zh_CN": "她很傷心地回答。"
+      "translation_zh_CN": "她很伤心地回答。"
     },
     {
       "content": "涙は彼の目から落ちました。",
@@ -174,7 +174,7 @@
     {
       "content": "涙がアリスのほほを流れ落ちた。",
       "furigana": "[涙|なみだ]がアリスのほほを[流|なが]れ[落|お]ちた。",
-      "translation_zh_CN": "淚水沿著愛麗絲的臉頰流下來。"
+      "translation_zh_CN": "泪水沿著爱丽丝的脸颊流下来。"
     }
   ],
   "usages": [

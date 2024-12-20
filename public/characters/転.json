@@ -143,7 +143,7 @@
     {
       "content": "転石苔を生ぜず。",
       "furigana": "[転石|てん|せき][苔|こけ]を[生|しょう]ぜず。",
-      "translation_zh_CN": "滾石不生苔。"
+      "translation_zh_CN": "滚石不生苔。"
     },
     {
       "content": "これは君の自転車？",
@@ -153,12 +153,12 @@
     {
       "content": "安全運転してね。",
       "furigana": "[安全|あん|ぜん][運転|うん|てん]してね。",
-      "translation_zh_CN": "安全地駕駛。"
+      "translation_zh_CN": "安全地驾驶。"
     },
     {
       "content": "車は運転できるの？",
       "furigana": "[車|くるま]は[運転|うん|てん]できるの？",
-      "translation_zh_CN": "你會駕車嗎？"
+      "translation_zh_CN": "你会驾车吗？"
     },
     {
       "content": "この自転車、誰の？",
@@ -173,17 +173,17 @@
     {
       "content": "自転車が壊れた。",
       "furigana": "[自転車|じ|てん|しゃ]が[壊|こわ]れた。",
-      "translation_zh_CN": "我的自行車壞了。"
+      "translation_zh_CN": "我的自行车坏了。"
     },
     {
       "content": "運転したいです。",
       "furigana": "[運転|うん|てん]したいです。",
-      "translation_zh_CN": "我想開車。"
+      "translation_zh_CN": "我想开车。"
     },
     {
       "content": "自転車乗れますか？",
       "furigana": "[自転車|じ|てん|しゃ][乗|の]れますか？",
-      "translation_zh_CN": "你會騎車嗎？"
+      "translation_zh_CN": "你会骑车吗？"
     },
     {
       "content": "彼は昨年転校した。",

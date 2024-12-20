@@ -97,12 +97,12 @@
     {
       "content": "昨日は曇っていた。",
       "furigana": "[昨日|きのう]は[曇|くも]っていた。",
-      "translation_zh_CN": "昨天是多雲。"
+      "translation_zh_CN": "昨天是多云。"
     },
     {
       "content": "昨日は曇りだった。",
       "furigana": "[昨日|きのう]は[曇|くも]りだった。",
-      "translation_zh_CN": "昨天是多雲。"
+      "translation_zh_CN": "昨天是多云。"
     },
     {
       "content": "今日は曇っている。",
@@ -117,17 +117,17 @@
     {
       "content": "予報では明日は曇りです。",
       "furigana": "[予報|よ|ほう]では[明日|あした]は[曇|くも]りです。",
-      "translation_zh_CN": "預告說明天多雲。"
+      "translation_zh_CN": "预告说明天多云。"
     },
     {
       "content": "空がだんだん曇ってきた。",
       "furigana": "[空|そら]がだんだん[曇|くも]ってきた。",
-      "translation_zh_CN": "烏雲逐漸佈滿了整個天空。"
+      "translation_zh_CN": "乌云逐渐布满了整个天空。"
     },
     {
       "content": "曇ってきたぞ。もうすぐ雨が降るかもしれないな。",
       "furigana": "[曇|くも]ってきたぞ。もうすぐ[雨|あめ]が[降|ふ]るかもしれないな。",
-      "translation_zh_CN": "雲愈來愈多，可能快下雨了。"
+      "translation_zh_CN": "云愈来愈多，可能快下雨了。"
     }
   ],
   "usages": [

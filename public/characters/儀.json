@@ -176,22 +176,22 @@
     {
       "content": "私は彼の葬儀に参加した。",
       "furigana": "[私|わたし]は[彼|かれ]の[葬儀|そう|ぎ]に[参加|さん|か]した。",
-      "translation_zh_CN": "我參加了他的葬禮。"
+      "translation_zh_CN": "我参加了他的葬礼。"
     },
     {
       "content": "今日は行儀よくしていたかい。",
       "furigana": "[今日|きょう]は[行儀|ぎょう|ぎ]よくしていたかい。",
-      "translation_zh_CN": "你今天乖嗎？"
+      "translation_zh_CN": "你今天乖吗？"
     },
     {
       "content": "彼は私をまるで他人行儀に扱う。",
       "furigana": "[彼|かれ]は[私|わたし]をまるで[他人行儀|た|にん|ぎょう|ぎ]に[扱|あつか]う。",
-      "translation_zh_CN": "他把我當成陌生人來看待。"
+      "translation_zh_CN": "他把我当成陌生人来看待。"
     },
     {
       "content": "それはとても伝統的な儀式だった。",
       "furigana": "それはとても[伝統|でん|とう][的|てき]な[儀式|ぎ|しき]だった。",
-      "translation_zh_CN": "那是一個十分傳統的儀式。"
+      "translation_zh_CN": "那是一个十分传统的仪式。"
     }
   ],
   "usages": [

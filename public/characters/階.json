@@ -174,12 +174,12 @@
     {
       "content": "その建物は７階建てだ。",
       "furigana": "その[建物|たて|もの]は[７|なな][階|かい][建|だ]てだ。",
-      "translation_zh_CN": "這棟建築物有七層樓高。"
+      "translation_zh_CN": "这栋建筑物有七层楼高。"
     },
     {
       "content": "１階席が欲しいのです。",
       "furigana": "[１|][階|かい][席|せき]が[欲|ほ]しいのです。",
-      "translation_zh_CN": "我想要一樓的座位。"
+      "translation_zh_CN": "我想要一楼的座位。"
     },
     {
       "content": "男子トイレは2階です。",
@@ -189,7 +189,7 @@
     {
       "content": "図書室は４階にあります。",
       "furigana": "[図書|と|しょ][室|しつ]は[４|][階|かい]にあります。",
-      "translation_zh_CN": "圖書館在四樓。"
+      "translation_zh_CN": "图书馆在四楼。"
     }
   ],
   "usages": [

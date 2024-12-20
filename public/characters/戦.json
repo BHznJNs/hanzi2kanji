@@ -190,12 +190,12 @@
     {
       "content": "西部戦線異状なし",
       "furigana": "[西部|せい|ぶ][戦線|せん|せん][異状|い|じょう]なし",
-      "translation_zh_CN": "西線無戰事"
+      "translation_zh_CN": "西线无战事"
     },
     {
       "content": "彼は戦死しました。",
       "furigana": "[彼|かれ]は[戦死|せん|し]しました。",
-      "translation_zh_CN": "他死於战争。"
+      "translation_zh_CN": "他死于战争。"
     },
     {
       "content": "戦争は２年続いた。",
@@ -205,7 +205,7 @@
     {
       "content": "彼らは戦っている。",
       "furigana": "[彼|かれ]らは[戦|たたか]っている。",
-      "translation_zh_CN": "她們在幹架。"
+      "translation_zh_CN": "她们在干架。"
     },
     {
       "content": "彼は戦争で負傷した。",

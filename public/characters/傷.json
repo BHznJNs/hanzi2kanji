@@ -181,12 +181,12 @@
     {
       "content": "誰も傷つけないで！",
       "furigana": "[誰|だれ]も[傷|きず]つけないで！",
-      "translation_zh_CN": "別冒犯任何人。"
+      "translation_zh_CN": "别冒犯任何人。"
     },
     {
       "content": "傷付けないでくれ。",
       "furigana": "[傷付|きず|つ]けないでくれ。",
-      "translation_zh_CN": "不要傷害我。"
+      "translation_zh_CN": "不要伤害我。"
     },
     {
       "content": "トムは傷を受けた。",
@@ -196,7 +196,7 @@
     {
       "content": "牛乳が傷んでるよ。",
       "furigana": "[牛乳|ぎゅう|にゅう]が[傷|いた]んでるよ。",
-      "translation_zh_CN": "牛奶變質了。"
+      "translation_zh_CN": "牛奶变质了。"
     },
     {
       "content": "彼は戦争で負傷した。",
@@ -206,12 +206,12 @@
     {
       "content": "彼は事故で負傷した。",
       "furigana": "[彼|かれ]は[事故|じ|こ]で[負傷|ふ|しょう]した。",
-      "translation_zh_CN": "他在事故中受傷。"
+      "translation_zh_CN": "他在事故中受伤。"
     },
     {
       "content": "傷口からうみが出た。",
       "furigana": "[傷口|きず|ぐち]からうみが[出|で]た。",
-      "translation_zh_CN": "傷口流出膿液。"
+      "translation_zh_CN": "伤口流出脓液。"
     },
     {
       "content": "傷あとが残りますか。",
@@ -221,7 +221,7 @@
     {
       "content": "指先を火傷しました。",
       "furigana": "[指先|ゆび|さき]を[火傷|やけど]しました。",
-      "translation_zh_CN": "我把我的指尖給燒傷了。"
+      "translation_zh_CN": "我把我的指尖给烧伤了。"
     },
     {
       "content": "彼女を傷付けないで。",

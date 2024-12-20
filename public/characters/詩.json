@@ -133,7 +133,7 @@
     {
       "content": "あれは大した詩だ。",
       "furigana": "あれは[大|たい]した[詩|し]だ。",
-      "translation_zh_CN": "這是一首很棒的詩。"
+      "translation_zh_CN": "这是一首很棒的诗。"
     },
     {
       "content": "アレンは詩人です。",
@@ -148,12 +148,12 @@
     {
       "content": "私は短詩が好きです。",
       "furigana": "[私|わたし]は[短詩|たん|し]が[好|す]きです。",
-      "translation_zh_CN": "我喜歡短詩。"
+      "translation_zh_CN": "我喜欢短诗。"
     },
     {
       "content": "私は短い詩が好きです。",
       "furigana": "[私|わたし]は[短|みじか]い[詩|し]が[好|す]きです。",
-      "translation_zh_CN": "我喜歡短詩。"
+      "translation_zh_CN": "我喜欢短诗。"
     },
     {
       "content": "彼は生まれながらの詩人だ。",
@@ -173,12 +173,12 @@
     {
       "content": "彼女は苦もなくその詩を暗記した。",
       "furigana": "[彼女|かの|じょ]は[苦|く]もなくその[詩|し]を[暗記|あん|き]した。",
-      "translation_zh_CN": "她輕而易舉的就把詩背熟了。"
+      "translation_zh_CN": "她轻而易举的就把诗背熟了。"
     },
     {
       "content": "芭蕉はもっとも偉大な詩人だった。",
       "furigana": "[芭蕉|ば|しょう]はもっとも[偉大|い|だい]な[詩人|し|じん]だった。",
-      "translation_zh_CN": "芭蕉是最偉大的詩人。"
+      "translation_zh_CN": "芭蕉是最伟大的诗人。"
     }
   ],
   "usages": [

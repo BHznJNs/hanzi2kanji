@@ -178,17 +178,17 @@
     {
       "content": "数学は私には難しい。",
       "furigana": "[数学|すう|がく]は[私|わたし]には[難|むずか]しい。",
-      "translation_zh_CN": "數學對我來說很難。"
+      "translation_zh_CN": "数学对我来说很难。"
     },
     {
       "content": "英語は難しいですね。",
       "furigana": "[英語|えい|ご]は[難|むずか]しいですね。",
-      "translation_zh_CN": "英語很難，不是嗎？"
+      "translation_zh_CN": "英语很难，不是吗？"
     },
     {
       "content": "彼は難問を解決した。",
       "furigana": "[彼|かれ]は[難問|なん|もん]を[解決|かい|けつ]した。",
-      "translation_zh_CN": "他解決了難題。"
+      "translation_zh_CN": "他解决了难题。"
     },
     {
       "content": "彼は困難に打ち勝った。",
@@ -198,7 +198,7 @@
     {
       "content": "彼はいささか気難しい。",
       "furigana": "[彼|かれ]はいささか[気難|き|むずか]しい。",
-      "translation_zh_CN": "取悅他很難。"
+      "translation_zh_CN": "取悦他很难。"
     }
   ],
   "usages": [

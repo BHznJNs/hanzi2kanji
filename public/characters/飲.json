@@ -77,7 +77,7 @@
     {
       "content": "何を飲みますか。",
       "furigana": "[何|なに]を[飲|の]みますか。",
-      "translation_zh_CN": "你想喝點甚麼？"
+      "translation_zh_CN": "你想喝点甚么？"
     },
     {
       "content": "何か飲みますか。",
@@ -107,7 +107,7 @@
     {
       "content": "この水は飲めるの？",
       "furigana": "この[水|みず]は[飲|の]めるの？",
-      "translation_zh_CN": "這水能喝嗎？"
+      "translation_zh_CN": "这水能喝吗？"
     },
     {
       "content": "薬はもう飲んだの？",

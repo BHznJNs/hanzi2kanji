@@ -141,7 +141,7 @@
     {
       "content": "出かける時間よ。",
       "furigana": "[出|で]かける[時間|じ|かん]よ。",
-      "translation_zh_CN": "該走了。"
+      "translation_zh_CN": "该走了。"
     },
     {
       "content": "私は時間がない。",
@@ -156,7 +156,7 @@
     {
       "content": "まだ時間がある。",
       "furigana": "まだ[時間|じ|かん]がある。",
-      "translation_zh_CN": "我們仍然有更多的時間。"
+      "translation_zh_CN": "我们仍然有更多的时间。"
     },
     {
       "content": "そろそろ時間だ。",
@@ -166,7 +166,7 @@
     {
       "content": "これらは人間だ。",
       "furigana": "これらは[人間|にん|げん]だ。",
-      "translation_zh_CN": "這些是人。"
+      "translation_zh_CN": "这些是人。"
     }
   ],
   "usages": [

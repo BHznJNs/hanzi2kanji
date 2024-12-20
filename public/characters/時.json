@@ -133,7 +133,7 @@
     {
       "content": "僕の時計はどこだ？",
       "furigana": "[僕|ぼく]の[時計|と|けい]はどこだ？",
-      "translation_zh_CN": "我的手錶在哪裡？"
+      "translation_zh_CN": "我的手表在哪里？"
     },
     {
       "content": "寝る時間ですよ。",
@@ -148,12 +148,12 @@
     {
       "content": "出かける時間よ。",
       "furigana": "[出|で]かける[時間|じ|かん]よ。",
-      "translation_zh_CN": "該走了。"
+      "translation_zh_CN": "该走了。"
     },
     {
       "content": "十時ごろですか。",
       "furigana": "[十|じゅう][時|じ]ごろですか。",
-      "translation_zh_CN": "大約十點鐘嗎？"
+      "translation_zh_CN": "大约十点钟吗？"
     },
     {
       "content": "時計を盗まれた。",
@@ -163,7 +163,7 @@
     {
       "content": "時計が止まった。",
       "furigana": "[時計|と|けい]が[止|と]まった。",
-      "translation_zh_CN": "時鐘已經停止了。"
+      "translation_zh_CN": "时钟已经停止了。"
     },
     {
       "content": "六時までに戻る。",

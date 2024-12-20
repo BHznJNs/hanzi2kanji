@@ -94,7 +94,7 @@
     {
       "content": "まだ決めてないの？",
       "furigana": "まだ[決|き]めてないの？",
-      "translation_zh_CN": "您還沒決定嗎？"
+      "translation_zh_CN": "您还没决定吗？"
     },
     {
       "content": "彼は決心を変えた。",
@@ -104,27 +104,27 @@
     {
       "content": "彼はすぐに決心した。",
       "furigana": "[彼|かれ]はすぐに[決心|けっ|しん]した。",
-      "translation_zh_CN": "他很快就下定了決心。"
+      "translation_zh_CN": "他很快就下定了决心。"
     },
     {
       "content": "試合は雨天決行です。",
       "furigana": "[試合|し|あい]は[雨天|う|てん][決行|けっ|こう]です。",
-      "translation_zh_CN": "無論颳風還是下雨，比賽都會繼續進行下去。"
+      "translation_zh_CN": "无论刮风还是下雨，比赛都会继续进行下去。"
     },
     {
       "content": "まだ決めていません。",
       "furigana": "まだ[決|き]めていません。",
-      "translation_zh_CN": "我還沒有下定決心。"
+      "translation_zh_CN": "我还没有下定决心。"
     },
     {
       "content": "彼は難問を解決した。",
       "furigana": "[彼|かれ]は[難問|なん|もん]を[解決|かい|けつ]した。",
-      "translation_zh_CN": "他解決了難題。"
+      "translation_zh_CN": "他解决了难题。"
     },
     {
       "content": "まだ決めてないです。",
       "furigana": "まだ[決|き]めてないです。",
-      "translation_zh_CN": "我還沒決定。"
+      "translation_zh_CN": "我还没决定。"
     },
     {
       "content": "僕は自分で決断した。",
@@ -134,12 +134,12 @@
     {
       "content": "その問題は解決できた？",
       "furigana": "その[問題|もん|だい]は[解決|かい|けつ]できた？",
-      "translation_zh_CN": "你能解決這個問題嗎？"
+      "translation_zh_CN": "你能解决这个问题吗？"
     },
     {
       "content": "最終決定は彼に任せた。",
       "furigana": "[最終|さい|しゅう][決定|けっ|てい]は[彼|かれ]に[任|まか]せた。",
-      "translation_zh_CN": "我們讓他做最後的決定。"
+      "translation_zh_CN": "我们让他做最后的决定。"
     }
   ],
   "usages": [

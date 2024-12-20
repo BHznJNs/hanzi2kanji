@@ -123,7 +123,7 @@
     {
       "content": "夕食はお済みですか。",
       "furigana": "[夕食|ゆう|しょく]はお[済|す]みですか。",
-      "translation_zh_CN": "你吃晚飯了嗎？"
+      "translation_zh_CN": "你吃晚饭了吗？"
     },
     {
       "content": "もう仕事は済ませたよ。",
@@ -133,17 +133,17 @@
     {
       "content": "彼は経済学の権威です。",
       "furigana": "[彼|かれ]は[経済|けい|ざい][学|がく]の[権威|けん|い]です。",
-      "translation_zh_CN": "他是權威的經濟學家。"
+      "translation_zh_CN": "他是权威的经济学家。"
     },
     {
       "content": "昼食が済んだとこだよ。",
       "furigana": "[昼食|ちゅう|しょく]が[済|す]んだとこだよ。",
-      "translation_zh_CN": "我剛吃完了午飯。"
+      "translation_zh_CN": "我刚吃完了午饭。"
     },
     {
       "content": "もう宿題は済んでるよ。",
       "furigana": "もう[宿題|しゅく|だい]は[済|す]んでるよ。",
-      "translation_zh_CN": "我已經完成了我的作業。"
+      "translation_zh_CN": "我已经完成了我的作业。"
     },
     {
       "content": "済んだら戻してください。",
@@ -153,12 +153,12 @@
     {
       "content": "経済学を専攻しています。",
       "furigana": "[経済|けい|ざい][学|がく]を[専攻|せん|こう]しています。",
-      "translation_zh_CN": "我專攻經濟學。"
+      "translation_zh_CN": "我专攻经济学。"
     },
     {
       "content": "済んだことはしかたがない。",
       "furigana": "[済|す]んだことはしかたがない。",
-      "translation_zh_CN": "覆水難收。"
+      "translation_zh_CN": "覆水难收。"
     }
   ],
   "usages": [

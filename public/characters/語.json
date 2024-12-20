@@ -154,7 +154,7 @@
     {
       "content": "英語が話せないの？",
       "furigana": "[英語|えい|ご]が[話|はな]せないの？",
-      "translation_zh_CN": "你不會說英語嗎?"
+      "translation_zh_CN": "你不会说英语吗?"
     },
     {
       "content": "英語の先生です。",
@@ -164,22 +164,22 @@
     {
       "content": "何語が話せますか？",
       "furigana": "[何|なに][語|ご]が[話|はな]せますか？",
-      "translation_zh_CN": "你會說什麼語言？"
+      "translation_zh_CN": "你会说什么语言？"
     },
     {
       "content": "何か国語話せるの？",
       "furigana": "[何|なん]か[国語|こく|ご][話|はな]せるの？",
-      "translation_zh_CN": "你會說多少種語言?"
+      "translation_zh_CN": "你会说多少种语言?"
     },
     {
       "content": "英語を聞いてるの？",
       "furigana": "[英語|えい|ご]を[聞|き]いてるの？",
-      "translation_zh_CN": "你在聽英語嗎？"
+      "translation_zh_CN": "你在听英语吗？"
     },
     {
       "content": "英語、話せるよ。",
       "furigana": "[英語|えい|ご]、[話|はな]せるよ。",
-      "translation_zh_CN": "我會講英語。"
+      "translation_zh_CN": "我会讲英语。"
     },
     {
       "content": "彼は英語がうまい。",
@@ -194,7 +194,7 @@
     {
       "content": "私は英語が話せる。",
       "furigana": "[私|わたし]は[英語|えい|ご]が[話|はな]せる。",
-      "translation_zh_CN": "我會講英語。"
+      "translation_zh_CN": "我会讲英语。"
     },
     {
       "content": "英語を話しますか。",

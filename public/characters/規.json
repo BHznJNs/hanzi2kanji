@@ -90,17 +90,17 @@
     {
       "content": "どの規則にも例外がある。",
       "furigana": "どの[規則|き|そく]にも[例外|れい|がい]がある。",
-      "translation_zh_CN": "每條規則都有例外。"
+      "translation_zh_CN": "每条规则都有例外。"
     },
     {
       "content": "どんな規則にも例外はある。",
       "furigana": "どんな[規則|き|そく]にも[例外|れい|がい]はある。",
-      "translation_zh_CN": "每條規則都有例外。"
+      "translation_zh_CN": "每条规则都有例外。"
     },
     {
       "content": "例外のない規則はありません。",
       "furigana": "[例外|れい|がい]のない[規則|き|そく]はありません。",
-      "translation_zh_CN": "每條規則都有例外。"
+      "translation_zh_CN": "每条规则都有例外。"
     },
     {
       "content": "規則は守らなければならない。",
@@ -115,7 +115,7 @@
     {
       "content": "どんな規則にも例外はあります。",
       "furigana": "どんな[規則|き|そく]にも[例外|れい|がい]はあります。",
-      "translation_zh_CN": "每條規則都有例外。"
+      "translation_zh_CN": "每条规则都有例外。"
     },
     {
       "content": "不規則動詞の勉強は好きではない。",
@@ -125,7 +125,7 @@
     {
       "content": "彼女は規則をかいくぐるのがうまい。",
       "furigana": "[彼女|かの|じょ]は[規則|き|そく]をかいくぐるのがうまい。",
-      "translation_zh_CN": "她擅於逃避規則。"
+      "translation_zh_CN": "她擅于逃避规则。"
     }
   ],
   "usages": [

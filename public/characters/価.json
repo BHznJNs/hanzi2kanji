@@ -73,12 +73,12 @@
     {
       "content": "物価が上がった。",
       "furigana": "[物価|ぶっ|か]が[上|あ]がった。",
-      "translation_zh_CN": "物價上漲。"
+      "translation_zh_CN": "物价上涨。"
     },
     {
       "content": "株価が下がった。",
       "furigana": "[株価|かぶ|か]が[下|さ]がった。",
-      "translation_zh_CN": "股價下跌了。"
+      "translation_zh_CN": "股价下跌了。"
     },
     {
       "content": "物価は上昇し続けた。",
@@ -98,17 +98,17 @@
     {
       "content": "覚える価値さえない。",
       "furigana": "[覚|おぼ]える[価値|か|ち]さえない。",
-      "translation_zh_CN": "不值得去記。"
+      "translation_zh_CN": "不值得去记。"
     },
     {
       "content": "物価は上がる一方だ。",
       "furigana": "[物価|ぶっ|か]は[上|あ]がる[一方|いっ|ぽう]だ。",
-      "translation_zh_CN": "物價在上漲。"
+      "translation_zh_CN": "物价在上涨。"
     },
     {
       "content": "価格は需要を反映する。",
       "furigana": "[価格|か|かく]は[需要|じゅ|よう]を[反映|はん|えい]する。",
-      "translation_zh_CN": "價格反映著需求。"
+      "translation_zh_CN": "价格反映著需求。"
     },
     {
       "content": "物価が劇的に上がった。",
@@ -118,7 +118,7 @@
     {
       "content": "私は彼女を高く評価した。",
       "furigana": "[私|わたし]は[彼女|かの|じょ]を[高|たか]く[評価|ひょう|か]した。",
-      "translation_zh_CN": "我對她的評價很好。"
+      "translation_zh_CN": "我对她的评价很好。"
     }
   ],
   "usages": [

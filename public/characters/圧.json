@@ -105,12 +105,12 @@
     {
       "content": "血圧を測りますね。",
       "furigana": "[血圧|けつ|あつ]を[測|はか]りますね。",
-      "translation_zh_CN": "讓我量量你的血壓。"
+      "translation_zh_CN": "让我量量你的血压。"
     },
     {
       "content": "血圧が低いですね。",
       "furigana": "[血圧|けつ|あつ]が[低|ひく]いですね。",
-      "translation_zh_CN": "您的血壓很低。"
+      "translation_zh_CN": "您的血压很低。"
     },
     {
       "content": "私は血圧が低いです。",
@@ -120,7 +120,7 @@
     {
       "content": "血圧を計りましょう。",
       "furigana": "[血圧|けつ|あつ]を[計|はか]りましょう。",
-      "translation_zh_CN": "讓我量量你的血壓。"
+      "translation_zh_CN": "让我量量你的血压。"
     }
   ],
   "usages": [

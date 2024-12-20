@@ -126,7 +126,7 @@
     {
       "content": "勘定書を頼むよ。",
       "furigana": "[勘定|かん|じょう][書|しょ]を[頼|たの]むよ。",
-      "translation_zh_CN": "請結帳。"
+      "translation_zh_CN": "请结帐。"
     },
     {
       "content": "明日図書館でね。",
@@ -146,12 +146,12 @@
     {
       "content": "それは辞書だよ。",
       "furigana": "それは[辞書|じ|しょ]だよ。",
-      "translation_zh_CN": "那是一本詞典。"
+      "translation_zh_CN": "那是一本词典。"
     },
     {
       "content": "書くものをくれ。",
       "furigana": "[書|か]くものをくれ。",
-      "translation_zh_CN": "給我一些我可以在上面寫字的東西。"
+      "translation_zh_CN": "给我一些我可以在上面写字的东西。"
     },
     {
       "content": "趣味は読書です。",
@@ -161,12 +161,12 @@
     {
       "content": "何か書きなさい。",
       "furigana": "[何|なに]か[書|か]きなさい。",
-      "translation_zh_CN": "寫點什麼。"
+      "translation_zh_CN": "写点什么。"
     },
     {
       "content": "名前はどう書くの？",
       "furigana": "[名前|な|まえ]はどう[書|か]くの？",
-      "translation_zh_CN": "你怎麼拼你的名字的？"
+      "translation_zh_CN": "你怎么拼你的名字的？"
     },
     {
       "content": "読書は好きですか？",

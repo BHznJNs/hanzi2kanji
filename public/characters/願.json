@@ -148,12 +148,12 @@
     {
       "content": "ご注目願います。",
       "furigana": "ご[注目|ちゅう|もく][願|ねが]います。",
-      "translation_zh_CN": "請注意。"
+      "translation_zh_CN": "请注意。"
     },
     {
       "content": "勘定お願いします。",
       "furigana": "[勘定|かん|じょう]お[願|ねが]いします。",
-      "translation_zh_CN": "請結帳。"
+      "translation_zh_CN": "请结帐。"
     },
     {
       "content": "魚をお願いします。",
@@ -163,7 +163,7 @@
     {
       "content": "お勘定をお願いね。",
       "furigana": "お[勘定|かん|じょう]をお[願|ねが]いね。",
-      "translation_zh_CN": "請把帳單給我好嗎？"
+      "translation_zh_CN": "请把帐单给我好吗？"
     },
     {
       "content": "お願い、死なないで！",
@@ -178,17 +178,17 @@
     {
       "content": "お静かに願います。",
       "furigana": "お[静|しず]かに[願|ねが]います。",
-      "translation_zh_CN": "請安靜。"
+      "translation_zh_CN": "请安静。"
     },
     {
       "content": "清算をお願いします。",
       "furigana": "[清算|せい|さん]をお[願|ねが]いします。",
-      "translation_zh_CN": "請結帳。"
+      "translation_zh_CN": "请结帐。"
     },
     {
       "content": "会計をお願いします。",
       "furigana": "[会計|かい|けい]をお[願|ねが]いします。",
-      "translation_zh_CN": "把帳單給我好嗎？"
+      "translation_zh_CN": "把帐单给我好吗？"
     },
     {
       "content": "レアでお願いします。",

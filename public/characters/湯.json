@@ -146,12 +146,12 @@
     {
       "content": "薬缶のお湯が沸いている。",
       "furigana": "[薬缶|や|かん]のお[湯|ゆ]が[沸|わ]いている。",
-      "translation_zh_CN": "茶壺沸了。"
+      "translation_zh_CN": "茶壶沸了。"
     },
     {
       "content": "熱湯でやけどをしました。",
       "furigana": "[熱湯|ねっ|とう]でやけどをしました。",
-      "translation_zh_CN": "我給沸水燙傷了。"
+      "translation_zh_CN": "我给沸水烫伤了。"
     },
     {
       "content": "お湯を少し沸かしてください。",

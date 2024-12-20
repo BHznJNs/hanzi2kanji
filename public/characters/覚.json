@@ -104,12 +104,12 @@
     {
       "content": "何で目が覚めたの？",
       "furigana": "[何|なん]で[目|め]が[覚|さ]めたの？",
-      "translation_zh_CN": "什麼吵醒你了?"
+      "translation_zh_CN": "什么吵醒你了?"
     },
     {
       "content": "覚えていません。",
       "furigana": "[覚|おぼ]えていません。",
-      "translation_zh_CN": "我記不得了。"
+      "translation_zh_CN": "我记不得了。"
     },
     {
       "content": "よく覚えてるよ。",
@@ -129,7 +129,7 @@
     {
       "content": "覚えていないんだ。",
       "furigana": "[覚|おぼ]えていないんだ。",
-      "translation_zh_CN": "我記不得了。"
+      "translation_zh_CN": "我记不得了。"
     },
     {
       "content": "11時に目が覚めた。",
@@ -139,7 +139,7 @@
     {
       "content": "覚える価値さえない。",
       "furigana": "[覚|おぼ]える[価値|か|ち]さえない。",
-      "translation_zh_CN": "不值得去記。"
+      "translation_zh_CN": "不值得去记。"
     },
     {
       "content": "その音で目が覚めた。",

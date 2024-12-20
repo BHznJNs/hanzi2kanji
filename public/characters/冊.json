@@ -139,27 +139,27 @@
     {
       "content": "この小冊子は無料だ。",
       "furigana": "この[小冊子|しょう|さっ|し]は[無料|む|りょう]だ。",
-      "translation_zh_CN": "這本小冊子是免費的。"
+      "translation_zh_CN": "这本小册子是免费的。"
     },
     {
       "content": "本が一冊棚から落ちた。",
       "furigana": "[本|ほん]が[一冊|いっさつ][棚|たな]から[落|お]ちた。",
-      "translation_zh_CN": "書從櫃子上掉下來。"
+      "translation_zh_CN": "书从柜子上掉下来。"
     },
     {
       "content": "私は一冊の本を買った。",
       "furigana": "[私|わたし]は[一冊|いっ|さつ]の[本|ほん]を[買|か]った。",
-      "translation_zh_CN": "我買了一本書。"
+      "translation_zh_CN": "我买了一本书。"
     },
     {
       "content": "机の上に本が１冊ある。",
       "furigana": "[机|つくえ]の[上|うえ]に[本|ほん]が[１|いっ][冊|さつ]ある。",
-      "translation_zh_CN": "桌上有一本書。"
+      "translation_zh_CN": "桌上有一本书。"
     },
     {
       "content": "机の上に一冊の本がある。",
       "furigana": "[机|つくえ]の[上|うえ]に[一|いっ][冊|さつ]の[本|ほん]がある。",
-      "translation_zh_CN": "桌上有一本書。"
+      "translation_zh_CN": "桌上有一本书。"
     },
     {
       "content": "机の上に数冊の本がある。",
@@ -169,17 +169,17 @@
     {
       "content": "適当に３冊、本を選んで。",
       "furigana": "[適当|てき|とう]に[３|さん][冊|さつ]、[本|ほん]を[選|えら]んで。",
-      "translation_zh_CN": "隨便選三本書。"
+      "translation_zh_CN": "随便选三本书。"
     },
     {
       "content": "机の上に本が一冊あります。",
       "furigana": "[机|つくえ]の[上|うえ]に[本|ほん]が[一|いっ][冊|さつ]あります。",
-      "translation_zh_CN": "桌上有一本書。"
+      "translation_zh_CN": "桌上有一本书。"
     },
     {
       "content": "ここに一冊の本があります。",
       "furigana": "ここに[一|いっ][冊|さつ]の[本|ほん]があります。",
-      "translation_zh_CN": "這裡有一本書。"
+      "translation_zh_CN": "这里有一本书。"
     }
   ],
   "usages": [

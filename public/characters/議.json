@@ -159,7 +159,7 @@
     {
       "content": "会議は明日開かれる。",
       "furigana": "[会議|かい|ぎ]は[明日|あした][開|ひら]かれる。",
-      "translation_zh_CN": "會議將於明天舉行。"
+      "translation_zh_CN": "会议将于明天举行。"
     },
     {
       "content": "渋滞で会議に遅れた。",
@@ -184,12 +184,12 @@
     {
       "content": "和平会議が来週始まる。",
       "furigana": "[和平|わ|へい][会議|かい|ぎ]が[来週|らい|しゅう][始|はじ]まる。",
-      "translation_zh_CN": "和平會談將在下週開始。"
+      "translation_zh_CN": "和平会谈将在下周开始。"
     },
     {
       "content": "彼は議長に任命された。",
       "furigana": "[彼|かれ]は[議長|ぎ|ちょう]に[任命|にん|めい]された。",
-      "translation_zh_CN": "他被任命為議長。"
+      "translation_zh_CN": "他被任命为议长。"
     }
   ],
   "usages": [

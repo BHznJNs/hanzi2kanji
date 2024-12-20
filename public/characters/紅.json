@@ -83,32 +83,32 @@
     {
       "content": "彼は紅茶を注文した。",
       "furigana": "[彼|かれ]は[紅茶|こう|ちゃ]を[注文|ちゅう|もん]した。",
-      "translation_zh_CN": "他點了一杯茶。"
+      "translation_zh_CN": "他点了一杯茶。"
     },
     {
       "content": "紅茶を一杯飲みたい。",
       "furigana": "[紅茶|こう|ちゃ]を[一杯|いっ|ぱい][飲|の]みたい。",
-      "translation_zh_CN": "我想喝杯紅茶。"
+      "translation_zh_CN": "我想喝杯红茶。"
     },
     {
       "content": "紅茶をお願いします。",
       "furigana": "[紅茶|こう|ちゃ]をお[願|ねが]いします。",
-      "translation_zh_CN": "請給我一杯茶。"
+      "translation_zh_CN": "请给我一杯茶。"
     },
     {
       "content": "コーヒー？それとも紅茶？",
       "furigana": "コーヒー？それとも[紅茶|こう|ちゃ]？",
-      "translation_zh_CN": "咖啡還是茶？"
+      "translation_zh_CN": "咖啡还是茶？"
     },
     {
       "content": "紅茶をいただけますか。",
       "furigana": "[紅茶|こう|ちゃ]をいただけますか。",
-      "translation_zh_CN": "能來點茶嗎？"
+      "translation_zh_CN": "能来点茶吗？"
     },
     {
       "content": "紅茶を一杯いかがですか。",
       "furigana": "[紅茶|こう|ちゃ]を[一杯|いっ|ぱい]いかがですか。",
-      "translation_zh_CN": "喝杯紅茶嗎？"
+      "translation_zh_CN": "喝杯红茶吗？"
     },
     {
       "content": "紅茶を１杯お願いします。",
@@ -123,7 +123,7 @@
     {
       "content": "紅茶よりコーヒーがいいな。",
       "furigana": "[紅茶|こう|ちゃ]よりコーヒーがいいな。",
-      "translation_zh_CN": "我喜歡咖啡勝過茶。"
+      "translation_zh_CN": "我喜欢咖啡胜过茶。"
     }
   ],
   "usages": [

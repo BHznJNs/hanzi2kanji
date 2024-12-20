@@ -108,7 +108,7 @@
     {
       "content": "窓を開けなさい。",
       "furigana": "[窓|まど]を[開|あ]けなさい。",
-      "translation_zh_CN": "請打開窗。"
+      "translation_zh_CN": "请打开窗。"
     },
     {
       "content": "口を開けなさい。",
@@ -123,12 +123,12 @@
     {
       "content": "何故箱を開けたの？",
       "furigana": "[何故|なぜ][箱|はこ]を[開|あ]けたの？",
-      "translation_zh_CN": "你為什麼打開這個盒子？"
+      "translation_zh_CN": "你为什么打开这个盒子？"
     },
     {
       "content": "こころを開いて。",
       "furigana": "こころを[開|ひら]いて。",
-      "translation_zh_CN": "敞開你的心扉。"
+      "translation_zh_CN": "敞开你的心扉。"
     },
     {
       "content": "本を開かないで。",
@@ -138,7 +138,7 @@
     {
       "content": "蓋を開けました。",
       "furigana": "[蓋|ぶた]を[開|あ]けました。",
-      "translation_zh_CN": "我掀開了蓋子。"
+      "translation_zh_CN": "我掀开了盖子。"
     },
     {
       "content": "目を開けてみな。",

@@ -141,32 +141,32 @@
     {
       "content": "値段は聞きましたか。",
       "furigana": "[値段|ね|だん]は[聞|き]きましたか。",
-      "translation_zh_CN": "你問了價錢嗎？"
+      "translation_zh_CN": "你问了价钱吗？"
     },
     {
       "content": "値段はいくらですか。",
       "furigana": "[値段|ね|だん]はいくらですか。",
-      "translation_zh_CN": "多少錢？"
+      "translation_zh_CN": "多少钱？"
     },
     {
       "content": "覚える価値さえない。",
       "furigana": "[覚|おぼ]える[価値|か|ち]さえない。",
-      "translation_zh_CN": "不值得去記。"
+      "translation_zh_CN": "不值得去记。"
     },
     {
       "content": "卵の値段があがっている。",
       "furigana": "[卵|たまご]の[値段|ね|だん]があがっている。",
-      "translation_zh_CN": "蛋的價格正在上漲。"
+      "translation_zh_CN": "蛋的价格正在上涨。"
     },
     {
       "content": "野菜の値段は日々変わる。",
       "furigana": "[野菜|や|さい]の[値段|ね|だん]は[日々|ひび][変|か]わる。",
-      "translation_zh_CN": "蔬菜的價格每天在變。"
+      "translation_zh_CN": "蔬菜的价格每天在变。"
     },
     {
       "content": "日用品の値段が上がった。",
       "furigana": "[日|にち][用品|よう|ひん]の[値段|ね|だん]が[上|あ]がった。",
-      "translation_zh_CN": "日常用品變得愈加貴了。"
+      "translation_zh_CN": "日常用品变得愈加贵了。"
     },
     {
       "content": "尋ねるだけの価値がある。",
@@ -176,7 +176,7 @@
     {
       "content": "この本は読む価値がない。",
       "furigana": "この[本|ほん]は[読|よ]む[価値|か|ち]がない。",
-      "translation_zh_CN": "這本書不值得一讀。"
+      "translation_zh_CN": "这本书不值得一读。"
     }
   ],
   "usages": [

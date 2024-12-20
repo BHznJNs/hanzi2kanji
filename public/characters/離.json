@@ -130,12 +130,12 @@
     {
       "content": "彼女は夫と離婚した。",
       "furigana": "[彼女|かの|じょ]は[夫|おっと]と[離婚|り|こん]した。",
-      "translation_zh_CN": "她與丈夫離婚。"
+      "translation_zh_CN": "她与丈夫离婚。"
     },
     {
       "content": "彼は親離れしている。",
       "furigana": "[彼|かれ]は[親|おや][離|ばな]れしている。",
-      "translation_zh_CN": "他獨立於他的父母。"
+      "translation_zh_CN": "他独立于他的父母。"
     },
     {
       "content": "親が離婚しています。",
@@ -160,22 +160,22 @@
     {
       "content": "今仕事から手が離せない。",
       "furigana": "[今|こん][仕事|し|ごと]から[手|て]が[離|はな]せない。",
-      "translation_zh_CN": "我現在上班無法離開。"
+      "translation_zh_CN": "我现在上班无法离开。"
     },
     {
       "content": "駅までは距離があります。",
       "furigana": "[駅|えき]までは[距離|きょ|り]があります。",
-      "translation_zh_CN": "到車站的路程很遠。"
+      "translation_zh_CN": "到车站的路程很远。"
     },
     {
       "content": "離婚するんじゃないかしら。",
       "furigana": "[離婚|り|こん]するんじゃないかしら。",
-      "translation_zh_CN": "我想她會和他離婚。"
+      "translation_zh_CN": "我想她会和他离婚。"
     },
     {
       "content": "彼は先月奥さんと離婚した。",
       "furigana": "[彼|かれ]は[先月|せん|げつ][奥|おく]さんと[離婚|り|こん]した。",
-      "translation_zh_CN": "上個月他和妻子離婚了。"
+      "translation_zh_CN": "上个月他和妻子离婚了。"
     }
   ],
   "usages": [

@@ -142,7 +142,7 @@
     {
       "content": "話を続けなさい。",
       "furigana": "[話|はなし]を[続|つづ]けなさい。",
-      "translation_zh_CN": "繼續說你的故事吧。"
+      "translation_zh_CN": "继续说你的故事吧。"
     },
     {
       "content": "面白そうな話だ。",
@@ -152,12 +152,12 @@
     {
       "content": "毎晩電話するよ。",
       "furigana": "[毎晩|まい|ばん][電話|でん|わ]するよ。",
-      "translation_zh_CN": "我每晚都給你打電話。"
+      "translation_zh_CN": "我每晚都给你打电话。"
     },
     {
       "content": "彼は話をやめた。",
       "furigana": "[彼|かれ]は[話|はなし]をやめた。",
-      "translation_zh_CN": "他停止了說話。"
+      "translation_zh_CN": "他停止了说话。"
     },
     {
       "content": "電話にでなさい。",

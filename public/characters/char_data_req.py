@@ -186,6 +186,7 @@ import json
 import re
 import requests
 import time
+import opencc
 from typing import TypedDict
 from googletrans import Translator
 
@@ -194,6 +195,7 @@ TATOEBA_SENTENCES_URL = "https://tatoeba.org/en/api_v0/search?query={}&from=jpn&
 JISHO_WORD_URL = "https://jisho.org/api/v1/search/words?keyword={}"
 JISHO_WORD_MORE_URL = "https://jisho.org/api/v1/search/words?keyword={}?page=2"
 translator = Translator()
+converter = opencc.OpenCC('t2s')
 
 class SentenceData(TypedDict):
     content: str
@@ -235,6 +237,7 @@ def sentence_data_req(char: str) -> list[SentenceData]:
             for tran in data["translations"]:
                 if len(tran) == 0: continue
                 translated = tran[0]["text"]
+                translated = converter.convert(translated)
                 break
             filtered_data = SentenceData(
                 content=data["text"],

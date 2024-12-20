@@ -109,7 +109,7 @@
     {
       "content": "攻撃は最大の防御。",
       "furigana": "[攻撃|こう|げき]は[最大|さい|だい]の[防御|ぼう|ぎょ]。",
-      "translation_zh_CN": "進攻是最好的防禦。"
+      "translation_zh_CN": "进攻是最好的防御。"
     },
     {
       "content": "撃たないでください！",
@@ -119,22 +119,22 @@
     {
       "content": "彼は殺人を目撃した。",
       "furigana": "[彼|かれ]は[殺人|さつ|じん]を[目撃|もく|げき]した。",
-      "translation_zh_CN": "他目睹了謀殺案。"
+      "translation_zh_CN": "他目睹了谋杀案。"
     },
     {
       "content": "止まらないと撃つぞ。",
       "furigana": "[止|と]まらないと[撃|う]つぞ。",
-      "translation_zh_CN": "停止，不然我就開槍了。"
+      "translation_zh_CN": "停止，不然我就开枪了。"
     },
     {
       "content": "攻撃は最大の防御なり。",
       "furigana": "[攻撃|こう|げき]は[最大|さい|だい]の[防御|ぼう|ぎょ]なり。",
-      "translation_zh_CN": "進攻是最好的防禦。"
+      "translation_zh_CN": "进攻是最好的防御。"
     },
     {
       "content": "彼はその事故を目撃した。",
       "furigana": "[彼|かれ]はその[事故|じ|こ]を[目撃|もく|げき]した。",
-      "translation_zh_CN": "他目擊了那件意外。"
+      "translation_zh_CN": "他目击了那件意外。"
     },
     {
       "content": "最初の攻撃は目標を外れた。",
@@ -149,7 +149,7 @@
     {
       "content": "ロンドンは数回爆撃を受けた。",
       "furigana": "ロンドンは[数|すう][回|かい][爆撃|ばく|げき]を[受|う]けた。",
-      "translation_zh_CN": "倫敦被轟炸過許多次。"
+      "translation_zh_CN": "伦敦被轰炸过许多次。"
     }
   ],
   "usages": [

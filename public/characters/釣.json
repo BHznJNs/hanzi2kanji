@@ -103,17 +103,17 @@
     {
       "content": "海老で鯛を釣る。",
       "furigana": "[海老|えび]で[鯛|たい]を[釣|つ]る。",
-      "translation_zh_CN": "丟鲱鱼抓鯨魚。"
+      "translation_zh_CN": "丢鲱鱼抓鲸鱼。"
     },
     {
       "content": "彼は釣りが好きだ。",
       "furigana": "[彼|かれ]は[釣|つ]りが[好|す]きだ。",
-      "translation_zh_CN": "他喜歡釣魚。"
+      "translation_zh_CN": "他喜欢钓鱼。"
     },
     {
       "content": "父は釣りに行った。",
       "furigana": "[父|ちち]は[釣|つ]りに[行|い]った。",
-      "translation_zh_CN": "我父親去釣魚了。"
+      "translation_zh_CN": "我父亲去钓鱼了。"
     },
     {
       "content": "お釣りは取っといて！",
@@ -143,12 +143,12 @@
     {
       "content": "彼とはよく釣りに行った。",
       "furigana": "[彼|かれ]とはよく[釣|つ]りに[行|い]った。",
-      "translation_zh_CN": "我經常和他去釣魚。"
+      "translation_zh_CN": "我经常和他去钓鱼。"
     },
     {
       "content": "彼女は釣りが大好きです。",
       "furigana": "[彼女|かの|じょ]は[釣|つ]りが[大好|だい|す]きです。",
-      "translation_zh_CN": "她酷愛釣魚。"
+      "translation_zh_CN": "她酷爱钓鱼。"
     }
   ],
   "usages": [

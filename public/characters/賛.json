@@ -132,7 +132,7 @@
     {
       "content": "彼の意見に賛成です。",
       "furigana": "[彼|かれ]の[意見|い|けん]に[賛成|さん|せい]です。",
-      "translation_zh_CN": "我同意他的觀點。"
+      "translation_zh_CN": "我同意他的观点。"
     },
     {
       "content": "私はあなたに賛成だ。",
@@ -142,17 +142,17 @@
     {
       "content": "彼は私の意見に賛成だ。",
       "furigana": "[彼|かれ]は[私|わたし]の[意見|い|けん]に[賛成|さん|せい]だ。",
-      "translation_zh_CN": "他同意我的意見。"
+      "translation_zh_CN": "他同意我的意见。"
     },
     {
       "content": "私はその意見に賛成だ。",
       "furigana": "[私|わたし]はその[意見|い|けん]に[賛成|さん|せい]だ。",
-      "translation_zh_CN": "我同意那個意見。"
+      "translation_zh_CN": "我同意那个意见。"
     },
     {
       "content": "君の計画に賛成するよ。",
       "furigana": "[君|きみ]の[計画|けい|かく]に[賛成|さん|せい]するよ。",
-      "translation_zh_CN": "我贊成你的計劃。"
+      "translation_zh_CN": "我赞成你的计划。"
     },
     {
       "content": "彼には賛成できません。",

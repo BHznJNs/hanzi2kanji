@@ -144,7 +144,7 @@
     {
       "content": "授業に遅れるよ。",
       "furigana": "[授業|じゅ|ぎょう]に[遅|おく]れるよ。",
-      "translation_zh_CN": "你上課會遲到的。"
+      "translation_zh_CN": "你上课会迟到的。"
     },
     {
       "content": "何人か遅刻した。",
@@ -154,7 +154,7 @@
     {
       "content": "雨で私は遅れた。",
       "furigana": "[雨|あめ]で[私|わたし]は[遅|おく]れた。",
-      "translation_zh_CN": "我因為這場雨而遲到了。"
+      "translation_zh_CN": "我因为这场雨而迟到了。"
     },
     {
       "content": "いまさら遅いよ。",
@@ -184,7 +184,7 @@
     {
       "content": "遅刻はしないよな？",
       "furigana": "[遅刻|ち|こく]はしないよな？",
-      "translation_zh_CN": "你不會遲到，是嗎？"
+      "translation_zh_CN": "你不会迟到，是吗？"
     }
   ],
   "usages": [

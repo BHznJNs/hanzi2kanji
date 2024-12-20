@@ -164,7 +164,7 @@
     {
       "content": "彼は真実を話した。",
       "furigana": "[彼|かれ]は[真実|しん|じつ]を[話|はな]した。",
-      "translation_zh_CN": "他說了實話。"
+      "translation_zh_CN": "他说了实话。"
     },
     {
       "content": "真実を言うべきだ。",
@@ -174,7 +174,7 @@
     {
       "content": "実験は成功だった。",
       "furigana": "[実験|じっ|けん]は[成功|せい|こう]だった。",
-      "translation_zh_CN": "這實驗是成功的。"
+      "translation_zh_CN": "这实验是成功的。"
     },
     {
       "content": "我々は実在しますか？",
@@ -184,7 +184,7 @@
     {
       "content": "この方法は確実だ。",
       "furigana": "この[方法|ほう|ほう]は[確実|かく|じつ]だ。",
-      "translation_zh_CN": "這個方法一定會成功。"
+      "translation_zh_CN": "这个方法一定会成功。"
     },
     {
       "content": "真実はただひとつ。",
@@ -194,17 +194,17 @@
     {
       "content": "実際は何があったの？",
       "furigana": "[実際|じっ|さい]は[何|なに]があったの？",
-      "translation_zh_CN": "到底發生了什麽事。"
+      "translation_zh_CN": "到底发生了什么事。"
     },
     {
       "content": "彼女は実にいい子だ。",
       "furigana": "[彼女|かの|じょ]は[実|じつ]にいい[子|こ]だ。",
-      "translation_zh_CN": "她真是個好姑娘。"
+      "translation_zh_CN": "她真是个好姑娘。"
     },
     {
       "content": "実際に何が起こったの？",
       "furigana": "[実際|じっ|さい]に[何|なに]が[起|お]こったの？",
-      "translation_zh_CN": "到底發生了什麽事。"
+      "translation_zh_CN": "到底发生了什么事。"
     }
   ],
   "usages": [
