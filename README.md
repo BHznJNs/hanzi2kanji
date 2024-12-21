@@ -18,6 +18,7 @@ __刚好，这就是你梦寐以求的解决方案❗__
 ## ⚡ 使用
 
 在线地址：[https://hanzi2kanji.zeabur.app/](https://hanzi2kanji.zeabur.app/)
+
 备用地址：[https://hanzi2kanji.maozi.io/](https://hanzi2kanji.maozi.io/)
 
 ## ✨ 特点
